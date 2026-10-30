@@ -1,0 +1,225 @@
+{{short description|none}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Delaware House of Representatives election}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives election in Delaware's at-large district
+| country = Delaware
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives election in Delaware
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives election in Delaware
+| next_year = 2028
+| turnout = 
+| image_size = 
+| image1 = Representative Sarah McBride Official Portrait (slight crop).jpg
+| nominee1 = [[Sarah McBride]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Joseph Arminio
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 =
+| map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 United States House of Representatives election in Delaware results map by county.svg|110px]] |County results}}-->
+| map_caption        = 
+| title = U.S. Representative
+| before_election = [[Sarah McBride]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+The '''2026 United States House of Representatives election in Delaware''' will be held on November 3, 2026, to elect a member of the [[United States House of Representatives]] to represent the [[U.S. state|state]] of [[Delaware]] from its {{ushr|DE|AL|D}}. The election coincides with [[2026 United States House of Representatives elections|other elections]] to the U.S. House, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various other [[2026 United States elections|state and local elections]]. Primary elections took place on September 15, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+
+Incumbent [[Democratic Party (United States)|Democratic]] representative [[Sarah McBride]] was elected in [[2024 United States House of Representatives election in Delaware|2024]] with 57.9% of the vote.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+==Democratic primary==
+=== Candidates ===
+==== Nominee ====
+*[[Sarah McBride]], incumbent U.S. Representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848792 |url=https://docquery.fec.gov/cgi-bin/forms/H4DE00045/1848792/ |access-date=2025-09-27 |website=docquery.fec.gov}}</ref><ref>{{cite news |last1=Baker |first1=Alyssa |title=McBride launches reelection bid after 57-stop Delaware tour |url=https://www.coasttv.com/news/mcbride-launches-reelection-bid-after-57-stop-delaware-tour/article_6baebb5c-b81c-403d-b12d-6b6a0c751799.html |access-date=June 16, 2026 |work=CoastTV |date=June 16, 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Sarah McBride
+|colwidth = 
+|list=
+;U.S. senators
+*[[Chris Coons]], [[Delaware]] (2010–present)<ref name="Coons">{{cite web |last1=Baker |first1=Alyssa |title=McBride launches reelection bid after 57-stop Delaware tour |url=https://www.wdel.com/news/mcbride-launches-reelection-bid-after-57-stop-delaware-tour/article_8cfb54d2-51d5-5bee-ac24-98da0a208799.html#/questions |website=WDEL |access-date=19 August 2026 |date=June 16, 2026}}</ref>
+
+;Statewide officials
+*[[Matt Meyer]], [[governor of Delaware]] (2025–present)<ref name="Coons" />
+
+;Political parties
+*[[Delaware Democratic Party]]<ref>{{cite web |title=Delaware Democratic Party Endorsements |url=https://bluevoterguide.org/endorser-org/Delaware_Democratic_Party/DE/4755 |website=Blue Voter Guide}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Endorses Delaware’s Chris Coons and Sarah McBride for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-delawares-chris-coons-and-sarah-mcbride-for-reelection-to-congress/ |website=American Federation of Government Employees |access-date=19 August 2026 |date=August 13, 2026}}</ref>
+
+;Organizations
+*[[Advocates for Trans Equality]]<ref>{{cite web|title=Endorsements |url=https://transequality.org/elections/endorsements|access-date=June 18, 2026 |work=Advocates for Trans Equality}}</ref>
+*[[Brady Campaign|Brady PAC]]<ref name="Brady">{{cite web |title=Brady PAC Endorses 23 Incumbents Ready to Save Lives in the Next Congress |url=https://bradypac.org/brady-pac-endorses-23-incumbents-ready-to-save-lives-in-the-next-congress/ |website=Brady PAC |access-date=19 August 2026 |date=June 9, 2026}}</ref>
+*[[Christopher Street Project]]<ref name="CSP">{{cite web |title=Champions |url=https://christopherstreetproject.org/champions/ |website=Christopher Street Project |access-date=27 November 2025}}</ref>
+*[[Congressional Equality Caucus|Equality PAC]]<ref>{{cite web |title=2026 Endorsed LGBTQ Candidates |url=https://lgbtequalitypac.org/endorsements/ |website=Equality PAC |access-date=26 November 2025}}</ref>
+*[[Everytown for Gun Safety]]<ref name="Everytown">{{cite web |title=Everytown for Gun Safety Action Fund Announces First Round of 2026 US House Endorsements, Backing 13 Moms Demand Action Volunteers and Everytown Leaders |url=https://www.everytown.org/press/everytown-for-gun-safety-action-fund-announces-first-round-of-2026-us-house-endorsements-backing-13-moms-demand-action-volunteers-and-everytown-leaders/ |website=Everytown for Gun Safety |access-date=19 August 2026 |date=May 8, 2026}}</ref>
+*[[Giffords]]<ref name="Giffords">{{cite web |title=Sarah McBride |url=https://giffords.org/candidates/sarah-mcbride-2/ |website=Giffords |access-date=19 August 2026}}</ref>
+*[[Human Rights Campaign]]<ref name=HRC>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements |website=JDCA}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[J Street]]<ref>{{cite web |title=Sarah McBride |url=https://jstreetpac.org/candidate/sarah-mcbride |website=J Street PAC}}</ref>
+*[[LGBTQ+ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-jolanda-jones-sarah-mcbride-for-the-u-s-house-2025-state-and-local-candidates/|title=LGBTQ+ Victory Fund Endorses Jolanda Jones & Sarah McBride for the U.S. House, 2025 State and Local Candidates|date=July 29, 2025|access-date=August 3, 2025}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=2025-2026 Endorsements |url=https://www.lcv.org/endorsements/ |website=League of Conservation Voters |access-date=13 November 2025}}</ref>
+*[[LPAC]]<ref>{{cite web |title=Endorsed Candidates |url=https://www.teamlpac.com/endorsed-candidates-index |website=LPAC |access-date=26 November 2025}}</ref>
+*[[National Organization for Women|National Organization for Women PAC]]<ref name="NOW">{{cite web |title=2026 Federal Endorsements |url=https://nowpac.org/2026-federal-endorsements/ |website=National Organization for Women PAC |access-date=19 August 2026}}</ref>
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=[[National Women's Political Caucus]] |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates/ |access-date=22 October 2026 |archive-date=25 July 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=13 November 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Endorsements |url=https://reproductivefreedomforall.org/elections/?state_tax=38&race=all |website=Reproductive Freedom for All |access-date=13 November 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 26, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sarah McBride (D)
+|$5,060,925
+|$2,567,850
+|$2,700,202
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC">{{cite web |title=2026 Election United States House - Delaware - District 00 |url=https://www.fec.gov/data/elections/house/DE/00/2026/ |website=FEC.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref>
+|}
+
+==Republican primary==
+=== Candidates ===
+==== Nominee ====
+*Joseph Arminio, medical doctor and candidate for [[Maryland's 1st congressional district]] in [[2008 United States House of Representatives elections in Maryland|2008]]<ref>{{cite web|url=https://www.wmdt.com/2026/09/arminio-wins-republican-nomination-for-delawares-at-large-congressional-district/|title=Arminio Wins Republican Nomination for Delaware’s At-Large Congressional District|first=Sophia|last=Peters|date=September 15, 2026|access-date=October 17, 2026|website=[[WMDT]]}}</ref><ref name=":0">{{Cite web |title=Department of Elections - State of Delaware|url=https://elections.delaware.gov/candidates/candidatelist/prim_fcddt_2026.html|access-date=2026-07-14|website=elections.delaware.gov}}</ref>
+
+==== Eliminated in primary ====
+*Earl Cooper, Democratic candidate for this seat in [[2024 United States House of Representatives election in Delaware|2024]]<ref name=":0" />
+*John J. Whalen, retired business owner and nominee for this seat in [[2024 United States House of Representatives election in Delaware|2024]]<ref name=":0" />
+
+==== Withdrawn ====
+*Lee Murphy, nominee for this seat in [[2020 United States House of Representatives election in Delaware|2020]] and [[2022 United States House of Representatives election in Delaware|2022]]<ref name=":0" />
+
+==== Did not file ====
+*Donyale Hall, general contractor, nominee for [[Lieutenant Governor of Delaware|lieutenant governor]] in [[2020 Delaware lieutenant gubernatorial election|2020]] and candidate for this seat in [[2024 United States House of Representatives election in Delaware|2024]]<ref name=":0" />
+
+===Endorsements===
+{{Endorsements box
+|title=Earl Cooper
+|list=
+;Political parties
+*[[Delaware Republican Party]]<ref name="DelReps">{{cite web |last1=Fowser |first1=Mark |title=Del. Republican delegates endorse several candidates for statewide office |url=https://www.wdel.com/news/del-republican-delegates-endorse-several-candidates-for-statewide-office/article_13d196ce-cd31-4a63-8521-ad9042adad1b.html#/questions |website=WDEL |access-date=19 August 2026 |date=April 27, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 26, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Joseph Arminio (R)
+|$6,634
+|$4,453
+|$2,181
+|-
+|{{party shading/Republican}}|''Donyale Hall'' (R)
+|$779
+|$539
+|$240
+|-
+|{{party shading/Republican}}|John Whalen (R)
+|$1,589
+|$3,779
+|$5,555
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC"/>
+|}
+
+===Results===
+[[File:2026 United States House of Representatives Republican primary election in Delaware results map by county.svg|thumb|110px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Arminio}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Joseph Arminio
+ | votes= 18,629
+ | percentage= 47.9
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=John J. Whalen
+ | votes= 12,523
+ | percentage= 32.2
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Earl Cooper
+ | votes= 7,772
+ | percentage= 19.9
+}}
+{{Election box total no change
+ | votes= 38,924
+ | percentage= 100.0}}
+{{Election box end}}
+
+==General election==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|April 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|April 17, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|-
+|align=left | ''[[The Economist]]''<ref name="Econ">{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=May 6, 2026 |website=[[The Economist]] |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|May 6, 2026
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+;Official campaign sites
+*[https://drjoeforcongress.com/ Joseph Arminio (R)]
+*[https://www.sarahmcbride.com/ Sarah McBride (D)]
+
+{{2026 United States elections}}
+
+[[Category:2026 elections in Delaware|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Delaware]]
+[[Category:United States House of Representatives elections in Delaware|2026]]

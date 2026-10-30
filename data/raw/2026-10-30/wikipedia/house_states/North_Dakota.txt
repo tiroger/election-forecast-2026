@@ -1,0 +1,234 @@
+{{Short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 North Dakota House of Representatives election}}
+{{Use American English|date=February 2026}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{use mdy dates|date=June 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives election in North Dakota's at-large district
+| country = North Dakota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives election in North Dakota
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives election in North Dakota
+| next_year = 2028
+| turnout = 
+| image1 = Rep. Julie Fedorchak official photo, 119th Congress (cropped).jpg
+| nominee1 = [[Julie Fedorchak]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Trygve Hammer
+| party2 = North Dakota Democratic–Nonpartisan League Party
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 250px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Julie Fedorchak]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{Elections in North Dakota sidebar}}
+The '''2026 United States House of Representatives election in North Dakota''' is scheduled to be held on November 3, 2026, to elect a member of the [[United States House of Representatives]] to represent the [[U.S. state|state]] of [[North Dakota]] from its {{ushr|ND|AL|D}}. The election will coincide with [[2026 North Dakota elections|other elections]] held on the same date. The primary elections were held on June 9, 2026.<ref>{{Cite web |title=North Dakota 2026 General Election |url=https://www.thegreenpapers.com/G26/ND |access-date=2025-06-10 |website=thegreenpapers.com}}</ref>
+
+[[Republican Party (United States)|Republican]] [[Julie Fedorchak]] was elected with 69.24% of the vote in 2024 against [[North Dakota Democratic–Nonpartisan League Party|Democratic–NPL]] challenger Trygve Hammer. It will be a rematch of the 2024 House of Representatives election.
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Julie Fedorchak]], incumbent U.S. representative<ref>{{cite web |last=Janke |first=Ryan |title=Fedorchak officially launches re-election campaign |url=https://kfgo.com/2026/01/05/1241880/ |access-date=January 5, 2026 |work=[[KFGO (AM)|KFGO]] |date=January 5, 2026}}</ref><ref name=":0">{{Cite web |title=2026 Primary Election Contest/Candidate List |url=https://vip.sos.nd.gov/candidatelist.aspx?eid=346 |access-date=2026-04-07 |website=vip.sos.nd.gov}}</ref>
+==== Eliminated in primary ====
+*Alex Balazs, former [[U.S. State Department]] protect manager and candidate for this district in [[2024 United States House of Representatives election in North Dakota|2024]]<ref name=":0"/><ref>{{cite web |last=Segal |first=Edward |title=Alex Balazs announces candidacy for North Dakota’s seat in U.S. House |url=https://www.kxnet.com/your-local-election-headquarters/balazs-challenges-fedorchak-2026/ |access-date=December 18, 2025 |work=[[KX News]] |date=December 18, 2025}}</ref>
+==== Disqualified ====
+*Ferris Broxton, Businessman from [[Minot, North Dakota|Minot]]<ref>https://www.minotdailynews.com/news/local-news/2026/01/minot-businessman-announces-campaign-for-us-house</ref>
+===Endorsements===
+{{Endorsements box
+| title = Alex Balazs
+| width = 37em
+| list =
+'''Political Parties'''
+*[[North Dakota Republican Party]]<ref>{{Cite web |date=2026-03-28 |title=2026 North Dakota Republican Convention coverage |url=https://www.kfyrtv.com/2026/03/28/2026-north-dakota-republican-convention-coverage/ |access-date=2026-07-04 |website=kfyrtv.com |language=en}}</ref>
+}}
+
+{{Endorsements box
+| title = Julie Fedorchak
+| width = 37em
+| list =
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021; 2025–present)<ref>{{cite web |last=Miller |first=Lindsey |title=BREAKING: Pres. Trump endorses Rep. Julie Fedorchak for second term |url=https://www.kfyrtv.com/2025/08/19/breaking-pres-trump-endorses-rep-julie-fedorchak-second-term |website=KFYR TV |access-date=November 20, 2025 |language=en |date=August 19, 2025}}</ref>
+}}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 20, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Julie Fedorchak (R)
+|$1,487,812
+|$702,936
+|$1,114,204
+|-
+|{{party shading/Republican}}|Alex Balazs (R)
+|$23,631
+|$17,936
+|$5,695
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - North Dakota |url=https://www.fec.gov/data/elections/house/ND/00/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 5, 2026}}</ref></small>
+|}
+
+=== Results ===
+[[File:2026 United States House of Representatives Republican primary in North Dakota results map by county.svg|thumb|250px|Unofficial primary results by county:
+{{collapsible list
+| title = {{legend|#ed8783|Fedorchak}}|{{legend|#e55651|60–70%}}|{{legend|#d02923|70–80%}}|{{legend|#b00600|80–90%}}}}
+{{collapsible list
+| title = {{legend|#81d0d0|Balazs}}|{{legend|#53bfbf|60–70%}}}}
+]]
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Julie Fedorchak]] (incumbent)|votes=59,719|percentage=72.9}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Alex Balazs|votes=22,196|percentage=27.1}}
+{{Election box total no change|votes=81,915|percentage=100.0}}
+{{Election box end}}
+
+== Democratic–NPL primary ==
+=== Candidates ===
+==== Nominee ====
+*Trygve Hammer, teacher and nominee for this district in [[2024 United States House of Representatives election in North Dakota|2024]]<ref name=":0"/><ref>{{cite web |last=Fry |first=Devin |title=Trygve Hammer launches second bid for North Dakota’s U.S. House seat |url=https://www.valleynewslive.com/2026/01/19/trygve-hammer-launches-second-bid-north-dakotas-us-house-seat/ |access-date=January 19, 2026 |work=[[Valley News Live]] |date=January 19, 2026}}</ref>
+
+==== Withdrawn ====
+*Vern Thompson, former [[North Dakota Senate|state senator]] from the 12th district (1997–2000) ''([[2026 North Dakota Agriculture Commissioner election|running for agriculture commissioner]])''<ref>{{Cite web |last=Achterling |first=Michael |date=2026-03-20 |title=Former Democratic lawmaker announces campaign for North Dakota agriculture commissioner • North Dakota Monitor |url=https://northdakotamonitor.com/2026/03/20/vern-thompson-placeholder/ |access-date=2026-03-25 |website=North Dakota Monitor |language=en-US}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+| title = Trygve Hammer
+| width = 37em
+| list =
+'''Political parties'''
+*[[North Dakota Democratic–Nonpartisan League]]<ref>{{cite web |last=Coursey |first=Grant |title=North Dakota Democrats endorse Trygve Hammer in House race, set statewide nominees |url=https://www.inforum.com/news/north-dakota/north-dakota-democrats-endorse-trygve-hammer-in-house-race-set-statewide-nominees |website=InForum |access-date=12 March 2026 |language=en |date=7 March 2026}}</ref>
+}}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of May 20, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Trygve Hammer (D–NPL)
+|$126,864
+|$82,463
+|$44,401
+|-
+|{{party shading/Democratic}}|''Vern Thompson (D–NPL)''
+|$3,145
+|$3,145
+|$0
+|-
+| colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+=== Results ===
+{{Election box begin no change |title=Democratic–NPL primary results}}
+{{Election box winning candidate with party link no change|party=North Dakota Democratic–Nonpartisan League Party|candidate=Trygve Hammer|votes=34,604|percentage=100.0}}
+{{Election box total no change|votes=34,604|percentage=100.0}}
+{{Election box end}}
+
+== Independent candidates ==
+===Declared===
+*Helene Neville, nurse<ref>https://ballotpedia.org/Helene_Neville</ref><ref>{{Cite web |title=FEC Form 2 for Report FEC-1972476 |url=https://docquery.fec.gov/cgi-bin/forms/H6ND01056/1972476/ |access-date=2026-06-22 |website=docquery.fec.gov}}</ref>
+*Charles Tuttle, Republican activist and perennial candidate<ref>{{Cite web |last=Mathisen |first=Joshua |date=2026-06-17 |title=Charles Tuttle challenging Rep. Julie Fedorchak for seat in Congress |url=https://www.kxnet.com/north-dakota-news/charles-tuttle-challenging-rep-julie-fedorchak-for-seat-in-congress/ |access-date=2026-07-04 |website=kxnet.com}}</ref>
+
+== General election ==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Julie Fedorchak (R)
+|$1,730,633
+|$1,004,420
+|$1,055,571
+|-
+|{{party shading/Democratic}}| Trygve Hammer (D-NPL)
+|$190,064
+|$122,672
+|$67,391
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+=== Results ===
+{{Election box begin |title=2026 United States House of Representatives election in North Dakota}}
+{{Election box candidate with party link
+ |party      = Republican Party (United States)
+ |candidate  = [[Julie Fedorchak]] (incumbent)
+ |votes      =  
+ |percentage = 
+ |change     = 
+}}{{Election box candidate with party link
+ |party      = North Dakota Democratic–Nonpartisan League Party
+ |candidate  = Trygve Hammer
+ |votes      = 
+ |percentage = 
+ |change     = 
+}}{{Election box write-in with party link
+ |votes      =
+ |percentage = 
+ |change     = 
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites'''
+*[https://fedorchaknd.com/ Julie Fedorchak (R)]
+*[https://www.hammerfornd.com/ Trygve Hammer (D–NPL)]
+*[https://heleneforcongress.com/ Helene Neville (I)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in North Dakota|2026]]
+[[Category:2026 United States House of Representatives elections|North Dakota]]
+[[Category:2026 elections in North Dakota|United States House of Representatives]]

@@ -1,0 +1,2298 @@
+{{Short description|none}}<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Minnesota House of Representatives election}}
+{{Use American English|date=February 2026}}
+
+{{Use mdy dates|date=January 2026}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Minnesota
+| country = Minnesota
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives elections in Minnesota
+| next_year = 2028
+| seats_for_election = All 8 Minnesota seats to the [[United States House of Representatives]]
+| turnout = 
+| party1 = Minnesota Democratic–Farmer–Labor Party
+| last_election1 = 
+| seats_before1 = 4
+| seats1 = 
+| seat_change1 = 
+| popular_vote1 = 
+| percentage1 = 
+| swing1 = 
+| party2 = Republican Party (United States)
+| last_election2 = 
+| seats_before2 = 4
+| seats2 = 
+| seat_change2 = 
+| popular_vote2 = 
+| percentage2 = 
+| swing2 = 
+| flag_image = Flag of Minnesota (2023 redesign).svg
+}}
+{{ElectionsMN}}
+The '''2026 United States House of Representatives elections in Minnesota''' will be held on November 3, 2026, to elect the 8 [[United States House of Representatives|U.S. representatives]] from the [[U.S. state|state]] of [[Minnesota]], one from each of the state's [[Minnesota's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. Primary elections were held August 11, 2026.<ref name="calendar">{{cite web|title=Elections Calendar|url=https://www.sos.state.mn.us/election-administration-campaigns/elections-calendar/|website=Minnesota Secretary of State|access-date=February 14, 2025}}</ref>
+
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |DFL
+! style="width:100px;" |Republican
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[The New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Minnesota |url=https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html |publisher=[[The New York Times]] |access-date=October 29, 2026 |date=October 28, 2026}}</ref>
+|October 19–26, 2026
+|752 (LV)
+|±&nbsp;4.1%
+| {{party shading/DFL}} |'''55%'''
+|38%
+|<0.5%{{Efn|"The third-party candidate" with <0.5%}}
+|6%
+|-
+|rowspan="2" style="text-align:left;"|Big Data Poll<ref>{{cite web |title=North Star State Poll: Peggy Flanagan Holds Slight Lead Over Michele Tafoya for U.S. Senate in Minnesota |url=https://www.bigdatapoll.com/blog/north-star-state-poll-peggy-flanagan-holds-slight-lead-over-michele-tafoya-for-us-senate-in-minnesota/ |publisher=Big Data Poll |access-date=October 3, 2026 |date=October 2, 2026}}</ref>
+|rowspan="2"|September 29–30, 2026
+|rowspan="2"|622 (LV)
+|rowspan="2"|±&nbsp;4.0%
+| {{party shading/DFL}} |'''47%'''
+|37%
+|4%{{Efn|"Someone else/third party" with 4%}}
+|12%
+|-
+| {{party shading/DFL}} |'''50%'''{{Efn|name=lean|With voters who lean towards a given candidate}}
+|40%
+|colspan="2"|10%
+|}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Minnesota's 1st congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 1
+| next_year = 2028
+| image1 = File:Rep. Brad Finstad (R-MN), Official Portrait, 119th Congress (head crop).jpg
+| nominee1 = [[Brad Finstad]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Jake Johnson
+| party2 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Brad Finstad]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 1st congressional district}}
+The 1st district stretches across southern Minnesota from its borders with [[South Dakota]] to [[Wisconsin]], and includes the cities of [[Rochester, Minnesota|Rochester]], [[Mankato, Minnesota|Mankato]], [[Winona, Minnesota|Winona]], [[Austin, Minnesota|Austin]], [[Owatonna, Minnesota|Owatonna]], [[Albert Lea, Minnesota|Albert Lea]], [[New Ulm, Minnesota|New Ulm]], and [[Worthington, Minnesota|Worthington]]. The incumbent is Republican [[Brad Finstad]], who was re-elected with 58.5% of the vote in 2024. Democrats have not won this seat in an election since 2016. 
+
+===Republican primary===
+====Nominee====
+*[[Brad Finstad]], incumbent U.S. representative<ref>{{cite news|last1=Keegan|first1=Mitch|title=Congressman Brad Finstad announced bid to seek re-election in 2026|url=https://www.keyc.com/2025/03/10/congressman-brad-finstad-announced-bid-seek-re-election-2026/|access-date=March 10, 2025|work=[[KEYC-TV]]|date=March 10, 2025|language=en}}</ref>
+====Eliminated in primary====
+*Greg Goetzman, candidate for this district in [[2024 United States House of Representatives elections in Minnesota#District 1|2024]]<ref>{{Cite web|title=Minnesota Secretary of State Candidate Filings - Greg Goetzman|url=https://candidates.sos.mn.gov/CandidateInformation.aspx?county=0&municipality=0&schooldistrict=0&hospitaldistrict=0&level=1&party=0&federal=True&judicial=False&executive=False&senate=False&representative=False&title=&office=0&candidateid=65713|access-date=June 11, 2026|date=June 1, 2026}}</ref>
+*Oliver Morlan, small business owner<ref>{{Cite web|title=Minnesota Secretary of State Candidate Filings - Oliver Morlan|url=https://candidates.sos.mn.gov/CandidateInformation.aspx?county=0&municipality=0&schooldistrict=0&hospitaldistrict=0&level=1&party=0&federal=True&judicial=False&executive=False&senate=False&representative=False&title=&office=0&candidateid=64228|access-date=June 11, 2026|date=May 19, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Brad Finstad
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump">{{cite web|last1=Kramer|first1=Ethan|title=Trump endorses four Minnesota Republican House members for re-election in 2026|url=https://www.valleynewslive.com/2025/11/04/trump-endorses-four-minnesota-republican-house-members-re-election-2026/|website=Valley News|access-date=December 4, 2025|language=en|date=November 4, 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 12, 2026}}</ref>
+
+;Political parties
+*[[Republican Party of Minnesota]]<ref>{{Cite tweet|user=mngop|number=2043142313291940325|author=Republican Party of Minnesota|title=We're thrilled about the unanimous endorsement of Rep. Brad Finstad! This means two more years of truly reasonable Minnesota values.}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Brad Finstad (R)
+|$2,030,569
+|$808,055
+|$1,283,923
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web|title=2026 Election United States House - Minnesota 1st|url=https://www.fec.gov/data/elections/house/MN/01/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{switcher
+|[[File:MN CD1 Rep County 2026.svg|thumb|300px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Finstad}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+]]
+|County results
+|[[File:MN CD1 Rep 2026.svg|thumb|300px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Finstad}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Goetzman}}
+|{{legend|#6e3b00|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#47CC9D|Morlan}}
+|{{legend|#2CB283|60–70%}}
+|{{legend|#07452F|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Brad Finstad]] (incumbent)|votes=50,523|percentage=90.1}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Greg Goetzman|votes=2,907|percentage=5.2}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Oliver Morlan|votes=2,624|percentage=4.7}}
+{{Election box total no change|votes=56,054|percentage=100.0}}
+{{Election box end}}
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*Jake Johnson, high school teacher<ref>{{cite news|last1=Shearer|first1=Jordan|title=Mayo High School teacher Jake Johnson announces campaign for U.S. Congress|url=https://www.postbulletin.com/news/local/mayo-high-school-teacher-jake-johnson-announces-campaign-for-u-s-congress|access-date=April 17, 2025|work=[[Post-Bulletin]]|date=April 17, 2025|language=en}}</ref>
+====Eliminated in primary====
+*Alex Eaton, real-estate company owner<ref>{{Cite web|title=Minnesota Secretary of State Candidate Filings - Alex Eaton|url=https://candidates.sos.mn.gov/CandidateInformation.aspx?county=0&municipality=0&schooldistrict=0&hospitaldistrict=0&level=1&party=0&federal=True&judicial=False&executive=False&senate=False&representative=False&title=&office=0&candidateid=65985|access-date=June 11, 2026|date=June 2, 2026}}</ref>
+
+====Declined====
+*[[Andy Smith (Minnesota politician)|Andy Smith]], [[Minnesota House of Representatives|state representative]] from district 25B (2023–present) ''(endorsed Johnson)''<ref>{{Cite web|title=Statement of Candidacy|url=https://docquery.fec.gov/cgi-bin/forms/H6MN01208/1889774/}} April 21, 2025</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jake Johnson
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|U.S. secretary of transportation]] (2021–2025)<ref>{{cite web|last1=Van Oot|first1=Torey|title=Trail mix: Mayor Pete's Minnesota battleground endorsement|url=https://www.axios.com/local/twin-cities/2026/06/03/buttigieg-minnesota-governor-primary-republicans-chauvin|website=Axios Twin Cities|publisher=Axios|access-date=June 3, 2026}}</ref>
+;U.S. senators
+*[[Tina Smith]], [[Minnesota]] (2018–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+;U.S. representatives
+*[[Chris Deluzio]], [[Pennsylvania's 17th congressional district|PA-17]] (2023–present)<ref name="ETrack"/>
+*[[Pat Ryan (politician)|Pat Ryan]], [[New York's 18th congressional district|NY-18]] (2022–present)<ref name="ETrack"/>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="ETrack"/>
+;Statewide officials
+*[[Arne Carlson]], former [[Governor of Minnesota|governor of Minnesota]] (1991–1999) ''(Republican)''<ref>{{cite web|last1=Kashiwagi|first1=Sydney|title=Former GOP Gov. Arne Carlson backs Democrat in southern Minnesota’s U.S. House race|url=https://www.startribune.com/former-gop-gov-arne-carlson-backs-democrat-in-southern-minnesotas-us-house-race/601868429|website=The Minnesota Star Tribune|publisher=The Minnesota Star Tribune|access-date=July 16, 2026}}</ref>
+*[[Tim Walz]], [[Governor of Minnesota|governor of Minnesota]] (2019–present) and former [[United States House of Representatives|U.S. representative]] from [[Minnesota's 1st congressional district|MN-01]] (2007–2019)<ref name="ETrack"/>
+
+;Labor unions
+*[[American Federation of State, County and Municipal Employees]]<ref>{{cite web|title=AFSCME 2026 Candidate Endorsements|url=https://afscmemn.org/election|website=AFSCME Council 5|publisher=AFSCME|access-date=June 21, 2026}}</ref>
+*[[Education Minnesota]]<ref>{{cite web|title=Education Minnesota 2026 Vote Guide|url=https://www.edmnvotes.org/voter-guide/|website=EDMN Votes|publisher=EDMN Votes|access-date=June 21, 2026}}</ref>
+*[[Minnesota Association of Professional Employees]]<ref name=MAPE>{{cite web|title=MAPE PAC Endorsements|url=https://mape.org/mape-pac-endorsements|website=Minnesota Young DFL|access-date=May 21, 2026}}</ref>
+*[[National Education Association]]<ref>{{cite web|title=Our Recommended Candidates|url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/|website=Education Votes|access-date=January 7, 2026}}</ref>
+*[[Service Employees International Union]] Minnesota State Council<ref>{{cite web|title=SEIU 2026 Endorsements|url=https://www.seiumn.org/endorsements/seiu-2026-endorsements|website=SEIU MN|publisher=SEIU MN State Council|access-date=June 21, 2026}}</ref>
+*Minnesota [[AFL-CIO]]<ref name=AFLCIO>{{cite web|title=AFL-CIO 2026 Endorsements|url=https://mnaflcio.org/stpaulunions/news/2026-minnesota-afl-cio-endorsed-candidates|website=AFL-CIO|publisher=AFL-CIO|access-date=July 20, 2026}}</ref>
+
+;Organizations
+*[[314 Action]]<ref>{{cite web|url=https://314action.org/2026/03/31/314-action-fund-endorses-jake-johnson-for-minnesotas-1st-congressional-district/|title=314 Action Fund Endorses Jake Johnson for Minnesota’s 1st Congressional District|website=314action.org|date=March 31, 2026|access-date=April 8, 2026}}</ref>
+*[[Clean Water Action]]<ref name=CleanWaterAction>{{cite web|url=https://cleanwater.org/be-clean-water-voter-2026-minnesota-endorsements|title=Be a Clean Water Voter: 2026 Minnesota Endorsements|website=Clean Water Action|access-date=June 8, 2026}}</ref>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref>{{cite web|title=Jake Johnson Added to DCCC’s Coveted ‘Red to Blue’ Program|url=https://dccc.org/jake-johnson-added-to-dcccs-coveted-red-to-blue-program/|website=DCCC|publisher=DCCC|access-date=July 31, 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite web|title=End Citizens United Endorses Jake Johnson in Minnesota’s 1st Congressional District|url=https://www.endcitizensunited.org/end-citizens-united-endorses-jake-johnson-in-minnesotas-1st-congressional-district|website=endcitizensunited.org|date=May 5, 2026|access-date=May 11, 2026}}</ref>
+*[[League of Conservation Voters]]<ref name="LCV"/>
+*[[Minnesota Young DFL]]<ref name=youngDFL>{{cite web|title=2026 MYDFL-Endorsed Candidates|url=https://www.youngdfl.org/endorsed-candidates|website=Minnesota Young DFL|access-date=May 21, 2026}}</ref>
+*[[50501 movement|Minnesota 50501]]<ref name="MN50501">{{cite web|title=Political Strategy — MN 50501|url=https://mn50501.org/political-strategy/|website=MN50501.org|access-date=May 23, 2026}}</ref>
+*[[New Democrat Coalition|NewDem]] Action Fund<ref>{{cite web|last1=Stanton|first1=Greg|title=New Dems Endorse Four Candidates in Pennsylvania, Texas, California, and Minnesota|url=https://newdemactionfund.com/press-releases/2026/5/11/new-dems-endorse-four-candidates-in-pennsylvania-texas-california-and-minnesota|website=NewDems Action Fund|publisher=NewDems Action Fund|access-date=June 21, 2026}}</ref>
+*[[Natural Resources Defense Council|NRDC]] Action Fund<ref>{{cite web|title=Who We Support|url=https://www.nrdcactionfund.org/who-we-support/|website=NRDC Action Fund|publisher=NRDC|access-date=August 8, 2026}}</ref>
+*[[Planned Parenthood|Planned Parenthood]] Action Fund<ref name="PPAF"/> 
+*[[Reproductive Freedom for All|Reproductive Freedom for All]]<ref name="NARAL"/>
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref name="cd1dfl">{{cite news|last1=Malm|first1=Alex|title=Johnson picks up DFL Congressional endorsement in race against Finstad|url=https://dodgecountyindependent.com/johnson-picks-dfl-congressional-endorsement-race-against-finstad|access-date=May 9, 2026|work=Dodge County Independent|date=May 7, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Jake Johnson (DFL)
+|$2,000,547
+|$988,953
+|$1,011,593
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+{{switcher
+|[[File:MN CD1 Dem County 2026.svg|thumb|300px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Johnson}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+|County results
+|[[File:MN CD1 Dem 2026.svg|thumb|300px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|Johnson}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Eaton}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#165016|90–100%}}
+}}
+{{legend|#AE8BB1|'''50% Tie'''}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Jake Johnson|votes=47,255|percentage=81.7}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Alex Eaton|votes=10,616|percentage=18.3}}
+{{Election box total no change|votes=57,871|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{|class="wikitable"style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web|title=2026 CPR House Race Ratings|url=https://www.cookpolitical.com/house/race/483346|work=[[The Cook Political Report]]|access-date=February 6, 2025}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 16, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web|title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house|publisher=[[Decision Desk HQ]]|access-date=July 15, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 20, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref name="IE Initial">{{cite web|title=2026 House Ratings|url=https://insideelections.com/ratings/house|work=[[Inside Elections]]|access-date=October 20, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 29, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball">{{Cite web|title=2026 House|url=https://centerforpolitics.org/crystalball/2026-house/|work=[[Sabato's Crystal Ball]]|access-date=July 15, 2025|language=en-US}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Brad Finstad (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Radelat, Arola |first1=Ana, Brian |title=Trump, national Democrats making big last-minute ad buys in race between Brad Finstad and Jake Johnson |url=https://www.minnpost.com/elections/2026/10/trump-national-democrats-making-big-last-minute-ad-buys-in-race-between-brad-finstad-and-jake-johnson/ |website=MinnPost |publisher=MinnPost |access-date=29 October 2026}}</ref>
+;Labor unions
+*[[International Union of Operating Engineers]] Local 49<ref name="FinstadUnions">{{cite web |last1=Min |first1=Eric |title=Rep. Brad Finstad visits Rochester, receives endorsements from local unions |url=https://www.kttc.com/2026/09/09/rep-brad-finstad-visits-rochester-receives-endorsements-local-unions/ |website=KTTC |access-date=22 September 2026 |date=September 9, 2026}}</ref>
+*[[United Association|Minnesota Pipe Trades]] Local 6<ref name="FinstadUnions" />
+
+;Organizations
+*[[National Federation of Independent Business]]<ref name="NFIB">{{cite web |title=Minnesota Small Businesses Endorse Pro-Small Business Candidates for Election to the U.S. House of Representatives |url=https://www.nfib.com/news/press-release/minnesota-small-businesses-endorse-pro-small-business-candidates-for-election-to-the-u-s-house-of-representatives/ |website=[[National Federation of Independent Business]] |access-date=22 September 2026 |date=September 9, 2026}}</ref>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-brad-finstad-for-minnesotas-first-district|title=U.S. Chamber Endorses Rep. Brad Finstad for Minnesota’s First District|date=September 10, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Jake Johnson (DFL)
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|U.S. secretary of transportation]] (2021–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+;U.S. senators
+*[[Amy Klobuchar]], [[Minnesota]] (2007–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+*[[Tina Smith]], [[Minnesota]] (2018–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+;U.S. representatives
+*[[Suzan DelBene|Suzan Delbene]], [[Washington's 1st congressional district|WA-01]] (2012–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+*[[Chris Deluzio]], [[Pennsylvania's 17th congressional district|PA-17]] (2023–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-four-new-candidates-ready-to-win-tough-seats/|title=Blue Dog PAC Endorses Four New Candidates Ready to Win Tough Seats|date=September 16, 2026|access-date=September 17, 2026}}</ref>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+;Statewide officials
+*[[Arne Carlson]], former governor of Minnesota (1991–1999) ''([[Republican Party (United States)|Republican]])''<ref name="ETrack">{{cite web|title=2026 Endorsement Tracker|url=https://votehub.com/2026-endorsements|website=VoteHub|language=en}}</ref>
+;Individuals
+*Gerald Woodley, [[Brad Finstad]]'s former campaign chair ''([[Republican Party (United States)|Republican]])''<ref>{{cite web |title=Gerald Woodley Endorses Jake Johnson for Congress |url=https://www.keyc.com/video/2026/08/17/gerald-woodley-endorses-jake-johnson-congress/ |website=KEYC News Now |publisher=KEYC News Now |access-date=18 August 2026}}</ref>
+;Labor unions
+*[[United Steelworkers]] District 11<ref name="FinstadUnions" />
+*United Auto Workers<ref>{{cite web |title=United Auto Workers Endorsements |url=https://uawpower.org/endorsements/your-candidates |website=UAW - Our Endorsements |publisher=United Auto Workers |access-date=13 October 2026}}</ref>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[J Street]]<ref>{{Cite web |title=Jake Johnson|url=https://jstreetpac.org/candidate/jake-johnson/|access-date=September 17, 2026 |publisher=J Street PAC |language=en-US}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Brad Finstad (R)
+|$2,608,655
+|$1,559,616
+|$1,110,449
+|-
+|{{party shading/DFL}}|Jake Johnson (DFL)
+|$3,205,255
+|$2,180,895
+|$1,024,360
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Brad<br />Finstad (R)
+! style="width:100px;" |Jake<br />Johnson (DFL)
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW from @washingtonsun🚨 |url=https://x.com/cjwarnke/status/2112877284684341727 |publisher=[[Twitter]] |access-date=October 22, 2026 |date=October 21, 2026}}</ref>{{efn-ua|name=HMP}}
+|October 13–14, 2026
+|588 (LV)
+|–
+|'''43%'''
+|'''43%'''
+|14%
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref>{{cite web |title=DFL Candidate Edges Republican Incumbent in District Where Trump Defeated Harris by 12-Point Margin: Johnson 46, Finstad 44 in MN-01: |url=https://results.surveyusa.com/client/PollReport.aspx?g=3605b38b-d541-4db4-9d70-f6d4875faeb8 |publisher=[[SurveyUSA]] |access-date=October 13, 2026 |date=October 12, 2026}}</ref>{{efn-ua|Poll sponsored by [[KAAL]]}}
+|October 4–9, 2026
+|565 (LV)
+|±&nbsp;4.6%
+|44%
+|{{party shading/DFL}}|'''46%'''
+|10%
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=New @HouseMajPAC poll in #MN01 ⤵️ |url=https://x.com/cjwarnke/status/2102878578849484963 |publisher=[[Twitter]] |access-date=September 25, 2026 |date=September 23, 2026}}</ref>{{efn-ua|name=HMP| Poll sponsored by House Majority PAC, which is focused on electing Democrats to the U.S. House of Representatives}}
+|September 18–21, 2026
+|500 (LV)
+|{{sdash}}
+|46%
+|{{party shading/DFL}}|'''47%'''
+|7%
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026">{{cite web|url=https://punchbowl.news/wp-content/uploads/CFA_MN-CD-1_Benchmark_Analysis_v1.0_260323.pdf|title=Minnesota Congressional District 1|work=Ragnar Research Partners|date=April 29, 2026|access-date=April 29, 2026|via=''[[Punchbowl News]]''}}</ref>{{efn-ua|name=CFA|Poll commissioned by Conservatives For America, an organization linked to the [[Republican Study Committee]]}}
+|March 12–14, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''52%'''
+|42%
+|6%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite news|last1=Howard|first1=Andrew|title=The big ads from the big game|url=https://www.politico.com/newsletters/weekly-score/2026/02/09/the-big-ads-from-the-big-game-00770981|access-date=February 9, 2026|work=[[Politico]]|date=February 9, 2026|language=en}}</ref>{{efn-ua|name=Johnson|Poll sponsored by Johnson's campaign}}
+|February 2–3, 2026
+|708 (RV)
+|±&nbsp;3.7%
+|{{party shading/Republican}}|'''44%'''
+|41%
+|15%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026"/>{{efn-ua|name=CFA}}
+|March 12–14, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''45%'''
+|40%
+|15%
+|}
+{{hidden end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Minnesota's 2nd congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 2
+| next_year = 2028
+| image1 = 2026Little.jpg
+| nominee1 = [[Matt Little]]
+| party1 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Minnesota State Senator Eric Pratt.jpg
+| nominee2 = [[Eric Pratt]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Angie Craig]]
+| before_party = Minnesota Democratic–Farmer–Labor Party
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 2nd congressional district}}
+The 2nd district is based in the southern [[Twin Cities]] suburbs, including [[Burnsville, Minnesota|Burnsville]], [[Eagan, Minnesota|Eagan]], and [[Lakeville, Minnesota|Lakeville]]. The incumbent is Democrat [[Angie Craig]], who was re-elected with 55.5% of the vote in 2024. Craig retired to [[2026 United States Senate election in Minnesota|run for U.S. Senate in 2026]], losing to Lieutenant Governor Peggy Flanagan in the August 11, 2026, DFL primary election.<ref name="Craig"/>
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*[[Matt Little]], former [[Minnesota Senate|state senator]] from the 58th district (2017–2021)<ref name="LittleAnnounces">{{cite news|last1=Kashiwagi|first1=Sydney|title=Matt Little, former state senator and Lakeville mayor, enters race to replace Rep. Angie Craig|url=https://www.startribune.com/former-state-sen-and-lakeville-mayor-matt-little-enters-race-to-replace-rep-angie-craig/601341721|access-date=April 30, 2025|work=[[Minnesota Star Tribune]]|date=April 30, 2025|language=en}}</ref>
+====Eliminated in primary====
+*Abdisallam Abdulle, educator<ref>{{Cite web|title=FEC Form 2 for Report FEC-1936063|url=https://docquery.fec.gov/cgi-bin/forms/H6MN02289/1936063|access-date=January 28, 2026|website=docquery.fec.gov}}</ref><ref name="cf3">{{Cite web|date=May 19, 2026|title=Candidate Filings|url=https://candidates.sos.mn.gov/CandidateFilingResults.aspx?county=0&municipality=0&schooldistrict=0&hospitaldistrict=0&level=0&party=0&federal=True&judicial=False&executive=True&senate=True&representative=True&title=U.S.+Senator&office=0&candidateid=0|url-status=|archive-url=|archive-date=|access-date=May 29, 2026|website=Candidate Filings}}</ref>
+*[[Kaela Berg]], [[Minnesota House of Representatives|state representative]] from district 55B (2021–present)<ref>{{cite news|work=[[Minnesota Reformer]]|author=Chen, Alyssa|url=https://minnesotareformer.com/briefs/dfl-rep-kaela-berg-announces-campaign-for-2nd-congressional-district/|title=DFL Rep. Kaela Berg announces campaign for 2nd Congressional District|date=October 1, 2025|access-date=October 1, 2025}}</ref>
+*[[Matt Klein]], [[Minnesota Senate|state senator]] from the 53rd district (2017–present)<ref name="Klein">{{cite news|last1=Kashiwagi|first1=Sydney|title=Minnesota state Sen. Matt Klein enters the Second Congressional District race|url=https://www.startribune.com/minnesota-state-sen-matt-klein-enters-the-second-congressional-district-race/601344989|access-date=May 6, 2025|work=[[Minnesota Star Tribune]]|date=May 6, 2025|language=en}}</ref>
+*Hugh McTavish, [[Forward Independence Party|Independence]] nominee for governor in [[2022 Minnesota gubernatorial election|2022]]<ref>{{Cite web|title=FEC Form 2 for Report FEC-1956771|url=https://docquery.fec.gov/cgi-bin/forms/H6MN02297/1956771|access-date=March 31, 2026|website=docquery.fec.gov}}</ref><ref name="cf3" />
+*Christopher Mosel<ref>{{Cite web |title=Unusual Activity Blocked |url=https://minnesotaitservices.mn.gov/?_event_transid=1712899265 |access-date=2026-08-12 |website=minnesotaitservices.mn.gov}}</ref>
+
+====Declined====
+*[[Angie Craig]], incumbent U.S. representative ''([[2026 United States Senate election in Minnesota|ran for U.S. Senate]])''<ref name=Craig>{{Cite web|date=April 29, 2025|title=Rep. Angie Craig launches Senate run in Minnesota ahead of a competitive Democratic primary|url=https://www.nbcnews.com/politics/2026-election/rep-angie-craig-launches-senate-run-minnesota-ahead-competitive-democr-rcna203371|access-date=April 29, 2025|website=NBC News|language=en}}</ref>
+*Mike Norton, former vice chair of the [[Minneapolis]] DFL and candidate for [[Minneapolis City Council]] in [[2021 Minneapolis City Council election#Ward 13|2021]]<ref name=pressure>{{cite web|last1=Kashiwagi|first1=Sydney|title=Pressure mounts as shutdown drags on|url=https://link.email.startribune.com/view/68c22d2298afa925860e1f3cp4u4i.84z/1348d801|publisher=[[Minnesota Star Tribune]]|access-date=October 29, 2025}}</ref>
+*[[Erin Maye Quade]], [[Minnesota Senate|state senator]] from the 56th district (2023–present) and candidate for lieutenant governor in [[2018 Minnesota gubernatorial election|2018]] ''(endorsed Little)''<ref name="8/19 Digest">{{cite news|work=The Downballot|url=https://www.the-downballot.com/i/171312231/mn|title=Morning Digest: The Downballot rings in its first anniversary today!|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=August 19, 2025|access-date=August 19, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Kaela Berg
+| list =
+;U.S. representatives
+*[[Chris Deluzio]], [[Pennsylvania's 17th congressional district|PA-17]] (2023–present)<ref name="ETrack"/>
+*[[Lois Frankel]], [[Florida's 22nd congressional district|FL-22]] (2013–present)<ref name="ETrack"/>
+;State legislators
+*[[Lindsey Port]], [[Minnesota Senate|state senator]] from the 55th district (2021–present)<ref name="Berg Launch"/>
+*21 [[Minnesota House of Representatives|state representatives]]{{efn|
+*[[Esther Agbaje]], [[Minnesota House of Representatives|state representative]] from district 59B (2021–present)<ref name="Berg Launch"/>
+*[[Kristin Bahner]], [[Minnesota House of Representatives|state representative]] from district 37B (2019–present)<ref name="Berg Launch"/>
+*[[Nathan Coulter]], [[Minnesota House of Representatives|state representative]] from district 51B (2023–present)<ref name="Berg Launch"/>
+*[[Brion Curran]], [[Minnesota House of Representatives|state representative]] from district 36B (2023–present)<ref name="Berg Launch"/>
+*[[Sandra Feist]], [[Minnesota House of Representatives|state representative]] from district 39B (2021–present)<ref name="Berg Launch"/>
+*[[Cedrick Frazier]], [[Minnesota House of Representatives|state representative]] from district 43A (2021–present)<ref name="Berg Launch"/>
+*[[Luke Frederick]], [[Minnesota House of Representatives|state representative]] from district 18B (2021–present)<ref name="Berg Launch"/>
+*[[David Gottfried (politician)|David Gottfried]], [[Minnesota House of Representatives|state representative]] from district 40B (2025–present)<ref name="Berg Launch"/>
+*[[Julie Greene (politician)|Julie Greene]], [[Minnesota House of Representatives|state representative]] from district 50A (2025–present)<ref name="Berg Launch"/>
+*[[Jess Hanson]], [[Minnesota House of Representatives|state representative]] from district 55A (2023–present)<ref name="Berg Launch"/>
+*[[Josiah Hill]], [[Minnesota House of Representatives|state representative]] from district 33B (2023–present)<ref name="Berg Launch"/>
+*[[Athena Hollins]], former majority whip of the [[Minnesota House of Representatives]] (2023–2025) from district 66B (2021–present)<ref name="Berg Launch"/>
+*[[Huldah Hiltsley]], [[Minnesota House of Representatives|state representative]] from district 38A (2025–present)<ref name="Berg Launch"/>
+*[[Heather Keeler]], [[Minnesota House of Representatives|state representative]] from district 4A (2021–present)<ref name="Berg Launch"/>
+*[[Ginny Klevorn]], [[Minnesota House of Representatives|state representative]] from district 42B (2019–present)<ref name="Berg Launch"/>
+*[[Carlie Kotyza-Witthuhn]], [[Minnesota House of Representatives|state representative]] from district 49B (2019–present)<ref name="Berg Launch"/>
+*[[Tina Liebling]], [[Minnesota House of Representatives|state representative]] from district 24B (2005–present)<ref name="Berg Launch"/>
+*[[Leon Lillie]], [[Minnesota House of Representatives|state representative]] from district 44B (2005–present)<ref name="Berg Launch"/>
+*[[Jamie Long]], former [[List of majority leaders of the Minnesota House of Representatives|majority leader of the Minnesota House of Representatives]] (2023–2025) from district 61B (2019–present)<ref name="Berg Launch"/>
+*[[Mohamud Noor]], [[Minnesota House of Representatives|state representative]] from district 60B (2023–present)<ref name="Berg Launch"/>
+*[[Liz Reyer]], [[Minnesota House of Representatives|state representative]] from district 52A (2021–present)<ref name="Berg Launch"/>
+}}
+
+;Labor unions
+*[[Association of Flight Attendants]]<ref name="Berg Launch">{{cite web|url=https://www.startribune.com/burnsville-dfl-legislator-enters-second-congressional-district-race/601483468|title=Burnsville DFL legislator enters Second Congressional District race|last=Kashiwagi|first=Sydney|date=October 1, 2025|access-date=October 6, 2025|website=[[The Star Tribune]]}}</ref>
+*[[Communications Workers of America]] Minnesota State Council<ref name="Berg Launch"/>
+*[[United Steelworkers]]<ref name="Berg Launch"/>
+;Local officials
+*[[Kaohly Her]], mayor of [[Saint Paul, Minnesota|St. Paul]] (2026–present)<ref name="ETrack"/>
+
+;Organizations
+*[[Elect Democratic Women]]<ref name="EDW">{{cite web|url=https://electdemocraticwomen.org/elect-democratic-women-endorses-kaela-berg-for-minnesotas-2nd-congressional-district/|title=Elect Democratic Women Endorses Kaela Berg for Minnesota’s 2nd Congressional District|date=January 8, 2026|access-date=January 10, 2026}}</ref>
+*[[EMILYs List]]<ref>{{cite web|url=https://emilyslist.org/news/emilys-list-endorses-kaela-berg-for-minnesotas-2ndcongressional-district/|title=EMILYs List Endorses Kaela Berg for Minnesota's 2ndCongressional District|website=emilyslist.org|date=October 1, 2025|access-date=October 1, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web|url=https://www.endcitizensunited.org/endorsements|title=ECU ENDORSED|access-date=May 21, 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web|url=https://ourrevolution.com/kaela-berg-for-congress-in-mn-02|title=Our Revolution Endorses Kaela Berg For Congress|access-date=July 9, 2026}}</ref>
+*[[Showing Up for Racial Justice]]<ref>{{cite web|title=Help us elect candidates that will stand up to ICE|url=https://surj.org/help-us-elect-candidates-that-will-stand-up-to-ice/|date=July 14, 2026|access-date=July 28, 2026}}</ref>
+*[[Stonewall Democrats#Minnesota|Stonewall DFL]]<ref name="stonewall-endorsements">{{cite web|title=Stonewall DFL 2026 Endorsements|url=https://mnstonewalldfl.org/2025-endorsed-candidates-copy/|website=Stonewall DFL|access-date=May 8, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Matt Klein
+| list =
+;State legislators
+*[[John Hoffman (Minnesota politician)|John Hoffman]], [[Minnesota Senate|state senator]] from the 34th district (2013–present)<ref>{{cite web|url=https://kstp.com/kstp-news/local-news/sen-hoffman-endorses-matt-klein-for-cd2/|title=Sen. Hoffman endorses Matt Klein for CD2|last=Reddekopp|first=Morgan|date=August 5, 2025|access-date=August 18, 2025|website=[[KSTP-TV]]}}</ref>
+
+;Labor unions
+*[[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers]] Local 512<ref name="Klein" />
+*Minnesota [[United Association|Pipe Trades Association]]<ref name="Klein" />
+
+;Organizations
+*[[314 Action]]<ref>{{cite web|url=https://314action.org/2025/06/25/314-action-fund-endorses-dr-matt-klein-for-minnesotas-second-congressional-district-as-a-guardian-of-public-health/|title=314 Action Fund Endorses Dr. Matt Klein for Minnesota's Second Congressional District, as a Guardian of Public Health|date=June 25, 2025|access-date=August 18, 2025}}</ref>
+*[[Democratic Majority For Israel]]<ref>{{cite web|title=DMFI PAC Candidate Endorsees|url=https://dmfipac.org/candidates/2026-endorsees/|website=DMFI PAC|access-date=May 18, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Matt Little
+| list =
+;U.S. representatives
+*[[Greg Casar]], [[Texas's 35th congressional district|TX-35]] (2023–present)<ref name="CPC">{{cite web|url=https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-matt-little-for-mn-02/|title=Congressional Progressive Caucus PAC Endorses Matt Little for MN-02|date=June 30, 2026|access-date=August 15, 2026}}</ref>
+*[[Maxwell Frost]], [[Florida's 10th congressional district|FL-10]] (2023–present)<ref name="CPC"/>
+*[[Pramila Jayapal]], [[Washington's 7th congressional district|WA-07]] (2017–present)<ref name="ETrack"/>
+*[[Betty McCollum]], [[Minnesota's 4th congressional district|MN-04]] (2001–present)<ref name="ETrack"/>
+
+;Statewide officials
+*[[Julie Blaha]], [[Minnesota State Auditor|state auditor]] of [[Minnesota]] (2019–present)<ref name="ETrack"/>
+*[[Keith Ellison]], [[Minnesota Attorney General|attorney general]] of [[Minnesota]] (2019–present)<ref name="ETrack"/>
+
+;State legislators
+*[[Erin Maye Quade]], [[Minnesota Senate|state senator]] from the 56th district (2023–present)<ref name="8/19 Digest"/>
+
+;Labor unions
+*[[Minnesota Association of Professional Employees]]<ref name=MAPE/>
+*[[National Nurses United]]<ref>{{cite web|url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-matt-little-for-minnesotas-2nd-district|title=National Nurses United endorses Matt Little for Minnesota’s 2nd District|date=March 26, 2026|access-date=April 6, 2026}}</ref>
+*[[American Postal Workers Union|Minnesota Postal Workers Union]]<ref>{{cite news|last1=Washington|first1=Jessica|last2=Frances|first2=C.|url=https://theintercept.com/2026/04/29/minnesota-congress-ice-democrats-matt-little/|title=ICE Watchers Worry Democrats Are Trying to Co-Opt Their Movements For Votes|work=The Intercept|date=April 29, 2026|access-date=May 21, 2026}}</ref>
+
+;Organizations
+*[[American Priorities]]<ref>{{cite web|url=https://prospect.org/2026/08/10/super-pacs-hard-to-shake-partnerships-with-aipac-minnesota-congress/|title=Super PACs Find It Hard to Shake Partnerships With AIPAC|first=David|last=Dayen|work=[[The American Prospect]]|date=August 10, 2026|access-date=October 17, 2026}}</ref>
+*[[A New Policy]] PAC<ref>{{cite web|url=https://platform.anewpolicypac.org/candidates/matt-little-mn|title=Matt Little|access-date=July 5, 2026|website=A New Policy PAC}}</ref>
+*[[Clean Water Action]]<ref name=CleanWaterAction/>
+*[[Congressional Progressive Caucus]]<ref name="CPC"/>
+*[[Leaders We Deserve]]<ref>{{cite web|url=https://leaderswedeserve.com/candidate/matt-little/|title=Matt Little MN-02|access-date=June 22, 2026|website=Leaders We Deserve}}</ref>
+*[[Minnesota Young DFL]]<ref name=youngDFL/>
+*[[50501 movement|Minnesota 50501]]<ref name="MN50501"/>
+*[[MoveOn]]<ref>{{cite web|title=MoveOn Endorses Matt Little|url=https://front.moveon.org/endorsements/candidates/matt-little/|access-date=May 30, 2026}}</ref>
+
+;Political parties
+*[[Minnesota Democratic-Farmer-Labor Party]]<ref name="cd2-dflconvention">{{cite news|last1=Kashiwagi|first1=Sydney|title=Former Lakeville Mayor Matt Little wins DFL endorsement for Rep. Angie Craig’s seat|url=https://www.startribune.com/second-district-democrats-weigh-endorsement-to-replace-rep-angie-craig/601836410|access-date=May 9, 2026|work=[[Minnesota Star Tribune]]|date=May 9, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;U.S. representatives
+*[[Angie Craig]], [[Minnesota's 2nd congressional district|MN-02]] (2019–present)<ref name="LittleAnnounces"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Kaela Berg (DFL)
+|$390,965
+|$343,173
+|$47,792
+|-
+|{{party shading/DFL}}|Matt Klein (DFL)
+|$1,215,285
+|$926,534
+|$288,752
+|-
+|{{party shading/DFL}}|Matt Little (DFL)
+|$923,277
+|$796,236
+|$127,543
+|-
+|{{party shading/DFL}}|Hugh McTavish (DFL)
+|$188,258
+|$180,979
+|$7,279
+|-
+|{{party shading/DFL}}|''Michael Stefanko (DFL)''
+|$935
+|$935
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web|title=2026 Election United States House - Minnesota 2nd|url=https://www.fec.gov/data/elections/house/MN/02/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:65px;"| Kaela<br />Berg
+! style="width:65px;"| Matt<br />Klein
+! style="width:65px;"| Matt<br />Little
+! Undecided
+|-
+| style="text-align:left;" |GQR (D)<ref name="klein GQR">{{cite web|title=Klein is well-positioned in a wide-open Democratic primary in Minnesota’s 2nd congressional district|url=https://pdfhost.io/v/9nfXsULPnk_Klein_for_Congress_Primary_Poll_Memo|publisher=GQR|access-date=June 5, 2026|date=June 4, 2026}}</ref>{{efn-ua|name=Klein|Poll sponsored by Klein's campaign}}
+|May 27 – June 1, 2026
+|403 (LV)
+|±&nbsp;4.9%
+|16%
+|19%
+|{{party shading/DFL}}|'''26%'''
+|{{party shading/Undecided}} |'''39%'''
+|-
+| style="text-align:left;" |Impact Research (D)<ref>{{cite tweet|user=LittleCongress|first=Matt|last=Little|number=2059280838508843502|title=Matt Little Has An Overwhelming Lead in MN CD-02 Democratic Primary|access-date=May 27, 2026}}</ref>{{efn-ua|name=Little|Poll sponsored by Little's campaign}}
+|May 18–20, 2026
+|400 (LV)
+|–
+|13%
+|11%
+|{{party shading/DFL}}|'''41%'''
+|35%
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Minnesota's 2nd congressional district Democratic-Farmer-Labor primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Minnesota Democratic–Farmer–Labor Party|Democratic–Farmer–Labor]]</small>
+! scope="col"| <small>[[Minnesota Democratic–Farmer–Labor Party|Democratic–Farmer–Labor]]</small>
+! scope="col"| <small>[[Minnesota Democratic–Farmer–Labor Party|Democratic–Farmer–Labor]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Minnesota Democratic–Farmer–Labor Party}}"|
+! scope="col" style="background:{{party color|Minnesota Democratic–Farmer–Labor Party}}"|
+! scope="col" style="background:{{party color|Minnesota Democratic–Farmer–Labor Party}}"|
+|-
+! scope="col" | [[Kaela Berg]]
+! scope="col" | [[Matt Klein]]
+! scope="col" | [[Matt Little]]
+|-
+!1<ref>{{cite web|last1=Magaletta|first1=Zoe|title=CarlDems hosts primary debate for DFL CD2 candidates|url=https://thecarletonian.com/20524/news/carldems-hosts-primary-debate-for-dfl-cd2-candidates/|publisher=The Carletonian|access-date=June 21, 2026|date=January 23, 2026}}</ref>
+| style="white-space:nowrap;" | Jan. 20, 2026
+| style="white-space:nowrap;" | [[Carleton College]] Democrats<br>[[Minnesota Democratic–Farmer–Labor Party]]
+| style="white-space:nowrap;" | Greg Marfleet
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=32b8Jw2MxKE YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+{{Switcher|[[File:MN_CD2_Dem_County_2026.svg|thumb|230px|Results by county
+{{collapsible list
+| title = {{legend|#7996E2|Little}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Klein}}
+|{{legend|#AAE5AA|30–40%}}}}
+]]|County results|
+[[File:MN CD2 Dem 2026.svg|thumb|230px|Results by precinct
+{{collapsible list
+| title = {{legend|#7996E2|Little}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#0D0596|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Klein}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Berg}}
+|{{legend|#FFEEAA|30–40%}}
+|{{legend|#F1C92A|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+}}
+]]|Precinct results}}
+
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=[[Matt Little]]|votes=41,792|percentage=47.2}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=[[Matt Klein]]|votes=26,898|percentage=30.4}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=[[Kaela Berg]]|votes=14,743|percentage=16.7}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Abdisallam Abdulle|votes=2,323|percentage=2.6}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Hugh McTavish|votes=2,292|percentage=2.6}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Christopher Mosel|votes=444|percentage=0.5}}
+{{Election box total no change|votes=88,492|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*[[Eric Pratt]], state senator from the 54th district (2013–present)<ref name=criticism>{{cite news|last1=Kashiwagi|first1=Sydney|title=Republican Eric Pratt will run for open congressional seat amid criticism over past Trump comments|url=https://www.startribune.com/state-sen-eric-pratt-enters-cd2-field-immediately-throwing-support-behind-trump-amid-criticism/601438046|access-date=July 21, 2025|work=[[Minnesota Star Tribune]]|date=July 21, 2025|language=en}}</ref>
+
+====Withdrawn====
+* Tyler Kistner, [[U.S. Marine Corps Reserve]] officer and nominee for this district in [[2020 United States House of Representatives elections in Minnesota#District 2|2020]] and [[2022 United States House of Representatives elections in Minnesota#District 2|2022]]<ref>{{Cite web|last=Dachel|first=Felicity|date=April 15, 2026|title=Minnesota Congressional candidate drops out, says he is being deployed to Middle East|url=https://www.kare11.com/article/news/politics/tyler-kistner-congress-marines-2026/89-f803a235-96e9-40ab-aa3e-f47dd7460329|access-date=April 15, 2026|website=KARE 11|language=en-US}}</ref>
+*Jeremy Westby, small-business owner ''(previously ran in the 3rd district; endorsed Pratt)''<ref name="PrattWest"/>
+
+====Declined====
+*[[Zach Duckworth]], state senator from the 57th district (2021–present) ''([[2026 Minnesota Senate election|running for re-election]])''<ref>{{Cite web|last=Nir|first=David|date=July 8, 2025|title=Morning Digest: A senior House Democrat lands a primary challenger after health scares|url=https://www.the-downballot.com/p/morning-digest-a-senior-house-democrat|access-date=July 8, 2025|website=The Downballot|language=en}}</ref>
+*Joe Teirab, former federal prosecutor and nominee for this district in [[2024 United States House of Representatives elections in Minnesota#District 2|2024]]<ref>{{Cite news|last1=Bakst|first1=Brian|last2=Ferguson|first2=Dana|date=October 1, 2025|url=https://view.connect.mpr.org/?qs=58ba68ac9aacf9e51be0f2231f44a870ed2a253b4656795af799cc58b3f0223c33f905cfa475c18c481c4879e1f00b22741e630c3df11bd55ff9f28f5439a3663cb3253e5b445bbd5a90ec3a6b970475|access-date=October 1, 2025|work=[[Minnesota Public Radio]]|title=Good morning. Check another month off the 2025 calendar. We're in the final quarter.|language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Eric Pratt
+|list=
+;U.S. representatives
+*[[John Kline (politician)|John Kline]], former [[MN-02]] (2003–2017)<ref name="ETrack"/>
+;Individuals
+*Jeremy Westby, small-business owner and former candidate for this seat<ref name="PrattWest"/>
+
+;Political parties
+*[[Republican Party of Minnesota]]<ref name="PrattWest"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Tyler Kistner (R)''
+|$415,618
+|$388,096
+|$27,522
+|-
+|{{party shading/Republican}}|Eric Pratt (R)
+|$259,426
+|$119,734
+|$139,691
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Eric Pratt]]|votes=43,813|percentage=100.0}}
+{{Election box total no change|votes=43,813|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|October 1, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|D}}
+|April 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Likely|D}}
+|December 5, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]
+| {{USRaceRating|Likely|D}}
+|March 26, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Matt Little (D)
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Endorses Minnesota’s Peggy Flanagan for U.S. Senate and Matt Little for U.S. House |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-minnesotas-peggy-flanagan-for-us-senate-and-matt-little-for-us-house |website=[[American Federation of Government Employees]] |access-date=22 September 2026 |date=September 18, 2026}}</ref>
+*[[Education Minnesota]]<ref name="EduMN">{{cite press release |title=Education Minnesota endorses Little, Swanson for Congress |url=https://educationminnesota.org/news/press-release/education-minnesota-endorses-little-swanson-for-congress/ |publisher=[[Education Minnesota]] |access-date=October 18, 2026 |date=September 25, 2026}}</ref>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite press release |title=End Citizens United Endorses Slate of Anti-Corruption Leaders in Seven Congressional Races |url=https://www.endcitizensunited.org/news/end-citizens-united-endorses-slate-of-anti-corruption-leaders-in-seven-congressional-races |publisher=[[End Citizens United]] |access-date=October 18, 2026 |date=October 13, 2026}}</ref>
+*[[Jane Fonda Climate PAC]]<ref>{{cite web |title=2026 Endorsements |url=https://www.janepac.com/endorsements |website=[[Jane Fonda Climate PAC]] |access-date=October 18, 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web |url=https://ourrevolution.com/matt-little-for-congress-in-minnesotas-2nd-district/ |title=Matt Little for Congress in Minnesota’s 2nd District |access-date=August 27, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Eric Pratt (R)
+|list=
+;Organizations
+*[[National Federation of Independent Business]]<ref name="NFIB"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Matt Little (DFL)
+|$1,452,273
+|$1,124,467
+|$328,308
+|-
+|{{party shading/Republican}}|Eric Pratt (R)
+|$729,791
+|$408,515
+|$321,276
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web|title=2026 Election United States House - Minnesota 2nd|url=https://www.fec.gov/data/elections/house/MN/02/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;"| Matt<br />Little (DFL)
+! style="width:100px;"| Eric<br />Pratt (R)
+! Undecided
+|-
+| style="text-align:left;" |Impact Research (D)<ref>{{Cite tweet|user=LittleCongress|number=2103102085076066771|title= Matt Little Leads CD2 Congressional Race With 12-Point Margin!|access-date=September 24, 2026}}</ref>{{efn-ua|name=Little|Poll sponsored by Little's campaign}}
+|September 9–13, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/DFL}}|'''52%'''
+|40%
+|8%
+|-
+| style="text-align:left;" |[[Harper Polling]] (R)<ref name="HarperJune2026"/>{{efn-ua|name=Pratt}}
+|June 18–21, 2026
+|415 (LV)
+|±&nbsp;4.8%
+|{{party shading/DFL}}|'''45%'''
+|40%
+|15%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Kaela Berg vs. Eric Pratt'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;"| Kaela<br />Berg (D)
+! style="width:100px;"| Eric<br />Pratt (R)
+! Undecided
+|-
+| style="text-align:left;" |[[Harper Polling]] (R)<ref name="HarperJune2026">{{cite web|url=https://alphanews.org/exclusive-new-poll-shows-republican-eric-pratt-in-close-race-with-dfl-congressional-candidates/|title=EXCLUSIVE: New poll shows Republican Eric Pratt in close race with DFL congressional candidates|first=Luke|last=Sprinkel|website=Alpha News|date=July 22, 2026|access-date=July 22, 2026}}</ref>{{efn-ua|name=Pratt|Poll sponsored by Pratt's campaign}}
+|June 18–21, 2026
+|415 (LV)
+|±&nbsp;4.8%
+|'''43%'''
+|'''43%'''
+|14%
+|}
+
+'''Matt Klein vs. Eric Pratt'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;"| Matt<br />Klein (D)
+! style="width:100px;"| Eric<br />Pratt (R)
+! Undecided
+|-
+| style="text-align:left;" |[[Harper Polling]] (R)<ref name="HarperJune2026"/>{{efn-ua|name=Pratt}}
+|June 18–21, 2026
+|415 (LV)
+|±&nbsp;4.8%
+|{{party shading/DFL}}|'''43%'''
+|42%
+|15%
+|}
+{{hidden end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Minnesota's 3rd congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 3
+| next_year = 2028
+| image1 = Morrison Kelly 119th Congress (cropped).jpg
+| nominee1 = [[Kelly Morrison]]
+| party1 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Tyler Bass
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Kelly Morrison]]
+| before_party = Minnesota Democratic–Farmer–Labor Party
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 3rd congressional district}}
+The 3rd district encompasses the western suburbs of the Twin Cities, including [[Brooklyn Park, Minnesota|Brooklyn Park]], [[Coon Rapids, Minnesota|Coon Rapids]] to the northeast, [[Bloomington, Minnesota|Bloomington]] to the south, and [[Eden Prairie, Minnesota|Eden Prairie]], [[Edina, Minnesota|Edina]], [[Maple Grove, Minnesota|Maple Grove]], [[Plymouth, Minnesota|Plymouth]], [[Minnetonka, Minnesota|Minnetonka]], and [[Wayzata, Minnesota|Wayzata]] to the west. The incumbent is Democrat [[Kelly Morrison]], who was elected with 58.4% of the vote in 2024. Republicans have not won an election for this seat since 2016. 
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*[[Kelly Morrison]], incumbent U.S. representative<ref>{{Cite web|title=FEC Form 2 for Report FEC-1849439|url=https://docquery.fec.gov/cgi-bin/forms/H4MN03118/1849439/|access-date=November 30, 2025|website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Kelly Morrison
+| list = 
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE1">{{cite web |title=Largest Federal Employee Union Endorses 3 Minnesota Incumbents for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-3-minnesota-incumbents-for-reelection-to-congress/ |website=[[American Federation of Government Employees]] |access-date=22 September 2026 |date=July 16, 2026}}</ref>
+*[[Education Minnesota]]<ref name="EduMinn">{{cite web |title=Education Minnesota endorses Morrison for Congress |url=https://educationminnesota.org/news/press-release/education-minnesota-endorses-morrison-for-congress/ |website=[[Education Minnesota]] |access-date=22 September 2026 |date=May 6, 2026}}</ref>
+*Minnesota [[AFL-CIO]]<ref name=AFLCIO/>
+
+;Organizations
+*[[End Citizens United]]<ref name="Incumbents">{{cite web|url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms|title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms|website=endcitizensunited.org|date=February 4, 2026|access-date=February 10, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA">{{cite web|title=Jewish Dems Endorsed Candidates|url=https://jewishdems.org/endorsements/|website=Jewish Democratic Council of America|access-date=December 4, 2025}}</ref>
+*[[League of Conservation Voters]]<ref name="LCV"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web|title=2026 Planned Parenthood Action Fund Endorsed Candidates|url=https://www.plannedparenthoodaction.org/endorsements|website=www.plannedparenthoodaction.org|publisher=[[Planned Parenthood Action Fund]]|access-date=April 8, 2026|language=en}}</ref>
+*[[Reproductive Freedom for All]]<ref name="NARAL">{{cite web|title=Elections|url=https://reproductivefreedomforall.org/elections/|website=Reproductive Freedom for All|access-date=December 4, 2025}}</ref>
+
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref>{{cite web|title=DFL Congressional District 3 Holds Endorsement Convention|url=https://dfl.org/dfl-congressional-district-3-holds-endorsement-convention/|website=[[Minnesota Democratic-Farmer-Labor Party]]|access-date=April 26, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Kelly Morrison (DFL)
+|$777,312
+|$575,556
+|$227,144
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web|title=2026 Election United States House - Minnesota 3rd|url=https://www.fec.gov/data/elections/house/MN/03/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Kelly Morrison]] (incumbent)|party=Minnesota Democratic–Farmer–Labor Party|votes=86,217|percentage=100.0}}
+{{Election box total no change|votes=86,217|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Tyler Bass, small business owner<ref>{{Cite web|title=FEC Form 2 for Report FEC-1944655|url=https://docquery.fec.gov/cgi-bin/forms/H6MN03170/1944655|access-date=February 7, 2026|website=docquery.fec.gov}}</ref><ref name="cf3" />
+
+====Eliminated in primary====
+*Quentin Wittrock, retired attorney<ref>{{Cite web|title=FEC Form 2 for H6MN03188|url=https://docquery.fec.gov/pdf/838/202604249866697838/202604249866697838.pdf|access-date=May 9, 2026|date=April 24, 2026|website=docquery.fec.gov}}</ref><ref name="cf3" />
+
+====Withdrawn====
+*Jeremy Westby, small-business owner ''(dropped to run in the 2nd district)''<ref name="PrattWest">{{cite web|last1=Radelat|first1=Ana|title=Eric Pratt shakes off GOP rivals but faces tough Democratic challengers in race for Angie Craig’s seat|url=https://www.minnpost.com/national/washington/2026/05/eric-pratt-shakes-off-gop-rivals-but-faces-tough-democratic-challengers-in-race-for-angie-craigs-seat/|website=MinnPost|access-date=May 8, 2026|date=May 8, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Quentin Wittrock
+|list=
+;Political parties
+*[[Republican Party of Minnesota]]<ref name="wittrock">{{cite web|title=Quentin Wittrock Endorsed CD3 Congressional Candidate|url=https://www.sd42gop.com/2026_us_house|website=SD42 GOP|access-date=April 28, 2026}}</ref>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Jeremy Westby (R)''
+|$30,554
+|$580
+|$29,973
+|-
+| colspan="4" |                          <small>'''Source: [[Federal Election Commission]]<ref name="FEC3" />'''</small>
+|}
+====Results====
+{{switcher
+|[[File:MN CD3 Rep County 2026.svg|thumb|200px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Bass}}
+|{{legend|#E27F7F|50–60%}}
+}}
+]]
+|County results
+|[[File:MN CD3 Rep 2026.svg|thumb|200px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Bass}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Wittrock}}
+|{{legend|#d79346|50–60%}}
+|{{legend|#c56900|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=Tyler Bass|party=Republican Party (United States)|votes=22,589|percentage=55.4}}
+{{Election box candidate with party link no change|candidate=Quentin Wittrock|party=Republican Party (United States)|votes=18,165|percentage=44.6}}
+{{Election box total no change|votes=40,754|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Minnesota's 4th congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 4
+| next_year = 2028
+| image1 = Betty McCollum, official portrait, 116th Congress (cropped).jpg
+| nominee1 = [[Betty McCollum]]
+| party1 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Paul Wikstrom
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Betty McCollum]]
+| before_party = Minnesota Democratic–Farmer–Labor Party
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 4th congressional district}}
+The 4th district encompasses the [[Saint Paul, Minnesota|Saint Paul]] half of the [[Minneapolis–Saint Paul|Twin Cities]] metro area, including [[Ramsey County, Minnesota|Ramsey County]] and parts of [[Washington County, Minnesota|Washington County]]. The incumbent is Democrat [[Betty McCollum]], who was reelected with 67.6% of the vote in 2024.
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*[[Betty McCollum]], incumbent U.S. representative<ref>{{cite web|url=https://docquery.fec.gov/cgi-bin/forms/H0MN04049/1848305/|title=Statement of Candidacy|date=November 7, 2024|access-date=June 19, 2025|website=[[Federal Election Commission|FEC]]}}</ref>
+====Eliminated in primary====
+*Aswar Rahman, humanitarian and candidate for mayor of [[Minneapolis]] in [[2017 Minneapolis mayoral election|2017]]<ref>{{Cite web|title=FEC Form 2 for Report FEC-1944395|url=https://docquery.fec.gov/cgi-bin/forms/H6MN04285/1944395/|access-date=February 5, 2026|website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Betty McCollum
+| list =
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE1" />
+*[[Education Minnesota]]<ref name="EduMinn1">{{cite web |title=Education Minnesota endorses Johnson, McCollum and Omar for Congress |url=https://educationminnesota.org/news/press-release/education-minnesota-endorses-johnson-mccollum-and-omar-for-congress/ |website=[[Education Minnesota]] |access-date=22 September 2026 |date=February 25, 2026}}</ref>
+*Minnesota [[AFL-CIO]]<ref name=AFLCIO/>
+
+;Organizations
+*[[Center for Freethought Equality]]<ref>{{cite web|title=2026 Endorsements|url=https://www.cfequality.org/members/endorsements/2026|website=Center for Freethought Equality|access-date=December 4, 2025}}</ref>
+*[[Clean Water Action]]<ref name=CleanWaterAction/>
+*[[J Street]]<ref>{{cite web|title=Betty McCollum|url=https://jstreetpac.org/candidate/betty-mccollum/|website=J Street PAC|access-date=February 7, 2026}}</ref>
+*[[League of Conservation Voters]]<ref name="LCV">{{cite web|title=2025-2026 Endorsements|url=https://www.lcv.org/endorsements/|website=League of Conservation Voters|access-date=December 4, 2025}}</ref>
+*[[Minnesota Young DFL]]<ref name=youngDFL/>
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]]<ref name="PopCon">{{cite web|title=2026 Endorsements|url=https://www.populationconnectionaction.org/vote/2026-endorsements/|website=Population Connection Action Fund|access-date=December 4, 2025}}</ref>
+*[[Sierra Club]]<ref>{{cite web|title=Sierra Club Endorsement: Rep. Betty McCollum for 2026 Re-Election|url=https://www.sierraclub.org/minnesota/blog/2026/04/sierra-club-endorsement-rep-betty-mccollum-2026-re-election|website=Sierra Club|access-date=April 11, 2025|date=April 8, 2026}}</ref>
+
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref>{{cite instagram|user=minnesotadfl|postid=DX5FgLHCacx|title=@repbettymccollum has been delivering for Minnesota families for decades, securing billions in federal funding, protecting the Boundary Waters, and fighting for health care and education from her seat on the House Appropriations Committee. Today, CD4 DFLers proudly endorsed her to keep that work going. Congrats Rep. McCollum!|date=May 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Betty McCollum (DFL)
+|$1,044,714
+|$930,092
+|$669,540
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web|title=2026 Election United States House - Minnesota 4th|url=https://www.fec.gov/data/elections/house/MN/04/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{switcher
+|[[File:MN CD4 Dem County 2026.svg|thumb|200px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|McCollum}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+|County results
+|[[File:MN CD4 Dem 2026.svg|thumb|200px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|McCollum}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=[[Betty McCollum]] (incumbent)|votes=95,811|percentage=85.8}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Aswar Rahman|votes=15,869|percentage=14.2}}
+{{Election box total no change|votes=111,680|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Paul Wikstrom, engineer and nominee for Minnesota House of Representatives District 40B in [[2024 Minnesota House of Representatives election#District 40B|2024]]<ref>{{Cite web|title=FEC Form 2 for Report FEC-1946544|url=https://docquery.fec.gov/cgi-bin/forms/H6MN04293/1946544|access-date=February 14, 2026|website=docquery.fec.gov}}</ref>
+====Eliminated in primary====
+*Gene Rechtzigel, farmer<ref name="cf3" />
+*Paul Xiong, former law enforcement officer<ref>{{Cite web|title=FEC Form 2 for Report FEC-1956165|url=https://docquery.fec.gov/cgi-bin/forms/H6MN04301/1956165|access-date=March 25, 2026|website=docquery.fec.gov}}</ref>
+====Endorsements====
+{{Endorsements box
+|title=Paul Wikstrom
+|list=
+;Political parties
+*[[Republican Party of Minnesota]]<ref>{{cite news|title=2026 CD 4 Republicans Convention April 18th, 9 am Registration 10 am Gavel|url=https://www.saintpaulrepublicans.us/2026/04/15/2026-cd-4-republicans-convention-april-18th-9-am-registration-10-am-gavel/|access-date=May 9, 2026|work=Saint Paul Republicans|date=April 15, 2026}}</ref>}}
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of June 30, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Paul Xiong (R)
+|$36,317
+|$32,631
+|$3,687
+|-
+| colspan="4" |<small>'''Source: [[Federal Election Commission]]<ref name="FEC4" />'''</small>
+|}
+
+====Results====
+{{switcher
+|[[File:MN CD4 Rep County 2026.svg|thumb|200px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Wikstrom}}
+|{{legend|#D72F30|70–80%}}
+}}
+]]
+|County results
+|[[File:MN CD4 Rep 2026.svg|thumb|200px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Wikstrom}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Xiong}}
+|{{legend|#e8ba85|40–50%}}
+|{{legend|#d79346|50–60%}}
+|{{legend|#c56900|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#47CC9D|Rechtzigel}}
+|{{legend|#07452F|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#D2B1D9|40–50%}}
+}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=Paul Wikstrom|party=Republican Party (United States)|votes=20,628|percentage=72.6}}
+{{Election box candidate with party link no change|candidate=Paul Xiong|party=Republican Party (United States)|votes=4,788|percentage=16.9}}
+{{Election box candidate with party link no change|candidate=Gene Rechtzigel|party=Republican Party (United States)|votes=2,988|percentage=10.5}}
+{{Election box total no change|votes=28,404|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Minnesota's 5th congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 5
+| next_year = 2028
+| image1 = Ilhan Omar, official portrait, 116th Congress (alt crop).jpg
+| nominee1 = [[Ilhan Omar]]
+| party1 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = John Nagel
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Ilhan Omar]]
+| before_party = Minnesota Democratic–Farmer–Labor Party
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 5th congressional district}}
+The 5th district encompasses eastern [[Hennepin County, Minnesota|Hennepin County]], including all of [[Minneapolis, Minnesota|Minneapolis]] and the cities of [[St. Louis Park, Minnesota|St. Louis Park]], [[Richfield, Minnesota|Richfield]], [[Crystal, Minnesota|Crystal]], [[Robbinsdale, Minnesota|Robbinsdale]], [[Golden Valley, Minnesota|Golden Valley]], [[New Hope, Minnesota|New Hope]], and [[Fridley, Minnesota|Fridley]]. The incumbent is Democrat [[Ilhan Omar]], who was re-elected with 74.3% of the vote in 2024. Omar had expressed interest in [[2026 United States Senate election in Minnesota|running for U.S. Senate in 2026]], but ultimately announced in April 2025 that she would run for re-election.<ref name=axiosapr10/>
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*[[Ilhan Omar]], incumbent U.S. representative<ref name=axiosapr10>{{cite news|last1=Solender|first1=Andrew|last2=Van Oot|first2=Torey|title=Ilhan Omar to run for reelection, not Senate, in 2026|url=https://www.axios.com/2025/04/10/ilhan-omar-senate-reelection-minnesota-2026|access-date=April 10, 2025|work=[[Axios (website)|Axios]]|date=April 10, 2025}}</ref>
+====Eliminated in primary====
+*Julie Le, former [[ICE]] attorney<ref>{{cite news|last1=Sacchetti|first1=Maria|title=Ex-DOJ prosecutor who proclaimed ‘this job sucks’ will run for Congress|url=https://www.washingtonpost.com/immigration/2026/03/11/julie-le-doj-immigration-lawyer-congress-minneapolis/|access-date=March 11, 2026|work=[[The Washington Post]]|date=March 11, 2026}}</ref>
+*Abena A. McKenzie, nurse<ref name="cf3" />
+*Latonya Reeves, [[American Federation of State, County and Municipal Employees|AFSCME]] Council 5 vice president and [[Democratic National Committee]] member<ref>{{Cite web|last=Reddekopp|first=Morgan|date=November 10, 2025|title=Local DFL leader Latonya Reeves launches bid for Minnesota's 5th Congressional District|url=https://kstp.com/kstp-news/local-news/local-dfl-leader-latonya-reeves-launches-bid-for-minnesotas-5th-congressional-district/|access-date=November 10, 2025|website=KSTP.com 5 Eyewitness News|language=en-US}}</ref>
+*Nate Schluter<ref name="cf3" />
+
+====Declined====
+*[[Don Samuels]], former [[Minneapolis city council]] member and candidate for this district in [[2022 United States House of Representatives elections in Minnesota#District 5|2022]] and [[2024 United States House of Representatives elections in Minnesota#District 5|2024]]<ref name="Wards">{{cite web|url=https://www.startribune.com/candidates-outside-groups-try-to-topple-ilhan-omar-but-democrats-say-2026-will-be-difficult/601443705|title=Ilhan Omar wards off Democratic Party challenges, for now|last=Kashiwagi|first=Sydney|date=July 28, 2025|access-date=July 28, 2025|website=[[Minnesota Star Tribune]]|quote=She's also getting an early boost from Gov. Tim Walz, Attorney General Keith Ellison and Sens. Amy Klobuchar and Tina Smith...Samuels, who lost to Omar the last two cycles but came closer than anyone to defeating her, said he won't run again in 2026. Former House DFL Majority Leader Ryan Winkler, seen as another formidable contender, also told the Minnesota Star Tribune he has no plans to run.|url-access=subscription}}</ref>
+*[[Ryan Winkler]], former [[List of majority leaders of the Minnesota House of Representatives|majority leader of the Minnesota House of Representatives]] (2019–2023) from district 46A (2007–2015, 2019–2023), candidate for [[Attorney General of Minnesota|Minnesota attorney general]] in [[2018 Minnesota Attorney General election|2018]], and candidate for [[Hennepin County]] Attorney in [[2022 Hennepin County Attorney election|2022]]<ref name="Wards"/>
+
+====Endorsements====
+{{Endorsements box
+| title = Ilhan Omar
+| list =
+;U.S. senators
+*[[Amy Klobuchar]], [[Minnesota]] (2007–present)<ref name="Wards"/>
+*[[Tina Smith]], [[Minnesota]] (2018–present)<ref name="Wards"/>
+
+;Statewide officials
+*[[Keith Ellison]], [[Attorney General of Minnesota|attorney general of Minnesota]] (2019–present) and former [[United States House of Representatives|U.S. representative]] from [[Minnesota's 5th congressional district|MN-05]] (2007–2019)<ref name="Wards"/>
+*[[Tim Walz]], [[governor of Minnesota]] (2019–present)<ref name="Wards"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE1" />
+*[[Education Minnesota]]<ref name="EduMinn1" />
+*[[Minnesota Association of Professional Employees]]<ref name=MAPE/>
+*Minnesota [[AFL-CIO]]<ref name=AFLCIO/>
+
+;Organizations
+*[[End Citizens United]]<ref name="Incumbents"/>
+*[[Minnesota Young DFL]]<ref name=youngDFL/>
+*[[Our Revolution]]<ref>{{cite web|title=Ilhan Omar for Re-Election to Congress in MN-05|url=https://ourrevolution.com/ilhan-omar-for-re-election-to-congress-in-mn-05/|website=Our Revolution|access-date=May 24, 2026}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=25 July 2026 |access-date=24 October 2026}}</ref>
+*[[PAL PAC]]<ref>{{cite web|title=Endorsements|url=https://www.palpac.org/endorsements|website=PAL PAC|access-date=February 25, 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web|title=Meet Our 2026 Candidates|url=https://www.peaceaction.org/endorsements/|website=Peace Action|access-date=December 4, 2025|language=en-EN}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Sierra Club]]<ref>{{cite web|title=Sierra Club Endorsement: Rep. Ilhan Omar for 2026 Re-Election|url=https://www.sierraclub.org/minnesota/blog/2026/04/sierra-club-endorsement-rep-ilhan-omar-2026-re-election|website=Sierra Club|access-date=April 11, 2026|date=April 8, 2026}}</ref>
+*[[Stonewall Democrats#Minnesota|Stonewall DFL]]<ref name="stonewall-endorsements"/>
+*[[Track AIPAC]]<ref>{{cite web|title=Our Endorsements|url=https://www.trackaipac.com/endorsements|website=Track AIPAC|access-date=December 4, 2025}}</ref>
+*[[50501 movement|Minnesota 50501]]<ref name="MN50501"/>
+
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref>{{cite instagram|postid=DYIOfg0CdNr|title=@ilhanmn believes the American dream is a promise made to everyone, and she’s been fighting to make sure it’s kept for the people of Minnesota’s 5th District every single day in Congress. Today, DFLers proudly endorsed her to keep delivering for the 5th. Congrats Rep. Omar!|user=minnesotadfl|date=May 9, 2026|access-date=May 9, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Ilhan Omar (DFL)
+|$5,090,947
+|$3,842,403
+|$1,572,764
+|-
+|{{party shading/DFL}}|Latonya Reeves (DFL)
+|$31,095
+|$29,931
+|$1,444
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web|title=2026 Election United States House - Minnesota 5th|url=https://www.fec.gov/data/elections/house/MN/05/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{switcher
+|[[File:MN CD5 Dem County 2026.svg|thumb|150px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Omar}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+|County results
+|[[File:MN CD5 Dem 2026.svg|thumb|150px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|Omar}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+]]
+|Precinct results
+}}
+
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=[[Ilhan Omar]] (incumbent)|votes=122,640|percentage=80.7}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Julie Le|votes=10,201|percentage=6.7}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Latonya Reeves|votes=9,131|percentage=6.0}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Nate Schluter|votes=8,016|percentage=5.3}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Abena McKenzie|votes=1,961|percentage=1.3}}
+{{Election box total no change|votes=151,949|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*John Nagel, retired police officer and nominee for Minnesota House of Representatives District 46A in [[2024 Minnesota House of Representatives election#District 46A|2024]]<ref>{{Cite web|title=Statement of Candidacy|url=https://docquery.fec.gov/cgi-bin/forms/H6MN05357/1923614/}} October 27, 2025</ref>
+====Eliminated in primary====
+*Dalia Al-Aqidi, retired journalist, nominee for this district in [[2024 United States House of Representatives elections in Minnesota#District 5|2024]], and candidate in [[2020 United States House of Representatives elections in Minnesota#District 5|2020]]<ref>{{Cite web|title=Statement of Candidacy|url=https://docquery.fec.gov/cgi-bin/forms/H0MN05251/1874295/}}February 3, 2025</ref>
+*Angie Windhauser, businesswoman<ref>{{Cite web|title=FEC Form 2 for Report FEC-1953047|url=https://docquery.fec.gov/cgi-bin/forms/H6MN05381/1953047|access-date=March 13, 2026|website=docquery.fec.gov}}</ref>
+*Abbey Zieska, businesswoman<ref name="cf3" />
+
+====Endorsements====
+{{Endorsements box
+|title=Dalia Al-Aqidi
+|list=
+;Political parties
+*[[Republican Party of Minnesota]]<ref>{{cite news|title=Dalia Al-Aqidi Secures Republican Endorsement in Minnesota's 5th Congressional District|url=https://natlawreview.com/press-releases/dalia-al-aqidi-secures-republican-endorsement-minnesotas-5th-congressional|access-date=May 9, 2026|work=National Law Review|date=April 12, 2026|format=Press release}}</ref>
+}}
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Dalia Al-Aqidi (R)
+|$965,736
+|$971,287
+|$33,367
+|-
+|{{party shading/Republican}}|John Nagel (R)
+|$388,296
+|$301,575
+|$86,720
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{switcher
+|[[File:MN CD5 Rep County 2026.svg|thumb|150px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Nagel}}
+|{{legend|#E27F7F|50–60%}}
+}}
+]]
+|County results
+|[[File:MN CD5 Rep 2026.svg|thumb|150px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Nagel}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#47CC9D|Al-Aqidi}}
+|{{legend|#B4FFE5|30–40%}}
+|{{legend|#7EE5C1|40–50%}}
+|{{legend|#47CC9D|50–60%}}
+|{{legend|#2CB283|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#c88fe4|Windhauser}}
+|{{legend|#dcb7ef|40–50%}}
+|{{legend|#c88fe4|50–60%}}
+|{{legend|#9d40cc|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Zieska}}
+|{{legend|#6e3b00|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=John Nagel|party=Republican Party (United States)|votes=7,777|percentage=52.2}}
+{{Election box candidate with party link no change|candidate=Dalia Al-Aqidi|party=Republican Party (United States)|votes=3,902|percentage=26.2}}
+{{Election box candidate with party link no change|candidate=Angie Windhauser|party=Republican Party (United States)|votes=2,315|percentage=15.5}}
+{{Election box candidate with party link no change|candidate=Abbey Zieska|party=Republican Party (United States)|votes=915|percentage=6.1}}
+{{Election box total no change|votes=14,909|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*DeVelle Jackson<ref>{{Cite web|title=FEC Form 2 for Report FEC-1933566|url=https://docquery.fec.gov/cgi-bin/forms/H6MN05373/1933566|access-date=February 20, 2026|website=docquery.fec.gov}}</ref><ref name="cf3" />
+
+====Write-in candidates====
+*Darryl Joel Robinson<ref name="Write-In">{{cite web |title=Federal, State & County Registered Write-In Requests 2026 STATE GENERAL ELECTION |url=https://www.sos.mn.gov/media/cx5fynrb/registered-write-in-requests-2026.pdf |website=sos.mn.gov |access-date=October 26, 2026}}</ref>
+*Angie Windhauser<ref name="Write-In"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Minnesota's 6th congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 6
+| next_year = 2028
+| image1 = Tom Emmer portrait (118th Congress).jpg
+| nominee1 = [[Tom Emmer]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Doug Chapin
+| party2 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Tom Emmer]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 6th congressional district}}
+The 6th district encompasses the northern suburbs and exurbs of [[Minneapolis]], including all of [[Benton County, Minnesota|Benton]], [[Sherburne County, Minnesota|Sherburne]], and [[Wright County, Minnesota|Wright]] counties and parts of [[Anoka County, Minnesota|Anoka]], [[Carver County, Minnesota|Carver]], [[Stearns County, Minnesota|Stearns]], and [[Washington County, Minnesota|Washington]] counties. The incumbent is Republican [[Tom Emmer]], who was re-elected with 62.0% of the vote in 2024. No Democrat has won an election for this seat since 1998. 
+
+===Republican primary===
+====Nominee====
+*[[Tom Emmer]], incumbent U.S. representative<ref>{{Cite web|title=FEC Form 2 for Report FEC-1848608|url=https://docquery.fec.gov/cgi-bin/forms/H4MN06087/1848608/|access-date=November 30, 2025|website=docquery.fec.gov}}</ref>
+====Eliminated in primary====
+*Chris Corey, candidate for this district in [[2024 United States House of Representatives elections in Minnesota#District 6|2024]]<ref name="cf3" />
+*Mike Foley, chemical engineer<ref>{{cite news|last1=Breunig|first1=Lauren|title=Elk River man to challenge Emmer for GOP endorsement|url=https://www.stcloudlive.com/news/local/elk-river-man-to-challenge-emmer-for-gop-endorsement|access-date=February 17, 2026|work=St. Cloud Live|date=January 8, 2026|language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Tom Emmer
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Log Cabin Republicans]]<ref name="LCRs">{{cite web|title=22 Republicans endorsed by LGBT organization: Full list of names|url=https://www.newsweek.com/22-republicans-endorsed-by-lgbt-organization-full-list-of-names-11460976|website=Newsweek|access-date=February 4, 2026|language=en|date=February 3, 2026}}</ref>
+
+;Political parties
+*[[Republican Party of Minnesota]]<ref>{{cite news|last1=Moniz|first1=Josh|title=Emmer wins 6th Congressional District GOP endorsement, still facing primary|url=https://www.hometownsource.com/press_and_news/news/local/emmer-wins-6th-congressional-district-gop-endorsement-still-facing-primary/article_f37d4e9f-f385-4c7d-8067-5d177639aad1.html|access-date=May 9, 2026|work=Press and News|date=May 2, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tom Emmer (R)
+|$8,309,926
+|$3,507,786
+|$4,588,674
+|-
+|{{party shading/Republican}}|Mike Foley (R)
+|$11,102
+|$4,519
+|$6,582
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web|title=2026 Election United States House - Minnesota 6th|url=https://www.fec.gov/data/elections/house/MN/06/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{switcher
+|[[File:MN CD6 Rep County 2026.svg|thumb|200px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Emmer}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+]]
+|County results
+|[[File:MN CD6 Rep 2026.svg|thumb|200px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Emmer}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Foley}}
+|{{legend|#c56900|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Tom Emmer]] (incumbent)|party=Republican Party (United States)|votes=53,087|percentage=80.9}}
+{{Election box candidate with party link no change|candidate=Mike Foley|party=Republican Party (United States)|votes=10,022|percentage=15.3}}
+{{Election box candidate with party link no change|candidate=Chris Corey|party=Republican Party (United States)|votes=2,502|percentage=3.8}}
+{{Election box total no change|votes=65,611|percentage=100.0}}
+{{Election box end}}
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*Doug Chapin, college professor<ref>{{cite news|last1=Lewerenz|first1=Jennifer|title=Emmer Challenger Announces Bid for Minnesota's Sixth Congressional District|url=https://knsiradio.com/2025/07/02/emmer-challenger-announces-bid-for-minnesotas-sixth-congressional-district/|access-date=September 8, 2025|work=[[KSNI]]|date=July 2, 2025|language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Doug Chapin (DFL)
+|$239,012
+|$142,547
+|$96,465
+|-
+|{{party shading/DFL}}|Anson Amberson (DFL)
+|$939
+|$167
+|$782
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=Doug Chapin
+|list=
+;Labor unions
+*Minnesota [[AFL-CIO]]<ref name=AFLCIO/>
+
+;Organizations
+*[[Minnesota Young DFL]]<ref name=youngDFL/>
+*[[Stonewall Democrats#Minnesota|Stonewall DFL]]<ref name="stonewall-endorsements"/>
+*[[50501 movement|Minnesota 50501]]<ref name="MN50501"/>
+
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref>{{cite news|last1=Flaum|first1=Lauren|title=Chapin wins CD6 DFL endorsement with 90% support|url=https://www.hometownsource.com/monticello_times/chapin-wins-cd6-dfl-endorsement-with-90-support/article_846f5299-85f4-44d1-a2ec-f1c218a975cc.html|access-date=May 9, 2026|work=Monticello Times|date=April 27, 2026}}</ref>
+}}
+
+==== Results ====
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Doug Chapin|votes=48,394|percentage=100.0}}
+{{Election box total no change|votes=48,394|percentage=100.0}}
+{{Election box end}}
+
+===Third-party candidates===
+====Withdrawn====
+*Kelly Doss ([[Forward-Independence Party]]), small business owner<ref name="Doss Kicks Off">{{cite web|last1=Judd|first1=Jake|title=Doss Kicks Off Congressional Campaign Backed by Forward Independence Party|url=https://knsiradio.com/2025/11/18/785881/|access-date=November 22, 2025|work=[[KNSI]]|date=November 18, 2025}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Kelly Doss
+|list=
+;Political parties
+*[[Forward-Independence Party]]<ref name="Doss Kicks Off"/>
+}}
+
+===Independents===
+====Withdrawn====
+*Austin Winkelman, Democratic candidate for this district in [[2024 United States House of Representatives elections in Minnesota#District 6|2024]]<ref>{{Cite web|title=FEC Form 2 for Report FEC-1936600|url=https://docquery.fec.gov/cgi-bin/forms/H4MN06145/1936600|access-date=March 22, 2026|website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Tom Emmer (R)
+|list=
+;Organizations
+*[[National Federation of Independent Business]]<ref name="NFIB"/>
+}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Minnesota's 7th congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 7
+| next_year = 2028
+| image1 = Rep. Michelle Fischbach official portrait (cropped).jpg
+| nominee1 = [[Michelle Fischbach]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Erik Osberg
+| party2 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Michelle Fischbach]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 7th congressional district}}
+
+The 7th district covers all but the southern end of rural western Minnesota, and includes the cities of [[Moorhead, Minnesota|Moorhead]], [[Willmar, Minnesota|Willmar]], [[Alexandria, Minnesota|Alexandria]], and [[Fergus Falls, Minnesota|Fergus Falls]]. The incumbent is Republican [[Michelle Fischbach]], who was re-elected with 70.5% of the vote in 2024.
+
+===Republican primary===
+====Nominee====
+*[[Michelle Fischbach]], incumbent U.S. representative<ref name=intention>{{cite news|last1=Nelson|first1=T. J.|title=Rep. Michelle Fischbach Announces Intention To Seek Re-election in 2026|url=https://www.kvrr.com/2025/03/17/rep-michelle-fischbach-announces-intention-to-seek-re-election-in-2026/|access-date=March 17, 2025|work=[[KVRR]]|date=March 17, 2025}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Michelle Fischbach
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Maggie's List]]<ref name="maggiesfirst">{{Cite web|title=Maggie's List Announces First Round of U.S. House Endorsements|url=https://maggieslist.org/press/maggies-list-announces-first-round-of-house-endorsements|access-date=June 13, 2025|website=maggieslist.org}}</ref>
+
+;Political parties
+*[[Republican Party of Minnesota]]<ref name="KAXE-endorsed"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michelle Fischbach (R)
+|$987,632
+|$591,815
+|$806,897
+|-
+|{{party shading/Republican}}|Dave Hughes (R)
+|$23,051
+|$5,756
+|$17,294
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web|title=2026 Election United States House - Minnesota 7th|url=https://www.fec.gov/data/elections/house/MN/07/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Michelle Fischbach]] (incumbent)|party=Republican Party (United States)|votes=69,436|percentage=100.0}}
+{{Election box total no change|votes=69,436|percentage=100.0}}
+{{Election box end}}
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*Erik Osberg, media marketing firm owner<ref name=intention/>
+====Eliminated in primary====
+*Steve Carlson, air force veteran and government worker<ref name="cf3" />
+
+====Withdrawn====
+*[[Heather Keeler]], [[Minnesota House of Representatives|state representative]] from district 4A (2021–present)<ref>{{cite web|title=Minnesota House Representative announces run for Congress|url=https://www.kvrr.com/2025/11/13/minnesota-house-representative-announces-run-for-congress/|access-date=November 13, 2025|work=[[KVRR]]|date=November 13, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Erik Osberg
+|list=
+;Labor unions
+*Minnesota [[AFL-CIO]]<ref name=AFLCIO/>
+
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref name="KAXE-endorsed"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Heather Keeler (DFL)
+|$62,500
+|$61,210
+|$1,290
+|-
+|{{party shading/DFL}}|Erik Osberg (DFL)
+|$307,950
+|$193,882
+|$114,068
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+==== Results ====
+{{switcher
+|[[File:MN CD7 Dem County 2026.svg|thumb|150px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Osberg}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+]]
+|County results
+|[[File:MN CD7 Dem 2026.svg|thumb|150px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|Osberg}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Carlson}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#217821|80–90%}}
+|{{legend|#165016|90–100%}}
+}}
+{{legend|#AE8BB1|'''50% Tie'''}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Erik Osberg|votes=27,758|percentage=65.7}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Steve Carlson|votes=14,481|percentage=34.3}}
+{{Election box total no change|votes=42,239|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Michelle Fischbach (R)
+|list=
+;Organizations
+*[[American Farm Bureau Federation|Minnesota Farm Bureau]] PAC<ref name="MFB">{{cite web |last1=Sidian |first1=Derek |title=Minnesota Farm Bureau PAC Endorses Fischbach |url=https://fergusnow.com/2026/09/01/minnesota-farm-bureau-pac-endorses-fischbach/ |website=Fergus Now |access-date=22 September 2026 |date=September 1, 2026}}</ref>
+*[[National Federation of Independent Business]]<ref name="NFIB"/>
+*[[U.S. Chamber of Commerce]]<ref name="FischbachUSCC">{{cite web |title=U.S. Chamber Endorses Rep. Michelle Fischbach for Minnesota's Seventh District |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-michelle-fischbach-for-minnesotas-seventh-district |website=[[U.S. Chamber of Commerce]] |access-date=22 September 2026 |date=September 21, 2026}}</ref>
+}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Minnesota's 8th congressional district election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Minnesota#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Minnesota#District 8
+| next_year = 2028
+| image1 = File:Pete Stauber 118th Congress (cropped 2).jpeg
+| nominee1 = [[Pete Stauber]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Trina Swanson
+| party2 = Minnesota Democratic–Farmer–Labor Party
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Pete Stauber]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Minnesota's 8th congressional district}}
+The 8th district is based in the [[Iron Range]] and home to the city of [[Duluth, Minnesota|Duluth]]. The incumbent is Republican [[Pete Stauber]], who was re-elected with 58.0% of the vote in 2024.
+
+===Republican primary===
+====Nominee====
+*[[Pete Stauber]], incumbent U.S. representative<ref>{{Cite web|title=FEC Form 2 for Report FEC-1848480|url=https://docquery.fec.gov/cgi-bin/forms/H8MN08043/1848480/|access-date=November 30, 2025|website=docquery.fec.gov}}</ref>
+====Eliminated in primary====
+*Anthony Hamilton, farmer<ref>{{cite news|title=Mora man to challenge Stauber in Republican primary|url=https://www.brainerddispatch.com/news/minnesota/mora-man-to-challenge-stauber-in-republican-primary|access-date=June 11, 2026|work=[[Brainerd Dispatch]]|date=May 21, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Pete Stauber
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+;Parties
+*[[Republican Party of Minnesota]]<ref name="KAXE-endorsed">{{cite news|last1=Buffington|first1=Megan|title=These are the party-endorsed candidates for MN Legislature, US House|url=https://www.kaxe.org/elections/2026-05-07/democrat-gop-candidates-swanson-osberg-stauber-fischbach-house-senate-district|access-date=May 9, 2026|work=[[KAXE]]|date=May 7, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Pete Stauber (R)
+|$1,469,532
+|$991,440
+|$1,006,585
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web|title=2026 Election United States House - Minnesota 8th|url=https://www.fec.gov/data/elections/house/MN/08/2026/|website=fec.gov|publisher=[[Federal Election Commission]]|access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{switcher
+|[[File:MN CD8 Rep County 2026.svg|thumb|280px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Stauber}}
+|{{legend|#C21B18|80–90%}}
+}}
+]]
+|County results
+|[[File:MN CD8 Rep 2026.svg|thumb|280px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Stauber}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Hamilton}}
+|{{legend|#d79346|50–60%}}
+|{{legend|#6e3b00|90–100%}}
+}}
+{{legend|#AE8BB1|'''50% Tie'''}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Pete Stauber]] (incumbent)|party=Republican Party (United States)|votes=58,139|percentage=86.4}}
+{{Election box candidate with party link no change|candidate=Anthony Hamilton|party=Republican Party (United States)|votes=9,121|percentage=13.6}}
+{{Election box total no change|votes=67,260|percentage=100.0}}
+{{Election box end}}
+
+===Democratic-Farmer-Labor primary===
+====Nominee====
+*Trina Swanson, former [[U.S. Citizenship and Immigration Services]] Director of International Operations<ref>{{cite news|title=Trina Swanson announces congressional campaign|url=https://www.wdio.com/front-page/top-stories/trina-swanson-announces-congressional-campaign/|access-date=January 8, 2026|work=[[WDIO]]|date=January 8, 2026}}</ref>
+====Eliminated in primary====
+*Luke Gulbranson, reality TV star<ref>{{cite news|last1=Khan|first1=Melina|title=Former 'Summer House' star Luke Gulbranson launches bid for Congress|url=https://www.usatoday.com/story/entertainment/celebrities/2026/04/15/luke-gulbranson-congress-bid-minnesota-8th-district/89624131007/|access-date=April 15, 2026|work=[[USA Today]]|date=April 15, 2026}}</ref>
+*John Munter, candidate for this district in [[2022 United States House of Representatives elections in Minnesota#District 8|2022]] and [[2024 United States House of Representatives elections in Minnesota#District 8|2024]]<ref>{{cite news|title=More area candidates file for federal, state and county seats|url=https://www.pineandlakes.com/news/local/more-area-candidates-file-for-federal-state-and-county-seats|access-date=June 11, 2026|work=pineandlakes.com|date=June 3, 2026}}</ref>
+
+====Withdrawn====
+*Cyle Cramer, attorney<ref>{{Cite web|last=Reporter|first=The|last2=Reported|first2=Or|last3=this?|first3=verified from knowledgeable sources The Trust Project What is|date=April 7, 2026|title=Cramer drops out of 8th District race|url=https://www.duluthnewstribune.com/news/local/cramer-drops-out-of-8th-district-race|access-date=April 18, 2026|website=Duluth News Tribune|language=en}}</ref>
+*Chad McKenna, labor relations field manager for the [[Minnesota Nurses Association]]<ref>{{Cite web|last=Holt|first=Sue|date=October 29, 2025|title=Chad McKenna drops out of Congressional District 8 race|url=https://www.wdio.com/front-page/top-stories/chad-mckenna-drops-out-of-congressional-district-8-race/|access-date=April 18, 2026|website=WDIO.com|language=en-US}}</ref>
+
+====Declined====
+*[[Grant Hauschild]], [[Minnesota Senate|state senator]] from the 3rd district (2023–present)<ref>{{cite web|last1=Wolfe|first1=Dan|title=Sen. Grant Hauschild opts not to challenge Rep. Stauber in 2026 Congressional race|url=https://www.northernnewsnow.com/2025/10/07/sen-grant-hauschild-opts-not-challenge-rep-stauber-2026-congressional-race/|access-date=October 7, 2025|work=[[Northern News Now]]|date=October 7, 2025}}</ref>
+====Endorsements====
+{{Endorsements box
+|title=Trina Swanson
+|list=
+;Labor unions
+*[[Minnesota Association of Professional Employees]]<ref name=MAPE/>
+
+;Political parties
+*[[Minnesota Democratic–Farmer–Labor Party]]<ref name="KAXE-endorsed"/>
+}}
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|Emanuel Anastos (DFL)
+|$5,015
+|$3,796
+|$1,218
+|-
+|{{party shading/DFL}}|Cyle Cramer (DFL)
+|$901
+|$1,022
+|$2,794
+|-
+|{{party shading/DFL}}|Chad McKenna (DFL)
+|$27,295
+|$25,034
+|$2,260
+|-
+|{{party shading/DFL}}|Trina Swanson (DFL)
+|$52,226
+|$33,353
+|$18,872
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+==== Results ====
+{{switcher
+|[[File:MN CD8 Dem County 2026.svg|thumb|280px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Swanson}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+]]
+|County results
+|[[File:MN CD8 Dem 2026.svg|thumb|280px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|Swanson}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Gulbranson}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#165016|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#c88fe4|Munter}}
+|{{legend|#dcb7ef|40–50%}}
+|{{legend|#c88fe4|50–60%}}
+|{{legend|#b368d9|60–70%}}
+|{{legend|#9d40cc|70–80%}}
+|{{legend|#5c2378|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{legend|#808080|'''No Votes Cast'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change|title=Democratic (DFL) primary results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Trina Swanson|votes=54,413|percentage=77.2}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Luke Gulbranson|votes=11,888|percentage=16.9}}
+{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=John Munter|votes=4,149|percentage=5.9}}
+{{Election box total no change|votes=70,450|percentage=100.0}}
+{{Election box end}}
+===Independents===
+====Write-in candidates====
+*Debra Topping <ref name="Write-In"/>
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Pete Stauber (R)
+|list=
+;Organizations
+*[[National Federation of Independent Business]]<ref name="NFIB"/>
+}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+*[https://finstadforcongress.com/ Brad Finstad (R)]
+*[https://www.jakejohnsonforcongress.com/ Jake Johnson (D)]
+
+;Official campaign websites for 2nd district candidates
+*[https://littleforcongress.com/ Matt Little (D)]
+*[https://www.ericprattmn.com/ Eric Pratt (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://bassforcongress.com/ Tyler Bass (R)]
+*[https://www.kellyforcongress.org/ Kelly Morrison (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://www.mccollumforcongress.com/ Betty McCollum (D)]
+*[https://www.wikstromforcongress.com/ Paul Wikstrom (R)]
+
+;Official campaign websites for 5th district candidates
+*[https://jacksonforcongress.us/ DeVelle Jackson (I)]
+*[https://nagelforcongress.com/ John Nagel (R)]
+*[https://ilhanomar.com/ Ilhan Omar (D)]
+
+;Official campaign websites for 6th district candidates
+*[https://www.chapinforcongress.com/ Doug Chapin (D)]
+*[https://www.dossforcongress.com/ Kelly Doss (FWD)]
+*[https://emmerforcongress.com/ Tom Emmer (R)]
+*[https://austin4rep.com/ Austin Winkelman (I)]
+
+;Official campaign websites for 7th district candidates
+*[https://www.fischbachforcongress.com/ Michelle Fischbach (R)]
+*[https://www.erikosberg4congress.com/ Erik Osberg (D)]
+
+;Official campaign websites for 8th district candidates
+*[https://petestauberforcongress.com/ Pete Stauber (R)]
+*[https://www.trinaforcongress.com/ Trina Swanson (D)]
+{{div col end}}
+
+{{Elections in Minnesota footer}}
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Minnesota|2026]]
+[[Category:2026 United States House of Representatives elections|Minnesota]]
+[[Category:2026 elections in Minnesota|United States House of Representatives]]

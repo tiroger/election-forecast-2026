@@ -1,0 +1,3226 @@
+{{short description|none}}{{Use mdy dates|date=December 2024}}
+{{use American English|date=December 2024}}{{Distinguish|2026 Washington House of Representatives election}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Washington
+| country = Washington
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington
+| next_year = 2028
+| seats_for_election = All 10 Washington seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = '''8'''
+| seats1 = '''8'''
+| party2 = Republican Party (United States)
+| last_election2 = 2
+| seats2 = 2
+| map = <!-- Please keep these maps hidden until election day {{switcher
+|[[File:2026 United States House of Representatives elections in Washington results map.svg|x200px]]
+|District results
+|[[File:2026 United States House of Representatives elections in Washington results map by county.svg|x200px]]
+|County results}}-->
+| map_caption = 
+}}{{ElectionsWA}}
+The '''2026 United States House of Representatives elections in Washington''' will be held on November 3, 2026, to elect the ten [[U.S. representative]]s from the [[U.S. state|state]] of [[Washington state|Washington]], one from each of the state's ten [[Washington's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. Primary elections took place on August 4, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Washington's 1st congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 1
+| next_year = 2028
+| image1 = File:Rep. Suzan DelBene Official Portrait (cropped).jpg
+| nominee1 = [[Suzan DelBene]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Mary Silva
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 1st congressional district election results map by county.svg|130px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Suzan DelBene]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 1st congressional district}}
+The 1st district is based in the northern [[Seattle]] metropolitan area, including [[Kirkland, Washington|Kirkland]], [[Redmond, Washington|Redmond]], and parts of [[Bellevue, Washington|Bellevue]], [[Marysville, Washington|Marysville]], and [[Arlington, Washington|Arlington]]. The incumbent is Democrat [[Suzan DelBene]], who was re-elected with 63.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Candidates===
+====Advanced to general====
+*[[Suzan DelBene]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848779 |url=https://docquery.fec.gov/cgi-bin/forms/H0WA08046/1848779/ |access-date=2025-09-20 |website=docquery.fec.gov}}</ref>
+*Mary Silva (Republican), candidate for this district in [[2024 United States House of Representatives elections in Washington #District 1|2024]]<ref>{{cite news |last1=Lotmore |first1=Mario |title=Washington state 2026 mid-term elections are off! May the odds be ever in your favor |url=https://lynnwoodtimes.com/2026/05/09/elections/ |access-date=May 14, 2026 |work=[[Lynnwood Times]] |date=May 9, 2026}}</ref>
+
+====Eliminated in primary====
+*James Etzkorn (no party preference), engineer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1952624 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA01220/1952624 |access-date=2026-03-11 |website=docquery.fec.gov}}</ref>
+*Hunter Gordon (Democratic), home care aide<ref>{{Cite web |title=FEC Form 2 for Report FEC-1925032 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA01212/1925032/ |access-date=2025-11-17 |website=docquery.fec.gov}}</ref>
+*Catherine Hildebrand (Democratic), small business owner<ref>{{cite web |last1=Villeneuve |first1=Andrew |title=WA Filing Week 2026: A look at who's filed in key races as of Monday evening |url=https://www.nwprogressive.org/weblog/2026/05/wa-filing-week-2026-a-look-at-whos-filed-in-key-races-as-of-monday-evening.html |access-date=May 7, 2026 |work=[[Northwest Progressive Institute]] |date=May 4, 2026}}</ref>
+*Benjamin Kincaid (Democratic), author<ref>{{Cite web |title=FEC Form 2 for Report FEC-1953155 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA01238/1953155 |access-date=2026-03-14 |website=docquery.fec.gov}}</ref>
+*Bryce Nickel (Democratic), candidate for state representative in [[2024 Washington House of Representatives election#District 38|2024]]<ref>{{cite news |last1=Peterson |first1=Jenna |title=Here's who filed for the 2026 primary election in Snohomish County |url=https://www.heraldnet.com/2026/05/08/heres-who-filed-for-the-2026-primary-election-in-snohomish-county/ |access-date=May 14, 2026 |work=[[HeraldNet.com]] |date=May 8, 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Suzan DelBene (D)
+|list=
+;Labor unions
+*[[Washington State Labor Council]]<ref name=WashLabor>{{cite web |title=2026 WSLC Election Endorsements |url=https://wslc.org/wp-content/uploads/2026/05/2026-WSLC-election-endorsements.pdf |website=Washington State Labor Council, AFL-CIO |access-date=May 16, 2026 }}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPACLink"/>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Suzan DelBene |url=https://giffords.org/candidates/suzan-delbene-2/ |website=giffords.org |date=June 24, 2026}}</ref>
+*[[J Street]]<ref>{{Cite web|url=https://jstreetpac.org/candidate/suzan-delbene/|title=Suzan DelBene}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="auto">{{Cite web|url=https://jewishdems.org/endorsements/|title=Jewish Dems Endorsed Candidates}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+*[[League of Conservation Voters]] Action Fund<ref name="LCV">{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=July 25, 2026 |access-date=October 24, 2026</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Reproductive Freedom for All]]<ref name="auto1">{{Cite web|url=https://reproductivefreedomforall.org/elections/|title=Elections}}</ref>
+
+;Newspapers
+*''[[The Stranger (newspaper)|The Stranger]]''<ref name="stranger">{{Cite web|url=https://www.thestranger.com/endorsements/the-strangers-2026-primary-election-endorsements/|title=The Stranger's 2026 Primary Election Endorsements |date=July 2, 2026|website=The Stranger}}</ref>
+}}
+{{Endorsements box
+|title=Hunter Gordon (D)
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair>{{cite web |title=Washington Primary Election 2026 Voter Guide |url=https://cairaction.org/wp-content/uploads/2026/07/Washington-Voter-Guide-1.pdf|website=CAIR Action|access-date=July 29, 2026}}</ref>
+*[[Progressive Victory]]<ref name="Progressive Victory">{{cite web | title=Endorsements for 2026 | url=https://www.progressivevictory.win/endorsements |website=Progressive Victory}}</ref>
+*[[Track AIPAC]]<ref name=TrackAIPAC>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Suzan DelBene (D)
+|$2,738,775
+|$2,427,787
+|$1,374,708
+|-
+|{{party shading/Democratic}}|Hunter Gordon (D)
+|$68,971
+|$51,291
+|$17,680
+|-
+|{{party shading/Independent}}|James Etzkorn (NPP)
+|$2,656
+|$754
+|$1,901
+|-
+|{{party shading/Republican}}|Mary Silva (R)
+|$93
+|$339
+|$10
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Washington 1st |url=https://www.fec.gov/data/elections/house/WA/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 Washington's 1st congressional district primary election results map by county.svg|thumb|130px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|DelBene}}| {{legend|#a5b0ff|40–50%}} {{legend|#6674de|60–70%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults>{{Cite news|url=https://www.sos.wa.gov/sites/default/files/2026-08/Official%20Canvass%20of%20Returns%20of%20the%20Primary%202026.pdf|title=Canvass of the Returns of the Primary Held on August 4, 2026|last=Hobbs|first=Steve|author-link=Steve Hobbs (Washington politician)|date=August 21, 2026|work=[[Secretary of State of Washington]]|access-date=August 25, 2026}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Suzan DelBene]] (incumbent)
+| votes = 85,156
+| percentage = 53.0
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Mary Silva
+| votes = 42,088
+| percentage = 26.2
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = James Etzkorn
+| votes = 12,023
+| percentage = 7.5
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Hunter Gordon
+| votes = 10,014
+| percentage = 6.2
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Bryce Nickel
+| votes = 3,929
+| percentage = 2.4
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Benjamin Kincaid
+| votes = 3,580
+| percentage = 2.2
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Catherine Hildebrand
+| votes = 3,562
+| percentage = 2.2
+}}
+{{Election box write-in with party link no change
+| votes = 221
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 160,573
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= August 14, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3">{{Cite web|title=2026 House Forecast|url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model|website=[[Split Ticket (website)|Split Ticket]]}}</ref>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Suzan DelBene (D)
+|list=
+;Newspapers
+* ''[[The Seattle Times]]''<ref>{{cite web |title=Seattle Times endorsements, WA general election 2026: 1st Congressional District |url=https://www.seattletimes.com/opinion/editorials/seattle-times-endorsements-wa-general-election-2026-1st-congressional-district/ |website=The Seattle Times |access-date=October 19, 2026 |date=October 17, 2026}}</ref>
+}}
+
+====Results====
+{{Election box begin no change |title=2026 Washington's 1st congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Suzan DelBene]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Mary Silva
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Washington's 2nd congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 2
+| next_year = 2028
+| image1 = Rick Larsen 116th Congress official photo (cropped).jpg
+| nominee1 = [[Rick Larsen]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Edwin H. Feller
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 2nd congressional district election results map by county.svg|230px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Rick Larsen]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 2nd congressional district}}
+The 2nd district stretches from the [[Canada–United States border]] to the northern [[Seattle]] metropolitan area, including [[Bellingham, Washington|Bellingham]] and [[Everett, Washington|Everett]]. The incumbent is Democrat [[Rick Larsen]], who was re-elected with 63.8% of the vote in 2024.<ref name="HPVT"/>
+
+===Candidates===
+====Advanced to general====
+*Edwin H. Feller (Republican), retired businessman<ref name="votewa candidatelist">{{Cite web|url=https://voter.votewa.gov/CandidateList.aspx?e=898&_gl=1*1bub073*_ga*ODM4OTE3MTkwLjE3Nzc5MzI3MTI.*_ga_7B08VE04WV*czE3NzgzNDEzNTAkbzkkZzAkdDE3NzgzNDEzNTMkajU3JGwwJGgw*_ga_X6SDF160YQ*czE3NzgzNDEzNTAkbzkkZzAkdDE3NzgzNDEzNTMkajU3JGwwJGgw|title=PRIMARY 2026 Candidate List|website=voter.votewa.gov}}</ref>
+*[[Rick Larsen]] (Democratic), incumbent U.S. representative<ref>{{cite news |last1=Fletcher-Frazer |first1=Emma |title=Rep. Larsen kicks off reelection campaign in Mount Vernon |url=https://www.goskagit.com/news/elections/rep-larsen-kicks-off-reelection-campaign-in-mount-vernon/article_5786fcf5-7e32-4cb2-8db9-3c8642650259.html |access-date=June 18, 2026 |work=[[Skagit Valley Herald]] |date=June 16, 2026}}</ref>
+
+====Eliminated in primary====
+*Devin Hermanson (Democratic), candidate for this district in [[2024 United States House of Representatives elections in Washington #District 2|2024]]<ref name="votewa candidatelist" />
+*Tomas Scheel (Democratic), software developer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1929066 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA02202/1929066 |access-date=2025-12-18 |website=docquery.fec.gov}}</ref>
+
+====Withdrawn====
+*Raymond Pelletti (Republican), candidate for state representative in [[2024 Washington House of Representatives election#District 42|2024]]<ref name="votewa candidatelist" />
+
+===Endorsements===
+{{Endorsements box
+|title=Rick Larsen (D)
+|list=
+;Labor unions
+*[[IUOE]] Local 302<ref name="IUOE">{{Cite web|url=https://www.iuoe302.org/?zone=/unionactive/view_article.cfm&HomeID=1008207&page=POLITICS|title=Political Endorsements|date=July 19, 2026|access-date=July 25, 2026|website=Operating Engineers Local 302}}</ref>
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+
+;Organizations
+*[[Moms Demand Action]]<ref name="Bellingham">{{cite web|date=July 20, 2026 |title=Three candidates challenge Larsen for U.S. House representing Whatcom County |last1=Mittendorf |first1=Robert |url=https://www.bellinghamherald.com/news/politics-government/election/voter-guide/article316335963.html |access-date=4 August 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Sierra Club]]<ref name="Bellingham" />
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-rick-larsen-for-washingtons-second-district|title=U.S. Chamber Endorses Rep. Rick Larsen for Washington’s Second District|date=July 24, 2026|access-date=September 15, 2026}}</ref>
+
+;Political parties
+*[[Skagit County]] [[Democratic Party (United States)|Democratic Party]] ''(co-endorsement with Scheel)''<ref name="SkagitDems">{{Cite web|date=June 7, 2026 |title=Action Newsletter for June 7, 2026 |url=https://mailchi.mp/skagitdemocrats/june_07_2026-correction}}</ref>
+}}
+{{Endorsements box
+|title=Tomas Scheel (D)
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+*[[Progressive Victory]]<ref name="Bellingham" />
+*[[The Urbanist]]<ref name="Bellingham" />
+*Whatcom County [[Democratic Socialists of America]]<ref name="Bellingham" />
+
+;Political parties
+*[[San Juan County, Washington|San Juan County]] [[Democratic Party (United States)|Democratic Party]]<ref name="Bellingham" />
+*[[Skagit County]] [[Democratic Party (United States)|Democratic Party]] ''(co-endorsement with Larsen)''<ref name=SkagitDems/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Rick Larsen (D)
+|$1,602,896
+|$1,101,991
+|$748,341
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Washington 2nd |url=https://www.fec.gov/data/elections/house/WA/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 Washington's 2nd congressional district primary election results map by county.svg|thumb|230px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|Larsen}}| {{legend|#bdd3ff|30–40%}} {{legend|#a5b0ff|40–50%}} {{legend|#7996e2|50–60%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Rick Larsen]] (incumbent)
+| votes = 88,708
+| percentage = 42.3
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Edwin H. Feller
+| votes = 68,713
+| percentage = 32.8
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Tomas Scheel
+| votes = 29,133
+| percentage = 13.9
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Devin Hermanson
+| votes = 22,775
+| percentage = 10.9
+}}
+{{Election box write-in with party link no change
+| votes = 181
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 209,510
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+====Results====
+{{Election box begin no change |title=2026 Washington's 2nd congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Rick Larsen]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Edwin H. Feller
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Washington's 3rd congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 3
+| next_year = 2028
+| image1 = Rep. Marie Gluesenkamp Perez - 118th Congress (cropped).jpg
+| nominee1 = [[Marie Gluesenkamp Perez]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = JohnBraun.png
+| nominee2 = [[John Braun]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 3rd congressional district election results map by county.svg|210px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Marie Gluesenkamp Perez]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 3rd congressional district}}
+The 3rd district is based in [[Vancouver, Washington|Vancouver]] and encompasses Washington's portion of the [[Portland, Oregon]] metropolitan area. District 3 is the most competitive congressional district in the state, with a [[Cook PVI]] of R+2. The incumbent, Democrat [[Marie Gluesenkamp Perez]], was re-elected with 51.7% of the vote in 2024.<ref name="HPVT"/> In that year, she was one of only 13 Democrats to win a congressional district in a district also won by [[Donald Trump]].<ref>{{cite web |url=https://centerforpolitics.org/crystalball/the-2024-crossover-house-seats-overall-number-remains-low-with-few-harris-district-republicans/|title=2024 House Vote Tracker |access-date=January 12, 2026 |website=The Center for Politics}}</ref>
+
+Gluesenkamp Perez has received criticism from her [[Left-wing politics|left]] for her support of the [[Safeguard American Voter Eligibility Act|SAVE Act]], her vote to [[censure]] fellow Democratic Representative [[Al Green (politician)|Al Green]], and other positions.<ref>{{Cite web |date=2025-05-16 |title=Democratic Rep. Gluesenkamp Perez won in a Trump district. Now she faces an uprising from the left |url=https://apnews.com/article/gluesenkamp-perez-primary-democrat-election-trump-8f85d32c125c2b5f9ac40c1794fe60de |access-date=2025-09-04 |website=AP News |language=en}}</ref><ref>{{Cite news|title=Angry crowd greets Gluesenkamp Perez at town hall after voter registration vote|url=https://katu.com/news/local/marie-gluesenkamp-perez-town-hall-amid-backlash-president-donald-trump-safeguard-american-voter-eligibility-act-save-act|date=April 24, 2025|work=[[KATU]]|author=Neumann, Erik}}</ref><ref>{{Cite news|title=Rep. Marie Gluesenkamp Perez defends record during heated Vancouver town hall|url=https://www.opb.org/article/2025/04/25/marie-gluesenkamp-perez-vanvouver-town-hall-rep-al-green-immigrants-save-act-politics/|date=April 24, 2025|work=[[OPB]]|author=Park, Victor}}</ref> In May 2025, Brent Hennrich, a stay-at-home father and candidate for this district in [[2022 United States House of Representatives elections in Washington#District 3|2022]], announced his intention to run against Perez, citing her support for the SAVE Act and the [[Laken Riley Act]].<ref name="auto2">{{cite news |last1=Weisend |first1=Alexis |title=3rd Congressional District Democrat challenging Perez ran for seat in 2022 |url=https://www.columbian.com/news/2025/may/15/3rd-congressional-district-democrat-challenging-perez-ran-for-seat-in-2022/ |access-date=May 16, 2025 |work=[[The Columbian]] |date=May 15, 2025}}</ref>
+
+On January 22, 2026, Representative Gluesenkamp Perez was one of seven Democrats that voted to fund the [[Department of Homeland Security]], which includes [[Immigration and Customs Enforcement]].<ref>{{Cite web |last= |first= |date=2026-01-23 |title=Rep. Gluesenkamp Perez backs DHS funds amid Dem concerns on immigration policies |url=https://komonews.com/news/politics/washington-state-rep-gluesenkamp-perez-congress-backs-dhs-funds-amid-democrats-concerns-on-immigration-policies-government-shutdown-ice-renee-good |access-date=2026-10-22 |website=KOMO News |language=en}}</ref>
+
+===Candidates===
+====Advanced to general====
+*[[John Braun]] (Republican), minority leader of the [[Washington Senate]] (2020–present) from the [[Washington's 20th legislative district|20th district]] (2017–present)<ref>{{Cite web |last1=local |last2=Politics |first2=Regional |date=2025-08-12 |title=State Sen. John Braun will challenge U.S. Rep. Marie Gluesenkamp Perez |url=https://www.seattletimes.com/seattle-news/politics/state-sen-john-braun-will-challenge-u-s-rep-marie-gluesenkamp-perez/ |access-date=2025-08-12 |website=[[The Seattle Times]] |language=en-US}}</ref>
+*[[Marie Gluesenkamp Perez]] (Democratic), incumbent U.S. representative<ref>{{cite web |title='Let's go win this': MGP leans into record, pokes at opponents during campaign launch|url= https://www.chronline.com/stories/lets-go-win-this-mgp-leans-into-record-pokes-at-opponents-during-campaign-launch,402647|access-date=June 8, 2026|date=May 18, 2026|last=Moore|first=Jacob|work=The Chronicle}}</ref>
+====Eliminated in primary====
+*Antony Barran ([[Cascade Party of Washington|Cascade]]), oyster farm owner<ref name="BraunWalsh">{{cite web |last1=Cornfield |first1=Jerry |date=17 July 2025 |title=Two GOP state lawmakers consider running against WA's Gluesenkamp Perez |url=https://washingtonstatestandard.com/2025/07/17/two-gop-state-lawmakers-consider-running-against-was-gluesenkamp-perez/ |access-date=21 July 2025 |publisher=[[Washington State Standard]]}}</ref>
+*Austin Braswell (Democratic)<ref name="votewa candidatelist" />
+*Brent Hennrich (Democratic), former project manager, stay-at-home parent and candidate for this district in [[2022 United States House of Representatives_elections in Washington#District 3|2022]]<ref name="auto2"/>
+*Lawrence Kellogg (Republican), retired pilot<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA03309/1924860/|title=FEC Form 2 for Report FEC-1924860|website=docquery.fec.gov}}</ref>
+*John Saulie-Rohman (no party preference), candidate for this district in [[2024 United States House of Representatives elections in Washington #District 3|2024]]<ref name="votewa candidatelist" />
+*Troy Rasband (Democratic)<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA03317/1969010/|title=FEC Form 2 for Report FEC-1969010|website=docquery.fec.gov}}</ref>
+*John P. Roco (Republican)<ref name="votewa candidatelist" />
+
+==== Declined ====
+* [[Joe Kent]] (Republican), former director of the [[National Counterterrorism Center]] (2025–2026) and runner-up for this district in [[2022 United States House of Representatives elections in Washington#District 3|2022]] and [[2024 United States House of Representatives elections in Washington#District 3|2024]]<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=6XMyC2Cr7X0 |title=Saagar X Joe Kent: RESIGNATION, Israeli NUKES, Epstein, Charlie Kirk, Mike Huckabee |date=2026-03-20 |last=Breaking Points |access-date=2026-03-21 |quote="No, I have no desire to run for office ever again." |via=YouTube}}</ref>
+
+=== Endorsements ===
+
+{{Endorsements box
+|title=Antony Barran (C)
+|list=
+;Individuals
+*[[Krist Novoselic]], former bass player for [[Nirvana (band)|Nirvana]]<ref name="braun_novoselic">{{Cite news |last1=Cornfield |first1=Jerry |title=Trump backs Braun to unseat WA's Gluesenkamp Perez in US House race |url=https://washingtonstatestandard.com/2026/04/14/trump-backs-braun-to-unseat-was-gluesenkamp-perez-in-us-house-race/ |work=[[The Washington State Standard]] |date=April 14, 2026}}</ref>
+;Political parties
+*[[Cascade Party of Washington|Cascade Party]]<ref name="braun_novoselic"/>
+}}
+{{Endorsements box
+|title=John Braun (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="braun_novoselic"/>
+
+;U.S. representatives
+*[[Michael Baumgartner]], {{ushr|WA|5|WA-05}} (2025–present)<ref name="BraunEndorse">{{cite news |last1=Carter |first1=Simone |title=Republican state Sen. John Braun launches bid to unseat U.S. Rep. Gluesenkamp Perez |url=https://www.thenewstribune.com/news/politics-government/article311252840.html?taid=689b6c1da76c7c0001e983c0 |access-date=August 12, 2025 |work=The News Tribune |date=August 12, 2025}}</ref>
+*[[Newt Gingrich]], former [[Speaker of the United States House of Representatives|speaker of the House of Representatives]] (1995–1999) from {{ushr|GA|6|GA-06}} (1979–1999)<ref name="gingrichpac1">{{Cite web | title=John Braun — GOPAC Elect | url=https://www.gopacelect.org/john-braun | access-date=2026-08-01 | website=www.gopacelect.org}}</ref>
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://www.nrcc.org/2026/04/27/nrcc-announces-addition-of-8-candidates-to-maga-majority-program-as-gop-expands-2026-map/|title=NRCC Announces Addition of 8 Candidates to 'MAGA Majority' Program as GOP Expands 2026 Map|date=April 27, 2026|access-date=May 4, 2026}}</ref>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="braun_novoselic"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="braun_novoselic"/>
+
+;Statewide officials
+*[[Sam Reed]], former [[Secretary of State of Washington|Washington secretary of state]] (2001–2013)<ref name="reedpac"/>
+
+;State senators
+*[[Tim Sheldon]], former [[Washington's 35th legislative district|LD-35]] (1997–2023) ''(Democratic)''<ref>{{Cite web|title=Commentary: I worked with John Braun —the attack ads don’t tell the truth|url=https://www.thereflector.com/stories/commentary-i-worked-with-john-braun-the-attack-ads-dont-tell-the-truth,414271|date=September 8, 2026|work=[[The Reflector (Washington newspaper)|The Reflector]]}}</ref>
+*[[Lynda Wilson]], former [[Washington's 17th legislative district|LD-17]] (2017–2025)<ref name="BraunEndorse"/>
+
+;Organizations
+* [[GOPAC]]<ref name="gingrichpac1"/>
+* [[Mainstream Republicans of Washington]]<ref name="reedpac"/>
+* [[National Republican Congressional Committee]]<ref name="NRCC"/>
+* [[NRA Political Victory Fund]]<ref name="nra"/>
+
+;Party chapters
+*[[Clark County, Washington|Clark County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=John Braun - Clark County Republican Party | url=https://clarkrepublicans.org/john-braun | access-date=2026-08-01 | website=clarkrepublicans.org}}</ref>
+*[[Lewis County, Washington|Lewis County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Endorsements {{!}} Lewis County Republican Party | url=https://lcrpwa.org/endorsements/ | archive-url=https://web.archive.org/web/20240527145015/https://www.lcrpwa.org/endorsements | access-date=2026-08-01 | archive-date=2024-05-27}}</ref>
+*[[Skamania County, Washington|Skamania County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Skamania County Washington Republican Party | url=https://skamaniarepublicans.org/ | access-date=2026-08-01 | website=skamaniarepublicans.org}}</ref>
+
+;Newspapers
+*''[[The Chronicle (Centralia, Washington)|The Chronicle]]''<ref>https://www.chronline.com/stories/our-views-the-chronicle-editorial-board-endorses-john-braun-for-congress,409356</ref>
+*''[[The Columbian]]''<ref>https://www.columbian.com/news/opinion/endorsements/</ref>
+}}
+
+{{Endorsements box
+|title=Marie Gluesenkamp Perez (D)
+|list=
+;Labor unions
+*[[IUOE]] Local 302<ref name="IUOE"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPACLink"/>
+*[[Democratic Majority for Israel]]<ref name="DMFI"/>
+*[[Elect Democratic Women]]<ref name="EDW1">{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=5 December 2025}}</ref>
+*[[EMILY's List]]<ref name="emlist">{{Cite web |title=EMILYs List Endorses Nine Democratic Pro-Choice Women for Reelection to the U.S. House of Representatives |url=https://emilyslist.org/news/emilys-list-endorses-nine-democratic-pro-choice-women-for-reelection-to-the-u-s-house-of-representatives/ |access-date=2025-06-13 |website=EMILYs List |language=en-US}}</ref>
+*[[End Citizens United]]<ref name="CU">{{cite web |title=End Citizens United Endorsements 2026 |url=https://www.endcitizensunited.org/endorsements# |website=End Citizens United |access-date=23 October 2025 |language=en}}</ref>
+*[[International Franchise Association]]<ref name="franchise"/>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Key strategies for winning in 2026 & JDCA's first midterm endorsements |url=https://jewishdems.org/key-strategies-for-winning-in-2026-jdcas-first-midterm-endorsements/ |website=Jewish Democratic Council of America |access-date=23 October 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[Latino Victory]]<ref name="latinovictory">{{cite web |title=Endorsements |url=https://latinovictory.org/endorsements/ |website=latinovictory.org |publisher=Latino Victory |access-date=September 1, 2025}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+*[[WelcomePAC]]<ref>{{cite web |last1=Pope |first1=Lauren Harper |title=The Marie Gluesenkamp Perez Endorsement |url=https://www.welcomestack.org/p/the-marie-gluesenkamp-perez-endorsement-22d |website=WelcomeStack |access-date=7 January 2026 |language=en |date=10 September 2025}}</ref>
+}}
+
+{{Endorsements box
+|title=Brent Hennrich (D)
+|list=
+;Statewide officials
+*[[Dave Upthegrove]], [[Washington State Department of Natural Resources|Washington state commissioner of public lands]] (2025–present)<ref name="primaryfight">{{Cite web|url=https://www.camaspostrecord.com/news/2026/apr/09/primary-fight-underway-in-3rd-congressional-district/|title=Primary fight underway in 3rd Congressional District|date=June 26, 2026|last1=Moyer|first1=Kelly|website=[[Camas-Washougal Post-Record]]}}</ref>
+
+;State representatives
+*[[Brian Blake]], former [[Washington's 19th legislative district|LD-19]] (2002–2021)<ref name="primaryfight"/>
+*[[JD Rossetti]], former [[Washington's 19th legislative district|LD-19]] (2015–2016)<ref name="primaryfight"/>
+
+;Political parties
+*[[Washington's 20th legislative district|20th Legislative District]] Democratic Party
+
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+*[[Indivisible movement|Indivisible]] [[Lewis County, Washington|Lewis County]]<ref name="indivisible">{{cite web|title=Rural Lewis County Indivisibles back Brent Hennrich for Congress |url=https://www.chronline.com/stories/rural-lewis-county-indivisibles-back-brent-hennrich-for-congress,402491 |website=[[The Chronicle (Centralia, Washington)|The Chronicle]] |date=May 15, 2026}}</ref>
+*[[Indivisible movement|Indivisible]] [[Pacific County, Washington|Pacific County]]<ref name="indivisible"/>
+*[[Progressive Victory]]<ref name="Progressive Victory" />
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+*[[Stonewall Democrats|Washington Stonewall Democrats]]<ref>{{Cite web|url=https://ballotpedia.org/Endorsements_by_Washington_Stonewall_Democrats|title=Endorsements by Washington Stonewall Democrats|website=Ballotpedia}}</ref>
+}}
+
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Party chapters
+*[[Clark County, Washington|Clark County]] Democratic Party<ref>{{cite web
+ |title=2026 Endorsements
+ |url=https://clarkcountydems.com/endorsements/
+ |website=Clark County Democrats
+ |access-date=July 24, 2026}}</ref>
+
+;Labor unions
+*[[Washington State Labor Council]]<ref name="WashLabor"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Reform}}|Antony Barran (C)
+|$44,506
+|$42,387
+|$2,119
+|-
+|{{party shading/Republican}}|John Braun (R)
+|$1,980,862
+|$530,448
+|$1,450,415
+|-
+|{{party shading/Democratic}}|Marie Gluesenkamp Perez (D)
+|$6,183,270
+|$2,304,467
+|$3,905,263
+|-
+|{{party shading/Democratic}}|Brent Hennrich (D)
+|$243,675
+|$226,950
+|$17,940
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Washington 3rd |url=https://www.fec.gov/data/elections/house/WA/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 16, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| John<br />Braun (R)
+! style="width:60px;"| Marie Gluesenkamp<br />Perez (D)
+! style="width:60px;"| Brent<br />Hennrich (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonJuly2026">{{Cite web|url=https://www.nwprogressive.org/weblog/2026/07/wa-03-is-still-washingtons-tossup-district-marie-gluesenkamp-perez-and-john-braun-are-tied-ahead-of-2026-top-two-election.html|title=WA-03 is still Washington's tossup district: Marie Gluesenkamp Perez and John Braun are tied ahead of 2026 Top Two election|first=Andrew|last=Villeneuve|website=[[Northwest Progressive Institute]]|date=July 13, 2026|access-date=July 13, 2026}}</ref>{{Efn-ua|name=NPI|Poll commissioned by the [[Northwest Progressive Institute]]}}
+|July 8–10 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''26%'''
+|{{party shading/Democratic}}|'''25%'''
+|11%
+|11%{{efn|John Roco (R) with 5%; Lawrence Kellogg (R) with 2%; Antony Barran (C), Austin Braswell (D), Troy Rasband (D), and John Saulie-Rohman (NPP) with 1%}}
+|{{party shading/Undecided}}|'''26%'''
+|-
+|style="text-align:left;"|Gravis Marketing<ref>{{cite web |last1=Moore |first1=Jacob |title=Poll commissioned by MGP challenger shows uncertainty around the 2026 primary |url=https://www.yahoo.com/news/articles/poll-commissioned-mgp-challenger-shows-045900644.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJvQeJX36DRL1j6sbnQeWtm00zseRKOGtr_krQWO-TXanSLWUeXWUMrqg0mQfxv2WYi2Wd9d18Pf2MlqLB5xbU2ojll-jmuWfG7VMdGD0y6M5Do7ovY5tPCzNlFHN6jogrzttmrEgLB8BiFmkJ9DHfgPzS0C_8SGPGhAoh_FiqiA |publisher=[[The Chronicle (Centralia, Washington)|The Chronicle]] |access-date=25 May 2026 |date=24 November 2025}}</ref>{{efn-ua|Poll commissioned by Hennrich's campaign}}
+|November 10–12, 2025
+|752 (LV)
+|±&nbsp;3.6%
+|{{party shading/Republican}}|'''33%'''
+|{{party shading/Democratic}}|'''24%'''
+|14%
+|–
+|28%
+|}
+
+===Results===
+{{Switcher|
+[[File:2026 Washington's 3rd congressional district primary election results map by county.svg|thumb|210px|County results
+{{Collapsible list
+| title = {{legend|#E27F7F|Braun}}|{{legend|#ffb2b2|40–50%}}|{{legend|#e27f7f|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#7996e2|Gluesenkamp Perez}}|{{legend|#bdd3ff|30–40%}}|{{legend|#a5b0ff|40–50%}}
+}}
+]]|County results|
+[[File:2026 WA03 Primary Precinct.svg|thumb|210px|Precinct results
+{{collapsible list
+| title = {{legend|#E27F7F|Braun}}|{{legend|#FFC8CD|30–40%}}|{{legend|#ffb2b2|40–50%}}|{{legend|#e27f7f|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}|{{legend|#A80000|90–100%}}
+}}
+
+{{collapsible list
+| title = {{legend|#7996e2|Gluesenkamp Perez}}|{{legend|#bdd3ff|30–40%}}|{{legend|#a5b0ff|40–50%}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|{{legend|#0D0596|90–100%}}
+}}
+
+{{collapsible list
+| title = {{legend|#5FD35F|Hennrich}}|{{legend|#AAE5AA|30–40%}}|{{legend|#87DE87|40–50%}}
+}}
+]]|Precinct results}}
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[John Braun]]
+| votes = 85,064
+| percentage = 39.7
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = {{nowrap|[[Marie Gluesenkamp Perez]] (incumbent)}}
+| votes = 78,025
+| percentage = 36.4
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Brent Hennrich
+| votes = 35,820
+| percentage = 16.7
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = John P. Roco
+| votes = 4,102
+| percentage = 1.9
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = John Saulie-Rohman
+| votes = 3,549
+| percentage = 1.7
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Lawrence Kellogg
+| votes = 2,727
+| percentage = 1.3
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Troy Rasband
+| votes = 2,058
+| percentage = 1.0
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Austin Braswell
+| votes = 1,656
+| percentage = 0.8
+}}
+{{Election box candidate with party link no change
+| party = Cascade Party of Washington
+| candidate = Antony Barran
+| votes = 1,345
+| percentage = 0.6
+}}
+{{Election box write-in with party link no change
+| votes = 145
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 214,491
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|D}}
+|October 9, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tossup}}
+|May 21, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Lean|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Likely|D}}
+|July 28, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Marie Gluesenkamp Perez (D)
+|$8,838,141
+|$8,226,214
+|$638,388
+|-
+|{{party shading/Republican}}|John Braun (R)
+|$3,203,193
+|$2,095,362
+|$1,107,831
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| {{nowrap|Marie Gluesenkamp}}<br />{{nowrap|Perez (D)}}
+! style="width:100px;"| John<br />Braun (R)
+! Undecided
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |last1=Villeneuve |first1=Andrew |title=They’re tied again in WA-03: NPI’s autumn Civic Heartbeat polling finds Marie Gluesenkamp Perez at 45%, John Braun at 44% |url=https://www.nwprogressive.org/weblog/2026/10/theyre-tied-again-in-wa-03-npis-autumn-civic-heartbeat-polling-finds-marie-gluesenkamp-perez-at-45-john-braun-at-44.html |publisher=[[Northwest Progressive Institute]] |access-date=October 23, 2026 |date=October 22, 2026}}</ref>{{efn-ua|name=NPI}}
+|October 19–21, 2026
+|551 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''45%'''
+|44%
+|11%
+|-
+|rowspan="4" style="text-align:left;"|DHM Research<ref>{{cite web |last1=Neale-Sacks |first1=Elena |title=Gluesenkamp Perez and Braun neck-and-neck in race for Southwest Washington swing district, OPB poll finds |url=https://www.opb.org/article/2026/10/01/gluesenkamp-perez-braun-southwest-washington-3rd-district/ |publisher=[[Oregon Public Broadcasting]] |access-date=October 3, 2026 |date=October 1, 2026}}</ref>{{Efn-ua|Poll commissioned by [[Oregon Public Broadcasting]]}}
+|rowspan="4"|July 8–10 2026
+|rowspan="2"|543 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|44%
+|{{party shading/Republican}}|'''46%'''
+|11%
+|-
+|47%
+|{{party shading/Republican}}|'''48%'''{{Efn|name=lean|With voters who lean towards a given candidate}}
+|15%
+|-
+|rowspan="2"|600 (RV)
+|rowspan="2"|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''44%'''
+|43%
+|13%
+|-
+|{{party shading/Democratic}}|'''47%'''{{Efn|name=lean}}
+|45%
+|8%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonJuly2026"/>{{Efn-ua|name=NPI}}
+|July 8–10 2026
+|500 (LV)
+|±&nbsp;4.4%
+|42%
+|{{party shading/Republican}}|'''43%'''
+|16%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="NRCCMay2026">{{cite web |title=WA-03 General election Survey |url=https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-WA-03-Survey-Memo-1.pdf |work=[[NRCC]]|access-date=May 8, 2026 |date=May 8, 2026}}</ref>{{efn-ua|name=NRCC|Poll commissioned by the [[NRCC]]}}
+|April 25–29, 2026
+|982 (LV)
+|±&nbsp;3.1%
+|34%
+|{{party shading/Republican}}|'''41%'''
+|26%
+|-
+|style="text-align:left;"|Voter Sciences (R)<ref name="WAGOPAug2025">{{Cite web|url=https://wagop.org/new-congressional-district-3-poll-shows-republicans-will-win/|title=New Congressional District 3 Poll Shows Republicans Will Win|website=[[Washington State Republican Party|Washington GOP]]|date=August 13, 2025|access-date=August 14, 2025}}</ref>{{efn-ua|name=WAGOP|Poll commissioned by the [[Washington State Republican Party]]}}
+|August 2025
+|– (RV)
+|–
+|41%
+|{{party shading/Republican}}|'''48%'''
+|11%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);;}}
+<!-- = = = don't edit the line above = = = -->
+'''Marie Glueneskamp Perez vs. Heidi St. John'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| {{nowrap|Marie Gluesenkamp}}<br />{{nowrap|Perez (D)}}
+! style="width:100px;"| Heidi<br />St. John (R)
+! Undecided
+|-
+|style="text-align:left;"|Voter Sciences (R)<ref name="WAGOPAug2025"/>{{efn-ua|name=WAGOP}}
+|August 2025
+|– (RV)
+|–
+|43%
+|{{party shading/Republican}}|'''46%'''
+|11%
+|-
+|}
+
+'''Marie Glueneskamp Perez vs. Jim Walsh'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| {{nowrap|Marie Gluesenkamp}}<br />{{nowrap|Perez (D)}}
+! style="width:100px;"| Jim<br />Walsh (R)
+! Undecided
+|-
+|style="text-align:left;"|Voter Sciences (R)<ref name="WAGOPAug2025"/>{{efn-ua|name=WAGOP}}
+|August 2025
+|– (RV)
+|–
+|42%
+|{{party shading/Republican}}|'''48%'''
+|10%
+|}
+
+'''Generic Democrat vs generic Republican'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Democrat
+! style="width:100px;"| Generic<br />Republican
+! Undecided
+|-
+|style="text-align:left"|co/efficient (R)<ref name="NRCCMay2026"/>{{Efn-ua|name=NRCC}}
+|April 25–29, 2026
+|842 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''45%'''
+|44%
+|11%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin no change |title=2026 Washington's 3rd congressional district election }}{{Election box candidate with party link no change
+  | candidate = {{nowrap|[[Marie Gluesenkamp Perez]] (incumbent)}}
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = [[John Braun]]
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Washington's 4th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 4
+| next_year = 2028
+| image1 = Amanda McKinney (55022651563) (cropped).jpg
+| nominee1 = Amanda McKinney
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = John Duresky
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 4th congressional district election results map by county.svg|150px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Dan Newhouse]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 4th congressional district}}
+The 4th district encompasses much of central Washington, including [[Yakima, Washington|Yakima]] and the [[Tri-Cities, Washington|Tri-Cities]] of [[Kennewick, Washington|Kennewick]], [[Pasco, Washington|Pasco]], and [[Richland, Washington|Richland]]. The incumbent is Republican [[Dan Newhouse]], who was re-elected with 52.0% of the vote against another Republican in 2024.<ref name="HPVT"/>
+
+Incumbent Congressman [[Dan Newhouse]] opted to retire instead of running for another term.<ref>https://newhouse.house.gov/media-center/press-releases/newhouse-announces-he-will-not-seek-reelection</ref> He initially supported Republican [[Yakima County]] Commissioner Amanda McKinney<ref name="amanda">https://www.spokesman.com/stories/2026/aug/19/dan-newhouse-wont-endorse-amanda-mckinney-to-succe/</ref> before switching his support to Republican State Senator [[Matt Boehnke]] after McKinney declared her opposition to Newhouse at a [[TPUSA]] rally,<ref name="amanda"/> despite supporting Newhouse in previous bids.<ref>https://www.tri-cityherald.com/news/politics-government/article315929747.html</ref>
+
+Republican Amanda McKinney and Democrat John Duresky advanced through the August 4 primary with 34.8% and 29.9% of the vote respectively. The 3rd and 4th place finishers, Boehnke and Republican Jerrod Sessler, have refused to endorse McKinney.<ref name="amanda"/> Traditionally conservative leaning papers such as the [[Yakima Herald-Republic]]<ref name="herald"/> and the [[Tri-City Herald]] have endorsed McKinney's Democratic opponent. Congressman [[Dan Newhouse]] has declined to endorse either candidate.<ref name="amanda"/>
+
+=== Candidates ===
+==== Advanced to general ====
+*John Duresky (Democratic), combat veteran, retired [[United States Air Force|Air Force]] major and project manager<ref name="NewVote">{{cite web |last1=Rosane |first1=Eric |title=Newhouse's Medicaid vote spurs 2 candidates to join 2026 midterms. Who they are |url=https://www.tri-cityherald.com/news/politics-government/election/article312685196.html |access-date=November 12, 2025 |work=[[Tri-City Herald]] |date=November 9, 2025}}</ref><ref>{{Cite web |title=John Duresky for Congress |url=http://johnduresky4congress.com/ |access-date=2026-02-20 |website=John Duresky for Congress |language=en}}</ref>
+*Amanda McKinney (Republican), [[Yakima County, Washington|Yakima County]] commissioner (2020–present)<ref>{{Cite web |last=Palmer |first=Olivia |date=2025-12-19 |title=Yakima County Commissioner Amanda McKinney announces campaign for Congress |url=https://www.yakimaherald.com/news/local/government/yakima-county-commissioner-amanda-mckinney-announces-campaign-for-congress/article_9c2a90d4-c6f6-4c5e-b4f2-57896e969ff6.html |access-date=2025-12-19 |website=Yakima Herald-Republic |language=en}}</ref>
+
+==== Eliminated in primary ====
+*[[Matt Boehnke]] (Republican), [[Washington State Senate|state senator]] from the [[Washington's 8th legislative district|8th district]] (2023–present)<ref>{{cite web |last1=Culverwell |first1=Wendy |title=Tri-Cities GOP Sen. Boehnke explores campaign for Congress |url=https://www.tri-cityherald.com/news/politics-government/article313791281.html |access-date=December 17, 2025 |work=[[Tri-City Herald]] |date=December 17, 2025}}</ref><ref>{{cite news |last1=Cornfield |first1=Jerry |title=State senator is latest Republican to join central WA congressional race |url=https://washingtonstatestandard.com/2026/01/22/state-senator-is-latest-republican-to-join-central-wa-congressional-race/ |access-date=January 23, 2026 |work=[[Washington State Standard]] |date=January 22, 2026}}</ref>
+*John Hughs (Republican), certified nursing assistant<ref name=":0">{{Cite web |last=Donovan Smith |first=Orion |date=2026-06-07 |title=Trump looms large as 11 candidates vie to replace Dan Newhouse in central WA's 4th Congressional District |url=https://www.spokesman.com/stories/2026/jun/07/trump-looms-large-as-11-candidates-vie-to-replace-/ |access-date=2026-06-08 |website=The Spokesman-Review |language=en}}</ref><ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA04232/1951592/|title=FEC Form 2 for Report FEC-1951592|website=docquery.fec.gov}}</ref>
+*Jack Kobiesa (no party preference), mechanical engineer and Republican candidate for this district in [[2022 United States House of Representatives elections in Washington#District 4|2022]]<ref name=":0" /><ref name="votewa candidatelist noc">{{Cite web |title=PRIMARY 2026 Candidate List |url=https://voter.votewa.gov/CandidateList.aspx?e=898&c= |website=VoteWA |publisher=Washington Secretary of State}}</ref>
+*Devin Pooré ([[Cascade Party of Washington|Cascade]]), software engineer<ref name="NewVote"/><ref>{{Cite web |date=2026-05-09 |title=Races for elected offices in Washington are set |url=https://www.dnews.com/local-news/races-for-elected-offices-in-washington-are-set-86e78d42 |access-date=2026-06-07 |website=Moscow-Pullman Daily News |language=en}}</ref>
+*Zac Rossi (no party preference)<ref name="votewa candidatelist noc" />
+*Elpidia Saavedra (Republican), mayor of [[Toppenish, Washington|Toppenish]] (2022–present)<ref>{{Cite web |last=Palmer |first=Olivia |date=2026-07-19 |title=The six Republicans running for Congress in Central WA talk crypto, gun rights and wildfires |url=https://www.yakimaherald.com/news/local/government/elections/the-six-republicans-running-for-congress-in-central-wa-talk-crypto-gun-rights-and-wildfires/article_a246cecd-d2c9-4bd5-a32a-d3eaa55eb9b9.html |access-date=2026-07-26 |website=Yakima Herald-Republic |language=en}}</ref>
+*Jerrod Sessler (Republican), home repair business founder, former [[NASCAR]] driver, and runner-up for this district in [[2024 United States House of Representatives elections in Washington#District 4|2024]] and candidate in [[2022 United States House of Representatives elections in Washington#District 4|2022]].<ref>{{Cite web |access-date=January 7, 2025|date=January 3, 2025 |title=Sessler heading to D.C. to support Jan. 6 rioters and plot a 3rd run against Newhouse |url=https://www.tri-cityherald.com/news/politics-government/article297951393.html |website=[[Tri City Herald]] |quote=He says he's planning to raise funds for a third campaign to try ousting U.S. Rep. Dan Newhouse}}</ref> Jan 6th Riotor.
+*Favian Valencia (Independent), civil rights lawyer and business owner<ref name=":0" /><ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA04257/1957937/|title=FEC Form 2 for Report FEC-1957937|website=docquery.fec.gov}}</ref>
+*Ken Vaz (Republican), software engineer<ref>{{Cite web |last=Palmer |first=Olivia |date=2026-07-13 |title=Meet the 11 people who want to replace Dan Newhouse in Congress |url=https://www.yakimaherald.com/news/local/government/elections/meet-the-11-people-who-want-to-replace-dan-newhouse-in-congress/article_b03a368b-dea4-40c5-bef0-6572b2accc84.html |access-date=2026-07-26 |website=Yakima Herald-Republic |language=en}}</ref>
+
+==== Withdrawn ====
+*Carmen Black (no party preference), educator<ref>{{Cite web |title=FEC Form 2 for Report FEC-1957683 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA04240/1957683 |access-date=2026-04-03 |website=docquery.fec.gov}}</ref>
+
+==== Declined ====
+*[[Dan Newhouse]] (Republican), incumbent U.S. representative<ref>{{cite web |last1=Howard |first1=Andrew |title=Dan Newhouse will not run for reelection |url=https://www.politico.com/live-updates/2025/12/17/congress/dan-newhouse-retirement-2026-00694643 |website=Politico |access-date=December 17, 2025}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Matt Boehnke (R)
+|list=
+;U.S. representatives
+*[[Newt Gingrich]], former [[Speaker of the United States House of Representatives|speaker of the House of Representatives]] (1995–1999) from [[GA-06]] (1979–1999)<ref name="gingrichpac2">{{Cite web | title=Matt Boehnke — GOPAC Elect | url=https://www.gopacelect.org/matt-boehnke | access-date=2026-08-01 | website=www.gopacelect.org}}</ref>
+*[[Doc Hastings]], former [[Washington's 4th congressional district|WA-04]] (1995–2015)<ref>{{Cite web |last1=Brawdy |first1=Bob |title=3-term state lawmaker 'humbled' by Congressional campaign endorsement |url=https://www.tri-cityherald.com/video/article315631597.html |website=[[The Tri-City Herald]]|date=May 4, 2026}}</ref>
+;State legislators
+*[[Mark Schoesler]], former [[Washington State Senate|Senate majority leader]] (2014–2017) from [[Washington's 9th legislative district|SD-09]] (2005–present)<ref name="4thendorsements"/>
+*6 other state senators{{efn|
+*[[Perry Dozier]], [[Washington's 16th legislative district|SD-16]] (2021–present)<ref name="4thendorsements"/>
+*[[Keith Goehner]], [[Washington's 12th legislative district|SD-12]] (2025–present)<ref name="4thendorsements"/>
+*[[Jeff Holy]], [[Washington's 6th legislative district|SD-06]] (2019–present)<ref name="4thendorsements"/>
+*[[Drew MacEwen]], [[Washington's 35th legislative district|SD-35]] (2023–present)<ref name="4thendorsements"/>
+*[[Nikki Torres]], [[Washington's 15th legislative district|SD-15]] (2023–present)<ref name="4thendorsements"/>
+*[[Jeff Wilson (Washington politician)|Jeff Wilson]], [[Washington's 19th legislative district|SD-19]] (2021–present)<ref name="4thendorsements"/>
+}}
+*10 [[Washington House of Representatives|state representatives]]{{efn|
+*[[Andrew Barkis]], [[Washington's 2nd legislative district|HD-02]] (2016–present)<ref name="4thendorsements"/>
+*[[Stephanie Barnard]], [[Washington's 8th legislative district|HD-08]] (2023–present)<ref name="4thendorsements"/>
+*[[April Connors]], [[Washington's 8th legislative district|HD-08]] (2023–present)<ref name="4thendorsements"/>
+*[[Tom Dent]], [[Washington's 13th legislative district|HD-13]] (2015–present)<ref name="4thendorsements"/>
+*[[Carolyn Eslick]], [[Washington's 39th legislative district|HD-39]] (2017–present)<ref name="4thendorsements"/>
+*[[Mark Klicker]], [[Washington's 16th legislative district|HD-16]] (2021–present)<ref name="4thendorsements"/>
+*[[Sam Low]], [[Washington's 39th legislative district|HD-39]] (2023–present)<ref name="4thendorsements"/>
+*[[Skyler Rude]], [[Washington's 16th legislative district|HD-16]] (2021–present)<ref name="4thendorsements"/>
+*[[Joe Schmick]], [[Washington's 9th legislative district|HD-09]] (2007–present)<ref name="4thendorsements"/>
+*[[Suzanne Schmidt]], [[Washington's 4th legislative district|HD-04]] (2023–present)<ref name="4thendorsements"/>
+}}
+
+;Labor unions
+*[[IUOE]] Local 302<ref name="IUOE"/>
+*[[United Association|UA Plumbers and Pipefitters]] Local 598<ref name="4thendorsements">{{Cite web |last1=Rosane |first1=Eric |title=Why 20-year Central WA congressman is backing Boehnke for 4th District |url=https://www.tri-cityherald.com/news/politics-government/election/article315629406.html |website=[[The Tri-City Herald]] |date=May 4, 2026}}</ref>
+
+;Organizations
+*[[GOPAC]]<ref name="gingrichpac2"/>
+*[[Lampson International]]<ref name="4thendorsements"/>
+
+;Political parties
+*[[Franklin County, Washington|Franklin County]] Republican Party<ref>{{Cite web | title=Franklin County Republicans – Standing for conservative values and a stronger Franklin County. | url=https://franklinwagop.com/#resources | archive-url=https://web.archive.org/web/20251115123713/https://franklinwagop.com/ | access-date=2026-08-01 | archive-date=2025-11-15}}</ref>
+}}
+{{Endorsements box
+|title=John Duresky (D)
+|list=
+
+;Labor unions
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+*[[Track AIPAC]]<ref name=TrackAIPAC/>
+*[[National Education Association|Washington Education Assocation]]<ref name="duresky">https://www.localcandidates.org/politicians/john-duresky/endorsements</ref>
+
+;Political parties
+*[[Benton County, Washington|Benton County]] Democratic Party<ref name=Chosen>{{cite web |last1=Rosane |first1=Eric |title=Have Central WA Democrats already chosen their pick to challenge Rep. Newhouse? |url=https://www.tri-cityherald.com/news/politics-government/article313292956.html |access-date=December 9, 2025 |work=[[Tri-City Herald]] |date=December 8, 2025}}</ref>
+*[[Franklin County, Washington|Franklin County]] Democratic Party<ref name=Chosen/>
+*[[Grant County, Washington|Grant County]] Democratic Party<ref name=Chosen/>
+*[[Klickitat County, Washington|Klickitat County]] Democratic Party<ref name=Chosen/>
+*[[Okanogan County, Washington|Okanogan County]] Democratic Party<ref name=Chosen/>
+*[[Yakima County, Washington|Yakima County]] Democratic Party<ref name=Chosen/>
+
+;Newspapers
+*''[[Tri-City Herald]]''<ref>https://www.tri-cityherald.com/latest-news/article317688039.html</ref>
+*''[[Yakima Herald-Republic]]''<ref name="herald">https://www.yakimaherald.com/opinion/yh-r-opinion-4th-district-congressional-race-hinges-on-values/article_01219806-ef3f-4c2e-bc4a-8cf12ea7dcb4.html</ref>
+}}
+{{Endorsements box
+|title=Amanda McKinney (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name=":2">{{Cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Here's how Republican Rep. Doug LaMalfa's seat will be filled |url=https://www.the-downballot.com/p/morning-digest-heres-how-republican |access-date=2026-01-07 |website=The Downballot |language=en}}</ref>
+
+;U.S. representatives
+*[[Michael Baumgartner]], {{ushr|WA|5|WA-05}} (2025–present)<ref name="votehub">{{Cite web|title=2026 Endorsement tracker |url=https://votehub.com/2026-endorsements |website=VoteHub}}</ref>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref>{{cite web |title=Trump, Speaker Johnson endorse early in Central WA race to replace Newhouse |url=https://amp.tri-cityherald.com/news/local/article314222745.html |website=Tri-City Herald |access-date=8 January 2026}}</ref>
+* [[Glenn Thompson (politician)|GT Thompson]], {{ushr|PA|15|PA-15}} (2019–present)<ref name="votehub"/>
+
+;Organizations
+* [[NRA Political Victory Fund]]<ref name="nra"/>
+* [[Turning Point Action]]<ref name="TPAc">{{cite web |title=Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=16 January 2026}}</ref>
+}}
+{{Endorsements box
+|title=Devin Pooré (C)
+|list=
+;Individuals
+*[[Krist Novoselic]], former bass player for [[Nirvana (band)|Nirvana]]<ref name="poore">{{Cite news |title=Races for elected offices in Washington are set
+|url=https://www.lmtribune.com/local-news/races-for-elected-offices-in-washington-are-set-86e78d42 |work=[[The Lewiston Tribune]] |date=May 9, 2026}}</ref>
+;Political parties
+*[[Cascade Party of Washington]]<ref name="poore"/>
+}}{{Endorsements box
+|title=Jerrod Sessler (R)
+|list=
+;Executive branch officials
+*[[Michael Flynn]], former [[United States national security advisor|national security advisor]] (2017)<ref name=":0" />
+;Individuals
+*[[Roger Stone]], political consultant and lobbyist<ref name=":0" />
+;Political parties
+*[[Benton County, Washington|Benton County]] Republican Party<ref name=":0" />
+*[[Douglas County, Washington|Douglas County]] Republican Party<ref name=":0" />
+}}
+{{Endorsements box
+|title=Declined to endorse McKinney (post-primary)
+|list=
+;U.S. representatives
+*[[Dan Newhouse]], [[Washington's 4th congressional district|incumbent representative for this district]] (2015–present) ''(Republican)''<ref name="declined">{{Cite web | title=Dan Newhouse won't endorse Amanda McKinney to succeed him in Congress, but some of her primary opponents already have | url=https://www.spokesman.com/stories/2026/aug/19/dan-newhouse-wont-endorse-amanda-mckinney-to-succe/ | access-date=2026-09-04 | website=www.spokesman.com}}</ref>
+;Individuals
+*Jerrod Sessler, primary candidate for [[Washington's 4th congressional district|this district]] ''(Republican)''<ref name="declined"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|John Duresky (D)
+|$81,606
+|$24,522
+|$57,084
+|-
+|{{party shading/Republican}}|Amanda McKinney (R)
+|$928,595
+|$484,981
+|$443,613
+|-
+|{{party shading/Republican}}|Jerrod Sessler (R)
+|$402,499{{efn|$199,430 of this total was self-funded by Sessler.}}
+|$351,126
+|$126,377
+|-
+|{{party shading/Republican}}|Matthew Boehnke (R)
+|$176,138
+|$111,689
+|$64,449
+|-
+|{{party shading/Republican}}|John Hughs (R)
+|$1,305
+|$1,205
+|$100
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Washington 4th |url=https://www.fec.gov/data/elections/house/WA/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 16, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Matt<br />Boehnke (R)
+! style="width:60px;"| John<br />Duresky (D)
+! style="width:60px;"| Amanda<br />McKinney (R)
+! style="width:60px;"| Wesley<br />Meier (R)
+! style="width:60px;"| Devin<br />Pooré (C)
+! style="width:60px;"| Jerrod<br />Sessler (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{cite web |last1=Fabrizio |first1=Tony |last2=Lee |first2=David |last3=Tunis |first3=Travis |title=President Trump's Endorsement Positions McKinney for the Win in Washington's 4th Congressional District |url=https://punchbowl.news/wa-poll/ |publisher=[[Punchbowl News]] |access-date=3 March 2026 |date=20 February 2026}}</ref>{{efn-ua|Poll commissioned by an unnamed pro-McKinney group<ref>{{cite web |last1=Mutnick |first1=Ally |title=New poll of #WA04 jungle primary shows Trump-backed Amanda McKinney (R) edging Jerrod Sessler (R) out of top 2. A Dem takes 1st spot with 25% followed by McKinney (20%) & Sessler (14%). Fabrizio conducted poll in the safe R seat for a pro-McKinney group |url=https://x.com/allymutnick/status/2028497703785644062 |publisher=[[Twitter]] |access-date=3 March 2026 |date=2 March 2026}}</ref>}}
+|February 4–5, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|7%
+|{{party shading/Democratic}}|'''25%'''
+|{{party shading/Republican}}|'''20%'''
+|1%
+|5%
+|14%
+|1%
+|{{party shading/Undecided}}|'''27%'''
+|}
+
+===Debates===
+<div class="overflowbugx" style="overflow:auto; width:auto">
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Washington's 4th congressional district primary debates
+|- style="font-size:small;"
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Cascade Party of Washington|Cascade]]</small>
+! scope="col"| <small>[[Independent politician|No party preference]]</small>
+|-
+! colspan="5" rowspan="2" |Key: {{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small><br> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Constitution Party (United States)}}"|
+! scope="col" style="background:{{party color|Independent}}"|
+|-
+! scope="col" | Boehnke 
+! scope="col" | Hughs
+! scope="col" | McKinney
+! scope="col" | Saavedra
+! scope="col" | Sessler
+! scope="col" | Vaz
+! scope="col" | Duresky
+! scope="col" | Pooré
+! scope="col" | Kobiesa
+|- style="background:#fff; font-size:small;"
+!1
+| style="white-space:nowrap;" | April 19,<br>2026
+| style="white-space:nowrap;" | [[Yakima County, Washington|Yakima County]]<br>[[Republican Party (United States)|Republican Party]]
+| style="white-space:nowrap;" | Matt Brown
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=dleggYNQsi0 YouTube]
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}{{efn|Intended to be a Republican-only candidate forum, Kobiesa attended for unknown reasons.}}
+|- style="background:#fff; font-size:small;"
+!2
+| style="white-space:nowrap;" | May 29,<br>2026<ref>{{Cite web | title=Mainstream Republicans of Washington | url=https://www.washingtonmainstream.org/ | access-date=2026-08-01 | website=www.washingtonmainstream.org}}</ref>
+| style="white-space:nowrap;" | [[Mainstream Republicans of Washington|Mainstream Republicans<br>of Washington]]
+| style="white-space;" | Scott Greenstone
+| style="white-space:nowrap;" |
+[https://tvw.org/video/mainstream-republicans-of-washington-cascade-conference-2026051086/ TVW]
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{D-A|'''A'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+|- style="background:#fff; font-size:small;"
+!3
+| style="white-space:nowrap;" | July 16,<br />2026<ref>{{cite web|title=Yakima Republican Women's Club plans congressional candidate forum|url=https://www.yakimaherald.com/news/local/government/elections/yakima-republican-womens-club-plans-congressional-candidate-forum/article_74074e78-f0e3-4c35-bf45-1ec57eb65604.html|website=Yakima Herald-Republic|date=2026-07-01|access-date=2026-07-02|last=Palmer|first=Olivia}}</ref>
+| style="white-space:nowrap;" | Yakima Republican<br />Women's Club
+| style="white-space;" | Patricia Byers
+| style="white-space:nowrap;" | N/A
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|- style="background:#fff; font-size:small;"
+|}</div>
+
+===Results===
+[[File:2026 Washington's 4th congressional district primary election results map by county.svg|thumb|150px|Results by county{{Collapsible list
+| title = {{legend|#E27F7F|McKinney}}|{{legend|#ffc8cd|30–40%}}|{{legend|#ffb2b2|40–50%}}
+}}{{Collapsible list
+| title = {{legend|#7996E2|Duresky}}|{{legend|#bdd3ff|30–40%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Amanda McKinney
+| votes = 49,652
+| percentage = 34.8
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = John Duresky
+| votes = 42,681
+| percentage = 29.9
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Jerrod Sessler
+| votes = 20,808
+| percentage = 14.6
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Matt Boehnke]]
+| votes = 15,013
+| percentage = 10.5
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Favian Valencia
+| votes = 5,776
+| percentage = 4.0
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Jacek Kobiesa
+| votes = 2,214
+| percentage = 1.6
+}}
+{{Election box candidate with party link no change
+| party = Cascade Party of Washington
+| candidate = Devin Pooré
+| votes = 1,956
+| percentage = 1.4
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = John Hughs
+| votes = 1,695
+| percentage = 1.2
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Elpidia Saavedra
+| votes = 1,393
+| percentage = 1.0
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Zac Rossi
+| votes = 879
+| percentage = 0.6
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Ken Vaz
+| votes = 477
+| percentage = 0.3
+}}
+{{Election box write-in with party link no change
+| votes = 117
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 142,661
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|R}}
+|July 28, 2026
+|}
+
+====Results====
+{{Election box begin no change |title=2026 Washington's 4th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = Amanda McKinney
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = John Duresky
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Washington's 5th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 5
+| next_year = 2028
+| image1 = File:Baumgartner Michael 119th Congress (cropped) (cropped).jpg
+| nominee1 = [[Michael Baumgartner]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Conroydebate.png
+| nominee2 = [[Carmela Conroy]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 5th congressional district election results map by county.svg|140px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Michael Baumgartner]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 5th congressional district}}
+The 5th district encompasses much of eastern Washington, including [[Spokane, Washington|Spokane]], [[Pullman, Washington|Pullman]], and [[Walla Walla, Washington|Walla Walla]]. The district has strongly favored Republicans, though Democrats were more competitive during the [[2018 United States House of Representatives elections|2018 House elections]], the first midterm elections of President [[Donald Trump]]'s first term, when Democratic nominee [[Lisa Brown (Washington politician)|Lisa Brown]] lost the district by 9.5 percentage points. The district is rated as "Safe R" by [[The Cook Political Report]].<ref>{{Cite web | title=2018 House Race ratings {{!}} The Cook Political Report | url=https://www.cookpolitical.com/ratings/house-race-ratings | archive-url=https://web.archive.org/web/20170815061710/http://cookpolitical.com/ratings/house-race-ratings | access-date=2026-08-01 | archive-date=2017-08-15}}</ref><ref>{{cite web |title=2018 General Election - Congressional District 5 |url=https://results.vote.wa.gov/results/20181106/us-representative-congressional-district-5.html |website=[[Washington Secretary of State]] |access-date=May 17, 2026}}</ref>
+
+The [[2026 United States House of Representatives elections|2026 House elections]] will coincide with the second midterm elections of Trump's presidency. The incumbent is Republican [[Michael Baumgartner]], who was elected with 60.6% of the vote in 2024.<ref name="HPVT" /> He is running for re-election.<ref name="Baumrun">{{Cite news |last=Cabeza |first=Garret |date=March 30, 2026 |title=Baumgartner toasts to Trump as his re-election campaign starts with big fund-raising lead |url=https://www.spokesman.com/stories/2026/mar/30/baumgartner-toasts-to-trump-as-his-re-election-cam/ |work=[[The Spokesman-Review]]}}</ref>
+
+=== Candidates ===
+====Advanced to general====
+*[[Michael Baumgartner]] (Republican), incumbent U.S. representative<ref name="Baumrun"/>
+*[[Carmela Conroy]] (Democratic), former chair of the [[Spokane County, Washington|Spokane County]] Democratic Party and runner-up for this district in [[2024 United States House of Representatives elections in Washington#District 5|2024]]<ref>{{cite web |title=Democrats Plan Labor Day Rally in Clarkston |url=https://www.dailyfly.com/2025/08/27/democrats-plan-labor-day-rally-in-clarkston/ |access-date=October 28, 2025 |work=Dailyfly News |date=August 27, 2025 |quote=Carmela Conroy, the Democratic candidate for Washington's 5th Congressional District, running against U.S. Rep. Michael Baumgartner, is scheduled to serve as the main speaker.}}</ref>
+
+====Eliminated in primary====
+*Andrew Bartleson (Independent), [[Washington State Department of Labor and Industries]] auditor<ref>{{Cite web |title=Andrew Bartleson, a candidate for U.S. Representative, Congressional District 5 in the 2026 Washington Primary Election, Aug. 4 |url=https://www.spokesman.com/elections/2026/washington-primary-election-aug-4/candidates/andrew-bartleson/ |access-date=2026-06-08 |website=The Spokesman-Review |language=en}}</ref>
+*Ann Marie Danimus (Independent), marketing firm owner and Democratic candidate for this district in [[2022 United States House of Representatives elections in Washington#District 5|2022]] and [[2024 United States House of Representatives elections in Washington#District 5|2024]]<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H2WA05097/1896317/|title=FEC Form 2 for Report FEC-1896317|website=docquery.fec.gov}}</ref>
+*Kevin Fagan (Democratic), sustainability consultant<ref>{{Cite web |last=Krueger |first=Claire |date=2026-02-19 |title=GU grad Kevin Fagan enters race for Washington's 5th District seat |url=https://www.gonzagabulletin.com/news/gu-grad-kevin-fagan-enters-race-for-washingtons-5th-district-seat/article_8775d5b0-8130-46e7-a1be-041f6b8d05b8.html |access-date=2026-06-08 |website=The Gonzaga Bulletin |language=en}}</ref>
+*Richard Freudenberg (Democratic), former attorney<ref>{{Cite web |title=Richard Freudenberg, a candidate for U.S. Representative, Congressional District 5 in the 2026 Washington Primary Election, Aug. 4 |url=https://www.spokesman.com/elections/2026/washington-primary-election-aug-4/candidates/richard-freudenberg/ |access-date=2026-06-08 |website=The Spokesman-Review |language=en}}</ref>
+*Matthew Hayes (Independent), [[United States Air Force|Air Force]] veteran and physician<ref name=":1">{{Cite web |last=Dinman |first=Emry |date=2026-05-13 |title=Unusual number of Independents running to represent Eastern Washington in Congress |url=https://www.spokesman.com/stories/2026/may/07/unusual-number-of-independents-running-to-represen/ |access-date=2026-06-08 |website=The Spokesman-Review |language=en}}</ref>
+*Bajun Mavalwalla (Democratic), retired Army intelligence officer<ref name="bajun">{{cite news |last1=Dinman |first1=Emry |title=Rep. Michael Baumgartner already faces seven challengers as year begins |url=https://www.spokesman.com/stories/2026/jan/12/rep-michael-baumgartner-already-faces-seven-challe/ |access-date=January 13, 2025 |work=[[The Spokesman-Review]] |date=January 12, 2025}}</ref>
+*Michael McGarr (Democratic), former copy editor<ref>{{Cite web |title=Michael McGarr, a candidate for U.S. Representative, Congressional District 5 in the 2026 Washington Primary Election, Aug. 4 |url=https://www.spokesman.com/elections/2026/washington-primary-election-aug-4/candidates/michael-mcgarr/ |access-date=2026-06-08 |website=The Spokesman-Review |language=en}}</ref>
+*Nate Powell (Independent), firefighter and marine veteran<ref>{{cite news |last1=King |first1=Rob |title=Spokane firefighter running for Congress, challenging Rep. Baumgartner |url=https://www.kxly.com/news/spokane-firefighter-running-for-congress-challenging-rep-baumgartner/article_39ab2e7b-c457-47ee-8225-c478e0a2f3f2.html |access-date=January 23, 2026 |work=[[KXLY-TV]] |date=January 22, 2026}}</ref>
+*Kyle Usrey (Independent), former charter dean at [[Whitworth University]]<ref name=":1" />
+*David Womack (Democratic), former hospital CEO<ref>{{cite news |title=Womack seeks congressional seat |url=https://www.franklinconnection.com/story/2025/11/26/news/womack-seeks-congressional-seat/2452.html |access-date=November 27, 2025 |work=Franklin Connection |date=November 26, 2025}}</ref>
+
+==== Withdrawn ====
+*Aaron Croft (Independent), [[United States Air Force|Air Force]] veteran ''([[2026 Washington House of Representatives election#District 6|running for state house]])''<ref>{{cite web |title=Aaron Croft — Stand by for updates to my plans!! |url=https://www.croft4congress.com/ |website=Croft4Congress.com |access-date=December 4, 2025}}</ref><ref>{{Cite web |title=Candidate Finance Report {{!}} Washington State Public Disclosure Commission (PDC) |url=https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/3391016 |access-date=2026-01-14 |website=www.pdc.wa.gov}}</ref>
+*Mike Gahvarehchee (Democratic), real estate developer<ref>{{Cite web | title=Spokane congressional candidate who paid a rival for help drops out days after filing | url=https://www.spokesman.com/stories/2026/may/12/spokane-congressional-candidate-who-paid-a-rival-f/ | access-date=2026-08-01 | website=www.spokesman.com}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Michael Baumgartner (R)
+|list=
+;Executive branch officials
+*[[Asif J. Chaudhry]], former [[List of ambassadors of the United States to Moldova|U.S. Ambassador to Moldova]] (2008–2011)<ref name="mb"/>
+*[[Ryan Crocker]], former [[United States Foreign Service Career Ambassador|U.S. Career Ambassador]] (2004-2012)
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web|url=https://www.tipranks.com/news/catalyst/trumps-endorsement-of-baumgartner-potential-stock-market-impacts|title=Trump's Endorsement of Baumgartner: Potential Stock Market Impacts - TipRanks.com|website=TipRanks Financial}}</ref>
+
+;U.S. representatives
+*[[Jim Jordan]], {{ushr|OH|4|OH-04}} (2007–present)<ref name="PaintItRed">{{cite news |last1=Dinman |first1=Emry |title=Baumgartner 'paints it red' with re-election fundraiser alongside guest speaker, Ohio Rep. Jim Jordan |url=https://www.spokesman.com/stories/2025/aug/17/baumgartner-paints-it-red-with-re-election-fundrai/ |access-date=August 18, 2025 |work=[[The Spokesman-Review]] |date=August 18, 2025}}</ref>
+*[[Brad Knott]], {{ushr|NC|13|NC-13}} (2025–present)<ref name="Baumrun"/>
+*[[Cathy McMorris Rodgers]], former [[Washington's 5th congressional district]] (2005–2025)<ref name="mb"/>
+
+;Statewide officials
+*[[Rob McKenna]], former [[Washington Attorney General]] (2005–2013)<ref name="mb"/>
+*[[Sam Reed]], former [[Secretary of State of Washington|Washington Secretary of State]] (2001-2013)<ref name="reedpac"/>
+
+;State legislators
+*[[Mark Schoesler]], former [[Washington State Senate|Senate majority leader]] (2014–2017) from [[Washington's 9th legislative district|SD-09]] (2005–present)<ref name="mb"/>
+*[[Dino Rossi]], [[Washington Senate|state senator]] from the [[Washington's 5th legislative district|5th district]] (1997–2003, 2012, 2016–2017)
+*[[Hunter Abell]], [[Washington House of Representatives|state representative]] from the [[Washington's 7th legislative district|7th district]] (2025–present)<ref name="ferry"/>
+*[[Andrew Engell]], [[Washington House of Representatives|state representative]] from the [[Washington's 7th legislative district|7th district]] (2025–present)<ref name="ferry"/>
+*[[Shelly Short]], [[Washington State Senate|state senator]] from the [[Washington's 7th legislative district|7th district]] (2017–present)<ref name="ferry">{{Cite web |last1=Cabeza |first1=Garret |last2=Carrill-Casas |first2=Monica |title=Baumgartner talks Iran, immigration, Big Beautiful Bill as he kicks off campaign re-election |url=https://www.spokesman.com/stories/2026/may/05/michael-baumgartner-holds-town-hall-in-republic-as/ |date=May 5, 2026}}</ref>
+
+;Local officials
+*[[David Condon]], former mayor of [[Spokane]] (2011–2019)<ref name="PaintItRed"/>
+*[[Nadine Woodward]], former mayor of [[Spokane]] (2019–2023)<ref name="PaintItRed"/>
+*[[Ozzie Knezovich]], former [[Spokane County]] [[County sheriff|Sheriff]] (2006–2022)<ref name="mb"/>
+
+;Individuals
+*[[Tim Eyman]], anti-tax activist<ref name="mb"/>
+*[[Susan Hutchison]], former chair of the [[Washington State Republican Party]] (2013–2018)<ref name="mb"/>
+*[[Jack Thompson (American football)|Jack Thompson]], former [[NFL]] player<ref name="mb"/>
+
+;Organizations
+*[[American Hospital Association]]<ref name="mb"/>
+*[[Associated Builders and Contractors]]<ref name="mb"/>
+* [[Associated General Contractors of America|Associated General Contractors of Washington]]<ref>{{Cite web | title=Endorsements - AGC of Washington | url=https://www.agcwa.com/endorsements/ | archive-url=https://web.archive.org/web/20191121210934/https://www.agcwa.com/endorsements/ | access-date=2026-09-04 | archive-date=2019-11-21}}</ref>
+*[[Farm Credit Council]]<ref name="mb"/>
+* [[International Franchise Association]]<ref name="franchise">{{Cite web | title=IFA Endorses Congressional Candidates in 14 States in July and August Primary Elections - International Franchise Association | url=https://www.franchise.org/2026/07/ifa-endorses-congressional-candidates-in-14-states-in-july-and-august-primary-elections/ | archive-url=https://web.archive.org/web/20260805110903/https://www.franchise.org/2026/07/ifa-endorses-congressional-candidates-in-14-states-in-july-and-august-primary-elections/ | access-date=2026-09-04 | archive-date=2026-08-05}}</ref>
+* [[Mainstream Republicans of Washington]]<ref name="reedpac">{{Cite web | title=Endorsements — Mainstream Republicans of Washington | url=https://www.washingtonmainstream.org/endorsements-1 | access-date=2026-08-01 | website=www.washingtonmainstream.org}}</ref>
+*[[National Association of Realtors]]<ref name="mb"/>
+*[[National Federation of Independent Business]]<ref name="mb"/>
+*[[National Rural Electric Cooperative Association]]<ref name="mb"/>
+* [[NRA Political Victory Fund]]<ref name="nra">{{cite web |title=NRA-PVF {{!}} Grades {{!}} Washington |url=https://www.nrapvf.org/grades/washington |website=nrapvf.org |access-date=15 September 2026 |archive-url=https://web.archive.org/web/20260915140232/https://www.nrapvf.org/grades/washington |archive-date=September 15, 2026 |language=en-us |url-status=bot: unknown}}</ref>
+* [[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{Cite web | title=U.S. Chamber Endorses Rep. Michael Baumgartner for Washington's Fifth District {{!}} U.S. Chamber of Commerce | url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-michael-baumgartner-for-washingtons-fifth-district | access-date=2026-08-01 | website=www.uschamber.com}}</ref>
+* [[U.S. Term Limits]]<ref>{{Cite web | title=Michael Baumgartner Pledges to Support Term Limits on Congress - U.S. Term Limits | url=https://termlimits.com/michael-baumgartner-pledges-to-support-term-limits-on-congress/ | access-date=2026-09-04 | website=termlimits.com}}</ref>
+* [[American Farm Bureau Federation|Washington Farm Bureau]]<ref>{{Cite web| title=2026 WFB PAC Primary Election Endorsements | url=https://wsfb.com/wp-content/uploads/2026/07/2026-WFB-PAC-Primary-Election-Endorsements-June-23-2026.pdf | archive-url=https://web.archive.org/web/20260720185122/https://wsfb.com/wp-content/uploads/2026/07/2026-WFB-PAC-Primary-Election-Endorsements-June-23-2026.pdf | archive-date=2026-07-20}}</ref>
+* [[Washington (state)|Washington State]] [[Young Republicans]]<ref>{{Cite web|url=https://ballotpedia.org/Endorsements_by_Washington_State_Young_Republicans|title=Endorsements by Washington State Young Republicans|website=Ballotpedia}}</ref>
+
+;Political parties
+*[[Asotin County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Join Asotin County Republicans - Engage in Local Politics | url=https://asotincountyrepublicans.com/ | access-date=2026-09-04 | website=asotincountyrepublicans.com}}</ref>
+*[[Franklin County, Washington|Franklin County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Franklin County Republicans – Standing for conservative values and a stronger Franklin County. | url=https://franklinwagop.com/ | archive-url=https://web.archive.org/web/20251115123713/https://franklinwagop.com/ | access-date=2026-09-04 | archive-date=2025-11-15}}</ref>
+*[[Lincoln County, Washington|Lincoln County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=HOME {{!}} Lincoln Co. | url=https://www.lincolncountywarepublicans.com/ | access-date=2026-09-04 | website=www.lincolncountywarepublicans.com}}</ref>
+*[[Pend Oreille County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Home {{!}} Pend Oreille County Republicans {{!}} www.pocrwa.com | url=https://www.pocrwa.com/ | access-date=2026-09-04 | website=www.pocrwa.com}}</ref>
+*[[Spokane County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | url=https://spokanegop.com/hubfs/Sample%20Ballot%202026%20Primary%2020240720.pdf?hsLang=en | title=Official Spokane County Republican Party 2026 Primary Election Endorsed/ Recommended Candidates + Ballot Measure Positions | website=spokanegop.com}}</ref>
+*[[Stevens County, Washington|Stevens County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Home ⋆ Stevens County GOP | url=https://stevenscountygop.com/ | access-date=2026-09-04 | website=stevenscountygop.com}}</ref>
+*[[Walla Walla County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=Home {{!}} WWGOP | url=https://www.wallawallacountygop.com/ | access-date=2026-09-04 | website=www.wallawallacountygop.com}}</ref>
+*[[Whitman County, Washington|Whitman County]] [[Republican Party (United States)|Republican Party]]<ref>{{Cite web | title=whitmancountyrepublicans.org | url=https://whitmancountyrepublicans.org/ | access-date=2026-09-04 | website=whitmancountyrepublicans.org}}</ref>
+
+;Tribes
+*[[Colville Confederated Tribes]]<ref name="tribes"/>
+*[[Eastern Band of Cherokee Indians]]<ref name="mb"/>
+*[[Muckleshoot Indian Tribe]]<ref name="mb"/>
+*[[Puyallup Tribe of Indians]]<ref name="mb"/>
+*[[Spokane Tribe of Indians]]<ref name="tribes">{{Cite web|title=Baumgartner vs. Conroy: Congressional candidates debate on data centers, AI and gender-affirming care|url=https://www.spokesman.com/stories/2026/sep/12/baumgartner-vs-conroy-congressional-candidates-deb/|date=September 12, 2026}}</ref>
+*[[Suquamish Indian Tribe]]<ref name="mb">https://www.localcandidates.org/politicians/michael-baumgartner/endorsements</ref>
+}}
+
+{{Endorsements box
+|title=Carmela Conroy (D)
+|list=
+;Organizations
+*[[Center for Freethought Equality]]<ref name="CFE">{{cite web |title=2026 Endorsements {{!}} CFE PAC |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=21 January 2026}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+{{Endorsements box
+|title=Nate Powell (I)
+|list=
+;Individuals
+*[[Michael Novogratz]], co-founder and CEO of [[Galaxy Digital LP]]<ref>{{Cite web | title=Big money, dark money, union money: The cash trying to win Washington's 5th Congressional district seat | url=https://www.spokesman.com/stories/2026/jul/26/big-money-dark-money-union-money-the-cash-trying-t/ | access-date=2026-09-04 | website=www.spokesman.com}}</ref>
+*[[Dan Osborn]], independent candidate for [[2024 United States Senate election in Nebraska|U.S. Senate in Nebraska in 2024]] and former president of [[Bakery, Confectionery, Tobacco Workers and Grain Millers' International Union]]<ref>{{cite web |title=Working Class Heroes Announces First 2026 Endorsements |url=https://chadronradio.com/working-class-heroes-announces-first-2026-endorsements/ |website=Chadron Radio |date=February 5, 2026 |access-date=May 18, 2026}}</ref>
+*[[Andrew Yang]], entrepreneur, founder of [[Venture for America]], Democratic [[Andrew Yang 2020 presidential campaign|candidate]] for [[President of the United States|president]] in [[2020 United States presidential election|2020]] and [[mayor of New York City]] in [[2021 New York City mayoral election|2021]] ''([[Forward (United States)|Forward]])''<ref name="bpowell">{{Cite web|url=https://ballotpedia.org/Nate_Powell|title=Nate Powell|website=Ballotpedia}}</ref>
+
+;Labor unions
+* [[International Association of Fire Fighters]] Local 27<ref name="ivoter"/>
+* [[International Association of Fire Fighters]] Local 29<ref name="ivoter"/>
+* [[International Association of Fire Fighters]] Local 31<ref name="ivoter"/>
+* [[International Association of Fire Fighters]] Local 1488<ref name="ivoter"/>
+*[[International Union of Operating Engineers]] Local 302<ref>{{Cite web | title=IUOE Local 302 {{!}} POLITICS | url=https://www.iuoe302.org/?zone=/unionactive/view_article.cfm&HomeID=1008207&page=POLITICS | access-date=2026-09-04 | website=www.iuoe302.org}}</ref>
+*[[IUOE]] Local 302<ref name="IUOE"/>
+*[[OPEIU]] Local 8<ref name="fuse"/>
+*[[Sailors' Union of the Pacific]]<ref>{{Cite web | title=Elections {{!}} Sailor's Union | url=https://www.sailors.org/elections | access-date=2026-09-04 | website=www.sailors.org}}</ref>
+*[[SEIU]] Local 775<ref name="fuse">{{Cite web | title=Progressive Voters Guide | url=https://www.progressivevotersguide.com/washington/2026/primary/county/spokane/sample | access-date=2026-09-04 | website=www.progressivevotersguide.com}}</ref>
+*[[Sheet Metal Workers' International Association]] Local 66<ref>https://www.smw66.org/2026/07/13/smart-local-66-general-election-endorsements-2/{{Dead link | date=September 2026 | fix-attempted=yes}}</ref>
+*[[United Association]] Local 598<ref>{{Cite web | title=UA 598 {{!}} Endorsements | url=https://www.ua598.org/en/news-details/webview/endorsements/single/60856 | access-date=2026-09-04 | website=www.ua598.org}}</ref>
+*[[Washington State Labor Council]], [[AFL-CIO]]<ref name=WashLabor/>
+
+;Organizations
+* [[End Citizens United]]<ref name="CU"/>
+* [[Fuse Washington]]<ref name="fuse"/>
+* [[League of Conservation Voters]] Action Fund<ref name="LCVEndorsements">{{cite web
+ |title=LCV Action Fund Endorses New Slate of Candidates for U.S. House of Representatives and Senate
+ |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-new-slate-of-candidates-for-u-s-house-of-representatives-and-senate/
+ |website=League of Conservation Voters
+ |date=4 June 2026
+ |access-date=6 June 2026
+}}</ref>
+* [[International Association of Fire Fighters|Washington State Council of Fire Fighters]]<ref name="ivoter">{{Cite web | title=Voter Guide Profile for WA U.S. Rep., Dist. 5 candidate - Nate Powell | url=https://ivoterguide.com/candidate/92960/race/28767/election/1435 | access-date=2026-09-04 | website=ivoterguide.com}}</ref>
+
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref name="ForwardParty">{{cite web |title=Candidates |url=https://www.forwardparty.com/candidates/ |website=Forward Party |access-date=8 April 2026}}</ref><ref
+name="Endorsements">{{cite web 
+ |title=Forward Party Announces First Round of 2026 Congressional Endorsements|url=https://independentpoliticalreport.com/2026/04/forward-party-announces-first-round-of-2026-congressional-endorsements/ 
+ |website=Independent Political Report 
+ |date=April 2026 
+ |access-date=8 April 2026}}</ref>
+}}
+{{Endorsements box
+|title=Kevin Fagan (D)
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+*[[Progressive Victory]]<ref name="Progressive Victory" />
+*[[Spokane County]] [[Young Democrats of America|Young Democrats]]<ref name="bluevoterguide">{{Cite web | title=Washington District 5 with Endorsements | url=https://bluevoterguide.org/district/WA/Washington_District_5/32666/571 | access-date=2026-09-04 | website=bluevoterguide.org}}</ref>
+*[[Young Democrats of America|Young Democrats]] of [[Washington (state)|Washington]]<ref name="bluevoterguide"/>
+}}
+{{Endorsements box
+|title=Bajun Mavalwalla (D)
+|list=
+;Labor unions
+* [[International Brotherhood of Electrical Workers]] Local 77<ref>{{Cite web | url=https://static1.squarespace.com/static/66765525b3caac1bb8456dba/t/6a60e5a751d56d2ca3ee1527/1784735143979/2026+Endorsement+list+2026.pdf | title=2026 Endorsements | website=static1.squarespace.com}}</ref>
+}}
+{{Endorsements box
+|title=Richard Freudenberg (D)
+|list=
+;Political parties
+* [[Spokane County]] [[Democratic Party (United States)|Democratic Party]]<ref>{{Cite web | title=2026 Primary Endorsed Candidates for U.S. House — Spokane County Democrats | url=https://www.spokanedemocrats.org/endorsed-candidates-2026-house | access-date=2026-09-04 | website=www.spokanedemocrats.org}}</ref>
+}}
+{{Endorsements box
+|title=David Womack (D)
+|list=
+;Political parties
+* [[Walla Walla County]] [[Democratic Party (United States)|Democratic Party]]<ref>{{Cite web|title=Endorsements|url=https://www.wallawallademocrats.com/endorsements-1|date=June 2026}}</ref>
+}}
+===Fundraising===
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michael Baumgartner (R)
+|$1,738,226
+|$976,007
+|$953,783
+|-
+|{{party shading/Democratic}}|Carmela Conroy (D)
+|$396,216{{efn|$9,940 of this total was self-funded by Conroy.}}
+|$334,895
+|$74,462
+|-
+|{{party shading/Independent}}|Nate Powell (I)
+|$359,950{{efn|$12,086.89 of this total was self-funded by Powell.}}
+|$249,189
+|$110,761
+|-
+|{{party shading/Democratic}}|David Womack (D)
+|$131,462{{efn|$7,811 of this total was self-funded by Womack.}}
+|$95,895
+|$35,567
+|-
+|{{party shading/Democratic}}|Bajun Mavalwalla (D)
+|$128,134{{efn|$3,818 of this total was self-funded by Mavalwalla.}}
+|$113,369
+|$14,765
+|-
+|{{party shading/Independent}}|Matthew Hayes (I)
+|$40,770
+|$4,265
+|$36,505
+|-
+|{{party shading/Democratic}}|Richard Freudenberg (D)
+|$32,888{{efn|$26,944 of this total was self-funded by Freudenberg.}}
+|$12,670
+|$20,217
+|-
+|{{party shading/Independent}}|Kyle Usrey (I)
+|$30,125{{efn|$30,000 of this total was self-funded by Usrey.}}
+|$3,907
+|$26,218
+|-
+|{{party shading/Democratic}}|Kevin Fagan (D)
+|$39,100
+|$25,937
+|$13,163
+|-
+|{{party shading/Independent}}|Ann Marie Danimus (I)
+|$16,430
+|$16,405
+|$47
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Washington 5th |url=https://www.fec.gov/data/elections/house/WA/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Debates===
+<div class="overflowbugx" style="overflow:auto; width:auto">
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Washington's 5th congressional district primary debates
+|- style="font-size:small;"
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Independent (US)|Independent]]</small>
+! scope="col"| <small>[[Independent (US)|Independent]]</small>
+! scope="col"| <small>[[Independent (US)|Independent]]</small>
+! scope="col"| <small>[[Independent (US)|Independent]]</small>
+! scope="col"| <small>[[Independent (US)|Independent]]</small>
+|-
+! colspan="5" rowspan="2" |Key: {{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small><br> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small>{{Colors|black|#b5b5b5|&nbsp;*&nbsp;}} <small>Not declared&nbsp;</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Independent (US)}}"|
+! scope="col" style="background:{{party color|Independent (US)}}"|
+! scope="col" style="background:{{party color|Independent (US)}}"|
+! scope="col" style="background:{{party color|Independent (US)}}"|
+! scope="col" style="background:{{party color|Independent (US)}}"|
+|-
+! scope="col" | Baumgartner
+! scope="col" | Conroy
+! scope="col" | Mavalwalla
+! scope="col" | Womack
+! scope="col" | Fagan
+! scope="col" | Freudenberg
+! scope="col" | McGarr
+! scope="col" | Bartleson
+! scope="col" | Danimus
+! scope="col" | Hayes
+! scope="col" | Powell
+! scope="col" | Usrey
+|- style="background:#fff; font-size:small;"
+!1
+| style="white-space:nowrap;" | April 15,<br>2026<ref>{{Cite web | title=Democratic congressional candidates talk immigration, health care at Walla Walla forum {{!}} Elections {{!}} union-bulletin.com | url=https://www.union-bulletin.com/news/local/elections/democratic-congressional-candidates-talk-immigration-health-care-at-walla-walla-forum/article_d650d0a7-a8f3-429c-af47-52f57caf47c2.html | archive-url=https://web.archive.org/web/20260418094750/https://www.union-bulletin.com/news/local/elections/democratic-congressional-candidates-talk-immigration-health-care-at-walla-walla-forum/article_d650d0a7-a8f3-429c-af47-52f57caf47c2.html | access-date=2026-08-02 | archive-date=2026-04-18}}</ref>
+| style="white-space:nowrap;" | [[Walla Walla, Washington|Walla Walla]] [[Democratic Party (United States)|Democratic Party]]
+| style="white-space;" | Rodney Outlaw
+| [https://www.youtube.com/watch?v=zonsdBW0zOY YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{won|place=2|'''*'''}}
+| {{No|'''N'''}}
+| {{won|place=2|'''*'''}}
+| {{No|'''N'''}}
+| {{won|place=2|'''*'''}}
+|- style="background:#fff; font-size:small;"
+!2
+| style="white-space:nowrap;" | April 24,<br>2026<ref>{{Cite web |title=EWU hosts student-led nonpartisan WA-5th congressional debate |url=https://theeasterner.org/52115/news/ewu-hosts-student-led-nonpartisan-wa-5th-congressional-debate/ |website=The Easterner |publisher=Eastern Washington University}}</ref>
+| style="white-space:nowrap;" | [[Eastern Washington University]]
+| style="white-space;" | Alesia Levchenko
+| style="white-space:nowrap;" |
+[https://www.youtube.com/watch?v=_1f7sfLH_8U YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{won|place=2|'''*'''}}
+| {{Yes|'''P'''}}
+| {{won|place=2|'''*'''}}
+| {{Yes|'''P'''}}
+| {{won|place=2|'''*'''}}
+|- style="background:#fff; font-size:small;"
+!3
+| style="white-space:nowrap;" | May 30,<br>2026<ref>{{Cite web | title=Power to the People - Solution-based Candidate Forum Tickets, Saturday, May 30 • 1 PM - 3:30 PM {{!}} Eventbrite | url=https://www.eventbrite.com/e/power-to-the-people-solution-based-candidate-forum-tickets-1989177070164 | access-date=2026-08-02 | website=www.eventbrite.com}}</ref>
+| style="white-space:nowrap;" | [[Spokane, Washington|Spokane]] [[Indivisible (organization)|Indivisible]]<br>[[Showing Up for Racial Justice]]
+| {{nowrap|Jeff Thomas,}} et al.
+| [https://www.youtube.com/watch?v=Ip8ti7PiFuM KSPS-TV (PBS)]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{won|place=2|'''*'''}}
+| {{Yes|'''P'''}}
+| {{won|place=2|'''*'''}}
+| {{Yes|'''P'''}}
+| {{won|place=2|'''*'''}}
+|- style="background:#fff; font-size:small;"
+!4
+| style="white-space:nowrap;" | May 31,<br>2026<ref>{{Cite web | title=Fairfield, WA – The town that celebrates Flag Day | url=https://fairfieldwa.com/ | access-date=2026-08-02 | website=fairfieldwa.com}}</ref>
+| style="white-space:nowrap;" | [[Fairfield, Washington|Fairfield Community Center]]
+| style="white-space;" |
+| [https://www.youtube.com/watch?v=y_3YPkP5Lq8 YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|- style="background:#fff; font-size:small;"
+!5
+| style="white-space:nowrap;" | June 2,<br>2026<ref>{{Cite web|url=https://www.bigcountrynewsconnection.com/democratic-candidates-for-wa-05-to-meet-voters-at-clarkston-forum/article_9522ece0-1738-4103-bb3e-fc737bcd6b8f.html|title=Nothing found for Democratic Candidates For Wa 05 To Meet Voters At Clarkston Forum Article_9522Ece0 1738 4103 Bb3E Fc737Bcd6B8F|website=Big Country News}}</ref>
+| style="white-space:nowrap;" | [[Asotin County, Washington|Asotin County]] [[Democratic Party (United States)|Democratic Party]]
+| style="white-space;" |
+| [https://krfp.org/2026/06/20260605/ KFRP 90.3]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|- style="background:#fff; font-size:small;"
+!6
+| style="white-space:nowrap;" | July 5,<br>2026<ref>{{Cite web | title=Congressional candidates debate immigration, electability, Israel and trans rights in S-R forum | url=https://www.spokesman.com/stories/2026/jul/05/congressional-candidates-debate-immigration-electa/ | access-date=2026-08-02 | website=www.spokesman.com}}</ref>
+| style="white-space:nowrap;" | [[The Spokesman-Review]]
+| Emry Dinman
+| [https://www.youtube.com/watch?v=ro_9KjR83KU YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+!7
+| style="white-space:nowrap;" | July 12,<br>2026<ref>https://spokanelibrary.libnet.info/event/16557186electa/{{Dead link | date=September 2026 | fix-attempted=yes}}</ref>
+| style="white-space:nowrap;" | [[Spokane County]] Library<br>[[KVFS-LP]]
+| Bert Emerson
+| [https://archive.kyrs.org/ KVFS-LP]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-A|'''A'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+!8
+| style="white-space:nowrap;" | July 13,<br>2026<ref>{{Cite web | title=US House of Representatives Primary Forum - League of Women Voters of Pullman | url=https://lwvpullman.org/docs/evening%20meeting/House_Rep_Prim_Forum/ | access-date=2026-08-02 | website=lwvpullman.org}}</ref>
+| style="white-space:nowrap;" | [[League of Women Voters]] Pullman
+| Deb Olson
+| [https://www.youtube.com/watch?v=BXLFwqr7ApQ YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-A|'''A'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+|- style="background:#fff; font-size:small;"
+!9
+| style="white-space:nowrap;" | July 18,<br>2026<ref>{{Cite web | title=Facebook | url=https://www.facebook.com/photo/?fbid=1462546009247056&set=pb.100064750116324.-2207520000 | access-date=2026-08-02 | website=www.facebook.com}}</ref>
+| style="white-space:nowrap;" | [[Stevens County, Washington|Stevens County]] [[Democratic Party (United States)|Democratic Party]]
+| Lisa Wolfe
+| [https://www.youtube.com/watch?v=08JPREkZfl8 YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|- style="background:#fff; font-size:small;"
+!10
+| style="white-space:nowrap;" | July 19,<br>2026<ref>{{Cite web | title=Get The Scoop on the 2026 Primary Candidates — Spokane County Democrats | url=https://www.spokanedemocrats.org/events/salmon-feed-2026-448rc | access-date=2026-08-02 | website=www.spokanedemocrats.org}}</ref>
+| style="white-space:nowrap;" | [[Spokane County]] [[Democratic Party (United States)|Democratic Party]]
+| Lili Navarrete
+| [https://www.spokanedemocrats.org/events/salmon-feed-2026-448rc Spokane Democrats]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-A|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+!11
+| style="white-space:nowrap;" | July 30,<br>2026<ref>{{Cite web | title=Voting is hot. So is our candidate forum. | url=https://www.rangemedia.co/voting-is-hot-so-is-our-candidate-forum | access-date=2026-09-04 | website=www.rangemedia.co}}</ref>
+| style="white-space:nowrap;" | [[KSPS-TV|KSPS-PBS]]
+| Erin Sellers
+| [https://www.youtube.com/watch?v=fUtvienFwsA YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-W|'''W'''}}{{efn|Powell originally accepted the invitation to attend, but pulled out last minute to go to a donor fundraiser. It was later revealed that the fundraiser had already ended by the time the event began, so it is unclear why Powell withdrew.}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+|}</div>
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Michael<br />Baumgartner<br />(R)
+! style="width:60px;"| Carmela<br />Conroy<br />(D)
+! style="width:60px;"| Ann Marie<br />Danimus<br />(I)
+! style="width:60px;"| Kevin<br />Fagan<br />(D)
+! style="width:60px;"| Anthony<br />Jensen<br />(R)
+! style="width:60px;"| Bajun<br />Mavalwalla<br />(D)
+! style="width:60px;"| Nate<br />Powell<br />(I)
+! style="width:60px;"| Marcus<br />Riccelli<br />(D)
+! style="width:60px;"| David<br />Womack<br />(D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{Cite web|title=Independent Candidate Action – Washington CD-5 – Toplines – March 2026|url=https://docs.google.com/document/d/1SqStOCFA_voow5JKhKcTyFrUIO1a6NO4NPC3Et5TEH4/edit?tab=t.0|work=[[Change Research]]|date=June 8, 2026|access-date=July 13, 2026}}</ref>{{efn-ua|Poll commissioned by Independent Candidates Action, which is affiliated with Powell's campaign.<ref>{{Cite web|url=https://www.independentaction.org/news/revhhcbrfzodrm3lh38l9axg2de96b|title=Where the Data Points: Five Races, Five Paths to Victory|website=Independent Candidates Action|access-date=July 13, 2026}}</ref>}}
+|March 17–19, 2026
+|617 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''39%'''
+|{{party shading/Democratic}}|'''9%'''
+|4%
+|3%
+|4%
+|2%
+|4%
+|5%
+|2%
+|2%{{efn|"Would not vote" with 2%; Anthony Whisenhunt (D) with 0%}}
+|25%
+|}
+
+===Results===
+[[File:2026 Washington's 5th congressional district primary election results map by county.svg|thumb|140px|Results by county{{Collapsible list
+| title = {{legend|#e27f7f|Baumgartner}}| {{legend|#ffb2b2|40–50%}} {{legend|#e27f7f|50–60%}} {{legend|#d75d5d|60–70%}} {{legend|#d72f30|70–80%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Michael Baumgartner]] (incumbent)
+| votes = 96,791
+| percentage = 47.4
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Carmela Conroy]]
+| votes = 38,487
+| percentage = 18.8
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Nate Powell
+| votes = 33,443
+| percentage = 16.4
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Kevin Fagan
+| votes = 9,048
+| percentage = 4.4
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = David Womack
+| votes = 7,242
+| percentage = 3.5
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Bajun Mavalwalla
+| votes = 6,482
+| percentage = 3.2
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Ann Marie Danimus
+| votes = 2,920
+| percentage = 1.4
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Richard Freudenberg
+| votes = 2,866
+| percentage = 1.4
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Matthew Hayes
+| votes = 2,417
+| percentage = 1.2
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Kyle Usrey
+| votes = 2,274
+| percentage = 1.1
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Michael McGarr
+| votes = 1,152
+| percentage = 0.6
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Andrew Bartleson
+| votes = 915
+| percentage = 0.4
+}}
+{{Election box write-in with party link no change
+| votes = 172
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 204,209
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|October 20, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Likely|R}}
+|October 29, 2026
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|R}}
+|October 20, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/house/2026/toss-up|title=Battle for the House 2026|access-date=June 27, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Likely|R}}
+|May 24, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite news|title=2026 House Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house|newspaper=[[The Economist]]}}</ref>
+|{{USRaceRating|Safe|R}}
+|June 4, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|R}}
+|July 28, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite web|title=Fox News 2026 House Power Rankings|url=https://www.270towin.com/2026-house-election/table/fox-news-2026-house-power-rankings|website=[[Fox News]]}}</ref>
+|{{USRaceRating|Safe|R}}
+|August 5, 2026
+|-
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Michael<br />Baumgartner (R)
+! style="width:100px;"| Carmela<br/>Conroy (D)
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WA05ToplinesMay2026"/>{{efn|Poll commissioned by Working Class Heroes Fund PAC, which is affiliated with Nate Powell's campaign<ref>{{Cite web|last1=Doody |first1=Ben |title=Democratic-aligned poll shows Dan Osborn leading Pete Ricketts in Senate race |date=May 12, 2026 |url=https://omaha.com/news/local/government-politics/article_33558b63-5e55-495d-b381-4e2626ef3d06.html}}</ref>|name="wchf"}}
+|May 18–25, 2026
+|578 (LV)
+|±&nbsp;5.6%
+|{{party shading/Republican}}|'''53%'''
+|47%
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);;}}
+<!-- = = = don't edit the line above = = = -->
+'''Michael Baumgartner vs. Bajun Mavalwalla'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Michael<br />Baumgartner (R)
+! style="width:100px;"| Bajun<br/>Mavalwalla (D)
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WA05ToplinesMay2026"/>{{efn|name="wchf"}}
+|May 18–25, 2026
+|578 (LV)
+|±&nbsp;5.6%
+|{{party shading/Republican}}|'''54%'''
+|46%
+|}
+
+'''Michael Baumgartner vs. Nate Powell'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Michael<br />Baumgartner (R)
+! style="width:100px;"| Nate<br/>Powell (I)
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WA05ToplinesMay2026"/>{{efn|name="wchf"}}
+|May 18–25, 2026
+|578 (LV)
+|±&nbsp;5.6%
+|47%
+|{{party shading/Independent}}|'''53%'''
+|}
+
+'''Michael Baumgartner vs. David Womack'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Michael<br />Baumgartner (R)
+! style="width:100px;"| David<br/>Womack (D)
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WA05ToplinesMay2026"/>{{efn|name="wchf"}}
+|May 18–25, 2026
+|578 (LV)
+|±&nbsp;5.6%
+|{{party shading/Republican}}|'''54%'''
+|46%
+|}
+'''Michael Baumgartner vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Michael<br />Baumgartner (R)
+! style="width:100px;"| Generic<br/>Democrat
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WA05ToplinesMay2026">{{Cite web|url=https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/WA-05%20Toplines.pdf|title=WA-05 Toplines|publisher=Tavern Research|access-date=May 29, 2026}}</ref>{{efn|name="wchf"}}
+|May 18–25, 2026
+|578 (LV)
+|±&nbsp;5.6%
+|{{party shading/Republican}}|'''53%'''
+|47%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin no change |title=2026 Washington's 5th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Michael Baumgartner]] (incumbent)
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Carmela Conroy]]
+| votes = 
+| percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Washington's 6th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 6
+| next_year = 2028
+| image1 = Randall Emily 119th Congress (cropped).jpg
+| nominee1 = [[Emily Randall]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Teresa Fox
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 6th congressional district election results map by county.svg|200px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Emily Randall]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 6th congressional district}}
+The 6th district encompasses the [[Olympic Peninsula]], the [[Kitsap Peninsula]], including the cities of [[Bremerton, Washington|Bremerton]] and [[Port Orchard, Washington|Port Orchard]], and the majority of [[Tacoma, Washington|Tacoma]]. The incumbent is Democrat [[Emily Randall]], who was elected with 56.7% of the vote in 2024.<ref name="HPVT"/>
+
+===Candidates===
+====Advanced to general====
+*Teresa Fox (Republican), occupational safety professional<ref>{{Cite web |title=FEC Form 2 for Report FEC-1948979 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA06286/1948979 |access-date=2026-02-20 |website=docquery.fec.gov}}</ref><ref>{{cite news |title=Bremerton's Teresa Fox Launches Campaign for 6th Congressional District |url=https://www.myclallamcounty.com/2026/03/12/bremertons-teresa-fox-launches-campaign-for-6th-congressional-district/ |access-date=March 18, 2026 |work=My Clallam County |date=March 12, 2026}}</ref>
+*[[Emily Randall]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848979 |url=https://docquery.fec.gov/cgi-bin/forms/H4WA06117/1848979/ |access-date=2025-09-28 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*Macy Jones (no party preference)<ref name="votewa candidatelist" />
+*Leon Lawson (Trump Republican),{{efn|name=party}} used car dealer and perennial candidate<ref>{{Cite web |title=FEC Form 2 for Report FEC-1951482 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA06260/1951482 |access-date=2026-03-04 |website=docquery.fec.gov}}</ref>
+*Brian P. O'Gorman (Independent)<ref name="votewa candidatelist" />
+
+===Endorsements===
+{{Endorsements box
+|title=Emily Randall (D)
+|list=
+;Labor unions
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+
+;Organizations
+*[[Center for Freethought Equality]]<ref name="CFE"/>
+*[[Giffords]]<ref>{{cite web |title=Emily Randall |url=https://giffords.org/candidates/emily-randall-2/ |website=giffords.org |date=June 24, 2026}}</ref>
+*[[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[J Street]]<ref>{{Cite web|url=https://jstreetpac.org/candidate/emily-randall/|title=Emily Randall}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="auto"/>
+*[[League of Conservation Voters]] Action Fund<ref name="LCV"/>
+*[[LGBTQ+ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-joanna-mendoza-kevin-morrison-jeremy-moss-for-the-u-s-house-2025-candidates/|title=LGBTQ+ Victory Fund Endorses JoAnna Mendoza, Kevin Morrison, Jeremy Moss for the U.S. House & 2025 Candidates|date=July 1, 2025|access-date=July 28, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Reproductive Freedom for All]]<ref name="auto1"/>
+}}
+
+{{Endorsements box
+|title=Macy Jones (NPP)
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Emily Randall (D)
+|$948,185
+|$772,856
+|$203,199
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Washington 6th |url=https://www.fec.gov/data/elections/house/WA/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 Washington's 6th congressional district primary election results map by county.svg|thumb|200px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|Randall}}| {{legend|#a5b0ff|40–50%}} {{legend|#7996e2|50–60%}} {{legend|#6674de|60–70%}} {{legend|#584cde|70–80%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Emily Randall]] (incumbent)
+| votes = 132,805
+| percentage = 58.8
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Teresa Fox
+| votes = 57,700
+| percentage = 25.5
+}}
+{{Election box candidate no change
+| party = Trump Republican{{efn|name=party}}
+| candidate = Leon Lawson
+| votes = 21,965
+| percentage = 9.7
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Brian P. O'Gorman
+| votes = 7,307
+| percentage = 3.2
+}}
+{{Election box candidate with party link no change
+| party = No party preference
+| candidate = Macy Jones
+| votes = 6,044
+| percentage = 2.7
+}}
+{{Election box write-in with party link no change
+| votes = 141
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 225,962
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Emily Randall (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20261022160706/https://nwpc.org/endorsed-candidates |archive-date=October 22, 2026 |access-date=October 24, 2026</ref>
+}}
+
+====Results====
+{{Election box begin no change |title=2026 Washington's 6th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Emily Randall]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Teresa Fox
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Washington's 7th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 7
+| next_year = 2028
+| image1 = Pramila Jayapal, official portrait, 116th Congress (cropped).jpg
+| nominee1 = [[Pramila Jayapal]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Nirav Sheth
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 7th congressional district election results map by county.svg|120px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Pramila Jayapal]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 7th congressional district}}
+The 7th district is based in northern and western [[Seattle]]. The incumbent is Democrat [[Pramila Jayapal]], who was re-elected with 83.9% of the vote in 2024.<ref name="HPVT"/>
+
+===Candidates===
+====Advanced to general====
+*[[Pramila Jayapal]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849248 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA07458/1849248/ |access-date=2025-10-03 |website=docquery.fec.gov}}</ref>
+*Nirav Sheth (Republican), restaurant owner and candidate for the 10th district in [[2024 United States House of Representatives elections in Washington#District 10|2024]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1956236 |url=https://docquery.fec.gov/cgi-bin/forms/H4WA08147/1956236 |access-date=2026-03-26 |website=docquery.fec.gov}}</ref>
+====Eliminated in primary====
+*David W. Blomstrom (Fifth Republic){{efn|name=party}}<ref name="votewa candidatelist" />
+*Gwen Kirkland (Democratic), community organizer<ref name="votewa candidatelist" />
+
+===Endorsements===
+{{Endorsements box
+|title=Pramila Jayapal (D)
+|list=
+;Labor unions
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+*[[Center for Freethought Equality]]<ref name="CFE"/>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Pramila Jayapal |url=https://giffords.org/candidates/pramila-jayapal-2/ |website=giffords.org |date=June 24, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Pramila Jayapal |url=https://jstreetpac.org/candidate/pramila-jayapal/ |website=JStreetPAC |access-date=21 January 2026}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+*[[Peace Action]]<ref>{{cite web |title=Meet Our 2026 Candidates |url=https://www.peaceaction.org/endorsements/ |website=Peace Action |access-date=17 November 2025 |language=en-EN}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Progressive Democrats of America]]<ref>{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements/ |website=Progressive Democrats of America |access-date=17 November 2025 |date=22 February 2021}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Elections |url=https://reproductivefreedomforall.org/elections/ |website=Reproductive Freedom for All |access-date=17 November 2025}}</ref>
+*[[Track AIPAC]]<ref name="TrackAIPAC" />
+
+;Newspapers
+*''[[The Stranger (newspaper)|The Stranger]]''<ref name="stranger"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Pramila Jayapal (D)
+|$2,014,217
+|$2,053,008
+|$1,973,933
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Washington 7th |url=https://www.fec.gov/data/elections/house/WA/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Results===
+[[<!-- Please do not remove this map as it shows the correct county results for this election in addition to the 2022 7th congressional district election -->File:2022 WA 07 General.svg|thumb|120px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|Jayapal}}| {{legend|#3933e5|80–90%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Pramila Jayapal]] (incumbent)
+| votes = 182,844
+| percentage = 84.4
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Nirav Sheth
+| votes = 21,282
+| percentage = 9.8
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Gwen Kirkland
+| votes = 7,519
+| percentage = 3.5
+}}
+{{Election box candidate no change
+| party = Fifth Republic{{efn|name=party}}
+| candidate = David W. Blomstrom
+| votes = 4,294
+| percentage = 2.0
+}}
+{{Election box write-in with party link no change
+| votes = 802
+| percentage = 0.4
+}}
+{{Election box total no change
+| votes = 216,741
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+====Results====
+{{Election box begin no change |title=2026 Washington's 7th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Pramila Jayapal]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Nirav Sheth
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Washington's 8th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 8
+| next_year = 2028
+| image1 = Kim Schrier Official Portrait 116th Congress (cropped).jpg
+| nominee1 = [[Kim Schrier]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Spencer Meline
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 8th congressional district election results map by county.svg|200px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Kim Schrier]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 8th congressional district}}
+The 8th district is based in the eastern suburbs of [[Seattle]], including [[Sammamish, Washington|Sammamish]], [[Issaquah, Washington|Issaquah]], and [[Maple Valley, Washington|Maple Valley]], and also takes in areas east of the [[Cascade Range|Cascades]], including [[Wenatchee, Washington|Wenatchee]], [[Leavenworth, Washington|Leavenworth]], and [[Ellensburg, Washington|Ellensburg]]. The incumbent is Democrat [[Kim Schrier]], who was re-elected with 54.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Candidates===
+====Advanced to general====
+*Spencer Meline (Republican), small business owner<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA08167/1945255/|title=FEC Form 2 for Report FEC-1945255|website=docquery.fec.gov}}</ref>
+*[[Kim Schrier]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849711 |url=https://docquery.fec.gov/cgi-bin/forms/H8WA08189/1849711/ |access-date=2025-10-03 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*Keith Arnold (Democratic)<ref name="votewa candidatelist" />
+*Trinh Ha (Republican), former consultant<ref>{{Cite web |title=FEC Form 2 for Report FEC-1922272 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA08159/1922272 |access-date=2025-10-18 |website=docquery.fec.gov}}</ref>
+*Bob Hagglund (Republican), IT professional and perennial candidate<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA08126/1897847/|title=FEC Form 2 for Report FEC-1897847|website=docquery.fec.gov}}</ref>
+*Andres Valleza (Republican), former parole officer<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA08142/1912947/|title=FEC Form 2 for Report FEC-1912947|website=docquery.fec.gov}}</ref>
+
+=== Endorsements ===
+{{Endorsements box|title=Trinh Ha (R)
+|list=
+;Organizations 
+*[[Mainstream Republicans of Washington]] ''(co-endorsement with Hagglund)''<ref name="auto5">{{Cite web | title=Endorsements — Mainstream Republicans of Washington | url=https://www.washingtonmainstream.org/endorsements-1 | access-date=2026-08-02 | website=www.washingtonmainstream.org}}</ref>}}
+
+{{Endorsements box|title=Bob Hagglund (R)
+|list=
+;Organizations
+*[[Mainstream Republicans of Washington]] ''(co-endorsement with Ha)''<ref name="auto5"/> 
+;Party chapters 
+* [[Snohomish County]] Republican Party ''(co-endorsement with Meline)''<ref name="auto4">{{cite web |title=Endorsements |url=https://snocogop.org/ |website=Snohomish County Republican Party |access-date=2026-08-01}}</ref>}}
+
+{{Endorsements box|title=Spencer Meline (R)
+|list=
+;Party chapters
+* [[King County]] Republican Party<ref>{{cite web |title=2026 Endorsed Candidates |url=https://kcgop.org/ |website=King County Republican Party |access-date=2026-08-01}}</ref>
+* [[Snohomish County]] Republican Party ''(co-endorsement with Hagglund)''<ref name="auto4"/>
+}}
+
+{{Endorsements box|title=Kim Schrier (D)
+|list=
+;Labor unions
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPACLink"/>
+*[[Democratic Majority for Israel]]<ref name="DMFI"/>
+*[[J Street]]<ref>{{cite web |title=Kim Schrier |url=https://jstreetpac.org/candidate/kim-schrier/ |website=JStreetPAC |access-date=18 April 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="auto"/>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Reproductive Freedom for All]]<ref name="auto1"/>
+*[[Vote Mama]]<ref name="votemama">{{Cite web |title=Vote Mama PAC {{!}} Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-06-13 |website=Vote Mama PAC |language=en}}</ref>
+
+;Newspapers
+*''[[The Stranger (newspaper)|The Stranger]]''<ref name="stranger"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Trinh Ha (R)
+|$102,951
+|$19,753
+|$83,197
+|-
+|{{party shading/Democratic}}|Kim Schrier (D)
+|$2,449,112
+|$982,947
+|$3,287,787
+|-
+|{{party shading/Republican}}|Bob Hagglund (R)
+|$1,126
+|$19
+|$1,106
+|-
+|{{party shading/Republican}}|Spencer Meline (R)
+|$34,145
+|$914
+|$33,230.
+|-
+|{{party shading/Republican}}|Andres Valleza (R)
+|$18,105
+|$17,776
+|$406
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Washington 8th |url=https://www.fec.gov/data/elections/house/WA/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 Washington's 8th congressional district primary election results map by county.svg|thumb|200px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|Schrier}}| {{legend|#a5b0ff|40–50%}} {{legend|#6674de|60–70%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Kim Schrier]] (incumbent)
+| votes = 102,853
+| percentage = 53.7
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Spencer Meline
+| votes = 30,324
+| percentage = 15.8
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Trinh Ha
+| votes = 28,340
+| percentage = 14.8
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Bob Hagglund
+| votes = 20,382
+| percentage = 10.6
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Keith Arnold
+| votes = 4,777
+| percentage = 2.5
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Andres Valleza
+| votes = 4,549
+| percentage = 2.4
+}}
+{{Election box write-in with party link no change
+| votes = 360
+| percentage = 0.2
+}}
+{{Election box total no change
+| votes = 191,585
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|September 25, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|August 13, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|November 19, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+
+====Results====
+{{Election box begin no change |title=2026 Washington's 8th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Kim Schrier]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Spencer Meline
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 9==
+{{Infobox election
+| election_name = 2026 Washington's 9th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 9
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 9
+| next_year = 2028
+| image1 = File:Adam Smith Clerk.jpg
+| nominee1 = [[Adam Smith (Washington politician)|Adam Smith]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Doug Basler
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 9th congressional district election results map by county.svg|150px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Adam Smith (Washington politician)|Adam Smith]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 9th congressional district}}
+The 9th district encompasses southern and eastern [[Seattle]], southern [[Bellevue, Washington|Bellevue]], and most of [[Renton, Washington|Renton]], [[Kent, Washington|Kent]], [[Auburn, Washington|Auburn]], and [[Federal Way, Washington|Federal Way]]. The incumbent is Democrat [[Adam Smith (Washington politician)|Adam Smith]], who was re-elected with 65.4% of the vote in 2024.<ref name="HPVT"/>
+
+===Candidates===
+====Advanced to general====
+*Doug Basler (Republican), businessman and perennial candidate<ref name="votewa candidatelist" />
+*[[Adam Smith (Washington politician)|Adam Smith]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848776 |url=https://docquery.fec.gov/cgi-bin/forms/H6WA09025/1848776 |access-date=2025-09-28 |website=docquery.fec.gov}}</ref><ref name="votewa candidatelist" />
+
+====Eliminated in primary====
+*Melissa Chaudhry (Democratic), nonprofit grant writer and runner-up for this district in [[2024 United States House of Representatives elections in Washington#District 9|2024]]<ref>{{Cite web |date=2025-09-04 |title=Homeland Security calls out Seattle mayor for defending 'criminal illegal alien' taken into custody |url=https://mynorthwest.com/mynorthwest-politics/ice-custody/4123061 |access-date=2025-09-12 |website=[[KIRO-FM]] |language=en-US}}</ref><ref name="votewa candidatelist" />
+*Jacob Perasso (Socialist Workers)<ref name="votewa candidatelist" />
+*[[Kshama Sawant]] (Independent), former [[Seattle city council]]or (2014–2024)<ref>{{cite news |title=Kshama Sawant to challenge Rep. Adam Smith for congress |url=https://mynorthwest.com/mynorthwest-politics/kshama-sawant-smith/4094771 |access-date=June 2, 2025 |work=[[MyNorthwest.com]] |date=June 2, 2025 |language=en}}</ref><ref name="votewa candidatelist" />
+
+===Endorsements===
+{{Endorsements box
+|title=Adam Smith (D)
+|list=
+;Labor unions
+*[[IUOE]] Local 302<ref name="IUOE"/>
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPACLink"/>'' (fundraising suspended)''<ref>{{Cite web | title=AIPAC ends fundraising for endorsees who voted to cut off Israel aid | date=July 17, 2026 | url=https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/ | archive-url=https://web.archive.org/web/20260718004155/https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/ | access-date=2026-08-02 | archive-date=2026-07-18|url-status=live}}</ref>
+*[[J Street]]<ref>{{cite web |title=Adam Smith |url=https://jstreetpac.org/candidate/adam-smith/ |website=JStreetPAC |access-date=18 April 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+{{Endorsements box
+|title=Kshama Sawant (I)
+|list=
+;Individuals
+* [[Chris Hedges]], journalist and [[Presbyterian]] minister<ref>{{cite news
+ |last=Hedges
+ |first=Chris
+ |title=Chris Hedges On Fighting the Corporate Duopoly at the Ballot Box With Kshama Sawant
+ |url=https://www.indybay.org/newsitems/2026/06/26/18886976.php
+ |work=Indybay
+ |publisher=San Francisco Bay Area Independent Media Center
+ |date=2026-06-26
+ |access-date=2026-07-24
+}}</ref>
+
+;Organizations
+* [[Track AIPAC]]<ref>{{Cite web|last=Krieg|first=Hannah|url=https://www.theburnerseattle.com/post/aipac-tracker-endorses-kshama-sawant-over-incumbent-backed-by-more-than-1-million-for-pro-israel-an|title=AIPAC Tracker Endorses Kshama Sawant Over Incumbent Backed By More Than $1 Million For Pro-Israel And Defense Industry PACs|website=The Burner|date=September 17, 2025|access-date=July 16, 2026}}</ref>
+
+;Political parties
+*Argentina's [[Workers' Party (Argentina)|Workers' Party]]<ref>{{Cite web|url=https://prensaobrera.com/internacionales/kshama-sawant-una-candidatura-socialista-independiente-desafia-al-bipartidismo-en-estados-unidos |title=Kshama Sawant: una candidatura socialista independiente desafía al bipartidismo en Estados Unidos|website=Prensa Obrera|date=Jul 27, 2026|access-date=Aug 2, 2026}}</ref>
+* [[Green Party of Washington State]]<ref>{{Cite web|url=https://greenpartywashington.org/candidates-2/kshama-sawant-for-us-congress/|title=Kshama Sawant for US Congress, WA District 9 (2026)|website=Green Party of Washington|access-date=May 16, 2026}}</ref>
+*Norway's [[Peace and Justice (Norway)|Peace and Justice]]<ref>{{Cite web|url=https://partiet-for.no/we-endorse-kshama-sawant-for-u-s-congress/|title= We endorse Kshama Sawant for U.S. Congress|website=FOR|date=Jul 29, 2026|access-date=Aug 2, 2026}}</ref>
+* [[Revolutionary Communists of America]]<ref>{{Cite web|url=https://communistusa.org/revolutionary-communists-of-america-say-vote-for-sawant/|title=Revolutionary Communists of America Say: Vote for Sawant!|website=RCA|date=July 7, 2026|access-date=July 16, 2026}}</ref>
+
+;Newspapers
+* ''[[Seattle Gay News]]''<ref>{{Cite web|url=https://www.sgn.org/story/168554/News/Seattle/SGN%20Endorsements%20%20Kshama%20Sawant%20(US%20House%20of%20Representatives%2C%209th%20District)|title=SGN Endorsements Kshama Sawant (US House of Representatives, 9th District)|website=SGN|access-date=July 22, 2026}}</ref>
+*''[[The Stranger (newspaper)|The Stranger]]''<ref name="stranger"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Doug Basler (R)
+|$99,241
+|$94,764
+|$5,020
+|-
+|{{party shading/Democratic}}|Melissa Chaudhry (D)
+|$30,072
+|$65,585
+|$67,155
+|-
+|{{party shading/Independent}}|Kshama Sawant (I)
+|$645,401
+|$607,493
+|$37,907
+|-
+|{{party shading/Democratic}}|Adam Smith (D)
+|$1,882,001
+|$1,583,205
+|$869,548
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9">{{cite web |title=2026 Election United States House - Washington 9th |url=https://www.fec.gov/data/elections/house/WA/09/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 16, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 Washington's 9th congressional district primary election results map by county.svg|thumb|150px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|Smith}}| {{legend|#a5b0ff|40–50%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Adam Smith (Washington politician)|Adam Smith]] (incumbent)
+| votes = 67,095
+| percentage = 47.1
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Doug Basler
+| votes = 31,070
+| percentage = 21.8
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = [[Kshama Sawant]]
+| votes = 24,583
+| percentage = 17.3
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Melissa Chaudhry
+| votes = 17,811
+| percentage = 12.5
+}}
+{{Election box candidate with party link no change
+| party = Socialist Workers Party (United States)
+| candidate = Jacob Perasso
+| votes = 1,588
+| percentage = 1.1
+}}
+{{Election box write-in with party link no change
+| votes = 209
+| percentage = 0.1
+}}
+{{Election box total no change
+| votes = 142,356
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+====Results====
+{{Election box begin no change |title=2026 Washington's 9th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Adam Smith (Washington politician)|Adam Smith]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Doug Basler
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==District 10==
+{{Infobox election
+| election_name = 2026 Washington's 10th congressional district election
+| country = Washington
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Washington#District 10
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Washington#District 10
+| next_year = 2028
+| image1 = Marilyn Strickland 117th U.S Congress (cropped).jpg
+| nominee1 = [[Marilyn Strickland]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Chris D. Chung
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+|[[File:2026 Washington's 10th congressional district election results map by county.svg|260px]]
+| County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Marilyn Strickland]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Washington's 10th congressional district}}
+The 10th district is based in [[Olympia, Washington|Olympia]] and stretches to the southern [[Seattle]] metropolitan area, including [[Lakewood, Washington|Lakewood]] and [[Puyallup, Washington|Puyallup]]. The incumbent is Democrat [[Marilyn Strickland]], who was re-elected with 58.5% of the vote in 2024.<ref name="HPVT"/>
+
+===Candidates===
+====Advanced to general====
+*Chris D. Chung (Republican), pharmacist and Democratic candidate for insurance commissioner in [[2024 Washington Insurance Commissioner election|2024]]<ref name="votewa candidatelist" />
+*[[Marilyn Strickland]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848984 |url=https://docquery.fec.gov/cgi-bin/forms/H0WA10034/1848984/ |access-date=2025-09-28 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*Adam Arafat (Democratic), county government official<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6WA08134/1910351/|title=FEC Form 2 for Report FEC-1910351|website=docquery.fec.gov}}</ref>
+*Kurtis Engle (Union){{efn|name=party|Not an actual political party. In Washington, independent candidates are allowed to choose a ballot label.}}<ref name="votewa candidatelist" />
+*Derek Maynes (Independent), Democratic candidate for state representative in [[2016 Washington House of Representatives election#District 2|2016]]<ref name="votewa candidatelist" />
+*Alex Scheel (Democratic), community organizer<ref name="votewa candidatelist" />
+
+=== Endorsements ===
+{{Endorsements box|title=Marilyn Strickland (D)|list=
+;Labor unions
+*[[Washington State Labor Council]]<ref name=WashLabor/>
+;Organizations
+*[[AIPAC]]<ref name="AIPACLink">{{Cite web |title=- AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=2026-02-21 |website=candidates.aipacpac.org}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI"/>
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-marilyn-strickland-for-washingtons-tenth-district|title=U.S. Chamber Endorses Rep. Marilyn Strickland for Washington’s Tenth District|date=July 22, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box|title=Alex Scheel (D)
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name=Cair/>
+*[[International Franchise Association]]<ref name="franchise"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Marilyn Strickland (D)
+|$1,161,277
+|$939,436
+|$802,429
+|-
+|{{party shading/Democratic}}|Adam Arafat (D)
+|$330
+|$0
+|$330
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC10">{{cite web |title=2026 Election United States House - Washington 10th |url=https://www.fec.gov/data/elections/house/WA/10/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 Washington's 10th congressional district primary election results map by county.svg|thumb|260px|Results by county{{Collapsible list
+| title = {{legend|#7996e2|Strickland}}| {{legend|#a5b0ff|40–50%}}
+}}]]
+{{Election box begin no change
+| title = Blanket primary results<ref name=PrimaryResults/>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Marilyn Strickland]] (incumbent)
+| votes = 73,689
+| percentage = 47.3
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Chris D. Chung
+| votes = 48,953
+| percentage = 31.4
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Alex Scheel
+| votes = 16,074
+| percentage = 10.3
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Adam Arafat
+| votes = 14,695
+| percentage = 9.4
+}}
+{{Election box candidate with party link no change
+| party = Independent
+| candidate = Derek Maynes
+| votes = 1,431
+| percentage = 0.9
+}}
+{{Election box candidate no change
+| party = Union{{efn|name=party}}
+| candidate = Kurtis Engle
+| votes = 713
+| percentage = 0.5
+}}
+{{Election box write-in with party link no change
+| votes = 367
+| percentage = 0.2
+}}
+{{Election box total no change
+| votes = 155,922
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref name="auto3"/>
+|{{USRaceRating|Safe|D}}
+|July 28, 2026
+|}
+====Results====
+{{Election box begin no change |title=2026 Washington's 10th congressional district election }}{{Election box candidate with party link no change
+  |candidate  = [[Marilyn Strickland]] (incumbent)
+  |party      = Democratic Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box candidate with party link no change
+  |candidate  = Chris D. Chung
+  |party      = Republican Party (United States)
+  |votes      = 
+  |percentage = 
+}}{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+== See also ==
+
+* [[United States House of Representatives]]
+* [[Elections in Washington (state)]]
+* [[Washington State Redistricting Commission]]
+* [[Political party strength in Washington (state)]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+*[https://delbeneforcongress.com/ Suzan DelBene (D)]
+*[https://www.marysilvaforcongress.com/ Mary Silva (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://fellerforcongress.com/ Edwin Feller (R)]
+*[https://www.ricklarsen.org/ Rick Larsen (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://votebraun.com/ John Braun (R)]
+*[https://marieforcongress.com/ Marie Gluesenkamp Perez (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://johnduresky4congress.com/ John Duresky (D)]
+*[https://www.mckinneyforwashington.com/ Amanda McKinney (R)]
+
+;Official campaign websites for 5th district candidates
+*[https://www.votebaumgartner.com/ Michael Baumgartner (R)]
+*[https://conroy4congress.com/ Carmela Conroy (D)]
+
+;Official campaign websites for 6th district candidates
+*[https://www.foxforwa.com/ Teresa Fox (R)]
+*[https://electemilyrandall.com/ Emily Randall (D)]
+
+;Official campaign websites for 7th district candidates
+*[https://www.pramilaforcongress.com/ Pramila Jayapal (D)]
+*[https://shethforcongress.com/ Nirav Sheth (R)]
+
+;Official campaign websites for 8th district candidates
+*[https://www.melineforcongress.com/ Spencer Meline (R)]
+*[https://www.drkimschrier.com/ Kim Schrier (D)]
+
+;Official campaign websites for 9th district candidates
+*[https://www.dougbasler.com/ Doug Basler (R)]
+*[https://electadamsmith.com/ Adam Smith (D)]
+
+;Official campaign websites for 10th district candidates
+*[https://stricklandforwashington.com/ Marilyn Strickland (D)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|Washington]]
+[[Category:2026 elections in Washington (state)|United States House]]
+[[Category:United States House of Representatives elections in Washington (state)]]

@@ -1,0 +1,642 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 West Virginia House of Delegates election}}
+{{Use mdy dates|date=June 2025}}
+{{use American English|date=June 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in West Virginia
+| country = West Virginia
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in West Virginia
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in West Virginia
+| next_year = 2028
+| seats_for_election = Both West Virginia seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''2'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{Elections in West Virginia}}
+The '''2026 United States House of Representatives elections in West Virginia''' will be held on November 3, 2026, to elect the 2 [[U.S. representative]]s from the [[U.S. state|State]] of [[West Virginia]], one from each of the state's [[West Virginia's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate election in West Virginia|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on May 12, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 West Virginia's 1st congressional district election
+| country = West Virginia
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in West Virginia#District 1
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in West Virginia#District 1
+| next_year = 2028
+| image1 = File:Carol Miller, official portrait (118th Congress) (cropped).jpg
+| nominee1 = [[Carol Miller (politician)|Carol Miller]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Vince George
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Carol Miller (politician)|Carol Miller]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|West Virginia's 1st congressional district}}
+The 1st congressional district of West Virginia encompasses the southern portion of the state, including [[Charleston, West Virginia|Charleston]] and [[Huntington, West Virginia|Huntington]], as well as the smaller cities of [[Beckley, West Virginia|Beckley]], [[Bluefield, West Virginia|Bluefield]], [[Lewisburg, West Virginia|Lewisburg]], [[Princeton, West Virginia|Princeton]], and [[White Sulphur Springs, West Virginia|White Sulphur Springs]].<ref>{{cite web |url=http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=3033&year=2021&sessiontype=3X&btype=bill |title = Bill Status - Complete Bill History}}</ref> The incumbent is Republican [[Carol Miller (politician)|Carol Miller]], who was re-elected with 66.4% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 25, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Carol Miller (politician)|Carol Miller]], incumbent U.S. representative<ref name="MillerTrump">{{cite news |title=Carol Miller announces bid for reelection in '26 |url=https://www.herald-dispatch.com/news/carol-miller-announces-bid-for-reelection-in-26/article_b0e54160-87a6-491c-8658-34cfe910ee97.html |access-date=September 3, 2025 |work=[[The Herald-Dispatch]] |date=August 19, 2025 |language=en}}</ref>
+====Eliminated in primary====
+*Larry Jackson, businessman<ref>{{cite news |last1=Okes |first1=Caleb |title=Local US House of Representatives candidate speaks out on Wyoming County's water woes |url=https://www.wvnstv.com/news/local-news/local-us-house-of-representatives-candidate-speaks-out-on-wyoming-countys-water-woes/ |access-date=June 16, 2025 |work=[[WVNS]] |date=June 16, 2025 |language=en}}</ref>
+
+====Disqualified====
+*Abel Clendenen<ref>{{Cite web |title=FEC Form 2 for Report FEC-1913525 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV01152/1913525/ |access-date=2025-12-13 |website=docquery.fec.gov}}</ref>
+* [[Derrick Evans (politician)|Derrick Evans]], former [[West Virginia House of Delegates|state delegate]] from the 19th district (2020-2021), pardoned [[January 6 United States Capitol attack|January 6th]] rioter, and candidate for this district in [[2024 United States House of Representatives elections in West Virginia#District 1|2024]]<ref>{{Cite AV media |url=https://www.wdtv.com/video/2025/06/12/derrick-evans-launches-congressional-run/ |title=Derrick Evans Launches Congressional Run |date=2025-06-12 |language=en |access-date=2026-04-20 |via=www.wdtv.com}}</ref><ref>{{Cite web |title=Candidates |url=https://candidates.wvsos.gov/ |access-date=2026-04-20 |website=candidates.wvsos.gov}}</ref>
+*Dave Sartin, paramedic<ref>{{Cite web |title=FEC Form 2 for Report FEC-1863367 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV01129/1863367/ |access-date=2025-12-13 |website=docquery.fec.gov}}</ref>
+*Gavin Solomon, businessman from New York<ref>{{Cite web |title=FEC Form 2 for Report FEC-1912933 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV01145/1912933/ |access-date=2025-12-13 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Carol Miller
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="MillerTrump"/>
+
+;Organizations
+*[[ClearPath Foundation]]<ref name="ClearPath1">{{cite web |title=2026 GOP Clean Energy Leaders |url=https://clearpathactionfund.org/ |website=ClearPath Action Fund |access-date=28 January 2026}}</ref>
+*[[Maggie's List]]<ref>{{cite web |url=https://maggieslist.org/momentum-builds-maggies-list-adds-8-to-growing-2026-endorsement-list/ |title=Momentum Builds: Maggie’s List Adds 8 to Growing 2026 Endorsement List |website=maggieslist.org |date=March 23, 2026 |access-date=March 25, 2026}}</ref>
+*West Virginia [[Chamber of Commerce]]<ref name="WVChamber" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |''Derrick Evans (R)''
+|$1,215,522
+|$1,171,562
+|$104,891
+|-
+| {{party shading/Republican}} |Larry Jackson (R)
+|$102,110
+|$72,175
+|$23,935
+|-
+| {{party shading/Republican}} |Carol Miller (R)
+|$1,431,576
+|$941,654
+|$729,464
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - West Virginia 1st |url=https://www.fec.gov/data/elections/house/WV/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 13, 2026}}</ref></small>
+|}
+
+====Results====
+{{Switcher|
+[[File:2026 West Virginia's 1st congressional district Republican primary election results map by county.svg|thumb|250px|Results by county
+{{collapsible list
+| title = {{legend|#e27f7f|Miller}}
+|{{legend|#d75d5d|60–70%}}
+|{{legend|#d72f30|70–80%}}
+|{{legend|#c21b18|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Jackson}}
+|{{legend|#FF9A50|50–60%}}
+}}
+]]|Results by county|
+[[File:2026 West Virginia's 1st congressional district Republican primary election results map by precinct.svg|thumb|250px|Results by precinct
+{{collapsible list
+| title = {{legend|#e27f7f|Miller}}
+|{{legend|#e27f7f|50–60%}}
+|{{legend|#d75d5d|60–70%}}
+|{{legend|#d72f30|70–80%}}
+|{{legend|#c21b18|80–90%}}
+|{{legend|#A80000|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Jackson}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+|{{legend|#D69850|70–80%}}
+|{{legend|#B98A35|80–90%}}
+|{{legend|#9D7700|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{collapsible list
+}}{{legend|#808080|No Votes}}
+]]|Results by precinct|}}
+{{Election box begin no change|title=Republican primary results<ref>{{Cite web |title=West Virginia State Republican Primary Results for WV-01 |url=https://results.enr.clarityelections.com/WV/126209/web.345435/#/detail/200?voteType=ALL&precinct=ALL&party=ALL}}</ref>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Carol Miller (politician)|Carol Miller]] (incumbent)|votes=40,493|percentage=72.0}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Larry Jackson|votes=15,710|percentage=28.0}}
+{{Election box total no change|votes=56,203|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Vince George, retired public policy analyst<ref>{{cite web |title=West Virginian Vince George Running Against Congresswoman Carol Miller |url=https://morgancountyusa.org/?p=6264 |access-date=December 11, 2025 |work=[[Morgan County USA]] |date=December 9, 2025}}</ref>
+====Eliminated in primary====
+*Brit Aguirre, massage therapist<ref>{{cite web |title=Hundreds of Greenbrier Valley residents attend No Kings Rally and community food pantry drive |url=https://therealwv.com/2025/10/22/hundreds-of-greenbrier-valley-residents-attend-no-kings-rally-and-community-food-pantry-drive/ |access-date=October 24, 2025 |website=Real WV |date=October 22, 2025 |quote=Guest speakers included former Delegate [[Danielle Walker (politician)|Danielle Walker]], from Morgantown, and Brit Aguirre, of Logan, and candidate for the First Congressional District.}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Brit Aguirre
+|list=
+; Organizations
+*[[National Organization for Women]] PAC<ref>{{cite web|title=2026 Federal Endorsements|url=https://nowpac.org/2026-federal-endorsements/ |access-date=July 8, 2026 |work=[[National Organization for Women]]|date=May 1, 2026}}</ref>
+*[[Track AIPAC]]<ref>{{cite web|title=2026 Primary Elections|url=https://www.trackaipac.com/endorsements|access-date=February 4, 2026|work=[[Track AIPAC]]|date=December 30, 2025}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Brit Aguirre (D)
+|$164,893
+|$157,426
+|$7,467
+|-
+|{{party shading/Democratic}}|Vince George (D)
+|$256,235
+|$0
+|$256,235
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Switcher|
+[[File:2026 West Virginia's 1st congressional district Democratic primary election results map by county.svg|thumb|250px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|George}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Aguirre}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#009696|70–80%}}
+|{{legend|#008080|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50%}}
+}}
+]]|Results by county|
+[[File:2026 West Virginia's 1st congressional district Democratic primary election results map by precinct.svg|thumb|250px|Results by precinct
+{{collapsible list
+| title = {{legend|#7996E2|George}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Aguirre}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#009696|70–80%}}
+|{{legend|#008080|80–90%}}
+|{{legend|#006666|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{collapsible list
+}}{{legend|#808080|No Votes}}
+]]|Results by precinct|}}
+{{Election box begin no change|title=Democratic primary results<ref>{{Cite web |title=West Virginia State Democratic Primary Results for WV-01 |url=https://results.enr.clarityelections.com/WV/126209/web.345435/#/detail/250?voteType=ALL&precinct=ALL&party=ALL}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Vince George|votes=23,503|percentage=53.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Brit Aguirre|votes=20,880|percentage=47.0}}
+{{Election box total no change|votes=44,383|percentage=100.0}}
+{{Election box end}}
+
+===Constitution party===
+====Nominee====
+*Belinda Fox-Spencer, businesswoman, pro-Life activist, and independent candidate for [[West Virginia's 3rd congressional district]] in [[2020 United States House of Representatives elections in West Virginia#District 3|2020]], and candidate for this district in [[2022 United States House of Representatives elections in West Virginia#District 1|2022]]<ref>{{cite web |title=2026 General Election State Candidates List |url=https://candidates.wvsos.gov/regular |access-date=August 3, 2026}}</ref>
+
+===Independents===
+====Disqualified====
+*Isaiah Rucker, [[Make America Great Again|MAGA]] activist<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848445 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV01103/1848445/ |access-date=2025-12-13 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 25, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Vince George
+|list=
+; Organizations
+*[[Progressive Democrats of America]] - West Virginia<ref>{{cite web|title=ELECTION 2026 PDA House Challenger Endorsements |url=https://pdamerica.org/endorsements/|access-date=July 8, 2026 |work=[[Progressive Democrats of America]]|date=July 8, 2026}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Carol Miller (R)
+|$1,957,943
+|$1,488,638
+|$708,847
+|-
+|{{party shading/Democratic}}|Vince George (D)
+|$307,630
+|$103,330
+|$25,609
+|-
+|{{party shading/Constitution}}|Belinda Fox-Spencer (C)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - West Virginia |url=https://www.fec.gov/data/elections/house/WV/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 17, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 West Virginia's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Carol Miller (politician)|Carol Miller]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Vince George 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Constitution Party (United States)
+  |candidate  = Belinda Fox-Spencer
+  |votes      = 
+  |percentage = 
+  |change =
+}} 
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 West Virginia's 2nd congressional district election
+| country = West Virginia
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in West Virginia#District 2
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in West Virginia#District 2
+| next_year = 2028
+| image1 = Moore Riley 119th Congress (cropped).jpg
+| nominee1 = [[Riley Moore]] 
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Ace Parsi
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Riley Moore]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|West Virginia's 2nd congressional district}}
+The 2nd district encompasses the industrial areas of the [[Northern Panhandle of West Virginia|northern Panhandle]] including [[Wheeling, West Virginia|Wheeling]], [[Fairmont, West Virginia|Fairmont]], [[Clarksburg, West Virginia|Clarksburg]], [[Morgantown, West Virginia|Morgantown]] and [[Parkersburg, West Virginia|Parkersburg]], as well as the [[Eastern Panhandle of West Virginia|eastern Panhandle]].<ref>{{cite web |url=http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=3033&year=2021&sessiontype=3X&btype=bill |title = Bill Status - Complete Bill History}}</ref> The incumbent is Republican [[Riley Moore]], who was elected with 70.8% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 25, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Riley Moore]], incumbent U.S. representative<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://candidates.wvsos.gov/ |publisher=West Virginia Secretary of State |access-date=January 15, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Riley Moore
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=5 February 2026 |language=en |date=8 January 2026}}</ref>
+
+;Organizations
+*West Virginia [[Chamber of Commerce]]<ref name="WVChamber">{{cite web |last1=Young |first1=Charles |title=WV Chamber PAC releases full first-round endorsements for 2026 primary election (copy) |url=https://www.wvnews.com/news/wvnews/wv-chamber-pac-releases-full-first-round-endorsements-for-2026-primary-election-copy/article_3af35f97-8f3b-4778-a23d-dacffde27c66.html |website=WV News |access-date=24 August 2026 |date=April 20, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Riley Moore (R)
+|$1,133,937
+|$571,785
+|$685,114
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - West Virginia 2nd |url=https://www.fec.gov/data/elections/house/WV/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 13, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results<ref>{{Cite web |title=West Virginia State Republican Primary Results for WV-02 |url=https://results.enr.clarityelections.com/WV/126209/web.345435/#/detail/300?voteType=ALL&precinct=ALL&party=ALL}}</ref>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Riley Moore]] (incumbent)|votes=48,782|percentage=100.0}}
+{{Election box total no change|votes=48,782|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Ace Parsi, political organizer<ref>{{cite news |last1=Bissett |first1=Jim |title=Local organizer seeks U.S. Congressional seat |url=https://www.dominionpost.com/2026/01/21/local-organizer-seeks-u-s-congressional-seat/ |access-date=January 21, 2026 |work=[[The Dominion Post (Morgantown)|The Dominion Post]] |date=January 21, 2026}}</ref>
+====Eliminated in primary====
+*Stephanie Spears Tomana, teacher and nominee for [[West Virginia House of Delegates]] District 75 in [[2022 West Virginia House of Delegates election|2022]] and [[2024 West Virginia House of Delegates election|2024]]<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://candidates.wvsos.gov/ |publisher=West Virginia Secretary of State |access-date=January 13, 2026}}</ref>
+*Steven Wendelin, retired [[U.S. Navy]] commander and nominee for this district in [[2024 United States House of Representatives elections in West Virginia#District 2|2024]]<ref>{{cite web |title=Democrat Steven Wendelin announces campaign for Congress |url=https://www.wvnews.com/news/wvnews/democrat-steven-wendelin-announces-campaign-for-congress/article_63d749d0-f636-4dc6-b608-e9cebec04605.html |access-date=November 13, 2025 |work=[[WV News]] |date=November 6, 2025}}</ref>
+
+====Disqualified====
+*Lillyauna Hershman<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924473 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV02143/1924473/ |access-date=2025-11-11 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Steven Wendelin
+|list=
+;Organizations
+*[[National Organization for Women]] PAC<ref>{{cite web|title=2026 Federal Endorsements|url=https://nowpac.org/2026-federal-endorsements/ |access-date=July 8, 2026 |work=[[National Organization for Women]]|date=May 1, 2026}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Ace Parsi (D)
+|$76,264
+|$53,200
+|$23,063
+|-
+|{{party shading/Democratic}}|Stephanie Spears Tomana (D)
+|$15,837
+|$11,757
+|$4,080
+|-
+| {{party shading/Democratic}} |Steven Wendelin (D)
+|$17,643
+|$13,153
+|$4,750
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Switcher|
+[[File:2026 West Virginia's 2nd congressional district Democratic primary election results map by county.svg|thumb|250px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Parsi}}
+|{{legend|#bdd3ff|30–40%}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Spears Tomana}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#009696|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Wendelin}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#217821|80–90%}}
+}}
+]]|Results by county|
+[[File:2026 West Virginia's 2nd congressional district Democratic primary election results map by precinct.svg|thumb|250px|Results by precinct
+{{collapsible list
+| title = {{legend|#7996e2|Parsi}}
+|{{legend|#bdd3ff|30–40%}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Spears Tomana}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#009696|70–80%}}
+|{{legend|#008080|80–90%}}
+|{{legend|#006666|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Wendelin}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#217821|80–90%}}
+|{{legend|#165016|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+}}
+{{collapsible list
+}}{{legend|#808080|No Votes}}
+]]|Results by precinct|}}
+{{Election box begin no change|title=Democratic primary results<ref>{{Cite web |title=West Virginia State Democratic Primary Results for WV-02 |url=https://results.enr.clarityelections.com/WV/126209/web.345435/#/detail/350?voteType=ALL&precinct=ALL&party=ALL}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Ace Parsi|votes=17,811|percentage=39.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Stephanie Spears Tomana|votes=16,961|percentage=37.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Steven Wendelin|votes=10,019|percentage=22.4}}
+{{Election box total no change|votes=44,791|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Disqualified====
+*Pat Carney<ref>{{Cite web |title=FEC Form 2 for Report FEC-1930098 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV02176/1930098/ |access-date=2025-12-30 |website=docquery.fec.gov}}</ref>
+*Chris Whitcomb, business consultant<ref>{{Cite web |title=FEC Form 2 for Report FEC-1926637 |url=https://docquery.fec.gov/cgi-bin/forms/H6WV02168/1926637 |access-date=2025-11-22 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 25, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Riley Moore (R)
+| list =
+;Labor unions
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA">{{cite web|url=https://umwa.org/policy-politics/compac-endorsements/west-virginia/|title=West Virginia|publisher=United Mine Workers of America|access-date=October 29, 2026}}</ref>
+
+;Organizations
+*[[Bull Moose Project]]<ref name="BMP">{{cite web |last1=Buzzetti |first1=Aiden |title=Endorsement of Riley Moore |url=https://bullmooseproject.org/press/endorsement-of-riley-moore |website=Bull Moose Project |access-date=24 August 2026 |date=June 23, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Ace Parsi (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web|url=https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates/|title=Our Recommended Candidates|publisher=Education Votes|access-date=2026-10-27}}</ref>
+
+;Organizations
+*[[New American Leaders]] Action Fund<ref>{{cite web|title=2026 Endorsed Candidates|url=https://www.nalaf.org/2026-endorsed-candidates|access-date=July 8, 2026|work=[[New American Leaders]]|date=July 8, 2026}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Riley Moore (R)
+|$1,562,472
+|$867,862
+|$817,573
+|-
+|{{party shading/Democratic}}|Ace Parsi (D)
+|$250,041
+|$134,908
+|$115,133
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC" /></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 West Virginia's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Riley Moore]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Ace Parsi 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.vincegeorgeforcongress.com/ Vince George (D)]
+*[https://www.electcarolmiller.com/ Carol Miller (R)]
+*[https://site-2cmwr53gl.godaddysites.com/ Isaiah Rucker (I)]
+*[https://www.belindafoxspencerwv.com/ Belinda Fox-Spencer (C)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.mooreforwv.com/ Riley Moore (R)]
+*[https://www.aceforcongress.com/ Ace Parsi (D)]
+
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|West Virginia]]
+[[Category:2026 elections in West Virginia|United States House]]
+[[Category:United States House of Representatives elections in West Virginia]]

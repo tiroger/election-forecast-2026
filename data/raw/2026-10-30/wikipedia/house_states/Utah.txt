@@ -1,0 +1,1781 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Utah House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Utah
+| country = Utah
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Utah
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Utah
+| next_year = 2028
+| seats_for_election = All 4 Utah seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = 4
+| seats1 = 0
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 0
+}}
+{{ElectionsUT}}
+The '''2026 United States House of Representatives elections in Utah''' will be held on November 3, 2026, to elect the four [[U.S. representative]]s from the [[U.S. state|State]] of [[Utah]], one from all four of the state's [[Utah's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 23, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+== Background ==
+[[File:Utah Congressional Districts, 120th Congress.svg|thumb|250px|Map of Utah's congressional districts as ordered by the Third District Court of Utah on November 10, 2025 and will be used starting at the 2026 House elections.<ref>{{Cite news |last=Schoenbaum |first=Hannah |date=November 11, 2025 |title=Judge adopts Utah congressional map creating a Democratic-leaning district for 2026 |url=https://apnews.com/article/utah-redistricting-congressional-map-democrats-a443a6584fad0adeeb5eadcc336a4390 |access-date=November 14, 2025 |work=[[Associated Press]]}}</ref>
+<br>{{maplink|from=Utah's 1st congressional district (2027–).map|from2=Utah's 2nd congressional district (2027–).map|from3=Utah's 3rd congressional district (2027–).map|from4=Utah's 4th congressional district (2027–).map|text=Interactive map version}}
+]]
+The [[Utah Supreme Court]] ruled in July 2024 that the [[Utah State Legislature|state legislature]] had overstepped their constitutional authority when it repealed [[2018 Utah Proposition 4|Proposition 4]] in 2020 (and subsequently drew congressional districts that heavily favored Republican candidates).<ref>{{Cite news |last=Wines |first=Michael |date=2024-07-11 |title=Utah's Gerrymandered House Map Ignored Voters' Will, State Supreme Court Says |url=https://www.nytimes.com/2024/07/11/us/utah-supreme-court-gerrymandering.html |access-date=2025-04-06 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> [[League of Women Voters v. Utah State Legislature|The case]] was remanded to the district court to determine a final remedy. The decision was decided on August 25, 2025, ordering the new Utah congressional map be redrawn within 30 days.<ref>{{Cite web |last=McKellar |first=Katie |date=2025-02-01 |title=Will Utah get new congressional maps? Judge hears oral arguments in Utah redistricting case • Utah News Dispatch |url=https://utahnewsdispatch.com/2025/01/31/will-utah-get-new-congressional-maps-judge-hears-oral-arguments-in-utah-redistricting-case/ |access-date=2025-04-05 |website=Utah News Dispatch |language=en-US}}</ref><ref>{{Cite web |last=Aerts |first=Lindsay |date=April 1, 2025 |title=Judge over gerrymandering case against Utah legislature asks for clarification over tossing maps |url=https://www.abc4.com/news/politics/inside-utah-politics/judge-over-gerrymandering-case-against-utah-legislature-asks-for-clarification-over-tossing-maps/ |access-date=April 5, 2025 |website=[[KTVX|ABC 4 Utah]] |archive-url=https://web.archive.org/web/20250910102610/https://www.abc4.com/news/politics/inside-utah-politics/judge-over-gerrymandering-case-against-utah-legislature-asks-for-clarification-over-tossing-maps/ |archive-date=September 10, 2025 |url-status=dead}}</ref><ref>{{Cite web |date=2025-08-26 |title=Judge rules Utah's congressional map must be redrawn for the 2026 elections |url=https://apnews.com/article/utah-redistricting-congressional-map-gerrymandering-a6722505b8e76eda5c73fc346eadd9aa |access-date=2025-08-26 |website=AP News |language=en}}</ref> 
+
+Utah's state legislature passed a new map on October 11, 2025, which created two competitive seats leaning slightly Republican. District judge Dianna Gibson enjoined the map passed by legislature on November 10, and selected a map drawn by civil groups as the final map, which contained a solidly Democratic seat centered around Salt Lake City.<ref>{{Cite web |date=2025-11-11 |title=Utah judge denies GOP-passed congressional map |url=https://www.politico.com/news/2025/11/11/utah-judge-denies-gop-passed-congressional-map-00646183 |access-date=2025-11-11 |website=POLITICO |language=en}}</ref>
+
+== Statewide polling ==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Republican
+! style="width:100px;" |Democratic
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Morning Consult]]<ref>{{cite web |last1=Mondeaux |first1=Cami |title=Utah voters still favor Republicans in midterms even with Trump approval underwater |url=https://www.deseret.com/politics/2026/10/27/voters-confidence-trump-approval-iran-war-midterms/ |publisher=[[Deseret News]] |access-date=October 28, 2026 |date=October 27, 2026}}</ref>{{Efn-ua|name=DeseretHinckley}}
+|October 13–20, 2026
+|875 (RV)
+|±&nbsp;3.0%
+| {{party shading/Republican}} |'''50%'''
+|39%
+|–
+|11%
+|-
+|style="text-align:left;"|[[Morning Consult]]<ref>{{cite web |last1=Irwin |first1=Lauren |title=Poll shows top issues for voters heading into midterms |url=https://www.deseret.com/politics/2026/09/29/voters-in-utah-and-nationally-say-economy-and-inflation-are-top-issues-in-november-midterm-elections/ |publisher=[[Deseret News]] |access-date=October 2, 2026 |date=September 29, 2026}}</ref>{{Efn-ua|name=DeseretHinckley|Poll sponsored by ''[[Deseret News]]'' & the [[Hinckley Institute of Politics]]}}
+|September 10–15, 2026
+|744 (RV)
+|±&nbsp;4.0%
+| {{party shading/Republican}} |'''51%'''
+|36%
+|–
+|13%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref>{{cite web |title=Utah Republicans Hold 2026 Ballot Edge as Cost of Living Dominates Voter Priorities |url=https://www.noblepredictiveinsights.com/post/utah-republicans-hold-2026-ballot-edge-as-cost-of-living-dominates-voter-priorities |publisher=Noble Predictive Insights |access-date=September 25, 2026 |date=September 22, 2026}}</ref>
+|September 8–12, 2026
+|602 (RV)
+|±&nbsp;3.99%
+| {{party shading/Republican}} |'''45%'''
+|25%
+|4%
+|26%
+|}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Utah's 1st congressional district election
+| country = Utah
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Utah#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Utah#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = 3x4.svg
+| nominee1 = Riley Owen
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Ben McAdams, official portrait, 116th Congress (cropped).jpg
+| nominee2 = [[Ben McAdams]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Blake Moore]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Utah's 1st congressional district}}
+[[File:Utah's 1st congressional district (since 2027) (new version).svg|thumb|270px|Utah's 1st congressional district boundary from the 2026 elections
+<br>{{maplink|from= Utah's 1st congressional district (2027–).map|text=Interactive map version}}
+]]
+The new district is based in and encompasses the majority of [[Salt Lake County, Utah|Salt Lake County]], including the cities of [[Salt Lake City]], [[West Valley City, Utah|West Valley]], [[Millcreek, Utah|Millcreek]], [[Cottonwood Heights, Utah|Cottonwood Heights]], and [[Murray, Utah|Murray]], as well as the [[Salt Lake City International Airport]] and the [[University of Utah]]. Due to redistricting, this is a district with no incumbent. In the [[2024 United States presidential election|2024 presidential election]], Democrat [[Kamala Harris]] won the district by a 24-point margin.<ref name="inside-elec">{{cite web |last1=Rakich |first1=Nathaniel |title=A Detailed Analysis of Utah’s New Congressional Map |url=https://www.insideelections.com/news/article/a-detailed-analysis-of-utahs-new-congressional-map |website=Inside Elections |access-date=May 10, 2025 |date=November 11, 2025}}</ref>
+
+===Republican primary===
+====Candidates====
+===== Nominee =====
+*Riley Owen, former White House policy analyst<ref>{{cite web |last1=Terry |first1=Eva |title=Meet the 2 new congressional candidates for Utah |url=https://www.ksl.com/article/51451587/meet-the-2-new-congressional-candidates-for-utah |access-date=February 25, 2026 |work=[[Deseret News]] |publisher=[[KSL.com]] |date=February 21, 2026}}</ref>
+
+=====Eliminated at convention=====
+*Stone Fonua<ref>{{cite news |last1=Bates |first1=Suzanne |last2=Tomco |first2=Brigham |title=Candidates flood Utah’s newly redrawn congressional districts |url=https://www.deseret.com/politics/2026/03/13/utah-congressional-candidates-2026/ |access-date=14 March 2026 |work=[[Deseret News]] |date=14 March 2026 |language=en}}</ref>
+*Dave Robinson, former [[Salt Lake County]] Republican Party communications director<ref>{{cite web |last1=Romero |first1=McKenzie |title=As legal fight continues over Utah’s court-ordered electoral map, one Republican announces a run |url=https://utahnewsdispatch.com/2026/02/05/utah-congressional-map-challenges-dave-robinson-first-republican-candidate/ |access-date=February 5, 2026 |work=[[Utah News Dispatch]] |date=February 5, 2026}}</ref>
+
+=====Filed paperwork=====
+*Jonathan Lopez, Democratic candidate for [[Utah's 4th congressional district]] in [[2024 United States House of Representatives elections in Utah#District 4|2024]]<ref name=":0">{{Cite web |title=2026 Candidate Filings |url=https://vote.utah.gov/2026-candidate-filings/ |access-date=2026-03-12 |website=Utah Voter Information |language=en-US}}</ref>
+
+===== Withdrawn =====
+*Adam Clayton<ref>{{cite web |title=2026 Candidate Filings - Utah Voter Information |url=https://vote.utah.gov/2026-candidate-filings/ |access-date=26 March 2026}}</ref>
+*[[Blake Moore]], incumbent U.S. representative ''(running in the 2nd district)''<ref name="UT incumbents">{{cite news |last1=Rogerson |first1=Riley |last2=González |first2=Oriana |last3=Luetkemeyer |first3=Em |title=What Utah Reps. Blake Moore, Mike Kennedy, Celeste Maloy and Burgess Owens said about running in 2026 |url=https://www.sltrib.com/news/politics/2025/12/19/reps-burgess-owens-blake-moore-say/ |access-date=December 19, 2025 |work=The Salt Lake Tribune |date=December 19, 2025}}</ref>
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="3" | State Republican convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1            
+|-
+! Votes
+! %          
+|-
+! scope="row" style="text-align:left;" | Riley Owen
+|  '''337'''
+|  '''71.25%'''                     
+|-
+! scope="row" style="text-align:left;" | Dave Robinson
+|  129
+|  27.27%
+|-
+! scope="row" style="text-align:left;" | Steve Fonua
+|  7
+|  1.48%
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots           
+|}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Ben McAdams]], former U.S. representative from the 4th district (2019–2021)<ref>{{Cite web |last=Gehrke |first=Robert |date=2025-11-13 |title=Ben McAdams makes it official — the Democrat is running again for Congress in Utah |url=https://www.sltrib.com/news/politics/2025/11/13/ben-mcadams-is-running-utahs-new/ |access-date=2025-11-13 |website=The Salt Lake Tribune |language=en-US}}</ref>
+=====Eliminated in primary=====
+*[[Nate Blouin]], [[Utah State Senate|state senator]] from the 13th district (2023–present)<ref>{{cite web |last1=Aerts |first1=Lindsay |title=State Senator Nate Blouin latest Democrat to announce run for Congress |url=https://www.abc4.com/news/politics/utah-democrat-nate-blouin-congress/ |website=ABC4 |publisher=ABC4 |date=November 23, 2025}}</ref>
+*Michael Farrell, tax attorney<ref name="Beal-Cvetko">{{cite news |last1=Beal-Cvetko |first1=Bridger |title=Here's who is running for each of Utah's 4 congressional seats |url=https://www.ksl.com/article/51460049/heres-who-is-running-for-each-of-utahs-4-congressional-seats |access-date=March 18, 2026 |work=[[KSL-TV]] |date=March 16, 2026}}</ref>
+*Liban Mohamed, former government relations director for the [[American Heart Association]] in Utah<ref>{{cite news |last1=Gehrke |first1=Robert |title=Another Democrat — this one the son of Somali immigrants — is running for Utah’s new left-leaning congressional seat |url=https://www.sltrib.com/news/politics/2026/01/05/another-utah-dem-seeks-new-left/ |access-date=January 5, 2026 |work=[[The Salt Lake Tribune]] |date=January 5, 2026}}</ref>
+
+===== Eliminated at convention =====
+* Eva Lopez Chavez, [[Salt Lake City]] councilmember from the 4th district (2024–2026)<ref>{{cite web |last1=Bittan |first1=Ryan |title=Eva Lopez Chavez, first Mexican-American elected to Salt Lake City Council, announces bid for Congress |url=https://www.abc4.com/news/politics/eva-lopez-chavez-congress/ |website=ABC4 |access-date=15 December 2025 |date=December 15, 2025}}</ref><ref name=":2">{{Cite web |title=Liban Mohamed wins at Utah Democrats’ convention — but it will be a crowded 2026 primary |url=https://www.sltrib.com/news/politics/2026/04/25/utah-democratic-party-convention/ |access-date=2026-04-26 |website=The Salt Lake Tribune |language=en-US}}</ref>
+* Luis Villarreal, software engineer<ref>{{Cite web|title=Redistricting set off a scramble. Utah’s new 1st District race now has 5 candidates|url=https://www.kuer.org/politics-government/2025-11-24/redistricting-set-off-a-scramble-utahs-new-1st-district-race-now-has-5-candidates|website=KUER|date=2025-11-25|access-date=2025-11-27|language=en|first=Sean|last=Higgins}}</ref><ref name=":2" />
+
+=====Withdrawn=====
+*[[Derek Kitchen]], former [[Utah State Senate|state senator]] from the [[Utah's 2nd State Senate district|2nd district]] (2019–2022) ''(endorsed Mohamed)''<ref name="Liban1" /><ref>{{Cite web |last=Hatch |first=Heidi |date=2025-11-20 |title=Former State Sen. Derek Kitchen announces bid for Utah's First Congressional District |url=https://kutv.com/news/local/former-state-sen-derek-kitchen-announces-bid-for-utahs-first-congressional-district |access-date=2025-11-20 |website=KUTV|language=en-US}}</ref><ref>{{cite news |last1=Hart |first1=Ava |title=Former Utah State Senator Derek Kitchen opts out of congressional race |url=https://www.abc4.com/news/utah-state-senator-derek-kitchen-opts-congressional-race/ |access-date=March 13, 2026 |work=ABC4 Utah |date=March 13, 2026}}</ref>
+*[[Kathleen Riebe]], [[Utah State Senate|state senator]] from the [[Utah's 15th State Senate district|15th district]] (2019–present) and nominee for the 2nd district in [[2023 Utah's 2nd congressional district special election|2023]] ''(endorsed McAdams)''<ref name="Gehrke 2026">{{Cite web |last=Gehrke |first=Robert |date=April 11, 2026 |title=Kathleen Riebe exits Utah’s 1st Congressional District race — and backs a familiar Democrat |url=https://www.sltrib.com/news/politics/2026/04/11/kathleen-riebe-leaves-race-utahs/ |url-status=live}}</ref>
+*Anthony Tomkins, utilities technician<ref>{{cite web |title=FEC Disclosure Form 3 for TOMKINS FOR UTAH |url=https://docquery.fec.gov/cgi-bin/forms/C00895540/1914734/ |website=docquery.fec.gov |access-date=March 7, 2026}}</ref>
+
+=====Declined=====
+*[[Erin Mendenhall]], [[mayor of Salt Lake City]] (2020–present) ''(endorsed McAdams)''<ref name="McAdamsEndorse" />
+*[[Angela Romero]], minority leader of the [[Utah House of Representatives]] (2023–present) from the 25th district (2013–present)''(endorsed Mohamed)''<ref name="Liban1" />
+
+====Endorsements====
+{{Endorsements box
+| title = Nate Blouin
+| colwidth=60
+| list =
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref name="Blouin1">{{cite web |last1=Anderson Stern |first1=Emily |title=Bernie Sanders already backing a candidate for Utah’s new Democratic-leaning congressional district |url=https://www.sltrib.com/news/politics/2025/11/28/bernie-sanders-endorses-nate/ |website=The Salt Lake Tribune |publisher=[[The Salt Lake Tribune]] |access-date=28 November 2025 |date=November 28, 2025}}</ref>
+
+;U.S. representatives
+*[[Greg Casar]], [[Texas's 35th congressional district|TX-35]] (2023–present)<ref name="EndTrack"/>
+*[[Maxwell Frost]], [[Florida's 10th congressional district|FL-10]] (2023–present)<ref name="EndTrack"/>
+*[[Pramila Jayapal]], [[WA-07]] (2017–present)<ref name="EndTrack"/>
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name="EndTrack"/>
+*[[Jill Tokuda]], [[HI-02]] (2023–present)<ref name="EndTrack"/>
+
+;Local officials
+*Natalie Pinkney, [[Salt Lake County Council|Salt Lake County councilmember]] (2024–present)<ref name="Blouin2">{{cite web |last1=Jones |first1=Abigail |title=Nate Blouin kicks off campaign, receives endorsements from local leaders & Bernie Sanders |url=https://www.abc4.com/news/politics/inside-utah-politics/blouin-campaign-endorsements-local-leaders-bernie-sanders/ |website=[[KTVX]] |access-date=2 December 2025 |date=December 1, 2025}}</ref>
+
+;Organizations
+*[[Center for Freethought Equality]]<ref name=CFE>{{cite web |title=2026 Endorsements {{!}} CFE Members |url=https://www.cfequality.org/members/endorsements/2026#Utah |publisher=Center for Freethought Equality |access-date=3 January 2026}}</ref>
+*[[Congressional Progressive Caucus]]<ref name="CPC">{{cite web|url=https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-nate-blouin-for-ut-01/|title=Congressional Progressive Caucus PAC Endorses Nate Blouin for UT-01|date=February 19, 2026|access-date=March 12, 2026}}</ref>
+*[[Jane Fonda Climate PAC]]<ref>{{cite web |title=Endorsements {{!}} Jane PAC |url=https://www.janepac.com/endorsements |website=www.janepac.com |access-date=16 March 2026 |language=en}}</ref>
+*[[Leaders We Deserve]]<ref>{{cite web |last1=Vakil |first1=Caroline |title=Hogg’s political group makes endorsements in Utah, New York House races |url=https://thehill.com/homenews/campaign/5780250-hogg-group-backs-blouin-valdez-house-races/ |publisher=The Hill |access-date=12 March 2026 |date=March 12, 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web|title=Nate Blouin for Congress in UT-01|url=https://ourrevolution.com/nate-blouin-for-congress-in-ut-01/|publisher=Our Revolution|access-date=21 May 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web |title=2026 Endorsements |website=[[Peace Action]] |archive-url=https://web.archive.org/web/20260623211046/https://www.peaceaction.org/endorsements |url=https://www.peaceaction.org/endorsements |archive-date=23 June 2026 |access-date=23 October 2026}}</ref>
+*[[Progressive Change Campaign Committee]]<ref>{{cite web |title=Our Endorsements: 2026|url=https://www.boldprogressives.org/candidates/our-endorsements-2026/|website=Progressive Change Campaign Committee|access-date=May 21, 2026 |language=en-EN}}</ref>
+*[[Sierra Club]]<ref name=slt>{{cite web |title=Uniting progressives or ‘giving desperation’? Nate Blouin says only he can beat Ben McAdams. |url=https://www.sltrib.com/news/politics/2026/06/01/nate-blouin-again-calls/|website=The Salt Lake Tribune |access-date=14 June 2026|date=1 June 2026|last=Gehrke|first=Robert}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsements |url=https://www.trackaipac.com/endorsements |website=Track AIPAC |access-date=11 December 2025}}</ref>
+}}
+
+{{Endorsements box
+| title = Ben McAdams
+| list =
+;Executive branch officials
+*[[Deb Haaland]], former [[United States Secretary of the Interior|secretary of the interior]] (2021–2025)<ref>{{Cite web |last=Woodruff |first=Daniel |date=2025-11-28 |title=Bernie Sanders makes endorsement in Utah's new first district race |url=https://ksltv.com/website/uncategorized/bernie-sanders-endorsement/851552/ |access-date=2025-11-29 |website=KSLTV.com |language=en-us}}</ref>
+*[[Martin O'Malley]], former [[commissioner of the Social Security Administration]] (2023–2024)<ref>{{cite news |last1=Altimari |first1=Daniela |last2=McIntire |first2=Mary Ellen |title=At the Races: Incumbents on the line |url=https://rollcall.com/2026/05/28/at-the-races-incumbents-on-the-line/ |access-date=May 29, 2026 |work=Roll Call |date=May 28, 2026}}</ref>
+;U.S. representatives
+*[[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=25 January 2026 |language=en |date=8 January 2026}}</ref>
+
+;State legislators
+*[[Kathleen Riebe]], [[Utah State Senate|state senator]] from the [[Utah's 15th State Senate district|15th district]] (2019–present) and former candidate for this district<ref name="Gehrke 2026"/>
+
+;Local officials
+*[[Erin Mendenhall]], [[mayor of Salt Lake City]] (2020–present)<ref name="McAdamsEndorse">{{cite web |last1=Jones |first1=Abigail |title=Ben McAdams announces $500,000 raised towards campaign, endorsements |url=https://www.abc4.com/news/politics/inside-utah-politics/ben-mcadams-fundraising-campaign-endorsements/ |access-date=November 15, 2025 |work=[[KTVX]] |date=November 14, 2025}}</ref>
+*6 other [[Salt Lake City]] councilmembers<ref name="McAdamsEndorse"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Former Rep. Ben McAdams for Election to U.S. House |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-former-rep-ben-mcadams-for-election-to-us-house/ |website=AFGE |access-date=16 June 2026 |language=en |date=9 June 2026}}</ref>
+
+;Organizations
+*[[League of Conservation Voters]] Action Fund<ref name=slt/>
+*[[NewDem Action Fund]]<ref>{{cite web |title=Candidates |url=http://newdemactionfund.com/candidates |website=New Democratic Coalition Action Fund |access-date=8 December 2025}}</ref>
+*[[WelcomePAC]]<ref name="Gift">{{cite web|url=https://www.politico.com/news/2025/11/17/utah-democrats-got-a-gift-now-comes-the-headache-00653575|title=Utah Democrats got a gift. Now comes the headache.|last=Benson|first=Samuel|date=November 17, 2025|access-date=November 20, 2025|website=[[Politico]]}}</ref>
+}}
+{{Endorsements box
+| title = Liban Mohamed
+| list =
+;U.S. representatives
+*[[Ilhan Omar]], [[Minnesota's 5th congressional district|MN-05]] (2019–present)<ref name="Liban1" />
+
+;State legislators
+*[[Derek Kitchen]], former [[Utah State Senate|state senator]] from the [[Utah's 2nd State Senate district|2nd district]] (2019–2022) and former candidate for this district<ref name="Liban1">{{cite web |last1=Gehrke |first1=Robert |title=Liban Mohamed wins at Utah Democrats’ convention — but it will be a crowded 2026 primary |url=https://www.sltrib.com/news/politics/2026/04/25/utah-democratic-party-convention/ |website=The Salt Lake Tribune |access-date=26 April 2026}}</ref>
+*[[Angela Romero]], minority leader of the [[Utah House of Representatives]] (2023–present) from the 25th district (2013–present)<ref name="Liban1" />
+}}
+{{Endorsements box
+| title = Luis Villarreal ''(lost at convention)''
+| list =
+;Organizations
+*[[Progressive Victory]]<ref>{{cite web |title=Progressive Victory PAC endorses Luis Villarreal |url=https://x.com/ProgressiveVic/status/2000992476744855886 |website=Twitter |publisher=Progressive Victory PAC |access-date=31 December 2025}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn or disqualified candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Nate Blouin (D)
+|$643,882
+|$588,094
+|$55,788
+|-
+|{{party shading/Democratic}}|Michael Farrell (D)
+|$313,062
+|$274,058
+|$39,004
+|-
+|{{party shading/Democratic}}|Ben McAdams (D)
+|$1,916,636
+|$1,245,387
+|$686,253
+|-
+|{{party shading/Democratic}}|Liban Mohamed (D)
+|$287,559
+|$175,338
+|$112,221
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Utah 1st |url=https://www.fec.gov/data/elections/house/UT/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 22, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br>of error
+! style="width:70px;"| Nate<br>Blouin
+! style="width:70px;"| Michael<br>Farrell
+! style="width:70px;"| Eva<br>{{nowrap|Lopez Chavez}}
+! style="width:70px;"| Ben<br>McAdams
+! style="width:70px;"| Liban<br>Mohamed
+! style="width:70px;"| Kathleen<br>Riebe
+! Undecided
+|-
+|style="text-align:left;"|Upswing Research<ref>{{cite web |last1=Singer |first1=Jeff |title=Nate Blouin Primary Tracker |url=https://www.documentcloud.org/documents/28179967-ut-01-upswing-for-nate-blouin-may-2026/ |access-date=June 2, 2026 |date=June 1, 2026 |website=[[DocumentCloud]]}}</ref>{{Efn-ua|Poll conducted for Blouin's campaign}}
+|May 27–29, 2026
+|402 (LV)
+|±&nbsp;4.9%
+|27%
+|7%
+|–
+|{{party shading/Democratic}}|'''37%'''
+|13%
+|–
+|17%
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref>{{cite web|last=Schott|first=Bryan|url=https://utahpolitics.news/poll-mcadams-leads-democratic-field-in-1st-district-race/|title=Poll: McAdams leads Democratic field in Utah's 1st congressional district race|date=March 31, 2026|access-date=March 31, 2026|work=Utah Politics Watch}}</ref>
+|March 23–26, 2026
+|381 (LV)
+|±&nbsp;5.0%
+|23%
+|–
+|7%
+|{{party shading/Democratic}}|'''36%'''
+|2%
+|7%
+|25%
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="11" | State Democratic convention results, 2026<ref>{{cite web |title=2026 Utah Democratic Party Convention |url=https://secure.electionbuddy.com/results/F7MMWRBN52SJ |website=ElectionBuddy |publisher=ElectionBuddy, Inc. |access-date=May 17, 2026 |archive-url=https://web.archive.org/web/20260517164134/https://secure.electionbuddy.com/results/F7MMWRBN52SJ |archive-date=May 17, 2026}}</ref>
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1 
+! colspan=2 style="text-align:center;" | Round 2
+! colspan=2 style="text-align:center;" | Round 3
+! colspan=2 style="text-align:center;" | Round 4
+! colspan=2 style="text-align:center;" | Round 5          
+|-
+! Votes
+! %     
+! Votes
+! %
+! Votes
+! %   
+! Votes
+! %   
+! Votes
+! %           
+|-
+! scope="row" style="text-align:left;" | Liban Mohamed
+|  '''154'''
+|  '''22.09%'''
+|  '''161'''
+|  '''23.10%'''
+|  '''176'''
+|  '''25.25%''' 
+|  '''211'''
+|  '''30.36%''' 
+|  '''342'''
+|  '''51.12%'''                   
+|-
+! scope="row" style="text-align:left;" | {{sortname|Ben|McAdams |Ben McAdams}}
+|  '''284'''
+|  '''40.75%'''
+|  '''286'''
+|  '''41.03%'''
+|  '''287'''
+|  '''41.18%''' 
+|  '''300'''
+|  '''43.27%''' 
+|  '''327'''
+|  '''48.88%'''  
+|-
+! scope="row" style="text-align:left;" | {{sortname|Nate|Blouin |Nate Blouin}}
+|  '''162'''
+|  '''23.24%'''
+|  '''164'''
+|  '''23.53%''' 
+|  '''169'''
+|  '''24.25%''' 
+|  '''184'''
+|  '''26.47%''' 
+! colspan=2 style="text-align:center;" {{lost|Eliminated}}
+|-
+! scope="row" style="text-align:left;" | Michael Farrell
+|  '''58'''
+|  '''8.32%'''
+|  '''60'''
+|  '''8.61%'''
+|  '''65'''
+|  '''9.33%'''
+! colspan=4 style="text-align:center;" {{lost|Eliminated}}
+|-
+! scope="row" style="text-align:left;" | Luis Villarreal
+|  26
+|  3.73%
+|  26
+|  3.73%
+! colspan=6 style="text-align:center;" {{lost|Eliminated}}
+|-
+! scope="row" style="text-align:left;" | Eva Lopez Chavez
+|  13
+|  1.87%
+! colspan=8 style="text-align:center;" {{lost|Eliminated}}
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots   
+! colspan="2" |   2 ballots  
+! colspan="2" |   2 ballots 
+! colspan="2" |   4 ballots 
+! colspan="2" |   30 ballots         
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 1st congressional district Democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Nate Blouin]]
+! scope="col" | Michael Farrell
+! scope="col" | [[Ben McAdams]]
+! scope="col" | Liban Mohamed
+|-
+!1
+| style="white-space:nowrap;" | May 27, 2026
+| style="white-space:nowrap;" | [[PBS Utah]]<br>Utah Debate Commission
+| style="white-space:nowrap;" | Max Roth
+| style="white-space:nowrap;" |<ref>[https://www.youtube.com/watch?v=xCAyQ9wiaPA YouTube]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+[[File:2026 Democratic Primary in Utah's 1st Congressional District by Precinct.svg|thumb|Results by precinct
+{{collapsible list
+| title = {{legend|#7996E2|McAdams}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Blouin}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Mohamed}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30-40%}}
+|{{legend|#D2B1D9|40-50%}}
+}}
+{{legend|#808080|No votes}}
+{{legend|#FF7F7F|Insufficient votes}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Ben McAdams]]|votes=29,737|percentage=51.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Nate Blouin]]|votes=15,771|percentage=27.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Liban Mohamed|votes=9,542|percentage=16.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Michael Farrell|votes=2,245|percentage=3.9}}
+{{Election box total no change|votes=57,295|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Candidates====
+=====Filed paperwork=====
+*Jesse West, attorney<ref>{{Cite web |title=FEC Form 2 for Report FEC-1956576 |url=https://docquery.fec.gov/cgi-bin/forms/H6UT01251/1956576 |access-date=2026-03-29 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D|Flip}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 26, 2025}}</ref>
+| {{USRaceRating|Solid|D|Flip}}
+|November 11, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D|Flip}}
+|November 11, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D|Flip}}
+|November 11, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D|Flip}}
+|August 20, 2026
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Ben<br />McAdams (D)
+! style="width:100px;" |Riley<br />Owen (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Lighthouse Research<ref name=UDCpolls>{{cite web |title=2026 Polling |url=https://utahdebatecommission.org/2026-polling/ |publisher=Utah Debate Commission |access-date=October 3, 2026}}</ref>{{Efn-ua|name=UDC|Poll sponsored by the Utah Debate Commission}}
+|August 31 – September 10, 2026
+|515 (LV)
+|±&nbsp;4.32%
+| {{party shading/Democratic}} |'''63%'''
+|21%
+|9%{{Efn|Jesse West (L) with 5%; Elias Henry Montgomery (I) with 3%; "Other" with 1%}}
+|7%
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Ben McAdams (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web|url=https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates/|title=Our Recommended Candidates|publisher=Education Votes|access-date=2026-10-27}}</ref>
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA">{{cite web|url=https://umwa.org/policy-politics/compac-endorsements/utah/|title=Utah|publisher=United Mine Workers of America|access-date=October 29, 2026}}</ref>
+
+;Organizations
+*[[Democrats for Education Reform]]<ref>{{Cite web|url=https://dfer.org/candidates/|title=New Champions in Competitive Districts|access-date=September 29, 2026|website=dfer.org}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web|title=Jewish Dems Endorsed Candidates|url=https://jewishdems.org/endorsements/|website=Jewish Democratic Council of America|access-date=September 12, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Riley Owen (R)
+|$98,334
+|$84,658
+|$13,676
+|-
+|{{party shading/Democratic}}| Ben McAdams (D)
+|$1,916,636
+|$1,245,387
+|$686,253
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 1st congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | Riley Owen
+! scope="col" | [[Ben McAdams]]
+|-
+!1<ref name=Debateschedule>{{cite web |title=Utah Debate Commission Announces 2026 General Election Debate Schedule |url=https://utahdebatecommission.org/schedule/ |publisher=Utah Debate Commission |access-date=September 14, 2026}}</ref>
+| style="white-space:nowrap;" | Sep. 29, 2026
+| style="white-space:nowrap;" | Utah Debate Commission
+| style="white-space:nowrap;" | Natalie Gochnour
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=49684shkoWI YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+====Results====
+{{Election box begin|title=2026 Utah's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Riley Owen
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Ben McAdams]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Utah's 2nd congressional district election
+| country = Utah
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Utah#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Utah#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Blake Moore official photo, 2022 (cropped).jpg
+| nominee1 = [[Blake Moore]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Peter Crosby
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Celeste Maloy]]
+| before_party = [[Republican Party (United States)|Republican]]
+| after_election = 
+| after_party = 
+}}
+{{see also|Utah's 2nd congressional district}}
+[[File:Utah's 2nd congressional district (since 2027) (new version).svg|thumb|270px|Utah's 2nd congressional district boundary from the 2026 elections
+<br>{{maplink|from= Utah's 2nd congressional district (2027–).map|text=Interactive map version}}
+]]
+The new district is based in northern Utah, encompassing the counties of [[Box Elder County, Utah|Box Elder]], [[Cache County, Utah|Cache]], [[Rich County, Utah|Rich]], [[Davis County, Utah|Davis]], and a majority of [[Weber County, Utah|Weber]], and includes the cities of [[Logan, Utah|Logan]], [[Farmington, Utah|Farmington]], [[Ogden, Utah|Ogden]], and [[Brigham City, Utah|Brigham City]], as well as [[Hill Air Force Base]] and [[Weber State University]]. The incumbent is Republican [[Blake Moore]], who was re-elected in the 1st district with 63.1% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 26, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> In the [[2024 United States presidential election|2024 presidential election]], Republican [[Donald Trump]] won the district by a 29-point margin.<ref name="inside-elec"/>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Blake Moore]], incumbent U.S. representative from the 1st district<ref name=":1">{{Cite web |first=Cami|last=Mondeaux|date=2026-03-05 |title=Utah midterms are set: Here’s where all the Republican incumbents are running |url=https://www.deseret.com/politics/2026/03/05/celeste-maloy-run-new-seat/ |access-date=2026-03-05 |website=Deseret News |language=en}}</ref>
+=====Eliminated in primary=====
+*[[Karianne Lisonbee]], [[Utah House of Representatives|state representative]] from the 14th district (2017–present)<ref>{{Cite web |last=Schott |first=Bryan |date=2026-03-10 |title=Karianne Lisonbee challenges Blake Moore in 2nd Congressional District redistricting rumble |url=https://utahpolitics.news/karianne-lisonbee-challenges-blake-moore-in-2nd-congressional-district-redistricting-rumble/ |access-date=2026-03-10 |website=Utah Political Watch |language=en}}</ref>
+=====Eliminated at convention=====
+*Colton Hatch, pensioner<ref name=":0" />
+
+====Endorsements====
+{{Endorsements box
+|title=Karianne Lisonbee
+|colwidth=60
+|list=
+;State legislators
+* 36 current and former state representatives{{efn|
+*[[Nelson Abbott]], [[Utah House of Representatives|state representative]] from the 57th district (2021–present)<ref name="4/13 RRH">{{cite web|url=https://rrhelections.com/index.php/2026/04/13/political-roundup-for-april-13-2026/|title=Political Roundup for April 13, 2026|date=April 13, 2026|access-date=April 13, 2026}}</ref>
+*[[Cheryl Acton]], [[Utah House of Representatives|state representative]] from the 38th district (2017–present)<ref name="4/13 RRH"/>
+*[[Carl Albrecht (politician)|Carl Albrecht]], [[Utah House of Representatives|state representative]] from the 70th district (2017–present)<ref name="4/13 RRH"/>
+*[[Tiara Auxier]], [[Utah House of Representatives|state representative]] from the 4th district (2025–present)<ref name="4/13 RRH"/>
+*[[Kera Birkeland]], former [[Utah House of Representatives|state representative]] from the 4th district (2020–2025)<ref name="4/13 RRH"/>
+*[[Bridger Bolinder]], [[Utah House of Representatives|state representative]] from the 29th district (2023–present)<ref name="4/13 RRH"/>
+*[[Walt Brooks]], [[Utah House of Representatives|state representative]] from the 75th district (2016–present)<ref name="4/13 RRH"/>
+*[[Jefferson S. Burton|Jeff Burton]], [[Utah House of Representatives|state representative]] from the 64th district (2021–present)<ref name="4/13 RRH"/>
+*[[Kristen Chevrier]], [[Utah House of Representatives|state representative]] from the 54th district (2025–present)<ref name="4/13 RRH"/>
+*[[Kay Christofferson]], [[Utah House of Representatives|state representative]] from the 53rd district (2013–present)<ref name="4/13 RRH"/>
+*[[Joseph Elison]], [[Utah House of Representatives|state representative]] from the 72nd district (2023–present)<ref name="4/13 RRH"/>
+*[[Stephanie Gricius]], [[Utah House of Representatives|state representative]] from the 50th district (2023–present)<ref name="4/13 RRH"/>
+*[[Leah Hansen]], [[Utah House of Representatives|state representative]] from the 51st district (2025–present)<ref name="4/13 RRH"/>
+*[[Jon Hawkins (Utah politician)|Jon Hawkins]], [[Utah House of Representatives|state representative]] from the 55th district (2019–present)<ref name="4/13 RRH"/>
+*[[Colin W. Jack|Colin Jack]], [[Utah House of Representatives|state representative]] from the 73rd district (2022–present)<ref name="4/13 RRH"/>
+*[[Jason Kyle (politician)|Jason Kyle]], [[Utah House of Representatives|state representative]] from the 8th district (2023–present)<ref name="4/13 RRH"/>
+*[[Trevor Lee (politician)|Trevor Lee]], [[Utah House of Representatives|state representative]] from the 16th district (2023–present)<ref name="4/13 RRH"/>
+*[[Anthony Loubet]], [[Utah House of Representatives|state representative]] from the 27th district (2023–present)<ref name="4/13 RRH"/>
+*[[Matt MacPherson]], [[Utah House of Representatives|state representative]] from the 26th district (2023–present)<ref name="4/13 RRH"/>
+*[[Cory Maloy]], [[Utah House of Representatives|state representative]] from the 52nd district (2017–present)<ref name="4/13 RRH"/>
+*[[Logan Monson]], [[Utah House of Representatives|state representative]] from the 69th district (2025–present)<ref name="4/13 RRH"/>
+*[[Nicholeen P. Peck|Nicholeen Peck]], [[Utah House of Representatives|state representative]] from the 28th district (2025–present)<ref name="4/13 RRH"/>
+*[[Mike Petersen (Utah politician)|Mike Petersen]], [[Utah House of Representatives|state representative]] from the 2nd district (2021–present)<ref name="4/13 RRH"/>
+*[[Candice Pierucci]], [[Utah House of Representatives|state representative]] from the 49th district (2019–present)<ref name="4/13 RRH"/>
+*[[Calvin Roberts (politician)|Calvin Roberts]], [[Utah House of Representatives|state representative]] from the 46th district (2025–present)<ref name="4/13 RRH"/>
+*[[Jake Sawyer]], [[Utah House of Representatives|state representative]] from the 9th district (2025–present)<ref name="4/13 RRH"/>
+*[[David Shallenberger]], [[Utah House of Representatives|state representative]] from the 58th district (2025–present)<ref name="4/13 RRH"/>
+*[[Troy Shelley]], [[Utah House of Representatives|state representative]] from the 66th district (2025–present)<ref name="4/13 RRH"/>
+*[[Lisa Shepherd]], [[Utah House of Representatives|state representative]] from the 61st district (2025–present)<ref name="4/13 RRH"/>
+*[[Rex Shipp]], [[Utah House of Representatives|state representative]] from the 71st district (2019–present)<ref name="4/13 RRH"/>
+*[[Mark Strong (politician)|Mark Strong]], [[Utah House of Representatives|state representative]] from the 47th district (2019–present)<ref name="4/13 RRH"/>
+*[[Jordan Teuscher]], [[Utah House of Representatives|state representative]] from the 44th district (2021–present)<ref name="4/13 RRH"/>
+*[[Norm Thurston]], [[Utah House of Representatives|state representative]] from the 62nd district (2015–present)<ref name="4/13 RRH"/>
+*[[R. Neil Walter]], [[Utah House of Representatives|state representative]] from the 74th district (2023–present)<ref name="4/13 RRH"/>
+*[[Christine Watkins]], [[Utah House of Representatives|state representative]] from the 67th district (2009–2012, 2017–present)<ref name="4/13 RRH"/>
+*[[Stephen L. Whyte|Stephen Whyte]], [[Utah House of Representatives|state representative]] from the 63rd district (2021–present)<ref name="4/13 RRH"/>}}
+*[[Heidi Balderree]], [[Utah State Senate|state senator]] from the [[Utah's 22nd State Senate district|22nd district]] (2023–present)<ref name="4/13 RRH"/>
+*[[Brady Brammer]], [[Utah State Senate|state senator]] from the [[Utah's 21st State Senate district|21st district]] (2025–present)<ref name="4/13 RRH"/>
+*[[John D. Johnson (politician)|John Johnson]], [[Utah State Senate|state senator]] from the [[Utah's 3rd State Senate district|3rd district]] (2021–present)<ref name="4/13 RRH"/>
+*[[Daniel McCay]], [[Utah State Senate|state senator]] from the [[Utah's 18th State Senate district|18th district]] (2019–present)<ref name="4/13 RRH"/>
+*[[Mike Schultz (politician)|Mike Schultz]], speaker of the [[Utah House of Representatives]] (2023–present) from the 12th district (2015–present)<ref name="Furious">{{cite web|url=https://www.politico.com/news/2026/04/07/this-republican-backed-redistricting-reform-a-new-map-has-become-a-primary-problem-for-him-00860937|title=Utah Republicans are furious about their new congressional map. They blame one of their own.|last=Benson|first=Samuel|date=April 7, 2026|access-date=April 8, 2026|website=[[Politico]]}}</ref>
+*[[Casey Snider]], majority leader of the [[Utah House of Representatives]] (2025–present) from the 5th district (2018–present)<ref name="4/13 RRH"/>
+*[[Keven Stratton]], [[Utah State Senate|state senator]] from the [[Utah's 24th State Senate district|24th district]] (2025–present)<ref name="4/13 RRH"/>
+
+;Organizations
+*[[Turning Point Action]]<ref name="Furious"/>
+}}
+{{Endorsements box
+|title=Blake Moore
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Furious"/>
+
+;U.S. representatives
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="Furious"/>
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="Furious"/>
+
+;State legislators
+*[[Stuart Adams]], president of the [[Utah Senate]] (2019–present) from the 7th district (2009–present)<ref name="Furious"/>
+*12+ other state legislators<ref name="Furious"/>
+
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCRs">{{cite web |title=22 Republicans endorsed by LGBT organization: Full list of names |url=https://www.newsweek.com/22-republicans-endorsed-by-lgbt-organization-full-list-of-names-11460976 |website=Newsweek |access-date=4 February 2026 |language=en |date=3 February 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Blake Moore (R)
+|$2,286,492
+|$1,871,107
+|$1,949,408
+|-
+|{{party shading/Republican}}|Karianne Lisonbee (R)
+|$177,920
+|$118,365
+|$59,556
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Utah 2nd |url=https://www.fec.gov/data/elections/house/UT/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:70px;"| Colton<br />Hatch
+! style="width:70px;"| Karianne<br />Lisonbee
+! style="width:70px;"| Blake<br />Moore
+! Undecided
+|-
+|style="text-align:left;"|The Tarrance Group (R)<ref>{{cite web |title=Key Finings From a Survey of Republican Primary Voters in the Second Congressional District of Utah |url=https://static.politico.com/e3/1e/ef6b1b6b4c6f827906f4e22c196e/moore-polling-memo.pdf |first1=Dave |last1=Sackett |first2=Lauren |last2=Hutchinson |publisher=The Tarrance Group |access-date=May 21, 2026 |date=May 15, 2026}}</ref>{{Efn-ua|name=Moore}}
+|May 11–14, 2026
+|404 (LV)
+|±&nbsp;4.9%
+|–
+|29%
+|{{party shading/Republican}}|'''63%'''
+|7%
+|-
+|style="text-align:left;"|The Tarrance Group (R)<ref>{{Cite web|url=https://static.politico.com/cc/0e/789f75bc47659575d936b1b6f10f/updated-18134-memo.pdf|title=Key Finings From a Survey of Republican Primary Voters in the Second Congressional District of Utah|first1=Dave|last1=Sackett|first2=Lauren|last2=Hutchinson|work=The Tarrance Group|date=March 27, 2026|access-date=April 7, 2026|via=''[[Politico]]''}}</ref>{{Efn-ua|name=Moore|Poll sponsored by Moore's campaign}}
+|March 23–26, 2026
+|308 (LV)
+|±&nbsp;5.8%
+|14%
+|14%
+|{{party shading/Republican}}|'''61%'''
+|11%
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="3" | State Republican convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1            
+|-
+! Votes
+! %          
+|-
+! scope="row" style="text-align:left;" | {{sortname|Karianne|Lisonbee|Karianne Lisonbee}}
+|  '''552'''
+|  '''61.54%'''                     
+|-
+! scope="row" style="text-align:left;" | {{sortname|Blake|Moore|Blake Moore}}
+|  '''302'''
+|  '''33.67%'''
+|-
+! scope="row" style="text-align:left;" | Steve Fonua
+|  43
+|  4.79%
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots           
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 2nd congressional district Republican primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Karianne Lisonbee]]
+! scope="col" | [[Blake Moore]]
+|-
+!1
+| style="white-space:nowrap;" | Jun. 1, 2026
+| style="white-space:nowrap;" | Utah Debate Commission
+| style="white-space:nowrap;" | Glen Mills
+| style="white-space:nowrap;" |<ref>[https://www.youtube.com/watch?v=LHcha3ORnAU YouTube]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Blake Moore]] (incumbent)|votes=52,673|percentage=56.7}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Karianne Lisonbee]]|votes=40,271|percentage=43.3}}
+{{Election box total no change|votes=92,944|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+==== Candidates ====
+=====Nominee=====
+*Peter Crosby, project manager<ref name="Liban1" />
+=====Eliminated at convention=====
+*Jarom Gillins, tradesman<ref name=UTDems>{{Cite web |last=Winslow |first=Ben |date=2025-11-13 |title=With a new competitive congressional map, Democrats dive in |url=https://www.fox13now.com/news/politics/with-a-new-competitive-congressional-map-democrats-dive-in |access-date=2025-11-21 |website=FOX13}}</ref><ref name="Liban1" />
+*Ian Parrish<ref name="Liban1" />
+*Tyler Farnsworth, mental health nurse practitioner<ref name="Liban1" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Peter Crosby (D)
+|$20,737
+|$11,308
+|$3,896
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="3" | State Democratic convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1            
+|-
+! Votes
+! %          
+|-
+! scope="row" style="text-align:left;" | Peter Crosby
+|  '''281'''
+|  '''76.57%'''                     
+|-
+! scope="row" style="text-align:left;" | Tyler Farnsworth
+|  56
+|  15.26%
+|-
+! scope="row" style="text-align:left;" | Jarom Gillins
+|  19
+|  5.18%
+|-
+! scope="row" style="text-align:left;" | Ian Parrish
+|  11
+|  3.00%
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots           
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|November 11, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|November 11, 2025 
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|November 11, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Blake Moore (R)
+|$2,286,492
+|$1,871,107
+|$1,949,408
+|-
+|{{party shading/Democratic}}| Peter Crosby (D)
+|$20,737
+|$11,309
+|$3,896
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Blake<br/>Moore (R)
+! style="width:100px;"| Peter<br/>Crosby (D)
+! Other 
+! Undecided
+|-
+| style="text-align:left;"|Crosby for Congress (D)<ref>{{cite web |title=Crosby leads Moore in latest internal polling in Utah’s 2nd Congressional District |url=https://petercrosbyforcongress.org/press/late-september-internal-polling |publisher=Crosby for Congress |access-date=September 28, 2026 |date=September 27, 2026}}</ref>
+|September 21–23, 2026
+|657 (LV)
+|±&nbsp;3.8%
+|32%
+|{{party shading/Democratic}}|'''35%'''
+|10%{{efn|"None of the Above" with 7%; "Other" with 3%}}
+|23%
+|-
+|style="text-align:left;"|Lighthouse Research<ref name=UDCpolls/>{{Efn-ua|name=UDC}}
+|September 10–24, 2026
+|515 (LV)
+|±&nbsp;4.32%
+| {{party shading/Republican}} |'''39%'''
+|34%
+|17%{{Efn|Daniel Cottam (L) & Robert Moesinger (I) with 5%; Carlton Bowen (IA) with 4%; "Other" with 3%}}
+|11%
+|-
+|style="text-align:left;"|Crosby for Congress (D)<ref>{{cite web |title=Northern Utah on track to flip a 2nd Congressional seat this November |url=https://petercrosbyforcongress.org/press/september-internal-polling |publisher=Crosby for Congress |access-date=September 16, 2026 |date=September 14, 2026}}</ref>
+|September 8–10, 2026
+|762 (RV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''32%'''
+|31%
+|12%{{efn|"None of the Above" with 9%; "Other" with 3%}}
+|25%
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 2nd congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Blake Moore]]
+! scope="col" | Peter Crosby
+|-
+!1<ref name=Debateschedule/>
+| style="white-space:nowrap;" | Oct. 13, 2026
+| style="white-space:nowrap;" | Utah Debate Commission
+| style="white-space:nowrap;" | Heidi Hatch
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=28N9EFEzPZk YouTube]
+| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+====Results====
+{{Election box begin|title=2026 Utah's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Blake Moore]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Peter Crosby
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Utah's 3rd congressional district election
+| country = Utah
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Utah#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Utah#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = Celeste Maloy 118th Congress (cropped).jpeg
+| nominee1 = [[Celeste Maloy]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kent Udell
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mike Kennedy]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Utah's 3rd congressional district}}
+[[File:Utah's 3rd congressional district (since 2027) (new version).svg|thumb|270px|Utah's 3rd congressional district boundary from the 2026 elections
+<br>{{maplink|from= Utah's 3rd congressional district (2027–).map|text=Interactive map version}}
+]]
+The new district is based in eastern and southern Utah, encompassing a majority of the state's counties and portions of [[Utah County|Utah]] and [[Weber County, Utah|Weber]] counties, and includes the cities of [[Cedar City, Utah|Cedar City]], [[St. George, Utah|St. George]], [[Provo, Utah|Provo]], [[Price, Utah|Price]], [[Orem, Utah|Orem]], and [[Heber, Utah|Heber]], as well as [[Brigham Young University]].
+The incumbent is Republican [[Celeste Maloy]], who was re-elected in the 2nd district with 58.0% of the vote in 2024.<ref name="HPVT"/> In the [[2024 United States presidential election|2024 presidential election]], Republican [[Donald Trump]] won the district by a 41-point margin.<ref name="inside-elec"/>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Celeste Maloy]], incumbent U.S. representative from the 2nd district<ref name=":1" />
+=====Eliminated in primary=====
+*[[Phil Lyman]], former [[Utah House of Representatives|state representative]] from the 69th district (2019–2024) and candidate for [[List of governors of Utah|governor]] in [[2024 Utah gubernatorial election|2024]]<ref>{{Cite web |last=Schott |first=Bryan |date=2026-03-05 |title=Phil Lyman is back, and he's gunning for Celeste Maloy in Utah's 3rd District |url=https://utahpolitics.news/phil-lyman-is-back-and-hes-gunning-for-celeste-maloy-in-utahs-3rd-district/ |access-date=2026-03-05 |website=Utah Political Watch |language=en}}</ref>
+
+=====Eliminated at convention=====
+*David Harris<ref>{{Cite web |title=FEC Form 2 for Report FEC-1951297 |url=https://docquery.fec.gov/cgi-bin/forms/H6UT03190/1951297 |access-date=2026-03-02 |website=docquery.fec.gov}}</ref>
+*Tyler Murset<ref name=":0" />
+
+=====Declined=====
+*[[Mike Kennedy (politician)|Mike Kennedy]], incumbent U.S. representative ''(running in the 4th district)''<ref name=":1" />
+
+====Endorsements====
+Endorsements in '''bold''' were made after the primary elections.
+
+{{Endorsements box
+|title=Celeste Maloy
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="Money">{{cite web|url=https://www.deseret.com/politics/2026/04/07/incumbent-candidates-dominate-fundraising-in-redrawn-utah-congressional-map-amid-fight-over-endorsements-from-progressives-and-president-donald-trump/|title=McAdams and Moore lead money race in Utah’s redrawn 2026 midterm races|last=Tomco|first=Brigham|date=April 7, 2026|access-date=April 8, 2026|website=[[Deseret News]]}}</ref>
+
+;U.S. representatives
+*[[Burgess Owens]], [[UT-04]]<ref name="Money"/>
+
+;State legislators
+*[[Stuart Adams]], president of the [[Utah Senate]] (2019–present) from the 7th district (2009–present)<ref name="Money"/>
+*[[Carl Albrecht (politician)|Carl Albrecht]], [[Utah House of Representatives|state representative]] from the 70th district (2017–present)<ref name="Money"/>
+*[[Bridger Bolinder]], [[Utah House of Representatives|state representative]] from the 29th district (2023–present)<ref name="Money"/>
+*[[Walt Brooks]], [[Utah House of Representatives|state representative]] from the 75th district (2016–present)<ref name="Money"/>
+*[[Paul A. Cutler|Paul Cutler]], [[Utah House of Representatives|state representative]] from the 18th district (2023–present)<ref name="Money"/>
+*[[David Hinkins]], [[Utah State Senate|state senator]] from the [[Utah's 26th State Senate district|26th district]] (2009–present)<ref name="Money"/>
+*[[Don Ipson]], [[Utah State Senate|state senator]] from the [[Utah's 29th State Senate district|29th district]] (2016–present)<ref name="Money"/>
+*[[Colin W. Jack|Colin Jack]], [[Utah House of Representatives|state representative]] from the 73rd district (2022–present)<ref name="Money"/>
+*[[Anthony Loubet]], [[Utah House of Representatives|state representative]] from the 27th district (2023–present)<ref name="Money"/>
+*[[Steven J. Lund (politician)|Steven Lund]], former [[Utah House of Representatives|state representative]] from the 21st district (2021–2024)<ref name="Money"/>
+*[[Mike McKell]], [[Utah State Senate|state senator]] from the [[Utah's 25th State Senate district|25th district]] (2021–present)<ref name="Money"/>
+*[[Derrin Owens]], [[Utah State Senate|state senator]] from the [[Utah's 27th State Senate district|27th district]] (2021–present)<ref name="Money"/>
+*[[Scott Sandall]], [[Utah State Senate|state senator]] from the [[Utah's 1st State Senate district|1st district]] (2019–present)<ref name="Money"/>
+*[[Rex Shipp]], [[Utah House of Representatives|state representative]] from the 71st district (2019–present)<ref name="Money"/>
+*[[Keven Stratton]], [[Utah State Senate|state senator]] from the [[Utah's 24th State Senate district|24th district]] (2025–present)<ref name="Money"/>
+*[[Evan Vickers]], majority leader of the [[Utah Senate]] (2019–present) from the [[Utah's 28th State Senate district|28th district]] (2013–present)<ref name="Money"/>
+*[[R. Neil Walter]], [[Utah House of Representatives|state representative]] from the 74th district (2023–present)<ref name="Money"/>
+*[[Todd Weiler]], [[Utah State Senate|state senator]] from the 8th district (2012–present)<ref name="Money"/>
+*[[Doug Welton]], [[Utah House of Representatives|state representative]] from the 65th district (2021–present)<ref name="Money"/>
+
+;Organizations
+*'''[[Log Cabin Republicans]]'''<ref name="LCR4">{{cite web |title=Log Cabin Republicans PAC Announces Fourth Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-fourth-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=9 August 2026 |date=August 4, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Celeste Maloy (R)
+|$1,177,361
+|$1,028,321
+|$256,062
+|-
+|{{party shading/Republican}}|Phil Lyman (R)
+|$38,622
+|$43,486
+|$7,714
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Utah 3rd |url=https://www.fec.gov/data/elections/house/UT/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="5" | State Republican convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1 
+! colspan=2 style="text-align:center;" | Round 2           
+|-
+! Votes
+! %     
+! Votes
+! %        
+|-
+! scope="row" style="text-align:left;" | {{sortname|Celeste|Maloy|Celeste Maloy}}
+|  '''515'''
+|  '''50.00%'''
+|  '''482'''
+|  '''50.95%'''                  
+|-
+! scope="row" style="text-align:left;" | {{sortname|Phil|Lyman |Phil Lyman}}
+|  '''486'''
+|  '''47.18%'''
+|  '''464'''
+|  '''49.05%''' 
+|-
+! scope="row" style="text-align:left;" | Tyler Murset
+|  27
+|  2.62%
+! colspan=2 style="text-align:center;" {{lost|Eliminated}}
+|-
+! scope="row" style="text-align:left;" | David Harris
+|  2
+|  0.19%
+! colspan=2 style="text-align:center;" {{lost|Eliminated}}
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots   
+! colspan="2" |   84 ballots          
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 3rd congressional district Republican primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Phil Lyman]]
+! scope="col" | [[Celeste Maloy]]
+|-
+!1
+| style="white-space:nowrap;" | Jun. 1, 2026
+| style="white-space:nowrap;" | Utah Debate Commission
+| style="white-space:nowrap;" | Thomas Wright
+| style="white-space:nowrap;" |<ref>[https://www.youtube.com/watch?v=M4-nXNQ8gzs YouTube]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Celeste Maloy]] (incumbent)|votes=67,135|percentage=65.7}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Phil Lyman]]|votes=35,034|percentage=34.3}}
+{{Election box total no change|votes=102,169|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Kent Udell, engineer and cousin of former U.S. Interior Secretary [[Stewart Udall]]<ref>{{cite news |last1=Drake |first1=Ron |title=Kent Udell announces his run for Congress |url=https://www.moabtimes.com/articles/kent-udell-announces-his-run-for-congress/ |access-date=February 18, 2026 |work=[[The Times-Independent]] |date=February 18, 2026}}</ref>
+=====Eliminated at convention=====
+*Steve Merrill, nominee for [[Utah House of Representatives|state representative]] in [[2024 Utah House of Representatives election|2024]]<ref name="Liban1" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Steve Merrill (D)
+|$21,088
+|$20,327
+|$760
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="3" | State Democratic convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1            
+|-
+! Votes
+! %          
+|-
+! scope="row" style="text-align:left;" | Kent Udell
+|  '''190'''
+|  '''56.55%'''                     
+|-
+! scope="row" style="text-align:left;" | Steve Merrill
+|  146
+|  43.45%
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots           
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|November 11, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|November 11, 2025 
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= August 14, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|November 11, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Celeste<br />Maloy (R)
+! style="width:100px;" |Kent<br />Udell (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Lighthouse Research<ref name=UDCpolls/>{{Efn-ua|name=UDC}}
+|September 2–15, 2026
+|508 (LV)
+|±&nbsp;4.35%
+| {{party shading/Republican}} |'''45%'''
+|26%
+|14%{{Efn|Michael Stoddard (L) with 7%; Cassie Easley (C) & Ayden Scott (I) with 3%; "Other" with 1%; Adonis Hooslyn (I) with 0%}}
+|16%
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Celeste Maloy (R)
+|$1,177,361
+|$1,028,321
+|$256,062
+|-
+|{{party shading/Democratic}}| Kent Udell (D)
+|$14,010
+|$3,380
+|$10,630
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Utah |url=https://www.fec.gov/data/elections/house/UT/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 23, 2026}}</ref></small>
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Kent Udell (D)
+|list=
+;Labor unions
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA" />
+}}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 3rd congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Celeste Maloy]]
+! scope="col" | Kent Udell
+|-
+!1<ref name=Debateschedule/>
+| style="white-space:nowrap;" | Oct. 2, 2026
+| style="white-space:nowrap;" | Utah Debate Commission
+| style="white-space:nowrap;" | Bob Evans
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=afTG23vjBGU YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+====Results====
+{{Election box begin|title=2026 Utah's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Celeste Maloy]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Kent Udell
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Utah's 4th congressional district election
+| country = Utah
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Utah#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Utah#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = Kennedy Mike 119th Congress 2 (cropped).jpg
+| nominee1 = [[Mike Kennedy]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg 
+| nominee2 = Jonny Larsen
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Burgess Owens]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Utah's 4th congressional district}}
+[[File:Utah's 4th congressional district (since 2027) (new version).svg|thumb|270px|Utah's 4th congressional district boundary from the 2026 elections
+<br>{{maplink|from= Utah's 4th congressional district (2027–).map|text=Interactive map version}}
+]]
+The new district is based in western Utah, encompassing the counties of [[Tooele County, Utah|Tooele]], [[Juab County, Utah|Juab]], [[Millard County, Utah|Millard]], [[Sanpete County, Utah|Sanpete]], [[Sevier County, Utah|Sevier]], and portions of [[Salt Lake County]] and [[Utah County]], and includes the cities of [[Draper, Utah|Draper]], [[Sandy, Utah|Sandy]], [[Tooele, Utah|Tooele]], and [[South Jordan, Utah|South Jordan]]. Due to redistricting, the district has two incumbents: Republican [[Burgess Owens]], who was re-elected with 63.4% of the vote in 2024, and Republican [[Mike Kennedy]], who was elected in the 3rd district with 66.4% of the vote in 2024. Owens announced in March 2026 that he would not seek re-election.<ref name="HPVT"/><ref>{{Cite web|url=https://www.politico.com/live-updates/2026/03/04/congress/burgess-owens-retires-00813495|title=Utah Republican Burgess Owens announces he’ll retire at the end of this term|access-date=March 4, 2026}}</ref> In the [[2024 United States presidential election|2024 presidential election]], Republican [[Donald Trump]] won the district by a 32-point margin.<ref name="inside-elec"/>
+
+===Republican primary===
+====Candidates====
+===== Nominee =====
+* [[Mike Kennedy]], incumbent U.S. representative for the 3rd district<ref name=":1" />
+=====Eliminated at convention=====
+*Isaiah Hardman<ref>{{Cite web |title=FEC Form 2 for Report FEC-1954672 |url=https://docquery.fec.gov/cgi-bin/forms/H6UT04040/1954672 |access-date=2026-03-20 |website=docquery.fec.gov}}</ref>
+* Scott Hatfield, businessman and candidate for the 2nd district in [[2023 Utah's 2nd congressional district special election|2023]]<ref name=filing/>
+* Tyrone Jensen, small business owner and perennial candidate<ref name=filing>{{Cite web |title=2026 Candidate Filings |url=https://vote.utah.gov/2026-candidate-filings/ |access-date=2026-03-17 |website=Utah Voter Information |language=en-US}}</ref>
+* Seth Stewart, poll worker<ref name=filing/>
+
+=====Withdrawn=====
+*[[Burgess Owens]], incumbent U.S. representative<ref>{{Cite web |url=https://www.politico.com/live-updates/2026/03/04/congress/burgess-owens-retires-00813495 |title=Utah Republican Burgess Owens announces he’ll retire at the end of this term |access-date=March 4, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Mike Kennedy
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[President of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Mondeaux |first1=Cami |title=Trump endorses all 3 Republican incumbents in Utah’s primary elections |url=https://www.deseret.com/politics/2026/06/18/who-trump-endorsed-utah-primary-elections/ |publisher=[[Deseret News]] |access-date=June 19, 2026 |date=June 18, 2026}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Burgess Owens (R)''
+|$704,914
+|$675,905
+|$162,437
+|-
+|{{party shading/Republican}}|Mike Kennedy (R)
+|$802,218
+|$556,573
+|$370,846
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Utah 4th |url=https://www.fec.gov/data/elections/house/UT/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="3" | State Republican convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1            
+|-
+! Votes
+! %          
+|-
+! scope="row" style="text-align:left;" | {{sortname|Mike|Kennedy|Mike Kennedy}}
+|  '''753'''
+|  '''78.68%'''                     
+|-
+! scope="row" style="text-align:left;" | Scott Hatfield
+|  105
+|  10.97%
+|-
+! scope="row" style="text-align:left;" | Seth Stewart
+|  50
+|  5.22%
+|-
+! scope="row" style="text-align:left;" | Isaiah Hardman
+|  36
+|  3.76%
+|-
+! scope="row" style="text-align:left;" | Tyrone Jensen
+|  13
+|  1.36%
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots           
+|}
+
+=== Democratic primary ===
+==== Candidates ====
+===== Nominee =====
+* Jonny Larsen, U.S. Marine Corps veteran<ref name="Liban1" />
+===== Eliminated at convention =====
+* Archie Williams III, perennial candidate<ref name="Liban1" />
+
+==== Endorsements ====
+{{Endorsements box
+|title=Jonny Larsen
+|list=
+;Organizations
+*[[Center for Freethought Equality]]<ref name=CFE/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jonny Larsen (D)
+|$32,783
+|$29,807
+|$2,975
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Convention====
+{| class="wikitable sortable"
+! colspan="3" | State Democratic convention results, 2026
+|- style="background:#eee; text-align:center;"
+! rowspan=2 style="text-align:center;" | Candidate
+! colspan=2 style="text-align:center;" | Round 1            
+|-
+! Votes
+! %          
+|-
+! scope="row" style="text-align:left;" | Jonny Larsen
+|  '''262'''
+|  '''94.93%'''                     
+|-
+! scope="row" style="text-align:left;" | Archie Williams
+|  14
+|  5.07%
+|-
+! scope="row" style="text-align:left;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive Ballots]]
+! colspan="2" |   0 ballots           
+|}
+
+===Independents===
+====Candidates====
+===== Filed paperwork =====
+*Steven Burt, attorney<ref>{{Cite web |title=FEC Form 2 for Report FEC-1918357 |url=https://docquery.fec.gov/cgi-bin/forms/H6UT04024/1918357/ |access-date=2025-10-09 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Steven Burt (I)
+|$26,904
+|$24,385
+|$2,518
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|November 11, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|November 11, 2025 
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|November 11, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Mike Kennedy (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-mike-kennedy-for-utahs-fourth-district|title=U.S. Chamber Endorses Rep. Mike Kennedy for Utah's Fourth District|date=October 2, 2026|access-date=October 5, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Mike Kennedy (R)
+|$802,219
+|$556,574
+|$370,847
+|-
+|{{party shading/Democratic}}| Jonny Larsen (D)
+|$34,363
+|$29,757
+|$4,506
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Mike<br />Kennedy (R)
+! style="width:100px;" |Jonny<br />Larsen (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Lighthouse Research<ref name=UDCpolls/>{{Efn-ua|name=UDC}}
+|September 8–17, 2026
+|513 (LV)
+|±&nbsp;4.32%
+| {{party shading/Republican}} |'''42%'''
+|33%
+|14%{{Efn|Steven Burt (I) with 6%; Taylor Wright (L) with 5%; "Other" with 3%}}
+|12%
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Utah's 4th congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Mike Kennedy]]
+! scope="col" | Jonny Larsen
+|-
+!1<ref name=Debateschedule/>
+| style="white-space:nowrap;" | Oct. 8, 2026
+| style="white-space:nowrap;" | Utah Debate Commission
+| style="white-space:nowrap;" | Doug Wilks
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=xFxqYRtqzqI YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+====Results====
+{{Election box begin|title=2026 Utah's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mike Kennedy]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Jonny Larsen
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+;Official campaign websites for 1st district candidates
+*[https://benmcadamsutah.com/ Ben McAdams (D)]
+*[https://www.eliasmontgomery.com/ Elias Montgomery (I)]
+*[https://www.utahriley.com/ Riley Owen (R)]
+*[https://www.jessewest2026.com/ Jesse West (L)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.bowenforcongress.com/ Carlton Bowen (IA)]
+*[https://www.petercrosbyforcongress.org/ Peter Crosby (D)]
+*[https://www.electmoore.com/ Blake Moore (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://cassieforcongress.com/ Cassie Easley (C)]
+*[https://www.hooslynforhouse.com/ Adonis Hooslyn (I)]
+*[https://www.celesteforutah.com/ Celeste Maloy (R)]
+*[https://www.aydenscott4congress.com/ Ayden Scott (I)]
+*[https://2amike4congress.org/ Michael Stoddard (L)]
+*[https://www.kentudell.com/ Kent Udell (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://stevenburt.com/ Steven Burt (I)]
+*[https://mikekennedyforutah.com/ Mike Kennedy (R)]
+*[https://www.jonnyutah4congress.com/ Jonny Larsen (D)]
+*[https://wrightforutah.com/ Taylor Wright (L)]
+
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|Utah]]
+[[Category:2026 elections in Utah|United States House]]
+[[Category:United States House of Representatives elections in Utah]]

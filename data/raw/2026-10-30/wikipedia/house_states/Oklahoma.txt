@@ -1,0 +1,1297 @@
+{{short description|none}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+
+{{Distinguish|2026 Oklahoma House of Representatives election}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Oklahoma
+| country = Oklahoma
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Oklahoma
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Oklahoma
+| next_year = 2028
+| seats_for_election = All 5 Oklahoma seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''5'''
+| seats1 = 
+| seat_change1 = 
+| popular_vote1 = 
+| percentage1 = 
+| swing1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 
+| seat_change2 = 
+| popular_vote2 = 
+| percentage2 = 
+| swing2 = 
+| map_image = 
+| map_caption =
+}}{{Elections in Oklahoma}}
+
+The '''2026 United States House of Representatives elections in Oklahoma''' will be held on November 3, 2026, to elect the five [[U.S. representative]]s from the [[U.S. state|State]] of [[Oklahoma]], one from each of the state's [[Oklahoma's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 16, 2026, and in races where no candidate receives over 50% of the vote, runoff elections would have taken place on August 25, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Oklahoma's 1st congressional district election
+| country = Oklahoma
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Oklahoma#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Oklahoma#District 1
+| next_year = 2028
+| image1 = Tedford Mark OKHouse.jpg
+| nominee1 = [[Mark Tedford]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = John Croisant 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Kevin Hern]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Oklahoma's 1st congressional district}}
+The 1st district is based in the [[Tulsa, Oklahoma|Tulsa]] metropolitan area. The incumbent is Republican [[Kevin Hern]], who was re-elected with 60.4% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> On March 11, 2026, Hern announced he would [[2026 United States Senate election in Oklahoma|run for]] the [[United States Senate|U.S. Senate]], following incumbent senator [[Markwayne Mullin]]'s appointment as [[United States Secretary of Homeland Security|secretary of homeland security]].<ref>{{Cite web |last=Gorman |first=Reese |last2=Luetkemeyer |first2=Em |last3=Huiskes |first3=Helen |date=2026-03-05 |title=Oklahoma Republicans Are Already Eyeing Markwayne Mullin’s Senate Seat |url=https://www.notus.org/2026-election/oklahoma-republicans-markwayne-mullin-senate-seat |access-date=2026-03-10 |website=NOTUS |language=en-US |quote=Rep. Kevin Hern will soon launch a bid for Senate, a source familiar with the matter told NOTUS.}}</ref>
+
+===Republican primary===
+The 2026 Republican primary in [[Oklahoma's 1st congressional district]] is the largest in the district's history with 11 candidates on the ballot. 13 candidates announced or filed, with Jackson Stalling announcing, but failing to file and Rob Durbin filing before withdrawing.<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Crowded Republican primary largest ever for 1st Congressional District |url=https://tulsaworld.com/news/state-regional/government-politics/elections/article_826e63f8-df9f-453a-9eb1-d6df467e6e45.html |access-date=May 20, 2026 |work=[[Tulsa World]] |date=May 3, 2026}}</ref> In May, Tulsa pastor Jackson Lahmeyer received an endorsement from President [[Donald Trump]] ahead of the primary.<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Trump endorsement of Lahmeyer doesn't deter CD 1 opponents |url=https://tulsaworld.com/news/state-regional/government-politics/article_b54ee45d-6692-4aa7-ac80-ee026e3b4c91.html |access-date=May 20, 2026 |work=[[Tulsa World]] |date=May 7, 2026 |language=en}}</ref> [[Folds of Honor]] founder Dan Rooney withdrew from the race after Trump's endorsement.<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Rooney drops out of 1st Congressional District race |url=https://tulsaworld.com/news/state-regional/government-politics/article_d1adda5c-52ed-49f6-a1a1-f464df035e58.html |access-date=May 20, 2026 |work=[[Tulsa World]] |date=May 13, 2026 |language=en}}</ref>
+
+====Candidates====
+=====Nominee=====
+*[[Mark Tedford]], [[Oklahoma House of Representatives|state representative]] from the 69th district (2022–present)<ref name=":0" />
+
+=====Advanced to runoff, withdrew=====
+*Jackson Lahmeyer, pastor and candidate for U.S. Senate in [[2022 United States Senate election in Oklahoma|2022]]<ref>{{cite news |title=Jackson Lahmeyer drops out of Oklahoma's 1st Congressional District Race |url=https://www.newson6.com/tulsa-oklahoma-news/jackson-lahmeyer-drops-out-of-oklahomas-1st-congressional-district-race |access-date=June 17, 2026 |work=[[KOTV-DT]] |date=June 17, 2026}}</ref>
+
+=====Eliminated in primary=====
+*Nathan Butterfield, businessman<ref>{{cite news |url=https://us17.campaign-archive.com/ |title=Conservative Businessman Nathan Butterfield Promises to Bring Oklahoma Grit to Congress |access-date=March 27, 2026 |work=Nathan Butterfield for Congress |date=March 26, 2026}}</ref><ref name=":0">{{Cite web |date=April 3, 2026 |title=CANDIDATES FOR ELECTIVE OFFICE 2026 |url=https://oklahoma.gov/content/dam/ok/en/elections/candidate-filing-archives/2026-candidate-filing-archives/2026-candidate-list-book.pdf |access-date=April 4, 2026 |website=Oklahoma.gov}}</ref>
+*Jed Cochran, former staffer for [[Tom Coburn]] and [[G. T. Bynum]]<ref name="Faught-1">{{cite news |url=https://www.muskogeepolitico.com/2026/03/jed-cochran-announces-campaign-for.html |title=Jed Cochran announces campaign for Congress in 1st District |access-date=March 27, 2026 |work=Muskogee Politico |date=March 26, 2026}}</ref><ref name=":0" />
+*[[Kim David]], chair of the [[Oklahoma Corporation Commission]] (2024–present) from seat 1 (2023–present) and former majority leader of the [[Oklahoma Senate]] (2019–2021) from the 18th district (2010–2022)<ref>{{cite news |title=OK Corporation Commissioner Kim David announces Congressional campaign |url=https://www.fox23.com/news/ok-corporation-commissioner-kim-david-announces-congressional-campaign/article_19d448f9-1069-4e76-9f0e-47d6274ca79b.html |access-date=March 12, 2026 |work=Fox 23 |date=March 12, 2026}}</ref><ref name=":0" />
+*Nancy Dyson, landlord<ref name=":0" />
+*Courtney Gill, head of innovation for a venture capital firm<ref name=":0" />
+*Paul Royse, former police officer<ref name=":0" />
+*Kelly B. Walsh, analytical chemist<ref name=":0" />
+*Todd Woods, construction company owner<ref name=":0" />
+
+=====Withdrawn=====
+*Ronald E. Durbin, former attorney<ref name=":0" /><ref>{{cite web |title=2026 Candidate Withdrawals |url=https://oklahoma.gov/elections/candidates/2026-candidate-filing-information/2026-candidate-withdrawals.html |website=oklahoma.gov |publisher=[[Oklahoma State Election Board]] |access-date=April 7, 2026 |language=en}}</ref>
+*[[Kevin Hern]], incumbent U.S. representative ([[2026 United States Senate election in Oklahoma |''running for U.S. Senate'']])<ref name="RacesForUSH">{{cite news |title=Races for U.S. Senate and House |url=https://oklahomaconstitution.com/ns.php?nid=1438 |access-date=October 31, 2025 |work=[[The Oklahoma Constitution]] |date=October 30, 2025}}</ref>
+*Jackson Stallings, Navy veteran<ref>{{cite news |last1=Faught |first1=Jamison |title=Jackson Stallings announces campaign for 1st Congressional District |url=https://www.muskogeepolitico.com/2026/03/jackson-stallings-announces-campaign.html |access-date=March 16, 2026 |work=Muskogee Politico |date=March 16, 2026}}</ref>
+*Dan Rooney, veteran and former professional golfer<ref>{{cite news |last1=Pittman |first1=Destini |title=Lt. Col. Dan Rooney considers Congressional run |url=https://www.newson6.com/tulsa-oklahoma-news/lt-col-dan-rooney-considers-congressional-run-who-is-he |access-date=March 26, 2026 |work=[[KOTV-DT]] |date=March 26, 2026}}</ref> (''remained on ballot'')<ref name=":0"/>
+
+=====Declined=====
+*[[Steve Kunzweiler]], Tulsa County district attorney (2014–present) ''(running for re-election)''<ref name="TW-3.5.26">{{cite news |last1=Krehbiel |first1=Randy |title=U.S. Sen. Markwayne Mullin's resignation shakes up Oklahoma politics |url=https://tulsaworld.com/news/state-regional/government-politics/article_0d87bc49-e6d6-4d80-bb17-104eb5320928.html |access-date=March 7, 2026 |work=[[Tulsa World]] |date=March 5, 2026 |language=en}}</ref>
+*[[Glen Mulready]], [[Oklahoma Insurance Commissioner|Oklahoma insurance commissioner]] (2019–present) and former [[Oklahoma House of Representatives|state representative]] from the 68th district (2010–2018)<ref>{{cite news |last1=Loveless |first1=Tristan |title=Kevin Hern launches U.S. Senate campaign, opens Tulsa-based congressional race |url=https://nondoc.com/2026/03/11/kevin-hern-launches-u-s-senate-campaign-opens-tulsa-based-congressional-district/ |access-date=March 11, 2026 |work=NonDoc |date=March 11, 2026}}</ref>
+*[[Matt Pinnell]], lieutenant governor of Oklahoma (2019–present)<ref>{{cite news |last1=Dowers |first1=Graham |title=Lt. Gov. Matt Pinnell announces he will not run for governor |url=https://www.newson6.com/politics/matt-pinnell-not-running-oklahoma-governor |access-date=March 9, 2026 |work=[[KOTV-DT]] |date=March 9, 2026}}</ref>
+*Vic Regalado, [[Tulsa County]] sheriff (2016–present)<ref>{{cite news |title=Tulsa Co. Sheriff Vic Regalado decides not to run for Congress |url=https://www.fox23.com/news/tulsa-co-sheriff-vic-regalado-decides-not-to-run-for-congress/article_957ee04f-15a9-4c27-8616-5228a95da9ea.html |access-date=March 11, 2026 |work=[[KTUL|Fox 23]] |date=March 11, 2026 |language=en}}</ref> ''(endorsed Butterfield)''
+
+====Endorsements====
+{{Endorsements box
+|title=Jackson Lahmeyer ''(withdrawn)''
+|list=
+;Executive branch officials
+*<s>[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)</s><ref>{{cite web|url=https://www.oklahoman.com/story/news/politics/elections/2026/05/07/oklahoma-elections-2026-trump-endorses-jackson-lahmeyer-ok-house-district-1/89983141007/|title=Donald Trump endorses Jackson Lahmeyer in key Oklahoma primary race|last=Gladden|first=Alex|date=May 7, 2026|access-date=May 7, 2026|website=[[The Oklahoman]]}}</ref> ''(Endorsement revoked)''<ref name="TrumpFlip">{{cite news |last1=Douglas |first1=Blake |title=CD 1: Jackson Lahmeyer drops out day after primary, Trump flips endorsement |url=https://nondoc.com/2026/06/17/cd-1-jackson-lahmeyer-drops-out-day-after-primary-trump-flips-endorsement/ |access-date=June 17, 2026 |work=NonDoc |date=June 17, 2026}}</ref>
+
+;U.S. representatives
+*[[Anna Paulina Luna]], [[FL-13]] (2023–present)<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: For once, state treasurer race could be interesting |url=https://tulsaworld.com/news/state-regional/government-politics/article_ce3aefe8-b555-444a-af6a-caa2078863b5.html |access-date=May 11, 2026 |work=[[Tulsa World]] |date=May 10, 2026 |language=en}}</ref>
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-02]] (1995–2001)<ref name="CFG">{{cite web|url=https://www.clubforgrowth.org/club-for-growth-pac-endorses-jackson-lahmeyer-in-ok-01-race/|title=Club for Growth PAC Endorses Jackson Lahmeyer in OK-01 Race|last=Mitola|first=Will|date=May 8, 2026|access-date=May 16, 2026}}</ref>
+
+;Local officials
+*[[Rudy Giuliani]], former [[mayor of New York City]] (1994–2001)<ref>{{cite web|url=https://www.oklahoman.com/story/news/politics/2026/03/26/jackson-lahmeyer-tusla-ok-pastors-for-trump-elections-2026/89334840007/|title=Trump ally Jackson Lahmeyer seeks Oklahoma congress seat|last=Denwalt|first=Dale|date=March 26, 2026|access-date=May 7, 2026|website=[[The Oklahoman]]}}</ref>
+
+;Party officials
+*Charity Linch, chair of the [[Oklahoma Republican Party]]<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Republicans running against each other more than they are Democrats |url=https://tulsaworld.com/news/state-regional/government-politics/elections/article_a2e34ddf-a3dd-412e-a36c-a638814c1c8e.html |access-date=April 27, 2026 |work=[[Tulsa World]] |date=April 27, 2026 |language=en}}</ref>
+
+;Organizations
+*[[Club for Growth]]<ref name="CFG"/>
+}}
+{{Endorsements box
+|title=Jackson Stallings ''(withdrawn)''
+|list=
+;U.S. Representatives
+*[[Brandon Gill]], [[Texas's 26th congressional district|TX–26]] (2025–present)<ref name="Stalling announce">{{cite news |last1=Robertson |first1=Robbie |title=Jackson Stallings Announces Bid for Oklahoma’s First Congressional District |url=https://theokpost.com/news/jackson-stallings-announces-bid-for-oklahomas-first-congressional-district/2026/03/16/ |access-date=March 16, 2026 |work=The Oklahoma Post |date=March 16, 2026}}</ref>
+*[[Steve Largent]], [[Oklahoma's 1st congressional district|OK-01]] (1994–2002)<ref name="Stalling announce" />
+}}
+{{Endorsements box
+|title=Mark Tedford
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TrumpFlip" />
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Nathan Butterfield (R)
+|$1,018,001
+|$962,455
+|$55,546
+|-
+|{{party shading/Republican}}|Kim David (R)
+|$179,887
+|$108,715
+|$71,172
+|-
+|{{party shading/Republican}}|Jackson Lahmeyer (R)
+|$350,151
+|$163,712
+|$186,439
+|-
+|{{party shading/Republican}}|Mark Tedford (R)
+|$1,448,254
+|$932,531
+|$515,723
+|-
+|{{party shading/Republican}}|''Jackson Stallings'' (R)
+|$52,910
+|$52,910
+|$0
+|-
+|{{party shading/Republican}}|Todd Woods (R)
+|$152,500
+|$123,225
+|$29,275
+|-
+|{{party shading/Republican}}|Jed Cochran (R)
+|$148,714
+|$114,136
+|$34,579
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Oklahoma 1st |url=https://www.fec.gov/data/elections/house/OK/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 5, 2026}}</ref></small>
+|}
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Mark Tedford]]
+ | votes= 23,230
+ | percentage= 32.2
+}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Jackson Lahmeyer
+ | votes= 18,699
+ | percentage= 25.9
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Nathan Butterfield
+ | votes= 11,532
+ | percentage= 16.0
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Kim David]]
+ | votes= 4,722
+ | percentage= 6.5
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Jed Cochran
+ | votes= 3,419
+ | percentage= 4.7
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Courtney Gill
+ | votes= 2,904
+ | percentage= 4.0
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Dan Rooney
+ | votes= 2,520
+ | percentage= 3.5
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Todd Woods
+ | votes= 1,878
+ | percentage= 2.6
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Nancy Dyson
+ | votes= 1,546
+ | percentage= 2.1
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Kelly B. Walsh
+ | votes= 1,452
+ | percentage= 2.0
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Paul Royse
+ | votes= 351
+ | percentage= 0.5
+}}
+{{Election box total no change
+ | votes= 72,253
+ | percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*John Croisant, [[Tulsa Public Schools|Tulsa school board]] member<ref name=":0" />
+
+====Withdrawn====
+* Erica Watkins, nonprofit director<ref>{{cite news |title=Erica Watkins to run as Democrat for Congress in Oklahoma's First District |url=https://www.fox23.com/news/erica-watkins-to-run-as-democrat-for-congress-in-oklahomas-first-district/article_ab9b39c8-1875-488e-addc-ee7aa3988702.html |access-date=August 20, 2025 |work=[[KOKI-TV]] |date=August 19, 2025 |language=en}}</ref> ''(filed to run for [[Oklahoma Senate|Oklahoma State Senate]] for District 12)''<ref>{{Cite web |title=2026 OKLAHOMA DECLARATION OF CANDIDACY |url=https://filings.okelections.gov/Home/GetCandPDF/49685/Declaration |access-date=April 3, 2026 |website=Oklahoma Elections}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Erica Watkins ''(withdrawn)''
+|list=
+;Organizations
+*[[Progressive Victory]]<ref>{{cite tweet|user=ProgressiveVic|number=2012955213066359212|title=ENDORSEMENT ALERT! Here is our first 18 endorsements for this year’s 2026 midterms.|access-date=January 18, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|John Croisant (D)
+|$99,541
+|$63,599
+|$35,942
+|-
+|{{party shading/Democratic}}|Erica Watkins (D)
+|$12,912
+|$12,472
+|$440
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|October 8, 2026
+|-
+| align=left | ''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-10-11 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|October 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Mark Tedford (R)
+|$1,448,254
+|$932,531
+|$515,723
+|-
+|{{party shading/Democratic}}| John Croisant (D)
+|$124,218
+|$83,758
+|$40,460
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Oklahoma |url=https://www.fec.gov/data/elections/house/OK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 22, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Oklahoma's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mark Tedford]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = John Croisant 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Oklahoma's 2nd congressional district election
+| country = Oklahoma
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Oklahoma#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Oklahoma#District 2
+| next_year = 2028
+| image1 = Rep. Josh Brecheen official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Josh Brecheen]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Brandon Wade
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Josh Brecheen]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Oklahoma's 2nd congressional district}}
+The 2nd district is based in eastern Oklahoma, including much of the [[Green Country]] and [[Little Dixie (Oklahoma)|Little Dixie]] regions. The incumbent is Republican [[Josh Brecheen]], who was elected with 74.2% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+==== Nominee ====
+*[[Josh Brecheen]], incumbent U.S. representative<ref name=":0" />
+
+==== Eliminated in primary ====
+*Will Webb, veteran and peer support specialist<ref name=":0" />
+
+====Endorsements====
+{{Endorsements box
+|title=Josh Brecheen
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=September 15, 2026}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-josh-brecheen-for-ok-02/|title=Freedom Caucus Fund Endorses Josh Brecheen for OK-02|date=June 14, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Josh Brecheen (R)
+|$160,289
+|$185,677
+|$45,308
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Oklahoma 2nd |url=https://www.fec.gov/data/elections/house/OK/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 5, 2026}}</ref></small>
+|}
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Josh Brecheen]] (incumbent)
+ | votes= 65,906
+ | percentage= 79.2
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Will Webb
+ | votes= 17,308
+ | percentage= 20.8
+}}
+{{Election box total no change
+ | votes= 83,214
+ | percentage=100.0}}
+{{Election box end}}
+
+=== Democratic primary ===
+==== Nominee ====
+* Brandon Wade, machinery assembler, candidate for U.S. Senate in [[2022 United States Senate election in Oklahoma|2022]] and nominee for this district in [[2024 United States House of Representatives elections in Oklahoma#District 2|2024]]<ref name=":0" />
+
+==== Eliminated in primary ====
+* Erik Terwey, candidate for [[Bartlesville, Oklahoma|Bartlesville]] City Council in 2020<ref name=":0" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Erik Terwey (D)
+|$9,482
+|$6,020
+|$3,461
+|-
+|{{party shading/Democratic}}|Brandon Wade (D)
+|$2,680
+|$1,800
+|$82
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+====Results====
+{{Election box begin no change
+ | title=Democratic primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Brandon Wade
+ | votes= 20,336
+ | percentage= 73.7
+}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Erik Terwey
+ | votes= 7,245
+ | percentage= 26.3
+}}
+{{Election box total no change
+ | votes= 27,581
+ | percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+* Ronnie Hopkins, pastor and candidate for this seat in [[2024 United States House of Representatives elections in Oklahoma#District 2|2024]]<ref name=":0" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | ''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-10-11 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|October 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Josh Brecheen (R)
+|$138,584
+|$206,407
+|$47,873
+|-
+|{{party shading/Democratic}}| Brandon Wade (D)
+|$4,080
+|$1,879
+|$1,321
+|-
+|{{party shading/Independent}}| Ronnie Hopkins (I)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Oklahoma |url=https://www.fec.gov/data/elections/house/OK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 22, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Oklahoma's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Josh Brecheen]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Brandon Wade 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Ronnie Hopkins 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Oklahoma's 3rd congressional district election
+| country = Oklahoma
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Oklahoma#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Oklahoma#District 3
+| next_year = 2028
+| image1 = Frank Lucas portrait (118th Congress).jpg
+| nominee1 = [[Frank Lucas (Oklahoma politician)|Frank Lucas]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Suzie Byrd
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Frank Lucas (Oklahoma politician)|Frank Lucas]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Oklahoma's 3rd congressional district}}
+The 3rd district is based in western Oklahoma, including [[Enid, Oklahoma|Enid]], [[Stillwater, Oklahoma|Stillwater]], and the [[Oklahoma Panhandle]]. The incumbent is Republican [[Frank Lucas (Oklahoma politician)|Frank Lucas]], who was re-elected unopposed in 2024.<ref name="HPVT"/> 
+
+===Republican primary===
+==== Nominee ====
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], incumbent U.S. representative<ref name="RacesForUSH" /><ref name=":0" />
+
+==== Eliminated in primary ====
+*[[Wade Burleson]], author and retired pastor for Emmanuel Baptist Church and candidate for this district in [[2022 United States House of Representatives elections in Oklahoma#District 3|2022]]<ref name=":0" />
+
+====Endorsements====
+{{Endorsements box
+|title=Frank Lucas
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Frank Lucas (R)
+|$559,220
+|$336,436
+|$841,068
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Oklahoma 3rd |url=https://www.fec.gov/data/elections/house/OK/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 5, 2026}}</ref></small>
+|}
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Frank Lucas (Oklahoma politician)|Frank Lucas]] (incumbent)
+ | votes= 55,631
+ | percentage= 70.8
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Wade Burleson]]
+ | votes= 22,975
+ | percentage= 29.2
+}}
+{{Election box total no change
+ | votes= 78,606
+ | percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Suzie Byrd, newspaper reporter for ''[[Enid News & Eagle]]''<ref name=":0" />
+====Eliminated in primary====
+*Jules Roberson, warehouse worker<ref name="RacesForUSH" /><ref name=":0" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jules Roberson (D)
+|$945
+|$434
+|$510
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+====Results====
+{{Election box begin no change
+ | title=Democratic primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Suzie Byrd
+ | votes= 16,504
+ | percentage= 67.4
+}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Jules Roberson
+ | votes= 7,971
+ | percentage= 32.6
+}}
+{{Election box total no change
+ | votes= 24,475
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align="left" | ''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align="left" | ''[[Inside Elections]]''<ref name="IE Initial" />
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align="left" | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-10-11 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|October 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Frank Lucas (R)
+|$730,151
+|$875,556
+|$472,880
+|-
+|{{party shading/Democratic}}| Suzie Byrd (D)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Oklahoma |url=https://www.fec.gov/data/elections/house/OK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 22, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Oklahoma's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Frank Lucas (Oklahoma politician)|Frank Lucas]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Suzie Byrd 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Oklahoma's 4th congressional district election
+| country = Oklahoma
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Oklahoma#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Oklahoma#District 4
+| next_year = 2028
+| image1 = Rep-Tom-Cole-117thCong (cropped).jpeg
+| nominee1 = [[Tom Cole]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Mitchell Jacob
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Tom Cole]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Oklahoma's 4th congressional district}}
+The 4th district is based in southern Oklahoma, including [[Lawton, Oklahoma|Lawton]], [[Norman, Oklahoma|Norman]], and southern [[Oklahoma City]]. The incumbent is Republican [[Tom Cole]], who was re-elected with 65.3% of the vote in 2024.<ref name="HPVT" /> 
+
+===Republican primary===
+====Nominee====
+*[[Tom Cole]], incumbent U.S. representative<ref>{{cite news |last1=Luetkemeyer |first1=Em |title=Tom Cole's Powerful Spot on the Appropriations Committee Is Motivating Him to Stay in Congress |url=https://oklahomawatch.org/2025/07/30/tom-coles-powerful-spot-on-the-appropriations-committee-is-motivating-him-to-stay-in-congress/ |access-date=July 30, 2025 |work=[[Oklahoma Watch]] |date=July 30, 2025 |quote=Republican Rep. Tom Cole, who has spent more than 20 years in the House, says he is planning on running for a 13th term}}</ref><ref name=":0" />
+
+====Eliminated in primary====
+*Marcie Everhart, retired businesswoman<ref>{{Cite web |date=2026-02-12 |title=Moore resident Everhart announces as candidate for Congressional District 4 |url=https://www.newcastlepacer.com/article/3887,moore-resident-everhart-announces-as-candidate-for-congressional-district-4 |access-date=2026-03-28 |website=The Newcastle Pacer |language=en}}</ref><ref name=":0" />
+
+====Endorsements====
+{{Endorsements box
+|title=Tom Cole
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Tom Cole (R)
+|$3,210,606
+|$2,195,220
+|$2,795,659
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Oklahoma 4th |url=https://www.fec.gov/data/elections/house/OK/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 5, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Tom Cole]] (incumbent)
+ | votes= 52,717
+ | percentage= 71.1
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= Marcie Everhart
+ | votes= 21,402
+ | percentage= 28.9
+}}
+{{Election box total no change
+ | votes= 74,119
+ | percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Mitchell Jacob, nominee for [[Oklahoma House of Representatives|state representative]] from the 20th district in [[2024 Oklahoma House of Representatives election|2024]]<ref>{{Cite web |date=2025-08-28 |title=Mitchell Jacob announces for U.S. Congress 4th District |url=https://www.newcastlepacer.com/article/3330,mitchell-jacob-announces-for-u-s-congress-4th-district |access-date=2025-09-12 |website=The Newcastle Pacer |language=en-US}}</ref><ref name=":0" />
+
+====Eliminated in primary====
+*Jeff Pixley, retired [[U.S. Air Force]] colonel<ref name="RacesForUSH" /><ref name=":0" />
+
+====Withdrawn====
+*Mary Brannon, nominee for this district in [[2018 United States House of Representatives elections in Oklahoma#District 4|2018]], [[2020 United States House of Representatives elections in Oklahoma#District 4|2020]], [[2022 United States House of Representatives elections in Oklahoma#District 4|2022]], and [[2024 United States House of Representatives elections in Oklahoma#District 4|2024]]<ref name="RacesForUSH" />
+*Kody Macaulay, IT specialist and candidate for this district in [[2024 United States House of Representatives elections in Oklahoma#District 4|2024]]<ref>{{Cite web |title=MACAULAY, KODY CRAIG FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1793152|url=https://docquery.fec.gov/cgi-bin/forms/H4OK04168/1793152/}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Mitchell Jacob (D)
+|$53,062
+|$48,950
+|$4,111
+|-
+| {{party shading/Democratic}} |Jeff Pixley (D)
+|$49,886
+|$17,879
+|$32,007
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4" /></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Democratic primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Mitchell Jacob
+ | votes= 18,243
+ | percentage= 54.4
+}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Jeff Pixley
+ | votes= 15,266
+ | percentage= 45.6
+}}
+{{Election box total no change
+ | votes= 33,509
+ | percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*Rocco Bonacci, member of the [[Lawton, Oklahoma|Lawton]] Access Board<ref name=":0" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | ''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-10-11 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|October 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Tom Cole (R)
+|$3,592,381
+|$2,799,380
+|$2,573,275
+|-
+|{{party shading/Democratic}}| Mitchell Jacob (D)
+|$61,283
+|$57,741
+|$3,542
+|-
+|{{party shading/Independent}}| Rocco Bonacci (I)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Oklahoma |url=https://www.fec.gov/data/elections/house/OK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 22, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Oklahoma's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Tom Cole]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Mitchell Jacob 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Rocco Bonacci 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Oklahoma's 5th congressional district election
+| country = Oklahoma
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Oklahoma#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Oklahoma#District 5
+| next_year = 2028
+| image1 = Rep. Stephanie Bice, 117th Congress (3x4 crop).jpg
+| nominee1 = [[Stephanie Bice]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Jena Nelson
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Stephanie Bice]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Oklahoma's 5th congressional district}}
+The 5th district is based in the [[Oklahoma City]] metropolitan area. The incumbent is Republican [[Stephanie Bice]], who was re-elected with 60.7% of the vote in 2024.<ref name="HPVT"/> She considered [[2026 United States Senate election in Oklahoma|a run for]] the [[United States Senate|U.S. Senate]], following incumbent senator [[Markwayne Mullin]]'s appointment as [[United States Secretary of Homeland Security|secretary of homeland security]], but announced she would instead seek re-election on March 13, 2026.<ref>{{Cite web |last=Schilke |first=Rachel |date=2026-03-05 |title=Stephanie Bice and Kevin Hern eye Oklahoma Senate if Mullin heads to DHS |url=https://www.washingtonexaminer.com/news/house/4482170/stephanie-bice-hern-eye-senate-seat-mullin-dhs/ |access-date=2026-03-10 |website=Washington Examiner |language=en-US}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Stephanie Bice]], incumbent U.S. representative<ref name="RacesForUSH"/><ref name=":0" />
+
+==== Endorsements ====
+{{Endorsements box
+|title=Stephanie Bice
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Trump endorses Hern for Mullin’s Oklahoma Senate seat |url=https://thehill.com/homenews/campaign/5783965-trump-endorses-kevin-hern/ |website=The Hill |access-date=14 March 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Maggie's List]]<ref name="maggiesfirst">{{Cite web |title=Maggie's List Announces First Round of U.S. House Endorsements |url=https://maggieslist.org/press/maggies-list-announces-first-round-of-house-endorsements |access-date=2025-06-13 |website=maggieslist.org}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Stephanie Bice (R)
+|$1,530,776
+|$739,751
+|$1,876,974
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Oklahoma 5th |url=https://www.fec.gov/data/elections/house/OK/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 5, 2026}}</ref></small>
+|}
+
+=== Democratic primary ===
+==== Nominee ====
+*Jena Nelson, Oklahoma Teacher of the Year (2020) and nominee for [[Oklahoma Superintendent of Public Instruction]] in [[2022 Oklahoma Superintendent of Public Instruction election|2022]]<ref>{{Cite web |last=Evans |first=Murray |title=Democrat Jena Nelson is challenging Stephanie Bice for Oklahoma City-area seat in Congress |url=https://www.oklahoman.com/story/news/politics/elections/2025/07/19/oklahoma-elections-2026-jena-nelson-candidate-5th-district-stephanie-bice/85276162007/ |access-date=July 19, 2025 |date=July 19, 2025 |work=[[The Oklahoman]]}}</ref><ref name=":0" />
+
+==== Eliminated in primary ====
+*Trey Martin, ironworker & President of Ironworkers Local 48<ref name=":0" />
+
+==== Endorsements ====
+{{Endorsements box
+|title=Trey Martin
+|list=
+;U.S. senators
+*[[Bernie Sanders]], [[U.S. Senator from Vermont|Vermont]] (2007-present)<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Hern leads crowded U.S. Senate field; all five congressional districts have primaries |url=https://tulsaworld.com/news/state-regional/government-politics/elections/article_7e692f3e-0e89-41bc-b0b1-c4a6d1e31fa8.html |access-date=June 2, 2026 |work=[[Tulsa World]] |date=June 1, 2026 |language=en}}</ref>
+
+;Organizations
+*[[Our Revolution]]<ref>{{cite web|title=Trey Martin For Congress in OK-05|url=https://ourrevolution.com/trey-martin-for-congress-in-ok-05/|access-date=June 15, 2026 |website=Our Revolution |date=June 15, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Trey Martin (D)
+|$84,577
+|$5,294
+|$79,158
+|-
+|-
+|{{party shading/Democratic}}|Jena Nelson (D)
+|$405,443
+|$401,844
+|$3,598
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+====Results====
+{{Election box begin no change
+ | title=Democratic primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Jena Nelson
+ | votes= 26,886
+ | percentage= 56.7
+}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Trey Martin
+ | votes= 20,491
+ | percentage= 43.3
+}}
+{{Election box total no change
+ | votes= 47,377
+ | percentage=100.0}}
+{{Election box end}}
+
+=== Independents ===
+'''Declared'''
+* Robert P. Henri (Independent)<ref name=":0" />
+* Austin Nieves, entertainer and dancer (Independent)<ref name=":0" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | ''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial"/>
+| {{USRaceRating|Likely|R}}
+|October 29, 2026
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-10-11 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|October 10, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Stephanie Bice (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-stephanie-bice-for-oklahomas-fifth-congressional-district|title=U.S. Chamber Endorses Rep. Stephanie Bice for Oklahoma's Fifth Congressional District|date=September 18, 2026|access-date=October 2, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Jena Nelson (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260714112931/https://nwpc.org/endorsed-candidates |archive-date=July 14, 2026 |access-date=October 24, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Stephanie Bice (R)
+|$1,664,697
+|$880,849
+|$1,869,797
+|-
+|{{party shading/Democratic}}| Jena Nelson (D)
+|$405,443
+|$401,845
+|$3,598
+|-
+|{{party shading/Independent}}| Robert Henri (I)
+|$78
+|$78
+|$0
+|-
+|{{party shading/Independent}}| Austin Nieves (I)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Oklahoma |url=https://www.fec.gov/data/elections/house/OK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 22, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:70px;"| Stephanie<br />Bice
+! style="width:70px;"| Jena<br />Nelson
+! Undecided
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web |last1=Felder |first1=Ben |title=National Dems enter House race for Oklahoma's 5th District {{!}} Exclusive |url=https://www.oklahoman.com/story/news/politics/elections/2026/09/23/oklahoma-elections-2026-5th-district-jena-nelson-national-democrat-support-race-stephanie-bice/91894158007/ |publisher=[[The Oklahoman]] |access-date=September 24, 2026 |date=September 23, 2026 |url-access=subscription}}</ref>{{Efn-ua|Poll sponsored by Nelson's campaign}}
+|September 17–20, 2026
+|500 (LV)
+|?
+|{{party shading/Republican}}|'''48%'''
+|43%
+|9%
+|}
+
+====Results====
+{{Election box begin|title=2026 Oklahoma's 5th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Stephanie Bice]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Jena Nelson 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Robert Henri 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Austin Nieves 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{Notelist}}
+{{Notelist-ua}}
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.croisantforcongress.com/ John Croisant (D)]
+*[https://www.tedfordforcongress.com/ Mark Tedford (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://joshbrecheen.com/ Josh Brecheen (R)]
+*[https://brandon4congress.com/ Brandon Wade (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://suziebyrd.com/ Suzie Byrd (D)]
+*[https://frankdlucas.com/ Frank Lucas (R)]
+
+;Official campaign websites for 4th district candidates
+*[https://tomcoleforcongress.com/ Tom Cole (R)]
+*[https://www.mitchelljacob.com/ Mitchell Jacob (D)]
+
+;Official campaign websites for 5th district candidates
+*[https://biceforcongress.com/ Stephanie Bice (R)]
+*[https://projectduecourse.org/ Robert Henri (I)]
+*[https://jenanelson.com/ Jena Nelson (D)]
+
+{{2026 United States elections}}
+
+{{DEFAULTSORT:2026 United States House of Representatives elections in Oklahoma}}
+[[Category:United States House of Representatives elections in Oklahoma|2026]]
+[[Category:2026 United States House of Representatives elections|Oklahoma]]
+[[Category:2026 elections in Oklahoma|United States House of Representatives]]

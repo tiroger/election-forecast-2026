@@ -1,0 +1,873 @@
+{{short description|none}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Kansas House of Representatives election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Kansas
+| country = Kansas
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kansas
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Kansas
+| next_year = 2028
+| seats_for_election = All 4 Kansas seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = ''' 3'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 1
+| seats2 = 
+| seat_change2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Kansas results map.svg|300px]] |District results |[[File:2026 United States House of Representatives elections in Kansas results map by county.svg|300px]] |County results}}-->
+| map_caption =
+}}
+
+{{Elections in Kansas}}
+The '''2026 United States House of Representatives elections in Kansas''' will be held on November 3, 2026, to elect the four [[U.S. representative]]s from the [[U.S. state|State]] of [[Kansas]], one from each of the state's [[Kansas's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections were held on August 4, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Failed redistricting attempt==
+Republican Kansas state legislators announced a plan to call a special session to redraw the 3rd congressional district, but lacked the necessary support in the [[Kansas House of Representatives|House]], due to veto power from governor [[Laura Kelly]].<ref name=KSmap>{{cite web |date=2025-11-04 |title=Kansas Republicans' redistricting effort stalls, for now |url=https://www.politico.com/news/2025/11/04/kansas-redistricting-push-trump-00636758 |access-date=2025-11-26 |website=POLITICO |language=en}}</ref>
+
+==District 1==
+{{see also|Kansas's 1st congressional district}}
+
+{{Infobox election
+| election_name = 2026 Kansas's 1st congressional district election
+| country = Kansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kansas#District 1
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Kansas#District 1
+| next_year = 2028
+| image_size = 
+| image1 = Tracey Mann 117th U.S Congress (cropped1).jpg
+| nominee1 = [[Tracey Mann]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Lauren Reinhold KS 1 Acceptance Speech Cropped 1.jpg
+| nominee2 = Lauren Reinhold
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. 2026 Kansas's 1st congressional district election results map by county.svg
+| map_size = 270px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Tracey Mann]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 1st district encompasses all or part of 60 counties, spanning more than half the state, making it the seventh-largest district in the nation that does not cover an entire state. Located within the district are [[Manhattan, Kansas|Manhattan]], [[Salina, Kansas|Salina]], [[Dodge City, Kansas|Dodge City]], [[Garden City, Kansas|Garden City]], [[Hays, Kansas|Hays]], [[McPherson, Kansas|McPherson]], [[Hutchinson, Kansas|Hutchinson]], and [[Lawrence, Kansas|Lawrence]]. The incumbent is Republican [[Tracey Mann]], who was re-elected with 69.1% of the vote in 2024.<ref name=":0">{{Cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=2025-05-29 |website=Cook Political Report |language=en}}</ref>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Tracey Mann]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1865653 |url=https://docquery.fec.gov/cgi-bin/forms/H0KS01123/1865653/ |access-date=2025-09-21 |website=docquery.fec.gov}}</ref>
+=====Eliminated in primary=====
+*Craig Musser
+
+====Endorsements====
+{{Endorsements box
+|title=Tracey Mann
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name=":3">{{Cite web |date=2025-07-09 |title=Trump endorses Kansas politicians Roger Marshall, Derek Schmidt, Tracey Mann|url=https://www.cjonline.com/story/news/politics/elections/2025/07/22/donald-trump-endorses-kansas-gop-congressmen-for-reelection-in-2026/85307235007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z118570p115750c115750e002000v118570&gca-ft=160&gca-ds=sophi&gnt-djm=1 |access-date=2025-09-15 |website=cjonline.com |language=en-US}}</ref>
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+*[[National Rifle Association Political Victory Fund]]<ref name="NRA">{{cite web |title=Kansas |url=https://www.nrapvf.org/grades/kansas/ |website=NRA PVF |access-date=29 July 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tracey Mann (R)
+|$1,220,355
+|$415,222
+|$2,558,830
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Kansas 1st |url=https://www.fec.gov/data/elections/house/KS/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Tracey Mann]] (incumbent)|party=Republican Party (United States)|votes=74,523|percentage=81.0}}
+{{Election box candidate with party link no change|candidate=Craig Musser|party=Republican Party (United States)|votes=17,468|percentage=19.0}}
+{{Election box total no change|votes=91,991|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Lauren Reinhold, former federal employee<ref>{{cite web |last1=Smith |first1=Sherman |title=Lawrence Democrats take aim at Kansas Republican’s congressional seat |url=https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/ |access-date=January 5, 2026 |work=[[Kansas Reflector]] |date=January 5, 2026}}</ref>
+=====Eliminated in primary=====
+*Colin McRoberts, professor at the [[University of Kansas School of Business]]<ref>{{cite web |last1=Smith |first1=Angela |title=Colin McRoberts files for 1st Congressional District seat |url=https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/ |access-date=September 18, 2025 |work=[[KWCH]] |date=September 17, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Colin McRoberts (D)
+|$40,748
+|$32,967
+|$7,781
+|-
+|{{party shading/Democratic}}|Lauren Reinhold (D)
+|$23,710
+|$14,952
+|$8,758
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Lauren Reinhold|party=Democratic Party (United States)|votes=25,074|percentage=64.1}}
+{{Election box candidate with party link no change|candidate=Colin McRoberts|party=Democratic Party (United States)|votes=14,021|percentage=35.9}}
+{{Election box total no change|votes=39,095|percentage=100.0}}
+{{Election box end}}
+
+=== Third-party and independent candidates ===
+====Nominee ====
+*Steven Jacob ([[Libertarian Party (United States)|Libertarian]])<ref>{{Cite web |title=FEC Form 2 for Report FEC-1971797 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS01229/1971797 |access-date=2026-06-01 |website=docquery.fec.gov}}</ref>
+
+====Withdrawn====
+*Craig Musser ([[United Kansas]]), certified safety professional<ref>{{Cite web |title=FEC Form 2 for Report FEC-1946629 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS01211/1946629 |access-date=2026-03-12 |website=docquery.fec.gov}}</ref><ref>{{cite news |title=Kansas First Congressional District has a new candidate |url=https://jcpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e |access-date=March 26, 2026 |work=JC Post |date=March 24, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|May 29, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|May 29, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|May 29, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Tracey Mann (R)
+|$1,488,465
+|$528,838
+|$2,713,324
+|-
+|{{party shading/Democratic}}| Lauren Reinhold (D)
+|$40,651
+|$37,490
+|$3,162
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{#invoke:cite|web |title=2026 Election United States House - Kansas|url=https://www.fec.gov/data/elections/house/KS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Kansas's 1st congressional district election}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Tracey Mann]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=Lauren Reinhold|votes=|percentage=|change=}}{{Election box candidate with party link|party=Libertarian Party (United States)|candidate=Steven Jacob|votes=|percentage=|change=}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Kansas's 2nd congressional district election
+| country = Kansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kansas#District 2
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Kansas#District 2
+| next_year = 2028
+| image_size = 
+| image1 = Schmidt Derek 119th Congress (cropped).jpg
+| nominee1 = [[Derek Schmidt]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Don Coover
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. 2026 Kansas's 2nd congressional district election results map by county.svg
+| map_size = 170px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Derek Schmidt]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+{{see also|Kansas's 2nd congressional district}}
+The 2nd district stretches across much of eastern Kansas from [[Nebraska]] to [[Oklahoma]], including the cities of [[Topeka, Kansas|Topeka]], [[Emporia, Kansas|Emporia]], [[Junction City, Kansas|Junction City]] and [[Pittsburg, Kansas|Pittsburg]], as well as portions of [[Kansas City, Kansas|Kansas City]] and [[Lawrence, Kansas|Lawrence]]. The incumbent is Republican [[Derek Schmidt]], who was elected with 57.1% of the vote in 2024.<ref name=":0" />
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+* [[Derek Schmidt]], incumbent U.S. representative<ref name="Topeka">{{cite news |last1=Alatidd |first1=Jason |title=With Trump endorsement, Derek Schmidt files for reelection to Congress |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/03/12/with-trump-endorsement-kansas-rep-derek-schmidt-files-for-reelection/89116788007/ |access-date=March 13, 2026 |work=[[The Topeka Capital-Journal]] |date=March 12, 2026}}</ref>
+=====Eliminated in primary=====
+* Chad Young, candidate for this district in [[2024 United States House of Representatives elections in Kansas#District 2|2024]]<ref name="Topeka"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Derek Schmidt
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name=":3" />
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[International Association of Fire Fighters|Kansas State Council of Fire Fighters]]<ref name="KSCFF">{{cite web |title=Election Endorsements |url=https://www.kscff-iaff.org/index.cfm?zone=/unionactive/election_list.cfm |website=KSCFF |access-date=29 July 2026}}</ref>
+*[[National Rifle Association Political Victory Fund]]<ref name="NRA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Derek Schmidt (R)
+|$989,112
+|$339,810
+|$687,803
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Kansas 2nd |url=https://www.fec.gov/data/elections/house/KS/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Derek Schmidt]] (incumbent)|party=Republican Party (United States)|votes=62,969|percentage=79.9}}
+{{Election box candidate with party link no change|candidate=Chad Young|party=Republican Party (United States)|votes=15,845|percentage=20.1}}
+{{Election box total no change|votes=78,814|percentage=100.0}}
+{{Election box end}}
+
+=== Democratic primary ===
+==== Candidates ====
+===== Nominee =====
+* Don Coover, veterinarian<ref>{{cite news |last1=Harvel |first1=Jack |title=Don Coover to run for Kansas's 2nd District as Democrat but not 'wild-eyed liberal' |url=https://www.cjonline.com/story/news/politics/state/2025/09/05/don-coover-files-to-run-in-second-district-against-derek-schmidt/85855141007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx72p116950c116950e000100v11xx72b00xxxxd11xx65&gca-ft=171&gca-ds=sophi |access-date=September 8, 2025 |work=[[Topeka Capital-Journal]] |date=September 5, 2025 |language=en}}</ref>
+
+===== Disqualified =====
+* Braeden Curwick<ref>{{#invoke:cite| news |last1=Samples |first1=Chuck |title=US House candidate in Emporia on Tuesday |url=https://kvoe.com/2026/02/17/us-house-candidate-in-emporia-on-tuesday/ |access-date=February 18, 2026 |work=[[KVOE (AM)|KVOE]] |date=February 17, 2026 |quote=Coover is also facing a primary against Braeden Curwick, while Schmidt is running unopposed.}}</ref><ref>{{Cite web |title=Kansas Secretary of State {{!}} Elections {{!}} Candidate Lists |url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx |access-date=2026-08-03 |website=sos.ks.gov |archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx |archive-date=May 1, 2026 |url-status=dead}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Don Coover (D)
+|$517,670
+|$332,707
+|$184,963
+|-
+|{{party shading/Democratic}}|Braeden Curwick (D)
+|$231
+|$181
+|$90
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Don Coover|party=Democratic Party (United States)|votes=38,737|percentage=100.0}}
+{{Election box total no change|votes=38,737|percentage=100.0}}
+{{Election box end}}
+
+=== Third-party and independent candidates ===
+====Nominee ====
+*John Hauer ([[Libertarian Party (United States)|Libertarian]])<ref>{{Cite web |title=Candidates for the 2026 General |url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx |access-date=2026-06-01 |website=sos.ks.gov |archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx |archive-date=May 1, 2026 |url-status=dead}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|R}}
+|October 16, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Likely|R}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|R}}
+|October 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Derek Schmidt (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-derek-schmidt-for-kansass-second-district|title=U.S. Chamber Endorses Rep. Derek Schmidt for Kansas’s Second District|date=August 11, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Don Coover (D)
+|list=
+;U.S. representatives
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-seven-new-battleground-candidates/|title=Blue Dog PAC Endorses Seven New Battleground Candidates|date=October 14, 2026|access-date=October 15, 2026}}</ref>
+
+;Statewide officials
+*[[Laura Kelly]], [[governor of Kansas]] (2019–present)<ref>{{Cite web |last=Carpenter |first=Tim |last2=Reflector |first2=Kansas |date=2026-10-07 |title=Kelly backs Coover, opposes Lahn in Iowa - The Iola Register |url=https://www.iolaregister.com/news/state-news/kelly-backs-coover-opposes-lahn-in-iowa |access-date=2026-10-17 |language=en-US}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Derek Schmidt (R)
+|$1,457,605
+|$556,938
+|$939,168
+|-
+|{{party shading/Democratic}}| Don Coover (D)
+|$758,823
+|$514,537
+|$244,286
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{#invoke:cite|web |title=2026 Election United States House - Kansas|url=https://www.fec.gov/data/elections/house/KS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br>of error
+! style="width:100px;"| Derek<br>Schmidt (R)
+! style="width:100px;"| Don<br>Coover (D)
+! Undecided
+|-
+|style="text-align:left;"|[[Democratic Congressional Campaign Committee|DCCC]]<ref>{{cite web |title=Don Coover in a Tight Race with Derek Schmidt |url=https://cdn.sanity.io/files/ifn0l6bs/production/78398043f4d437c7cacea6bb7fe89675b5e0479c.pdf |publisher=[[Democratic Congressional Campaign Committee|DCCC]] |access-date=October 24, 2026 |date=October 23, 2026}}</ref>
+|October 19–20, 2026
+|639 (LV)
+|±&nbsp;3.9%
+|{{party shading/Republican}}|'''49%'''
+|46%
+|6%
+|}
+
+====Results====
+{{Election box begin|title=2026 Kansas's 2nd congressional district election}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Derek Schmidt]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=Don Coover|votes=|percentage=|change=}}{{Election box candidate with party link|party=Libertarian Party (United States)|candidate=John Hauer|votes=|percentage=|change=}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{see also|Kansas's 3rd congressional district}}
+{{Infobox election
+| election_name = 2026 Kansas's 3rd congressional district election
+| country = Kansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kansas#District 3
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Kansas#District 3
+| next_year = 2028
+| image_size = 
+| image1 = File:Sharice Davids (alt crop).jpg
+| nominee1 = [[Sharice Davids]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Eric Jenkins
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. 2026 Kansas's 3rd congressional district election results map by county.svg
+| map_size = 150px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Sharice Davids]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 3rd district encompasses much of the [[Kansas City metropolitan area]], including a portion of [[Kansas City, Kansas|Kansas City]], all of [[Johnson County, Kansas|Johnson County]], and several rural counties to the south and west. The incumbent is Democrat [[Sharice Davids]], who was re-elected with 53.4% of the vote in 2024.<ref name=":0" />
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Sharice Davids]], incumbent U.S. representative<ref>{{cite news |last1=Carpenter |first1=Tim |title=Kansas Democrat makes reelection campaign for U.S. House seat official |url=https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/ |access-date=May 11, 2026 |work=[[Kansas Reflector]] |date=May 11, 2026}}</ref>
+=====Eliminated in primary=====
+*Sarah Preu, technology and communications professional<ref>{{cite news |last1=Bansal |first1=Avni |title=Fueled By Purpose: SM East parent Sarah Preu hopes to represent working-class values by running for Congress |url=https://smeharbinger.net/fueled-by-purpose-sm-east-parent-sarah-preu-hopes-to-represent-working-class-values-by-running-for-congress/ |access-date=March 12, 2026 |work=The Harbinger Online |date=March 10, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Sarah Preu
+| colwidth = 50em
+| list =
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref>https://www.instagram.com/p/DZa5Bs7Sx7y/</ref>
+*[[Progressive Democrats of America]]<ref>{{|url=https://pdamerica.org/endorsements/}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+{{Endorsements box
+| title = Sharice Davids
+| colwidth = 50em
+| list =
+;Labor unions
+* [[American Federation of Government Employees]]<ref name="AFGE">{{cite web |last1=Kaufmann |first1=Tim |title=Largest Federal Employee Union Endorses Rep. Sharice Davids for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-rep-sharice-davids-for-reelection-to-congress/ |website=AFGE |access-date=29 July 2026 |date=July 14, 2026}}</ref>
+* Kansas [[AFL-CIO]]<ref name="AFL-CIO">{{cite web |title=I'm Voting Union. |url=https://imvotingunion.com/ |website=Kansas AFL-CIO |access-date=29 July 2026}}</ref>
+* [[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=27 October 2026}}</ref>
+
+;Organizations
+* [[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+* [[Giffords]]<ref>{{cite web |title=Sharice Davids |url=https://giffords.org/candidates/sharice-davids-2/ |website=giffords.org |date=June 24, 2026}}</ref>
+* [[Human Rights Campaign]]<ref name=HRC>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+* [[Jewish Democratic Council of America]]<ref name="JD">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=26 November 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref name="JAC">{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+* [[J Street]]<ref name="JStreet">{{cite web |title=Sharice Davids |url=https://jstreetpac.org/candidate/sharice-davids/ |website=JStreetPAC |access-date=26 November 2025}}</ref>
+* [[LGBTQ+ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-joanna-mendoza-kevin-morrison-jeremy-moss-for-the-u-s-house-2025-candidates/|title=LGBTQ+ Victory Fund Endorses JoAnna Mendoza, Kevin Morrison, Jeremy Moss for the U.S. House & 2025 Candidates|date=July 1, 2025|access-date=July 28, 2025}}</ref>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sharice Davids (D)
+|$2,937,808
+|$1,905,382
+|$1,435,682
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Kansas 3rd |url=https://www.fec.gov/data/elections/house/KS/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 24, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Sharice Davids]] (incumbent)|party=Democratic Party (United States)|votes=73,825|percentage=83.4}}
+{{Election box candidate with party link no change|candidate=Sarah Preu|party=Democratic Party (United States)|votes=14,715|percentage=16.6}}
+{{Election box total no change|votes=88,540|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Eric Jenkins, former [[Shawnee, Kansas|Shawnee]] city councilman<ref>{{Cite web |title=FEC Form 2 for Report FEC-1973872 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS03308/1973872 |access-date=2026-05-11 |website=docquery.fec.gov}}</ref><ref>{{cite news |last1=Gaug |first1=Andrew |title=Former Shawnee city councilmember announces run for Congress, setting up GOP primary |url=https://johnsoncountypost.com/2026/05/28/eric-jenkins-congressional-bid-287345/ |access-date=June 1, 2026 |work=[[Johnson County Post]] |date=May 28, 2026}}</ref>
+=====Eliminated in primary=====
+*Chase LaPorte, businessman and candidate for [[List of governors of Kansas|Governor of Kansas]] in [[2022 Kansas gubernatorial election|2022]]<ref>{{Cite web |title=LAPORTE, CHASE FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1865369|url=https://docquery.fec.gov/cgi-bin/forms/H6KS03258/1865369/}}</ref> (endorsed Steven A. Hohe in general election){{Citation needed|date=October 2026}}<ref>Edited by candidate</ref>
+
+=====Withdrawn=====
+*Gavin Solomon, businessman from New York<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6KS03266/1912902/}} August 22, 2025</ref>
+*Blake Stanley<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924041 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS03282/1924041/ |access-date=2025-11-04 |website=docquery.fec.gov}}</ref>
+
+<!--====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Chase LaPorte (R)
+|$4,571
+|$0
+|$4,571
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}-->
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=Eric Jenkins|party=Republican Party (United States)|votes=60,866|percentage=78.7}}
+{{Election box candidate with party link no change|candidate=Chase LaPorte|party=Republican Party (United States)|votes=16,507|percentage=21.3}}
+{{Election box total no change|votes=77,373|percentage=100.0}}
+{{Election box end}}
+
+=== Third-party and independent candidates ===
+====Nominee====
+*Steven A. Hohe ([[Libertarian Party (United States)|Libertarian]])<ref>{{Cite web |title=Candidates for the 2026 General |url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx |access-date=2026-06-01 |website=sos.ks.gov |archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx |archive-date=May 1, 2026 |url-status=dead}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=May 29, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|May 29, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|May 29, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= May 29, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 30, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Sharice Davids (D)
+|$4,480,197
+|$3,057,997
+|$1,825,456
+|-
+|{{party shading/Republican}}| Eric Jenkins (D)
+|$47,116
+|$24,864
+|$22,252
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{#invoke:cite|web |title=2026 Election United States House - Kansas|url=https://www.fec.gov/data/elections/house/KS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Kansas's 3rd congressional district election}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Sharice Davids]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=Eric Jenkins|votes=|percentage=|change=}}{{Election box candidate with party link|party=Libertarian Party (United States)|candidate=Steven A. Hohe|votes=|percentage=|change=}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{See also|Kansas's 4th congressional district}}
+{{Infobox election
+| election_name = 2026 Kansas's 4th congressional district election
+| country = Kansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kansas#District 4
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Kansas#District 4
+| next_year = 2028
+| image_size = 
+| image1 = File:Ron Estes, 115th official photo (cropped).jpg
+| nominee1 = [[Ron Estes]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Katy Tyndell
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. 2026 Kansas's 4th congressional district election results map by county.svg
+| map_size = 250px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Ron Estes]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 4th district encompasses the city of [[Wichita, Kansas|Wichita]], the largest city in Kansas, three universities, [[Arkansas City, Kansas|Arkansas City]], and the State of Kansas's only national airport. The incumbent is Republican [[Ron Estes]] who was re-elected with 65.0% of the vote in 2024.<ref name=":0" />
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Ron Estes]], incumbent U.S. representative<ref>{{cite web |title=FEC Form 2 for Report FEC-1849888 |url=https://docquery.fec.gov/cgi-bin/forms/H8KS04112/1849888/ |website=docquery.fec.gov |access-date=20 November 2025}}</ref>
+=====Eliminated in primary=====
+*Frank McCollum, farmer<ref>{{cite news |title=Election candidate list is set |url=https://morningsun.net/news/local-news/election-candidate-list-is-set/ |access-date=June 1, 2026 |work=[[The Morning Sun]] |date=June 1, 2026}}</ref>
+
+=====Withdrawn=====
+* Michael Gaynor, laborer<ref>{{cite web |title=FEC Form 2 for Report FEC-1822588 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04199/1822588/ |website=docquery.fec.gov |access-date=20 November 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Ron Estes
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="TEnd">{{cite web |last1=Roth |first1=Samantha-Jo |title=Trump's endorsements are influencing high-stakes 2026 primaries |url=https://www.washingtonexaminer.com/news/3788152/weekender-trumps-2026-endorsements-in-out-and-waiting/ |website=Washington Examiner |access-date=20 November 2025 |date=1 September 2025}}</ref>
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[National Rifle Association Political Victory Fund]]<ref name="NRA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ron Estes (R)
+|$1,501,743
+|$1,077,173
+|$1,622,846
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Kansas 4th
+|url=https://www.fec.gov/data/elections/house/KS/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 24, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Ron Estes]] (incumbent)|party=Republican Party (United States)|votes=67,464|percentage=80.9}}
+{{Election box candidate with party link no change|candidate=Frank McCollum|party=Republican Party (United States)|votes=15,961|percentage=19.1}}
+{{Election box total no change|votes=83,425|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Katy Tyndell, attorney<ref>{{Cite web |title=FEC Form 2 for Report FEC-1951421 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04272/1951421 |access-date=2026-03-03 |website=docquery.fec.gov}}</ref><ref>{{cite news |title=Tyndell announces run for Kansas’ 4th Congressional District |url=https://www.thekansan.com/tyndell-announces-run-for-kansas-4th-congressional-district/ |access-date=March 6, 2026 |work=[[Newton Kansan]] |date=March 6, 2026}}</ref>
+=====Eliminated in primary=====
+*Chris Carmichael, retired [[U.S. Air Force]] colonel<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924193 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04249/1924193/ |access-date=2025-11-17 |website=docquery.fec.gov}}</ref><ref>{{cite news |last1=Smith |first1=Sherman |title=Democrat hopes to pull off upset for U.S. House seat with military experience, disapproval of Trump |url=https://kansasreflector.com/2026/05/18/democrat-hopes-to-pull-off-upset-for-u-s-house-seat-with-military-experience-disapproval-of-trump/ |access-date=June 1, 2026 |work=[[Kansas Reflector]] |date=May 18, 2026}}</ref>
+*Ryan Gilbert, law firm business manager<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924184 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04231/1924184/ |access-date=2025-11-17 |website=docquery.fec.gov}}</ref>
+
+=====Withdrawn=====
+*Cole Epley, foster care social worker ''(remained on ballot, endorsed Carmichael)''<ref>{{Cite web |title=FEC Form 2 for Report FEC-1937809 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04264/1937809 |access-date=2026-01-29 |website=docquery.fec.gov}}</ref><ref>{{Cite web|last=Day|first=Wil|title=Democratic candidate drops out of Kansas congressional race|url=https://www.ksn.com/news/your-local-election-hq/democratic-primary-kansas-congressional/|access-date=July 30, 2026|date=July 2, 2026|website=ksn.com}}</ref>
+*Jordan Mitchell, activist<ref>{{Cite web |title=FEC Form 2 for Report FEC-1919474 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04207/1919474/ |access-date=2025-10-15 |website=docquery.fec.gov}}</ref>
+*Daniel Schneider, political organizer and [[Peace Corps]] veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1920394 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04223/1920394/ |access-date=2025-10-15 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Chris Carmichael (D)
+|$85,440
+|$41,992
+|$43,458
+|-
+|{{party shading/Democratic}}|Katy Tyndell (D)
+|$138,931
+|$18,520
+|$120,411
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Katy Tyndell|party=Democratic Party (United States)|votes=27,899|percentage=66.1}}
+{{Election box candidate with party link no change|candidate=Chris Carmichael|party=Democratic Party (United States)|votes=9,249|percentage=21.9}}
+{{Election box candidate with party link no change|candidate=Ryan Gilbert|party=Democratic Party (United States)|votes=3,231|percentage=7.7}}
+{{Election box candidate with party link no change|candidate=Cole Epley ''(withdrawn)''|party=Democratic Party (United States)|votes=1,820|percentage=4.3}}
+{{Election box total no change|votes=42,199|percentage=100.0}}
+{{Election box end}}
+
+=== Third-party and independent candidates ===
+====Nominee ====
+*Drew Cranmer ([[Libertarian Party (United States)|Libertarian]]), data engineer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1971325 |url=https://docquery.fec.gov/cgi-bin/forms/H6KS04280/1971325 |access-date=2026-04-27 |website=docquery.fec.gov}}</ref><ref>{{Cite web |title=Candidates for the 2026 General |url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx |access-date=2026-06-01 |website=sos.ks.gov |archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx |archive-date=May 1, 2026 |url-status=dead}}</ref>
+
+====Withdrawn====
+*Paul Catanese (Independent)<ref>{{cite web |title=CATANESE, PAUL VINCENT - Candidate overview |url=https://www.fec.gov/data/candidate/H6KS04256/?cycle=2026&election_full=true&tab=filings |website=FEC.gov |access-date=February 27, 2026 |date=1 January 2023}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Paul Catanese (I)
+|$3,040
+|$799
+|$2,241
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|May 29, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|May 29, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|May 29, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Ron Estes (R)
+|$1,855,035
+|$1,295,634
+|$1,757,677
+|-
+|{{party shading/Democratic}}| Katy Tyndell (D)
+|$234,455
+|$161,558
+|$72,869
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{#invoke:cite|web |title=2026 Election United States House - Kansas|url=https://www.fec.gov/data/elections/house/KS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Kansas's 4th congressional district election}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Ron Estes]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=Katy Tyndell|votes=|percentage=|change=}}{{Election box candidate with party link|party=Libertarian Party (United States)|candidate=Drew Cranmer|votes=|percentage=|change=}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+
+==See also==
+* [[2026 Kansas elections]]
+* [[2026 United States House of Representatives elections]]
+* [[2026 Kansas House of Representatives election]]
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.traceymann.com/ Tracey Mann (R)]
+*[https://www.laurenforkansas.com/ Lauren Reinhold (D)]
+
+;Official campaign websites for 2nd district candidates
+*[https://doncooverforcongress.com/ Don Coover (D)]
+*[https://www.hauerforcongress.com/ John Hauer (L)]
+*[https://derekschmidt.com/ Derek Schmidt (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://shariceforcongress.com/ Sharice Davids (D)]
+*[https://www.stevehoheforkansas.com/ Steve Hohe (L)]
+*[https://ericjenkinsforkansas.com/ Eric Jenkins (R)]
+
+;Official campaign websites for 4th district candidates
+*[https://drew4kansas.com/ Drew Cranmer (L)]
+*[https://estesforcongress.com/ Ron Estes (R)]
+*[https://katyforkansas.com/ Katy Tyndell (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Kansas|2026]]
+[[Category:2026 United States House of Representatives elections|Kansas]]
+[[Category:2026 elections in Kansas|United States House of Representatives]]

@@ -1,0 +1,1119 @@
+{{Short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Use American English|date=February 2026}}
+{{use mdy dates|date=December 2024}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives election in Alaska's at-large district
+| country = Alaska
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives election in Alaska
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives election in Alaska
+| next_year = ''2028''
+| turnout = 
+| 1blank = First<br>round
+| 2blank = [[Instant-runoff voting|Maximum<br>round]]
+| image_size = x150px
+| image1 = Rep. Nick Begich III (119th Congress) (cropped).jpg
+| candidate1 = [[Nick Begich III]]
+| party1 = Republican Party (United States)
+| 1data1 = 
+| 2data1 =
+| image2 = Bill Hill (cropped 3x4).jpg
+| candidate2 = Bill Hill
+| party2 = Independent politician
+| 1data2 = 
+| 2data2 =
+| image3 = Eric Hafner (cropped 3x4).jpg
+| candidate3 = [[Eric Hafner]]
+| party3= Democratic Party (United States)
+| 1data3 = 
+| 2data3 =
+
+| map_image = 
+| map_size = 325px
+| map_caption =
+
+| title = U.S. Representative
+| before_election = [[Nick Begich III]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsAK}}
+The '''2026 United States House of Representatives election in Alaska''' will be held on November 3, 2026, to elect a member of the [[United States House of Representatives]] to represent the [[U.S. state|state]] of [[Alaska]] and its [[Alaska's at-large congressional district|at-large district]]. The election will coincide with [[2026 United States House of Representatives elections|other elections]] to the U.S. House, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various other [[2026 United States elections|state and local elections]]. The primary election occurred on August 18, 2026.<ref>{{cite web|title = Primary Election Information|url = https://www.elections.alaska.gov/Core/primaryelectioninformation.php|website = Alaska Division of Elections|access-date = 2024-12-15|quote = Primary elections are held on the third Tuesday in August of even numbered years.|archive-url = https://web.archive.org/web/20220504030110/https://www.elections.alaska.gov/Core/primaryelectioninformation.php|archive-date = May 4, 2022|url-status = dead}}</ref>
+
+Incumbent [[Nick Begich III]] was elected with 51.22% of the vote in [[2024 United States House of Representatives election in Alaska|2024]], narrowly defeating then-incumbent [[Mary Peltola]], the first Democrat to represent Alaska in the House since [[1972 United States House of Representatives elections|1972]].<ref>{{cite web|last = Miller|first = Maya|title = Begich Defeats Peltola in Alaska, Flipping House Seat for Republicans|url = https://www.nytimes.com/2024/11/20/us/elections/alaska-house-begich-peltola.html|website = The New York Times|date = 2024-11-20|access-date = 2024-12-15}}</ref><ref>{{cite web|access-date=2024-12-15 |date=2024-11-21 |first=Becky |last=Bohrer |title=Trump-backed Republican Nick Begich beats Democratic Rep. Mary Peltola for Alaska's only House seat |url=https://apnews.com/article/peltola-begich-alaska-house-e57bf9cf11a2668ffe67e40d840979f2 |website=AP News}}</ref><ref name=":0">{{cite web|last = Stone|first = Eric|title = Begich maintains lead and repeal of ranked choice still passing in updated election results|url = https://alaskapublic.org/2024/11/12/begich-maintains-lead-and-repeal-of-ranked-choice-still-passing-in-updated-election-results/|website = Alaska Public Media|date = 2024-11-12|access-date = 2024-12-15}}</ref>
+
+The race will be conducted using [[instant-runoff voting|ranked-choice voting]]. The four candidates to advance from the August 18 [[nonpartisan primary]] and appear on the ballot for the November 3 general election were Begich, independent former [[Bristol Bay Borough, Alaska|Bristol Bay Borough]] School District superintendent Bill Hill, Democratic [[perennial candidate]] and federal prisoner [[Eric Hafner]], and Libertarian business professor Jim McDermott.
+
+== Candidates ==
+=== Republican Party ===
+==== Advanced to general ====
+*[[Nick Begich III]], incumbent U.S. representative (2025–present)<ref>{{cite news |last1=Brooks |first1=James |title=Trump backs Begich for reelection to Alaska's U.S. House seat in 2026 |url=https://alaskabeacon.com/briefs/trump-backs-begich-for-reelection-to-alaskas-u-s-house-seat-in-2026/ |access-date=May 16, 2025 |work=[[Alaska Beacon]] |date=May 8, 2025 |quote=Begich is the only candidate who has formally indicated his intent to run for Alaska's seat in the 2026 election so far. }}</ref>
+
+==== Withdrew after primary====
+*Clay Strickland<ref name=":3">{{Cite news |date=2026-09-01 |title=Alaska Division of Elections (@ak_elections) on X |url=https://x.com/ak_elections/status/2094603547157664228 |access-date=2026-09-01 |work=X (formerly Twitter) |language=en-US}}</ref>
+
+==== Eliminated in primary ====
+*Eddie Goldfarb<ref name=":2" />
+
+====Withdrawn====
+*Gerald L. Heikes, perennial candidate ''(running for [[2026 United States Senate election in Alaska|U.S. Senate]])''<ref name=":1" />
+
+=== Democratic Party ===
+==== Advanced to general ====
+*[[Eric Hafner]], federal prisoner, perennial candidate, and candidate for this seat in [[2024 United States House of Representatives election in Alaska|2024]]<ref name=":1" /><ref name=":2" />
+
+====Withdrew after primary====
+*John B. Williams<ref name=":3" />
+*Yaquelin Reynoso<ref name=":3" />
+
+==== Withdrawn ====
+*Matt Schultz, pastor ''(remained on ballot, endorsed Hill)''<ref name="Schultz">{{Cite news |last=Samuels |first=Iris |date=July 17, 2026 |title=Democrat Matt Schultz drops out of Alaska’s U.S. House race, backing independent |url=https://www.adn.com/politics/2026/07/17/democrat-matt-schultz-drops-out-of-alaskas-us-house-race/ |access-date=July 18, 2026 |work=[[Anchorage Daily News]]}}</ref>
+
+==== Declined ====
+*[[Mary Peltola]], former U.S. representative (2022–2025)<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-everyone-is-waiting|title=Morning Digest: Everyone is waiting on Alaska's best-known Democrat to pick a race|last1=Nir|last2=Singer|first1=David|first2=Jeff|work=The Downballot|date=July 16, 2025|access-date=July 16, 2025}}</ref> ''(running for [[2026 United States Senate election in Alaska|U.S. Senate]])''<ref>{{cite news |last1=Rogerson |first1=Riley |title=Mary Peltola Launches Alaska Senate Bid, Marking Major Recruiting Coup for Democrats |url=https://www.notus.org/congress/mary-peltola-alaska-senate-dan-sullivan-democrats-2026 |access-date=January 12, 2026 |work=[[NOTUS (website)|NOTUS]] |date=January 12, 2026}}</ref>
+
+=== Libertarian Party ===
+
+==== Advanced to general ====
+
+* James C. "Jim" McDermott, business professor and three-time candidate for this seat<ref name=":1" />{{efn|Libertarian nominee in [[2012 United States House of Representatives election in Alaska|2012]], [[2014 United States House of Representatives election in Alaska|2014]], and [[2016 United States House of Representatives election in Alaska|2016]]}}
+
+==== Eliminated in primary ====
+*John E. Foddrill Sr.<ref name=":1" /><ref name=":2">{{Cite web |last=Samuels |first=Iris |last2=Kanagy |first2=Mari |title=Candidate slate finalized for Alaska’s statewide elections |url=https://www.adn.com/politics/2026/06/01/early-shakeup-as-alaska-candidates-have-until-5-pm-monday-to-file-for-office/ |access-date=2026-06-05 |website=Anchorage Daily News}}</ref>
+
+=== Independents ===
+==== Advanced to general ====
+*Bill Hill, commercial fisherman and former superintendent of the [[Bristol Bay Borough, Alaska|Bristol Bay Borough]] School District<ref>{{cite web |last1=Landfield |first1=Jeff |title=Alaska U.S. House race poised for another serious progressive candidate |url=https://alaskalandmine.com/landmines/alaska-u-s-house-race-poised-for-another-serious-progressive-candidate/ |access-date=January 20, 2026 |work=The Alaska Landmine |date=January 15, 2026}}</ref><ref>{{cite web |last1=Samuels |first1=Iris |title=Bill Hill, Bristol Bay fisherman and educator, enters Alaska U.S. House race as independent |url=https://www.adn.com/politics/2026/01/21/bill-hill-bristol-bay-fisherman-and-educator-enters-alaska-us-house-race-as-independent/ |access-date=January 21, 2026 |work=[[Anchorage Daily News]] |date=January 21, 2026}}</ref>
+==== Eliminated in primary ====
+*David Ambrose II<ref name=":1">{{Cite web |title=Candidates |url=https://www.elections.alaska.gov/candidates/?election=26prim |access-date=June 1, 2026 |website=Alaska Division of Elections}}</ref>
+*Lady Donna Dutchess, religious leader and candidate for this district in 2022 ([[2022 Alaska's at-large congressional district special election|special]] and [[2022 United States House of Representatives election in Alaska|regular]] elections) and [[2024 United States House of Representatives election in Alaska|2024]]<ref name=":1" />
+*David Richey<ref name=":1" />
+*Melanie A. Salazar<ref name=":1" />
+*Matthew "Bronco" Williams, teacher and Democratic candidate for {{ushr|MS|1}} in [[2024 United States House of Representatives elections in Mississippi#District 1|2024]]<ref>{{cite news |last1=Maguire |first1=Sean |title=Anchorage teacher announces run for U.S. House as an independent |url=https://alaskabeacon.com/briefs/anchorage-teacher-announces-run-for-u-s-house-as-an-independent/ |access-date=April 4, 2026 |work=[[Alaska Beacon]] |date=March 31, 2026}}</ref>
+
+==Primary election==
+===Endorsements===
+{{Endorsements box
+|title=Nick Begich (R)
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Brooks |first1=James |title=Trump backs Begich for reelection to Alaska's U.S. House seat in 2026 |url=https://alaskabeacon.com/briefs/trump-backs-begich-for-reelection-to-alaskas-u-s-house-seat-in-2026/ |access-date=May 8, 2025 |work=Alaska Beacon |date=May 8, 2025}}</ref>
+
+;U.S. senators
+*[[Dan Sullivan (U.S. senator)|Dan Sullivan]], [[Alaska]] (2015–present)<ref name="Emerging">{{cite news |last1=Brooks |first1=James |title=A year before Alaska’s U.S. House election, two candidates are emerging as frontrunners |url=https://alaskabeacon.com/2025/12/22/a-year-before-alaskas-u-s-house-election-two-candidates-are-emerging-as-frontrunners/ |access-date=December 24, 2025 |work=[[Alaska Beacon]] |date=December 22, 2025 |language=en}}</ref>
+
+;U.S. representatives
+*[[Byron Donalds]], [[FL-19]] (2021–present)<ref name="Emerging"/>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="Back">{{cite web |last1=Downing |first1=Suzanne |title=Begich kicks off '26 campaign in Mat-Su with a crowd, a Trump endorsement, and multiple Alaska wins |url=https://mustreadalaska.com/begich-kicks-off-26-campaign-in-mat-su-with-a-crowd-a-trump-endorsement-and-multiple-alaska-wins/ |website=Must Read Alaska |access-date=17 November 2025 |date=10 August 2025}}</ref>
+*[[Steve Scalise]], [[House Majority Leader|House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="Back"/>
+*[[Tom Emmer]], [[House Majority Whip|House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Back"/>
+*[[Lisa McClain]], [[MI-09]] (2021–present)<ref name="Back"/>
+*[[Elise Stefanik]], [[NY-21]] (2015–present)<ref name="Emerging"/>
+*[[Bruce Westerman]], [[AR-04]] (2015–present)<ref name="Emerging"/>
+
+;State legislators
+*[[Jamie Allard]], [[Alaska House of Representatives|state representative]] from the 23rd district (2023–present)<ref name="Emerging"/>
+*[[Ben Carpenter]], former [[Alaska House of Representatives|state representative]] from the 8th district (2019–2025)<ref name="Emerging"/>
+*[[Mia Costello]], former minority leader of the [[Alaska State Senate]] (2019) from [[Alaska Senate district K|district K]] (2015–2023)<ref name="Emerging"/>
+*[[Mike Cronk]], minority leader of the [[Alaska State Senate]] (2025–present) from [[Alaska Senate district R|district R]] (2025–present)<ref name="Emerging"/>
+*[[Shelley Hughes]], former minority leader of the [[Alaska State Senate]] (2023–2025) from [[Alaska Senate district M|district M]] (2017–2025)<ref name="Emerging"/>
+*[[Pete Kelly (Alaska politician)|Pete Kelly]], former president of the [[Alaska Senate]] (2017–2019) from [[Alaska Senate district A|district A]] (1999–2003, 2013–2019)<ref name="Emerging"/>
+*[[Kevin J. McCabe|Kevin McCabe]], [[Alaska House of Representatives|state representative]] from the 30th district (2021–present)<ref name="Emerging"/>
+*[[Thomas McKay (Alaska politician)|Thomas McKay]], former [[Alaska House of Representatives|state representative]] from the 15th district (2021–2025)<ref name="Emerging"/>
+*[[Dan Saddler]], former majority leader of the [[Alaska House of Representatives]] (2023–2025) from the 24th district (2011–2018, 2023–present)<ref name="Emerging"/>
+*[[Mike Shower]], former minority leader of the [[Alaska State Senate]] (2025) from [[Alaska Senate district O|district O]] (2018–2025)<ref name="Emerging"/>
+*[[Jesse Sumner (politician)|Jesse Sumner]], former [[Alaska House of Representatives|state representative]] from the 28th district (2023–2025)<ref name="Emerging"/>
+*[[Cathy Tilton]], [[Alaska State Senate|state senator]] from [[Alaska Senate district M|district M]] (2025–present)<ref name="Emerging"/>
+*[[Frank Tomaszewski]], [[Alaska House of Representatives|state representative]] from the 34th district (2023–present)<ref name="Emerging"/>
+*[[Sarah Vance (politician)|Sarah Vance]], [[Alaska House of Representatives|state representative]] from the 6th district (2019–present)<ref name="Emerging"/>
+
+;Individuals
+*[[Vivek Ramaswamy]], founder of [[Roivant Sciences]]<ref name="Emerging"/>
+
+;Organizations
+*[[AIPAC]]<ref>{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 3, 2026}}</ref>
+*[[Club for Growth]] PAC<ref>{{cite web |title=2026 Club for Growth PAC-Endorsed Candidates |url=https://www.clubforgrowth.org/elections/pac-endorsed-candidates/ |website=Club for Growth |access-date=March 3, 2025}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-nick-begich-for-ak-al/|title=Freedom Caucus Fund Endorses Nick Begich for AK-AL|date=August 11, 2026|access-date=September 15, 2026}}</ref>
+*[[National Federation of Independent Business]]<ref>{{Cite web |date=2024-10-24 |title=Alaska’s Small Business Community Endorses Nick Begich for Election to Congress |url=https://www.nfib.com/news/news/alaskas-small-business-community-endorses-nick-begich-for-election-to-congress/ |website=[[National Federation of Independent Business]] |access-date=2025-11-27 |language=en-US}}</ref>
+}}
+
+{{Endorsements box
+|title=Bill Hill (I)
+|list=
+;State legislators
+*[[Bryce Edgmon]], speaker of the [[Alaska House of Representatives]] (2017–2019, 2019–2021, 2025–present) from the 37th district (2007–present)<ref>{{cite news |last1=Sutherland |first1=Margaret |title=Naknek Resident Bill Hill brings campaign for U.S House to home region after statewide launch last week |url=https://www.kdlg.org/news/2026-01-28/naknek-resident-bill-hill-brings-campaign-for-u-s-house-to-home-region-after-a-statewide-launch-last-week/ |work=KDLG |date=January 8, 2026}}</ref>
+
+;Individuals
+*[[Dan Osborn]], former union leader and independent candidate for U.S. Senate in Nebraska in [[2024 United States Senate election in Nebraska|2024]] and [[2026 United States Senate election in Nebraska|2026]]<ref>{{cite web |title=Working Class Heroes Announces First 2026 Endorsements |url=https://chadronradio.com/working-class-heroes-announces-first-2026-endorsements/ |website=Chadron Radio |date=February 5, 2026 |access-date=May 18, 2026}}</ref>
+*Matt Schultz, pastor and former candidate for this district ''(Democratic)''<ref name=Schultz/>
+
+;Labor unions
+*Alaska [[AFL-CIO]]<ref>{{cite web |title=Today, during a meeting of the Alaska AFL-CIO, Vice Presidents voted to endorse  @MaryPeltola  for U.S. Senate and  @BillHillAK  for U.S. House. |url=https://x.com/AKAFLCIO/status/2067410507368407285 |website=X (formerly twitter) |publisher=AKAFLCIO |access-date=1 July 2026}}</ref>
+*[[International Association of Fire Fighters|Alaska Professional Firefighters]]<ref name=hill-union>{{cite web |title=Bill Hill recaps visit to Nome, Kotzebue ahead of U.S. House Election|last=Townsend|first=Ben|url=https://knom.org/2026/05/28/bill-hill-recaps-visit-to-nome-kotzebue-ahead-of-u-s-house-election/|website=knom Radio Mission|date=May 28, 2026|access-date=11 July 2026}}</ref>
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Endorses Alaska’s Mary Peltola and Bill Hill for Election to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-alaskas-mary-peltola-and-bill-hill-for-election-to-congress/ |website=AFGE |access-date=12 August 2026 |date=August 11, 2026}}</ref>
+*[[Association of Flight Attendants]]<ref>{{cite web |title=Endorsements |url=https://afacwa.org/endorsements/ |website=Association of Flight Attendants-CWA |access-date=1 July 2026}}</ref>
+*[[National Education Association]]<ref>{{Cite web|url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/|title=Our Recommended Candidates|access-date=February 27, 2026}}</ref>
+*[[United Association|UA]] Local 367<ref name=hill-union/>
+*[[United Brotherhood of Carpenters and Joiners of America]]<ref name=hill-union/>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Four Unrig Washington Candidates |url=https://www.endcitizensunited.org/end-citizens-united-endorses-four-unrig-washington-candidates |website=endcitizensunited.org |date=April 2, 2026 |access-date=April 4, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Jim McDermott (L)
+|list=
+;Political parties
+*[[Alaska Libertarian Party]]<ref>{{cite news |last1=Brooks |first1=James |title=Jim McDermott, a Libertarian from Fairbanks, makes top four for Alaska’s U.S. House race |url=https://alaskabeacon.com/2026/09/01/jim-mcdermott-a-libertarian-from-fairbanks-makes-top-four-for-alaskas-u-s-house-race/ |access-date=September 3, 2026 |work=[[Alaska Beacon]] |date=September 1, 2026 |archive-url=https://web.archive.org/web/20260904011948/https://alaskabeacon.com/2026/09/01/jim-mcdermott-a-libertarian-from-fairbanks-makes-top-four-for-alaskas-u-s-house-race/ |archive-date=September 4, 2026 |url-status=live}}</ref>
+}}
+{{Endorsements box
+|title=Matt Schultz (D) ''(withdrawn)''
+|colwidth=60
+|list=
+;Statewide officials
+*[[Tony Knowles (politician)|Tony Knowles]], former [[governor of Alaska]] (1994–2002)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 March 2026 |language=en |date=8 January 2026}}</ref>
+*[[Fran Ulmer]], former [[lieutenant governor of Alaska]] (1994–2002)<ref name="Emerging"/>
+
+;State legislators
+*[[Jennie Armstrong]], former [[Alaska House of Representatives|state representative]] from the 16th district (2023–2025)<ref name="Emerging"/>
+*[[Tom Begich]], former minority leader of the [[Alaska State Senate]] (2019–2023) from [[Alaska Senate district J|district J]] (2017–2023)<ref name="Emerging"/>
+*[[Ashley Carrick]], [[Alaska House of Representatives|state representative]] from the 35th district (2023–present)<ref name="Emerging"/>
+*[[Matt Claman]], [[Alaska State Senate|state senator]] from [[Alaska Senate district H|district H]] (2023–present)<ref name="Emerging"/>
+*[[Forrest Dunbar]], [[Alaska State Senate|state senator]] from [[Alaska Senate district J|district J]] (2023–present)<ref name="Emerging"/>
+*[[Hollis French]], former [[Alaska State Senate|state senator]] from [[Alaska Senate district J|district J]] (2013–2015)<ref name="Emerging"/>
+*[[Alyse Galvin]], [[Alaska House of Representatives|state representative]] from the 14th district (2023–present) ''(Independent)''<ref name="Emerging"/>
+*[[Elvi Gray-Jackson]], [[Alaska State Senate|state senator]] from [[Alaska Senate district G|district G]] (2019–present)<ref name="Emerging"/>
+*[[Andrew Gray (politician)|Andrew Gray]], [[Alaska House of Representatives|state representative]] from the 20th district (2023–present)<ref name="Emerging"/>
+*[[Carolyn Hall]], [[Alaska House of Representatives|state representative]] from the 16th district (2025–present)<ref name="Emerging"/>
+*[[Andrew Josephson]], [[Alaska House of Representatives|state representative]] from the 13th district (2013–present)<ref name="Emerging"/>
+*[[Donna Mears]], [[Alaska House of Representatives|state representative]] from the 21st district (2023–present)<ref name="Emerging"/>
+*[[Calvin Schrage]], former minority leader of the [[Alaska House of Representatives]] (2023–2025) from the 12th district (2021–present) ''(Independent)''<ref name="Emerging"/>
+*[[Ivy Spohnholz]], former [[Alaska House of Representatives|state representative]] from the 16th district (2016–2023)<ref name="Emerging"/>
+*[[Bill Wielechowski]], [[Alaska State Senate|state senator]] from [[Alaska Senate district K|district K]] (2007–present)<ref name="Emerging"/>
+
+;Local officials
+*[[Austin Quinn-Davidson]], former acting [[mayor of Anchorage]] (2020–2021) ''(Independent)''<ref name="Emerging"/>
+}}
+
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Political parties
+*[[Alaska Democratic Party]]<ref>{{cite news |last1=Evans |first1=Jordan Willow |title=Independent Bill Hill Places Second in Alaska U.S. House Primary |url=https://independentpoliticalreport.com/2026/08/independent-bill-hill-places-second-in-alaska-u-s-house-primary/ |access-date=August 22, 2026 |work=[[Independent Political Report]] |date=August 22, 2026}}</ref>
+}}
+
+===Fundraising===
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Nick Begich III (R)
+|$5,470,446
+|$2,455,619
+|$3,119,158
+|-
+|{{party shading/Independent}}|Bill Hill (I)
+|$1,336,292
+|$820,406
+|$515,886
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Alaska |url=https://www.fec.gov/data/elections/house/AK/00/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 21, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Nick<br />Begich III (R)
+! style="width:100px;"| Bill<br />Hill (I)
+! style="width:100px;"| Matt<br />Schultz (D)
+! style="width:100px;"| Gavin<br />Solomon (R)
+! style="width:100px;"| Bronco<br />Williams (I)
+! style="width:100px;"| John<br />Williams (D)
+! style="width:100px;"| Other
+! style="width:100px;"| Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 17, 2026
+| colspan="10"| Schultz withdraws
+|-
+| style="text-align:left;" |The Bullfinch Group/Independent Center<ref>{{cite web |last1=Loyd |first1=Brett |title=POLLING MEMORANDUM & ELECTORAL BRIEF |url=https://cdn.sanity.io/files/ifn0l6bs/production/abfd9319613df822e6cf094f8d2390e5f40a5ebe.docx |access-date=28 July 2026 |date=July 24, 2026}}</ref>
+|July 13–16, 2026
+|705 (LV)
+|±&nbsp;3.7%
+|{{party shading/Republican}}|'''46%'''
+|{{party shading/Independent}}|'''20%'''
+|{{party shading/Democratic}}|'''32%'''
+|–
+|–
+|–
+|2%
+|–
+|-
+|style="text-align:left;"|Alaska Survey Research<ref>{{cite web |author1=Alaska Survey Research |title=AK-AT LARGE HOUSE RESULTS:  Rep. Nick Begich continues to lead comfortably in House primary contest.  Let's compare House primary results from our most recent survey (May) with already released numbers from April...  1/4🧵 |url=https://x.com/The_Real_ASR/status/2060069693415891119 |publisher=[[Twitter]] |access-date=May 28, 2026 |date=May 28, 2026}}</ref>
+|May 14–17, 2026
+|1,401 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''47%'''
+|{{party shading/Independent}}|'''13%'''
+|{{party shading/Democratic}}|'''28%'''
+|–
+|–
+|{{party shading/Democratic}}|'''5%'''
+|7%
+|–
+|-
+|style="text-align:left;"|Alaska Survey Research<ref>{{cite web |last1=Moore |first1=Ivan |title=BREAKING:  New Alaska US House numbers!  Alaska Survey Research April 16-19, 2026 N=1,923 LV MOE=+/-2.5% Fielding:  Text-to-online & ASR Survey Panel  Primary Election   Q:  If the primary election was held today, which of the following candidates do you think you would vote for? |url=https://bsky.app/profile/alaskasurvey.bsky.social/post/3mk7ed75jiw27 |publisher=[[Bluesky]] |access-date=May 18, 2026 |date=April 23, 2026}}</ref>
+|April 16–19, 2026
+|1,923 (LV)
+|±&nbsp;2.5%
+|{{party shading/Republican}}|'''46%'''
+|{{party shading/Independent}}|'''11%'''
+|{{party shading/Democratic}}|'''29%'''
+|4%
+|4%
+|{{party shading/Democratic}}|'''6%'''
+|–
+|–
+|-
+|style="text-align:left;"|Change Research (D)<ref>{{cite web |title=Independent Candidate Action |url=https://www.independentaction.org/news/revhhcbrfzodrm3lh38l9axg2de96b |publisher=Independent Action |access-date=June 9, 2026 |date=June 10, 2026}}</ref>
+|March 17–20, 2026
+|624 (LV)
+|±&nbsp;4.5%
+|{{party shading/Republican}}|'''45%'''
+|{{party shading/Independent}}|'''13%'''
+|{{party shading/Democratic}}|'''17%'''
+|–
+|–
+|{{party shading/Democratic}}|'''4%'''
+|–
+|{{party shading/Undecided}}|'''21%'''{{efn|"Would not vote" with 3%}}
+|-
+|}
+
+===Results===
+[[File:2026 Alaska's at-large congressional district primary election results map by state house district.svg|thumb|350px|Primary results by state house district:
+{{collapsible list
+| title = {{legend|#E27F7F|Begich}}
+| {{legend|#FFC8CD|30–40%}}
+| {{legend|#FFB2B2|40–50%}}
+| {{legend|#E27F7F|50–60%}}
+| {{legend|#D75D5D|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#BDBDBD|Hill}}
+| {{legend|#E6E6E6|30–40%}}
+| {{legend|#D9D9D9|40–50%}}
+| {{legend|#BDBDBD|50–60%}}
+}}
+]]
+{{Election box begin no change |title=Top-four primary results<ref>{{cite news |title=Alaska At-Large Congressional District Primary Election Results |website=The New York Times |date=August 18, 2026 |access-date=August 19, 2026 |url=https://www.nytimes.com/interactive/2026/08/18/us/elections/results-alaska-us-house-at-large-primary.html}}</ref><ref>{{Cite web |date=2026-08-16 |title=2026 Primary Election – August 18, 2026 |url=https://www.elections.alaska.gov/enr26/results/ElectionSummaryReportRPT.pdf |access-date=2026-08-19 |website=Division of Elections {{!}} State of Alaska}}</ref>}}
+{{Election box winning candidate with party link no change  
+  |party      = Republican Party (United States)
+  |candidate  = [[Nick Begich III]] (incumbent)
+  |votes      = 72,696
+  |percentage = 44.6
+}}
+{{Election box winning candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = Bill Hill
+  |votes      = 53,008
+  |percentage = 32.5
+}}
+{{Election box candidate with party link no change  
+  |party      = Democratic Party (United States)
+  |candidate  = Matt Schultz ''(withdrawn)''
+  |votes      = 13,149
+  |percentage = 8.1
+}}
+{{Election box winning candidate with party link no change  
+  |party      = Democratic Party (United States)
+  |candidate  = [[Eric Hafner]]
+  |votes      = 6,175
+  |percentage = 3.8
+}}
+{{Election box candidate with party link no change 
+  |party      = Democratic Party (United States)
+  |candidate  = John B. Williams ''(withdrew)''
+  |votes      = 4,413
+  |percentage = 2.7
+}}
+{{Election box candidate with party link no change  
+  |party      = Republican Party (United States)
+  |candidate  = Clay Strickland ''(withdrew)''
+  |votes      = 3,681
+  |percentage = 2.3
+}}
+{{Election box candidate with party link no change  
+  |party      = Democratic Party (United States)
+  |candidate  = Yaquelin Reynoso ''(withdrew)''
+  |votes      = 2,928
+  |percentage = 1.8
+}}
+{{Election box winning candidate with party link no change  
+  |party      = Libertarian Party (United States)
+  |candidate  = James C. "Jim" McDermott
+  |votes      = 1,951
+  |percentage = 1.2
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = Melanie A. Salazar
+  |votes      = 1,181
+  |percentage = 0.7
+}}
+{{Election box candidate with party link no change  
+  |party      = Republican Party (United States)
+  |candidate  = Eddie Goldfarb
+  |votes      = 943
+  |percentage = 0.6
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = Lady Donna Dutchess
+  |votes      = 715
+  |percentage = 0.4
+}}
+{{Election box candidate with party link no change
+  |party      = Independent politician
+  |candidate  = Matthew "Bronco" Williams
+  |votes      = 632
+  |percentage = 0.4
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = David Richey
+  |votes      = 579
+  |percentage = 0.4
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = David Ambrose II
+  |votes      = 523
+  |percentage = 0.3
+}}
+{{Election box candidate with party link no change  
+  |party      = Libertarian Party (United States)
+  |candidate  = John E. Foddrill Sr.
+  |votes      = 358
+  |percentage = 0.2
+}}
+{{Election box total no change
+  |votes      = 162,932
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+==General election==
+===Campaign===
+After the primary, Democrat Matt Schultz—who had announced the suspension of his campaign weeks earlier—formally withdrew, as did Democrat John Williams, Republican Clay Strickland, and Democrat Yaquelin Reynoso. Schultz, Williams, Strickland, and Reynoso had placed third, fifth, sixth, and seventh in the primary, respectively. This left Libertarian candidate Jim McDermott as the fourth candidate on the general election ballot despite him having placed eighth in the primary. Williams confirmed that his decision to withdraw had come after conversations with Hill and [[Alaska Democratic Party]] representatives.<ref>{{cite news |last1=Brooks |first1=James |title=In Alaska’s U.S. House race, a Libertarian and a federal inmate advance after late withdrawals |url=https://alaskabeacon.com/2026/08/31/in-alaskas-u-s-house-race-two-of-the-final-candidates-dont-live-in-alaska-and-one-is-in-prison/ |access-date=September 1, 2026 |work=[[Alaska Beacon]] |date=August 31, 2026 |archive-url=https://web.archive.org/web/20260901223330/https://alaskabeacon.com/2026/08/31/in-alaskas-u-s-house-race-two-of-the-final-candidates-dont-live-in-alaska-and-one-is-in-prison/ |archive-date=September 1, 2026 |url-status=live}}</ref>
+
+===Predictions===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Lean|R}}
+|October 27, 2026
+|-
+| align=left | ''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=August 8, 2025}}</ref>
+| {{USRaceRating|Lean|R}}
+|October 23, 2026
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |access-date=August 8, 2025}}</ref>
+| {{USRaceRating|Likely|R}}
+|October 1, 2025
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=August 8, 2025 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Lean|R}}
+|October 27, 2026
+|-
+|align=left | ''[[The Economist]]''<ref name="Econ">{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=April 26, 2026 |website=[[The Economist]] |language=en-US}}</ref>
+| {{USRaceRating|Lean|R}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-10-03 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-10-03 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Likely|R}}
+|October 3, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Nick Begich (R)
+|list=
+;Executive branch officials
+*[[JD Vance]], [[vice president of the United States]] (2025-present)<ref>{{cite news |last1=DeMarban |first1=Alex |title=Vice President JD Vance stumps for Republican candidates at Fairbanks rally |url=https://www.adn.com/politics/2026/10/06/vice-president-jd-vance-holds-fairbanks-rally-to-boost-republican-candidates/ |access-date=October 8, 2026 |work=[[Anchorage Daily News]] |date=October 6, 2026 |archive-url=https://web.archive.org/web/20261006211030/https://www.adn.com/politics/2026/10/06/vice-president-jd-vance-holds-fairbanks-rally-to-boost-republican-candidates/ |archive-date=October 6, 2026 |url-status=live}}</ref>
+
+;Newspapers
+*''[[Anchorage Daily News]]''<ref>{{cite news |title=Editorial: One House seat, plenty to weigh |url=https://www.adn.com/opinions/editorials/2026/10/17/editorial-one-house-seat-plenty-to-weigh/ |work=[[Anchorage Daily News]] |date=October 17, 2026 |archive-url=https://web.archive.org/web/20261017223636/https://www.adn.com/opinions/editorials/2026/10/17/editorial-one-house-seat-plenty-to-weigh/ |archive-date=October 17, 2026 |url-status=live}}</ref>
+
+;Organizations
+*[[Citizens for Responsible Energy Solutions]]<ref>{{cite web |title=Citizens for Responsible Energy Solutions Announces Second Round of Congressional Endorsements for the 2026 Election Cycle |url=https://cresenergy.com/press-releases/citizens-for-responsible-energy-solutions-announces-second-round-of-congressional-endorsements-for-the-2026-election-cycle/ |website=[[Citizens for Responsible Energy Solutions]] |date=September 22, 2026 |access-date=October 5, 2026}}</ref>
+*[[National Federation of Independent Business]]<ref>{{cite web |title=Alaska Small Businesses Endorse Senator Dan S. Sullivan and Congressman Nick Begich for Reelection |url=https://www.nfib.com/news/press-release/alaska-small-businesses-endorse-senator-dan-s-sullivan-and-congressman-nick-begich-for-reelection/ |website=NFIB |access-date=October 5, 2026 |date=September 10, 2026}}</ref>
+*[[NRA Political Victory Fund]]<ref name="NRA">{{cite web |title=Alaska |url=https://www.nrapvf.org/grades/Alaska/ |website=[[National Rifle Association Political Victory Fund]] |access-date=13 September 2026}}</ref>
+*[[Safari Club International]] PAC<ref>{{cite web |title=SCI-PAC Endorses 106 Hunting Advocates |url=https://safariclub.org/sci-pac-endorses-106-hunting-advocates/ |website=Safari Club International |access-date=October 5, 2026 |date=October 2, 2026}}</ref>
+*[[Sealaska Corporation]] (''co-endorsement with Hill'')<ref>{{cite web |title=Sealaska Board Announces Get Out the Native Vote Campaign and 2026 General Election Endorsements |url=https://www.mysealaska.com/news/item/local/Sealaska-Board-Announces-Get-Out-the-Native-Vote-Campaign-and-2026-General-Election-Endorsements/ |website=[[Sealaska Corporation]] |date=August 28, 2026 |access-date=October 3, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Bill Hill (I)
+|list=
+;Statewide officials
+*[[Bruce Botelho]], former [[Attorney general of alaska|attorney general of Alaska]] (1994–2002) and former [[mayor of Juneau]] (1988–1991, 2003–2012) ''(Democratic)''<ref>{{cite news |last1=Botelho |first1=Bruce |title=Opinion: Look beyond the label |url=https://www.adn.com/opinions/2026/10/24/opinion-look-beyond-the-label/ |access-date=October 25, 2026 |work=[[Anchorage Daily News]] |date=October 24, 2026 |archive-url=https://web.archive.org/web/20261025200528/https://www.adn.com/opinions/2026/10/24/opinion-look-beyond-the-label/ |archive-date=October 25, 2026 |url-status=live}}</ref>
+
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present) ''(Democratic)''<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-three-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Three New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=September 15, 2026|access-date=September 15, 2026}}</ref>
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present) ''(Democratic)''<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-four-new-candidates-ready-to-win-tough-seats/|title=Blue Dog PAC Endorses Four New Candidates Ready to Win Tough Seats|date=September 16, 2026|access-date=September 17, 2026}}</ref>
+
+;Individuals
+*[[Matthew Yglesias]], journalist<ref>{{Cite web|url=https://www.slowboring.com/p/the-midterm-candidates-who-deserve|title=The midterm candidates who deserve your money|date=July 13, 2026|access-date=September 22, 2026|last=Yglesias|first=Matthew|website=Slow Boring}}</ref>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Planned Parenthood Action Fund]]<ref>{{cite web |title=Alaska Candidate Endorsements |url=https://www.plannedparenthoodaction.org/planned-parenthood-alliance-advocates/elections/candidate-endorsements-alaska |website=Planned Parenthood Alliance Advocates |access-date=October 25, 2026 |archive-url=https://web.archive.org/web/20261005182151/https://www.plannedparenthoodaction.org/planned-parenthood-alliance-advocates/elections/candidate-endorsements-alaska |archive-date=October 5, 2026 |url-status=live}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Who We're Endorsing |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260907190715/https://reproductivefreedomforall.org/elections |archive-date=7 September 2026 |access-date=24 October 2026}}</ref>
+*[[Sealaska Corporation]] (''co-endorsement with Begich'')<ref>{{cite web |title=Sealaska Board Announces Get Out the Native Vote Campaign and 2026 General Election Endorsements |url=https://www.mysealaska.com/news/item/local/Sealaska-Board-Announces-Get-Out-the-Native-Vote-Campaign-and-2026-General-Election-Endorsements/ |website=[[Sealaska Corporation]] |date=August 28, 2026 |access-date=October 3, 2026}}</ref>
+
+;Political parties
+*[[Alaska Democratic Party]]<ref>{{cite web|url=https://alaskademocrats.org/alaska-democrats-finalize-statewide-candidate-endorsements/|title=Alaska Democrats Finalize Statewide Candidate Endorsements|date=September 1, 2026|access-date=September 2, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Nick Begich III (R)
+|$6,320,644
+|$4,038,321
+|$2,386,653
+|-
+|{{party shading/Independent}}|Bill Hill (I)
+|$2,348,817
+|$2,158,386
+|$190,431
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+===Debates and forums===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 United States House of Representatives election in Alaska debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Independent politician|Independent]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Independent politician}}"|
+|-
+! scope="col" | Begich
+! scope="col" | Hill
+|-
+!1<ref>{{cite news |last1=Rosen |first1=Yereth |title=Sullivan goes on attack in first post-primary faceoff for Alaska’s U.S. Senate race |url=https://alaskabeacon.com/2026/08/28/sullivan-goes-on-attack-in-first-post-primary-faceoff-for-alaskas-u-s-senate-race/ |access-date=August 31, 2026 |work=[[Alaska Beacon]] |date=August 28, 2026 |archive-url=https://web.archive.org/web/20260831010556/https://alaskabeacon.com/2026/08/28/sullivan-goes-on-attack-in-first-post-primary-faceoff-for-alaskas-u-s-senate-race/ |archive-date=August 31, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Aug. 27, 2026
+| style="white-space:nowrap;" | Alaska Oil and Gas Association
+| style="white-space:nowrap;" | [[Tara Sweeney]]
+| style="white-space:nowrap;" | [https://vimeo.com/1225076965 Vimeo]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2<ref>{{cite news |last1=Ruskin |first1=Liz |title=Peltola and Sullivan confront trawl bycatch, and each other, at Kodiak fisheries debate |url=https://alaskapublic.org/news/politics/2026-09-14/peltola-and-sullivan-confront-trawl-bycatch-and-each-other-at-kodiak-fisheries-debate |access-date=September 15, 2026 |work=[[Alaska Public Media]] |date=September 14, 2026 |archive-url=https://web.archive.org/web/20260914215425/https://alaskapublic.org/news/politics/2026-09-14/peltola-and-sullivan-confront-trawl-bycatch-and-each-other-at-kodiak-fisheries-debate |archive-date=September 14, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Sep. 12, 2026
+| style="white-space:nowrap;" | Kodiak Chamber of Commerce<br />[[KMXT (FM)]]
+| style="white-space:nowrap;" | [[Gary Stevens (politician)|Gary Stevens]]<br />Sara Fraser
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=53yBygyYrlk YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!3<ref>{{cite news |last1=DeMarban |first1=Alex |title=At U.S. House debate, Begich defends the war in Iran while Hill refuses to say which party he’ll caucus with |url=https://www.adn.com/politics/2026/10/15/at-us-house-debate-begich-defends-the-war-in-iran-while-hill-refuses-to-say-which-party-hell-caucus-with/ |access-date=October 20, 2026 |work=[[Anchorage Daily News]] |date=October 15, 2026 |archive-url=https://web.archive.org/web/20261016100538/https://www.adn.com/politics/2026/10/15/at-us-house-debate-begich-defends-the-war-in-iran-while-hill-refuses-to-say-which-party-hell-caucus-with/ |archive-date=October 16, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Oct. 14, 2026
+| style="white-space:nowrap;" | [[Alaska Public Media]]<br />[[KTOO (FM)|KTOO]]<br />[[Alaska's News Source]]
+| style="white-space:nowrap;" | Lori Townsend<br />Liz Ruskin<br />Wil Courtney
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=184MtG714WQ YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+===Polling===
+====Ranked-choice polls====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! RCV<br />round
+! style="width:60px;"| Nick<br />Begich III (R)
+! style="width:60px;"| Bill<br />Hill (I)
+! style="width:60px;"| Eric<br />Hafner (D)
+! style="width:60px;"| Jim<br />McDermott (L)
+! Undecided /<br /> Not Ranked
+|-
+|rowspan="5" style="text-align:left;"|[[Data for Progress]] (D)<ref name="DFPOct2026">{{cite web|url=https://www.dataforprogress.org/blog/2026/10/20/every-statewide-race-in-alaska-is-close-as-7-in-10-voters-worry-about-affording-gas-and-food|title=Every Statewide Race in Alaska Is Close, as 7 in 10 Voters Worry About Affording Gas and Food
+|date=October 20, 2026}}</ref>
+|rowspan=5|October 8–16, 2026
+|694 (LV)
+|rowspan=5|±&nbsp;4.0%
+|{{abbr|BA|Before allocation}}
+|style="background:#ffdbda"|'''48%'''
+|42%
+|5%
+|1%
+|4% {{small|U}}
+|-
+|rowspan=2|668 (LV)
+|1
+|{{party shading/Republican}}|'''50%'''
+|43%
+|5%
+|1%
+|4% {{small|NR}}
+|-
+|2{{efn|name=continue|Hypothetical continuation of elimination/distribution even though a candidate already exceeded 50%}}
+|{{party shading/Republican}}|'''50%'''
+|45%
+|5%
+|–
+|4% {{small|NR}}
+|-
+|659 (LV)
+|3{{efn|name=continue}}
+|{{party shading/Republican}}|'''50%'''
+|49%
+|–
+|–
+|5% {{small|NR}}
+|-
+|668 (LV)
+|3{{efn|Hypothetical scenario where voters who ranked Eric Hafner and whose vote is exhausted when those candidates are eliminated are instead distributed to Bill Hill}}
+|'''50%'''
+|'''50%'''
+|–
+|–
+|4% {{small|NR}}
+|-
+|rowspan="3" style="text-align:left;"|Alaska Survey Research<ref name="ASROct2026">{{cite web |title=BREAKING:  Congressman Nick Begich continues to lead comfortably in the Alaska US House race.  Alaska Survey Research October 1-3, 2026 N=1,512 likely Alaska voters MOE (weighted): +/-3.0%  Methodology:  Text-to-online + ASR Survey Panel |url=https://x.com/The_Real_ASR/status/2108662812415549529 |publisher=[[Twitter]] |access-date=October 9, 2026 |date=October 9, 2026}}</ref>
+|rowspan=3|October 1–3, 2026
+|rowspan=3|1,512 (LV)
+|rowspan=3|±&nbsp;3.0%
+|1
+|style="background:#ffdbda"|'''50%'''
+|40%
+|7%
+|3%
+|–
+|-
+|2
+|{{party shading/Republican}}|'''51%'''
+|42%
+|7%
+|–
+|–
+|-
+|3{{efn|name=continue}}
+|{{party shading/Republican}}|'''53%'''
+|47%
+|–
+|–
+|–
+|-
+|rowspan=4 style="text-align:left;|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref name=NYTPollOct/>
+|rowspan=4|September 24 – October 1, 2026
+|rowspan=4|504 (LV)
+|rowspan=4|±&nbsp;5.1%
+|{{abbr|BA|Before allocation}}
+|style="background:#ffdbda"|'''47%'''
+|35%
+|8%
+|5%
+|5% {{small|U}}
+|-
+|1
+|style="background:#ffdbda"|'''49%'''
+|37%
+|9%
+|6%
+|–
+|-
+|2
+|{{party shading/Republican}}|'''51%'''
+|39%
+|10%
+|–
+|–
+|-
+|3{{efn|name=continue|Hypothetical continuation of elimination/distribution even though a candidate already exceeded 50%}}
+|{{party shading/Republican}}|'''53%'''
+|47%
+|–
+|–
+|–
+|-
+|rowspan=4 style="text-align:left;"|Fabrizio Ward (R)/<br/>Impact Research (D)<ref name="AARP">{{cite web |last1=Bridges |first1=Kate |title=Alaska Voters 50+ Could Help Decide Key 2026 Races |url=https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-alaska/?CMP=RDRCT-PRI-POLT |website=[[AARP]] |date=September 17, 2026}}</ref>{{efn-ua|name=AARP|Poll sponsored by [[AARP]]}}
+|rowspan=4|September 8–11, 2026
+|rowspan=4|800 (LV)
+|rowspan=4|±&nbsp;3.5%
+|{{abbr|BA|Before allocation}}
+|style="background:#ffdbda"|'''45%'''
+|31%
+|9%
+|3%
+|11% {{small|U}}
+|-
+|1
+|{{party shading/Republican}}|'''51%'''
+|35%
+|11%
+|4%
+|11% {{small|NR}}
+|-
+|2
+|{{party shading/Republican}}|'''53%'''
+|36%
+|11%
+|–
+|12% {{small|NR}}
+|-
+|3
+|{{party shading/Republican}}|'''57%'''
+|43%
+|–
+|–
+|18% {{small|NR}}
+|}
+
+====First-past-the-post polls====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Nick<br />Begich III (R)
+! style="width:100px;"| Bill<br />Hill (I)
+! style="width:100px;"| Eric<br />Hafner (D)
+! style="width:100px;"| Jim<br />McDermott (L)
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[Data for Progress]] (D)<ref name="DFPOct2026"/>{{efn|name="First"|First-choice results from a ranked-choice poll}}
+|October 8–16, 2026
+|694 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''48%'''
+|42%
+|5%
+|1%
+|–
+|4%
+|-
+|style="text-align:left;|[[Public Policy Polling]] (D)<ref>{{cite tweet|user=AndrewSolender|number=2110867168892014803|title=Dem-aligned PPP poll of Alaska circulating among groups and seen by me:|access-date=October 16, 2026}}</ref>
+|October 14–15, 2026
+|578 (RV)
+|–
+|{{party shading/Republican}}|'''45%'''
+|44%
+|5%
+|2%
+|–
+|4%
+|-
+|style="text-align:left;|Alaska Survey Research<ref name="ASROct2026"/>{{efn|name="First"}}
+|October 1–3, 2026
+|1,512 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''50%'''
+|40%
+|7%
+|3%
+|–
+|–
+|-
+|style="text-align:left;|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref name=NYTPollOct>{{cite web|title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Alaska|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html |date=October 3, 2026 |access-date=October 3, 2026}}</ref>{{efn|name="First"}}
+|September 24 – October 1, 2026
+|504 (LV)
+|±&nbsp;5.1%
+|{{party shading/Republican}}|'''47%'''
+|35%
+|8%
+|5%
+|–
+|5%
+|-
+| style="text-align:left;" |Fabrizio Ward (R)/<br/>Impact Research (D)<ref name="AARP"/>{{efn-ua|name=AARP}}{{efn|name="First"}}
+|September 8–11, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''45%'''
+|31%
+|9%
+|3%
+|–
+|11%
+|-
+|rowspan="2" style="text-align:left;" |Bullfinch Group<ref>{{cite web |title=Alaska Statewide Survey |url=https://cdn.prod.website-files.com/68d1c32ec01e1d1f6a86e801/6abd40f2f3810a4e535a8aa6_Alaska_Topline-Independent_Leadership_Council.pdf |publisher=Independent Leadership Council |access-date=October 3, 2026}}</ref>{{Efn-ua|Poll sponsored by the Independent Leadership Council}}
+|rowspan="2"|September 1–6, 2026
+|820 (LV)
+|±&nbsp;3.4%
+|{{party shading/Republican}}|'''44%'''
+|37%
+|7%
+|2%
+|–
+|10%
+|-
+|739 (LV)
+|–
+|{{party shading/Republican}}|'''50%'''
+|47%
+|–
+|–
+|3%{{Efn|3% exhausted ballots/no further preference}}
+|–
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 18, 2026
+| colspan="14" | Primary election held
+|-
+| style="text-align:left;" |GBAO (D)<ref>{{cite web |title=Hill Aug Polling Memo |url=https://punchbowl.news/hill-aug-polling-memo/ |website=[[Punchbowl News]] |access-date=August 13, 2026 |date=August 11, 2026}}</ref>{{Efn-ua|Poll sponsored by Hill's campaign}}
+|August 3–5, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''46%'''
+|42%
+|–
+|–
+|–
+|12%
+|-
+| style="text-align:left;" |[[Data for Progress]] (D)<ref>{{cite web |title=Data for Progress |url=https://www.filesforprogress.org/datasets/2026/8/dfp_alaska_aug_2026.pdf |website=[[Data for Progress]] |access-date=August 18, 2026 |date=August 17, 2026}}</ref>
+|July 28 – August 4, 2026
+|605 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''47%'''
+|37%
+|–
+|–
+|12%{{efn|"I would rank neither" with 12%}}
+|4%
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="AKTavern"/>
+|May 18–27, 2026
+|452 (LV)
+|±&nbsp;7.2%
+|{{party shading/Republican}}|'''52%'''
+|48%
+|–
+|–
+|–
+|–
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref name="PPP1112"/>{{efn-ua|name=Hill}}
+|February 11–12, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''41%'''
+|37%
+|–
+|–
+|–
+|22%
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Nick Begich vs. Bill Hill vs. Eric Hafner vs. Clay Strickland'''<br>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! RCV<br />round
+! style="width:60px;"| Nick<br />Begich III (R)
+! style="width:60px;"| Bill<br />Hill (I)
+! style="width:60px;"| Eric<br />Hafner (D)
+! style="width:60px;"| Clay<br />Strickland (R)
+! Undecided /<br /> Not Ranked
+|-
+|rowspan="3" style="text-align:left;"|Alaska Survey Research<ref>{{cite web |title=LATEST US CONGRESS RESULTS Nick Begich continues to lead comfortably, winning the RCV general election in Round 2. Alaska Survey Research August 2-5, 2026 N=1,371 likely general election Alaska voters MOE: +/-3.0% |url=https://x.com/The_Real_ASR/status/2088053315502498055 |publisher=[[Twitter]] |access-date=October 25, 2026 |date=August 13, 2026}}</ref>
+|rowspan=3|August 2–5, 2026
+|rowspan=3|1,371 (LV)
+|rowspan=3|±&nbsp;3.0%
+|1
+|style="background:#ffdbda"|'''48%'''
+|33%
+|15%
+|4%
+|–
+|-
+|2
+|{{party shading/Republican}}|'''50%'''
+|34%
+|15%
+|–
+|–
+|-
+|3{{efn|name=continue}}
+|{{party shading/Republican}}|'''53.5%'''
+|46.5%
+|–
+|–
+|–
+|}
+
+'''Nick Begich vs. Bill Hill vs. John Williams vs. Eric Hafner'''<br>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! RCV<br />round
+! style="width:60px;"| Nick<br />Begich III (R)
+! style="width:60px;"| Bill<br />Hill (I)
+! style="width:60px;"| John<br />Williams (D)
+! style="width:60px;"| Eric<br />Hafner (D)
+! Undecided /<br /> Not Ranked
+|-
+| style="text-align:left;"|Alaska Survey Research<ref>{{cite web |title=WE’VE GOT FRESH US CONGRESS RESULTS!! In our last survey at the start of August, Nick Begich topped 50% in Round 2 of the RCV contest. This time, he did it in Round 1… Alaska Survey Research August 20-23, 2026 N=1,872 likely general election Alaska voters MOE: +/-3.0% |url=https://x.com/The_Real_ASR/status/2093483993954144564 |publisher=[[Twitter]] |access-date=October 25, 2026 |date=August 28, 2026}}</ref>
+|August 20–23, 2026
+|1,872 (LV)
+|±&nbsp;3.0%
+|1
+|{{party shading/Republican}}|'''51%'''
+|39%
+|6%
+|5%
+|–
+|}
+
+'''Nick Begich III vs. Matt Schultz'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Nick<br />Begich III (R)
+! style="width:100px;"| Matt<br />Schultz (D)
+! Other
+! Undecided
+|-
+| style="text-align:left;|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Toplines: June 2026 Times/Siena Polls of Likely Voters in Battleground Senate Races|url=https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-toplines.html |date=June 30, 2026 |access-date=July 1, 2026}}</ref>
+|June 15–29, 2026
+|593 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''51%'''
+|39%
+|1%
+|9%
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="AKTavern">{{Cite web|url=https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/AK-AL%20Toplines.pdf|title=Alaska Toplines|publisher=Public Opinion Strategies|access-date=May 29, 2026}}</ref>
+|May 18–27, 2026
+|452 (LV)
+|±&nbsp;7.2%
+|{{party shading/Republican}}|'''55%'''
+|45%
+|–
+|–
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref name="PPP1112">{{cite web |title=New Maps for New York? |url=https://hub.nationaljournal.com/new-maps-for-new-york-1?ecid=ACsprvtXCGX_y5aGgL4GVYyMV9Pj7_5mYOX-Ecv59TfcWhUAkRfvxk8ydNp1f2W6B11HWiXOKD8M&utm_campaign=36387909-%5BNJ%5D%202026%20Wake%20Up%20Call&utm_medium=email&_hsenc=p2ANqtz--ypdqFzjt6YlQeSvcQ2L6ur-f3dfrpC3LBhtrLZ4qbOePmR8uo6p_Cyj44MVGYrw4Q0nK8jceKiqibg_VZpQlb2qLJhFLgjXeX0K4fwp0NAbfnvxU&_hsmi=404722735&utm_content=404722735&utm_source=hs_email |website=National Journal |access-date=23 February 2026 |language=en |quote=AK-AL. A Public Policy Poll (Feb. 11-12; 600 LVs; +/-4%) conducted for fisherman Bill Hill (I) tested two hypothetical head-to-head matchups against Rep. Nick Begich (R). In a Hill-Begich race, Begich led Hill within the margin of error, 41%-37%, with 22% undecided. Begich led pastor Matt Schultz (D), 46%-39%, with 15% undecided.}}</ref>{{efn-ua|name=Hill|Poll sponsored by Hill's campaign.<ref name="PPP1112"/>}}
+|February 11–12, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''46%'''
+|39%
+|–
+|15%
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref>{{Cite web|url=https://www.filesforprogress.org/datasets/2025/10/dfp_ak_oct_2025_electoral_and_health.pdf#page=6|title=DFP Alaska – October 2025|website=[[Data for Progress]]|date=October 31, 2025|access-date=November 1, 2025}}</ref>
+|October 17–23, 2025
+|823 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''48%'''
+|37%
+|8%{{efn|"I would rank neither" with 8%}}
+|7%
+|}
+
+'''Nick Begich III vs. Mary Peltola'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Nick<br />Begich III (R)
+! style="width:100px;"| Mary<br />Peltola (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref>{{Cite web |date=2025-03-13 |title=Oil Taxes, Rural Subsistence, Public School Funding: These Are a Few of Alaska Voters' Favorite Things |url=https://www.dataforprogress.org/memos/2025/3/13/oil-taxes-rural-subsistence-public-school-funding-these-are-a-few-of-alaska-voters-favorite-things |first1=Jason |last1=Katz-Brown |access-date=2025-03-13 |website=Data For Progress |language=en-US}}</ref>
+|February 28 – March 7, 2025
+|1,000 (LV)
+|±&nbsp;3.0%
+|'''46%'''
+|'''46%'''
+|5%{{Efn|name=RankNeither|"I would rank neither" with 5%}}
+|3%
+|}
+
+'''Nick Begich III vs. Generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Nick<br />Begich III (R)
+! style="width:100px;"| Generic<br />Democrat (D)
+! Other
+! Undecided
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="AKTavern"/>
+|May 18–27, 2026
+|452 (LV)
+|±&nbsp;7.2%
+|{{party shading/Republican}}|'''55%'''
+|45%
+|–
+|–
+|}
+
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;|[[Data for Progress]] (D)<ref>{{cite web|url=https://www.dataforprogress.org/blog/2025/8/8/mary-peltola-would-be-front-runner-for-alaska-governor|title=Mary Peltola Would Be Front-Runner for Alaska Governor|website=[[Data for Progress]]|date=August 8, 2025|access-date=August 8, 2025}}</ref>
+|July 21–27, 2025
+|678 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''48%'''
+|38%
+|13%
+|}
+{{hidden end}}
+
+=== Results ===
+{| class="wikitable sortable" style="text-align:right"
+|+ colspan=6 | 2026 Alaska's at-large congressional district election
+|-
+! colspan=2 rowspan=2 | Party
+! rowspan=2 | Candidate
+! colspan=3 | First choice
+|-
+! Votes
+! %
+! Transfer
+|-
+! style="background-color:{{party color|Republican Party (US)}}" |
+| style="text-align:left" | [[Republican Party (United States)|Republican]]
+| style="text-align:left" scope="row" | {{sortname|Nick|Begich III}} (incumbent)
+| 
+| 
+| 
+|-
+! style="background-color:{{party color|Independent politician}}" |
+| style="text-align:left" | [[Independent politician|Independent]]
+| style="text-align:left" scope="row" | {{sortname|Bill|Hill|nolink=1}}
+| 
+| 
+| 
+|-
+! style="background-color:{{party color|Democratic Party (United States)}}" |
+| style="text-align:left" | [[Democratic Party (United States)|Democratic]]
+| style="text-align:left" scope="row" | {{sortname|Eric|Hafner}}
+| 
+| 
+| 
+|-
+! style="background-color:{{party color|Libertarian Party (United States)}}" |
+| style="text-align:left" | [[Libertarian Party (United States)|Libertarian]]
+| style="text-align:left" scope="row" | James C. "Jim" McDermott
+| 
+| 
+| 
+|-
+| style="text-align:left" colspan=3 | [[Write-in candidate|Write-in]]
+| 
+| 
+| 
+|- class="sortbottom" style="background-color:#F6F6F6"
+! colspan=3 scope="row" style="text-align:right;" | Total votes
+| 
+| 
+| 
+|- class="sortbottom" style="background-color:#F6F6F6"
+! colspan=3 scope="row" style="text-align:right;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive ballots]]
+| 
+| 
+| 
+|}
+<!-- use if a candidate wins with majority in the first round
+{{Election box begin |title=2026 Alaska's at-large congressional district election}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Nick Begich III]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent|candidate=Bill Hill|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=TBD|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=|candidate=TBD|votes=|percentage=|change=}}
+{{Election box write-in with party link|votes=|percentage=|change=}}
+{{Election box total|votes=|percentage=}}
+{{Election box end}}
+-->
+
+== Notes ==
+{{Notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+'''Official campaign websites for candidates'''
+*[https://www.alaskansfornickbegich.com/ Nick Begich (R)]
+*[http://www.erichafner.com/ Eric Hafner (D)]
+*[https://billhillforalaskans.com/ Bill Hill (I)]
+*[https://jamesmcdermott.org/ James C. "Jim" McDermott (L)]
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|Alaska]]
+[[Category:2026 elections in Alaska|United States House of Representatives]]
+[[Category:United States House of Representatives elections in Alaska]]

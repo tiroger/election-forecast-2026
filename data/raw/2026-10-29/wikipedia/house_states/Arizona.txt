@@ -1,0 +1,3266 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Use mdy dates|date=August 2026}}
+{{use American English|date=December 2024}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Arizona
+| country = Arizona
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona
+| next_year = 2028
+| seats_for_election = All 9 Arizona seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''6'''
+| seats1 = '''6'''
+| party2 = Democratic Party (United States)
+| last_election2 = 3
+| seats2 = 3
+| seat_change1 = 
+| seat_change2 = 
+| map_image = <!-- Please keep these maps hidden until election day {{Switcher
+| [[File:2026 United States House of Representatives elections in Arizona results map.svg|230px]]
+| District results
+| [[File:2026 United States House of Representatives elections in Arizona results map by county.svg|230px]]
+| County results}}-->
+| map_caption =
+}}
+
+{{ElectionsAZ}}
+The '''2026 United States House of Representatives elections in Arizona''' will be held on November 3, 2026, to elect nine [[U.S. representative]]s from the [[U.S. state|state]] of [[Arizona]], one from each of the state's [[Arizona's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on July 21, 2026.<ref>{{Cite web|date=February 6, 2026 |title=Arizona officials move up primary election date to July 21 |url=https://www.kjzz.org/politics/2026-02-06/arizona-officials-move-up-primary-election-date-to-july-21|website= NCSL |access-date=February 6, 2026}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Arizona's 1st congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 1
+| next_year = 2028
+| image1 = Jay Feely 2026 (cropped).jpg
+| nominee1 = [[Jay Feely]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Amish Shah by Gage Skidmore 2 (cropped).jpg
+| nominee2 = [[Amish Shah]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 1st congressional district election results map by county.svg|230px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[David Schweikert]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 1st congressional district}}
+The 1st district is based in the northeastern [[Phoenix, Arizona|Phoenix]] suburbs, including [[Scottsdale, Arizona|Scottsdale]]. The incumbent is Republican [[David Schweikert]], who was reelected with 51.9% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> Schweikert initially ran for reelection, but withdrew from the race in September 2025 to [[2026 Arizona gubernatorial election|run for governor]].<ref name="Schweikert">{{cite web|url=https://www.azcentral.com/story/news/politics/elections/2025/09/30/david-schweikert-announces-run-for-arizona-governor/86426620007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z11xx56p119850c119850u116056e009400v11xx56&gca-ft=11&gca-ds=sophi|title=Rep. David Schweikert to run for Arizona governor|first=Stacey|last=Barchenger|date=September 30, 2025|work=[[The Arizona Republic]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Jay Feely]], [[CBS Sports]] analyst and former [[Arizona Cardinals]] football player<ref name="Feely1st">{{cite web|url=https://thehill.com/homenews/campaign/5657431-feely-arizona-gop-campaign-shift/|title=Arizona House candidate Jay Feely switches congressional districts|last=Vakil|first=Caroline|date=December 19, 2025|access-date=December 19, 2025|website=[[The Hill (newspaper)|The Hill]]}}</ref> ''(previously ran in the 5th district)''<ref name="Feely5th">{{cite news |publisher=[[ESPN]] |date=April 22, 2025 |access-date=April 22, 2025 |url=https://www.espn.com/nfl/story?id=44804971&_slug_=jay-feely-run-house-representatives-arizona |author=Weinfuss, Josh |title=Jay Feely to run for House of Representatives in Arizona}}</ref>
+
+====Eliminated in primary====
+*[[Joseph Chaplik]], former [[Arizona House of Representatives|state representative]] from the [[Arizona's 3rd legislative district|3rd district]] (2021–2026)<ref>{{cite web |last1=Schutsky |first1=Wayne |title=Republican Chaplik announces campaign in competitive CD1 congressional race |url=https://www.kjzz.org/politics/2025-12-15/republican-chaplik-announces-campaign-in-competitive-cd1-congressional-race |access-date=December 15, 2025 |work=[[KJZZ (FM)|KJZZ]] |date=December 15, 2025}}</ref>
+*John Trobough, businessman<ref>{{cite web |url=https://www.the-downballot.com/p/morning-digest-darrell-issa-abandons |title=Morning Digest: Darrell Issa abandons plan to flee to Texas |last1=Nir |last2=Singer |first1=David |first2=Jeff |date=December 5, 2025 |access-date=December 5, 2025}}</ref>
+
+====Withdrawn====
+*Jason Duey, combat veteran and former federal prosecutor<ref>{{Cite web |title=Duey for Congress Press Release |date=November 7, 2025 |url=https://www.einpresswire.com/article/865042393/combat-veteran-and-former-federal-prosecutor-jason-duey-announces-run-for-congress-in-arizona-s-cd1}}</ref>
+*[[David Schweikert]], incumbent U.S. representative ''([[2026 Arizona gubernatorial election|ran for governor]])''<ref name="Schweikert" />
+*[[Gina Swoboda]], former chair of the [[Arizona Republican Party]] (2024–2026) ([[2026 Arizona Secretary of State election|''ran for secretary of state'']])<ref>{{cite news |title=Gina Swoboda files for Arizona Secretary of State after previously campaigning for Congress |url=https://ktar.com/arizona-election-news/gina-swoboda-secretary/5816730/ |access-date=February 3, 2025}}</ref><ref>{{cite web |last1=Gersony |first1=Laura |title=Gina Swoboda quits congressional race to run for secretary of state |url=https://www.azcentral.com/story/news/politics/elections/2026/02/13/gina-swoboda-switches-campaigns-arizona/88664594007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx50p119250c119250v11xx50d--48--b--48--&gca-ft=163&gca-ds=sophi |publisher=Arizona Republic |access-date=February 13, 2026}}</ref>
+
+====Declined====
+*[[Shawnna Bolick]], [[Arizona Senate|state senator]] from the [[Arizona's 2nd legislative district|2nd district]] (2023–present) and candidate for [[Secretary of State of Arizona|secretary of state of Arizona]] in [[2022 Arizona Secretary of State election|2022]] ''([[2026 Arizona Senate election|running for reelection]])''<ref>{{cite tweet|user=Garrett_Archer|number=1973391687117369550|title=Shawnna Bolick will not run for #AZ01.|access-date=October 1, 2025}}</ref>
+*Thomas Galvin, chair of the [[Maricopa County Board of Supervisors]] from the 2nd district<ref name="WildCard">{{cite news |last1=Gersony |first1=Laura |title=Schweikert's gubernatorial bid deals wild card into swing Arizona congressional district |url=https://www.azcentral.com/story/news/politics/elections/2025/10/01/schweikert-exit-throws-wild-card-into-arizona-battleground-house-district/86428948007/ |access-date=October 1, 2025 |work=[[The Arizona Republic]] |date=October 1, 2025}}{{dead link|date=September 2026}}</ref>
+*[[Alexander Kolodin]], [[Arizona House of Representatives|state representative]] from the [[Arizona's 3rd legislative district|3rd district]] (2023–present) ''([[2026 Arizona Secretary of State election|running for secretary of state]], endorsed Chaplik)''<ref name="md">{{Cite web |last=Nir |first=David |date=December 16, 2025 |title=Morning Digest, sponsored by Grassroots Analytics: GOP convinces reluctant congressman to run again |url=https://www.the-downballot.com/p/morning-digest-sponsored-by-grassroots-f0b |access-date=December 19, 2025 |website=The Downballot |language=en}}</ref>
+*Elijah Norton, former treasurer of the [[Arizona Republican Party]] and candidate for this district in [[2022 United States House of Representatives elections in Arizona#District 1|2022]] ''([[2026 Arizona State Treasurer election|running for state treasurer]])''<ref name=eye/>
+*[[Danica Patrick]], former professional racing driver ''(endorsed Feely)''<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-sponsored-by-campaign-cc3|title=Morning Digest, sponsored by Campaign Legal Center: What's more important to the GOP than gerrymandering? Anti-trans laws|last=Nir|first=David|date=October 14, 2025|access-date=October 15, 2025}}</ref>
+*[[Michelle Ugenti-Rita]], former [[Arizona Senate|state senator]] from the [[Arizona's 23rd legislative district|23rd district]] (2019–2023), candidate for [[Secretary of State of Arizona|secretary of state of Arizona]] in [[2022 Arizona Secretary of State election|2022]], and candidate for [[Maricopa County Board of Supervisors]] in [[2024 Maricopa County Board of Supervisors election#District 2|2024]] ''(endorsed Chaplik)''<ref name="md"/>
+*[[Jim Waring]], [[Phoenix City Council|Phoenix city councilor]] from the 2nd district (2011–present)<ref name=eye>{{cite news|url=https://www.axios.com/local/phoenix/2025/09/30/1st-congressional-district-republican-primary-new-candidates-schweikert|title=Republicans eye open CD1 primary after Schweikert switches to governor's race|first=Jeremy|last=Duda|date=September 30, 2025|work=[[Axios (website)|Axios]]}}</ref>
+*[[Carine Werner]], [[Arizona Senate|state senator]] from the [[Arizona's 4th legislative district|4th district]] (2025–present)<ref name="leaves">{{cite web|title=Morning Digest: How will Trump feel as another swing-seat congressman leaves to run for governor?|url=https://www.the-downballot.com/i/174972661/az|work=The Downballot|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=October 1, 2025|access-date=October 1, 2025}}</ref>
+
+====Endorsements====
+{{endorsements box
+|title = Joseph Chaplik
+|list = 
+'''U.S. representatives'''
+*[[Barry Goldwater Jr.]], former [[California's 20th congressional district|CA-20]] (1969–1983) ''(co-endorsement with Feely)''<ref name="EndTrack">{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=January 8, 2026 |language=en |date=January 7, 2026}}</ref>
+}}
+{{endorsements box
+|title = Jay Feely
+|list = 
+'''Executive branch officials'''
+*[[Robert F. Kennedy Jr.]], [[United States Secretary of Health and Human Services|secretary of health and human services]] (2025–present)<ref name="EndTrack"/>
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present) ''(co-endorsement with Swoboda)''<ref name="DualEndorsement">{{cite web |last1=Gersony |first1=Laura |title=Trump issues rare dual endorsement in Arizona swing district |url=https://www.azcentral.com/story/news/politics/arizona/2026/01/06/trump-issues-dual-endorsement-jay-feely-gina-swoboda-congress/87853100007/ |website=AZ Central |access-date=January 6, 2026}}</ref>
+
+'''U.S. representatives'''
+*[[Juan Ciscomani]], [[AZ-06]] (2023–present)<ref name="EndTrack"/>
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="EndTrack"/>
+*[[Barry Goldwater Jr.]], former [[California's 20th congressional district|CA-20]] (1969–1983) ''(co-endorsement with Chaplik)''<ref name="EndTrack"/>
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/|title=NRCC Introduces "MAGA Majority" to Expand House GOP Majority in 2026|date=March 17, 2026|access-date=May 4, 2026}}</ref>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="KTAR1"/>
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="EndTrack"/>
+*[[Anna Paulina Luna]], [[FL-13]] (2023–present)<ref name="EndTrack"/>
+*[[Lisa McClain]], [[MI-09]] (2021–present)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="KTAR1">{{cite web |last1=Werner |first1=Kylie |title=Jay Feely: my Trump endorsement carries more weight |url=https://ktar.com/arizona-election-news/jay-feely-trump-endorsement/5807424/ |website=KTAR |access-date=January 20, 2026 |language=en |date=January 15, 2026 |quote=In addition to Trump's endorsement, Feely noted that he has also been endorsed by Speaker Mike Johnson, House Majority Leader Steve Scalise and other leadership in Washington.}}</ref>
+*[[John Shadegg]], former [[AZ-03]] (1995–2011)<ref name="EndTrack"/>
+
+'''Individuals'''
+*[[Danica Patrick]], former [[NASCAR]] driver<ref>{{cite web |last1=Rosvoglou |first1=Chris |title=Danica Patrick Endorses Former NFL Player Jay Feely For Congress |url=https://www.aol.com/articles/danica-patrick-endorses-former-nfl-211627913.html |website=[[AOL]] |access-date=April 26, 2026 |language=en |date=April 18, 2026}}</ref>
+
+'''Organizations'''
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+}}
+{{endorsements box
+|title = Gina Swoboda ''(withdrawn)''
+|list = 
+'''Executive branch officials'''
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present) ''(co-endorsement with Feely)''<ref name=DualEndorsement/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Joseph Chaplik (R)
+|$604,971{{Efn|$300,000 was self funded}}
+|$475,451
+|$129,520
+|-
+|{{party shading/Republican}}|Jay Feely (R)
+|$2,525,520
+|$1,731,045
+|$794,475
+|-
+|{{party shading/Republican}}|John Trobough (R)
+|$1,158,469{{Efn|$1,007,784 was self funded}}
+|$1,073,571
+|$84,898
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House – Arizona 1st |url=https://www.fec.gov/data/elections/house/AZ/01/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name=Key}}
+! Margin<br/>{{nowrap|of error}}
+! style="width:70px;" |Joseph<br/>Chaplik
+! style="width:70px;" |Jay<br/>Feely
+! style="width:70px;" |John<br/>Trobough
+! Undecided
+|-
+| style="text-align:left;" |NextGenP (R)<ref>{{cite web|url=https://nxtgenp.com/post/AZ1-primary|title=Feely Leads CD1 Primary; Chaplik Runs Close as 46% Remain Undecided|first=Gregg|last=Pekau|website=NextGenP|date=June 19, 2026|access-date=June 20, 2026}}</ref>
+|June 16–17, 2026
+|695
+|±&nbsp;3.9%
+|23%
+|{{party shading/Republican}}|'''25%'''
+|6%
+|{{party shading/Undecided}}|'''46%'''
+|-
+| style="text-align:left;" |Advanced Targeting Research<ref>{{cite tweet |title=AZ01 GOP contender @JosephChaplik  is touting an internal poll showing him with a strong early lead over @jayfeely. The poll is done by a firm called  Advanced Targeting Research. It is not an informed ballot test. Chaplik 29, Feely 9, Trobough 5, Undecided 57. 400 LV GOP primary 5/12-5/13 |user=Garrett_Archer |first=Garrett |last=Archer |number=2056571128156754379 |access-date=May 20, 2026}}</ref>{{Efn-ua|name=Chaplik|Poll sponsored by Chaplik's campaign}}
+|May 12–13, 2026
+|400 (LV)
+|–
+|{{party shading/Republican}}|'''29%'''
+|9%
+|5%
+|{{party shading/Undecided}}|'''57%'''
+|-
+| style="text-align:left;" |NextGenP (R)<ref>{{cite web|url=https://nxtgenp.com/post/Chaplik-leads-AZ1|title=Chaplik Leads in Wide-Open AZ-CD1 Republican Primary|first=Gregg|last=Pekau|website=NextGenP|date=April 21, 2026|access-date=April 22, 2026}}</ref>
+|April 13–16, 2026
+|409 (LV)
+|±&nbsp;4.8%
+|{{party shading/Republican}}|'''24%'''
+|15%
+|6%
+|{{party shading/Undecided}}|'''54%'''
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 1st congressional district Republican primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+|-
+! scope="col" | [[Joseph Chaplik]]
+! scope="col" | [[Jay Feely|Thomas "Jay" Feely IV]]
+! scope="col" | John Trobough
+|-
+! 1
+| style="white-space:nowrap;" | May 5, 2026<ref>{{cite web
+ |last=Thorington
+ |first=Jakob
+ |title=Televised CD1 debate goes from 'conversation' to criticism, real quick 
+ |url=https://pro.stateaffairs.com/az/yellow-sheet/elections/trump-tariffs-iran-war
+ |website=Arizona Capitol Times
+ |date=May 6, 2026
+ |access-date=August 10, 2026
+}}</ref>
+| style="white-space:nowrap;" | [[KAET|Arizona PBS]]
+| style="white-space:nowrap;" | Ted Simons
+| style="white-space:nowrap;" | [https://www.pbs.org/video/az-votes-congressional-district-1-candidates-republican-may-5-2026-negdou/ PBS]
+| {{pending|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+! 2
+| style="white-space:nowrap;" | June 24, 2026<ref>{{cite web
+ |last=Sanchez
+ |first=Camryn
+ |title=Republican candidates discuss election reform, support of Trump in CD1 debate
+ |url=https://www.kjzz.org/elections/2026-06-25/republican-candidates-discuss-election-reform-support-of-trump-in-cd1-debate
+ |website=KJZZ
+ |date=June 25, 2026
+ |access-date=July 22, 2026
+}}</ref>
+| style="white-space:nowrap;" | Arizona Citizens Clean Elections Commission<br />Arizona Media Association
+| style="white-space:nowrap;" | Steve Goldstein<br />Danielle Lerner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=FYw6NwLKRgw YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+[[File:2026AZ-01RepPrimary.svg|alt=Republican primary results by county|thumb|230px|Republican primary results by precinct:{{collapsible list
+| title = {{legend|#e81b22|Feely}}|{{legend|#FFC8CD|30–40%}}|{{legend|#FFB2B2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#A80000|90–100%}}|}}
+{{collapsible list
+| title = {{legend|#E66101|Chaplik}}|{{legend|#FEE5D5|30–40%}}|{{legend|#FFCCAA|40–50%}}|{{legend|#FFB380|50–60%}}|}}
+{{collapsible list
+| title = {{legend|#D2B1D9|Tie}}|{{legend|#D2B1D9|40–50%}}|}}
+]]
+
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Jay Feely]]|votes=43,709|percentage=49.8}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Joseph Chaplik|votes=31,347|percentage=35.7}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=John Trobough|votes=12,718|percentage=14.5}}
+{{Election box total no change|votes=87,774|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Amish Shah]], former [[Arizona House of Representatives|state representative]] from the [[Arizona's 5th legislative district|5th district]] (2019–2024) and nominee for this district in [[2024 United States House of Representatives elections in Arizona#District 1|2024]]<ref name=Shah>{{cite news |last1=Sanchez |first1=Camryn |title=Former Arizona lawmaker Shah will challenge Congressman Schweikert — again |url=https://www.kjzz.org/politics/2025-05-13/former-arizona-lawmaker-shah-will-challenge-congressman-schweikert-again |access-date=May 13, 2025 |publisher=[[KJZZ (FM)|KJZZ]] |date=May 13, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+*Marlene Galán-Woods, former [[KSAZ-TV]] news anchor, widow of former Republican [[Arizona Attorney General]] [[Grant Woods (attorney)|Grant Woods]], and candidate for this district in [[2024 United States House of Representatives elections in Arizona#District 1|2024]]<ref name=GalanWoods>{{cite news |last1=Wong |first1=Kenneth |title=2026 Election: Marlene Galán-Woods launches new campaign for AZ congressional seat|url=https://www.fox10phoenix.com/news/2026-election-marlene-galan-woods-launches-new-campaign-az-congressional-seat |access-date=March 4, 2025 |publisher=[[KSAZ-TV]] |date=March 4, 2025 |language=en}}</ref>
+*Rick McCartney, media firm owner<ref>{{Cite news|last=Gersony |first=Laura |date=May 20, 2025 |title=Schweikert draws latest challenger in Democrat Rick McCartney. What to know |url=https://www.azcentral.com/story/news/politics/elections/2025/05/20/rick-mccartney-joins-race-arizona-cd1/83681811007/ |work=[[The Arizona Republic]] |access-date=May 22, 2025}}</ref><ref name=dozens/>
+*Jonathan Treble, businessman<ref>{{Cite news |author1=Nir, David |author2=Singer, Jeff |title=Morning Digest: Michigan Democrat who called on Schumer to step aside joins Senate race |url=https://www.the-downballot.com/i/160456555/az |access-date=April 3, 2025 |date=April 3, 2025 |website=The Downballot |language=en}}</ref>
+
+====Withdrawn====
+*Brian del Vecchio, administrative law judge at the Arizona Office of Administrative Hearings<ref>{{cite web |title=Report of Receipts and Disbursements |url=https://docquery.fec.gov/cgi-bin/forms/C00896464/1913300/ |website=Federal Election Commission |access-date=February 21, 2026}}</ref>
+*Mark Robert Gordon, attorney and Democratic National Committee member<ref name=filing/>
+*Daniel Lucio, system engineer<ref name=dozens>{{cite news |last1=Solender |first1=Andrew |title=Scoop: Dozens of Dem candidates won't commit to backing Jeffries |url=https://www.axios.com/2025/10/16/hakeem-jeffries-speaker-leader-democrats-primary |access-date=October 16, 2025 |date=October 16, 2025 |website=[[Axios (website)|Axios]]}}</ref><ref name=filing/>
+*Victor Weintraub, retired businessman<ref name=filing/>
+
+====Declined====
+*James McCain, intelligence officer in the [[158th Infantry Regiment (United States)|158th Infantry Regiment]] and son of former Republican U.S. Senator [[John McCain]]<ref>{{cite news |last1=Gonzales |first1=Nathan L. |title=Meet 11 House candidates — or potential ones — who don't fit the mold |url=https://rollcall.com/2025/06/11/house-candidates-2026-midterm-elections/ |access-date=June 13, 2025 |work=[[Roll Call]] |date=June 11, 2025}}</ref>
+*Conor O'Callaghan, global trading executive and candidate for this district in [[2024 United States House of Representatives elections in Arizona#District 1|2024]]<ref name=lining>{{cite news |work=[[The Arizona Republic]] |access-date=March 8, 2025 |url=https://www.azcentral.com/story/news/politics/elections/2025/03/06/whos-running-against-rep-david-schweikert-democrats-are-lining-up/81366786007/ |date=March 6, 2025 |author=Gersony, Laura |title=Democrats are already lining up to take on Rep. David Schweikert in 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Marlene Galán-Woods
+|colwidth=60
+|list=
+'''Executive branch officials'''
+*[[Janet Napolitano]], former [[United States Secretary of Homeland Security|secretary of homeland security]] (2009–2013) and [[governor of Arizona]] (2003-2009)<ref name="GalanWoods"/>
+*[[Tom Udall]], former [[United States Ambassador to New Zealand|U.S. ambassador to New Zealand]] (2021–2025) and [[United States Ambassador to Samoa|Samoa]] (2022–2025) and U.S. senator from [[New Mexico]] (2009–2021)<ref name="EndTrack"/>
+
+'''U.S. senators'''
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref>{{cite web |last1=Resnik |first1=Brahm|title=Sen. Mark Kelly backs Marlene Galan-Woods in Arizona's key primary showdown |url=https://www.12news.com/article/news/politics/sen-mark-kelly-backs-marlene-galan-woods-in-arizonas-key-primary-showdown/75-9f30d3c0-6a83-4f4e-a79b-ae641b7c4c36|website=12 News |access-date=July 15, 2026 |date=July 14, 2026}}</ref>
+
+'''U.S. representatives'''
+*[[Ron Barber]], former [[AZ-02]] (2012–2015)<ref name="EndTrack"/>
+*[[Nikki Budzinski]], [[Illinois's 13th congressional district|IL-13]] (2023–present)<ref name="EndTrack"/>
+*[[Gil Cisneros]], [[CA-31]] (2019–2021, 2025–present)<ref name="EndTrack"/>
+*[[Sam Coppersmith]], former [[AZ-01]] (1993–1995) and former chair of the [[Arizona Democratic Party]] (1995–1997)<ref name="EndTrack"/>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="D8">{{cite web|url=https://dccc.org/dccc-announces-eight-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Eight New Candidates to Coveted 2026 'Red to Blue' Program|date=May 4, 2026|access-date=May 4, 2026}}</ref>
+*[[Lois Frankel]], [[Florida's 22nd congressional district|FL-22]] (2013–present)<ref name="EndTrack"/>
+*[[Laura Friedman]], [[California's 30th congressional district|CA-30]] (2025–present)<ref name="EndTrack"/>
+*[[Annie Kuster]], former [[NH-02]] (2013–2025)<ref name="EndTrack"/>
+*[[Andrea Salinas]], [[OR-06]] (2023–present)<ref name="EndTrack"/>
+*[[Linda Sánchez]], [[California's 38th congressional district|CA-38]] (2003–present)<ref name="EndTrack"/>
+
+'''Statewide officials'''
+*[[Kris Mayes]], [[attorney general of Arizona]] (2023–present)<ref name="GalanWoods"/>
+
+'''Labor unions'''
+*[[National Education Association]]<ref name = "National Education Association">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=November 24, 2025}}</ref>
+
+'''Organizations'''
+*[[Congressional Hispanic Caucus#CHC BOLD PAC|Congressional Hispanic Caucus BOLD PAC]]<ref name = "Intercept20260715"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="D8"/>
+*[[Democratic Majority for Israel]]<ref name = "Intercept20260715"/>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Electric Democratic Women |access-date=November 24, 2025}}</ref>
+*[[EMILYs List]]<ref name = "Intercept20260715">{{Cite web |last=Lacy |first=Akela |date=July 15, 2026 |title=Democrats Are Desperate to Flip an Arizona House Seat. They're Rallying Around a Former Republican. |url=https://theintercept.com/2026/07/15/arizona-democrats-republicans-aipac-house-race/ |access-date=July 21, 2026 |website=The Intercept |language=en-US}}</ref>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/news/ecu-endorses-marlene-galn-woods-in-az-01? |title=ECU Endorses Marlene Galán-Woods in AZ-01 |website=endcitizensunited.org |date=July 16, 2026 |access-date=July 16, 2026}}</ref>
+*[[Latino Victory]] Fund<ref name="latinovictory.org">{{cite web |last1=Pichardo |first1=Katharine |title=Latino Victory Fund Announces Endorsement of "Red to Blue" Congressional Candidates Poised to Make HERstory as First Latinas in Arizona, Nebraska and Pennsylvania |url=https://latinovictory.org/latino-victory-fund-announces-endorsement-of-red-to-blue-congressional-candidates-poised-to-make-herstory-as-first-latinas-in-arizona-nebraska-and-pennsylvania/ |website=Latino Victory |access-date=July 31, 2025 |date=July 31, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name = "Intercept20260715"/>
+*[[PODER PAC]]<ref>{{cite web |title=PODER PAC Endorsements |url=https://www.poderpac.com/candidates |website=PODER PAC |access-date=November 24, 2025}}</ref>}}
+{{Endorsements box
+|title=Amish Shah
+|list=
+'''U.S. representatives'''
+*[[Raja Krishnamoorthi]], [[IL-08]] (2017–present)<ref name="EndTrack"/>
+*[[Suhas Subramanyam]], [[Virginia's 10th congressional district|VA-10]] (2025–present)<ref name="EndTrack"/>
+
+'''Organizations'''
+*[[314 Action]]<ref>{{cite web |url=https://314action.org/2026/03/27/314-action-fund-endorses-dr-amish-shah-for-arizonas-first-congressional-district/ |title=314 Action Fund Endorses Dr. Amish Shah for Arizona's First Congressional District |website=314action.org |date=March 27, 2026 |access-date=April 8, 2026}}</ref>
+*[[AAPI Victory Fund]]<ref name="AAPI">{{cite web |title=Endorsed Candidates |url=https://www.aapivictoryfund.com/candidates |website=AAPI Victory Fund |access-date=November 25, 2025}}</ref>
+*[[Asian American Action Fund]]<ref name="AAAF">{{cite web |title=Endorsements |url=https://www.aaafund.org/endorsements |website=AAAFund |access-date=November 25, 2025}}</ref>
+*[[ASPIRE PAC]]<ref name="aspirefirstslate">{{Cite web |title=ASPIRE PAC Announces Slate of Congressional Endorsements |url=https://aspirepac.org/2025/05/27/aspire-pac-announces-slate-of-congressional-endorsements-2/ |access-date=June 13, 2025 |publisher=ASPIRE PAC}}</ref>
+*[[Congressional Freethought Caucus|Center for Freethought Equality]]<ref name=CFE/>
+*[[Democrats for Education Reform]]<ref name="DFER">{{Cite web|url=https://dfer.org/candidates/|title=New Champions in Competitive Districts|access-date=May 1, 2026|website=dfer.org}}</ref>
+}}
+{{Endorsements box
+|title=Jonathan Treble
+|list=
+'''U.S. representatives'''
+*[[Tom O'Halleran]], former [[AZ-01]] (2017–2023)<ref name="EndTrack"/>
+*[[Eric Sorensen (politician)|Eric Sorensen]], [[Illinois's 17th congressional district|IL-17]] (2023–present)<ref name="EndTrack"/>
+
+'''Organizations'''
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA"/> ''(previously endorsed Gordon)''<ref name="JACPA"/>
+}}
+{{endorsements box
+|title=Mark Robert Gordon (<em>withdrawn</em>)
+|list=
+'''Organizations'''
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=JACPAC|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref> ''(later endorsed Treble)''<ref name="JACPA"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Marlene Galán-Woods (D)
+|$2,185,747
+|$1,646,653
+|$539,093
+|-
+|{{party shading/Democratic}}|Mark Robert Gordon (D)
+|$299,117
+|$236,667
+|$61,924
+|-
+|{{party shading/Democratic}}|Rick McCartney (D)
+|$1,277,575{{Efn|$808,698 was self funded}}
+|$1,025,936
+|$251,640
+|-
+|{{party shading/Democratic}}|Amish Shah (D)
+|$1,830,193{{Efn|$430,655 was self funded}}
+|$1,520,251
+|$401,745
+|-
+|{{party shading/Democratic}}|Jonathan Treble (D)
+|$3,979,424{{efn|$1,018,252 was self funded}}
+|$3,320,814
+|$658,610
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" |Marlene<br/>{{nowrap|Galán-Woods}}
+! style="width:60px;" |Mark<br/>{{nowrap|Robert Gordon}}
+! style="width:60px;" |Rick<br/>McCartney
+! style="width:60px;" |Amish<br/>Shah
+! style="width:60px;" |Jonathan<br/>Treble
+! Other
+! Undecided
+|-
+| style="text-align:left;" |HighGround, Inc.<ref>{{cite web |title=Shah Dominates CD1 Primary with 3-to-1 Lead |url=https://azhighground.com/shah-dominates-cd1-primary-with-3-to-1-lead/ |publisher=HighGround, Inc. |access-date=February 26, 2026}}</ref>
+|February 21–23, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|11%
+|1.8%
+|1.5%
+|{{party shading/Democratic}} |'''32.5%'''
+|1.5%
+|2.7%{{Efn|"Refused" with 1.5%; "Other" with 1.2%}}
+|{{party shading/Undecided}}|'''49%'''
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 1st congressional district Democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+|-
+! scope="col" | [[Amish Shah]]
+! scope="col" | Jonathan Treble
+! scope="col" | Marlene Galán-Woods
+! scope="col" | Rick McCartney
+|-
+! 1
+| style="white-space:nowrap;" | June 23, 2026<ref>{{cite web
+ |last=Hahne
+ |first=Greg
+ |title=Democrats vying for Arizona CD1 seat signal they would vote to impeach Trump at debate
+ |url=https://www.kjzz.org/elections/2026-06-24/democrats-vying-for-arizona-cd1-seat-signal-they-would-vote-to-impeach-trump-at-debate
+ |website=KJZZ
+ |date=June 24, 2026
+ |access-date=July 22, 2026
+}}</ref>
+| Clean Elections Commission<br />Arizona Media Association
+| style="white-space:nowrap;" | Steve Goldstein<br />Danielle Lerner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=F6SpHa1HbJQ YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+[[File:2026DemAZ-01Primary.svg|alt=Democratic primary results by county|thumb|230px|Democratic primary results by precinct:{{collapsible list
+| title = {{legend|#0671B0|Shah}}|{{legend|#BDD3FF|30–40%}}|{{legend|#A5B0FF|40–50%}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|}}
+{{collapsible list
+| title = {{legend|#5FD170|Galán-Woods}}|{{legend|#AAE5AA|30–40%}}|{{legend|#87DE87|40–50%}}|{{legend|#5FD35F|50–60%}}|}}
+{{collapsible list
+| title = {{legend|#009696|Treble}}|{{legend|#ACF2F2|30–40%}}|}}
+{{collapsible list
+| title = {{legend|#FFD700|McCartney}}|{{legend|#FFDD55|40–50%}}|}}
+{{collapsible list
+| title = {{legend|#DECDE6|Tie}}|{{legend|#DECDE6|30–40%}}|}}
+{{legend|#808080|No votes}}
+]]
+
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Amish Shah]]|votes=29,002|percentage=39.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Marlene Galán-Woods|votes=25,267|percentage=34.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jonathan Treble|votes=13,006|percentage=17.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Rick McCartney|votes=6,248|percentage=8.5}}
+{{Election box total no change|votes=73,523|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+*Monica Alponte, retired business writer<ref name=filing/>
+
+====Endorsements====
+{{Endorsements box
+|title=Monica Alponte
+|list=
+'''Organizations'''
+*[[Michael Rectenwald#Anti-Zionist America PAC|Anti-Zionist America PAC]]<ref>{{cite web|title=AZA - Our Candidates|url=https://www.aza-pac.com/our-candidates|access-date=June 18, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Libertarian}}|Monica Alponte (L)
+|$8,941
+|$8,307
+|$634
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|party=Libertarian Party (United States)|candidate=Monica Alponte|votes=289|percentage=100.0}}
+{{Election box total no change|votes=289|percentage=100.0}}
+{{Election box end}}
+
+===Green primary===
+====Withdrawn====
+*David Redkey, educator ''(running in the 3rd district)''<ref name=filing/>
+
+===No Labels primary===
+====Withdrawn====
+*Christopher Ajluni<ref name=filing/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|style="background:#FFFFFF;"|Christopher Aljuni (NL)
+|$3,513
+|$3,513
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=September 10, 2026}}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report }}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|September 25, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Tilt|D|Flip}}
+|October 15, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|October 20, 2026
+|-
+| align="left"|[[The Economist]]<ref name=Econ>{{Cite web |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=May 9, 2026 |website=The Economist |language=en-US}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely" for the purposes of this page. As well, "tossup" is labeled "uncertain", but for the purposes of this page it will be labelled "tossup".}}
+|{{USRaceRating|Likely|D|flip}}
+|May 7, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+|  {{US political race rating|Likely|D|Flip}}
+|October 27, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Jay Feely (R)
+|list=
+'''U.S. senators'''
+*[[Kyrsten Sinema]], former [[Arizona]] (2019–2025) ''(Independent; elected as a Democrat)''<ref>{{Cite web|url=https://www.axios.com/2026/10/13/feely-arizona-congress-sinema|title=Scoop: Sinema quietly boosting Republican Jay Feely|date=October 13, 2026|access-date=October 14, 2026|last=Kight|first=Stef|website=[[Axios (website)|Axios]]}}</ref>
+
+'''Statewide officials'''
+*[[Doug Ducey]], former [[governor of Arizona]] (2015–2023)<ref>{{cite news |title=Kyrsten Sinema Reportedly Voted For 'Commonsense,' 'Fiscal Conservative' Jay Feely In GOP Primary |url=https://azfreenews.com/2026/10/kyrsten-sinema-reportedly-voted-for-commonsense-fiscal-conservative-jay-feely-in-gop-primary/ |work=AZ Free News |date=October 16, 2026 |access-date=October 19, 2026 |quote=The committee also noted that former Republican Gov. Doug Ducey had endorsed Feely.}}</ref>{{bsn|date=October 2026}}
+
+'''Local officials'''
+*[[Rachel Mitchell]], [[Maricopa County, Arizona|Maricopa County]] attorney (2022–present)<ref>{{cite web |last=Buchanan |first=Zach |title=Exclusive: Democrat Amish Shah wins second police endorsement over Feely |url=https://www.axios.com/local/phoenix/2026/08/24/arizona-amish-shah-second-police-endorsement-feely |website=[[Axios (website)|Axios]] |date=August 24, 2026}}</ref>
+
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref name="NRA">{{cite web |title=Arizona |url=https://www.nrapvf.org/grades/Arizona/ |website=[[National Rifle Association Political Victory Fund]] |access-date=13 September 2026}}</ref>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jay-feely-for-arizonas-first-congressional-district|title=U.S. Chamber Endorses Candidate Jay Feely for Arizona's First Congressional District|date=September 16, 2026|access-date=October 2, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Amish Shah (D)
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO">{{cite web |title=2026 Candidate Endorsements |website=Arizona AFL-CIO |url=https://azaflcio.org/2026_Endorsements |archive-url=https://web.archive.org/web/20260918164326/https://azaflcio.org/2026_Endorsements |archive-date=18 September 2026 |access-date=23 October 2026}}</ref>
+
+'''Organizations'''
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref>{{cite web |title=DCCC Announces Five New Candidates to Coveted 2026 'Red to Blue' Program |url=https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program/ |website=DCCC |date=July 28, 2026}}</ref>
+*[[Human Rights Campaign|Human Rights Campaign PAC]]<ref>{{cite web |title=Human Rights Campaign PAC Endorses Dr. Amish Shah for Arizona's First District |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-dr-amish-shah-for-arizonas-first-district |website=HRC |access-date=August 23, 2026 |date=August 21, 2026}}</ref>
+*[[J Street]]<ref>{{cite web|title=Amish Shah |url=https://jstreetpac.org/candidate/amish-shah/ |publisher=J Street PAC |access-date=July 24, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web|title=Jewish Dems Endorsed Candidates|url=https://jewishdems.org/endorsements/|website=Jewish Democratic Council of America|access-date=August 11, 2026}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=LCV Action Fund Endorses New Slate of Candidates for U.S. House of Representatives |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-new-slate-of-candidates-for-u-s-house-of-representatives/ |website=League of Conservation Voters |access-date=August 20, 2026 |date=August 20, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref name="RFFAGeneral">{{cite web |title=Elections |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20261024041059/https://reproductivefreedomforall.org/elections |archive-date=24 October 2026 |access-date=24 October 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jay Feely (R)
+|$3,799,654
+|$3,616,890
+|$182,764
+|-
+|{{party shading/Democratic}}|Amish Shah (D)
+|$5,654,454
+|$5,540,210
+|$206,045
+|-
+|{{party shading/Libertarian}}|Monica Alponte (L)
+|$9,453
+|$8,699
+|$754
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;" |Jay<br/>Feely (R)
+! style="width:100px;" |Amish<br/>Shah (D)
+! Other
+! Undecided
+|-
+|-
+| style="text-align:left;" |FirstStrategic Communications and Public Affairs<ref>{{cite web |last1=Archer |first1=Garrett |title=AZ01 POLL Incoming.<br>One of the tightest congressional districts in the country is poling neck and neck with Democrat @DrAmishShah holding a slight edge over Republican @jayfeely.<br>Shah 44%<br>Feely 42%<br>Unsure 14%<br>FIrstStrategic {{!}} Oct. 1 {{!}} n=400 {{!}} MoE +/- 5.4 |url=https://x.com/Garrett_Archer/status/2107166943052808575 |publisher=[[Twitter]] |access-date=October 6, 2026 |date=October 5, 2026}}</ref>
+|October 1, 2026
+|400 (LV)
+|±&nbsp;5.4%
+|42%
+|{{party shading/Democratic}} |'''44%'''
+|—
+|14%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Jay Feely vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;" |Jay<br/>Feely (R)
+! style="width:100px;" |Generic<br/>Democrat
+! Undecided
+|-
+| style="text-align:left;" |Grayhouse (R)<ref name=Grahouse11.25>{{cite web |last1=Wall |first1=Landon |title=New Polling Shows NFL Pro Bowler Jay Feely Running in AZ District 1 Is Republicans' Best Hope to Win Swing Seat |url=https://www.grayhouse.com/post/new-polling-shows-nfl-pro-bowler-jay-feely-running-in-az-district-1-is-republicans-best-hope-to-win |publisher=GrayHouse |access-date=October 25, 2026 |date=November 18, 2025}}</ref>
+|November 15–17, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|'''42%'''
+|'''42%'''
+|16%
+|}
+
+'''Gina Swoboda vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;" |Gina<br/>Swoboda (R)
+! style="width:100px;" |Generic<br/>Democrat
+! Undecided
+|-
+| style="text-align:left;" |Grayhouse (R)<ref name=Grahouse11.25/>
+|November 15–17, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|40%
+|{{party shading/Democratic}}|'''43%'''
+|17%
+|}
+
+'''Generic Republican vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;" |Generic<br/>Republican
+! style="width:100px;" |Generic<br/>Democrat
+! Undecided
+|-
+| style="text-align:left;" |Clarity Campaign Labs (D)<ref>{{cite web | title=Marlene Galán-Woods Leads Republican Gina Swoboda in AZ-01 General Electorate Poll | url=https://drive.google.com/file/d/1mv8EHWdA9ZWXKeyrmlpxudIM7z23cCJH/view?usp=drive_link |work=Clarity Campaign Labs |date=November 10, 2025 |access-date=February 5, 2026}}</ref>{{Efn-ua|Poll sponsored by [[Elect Democratic Women]] and [[Congressional Hispanic Caucus|CHC BOLD PAC]]}}
+|November 1–5, 2025
+|677 (RV)
+|±&nbsp;2.9%
+|{{party shading/Republican}} |'''46%'''
+|45%
+|9%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Jay Feely]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Amish Shah]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Monica Alponte
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Arizona's 2nd congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 2
+| next_year = 2028
+| image1 = File:Rep. Eli Crane official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Eli Crane]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Jonathan Nez (cropped).jpg
+| nominee2 = [[Jonathan Nez]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 2nd congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Eli Crane]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 2nd congressional district}}
+The 2nd district encompasses much of northeastern Arizona, including [[Prescott, Arizona|Prescott]], [[Flagstaff, Arizona|Flagstaff]], and much of the [[Navajo Nation]]. The incumbent is Republican [[Eli Crane]], who was reelected with 54.5% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Eli Crane]], incumbent U.S. representative<ref name="CraneNez"/>
+
+====Endorsements====
+{{endorsements box
+|title=Eli Crane
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], [[List of presidents of the United States|45th and 47th]] [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Trump's Endorsement of Eli Crane: Potential Boost for Energy Stocks and Sector Funds |url=https://www.tipranks.com/news/catalyst/trumps-endorsement-of-eli-crane-potential-boost-for-energy-stocks-and-sector-funds#google_vignette |website=TipRanks Financial |access-date=October 25, 2025 |language=en}}</ref>
+
+'''Organizations'''
+*[[Club for Growth]] PAC<ref name="clubforgrowth">{{cite web |title=2026 Club for Growth PAC-Endorsed Candidates |url=https://www.clubforgrowth.org/elections/pac-endorsed-candidates/ |publisher=Club for Growth |access-date=March 3, 2025}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-eli-crane-for-az-02/|title=Freedom Caucus Fund Endorses Eli Crane for AZ-02|date=June 26, 2026|access-date=September 15, 2026}}</ref>
+*[[Turning Point Action]]<ref name="TPUSA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Eli Crane (R)
+|$9,481,428
+|$6,957,053
+|$2,841,745
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House – Arizona 2nd |url=https://www.fec.gov/data/elections/house/AZ/02/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Eli Crane]] (incumbent)|votes=89,205|percentage=100.0}}
+{{Election box total no change|votes=89,205|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Jonathan Nez]], former [[president of the Navajo Nation]] (2019–2023) and nominee for this district in [[2024 United States House of Representatives elections in Arizona#District 2|2024]]<ref name="CraneNez">{{cite news |last1=Quintero |first1=Donovan |title=Jonathan Nez launches second bid to unseat Eli Crane in Arizona's 2nd Congressional District |url=https://navajotimes.com/reznews/jonathan-nez-launches-second-bid-to-unseat-eli-crane-in-arizonas-2nd-congressional-district/ |access-date=July 22, 2025 |work=[[Navajo Times]] |date=July 22, 2025 |quote=Eli Crane, who, according to state election filings, has already declared his intent to seek re-election in 2026.}}</ref>
+
+==== Withdrawn ====
+*David Alexander, retired national guardsman and write-in candidate for this district in [[2024 United States House of Representatives elections in Arizona|2024]]<ref name="CraneNez" />
+*[[Eric Descheenie]], former [[Arizona House of Representatives|state representative]] from the [[Arizona's 7th legislative district|7th district]] (2017–2019)<ref>{{cite web |last1=Silversmith |first1=Shondiin |title=Former state Rep. Eric Descheenie enters race for Arizona's largest congressional district |url=https://azmirror.com/2025/08/01/former-state-rep-eric-descheenie-enters-race-for-arizonas-largest-congressional-district/ |website=[[Arizona Mirror]] |access-date=August 1, 2025 |date=August 1, 2025}}</ref>
+
+====Endorsements====
+{{endorsements box
+|title=Jonathan Nez
+|list=
+'''Executive branch officials'''
+*[[Deb Haaland]], former [[United States Secretary of the Interior|secretary of the interior]] (2021–2025)<ref name="EndTrack"/>
+
+'''U.S. senators'''
+*[[Ruben Gallego]], [[Arizona]] (2025–present)<ref name="Nez1" />
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="Nez1">{{cite web |last1=Becenti |first1=Arlyssa D. |title=Former Navajo president announces 2nd bid for AZ's 2nd Congressional District |url=https://www.azcentral.com/story/news/politics/arizona/2025/07/22/former-navajo-president-jonathan-announces-second-bid-for-congress/85314087007/ |website=The Arizona Republic |access-date=July 23, 2025 |date=July 22, 2025}}</ref>
+
+'''U.S. representatives'''
+*[[Yassamin Ansari]], [[Arizona's 3rd congressional district|AZ-03]] (2025–present)<ref name="Nez1" />
+*[[Jason Crow]], [[CO-06]] (2019–present)<ref name="EndTrack"/>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-first-round-of-candidates-named-to-coveted-2026-red-to-blue-program/|title=DCCC Announces First Round of Candidates Named to Coveted 2026 'Red to Blue' Program|date=February 23, 2026|access-date=February 23, 2026}}</ref>
+*[[Karan English]], former [[Arizona's 6th congressional district|AZ-06]] (1993–1995)<ref name="Nez2">{{cite web |last1=Wittenberg |first1=Alexandra |title=Jonathan Nez launches bid for Arizona Congress in Flagstaff |url=https://www.nhonews.com/news/jonathan-nez-launches-bid-for-arizona-congress-in-flagstaff/article_3fe2d31b-92a1-49aa-9ef1-e2f4041aba0b.html |website=Navajo-Hopi Observer |access-date=July 23, 2025 |language=en |date=July 22, 2025}}</ref>
+*[[Ann Kirkpatrick]], former [[Arizona's 2nd congressional district|AZ-02]] (2019–2023), [[Arizona's 1st congressional district|AZ-01]] (2009–2011, 2013–2017)<ref name="EndTrack"/>
+*[[Teresa Leger Fernández]], [[NM-03]] (2021–present)<ref name="EndTrack"/>
+*[[Tom O'Halleran]], former [[Arizona's 1st congressional district|AZ-01]] (2017–2023)<ref name="EndTrack"/>
+*[[Melanie Stansbury]], [[NM-01]] (2021–present)<ref name="EndTrack"/>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="Nez1" />
+
+'''Statewide officials'''
+*[[Kris Mayes]], [[Arizona Attorney General|attorney general of Arizona]] (2023–present)<ref name="Nez1" />
+
+'''County officials'''
+*Ammon Barker, [[Coconino County, Arizona|Coconino County]] attorney (2025–present)<ref name="Nez2" />
+
+'''Organizations'''
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Human Rights Campaign]]<ref name=HRC>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=July 24, 2026}}</ref>
+*[[NewDem Action Fund]]<ref>{{cite web |title=Endorsed Candidates |url=https://newdemactionfund.com/candidates |website=NewDem Action Fund |access-date=December 9, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Eric Descheenie (D)
+|$4,063
+|$1,866
+|$2,197
+|-
+|{{party shading/Democratic}}|Jonathan Nez (D)
+|$3,519,760
+|$1,674,073
+|$1,910,990
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jonathan Nez]]|votes=65,118|percentage=100.0}}
+{{Election box total no change|votes=65,118|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+*Curtis Goodwin<ref name=filing/>
+
+====Eliminated in primary====
+*Alex Flores ''(write-in)''<ref name=filing/>
+
+==== Results ====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|party=Libertarian Party (United States)|candidate=Curtis Goodwin|votes=318|percentage=97.0}}
+{{Election box candidate with party link no change|party=Libertarian Party (United States)|candidate=Alex Flores ''(write-in)''|votes=10|percentage=3.0}}
+{{Election box total no change|votes=328|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Lean|R}}
+|October 23, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Lean|R}}
+|October 29, 2026
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Lean|R}}
+|October 27, 2026
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Tossup}}
+|October 24, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Likely|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Eli Crane (R)
+|list=
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref name="NRA" />
+}}
+
+{{Endorsements box
+|title=Jonathan Nez (D)
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+
+'''Organizations'''
+*[[J Street]]<ref>{{cite web|title=Jonathan Nez |url=https://jstreetpac.org/candidate/jonathan-nez/ |publisher=J Street PAC |access-date=July 24, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Eli Crane (R)
+|$11,551,401
+|$9,505,929
+|$2,362,842
+|-
+|{{party shading/Democratic}}|Jonathan Nez (D)
+|$5,361,320
+|$4,240,893
+|$1,185,731
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br/>of error
+! style="width:100px;" |Eli<br/>Crane (R)
+! style="width:100px;" |Jonathan<br/>Nez (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{cite web|url=https://pollvault.substack.com/p/levee-math|title=Levee Math|date=October 21, 2026|access-date=October 22, 2026}}</ref>{{efn-ua|Poll sponsored by [[RealClearPolitics|Poll Vault]]}}
+|October 12–14, 2026
+|345 (LV)
+|–
+|48%
+|{{party shading/Democratic}}|'''50%'''
+|–
+|2%
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web |title=Jonathan Nez Within Striking Distance In Arizona's 2nd Congressional District |url=https://www.politico.com/f/?id=000001a0-5f6e-d286-a1b8-ff7eb4c70000 |publisher=[[Politico]] |access-date=August 27, 2026 |date=September 2, 2026}}</ref>{{Efn-ua|name=Nez}}
+|August 21–24, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''46%'''
+|44%
+|–
+|10%
+|-
+|style="text-align:left;"|Peak Insights (R)<ref>{{cite web |last1=Jacobs |first1=Ben |title=Per source, Freedom Caucus member Eli Crane up double digits in a competitive northern Arizona district |url=https://x.com/Bencjacobs/status/2091935151609565622 |publisher=[[Twitter]] |access-date=August 27, 2026 |date=August 24, 2026}}</ref>{{Efn-ua|Poll sponsored by Crane's campaign}}
+|August 17–20, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''53%'''
+|42%
+|–
+|5%
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web |last1=Blackburn|first1=Zach |title=Dem Poll Shows Tightening Race in Deep Red Territory |url=https://www.nationaljournal.com/s/732200/dem-poll-shows-tightening-race-in-deep-red-territory/?unlock=QL98DIZZ54TZ6EJ5 |publisher=[[National Journal]] |access-date=June 25, 2026 |date=June 25, 2026}}</ref>{{Efn-ua|name=Nez|Poll sponsored by Nez's campaign}}
+|June 11–15, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''44%'''
+|41%
+|7%{{Efn|Curtis Goodwin (L) with 7%}}
+|9%
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Eli Crane]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jonathan Nez]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Curtis Goodwin
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Arizona's 3rd congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 3
+| next_year = 2028
+| image1 = Rep. Yassamin Ansari official photo, 119th Congress (cropped).jpg
+| nominee1 = [[Yassamin Ansari]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 3rd congressional district election results map by county.svg|230px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Yassamin Ansari]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 3rd congressional district}}
+The 3rd district is majority-Latino and is based in downtown and western [[Phoenix, Arizona|Phoenix]]. The incumbent is Democrat [[Yassamin Ansari]], who was elected with 70.9% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Yassamin Ansari]], incumbent U.S. representative<ref name="AZrunning">{{cite news |last1=Bickle |first1=Alyssa |title=Top 2026 elections to watch in Arizona |url=https://coppercourier.com/2025/12/01/top-2026-elections-arizona/ |access-date=January 5, 2026 |work=The Copper Courier |date=December 1, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Yassamin Ansari
+|list=
+'''Labor unions'''
+*[[National Education Association]]<ref name="NEA" />
+
+'''Organizations'''
+*[[AAPI Victory Fund]]<ref name="AAPI"/>
+*[[Congressional Freethought Caucus|Center for Freethought Equality]]<ref name=CFE>{{cite web |title=2026 Endorsements {{!}} CFE Members |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=November 23, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Yassamin Ansari|url=https://giffords.org/candidates/yassamin-ansari-2/ |website=GIFFORDS |access-date=March 27, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JD"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Yassamin Ansari (D)
+|$1,435,713
+|$896,441
+|$549,683
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House – Arizona 3rd |url=https://www.fec.gov/data/elections/house/AZ/03/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Yassamin Ansari]] (incumbent)|votes=37,553|percentage=100.0}}
+{{Election box total no change|votes=37,553|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Jacob Parkman (''write-in in general election ballot'')<ref name=thegreenpapers>{{cite web |title=Arizona 2026 General Election |url=https://thegreenpapers.com |website=The Green Papers |access-date=August 19, 2026}}</ref>
+
+====Did not qualify====
+*Nicholas Glenn, technician ''(write-in)''<ref name=filing>{{Cite web |title=Candidate List |url=https://apps.arizona.vote/electioninfo/Election/68 |access-date=March 24, 2026 |website=Arizona Secretary of State}}</ref>
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Nicholas Glenn ''(write-in)''|votes=437|percentage=100.0}}
+{{Election box total no change|votes=437|percentage=100.0}}
+{{Election box end}}
+
+===No Labels primary===
+====Nominee====
+*Alan Aversa, educator<ref name=filing/>
+
+==== Results ====
+{{Election box begin no change|title=No Labels primary results}}
+{{Election box winning candidate with party link no change|party=No Labels Party|candidate=Alan Aversa|votes=571|percentage=100.0}}
+{{Election box total no change|votes=571|percentage=100.0}}
+{{Election box end}}
+
+===Green primary===
+====Nominee====
+*David Redkey, educator<ref name=filing/>
+
+==== Results ====
+{{Election box begin no change|title=Green primary results}}
+{{Election box winning candidate with party link no change|party=Green Party of the United States|candidate=David Redkey ''(write-in)''|votes=5|percentage=100.0}}
+{{Election box total no change|votes=5|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+<!--====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 3rd congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (United States)|Democratic]]</small>
+! scope="col" | <small>[[Arizona Independent Party|No Labels]]</small>
+! scope="col" | <small>[[Green Party (United States)|Green]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Independent (US)}}" |
+! scope="col" style="background:{{party color|Green Party (US)}}" |
+|-
+! scope="col" | [[Yassamin Ansari]]
+! scope="col" | Alan Aversa
+! scope="col" | David Redkey
+|-
+! 1
+| style="white-space:nowrap;" | August 25, 2026
+
+| style="white-space:nowrap;" | Arizona Media Association<br />Arizona Citizens Clean Elections Commission
+| style="white-space:nowrap;" {{TBA}}
+| style="white-space:nowrap;" {{TBA}}
+| {{D-I|'''I'''}}
+| {{D-I|'''I'''}}
+| {{D-I|'''I'''}}
+|}-->
+
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|July 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+|May 6, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Yassamin Ansari
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+'''Organizations'''
+*[[Reproductive Freedom for All]]<ref name="RFFAGeneral"/>
+}}
+
+{{Endorsements box
+| title = Declined to endorse
+| list =
+'''Political Parties'''
+*[[Arizona Green Party]] ''(endorsed against Redkey)''<ref>https://www.kjzz.org/politics/2026-09-22/green-party-cd3-congressional-candidate-arrested-in-phoenix</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Yassamin Ansari (D)
+|$1,626,664
+|$1,282,755
+|$354,320
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Yassamin Ansari]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Jacob Parkman
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = No Labels Party
+  |candidate  = Alan Aversa
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Green Party (United States)
+  |candidate  = David Redkey
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Arizona's 4th congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 4
+| next_year = 2028
+| image1 = Greg Stanton 119th Congress (cropped).jpg
+| nominee1 = [[Greg Stanton]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = M. Zuhdi Jasser by Gage Skidmore (cropped).jpg
+| nominee2 = [[Zuhdi Jasser]] 
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 4th congressional district election results map by county.svg|300px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Greg Stanton]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 4th congressional district}}
+The 4th district encompasses much of [[Tempe, Arizona|Tempe]], [[Mesa, Arizona|Mesa]], and [[Chandler, Arizona|Chandler]]. The incumbent is Democrat [[Greg Stanton]], who was reelected with 52.7% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Greg Stanton]], incumbent U.S. representative<ref name="AZrunning"/>
+
+====Eliminated in primary====
+*[[Kai Newkirk]], progressive organizer<ref>{{cite news |last1=Schutsky |first1=Wayne |title=Progressive candidate enters Arizona CD4 race against Rep. Greg Stanton |url=https://www.kjzz.org/politics/2026-03-12/progressive-candidate-enters-arizona-cd4-race-against-rep-greg-stanton |access-date=March 13, 2026 |work=[[KJZZ (FM)|KJZZ]] |date=March 12, 2026}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Greg Stanton
+|list=
+'''U.S. representatives'''
+*[[Adelita Grijalva]], [[AZ-07]] (2025–present)<ref>{{cite web |url=https://www.axios.com/local/phoenix/2026/06/12/progressive-challenge-kai-newkirk-greg-stanton-democratic-primary-cd4 |title=Stanton faces progressive challenge from Newkirk in Democratic primary |last=Duda |first=Jeremy |date=June 12, 2026 |access-date=June 22, 2026 |website=Axios Phoenix}}</ref>
+
+'''Labor unions'''
+*[[National Education Association]]<ref name="NEA" />
+
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 25, 2026}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JD">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=November 23, 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web |title=CANDIDATES |url=https://www.jacpac.org/jac-candidates |website=JAC |access-date=November 23, 2025 |language=en |archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates |archive-date=November 21, 2025 |url-status=dead}}</ref>
+*[[League of Conservation Voters]]<ref name="LCV">{{cite web |title=2025-2026 Endorsements |url=https://www.lcv.org/endorsements/ |website=League of Conservation Voters |access-date=November 23, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]]<ref name="PC">{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=November 23, 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref name="RFFAPrimary">{{cite web |title=Elections |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260719011744/https://reproductivefreedomforall.org/elections |archive-date=19 July 2026 |access-date=24 October 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Kai Newkirk
+| list =
+'''Individuals'''
+*[[Nomiki Konst]], journalist ''(campaign spokesperson)''<ref name="Young Dems"/>
+
+'''Organizations'''
+*Arizona [[College Democrats]]<ref>{{cite web|url=https://www.instagram.com/azcollegedems/p/DaqSrOBPQqn/|title=In regards to the Kai Newkirk endorsement|date=July 11, 2026|access-date=July 11, 2026}}</ref>
+*[[Council on American-Islamic Relations|CAIR Action]]<ref name="CAIR">{{cite web |title=Arizona Primary Election: 2026 Voter Guide |website=CAIR Action |url=https://cairaction.org/wp-content/uploads/2026/07/Arizona-Voter-Guide_compressed.pdf |format=PDF |access-date=23 October 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web | title=Kai Newkirk for Congress in Arizona's 4th District| url=https://ourrevolution.com/kai-newkirk-for-congress-in-arizonas-4th-district/| website=Our Revolution|access-date=May 24, 2026}}</ref>
+*[[Progressive Democrats of America]]<ref name="PDA">{{cite web |title=Endorsements |website=Progressive Democrats of America |url=https://pdamerica.org/endorsements |archive-url=https://web.archive.org/web/20260713214401/https://pdamerica.org/endorsements |archive-date=13 July 2026 |access-date=23 October 2026}}</ref>
+*[[Track AIPAC]]<ref name="Tracker">{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+*[[University of Arizona]] [[College Democrats]]<ref>{{cite tweet|user=ArmentroutBen|number=2075995782629425260|title=University of Arizona College Democrats have released a statement reaffirming their endorsement of @kai_newkirk, calling Young Democrats of Arizona to practice transparency.|access-date=July 11, 2026}}</ref>
+*<s>[[Young Democrats of America|Young Democrats]] of Arizona</s> ''(endorsement rescinded)''<ref name="Young Dems">{{cite web|url=https://www.azcentral.com/story/news/politics/elections/2026/07/10/az-4th-congressional-district-candidate-losing-endorsements/90865484007|title=Why a left-wing Arizona congressional candidate is losing endorsements|last=Gersony|first=Laura|date=July 10, 2026|access-date=July 11, 2026|website=[[The Arizona Republic]]}}</ref>
+}}
+{{Endorsements box
+| title = Declined to endorse
+| list =
+'''Organizations'''
+*Phoenix-Metro [[Democratic Socialists of America]]<ref name="Young Dems"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kai Newkirk (D)
+|$151,143
+|$60,278
+|$90,865
+|-
+|{{party shading/Democratic}}|Greg Stanton (D)
+|$2,117,114
+|$1,112,556
+|$2,020,289
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House – Arizona 4th |url=https://www.fec.gov/data/elections/house/AZ/04/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name=Key}}
+! Margin<br/>{{nowrap|of error}}
+! style="width:75px;" |Kai<br/>Newkirk
+! style="width:75px;" |Greg<br/>Stanton
+! Undecided
+|-
+| style="text-align:left;" |Braun Research (D)<ref>{{cite web |first=Peter |last=Feld |title=Democratic Primary poll in Arizona's 4th Congressional District |url=https://afightworthhaving.com/Polling/AZ-04 |publisher=A Fight Worth Having |access-date=July 11, 2026 |date=July 9, 2026}}</ref>{{efn-ua|name=AFWH|Poll sponsored by A Fight Worth Having PAC, which opposes Stanton}}
+|July 6–8, 2026
+|424 (LV)
+|±&nbsp;4.9%
+|38%
+|{{party shading/Democratic}}|'''46%'''
+|17%
+|-
+| style="text-align:left;" |FM3 Research (D)<ref>{{cite web |title=Arizona 4th Congressional District Survey Results |url=https://www.documentcloud.org/documents/28398644-stantonpollaz04070126/ |publisher=FM3 Research |access-date=July 2, 2026 |date=July 1, 2026 |via=[[DocumentCloud]]}}</ref>{{Efn-ua|name=Stanton|Poll sponsored by Stanton's campaign}}
+|June 27–29, 2026
+|422 (RV)
+|±&nbsp;4.9%
+|23%
+|{{party shading/Democratic}}|'''56%'''
+|21%
+|}
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 4th congressional district Democratic primary debates and forums
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+|-
+! scope="col" | [[Kai Newkirk]]
+! scope="col" | [[Greg Stanton]]
+|-
+! 1
+| style="white-space:nowrap;" | May 27, 2026<ref name="AZ4NewkirkOneOnOne">{{cite web
+ |title=Arizona CD-4 election: Rep. Greg Stanton skips debate with Kai Newkirk
+ |url=https://www.fox10phoenix.com/news/arizona-cd-4-election-rep-greg-stanton-skips-debate-kai-newkirk
+ |website=FOX 10 Phoenix
+ |date=May 27, 2026
+ |access-date=July 22, 2026
+}}</ref>
+| style="white-space:nowrap;" | Arizona Citizens Clean Elections Commission<br />Arizona Media Association
+| style="white-space:nowrap;" | Steve Goldstein
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=epxAY0jeyCY YouTube]
+| {{Yes|'''P'''}}
+| style="background:#FFFFDD;" | '''A'''{{efn|Stanton skipped the scheduled debate, which became a one-on-one discussion with Newkirk.<ref name="AZ4NewkirkOneOnOne" />}}
+|}
+
+==== Results ====
+[[File:2026 AZ-04 Democratic primary election results by precinct.svg|250px|thumb|Democratic primary results by precinct
+{{collapsible list
+| title = {{legend|#51C2C2|Stanton}}|{{legend|#51C2C2|50–60%}}|{{legend|#2AACAC|60–70%}}|{{legend|#009696|70–80%}}|{{legend|#007a7a|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#7996E2|Newkirk}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|{{legend|#584CDE|70–80%}}
+}}
+{{legend|#888888|Tie}}
+{{legend|#c4c4c4|No data}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Greg Stanton]] (incumbent)|votes=35,551|percentage=62.3}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Kai Newkirk]]|votes=21,544|percentage=37.7}}
+{{Election box total no change|votes=57,095|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*[[Zuhdi Jasser]], physician and candidate for this district in [[2024 United States House of Representatives elections in Arizona#District 4|2024]]<ref>{{cite web |title=Zuhdi Jasser, GOP critic of Obamacare and 'radical Islam,' makes 2nd bid for AZ Congress |url=https://www.azcentral.com/story/news/politics/elections/2025/08/07/republican-zuhdi-jasser-runs-for-arizona-congress/85534263007/ |work=[[The Arizona Republic]] |last=Gersony |first=Laura |date=August 7, 2025 |access-date=September 6, 2025 |url-access=subscription}}</ref>
+
+====Disqualified====
+*[[Jerone Davison]], former running back for the [[Las Vegas Raiders]], pastor and candidate for this district in [[2022 United States House of Representatives elections in Arizona#District 4|2022]] and [[2024 United States House of Representatives elections in Arizona#District 4|2024]]<ref name=filing/>
+
+====Withdrawn====
+*Bradley Honer, USAF veteran and graduate student<ref>{{Cite web |title=Report of Receipts and Disbursements |url=https://docquery.fec.gov/cgi-bin/forms/C00899245/1884134/ |date=April 5, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Zuhdi Jasser
+|list=
+'''Organizations'''
+*[[Turning Point Action]]<ref>{{cite web |title=Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=January 3, 2026}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jerone Davison (R)
+|$240,850
+|$239,678
+|$1,172
+|-
+|{{party shading/Republican}}|Zuhdi Jasser (R)
+|$564,641
+|$222,990
+|$341,651
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Zuhdi Jasser]]|votes=39,431|percentage=100.0}}
+{{Election box total no change|votes=39,431|percentage=100.0}}
+{{Election box end}}
+
+===No Labels primary===
+====Nominee====
+*Tisha Benoit, healthcare professional<ref name=filing/>
+
+====Eliminated in primary====
+*[[John Fillmore]], former Republican [[Arizona House of Representatives|state representative]] (2011–2013, 2019–2023)<ref name=filing/>
+
+==== Results ====
+{{Election box begin no change|title=No Labels primary results}}
+{{Election box winning candidate with party link no change|party=No Labels Party|candidate=Tisha Benoit|votes=981|percentage=65.4}}
+{{Election box candidate with party link no change|party=No Labels Party|candidate=[[John Fillmore]]|votes=519|percentage=34.6}}
+{{Election box total no change|votes=1,500|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|September 10, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|July 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Greg Stanton (D)
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Greg Stanton (D)
+|$2,603,086
+|$1,709,122
+|$1,909,695
+|-
+|{{party shading/Republican}}|Zudhi Jasser (R)
+|$732,912
+|$616,791
+|$116,121
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Greg Stanton]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Zuhdi Jasser]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = No Labels Party
+  |candidate  = Tisha Benoit
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Arizona's 5th congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 5
+| next_year = 2028
+| image1 = Mark Lamb (55021585032) (cropped).jpg
+| nominee1 = [[Mark Lamb (sheriff)|Mark Lamb]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Elizabeth Lee
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 5th congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Andy Biggs]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 5th congressional district}}
+The 5th district is based in the [[East Valley (Phoenix metropolitan area)|East Valley]], including [[Gilbert, Arizona|Gilbert]] and portions of [[Chandler, Arizona|Chandler]] and [[Mesa, Arizona|Mesa]]. The incumbent is Republican [[Andy Biggs]], who was reelected with 60.4% of the vote in 2024.<ref name="HPVT"/> Biggs is retiring to [[2026 Arizona gubernatorial election|run for governor in 2026]].<ref name=Biggs>{{Cite news |work=[[Washington Examiner]] |access-date=January 25, 2025 |author=LaChance, Zach |url=https://www.washingtonexaminer.com/news/house/3300862/biggs-announces-run-for-arizona-governor/ |date=January 25, 2025 |title=Biggs announces run for Arizona governor}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Mark Lamb (sheriff)|Mark Lamb]], former [[Pinal County, Arizona|Pinal County]] sheriff (2017–2024) and candidate for U.S. Senate in [[2024 United States Senate election in Arizona|2024]]<ref>{{cite news |work=[[AZ Central]] |access-date=October 22, 2025 |url=https://www.azcentral.com/story/news/politics/elections/2025/10/21/former-pinal-county-sheriff-mark-lamb-run-for-congress/86823182007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116735p119850c119850u001635e007100v116735&gca-ft=228&gca-ds=sophi |author1=Gersony, Laura |date=October 21, 2025 |title=Former Pinal County Sheriff Mark Lamb will run for East Valley congressional seat}}</ref>
+
+====Eliminated in primary====
+*Daniel Keenan, construction contractor<ref name="FeelyKPNX">{{cite news |last1=Resnik |first1=Brahm |title=Former Cardinals kicker Jay Feely eyes Arizona congressional seat in 1st political bid |url=https://www.12news.com/article/news/politics/former-cardinals-kicker-jay-feely-eyes-arizona-congressional-seat-in-1st-political-bid-gop-gilbert/75-5015c6b8-af34-49bc-8d50-e3e961979f56 |access-date=April 24, 2025 |publisher=[[KPNX]] |date=April 22, 2025}}</ref>
+
+====Withdrawn====
+*[[Jay Feely]], [[CBS Sports]] analyst and former [[Arizona Cardinals]] football player ''(running in the 1st district)''<ref name="Feely1st"/>
+*[[Travis Grantham]], former state representative from the [[Arizona 17th Legislative District|14th district]] (2017–2025) and candidate for the 4th district in [[2012 United States House of Representatives elections in Arizona#District 9|2012]]<ref>{{cite news |last1=Gersony |first1=Laura |title=Former GOP lawmaker ends bid for Congress, cites military call-up |url=https://www.azcentral.com/story/news/politics/arizona/2026/03/12/house-candidate-travis-grantham-bows-out-cites-military-duty/89120442007/ |access-date=March 12, 2026 |work=[[The Arizona Republic]] |date=March 12, 2026}}</ref>
+
+====Declined====
+*[[Andy Biggs]], incumbent U.S. representative ''([[2026 Arizona gubernatorial election|running for governor]])''<ref name=Biggs/>
+*[[Jake Hoffman (politician)|Jake Hoffman]], [[Arizona Senate|state senator]] from the [[Arizona's 15th legislative district|15th district]] (2023–present) and [[Trump fake electors plot|2020 fake elector for Donald Trump]] ''(endorsed Lamb)''<ref name="tc">{{cite news |last1=Kelly |first1=Christy |title=Hoffman: Trump's CD5 Lamb Endorsement Ends Primary |url=https://arizonaglobe.com/fl/hoffman-trumps-cd5-lamb-endorsement-ends-primary/ |access-date=November 7, 2025 |work= |date=November 5, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Mark Lamb
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |title=President Trump Endorses Former Pinal County Sheriff Mark Lamb For Congress |url=https://azfreenews.com/2025/11/president-trump-endorses-former-pinal-county-sheriff-mark-lamb-for-congress/ |access-date=November 7, 2025 |work= |date=November 5, 2025 |language=en}}</ref>
+
+'''U.S. representatives'''
+*[[Eli Crane]], [[AZ-02]] (2023–present)<ref name="EndTrack"/>
+*[[Paul Gosar]], [[AZ-09]] (2011–present)<ref name="EndTrack"/>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="EndTrack"/>
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-02]] (1995–2001)<ref name="CFG">{{cite web|url=https://www.clubforgrowth.org/club-for-growth-pac-endorses-sheriff-mark-lamb-in-az-05-race/|title=Club for Growth PAC Endorses Sheriff Mark Lamb in AZ-05 Race|last=Mitola|first=Will|date=December 16, 2025|access-date=January 24, 2026}}</ref>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="EndTrack"/>
+
+'''State legislators'''
+*[[Jake Hoffman (politician)|Jake Hoffman]], [[Arizona Senate|state senator]] from the [[Arizona's 15th legislative district|15th district]] (2023–present)<ref name="tc"/>
+
+'''Organizations'''
+*[[Arizona Police Association]]<ref>{{cite web|url=https://marklamb.us/post/mark-lamb-endorsed-by-arizona-police-association-for-us-congress |title=Arizona Police Association Endorses Sheriff Mark Lamb for Congress in Arizona's 5th District |date=May 8, 2026 |access-date=2026-09-10}}</ref>
+*[[Club for Growth]]<ref name="CFG"/>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-mark-lamb-for-az-05/|title=Freedom Caucus Fund Endorses Mark Lamb for AZ-05|date=November 5, 2025|access-date=January 24, 2026}}</ref>
+*[[Turning Point Action]]<ref name="TPUSA">{{cite web |title=2025 Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=December 31, 2025}}</ref>
+}}
+{{Endorsements box
+|title=Travis Grantham ''(withdrawn)''
+|list=
+'''U.S. representatives'''
+*[[Trent Franks]], former [[AZ-08]] (2013–2017)<ref name="EndTrack"/>
+
+'''State legislators'''
+*[[Michael Carbone]], majority leader of the [[Arizona House of Representatives]] (2025–present) from the [[Arizona's 25th legislative district|25th district]] (2023–present)<ref name="EndTrack"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Daniel Keenan (R)
+|$1,851,302{{Efn|$1,650,620 was self funded}}
+|$1,804,527
+|$46,776
+|-
+|{{party shading/Republican}}|Mark Lamb (R)
+|$1,222,217
+|$978,791
+|$243,426
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House – Arizona 5th |url=https://www.fec.gov/data/elections/house/AZ/05/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:65px;"| Daniel<br/>Keenan
+! style="width:65px;"| Mark<br/>Lamb
+! style="width:65px;"| Jay<br/>Feely
+! style="width:65px;"| Travis<br/>Grantham
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Remington Research Group (R)<ref>{{cite web|url=https://data.ddhq.io/polls/2026/07/16/Remington-Research-Group/Daniel-Keenan-Arizona--5-2026-07-05-2026-07-07|title=Arizona 5th Congressional District – 2026 Republican Primary Election|work=Remington Research Group|date=July 16, 2026|access-date=July 16, 2026}}</ref>{{efn-ua|name=Keenan}}
+|July 5–7, 2026
+|650 (LV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''42%'''
+|40%
+|–
+|–
+|–
+|18%
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref>{{cite web|url=https://www.clubforgrowth.org/icymi-lamb-leads-by-34-points-new-ad-in-az-05-republican-primary/|title=ICYMI: Lamb Leads by 34 Points, New Ad in AZ-05 Republican Primary|first=Will|last=Mitola|website=[[Club for Growth]]|date=July 7, 2026|access-date=July 7, 2026}}</ref>{{efn-ua|name=CFGLamb|Poll sponsored by [[Club for Growth]], which supports Lamb}}
+|June 29 – July 1, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|27%
+|{{party shading/Republican}}|'''61%'''
+|–
+|–
+|–
+|12%
+|-
+|style="text-align:left;"|Remington Research Group (R)<ref>{{cite tweet|user=DK_ForCongress|first=Daniel|last= Keenan|number=2070555631975821704|title=The voters have decided: I'm the Pro-Trump, America First candidate who can hold this seat|access-date=July 7, 2026}}</ref>{{efn-ua|name=Keenan|Poll sponsored by Keenan's campaign}}
+|June 22–24, 2026
+|1,094 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''46%'''
+|32%
+|–
+|–
+|–
+|22%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |March 12, 2026
+| colspan="8" | Grantham withdraws from the race 
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |December 19, 2025
+| colspan="8" | Feely withdraws from the race 
+|-
+|style="text-align:left;" rowspan="2"|Victory Insights (R)<ref>{{cite web|url=https://irp.cdn-website.com/07e08705/files/uploaded/PollSummary_AZ-5_12-08-2025.pdf|title=AZ-5 Poll: Mark Lamb Holds Massive Lead|work=Victory Insights|date=December 8, 2025|access-date=July 6, 2026}}</ref>{{efn-ua|name=Lamb|Poll sponsored by Lamb's campaign}}
+|rowspan="2"|December 2–5, 2025
+|rowspan="2"|500 (LV)
+|rowspan="2"|–
+|2%
+|{{party shading/Republican}}|'''64%'''
+|3%
+|1%
+|–
+|31%
+|-
+|6%
+|{{party shading/Republican}}|'''69%'''
+|–
+|–
+|–
+|25%
+|-
+|style="text-align:left;"|NextGenP (R)<ref>{{cite web|url=https://nxtgenp.com/post/Lamb-47-lead|title=Sheriff Lamb holds 47% commanding lead in AZ-05 primary|first1=Gregg|last1=Pekau|website=NextGenP|date=October 14, 2025|access-date=October 14, 2025}}</ref>
+|October 10–12, 2025
+|830 (LV)
+|±&nbsp;3.3%
+|0%
+|{{party shading/Republican}}|'''54%'''
+|7%
+|3%
+|0%{{efn|Alex Stovall with 0%}}
+|36%
+|-
+|style="text-align:left;"|NextGenP (R)<ref>{{cite web |title=Sheriff Mark Lamb Holds Lead in the AZ-05 Republican Primary Poll by 47% |url=https://nxtgenp.com/post/Sheriff-Mark-Lamb-Holds-a-Huge-Lead |first1=Gregg| last1=Pekau |website=NextGenP |access-date=June 9, 2025 |date=June 5, 2025}}</ref>
+|June 4, 2025
+|953 (LV)
+|±&nbsp;3.0%
+|1%
+|{{party shading/Republican}}|'''55%'''
+|8%
+|3%
+|1%{{efn|Monte Lyons with 1%}}
+|33%
+|-
+|style="text-align:left;"|NextGenP (R)<ref>{{cite web |title=Sheriff Mark Lamb Has Dominant Lead in Prospective AZ-05 Republican Primary Poll |url=https://nxtgenp.com/post/sheriff-mark-lamb-has-dominant-lead-in-prospective-az-05-republican-primary-poll |first1=Gregg |last1=Pekau |website=NextGenP |access-date=June 9, 2025 |date=March 4, 2025}}</ref>
+|February 26–28, 2025
+|892 (LV)
+|±&nbsp;3.0%
+|–
+|{{party shading/Republican}}|'''49%'''
+|–
+|2%
+|9%{{efn|John Lewis with 4%; Jake Hoffman with 3%; Justin Olson with 2%}}
+|40%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:65px;"| Travis<br/>Grantham
+! style="width:65px;"| Jake<br/>Hoffman
+! style="width:65px;"| Justin<br/>Olson
+! style="width:65px;"| Travis<br/>Padilla
+! style="width:65px;"| Michael<br/>Way
+|-
+|style="text-align:left;"|Victory Insights (R)<ref>{{cite web|url=https://irp.cdn-website.com/07e08705/files/uploaded/PressRelease_AZ-5_02-21-2025.pdf|first=Ben|last=Galbraith|title=Jake Hoffman Leads Prospective Field to Replace Andy Biggs in AZ-5|work=Victory Insights|date=February 21, 2025|access-date=July 6, 2026}}</ref>
+|February 14–16, 2025
+|– (LV)
+|–
+|19%
+|{{party shading/Republican}}|'''32%'''
+|15%
+|12%
+|22%
+|}
+{{hidden end}}
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 5th congressional district Republican primary debates and forums
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+|-
+! scope="col" | [[Mark Lamb (sheriff)|Mark Lamb]]
+! scope="col" | Daniel Keenan
+|-
+! 1
+| style="white-space:nowrap;" | June 4, 2026<ref name="AZ5KeenanOneOnOne">{{cite web
+ |last=Wong
+ |first=Kenneth
+ |title=2026 Election: Arizona Congressional District 5 Democratic candidates debate
+ |url=https://www.fox10phoenix.com/news/2026-election-arizona-congressional-district-5-democratic-candidates-debate
+ |website=FOX 10 Phoenix
+ |date=June 4, 2026
+ |access-date=July 22, 2026
+}}</ref>
+| style="white-space:nowrap;" | Arizona Citizens Clean Elections Commission<br />Arizona Media Association
+| style="white-space:nowrap;" | Danielle Lerner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=0Y1cKR1eGXg YouTube]
+| style="background:#FFFFDD;" | '''A'''{{efn|Lamb did not take part in the scheduled debate, which became a one-on-one interview with Keenan.<ref name="AZ5KeenanOneOnOne" />}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+[[File:2026AZ-05RepPrimary.svg|alt=Republican primary results by county|thumb|200px|Republican primary results by precinct:{{collapsible list
+| title = {{legend|#e81b22|Lamb}}|{{legend|#FFB2B2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}|{{legend|#C21B18|80–90%}}|{{legend|#A80000|90–100%}}|}}
+{{collapsible list
+| title = {{legend|#E66101|Keenan}}|{{legend|#FFCCAA|40–50%}}|{{legend|#FFB380|50–60%}}|}}
+]]
+
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Mark Lamb (sheriff)|Mark Lamb]]|votes=52,352|percentage=58.7}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Daniel Keenan|votes=36,854|percentage=41.3}}
+{{Election box total no change|votes=89,206|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+==== Nominee ====
+*Elizabeth Lee, nurse<ref>{{Cite web |title=Lee, Elizabeth – Candidate overview |url=https://docquery.fec.gov/cgi-bin/forms/H6AZ05240/1913155/ |access-date=October 30, 2025 |website=[[Federal Election Commission|FEC]] |language=en-US}}</ref>
+
+==== Eliminated in primary ====
+*Brian Hualde, nurse practitioner and veteran<ref>{{Cite web |title=Hualde, Brian – Candidate overview |url=https://docquery.fec.gov/cgi-bin/forms/H6AZ05224/1910027/ |access-date=October 30, 2025 |website=[[Federal Election Commission|FEC]] |language=en-US}}</ref>
+*Chris James, nonprofit CEO<ref>{{Cite web |last=Mills |first=Kadin |date=August 5, 2025 |title=Chris James is running for Congress in Arizona |url=https://ictnews.org/news/chris-james-is-running-for-congress-in-arizona/ |access-date=August 6, 2025 |website=[[ICT News]] |language=en-US}}</ref>
+
+====Withdrawn====
+* Blake Bracht, attorney<ref>{{Cite web |title=Bracht, Blake – Candidate overview |url=https://www.fec.gov/data/candidate/H6AZ05208/?cycle=2026&election_full=true&tab=about-candidate |access-date=July 21, 2025 |website=[[Federal Election Commission|FEC]] | date=January 2023 |language=en-US}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Elizabeth Lee
+|list=
+;Organizations
+*[[Council on American-Islamic Relations|CAIR Action]]<ref name="CAIR"/>
+*[[Progressive Democrats of America]]<ref name="PDA"/>
+*[[Track AIPAC]]<ref>{{Cite web |title=Our Endorsements |url=https://www.trackaipac.com/endorsements |access-date=August 13, 2026 |website=Track AIPAC |language=en-US}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Brian Hualde (D)
+|$53,005{{Efn|$29,600 was self funded}}
+|$47,547
+|$5,458
+|-
+|{{party shading/Democratic}}|Chris James (D)
+|$134,852
+|$127,919
+|$6,933
+|-
+|{{party shading/Democratic}}|Elizabeth Lee (D)
+|$153,111
+|$126,371
+|$26,740
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 5th congressional district Democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+|-
+! scope="col" | Brian Hualde
+! scope="col" | Chris James
+! scope="col" | Elizabeth Lee
+|-
+! 1
+| style="white-space:nowrap;" | June 4, 2026<ref name="AZ5KeenanOneOnOne"/>
+| style="white-space:nowrap;" | Arizona Citizens Clean Elections Commission<br />Arizona Media Association
+| style="white-space:nowrap;" | Kathleen Bade<br />Danielle Lerner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=nFZPbvlKcjU YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Elizabeth Lee|votes=30,857|percentage=66.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Chris James|votes=9,703|percentage=20.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Brian Hualde|votes=6,171|percentage=13.2}}
+{{Election box total no change|votes=46,731|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|July 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Lean|R}}
+|October 24, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Mark Lamb (R)
+|list=
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref name="NRA" />
+}}
+{{Endorsements box
+|title=Elizabeth Lee (D)
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+'''Organizations'''
+*[[National Women's Political Caucus]]<ref name="nwpc.org">{{cite web |title=National Women's Political Caucus Endorsed Candidates |url=https://nwpc.org/endorsed-candidates |website=National Women’s Political Caucus |access-date=15 October 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref name="RFFAGeneral"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mark Lamb (R)
+|$1,668,306
+|$1,439,354
+|$228,953
+|-
+|{{party shading/Democratic}}|Elizabeth Lee (D)
+|$321,085
+|$221,417
+|$99,668
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 5th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mark Lamb]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Elizabeth Lee
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Arizona's 6th congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 6
+| next_year = 2028
+| image1 = Rep. Juan Ciscomani official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Juan Ciscomani]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = JoAnna Mendoza, 2013.jpg
+| nominee2 = JoAnna Mendoza
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 =
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 6th congressional district election results map by county.svg|230px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Juan Ciscomani]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 6th congressional district}}
+The 6th district encompasses much of southeastern Arizona, with the bulk of its population in northern [[Tucson, Arizona|Tucson]] and its suburbs. The incumbent is Republican [[Juan Ciscomani]], who was reelected with 50.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Juan Ciscomani]], incumbent U.S. representative<ref>{{cite news |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2024/12/12/juan-ciscomani-arizona-governor-2026 |date=December 12, 2024 |access-date=December 12, 2024 |author=Solender, Andrew |title=GOP Rep. Ciscomani passes on run for Arizona governor|quote=Rep. Juan Ciscomani (R-Ariz.) will run for reelection to Congress rather than mount a bid for governor in 2026, his campaign spokesperson told Axios.}}</ref>
+
+====Endorsements====
+{{endorsements box
+|title=Juan Ciscomani
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Nintzel |first1=Jim |title=Trump endorses Ciscomani; Az Dems have party problems|url= https://www.tucsonsentinel.com/local/report/042925_political_roundup/trump-endorses-ciscomani-az-dems-have-party-problems/ |work=Tucson Sentinel |date=April 29, 2025}}</ref>
+
+'''U.S. representatives'''
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="EndTrack"/>
+
+'''Local officials'''
+*11 county supervisors{{Efn|
+*Steve Christy, [[Pima County, Arizona|Pima County]] Supervisor<ref name="JuanBipartisan">{{cite news|title=Ciscomani Earns Bipartisan Endorsements of 11 County Supervisors From All 5 Counties in Arizona's Sixth District|url= https://gilavalleycentral.net/ciscomani-earns-bipartisan-endorsements-of-11-county-supervisors-from-all-5-counties-in-arizonas-sixth-district/ |work=Gila Valley Central |date=July 16, 2026}}</ref>
+*Sharon Bronson, former [[Pima County, Arizona|Pima County]] Supervisor ''(Democrat)''<ref name="JuanBipartisan"/>
+*Frank Antenori, [[Cochise County, Arizona|Cochise County]] Supervisor<ref name="JuanBipartisan"/>
+*Kathleen Gomez, [[Cochise County, Arizona|Cochise County]] Supervisor<ref name="JuanBipartisan"/>
+*Stephen Q. Miller, [[Pinal County, Arizona|Pinal County]] Supervisor<ref name="JuanBipartisan"/>
+*John Howard, [[Graham County, Arizona|Graham County]] Supervisor<ref name="JuanBipartisan"/>
+*Clay Mack, [[Graham County, Arizona|Graham County]] Supervisor<ref name="JuanBipartisan"/>
+*Paul David, [[Graham County, Arizona|Graham County]] Supervisor ''(Democrat)''<ref name="JuanBipartisan"/>
+*Ron Campbell, [[Greenlee County, Arizona|Greenlee County]] Supervisor<ref name="JuanBipartisan"/>
+*David Gomez, [[Greenlee County, Arizona|Greenlee County]] Supervisor ''(Democrat)''<ref name="JuanBipartisan"/>
+*Will Wearne, [[Greenlee County, Arizona|Greenlee County]] Supervisor ''(Independent)''<ref name="JuanBipartisan"/>}}
+
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Log Cabin Republicans]]<ref name="LCR">{{cite web |title=Log Cabin Republicans PAC Announces Second Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-second-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=August 8, 2026 |date=April 14, 2026}}</ref>
+*[[Republican Jewish Coalition]]<ref name="RJC1">{{cite web |last1=Bakich |first1=Grayson |title=Republican Jewish Coalition Endorses 16 Congressmen in 2026 Midterms |url=https://floridianpress.com/2026/03/republican-jewish-coalition-endorses-16-congressmen-in-2026-midterms/ |website=The Floridian |access-date=March 13, 2026 |date=March 12, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Juan Ciscomani (R)
+|$6,172,867
+|$2,274,265
+|$4,135,163
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House – Arizona 6th |url=https://www.fec.gov/data/elections/house/AZ/06/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Juan Ciscomani]] (incumbent)|votes=76,481|percentage=100.0}}
+{{Election box total no change|votes=76,481|percentage=100.0}}
+{{Election box end}}
+
+=== Democratic primary ===
+==== Nominee ====
+*JoAnna Mendoza, former veteran services representative for U.S. Representative [[Tom O'Halleran]]<ref>{{cite news |author=Gersony, Laura |work=[[The Arizona Republic]] |url=https://www.azcentral.com/story/news/politics/elections/2025/02/12/rep-juan-ciscomani-draws-an-early-democratic-challenger/78431202007/ |date=February 12, 2025 |title=Rep. Juan Ciscomani draws an early Democratic challenger for congressional seat |access-date=February 12, 2025 |language=en}}</ref>
+
+==== Withdrawn ==== 
+*Johnathan Buma, former [[FBI]] agent<ref name=leaveone>{{cite news |last1=Holloway |first1=Matthew |title=Severson And Buma Withdraw From CD6 Race, Leaving Ciscomani With One Democrat Challenger |url=https://azfreenews.com/2026/01/severson-and-buma-withdraw-from-cd6-race-leaving-ciscomani-with-one-democrat-challenger/ |access-date=January 17, 2026 |work=AZ Free News |date=January 7, 2026 |language=en}}</ref>
+*Chris Donat, mechanical engineer<ref>{{cite web|url=https://gilavalleycentral.net/donat-cites-financial-realities-in-leaving-race-for-congress/|title=Donat cites 'financial realities' in leaving race for Congress|last=Bell|first=David|date=September 9, 2025|access-date=September 11, 2025|website=[[KXKQ]]}}</ref>
+*Mo Goldman, immigration attorney ''(endorsed Mendoza)''<ref>{{cite news |access-date=August 16, 2025 |author=Bartsch, Jillian |url=https://www.kvoa.com/news/local/mo-goldman-withdraws-from-the-race-in-arizona-s-6th-congressional-district/article_cfd8dabc-73bc-4cb2-8147-c00bbfbd1a55.html |work=[[KVOA]] |date=August 13, 2025 |title=Mo Goldman withdraws from the race in Arizona's 6th Congressional District}}</ref>
+*Samantha Severson, faculty member at the [[University of Arizona Global Campus]]<ref name=leaveone/>
+*Aiden Swallow, theater performer ''([[2026 Arizona House of Representatives election|running for state house]])''<ref>{{cite news |last1=Hickman |first1=Matt |title=Swallow exits CD-6 primary; will run for LD-19 House seat instead |url=https://www.myheraldreview.com/news/cochise_county/swallow-exits-cd-6-primary-will-run-for-ld-19-house-seat-instead/article_ce247537-8da0-449a-a7d1-cc4d37bf232f.html |access-date=July 22, 2025 |work=Herald/Review Media |date=July 22, 2025 |language=en}}</ref>
+
+==== Declined ==== 
+*[[Kirsten Engel]], former [[Arizona Senate|state senator]] from the [[Arizona's 10th legislative district|10th district]] (2021) and nominee for this district in [[2022 United States House of Representatives elections in Arizona#District 6|2022]] and [[2024 United States House of Representatives elections in Arizona#District 6|2024]]<ref name=outburst>{{cite news |work=The Downballot |access-date=February 26, 2025 |date=February 26, 2025 |author1=Nir, David |author2=Singer, Jeff |url=https://www.the-downballot.com/i/157927576/arizona |title=Morning Digest: 13-term Democrat could face primary after outburst at constituents}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=JoAnna Mendoza
+|colwidth=20em
+|width=60em
+|list=
+'''Executive branch officials'''
+*[[Patrick Murphy (Pennsylvania politician)|Patrick Murphy]], former [[United States Under Secretary of the Army|under secretary of the army]] (2016–2017)<ref name="EndTrack"/>
+*[[Maura Sullivan]], former [[Assistant to the Secretary of Defense for Public Affairs|assistant to the secretary of defense for public affairs]] (2015)<ref>{{cite web|url=https://www.insidernj.com/press-release/four-female-veterans-running-for-congress-launch-the-hell-cats/|title=Four Female Veterans Running for Congress Launch: "The Hell Cats"|date=November 12, 2025|access-date=November 13, 2025}}</ref>
+
+'''U.S. senators'''
+*[[Ruben Gallego]], [[Arizona]] (2025–present)<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-democrats-have-a-wide|title=Morning Digest: Democrats have a wide spending edge in the battle for Pennsylvania's Supreme Court|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=September 29, 2025|access-date=September 29, 2025}}</ref>
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="Kelly Mendoza">{{cite web|url=https://www.the-downballot.com/p/morning-digest-an-indicted-election|title=Morning Digest: An indicted election denier wants to be Michigan's top law enforcement official—again|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=August 15, 2025|access-date=August 16, 2025}}</ref>
+
+'''U.S. representatives'''
+*[[Ron Barber]], former [[AZ-02]] (2012–2015)<ref name="EndTrack"/>
+*[[Jason Crow]], [[CO-06]] (2019–present)<ref name="EndTrack"/>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC"/>
+*[[Chris Deluzio]], [[Pennsylvania's 17th congressional district|PA-17]] (2023–present)<ref name="EndTrack"/>
+*[[Gabby Giffords]], former [[Arizona's 8th congressional district|AZ-08]] (2007–2012)<ref name="Kelly Mendoza"/>
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name="EndTrack"/>
+*[[Seth Moulton]], [[MA-06]] (2015–present)<ref name="EndTrack"/>
+*[[Tom O'Halleran]], former [[AZ-01]] (2017–2023)<ref name="EndTrack"/>
+*[[Emily Randall]], [[WA-06]] (2025–present)<ref name="EndTrack"/>
+*[[Max Rose]], former [[New York's 11th congressional district|NY-11]] (2019–2021)<ref name="Vets">{{cite web |title=VoteVets PAC Endorses JoAnna Mendoza for Congress |date=May 28, 2025 |url=https://votevets.org/press-releases/votevets-pac-endorses-joanna-mendoza-for-congress |access-date=May 29, 2025 |language=en}}</ref>
+*[[Linda Sánchez]], [[California's 38th congressional district|CA-38]] (2003–present)<ref name="BOLD 6th">{{cite web |last1=Sánchez |first1=Linda |title=BOLD PAC Endorses JoAnna Mendoza for Arizona's 6th Congressional District |url=https://www.boldpac.com/bold-pac-endorses-joanna-mendoza-for-arizonas-6th-congressional-district |publisher=CHC BOLD PAC |access-date=May 23, 2025 |date=April 21, 2025}}</ref>
+*[[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="EndTrack"/>
+*[[Mark Takano]], [[California's 39th congressional district|CA-39]] (2013–present)<ref name="Equality">{{Cite web |last=WordPress |date=June 3, 2025 |title=To Kick Off Pride Month, Equality PAC Endorses Three House Candidates for 2026 Midterm Elections |url=https://lgbtequalitypac.org/to-kick-off-pride-month-equality-pac-endorses-three-house-candidates-for-2026-midterm-elections/ |access-date=June 13, 2025 |publisher=Equality PAC |language=en-US}}</ref>
+*[[Ritchie Torres]], [[New York's 15th congressional district|NY-15]] (2021–present)<ref name="Equality"/>
+
+'''Labor unions'''
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=2026-10-27}}</ref>
+
+'''Organizations'''
+*[[Congressional Hispanic Caucus#CHC BOLD PAC|Congressional Hispanic Caucus BOLD PAC]]<ref name="BOLD 6th"/>
+*[[Congressional Equality Caucus#Equality PAC|Equality PAC]]<ref name="Equality"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Democrats for Education Reform]]<ref name="DFER"/>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=November 24, 2025}}</ref>
+*[[EMILYs List]]<ref>{{cite web |last1=Mackler |first1=Jessica |title=EMILYs List Endorses JoAnna Mendoza For Election to Arizona's 6th Congressional District |url=https://emilyslist.org/news/emilys-list-endorses-joanna-mendoza-for-election-to-arizonas-6th-congressional-district/ |website=EMILYs List |access-date=July 31, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses JoAnna Mendoza for Arizona's 6th Congressional District |url=https://www.endcitizensunited.org/end-citizens-united-endorses-joanna-mendoza-for-arizonas-6th-congressional-district |website=endcitizensunited.org |date=April 28, 2026 |access-date=May 1, 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Giffords PAC endorses JoAnna Mendoza for Congress in AZ-06 |url=https://giffords.org/press-release/2025/08/giffords-pac-endorses-joanna-mendoza-for-congress-in-az-06/ |website=giffords.org |date=August 14, 2025 |access-date=September 8, 2025}}</ref>
+*[[Human Rights Campaign]]<ref name=HRC/>
+*[[J Street]]<ref>{{cite web |title=JoAnna Mendoza |url=https://jstreetpac.org/candidate/joanna-mendoza/ |website=J Street PAC |access-date=November 24, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=March 24, 2026}}</ref>
+*[[Latino Victory]] Fund<ref name="latinovictory.org"/>
+*[[League of Conservation Voters]] Action Fund<ref name=LCV/>
+*[[LGBTQ+ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-joanna-mendoza-kevin-morrison-jeremy-moss-for-the-u-s-house-2025-candidates/|title=LGBTQ+ Victory Fund Endorses JoAnna Mendoza, Kevin Morrison, Jeremy Moss for the U.S. House & 2025 Candidates|date=July 1, 2025|access-date=July 20, 2025}}</ref>
+*[[LPAC]]<ref>{{cite web |last1=Perez |first1=Janelle |title=LPAC Endorses 19 Congressional, State and Local History-Making Candidates |url=https://www.teamlpac.com/the-latest/lpac-endorses-19-congressional-state-and-local-history-making-candidates |publisher=LPAC |access-date=March 30, 2025 |date=March 12, 2025}}</ref>
+*[[National Women's Political Caucus]]<ref name="nwpc.org" />
+*[[New Democrat Coalition]]<ref>{{cite web |last1=Bianco |first1=Ali |title=Playbook PM: Shutdown countdown ticks on |url=https://www.politico.com/newsletters/playbook-pm/2025/09/26/shutdown-countdown-ticks-on-00582732 |website=[[Politico]] |access-date=September 28, 2025 |date=September 26, 2025 |quote=Endorsement watch: The New Democrat Coalition Action Fund is throwing its support behind two candidates looking to flip battleground seats next year: JoAnna Mendoza in Arizona's 6th Congressional District and Paige Cognetti in Pennsylvania's 8th.}}</ref>
+*[[PODER PAC]]<ref>{{cite web |last1=Duran |first1=Ingrid |last2=Pino |first2=Catherine |title=Poder PAC Endorses JoAnna Mendoza for Congress in AZ-06 |url=https://www.poderpac.com/_files/ugd/c838c1_8ff81f681c1b48158ce87b3f6ed5bcd8.pdf |publisher=Poder PAC |access-date=May 23, 2025 |date=March 11, 2025}}</ref>
+*[[Population Connection]]<ref name=PC/>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses JoAnna Mendoza in AZ-06 Election Against Representative Juan Ciscomani |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-joanna-mendoza-in-az-06-election-against-representative-juan-ciscomani/ |website=Reproductive Freedom for All |access-date=November 17, 2025 |date=November 13, 2025}}</ref>
+*[[Stonewall Democratic Club]]<ref>{{Cite web |url=https://www.stonewalldems.org/endorsed_candidates |title=2026 November Stonewall Endorsed Candidates |work=[[Stonewall Democratic Club]] |language=en-US |access-date=January 26, 2026 |archive-date=January 26, 2026 |url-status=live |archive-url=https://web.archive.org/web/20260126125609/https://www.stonewalldems.org/endorsed_candidates}}</ref>
+*[[Vote Mama]]<ref>{{cite web |title=Vote Mama PAC {{!}} Candidates |url=https://www.votemamapac.org/candidates |publisher=Vote Mama PAC |access-date=May 23, 2025 |language=en}}</ref>
+*[[Vote Vets]]<ref name="Vets"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|JoAnna Mendoza (D)
+|$7,354,599
+|$4,093,848
+|$3,260,752
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=JoAnna Mendoza|votes=78,310|percentage=100.0}}
+{{Election box total no change|votes=78,310|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+*Jereme Peters<ref name=filing/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Libertarian}}|Jereme Peters (L)
+|$10,500
+|$10,500
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|party=Libertarian Party (United States)|candidate=Jereme Peters|votes=277|percentage=100.0}}
+{{Election box total no change|votes=277|percentage=100.0}}
+{{Election box end}}
+
+===Green primary===
+====Nominee====
+*Gary Swing ''(write-in)''<ref name=filing/>
+
+====Endorsements====
+{{Endorsements box
+| title= Gary Swing
+| list=
+'''Political parties'''
+*[[Green Party of Arizona]]<ref>{{cite web |title=Arizona Green Party Endorses Candidates, Opposes Others in 2026 Primary |url=https://independentpoliticalreport.com/2026/06/arizona-green-party-endorses-candidates-opposes-others-in-2026-primary/|website=Independent Political Report|access-date=June 20, 2026|date=June 14, 2026|last=Evans|first=Jordan Willow}}</ref>
+}}
+
+==== Results ====
+{{Election box begin no change|title=Green primary results}}
+{{Election box winning candidate with party link no change|party=Green Party of the United States|candidate=Gary Swing ''(write-in)''|votes=29|percentage=100.0}}
+{{Election box total no change|votes=29|percentage=100.0}}
+{{Election box end}}
+
+===No Labels primary===
+====Disqualified====
+*Iman Bah<ref name=filing/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Iman Bah (I)
+|$195
+|$75
+|$225
+|-
+|{{party shading/Independent}}|Trevor Dickerson (I){{Efn|As last reported on September 30, 2025}}
+|$19,352
+|$13,277
+|$5,576
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D|flip}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Lean|D|flip}}
+|October 23, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tilt|D|flip}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Lean|D|flip}}
+|October 20, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Likely|D|flip}}
+|October 24, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Likely|D|flip|}}
+|October 22, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Juan Ciscomani (R)
+|list=
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref name="NRA" />
+}}
+
+{{Endorsements box
+|title=JoAnna Mendoza (D)
+|list=
+'''U.S. representatives'''
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-six-new-candidates-built-to-win-in-competitive-districts/|title=Blue Dog PAC Endorses Six New Candidates Built to Win in Competitive Districts|date=August 11, 2026|access-date=August 15, 2026}}</ref>
+
+'''Statewide officials'''
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref>{{Cite web|url=https://newjerseyglobe.com/governor/sherrill-backs-moulton-over-markey-in-massachusetts-senate-primary/|title=Sherrill backs Moulton over Markey in Massachusetts Senate primary|date=August 6, 2026|access-date=August 6, 2026|last=Wildstein|first=David|website=[[New Jersey Globe]]}}</ref>
+
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+
+'''Organizations'''
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Juan Ciscomani (R)
+|$7,649,794
+|$7,267,656
+|$618,699
+|-
+|{{party shading/Democratic}}|JoAnna Mendoza (D)
+|$11,242,473
+|$10,434,574
+|$807,899
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+==== Polling ====
+'''Juan Ciscomani vs. JoAnna Mendoza'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name=Key}}
+! Margin<br/>of error
+! style="width:100px;" |Juan<br/>Ciscomani (R)
+! style="width:100px;" |JoAnna<br/>Mendoza (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Normington Petts (D)<ref>{{cite tweet |last1=Svitek |first1=Patrick |title=New #AZ06 poll from House Majority PAC (D): JoAnna Mendoza (D) 47 Juan Ciscomani (inc.) (R) 45 Undecided 8 (Normington, Petts & Associates; June 8–11; 500 LVs; +/-4.4%) |user=PatrickSvitek |number=2069048167102898458 |access-date=June 23, 2026}}</ref>{{Efn-ua|Poll sponsored by [[House Majority PAC]], which supports Democratic candidates}}
+|June 8–11, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|45%
+|{{party shading/Democratic}}|'''47%'''
+|—
+|8%
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026">{{cite web|url=https://punchbowl.news/article/campaigns/bad-gop-polls/|title=Bad new polls for House Republicans|first1=Ally|last1=Mutnick|first2=Jake|last2=Sherman|website=[[Punchbowl News]]|date=April 29, 2026|access-date=April 29, 2026}}</ref>{{efn-ua|name=CFA|Poll commissioned by Conservatives For America, an organization linked to the [[Republican Study Committee]]}}
+|March 12–14, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|44%
+|{{party shading/Democratic}}|'''47%'''
+|—
+|9%
+|-
+| style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://www.politico.com/f/?id=00000199-fd60-dc69-abd9-fff2ed910000|title= Arizona CD 6 Survey Results|work=[[Public Policy Polling]]|date=October 20, 2025|access-date=October 20, 2025|via=''[[Politico]]''}}</ref>{{efn-ua|name=HMPAC|Poll commissioned by the [[House Majority PAC]], which supports Mendoza}}
+|October 14–15, 2025
+|581 (LV)
+|–
+|41%
+|{{party shading/Democratic}}|'''42%'''
+|—
+|17%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Generic Republican vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;" |Generic<br/>Republican
+! style="width:100px;" |Generic<br/>Democrat
+! Undecided
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026"/>{{efn-ua|name=CFA}}
+|March 12–14, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|42%
+|{{party shading/Democratic}}|'''43%'''
+|15%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 6th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Juan Ciscomani]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = JoAnna Mendoza
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Jereme Peters
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Green Party (United States)
+  |candidate  = Gary Swing
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Arizona's 7th congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2025 Arizona's 7th congressional district special election
+| previous_year = 2025 (special)
+| next_election = 2028 United States House of Representatives elections in Arizona#District 7
+| next_year = 2028
+| image1 = Rep. Adelita Grijalva Official Portrait.jpg
+| nominee1 = [[Adelita Grijalva]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Daniel Butierez by Gage Skidmore.jpg
+| nominee2 = Daniel Butierez
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 7th congressional district election results map by county.svg|300px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Adelita Grijalva]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 7th congressional district}}
+The 7th district is majority-Hispanic and covers most of the [[Mexico–United States border]] in Arizona, including parts of [[Tucson, Arizona|Tucson]] and [[Yuma, Arizona|Yuma]]. The incumbent is Democrat [[Adelita Grijalva]], who was elected with 68.9% of the vote in [[2025 Arizona's 7th congressional district special election|a special election]] to finish the term of her father, Democrat [[Raúl Grijalva]], who died in office on March 13, 2025.<ref name=grijalva>{{cite news |title=Rep. Raul Grijalva dies at 77 following cancer battle |url=https://www.kold.com/2025/03/13/rep-raul-grijalva-dies-77/ |access-date=March 13, 2025 |publisher=[[KOLD-TV]] |date=March 13, 2025 |author=Romo, Renee |language=en}}</ref> The younger Grijalva announced her intentions to run for election to a full term in 2026.<ref name="adelita">{{cite news |last=Garrett |first=Major |author-link=Major Garrett |title=Rep.-elect Adelita Grijalva on winning Arizona special election, when she expects to be sworn in |url=https://www.cbsnews.com/video/adelita-grijalva-house-swearing-in-ceremony-depends-speaker-mike-johnson/ |website=[[CBS News]] |date=September 24, 2025 |access-date=September 25, 2025 |quote=Grijalva: Yes, i'm going to run for reelection. |language=en}}</ref>
+
+===Democratic primary===
+==== Nominee ====
+*[[Adelita Grijalva]], incumbent U.S. representative<ref name="adelita"/>
+
+==== Endorsements ====
+{{endorsements box
+|title=Adelita Grijalva
+|list=
+'''Labor unions'''
+*[[National Education Association]]<ref name="NEA" />
+
+'''Organizations'''
+*[[Council on American-Islamic Relations|CAIR Action]]<ref name="CAIR"/>
+*[[Emily's List]]<ref>{{cite web |title=Adelita Grijalva |url=https://emilyslist.org/candidate/adelita-grijalva/ |website=Emily's List |access-date=November 24, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United, 2026 Endorsements |url=https://www.endcitizensunited.org/endorsements# |website=End Citizens United |access-date=October 23, 2025 |language=en}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Adelita Grijalva |url=https://giffords.org/candidates/adelita-grijalva-2/ |website=giffords.org |date=June 24, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Adelita Grijalva |url=https://jstreetpac.org/candidate/adelita-grijalva/ |website=JStreetPAC |access-date=November 23, 2025}}</ref>
+*[[League of Conservation Voters]]<ref name=LCV/>
+* [[Our Revolution]]<ref>{{cite web | title=Adelita Grijalva for Congress in AZ-07| url=https://ourrevolution.com/adelita-grijalva-for-congress-in-az-07/| website=Our Revolution|access-date=May 24, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]]<ref name=PC/>
+*[[Progressive Democrats of America]]<ref name="PDA"/>
+*[[Reproductive Freedom for All]]<ref name="RFFAPrimary"/>
+*[[Track AIPAC]]<ref name="Tracker"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Adelita Grijalva (D)
+|$2,285,639
+|$1,857,663
+|$427,977
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House – Arizona 7th |url=https://www.fec.gov/data/elections/house/AZ/07/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Adelita Grijalva]] (incumbent)|votes=59,304|percentage=100.0}}
+{{Election box total no change|votes=59,304|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Daniel Butierez, painting contractor and nominee for this district in [[2024 United States House of Representatives elections in Arizona#District 7|2024]] and [[2025 Arizona's 7th congressional district special election|2025]]<ref name=filing/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Daniel Butierez (R)
+|$224,367{{Efn|$175,207 was self funded}}
+|$213,560
+|$11,399
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Daniel Butierez|votes=21,934|percentage=100.0}}
+{{Election box total no change|votes=21,934|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|July 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Adelita Grijalva (D)
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+
+'''Organizations'''
+*[[National Women's Political Caucus]]<ref name="nwpc.org" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Adelita Grijalva (D)
+|$2,509,134
+|$2,039,746
+|$469,388
+|-
+|{{party shading/Republican}}|Daniel Butierez (R)
+|$232,232
+|$220,426
+|$12,399
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 7th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Adelita Grijalva]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Daniel Butierez
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Arizona's 8th congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 8
+| next_year = 2028
+| image1 = Abraham Hamadeh 119th congress (cropped).jpg
+| nominee1 = [[Abraham Hamadeh]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 =
+| nominee2 = Bernadette Greene-Placentia
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 8th congressional district election results map by county.svg|150px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Abraham Hamadeh]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 8th congressional district}}
+The 8th district is based in the northern and western suburbs of [[Phoenix, Arizona|Phoenix]], including northern [[Glendale, Arizona|Glendale]] and [[Peoria, Arizona|Peoria]]. The incumbent is Republican [[Abraham Hamadeh]], who was elected in 2024 with 56.5% of the vote.<ref name="HPVT" />
+
+===Republican primary===
+====Nominee====
+*[[Abraham Hamadeh]], incumbent U.S. representative<ref name="AZrunning"/>
+
+====Endorsements====
+{{endorsements box
+|title=Abraham Hamadeh
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], [[List of presidents of the United States|45th and 47th]] [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Nitzberg |first1=Alex |title= Trump endorses House freshman for reelection less than six months into the lawmaker's congressional tenure |url= https://www.foxnews.com/politics/trump-endorses-house-freshman-reelection-less-than-six-months-lawmakers-congressional-tenure |work=[[Fox News]] |date=April 29, 2025}}</ref>
+
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Republicans for National Renewal]]<ref>{{cite web |title=Endorsement Archives |url=https://rnrenewal.org/tag/endorsement/ |website=Republicans for National Renewal |access-date=November 25, 2025}}</ref>
+*[[Turning Point Action]]<ref name="TPUSA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Abraham Hamadeh (R)
+|$1,206,361
+|$858,585
+|$384,185
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House – Arizona 8th |url=https://www.fec.gov/data/elections/house/AZ/08/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Abraham Hamadeh]] (incumbent)|votes=69,182|percentage=100.0}}
+{{Election box total no change|votes=69,182|percentage=100.0}}
+{{Election box end}}
+
+=== Democratic primary ===
+====Nominee====
+*Bernadette Greene-Placentia, truck driver<ref>{{cite web |last1=Oyer |first1=Carsten |title=Tour seeks to mobilize Democrats against Arizona Republican representatives |url=https://www.statepress.com/article/2025/08/politics-wont-back-down-tour-phoenix |access-date=November 22, 2025 |work=[[The State Press]] |date=August 4, 2025 |quote=Bernadette Greene-Placentia — a Democrat running to unseat Rep. Abraham Hamadeh of Arizona's 8th Congressional District}}</ref>
+
+====Eliminated in primary====
+*Raymond Keeler, software engineer and veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1932341 |url=https://docquery.fec.gov/cgi-bin/forms/H6AZ08269/1932341 |access-date=January 13, 2026 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Bernadette Greene-Placentia (D){{Efn|As last reported on March 31, 2026}}
+|$209,358
+|$17,589
+|$190,394
+|-
+|{{party shading/Democratic}}|Raymond Keeler (D)
+|$39,356
+|$40,863
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona's 8th congressional district Democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+|-
+! scope="col" | Bernadette Greene-Placentia
+! scope="col" | Raymond Keeler
+|-
+! 1
+| style="white-space:nowrap;" | June 15, 2026<ref>{{cite web
+ |last=Wong
+ |first=Kenneth
+ |title=2026 Election: Arizona Congressional District 8 Democratic candidates debate
+ |url=https://www.fox10phoenix.com/news/2026-election-arizona-congressional-district-8-democratic-candidates-debate
+ |website=FOX 10 Phoenix
+ |date=June 15, 2026
+ |access-date=July 22, 2026
+}}</ref>
+| style="white-space:nowrap;" | Arizona Citizens Clean Elections Commission<br />Arizona Media Association
+| style="white-space:nowrap;" | Danielle Lerner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=K_XhP4pkY0E YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Bernadette Greene-Placentia|votes=31,312|percentage=65.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Raymond Keeler|votes=16,324|percentage=34.3}}
+{{Election box total no change|votes=47,636|percentage=100.0}}
+{{Election box end}}
+
+===No Labels primary===
+====Withdrawn====
+*Jessie Martines, veteran<ref name=filing/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|July 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Likely|R}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Likely|R|}}
+|October 22, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Abraham Hamadeh (R)
+|list=
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref name="NRA" />
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-abe-hamadeh-for-arizonas-eighth-district|title=U.S. Chamber Endorses Rep. Abe Hamadeh for Arizona's Eighth District|date=September 29, 2026|access-date=October 2, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Bernadette Greene-Placentia (D)
+|list=
+'''Labor unions'''
+*Arizona [[AFL-CIO]]<ref name="AFLCIO"/>
+
+'''Organizations'''
+*[[National Women's Political Caucus]]<ref name="nwpc.org" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Abraham Hamadeh (R)
+|$1,359,849
+|$1,258,373
+|$137,885
+|-
+|{{party shading/Democratic}}|Bernadette Greene-Placentia (D)
+|$236,528
+|$23,341
+|$21,841
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 8th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Abraham Hamadeh]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Bernadette Greene-Placentia
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 9==
+{{Infobox election
+| election_name = 2026 Arizona's 9th congressional district election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arizona#District 9
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arizona#District 9
+| next_year = 2028
+| image1 = Paul Gosar 118th Congress portrait.jpg
+| nominee1 = [[Paul Gosar]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Danielle Sterbinsky
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{switcher
+|[[File:2026 Arizona's 9th congressional district election results map by county.svg|130px]]
+|County results
+}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Paul Gosar]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arizona's 9th congressional district}}
+The 9th district encompasses much of western Arizona, including portions of [[Yuma, Arizona|Yuma]] and western [[Maricopa County, Arizona|Maricopa County]]. The incumbent is Republican [[Paul Gosar]], who was reelected with 65.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Paul Gosar]], incumbent U.S. representative<ref>{{cite news |last1=Murray |first1=Stephanie |title=Rep. Paul Gosar says he is running for 8th House term to fight for Trump agenda |url=https://www.azcentral.com/story/news/politics/elections/2025/02/21/paul-gosar-announces-reelection-campaign/79127637007/ |access-date=February 21, 2025 |work=[[The Arizona Republic]] |date=February 21, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Paul Gosar
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], [[List of presidents of the United States|45th and 47th]] [[president of the United States]] (2017–2021, 2025–present)<ref name=Ball>{{cite web |title=U.S. House election endorsements |url=https://ballotpedia.org/U.S._House_election_endorsements |website=Ballotpedia |access-date=October 24, 2025 |language=en}}</ref>
+
+'''Organizations'''
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-paul-gosar-for-az-09/|title=Freedom Caucus Fund Endorses Paul Gosar for AZ-09|date=June 26, 2026|access-date=September 15, 2026}}</ref>
+*[[Turning Point Action]]<ref name="TPUSA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Paul Gosar (R)
+|$580,043
+|$368,426
+|$303,214
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9">{{cite web |title=2026 Election United States House – Arizona 9th |url=https://www.fec.gov/data/elections/house/AZ/09/2026/ |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Paul Gosar]] (incumbent)|votes=79,336|percentage=100.0}}
+{{Election box total no change|votes=79,336|percentage=100.0}}
+{{Election box end}}
+
+=== Democratic primary ===
+==== Nominee ====
+*Danielle Sterbinsky, [[U.S. Navy]] veteran<ref>{{cite news |title=Democrat group in Surprise to hear from local election candidates |url=https://www.yourvalley.net/surprise-independent/stories/election-candidates-to-talk-to-local-democrat-group-in-surprise,603101 |access-date=November 22, 2025 |website=YourValley.net |date=August 16, 2025 |quote=Sterbinsky is a Navy-veteran and mom, who is seeking to unseat Republican incumbent Paul Gosar.}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Danielle Sterbinsky (D)
+|$354,383
+|$332,316
+|$25,745
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Danielle Sterbinsky|votes=35,700|percentage=100.0}}
+{{Election box total no change|votes=35,700|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|July 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|R}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Paul Gosar (R)
+|list=
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref name="NRA" />
+}}{{Endorsements box|title=Dani Sterbinsky (D)|list=;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref>{{Cite web|url=https://www.forwardparty.com/media/press_release/forward-party-endorses-u-s-house-candidates-dani-sterbinsky-in-arizona-and-caitlin-rourk-in-texas/|title=Forward Party Endorses U.S. House Candidates Dani Sterbinsky in Arizona and Caitlin Rourk in Texas|date=October 13, 2026|access-date=October 13, 2026|website=forwardparty.com}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Paul Gosar (R)
+|$764,144
+|$536,769
+|$318,972
+|-
+|{{party shading/Democratic}}|Danielle Sterbinsky (D)
+|$437,021
+|$411,224
+|$29,475
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arizona's 9th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Paul Gosar]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Danielle Sterbinsky
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+'''Official campaign websites for 1st district candidates'''
+*[https://monicaalponteaz.com/ Monica Alponte (L)]
+*[https://www.jayfeelyforcongress.com/ Jay Feely (R)]
+*[https://www.amishforarizona.com/ Amish Shah (D)]
+
+'''Official campaign websites for 2nd district candidates'''
+*[https://eliforarizona.com/ Eli Crane (R)]
+*[https://www.jonathannezforaz.com/ Jonathan Nez (D)]
+
+'''Official campaign websites for 3rd district candidates'''
+*[https://yassaminforcongress.com/ Yassamin Ansari (D)]
+*[https://aversa.vote/ Alan Aversa (AIP)]
+*[https://www.davidredkey4congress.com/ David Redkey (G)]
+
+'''Official campaign websites for 4th district candidates'''
+*[https://tishabenoit.com/ Tisha Benoit (AIP)]
+*[https://zuhdijasser.com/ Zuhdi Jasser (R)]
+*[https://www.stantonforarizona.com/ Greg Stanton (D)]
+
+'''Official campaign websites for 5th district candidates'''
+*[https://marklamb.us/ Mark Lamb (R)]
+*[https://www.nurselee4az.com/ Elizabeth Lee (D)]
+
+'''Official campaign websites for 6th district candidates'''
+*[https://www.imanbah.com/ Iman Bah (AIP)]
+*[https://juanciscomani.com/ Juan Ciscomani (R)]
+*[https://www.joannamendoza.com/ JoAnna Mendoza (D)]
+
+'''Official campaign websites for 7th district candidates'''
+*[https://butierezforcongress.com/ Daniel Butierez (R)]
+*[https://www.adelitaforcongress.com/ Adelita Grijalva (D)]
+
+'''Official campaign websites for 8th district candidates'''
+*[https://www.bgp4az.com/ Bernadette Greene-Placentia (D)]
+*[https://www.abeforaz.com/ Abe Hamadeh (R)]
+
+'''Official campaign websites for 9th district candidates'''
+*[https://drpaulgosar.com/ Paul Gosar (R)]
+*[https://www.sterbinskyforcongress.com/ Danielle Sterbinsky (D)]
+{{div col end}}
+{{2026 United States elections}}
+{{Elections in Arizona footer}}
+
+[[Category:United States House of Representatives elections in Arizona|2026]]
+[[Category:2026 elections in Arizona|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Arizona]]

@@ -1,0 +1,12 @@
+[project]
+name = "election-forecast-2026"
+version = "1.0.0"
+description = "Reproducible 2026 U.S. Senate and House forecast: polls + fundamentals + ratings, correlated simulation, daily refresh"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=1.26", "pandas>=2.1", "scipy>=1.11", "requests>=2.31",
+  "marimo>=0.25", "altair>=5",
+]
+
+[tool.setuptools]
+packages = ["forecast"]

@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026 Senate &amp; House forecast by state</title>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<style>
+:root {
+  --font-anthropic-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-anthropic-serif: Georgia, "Times New Roman", serif;
+  --color-fg: #1f1e1c; --color-fg-muted: #6b6862; --color-bg: #ffffff; --color-panel: #faf9f7; --color-border-line: #e6e3de;
+  --color-ok: #2f7d4f; --color-warn: #a86b12; --color-bad: #b42318;
+  --cds-font-size-caption: 0.8125rem; --cds-font-size-body: 0.9375rem; --cds-font-size-heading: 1.0625rem; --cds-font-size-title: 1.75rem;
+  --cds-font-weight-medium: 550;
+  --cds-gap-xs: 4px; --cds-gap-sm: 8px; --cds-gap-md: 16px; --cds-gap-lg: 24px; --cds-gap-xl: 36px;
+  --cds-pad-xs: 4px; --cds-pad-sm: 8px; --cds-pad-md: 12px; --cds-pad-lg: 18px; --cds-pad-xl: 28px;
+  --cds-radius: 8px; --cds-dur-slow: 300ms;
+  --cds-chart-grid: #ece9e4; --cds-chart-axis: #c9c5be; --cds-chart-reference: #8a867f; --cds-chart-muted: #c9c5be;
+  --cds-surface-popover: #ffffff; --cds-border: #e6e3de; --cds-shadow-popover: 0 4px 16px rgba(0,0,0,.12); --cds-text-secondary: #6b6862;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --color-fg: #ecebe8; --color-fg-muted: #a5a29c; --color-bg: #1c1b1a; --color-panel: #242321; --color-border-line: #383633;
+    --cds-chart-grid: #33312e; --cds-chart-axis: #55524d; --cds-chart-reference: #8a867f; --cds-surface-popover: #2a2927; --cds-border: #383633; --cds-text-secondary: #a5a29c; }
+}
+body { margin: 0; background: var(--color-bg); color: var(--color-fg); }
+#dash-root { padding: var(--dash-gutter, 18px); }
+</style>
+<script>
+/* Minimal stand-in for the dashboard runtime: loads data/<id>.json and runs the page's drawings. */
+window.dash = (function () {
+  const ids = ["races", "chamber_summary", "seat_distribution", "national", "polls", "backtest", "calibration", "error_structure", "sensitivity", "history", "scenarios", "poll_misses"];
+  const store = {}, draws = {}, hooks = [];
+  ids.forEach((id) => { store[id] = { status: 'loading', data: [] }; });
+  const run = (name) => document.querySelectorAll('[data-draw="' + name + '"]').forEach((el) => {
+    try { draws[name](el); } catch (e) { console.error(name, e); }
+  });
+  const runAll = () => { hooks.forEach((f) => { try { f(); } catch (e) { console.error(e); } }); Object.keys(draws).forEach(run); };
+  const api = {
+    colors: ['#2563eb', '#b45309', '#059669', '#7c3aed', '#db2777', '#0891b2', '#65a30d', '#dc2626'],
+    data: (id) => store[id] || { status: 'missing', data: [] },
+    draw: (name, fn) => { if (fn) draws[name] = fn; if (draws[name]) run(name); },
+    onData: (fn) => { hooks.push(fn); fn(); },
+    setLink: (name) => { try { history.replaceState(null, '', '#' + name); } catch (e) {} },
+    params: () => ({}), setParams: () => {}, resetParams: () => {}, refresh: () => {}, calc: () => {}, loader: () => {},
+  };
+  const embedded = window.__FORECAST_DATA__;
+  if (embedded) { ids.forEach((id) => { store[id] = embedded[id] ? { status: 'ok', data: embedded[id] } : { status: 'missing', data: [] }; });
+    setTimeout(runAll, 0); return api; }
+  const v = Date.now();
+  Promise.all(ids.map((id) => fetch('data/' + id + '.json?v=' + v).then((r) => r.ok ? r.json() : Promise.reject(r.status))
+    .then((d) => { store[id] = { status: 'ok', data: d }; }).catch(() => { store[id] = { status: 'error', data: [] }; })))
+    .then(runAll);
+  let t; window.addEventListener('resize', () => { clearTimeout(t); t = setTimeout(runAll, 150); });
+  return api;
+})();
+</script>
+</head>
+<body>
+<div id="dash-root">
+<style>
+#dash-root { --dash-gutter: var(--cds-pad-lg); }
+.fc { max-width: 78rem; margin-inline: auto; font-family: var(--font-anthropic-sans); color: var(--color-fg); }
+.fc h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0 0 var(--cds-gap-xs); }
+.fc h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: var(--cds-gap-xl) 0 var(--cds-gap-sm); }
+.fc h3 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.fc p { margin: 0 0 var(--cds-gap-sm); line-height: 1.5; }
+.fc .muted { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.fc .take { font-size: var(--cds-font-size-body); max-width: 60rem; }
+.fc .take b, .fc .tile b { font-weight: 600; }
+.fc .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: var(--cds-gap-md); margin: var(--cds-gap-md) 0; }
+.fc .tile, .fc .card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); }
+.fc .tile .lab { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.fc .tile .big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; margin-top: var(--cds-gap-xs); }
+.fc .tile .sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-top: var(--cds-gap-xs); font-variant-numeric: tabular-nums; }
+.fc .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr)); gap: var(--cds-gap-md); }
+.fc .chart { position: relative; min-height: 220px; }
+.fc .tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; }
+.fc .tip .k { color: var(--cds-text-secondary); }
+.fc .controls { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); align-items: center; margin: var(--cds-gap-sm) 0 var(--cds-gap-md); }
+.fc .controls select, .fc .controls input[type=search] { font: inherit; font-size: var(--cds-font-size-body); padding: var(--cds-pad-xs) var(--cds-pad-sm); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); background: var(--color-bg); color: var(--color-fg); }
+.fc .seg { display: inline-flex; border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); overflow: hidden; }
+.fc .seg button { font: inherit; font-size: var(--cds-font-size-caption); padding: var(--cds-pad-xs) var(--cds-pad-sm); border: 0; background: var(--color-bg); color: var(--color-fg); cursor: pointer; }
+.fc .seg button[aria-pressed=true] { background: var(--color-fg); color: var(--color-bg); }
+.fc label.chk { font-size: var(--cds-font-size-caption); display: inline-flex; gap: var(--cds-gap-xs); align-items: center; }
+.fc .states { display: grid; gap: var(--cds-gap-md); }
+.fc .stcard h3 { display: flex; gap: var(--cds-gap-sm); align-items: baseline; flex-wrap: wrap; margin-bottom: var(--cds-gap-sm); }
+.fc .tbl { width: 100%; overflow-x: auto; }
+.fc table { border-collapse: collapse; width: 100%; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.fc th { text-align: left; font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+.fc td { padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: middle; }
+.fc td.num, .fc th.num { text-align: right; }
+.fc tbody tr.race { cursor: pointer; }
+.fc tbody tr.race:hover { background: color-mix(in srgb, var(--color-fg) 5%, transparent); }
+.fc tbody tr.race.sel { background: color-mix(in srgb, var(--color-fg) 9%, transparent); }
+.fc .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: var(--cds-font-size-caption); white-space: nowrap; }
+.fc .pD3 { background: rgba(37, 99, 235, .55); } .fc .pD2 { background: rgba(37, 99, 235, .35); } .fc .pD1 { background: rgba(37, 99, 235, .18); }
+.fc .pR3 { background: rgba(220, 38, 38, .55); } .fc .pR2 { background: rgba(220, 38, 38, .35); } .fc .pR1 { background: rgba(220, 38, 38, .18); }
+.fc .pT { background: rgba(160, 120, 20, .25); }
+.fc td.prob { min-width: 6.5rem; }
+.fc .detail { margin-top: var(--cds-gap-md); padding: var(--cds-pad-md); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); }
+.fc .kv { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); gap: var(--cds-gap-sm); margin: var(--cds-gap-sm) 0; }
+.fc .kv div { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.fc .kv span { display: block; color: var(--color-fg); font-size: var(--cds-font-size-body); font-variant-numeric: tabular-nums; }
+.fc .note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-top: var(--cds-gap-sm); }
+.fc .method p, .fc .method li { font-size: var(--cds-font-size-body); line-height: 1.55; }
+.fc .method ul { padding-left: 1.2rem; margin: 0 0 var(--cds-gap-sm); }
+.fc a { color: inherit; }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+</style>
+
+<div class="fc">
+  <header id="top">
+    <h1>2026 Senate &amp; House forecast by state</h1>
+    <p class="take">Democrats win the Senate in <b data-draw="takeSen" data-source="chamber_summary" data-field="dem_control_pct" data-where="chamber=Senate">—</b>% of simulations and the House in <b data-draw="takeHouse" data-source="chamber_summary" data-field="dem_control_pct" data-where="chamber=House">—</b>%. Built from polls, district and state partisanship, incumbency, candidate fundraising and published race ratings. Forecast as of <span data-draw="asof" data-source="chamber_summary" data-field="as_of" data-where="chamber=Senate">—</span>; Election Day is November 3, 2026.</p>
+  </header>
+
+  <section id="overview">
+    <div class="tiles">
+      <div class="tile"><div class="lab">Senate: Democratic control</div><div class="big"><span data-draw="senD" data-source="chamber_summary" data-field="dem_control_pct" data-where="chamber=Senate">—</span>%</div><div class="sub">51+ seats incl. King and Sanders</div></div>
+      <div class="tile"><div class="lab">Senate: Republican control</div><div class="big"><span data-draw="senR" data-source="chamber_summary" data-field="gop_control_pct" data-where="chamber=Senate">—</span>%</div><div class="sub">50+ seats, VP breaks ties</div></div>
+      <div class="tile"><div class="lab">Senate: Democratic seats, median</div><div class="big" data-draw="senMed" data-source="chamber_summary" data-field="dem_median" data-where="chamber=Senate">—</div><div class="sub">80% range <span data-draw="senLo" data-source="chamber_summary" data-field="dem_p10" data-where="chamber=Senate">—</span> to <span data-draw="senHi" data-source="chamber_summary" data-field="dem_p90" data-where="chamber=Senate">—</span></div></div>
+      <div class="tile"><div class="lab">House: Democratic control</div><div class="big"><span data-draw="houD" data-source="chamber_summary" data-field="dem_control_pct" data-where="chamber=House">—</span>%</div><div class="sub">218 seats needed</div></div>
+      <div class="tile"><div class="lab">House: Democratic seats, median</div><div class="big" data-draw="houMed" data-source="chamber_summary" data-field="dem_median" data-where="chamber=House">—</div><div class="sub">80% range <span data-draw="houLo" data-source="chamber_summary" data-field="dem_p10" data-where="chamber=House">—</span> to <span data-draw="houHi" data-source="chamber_summary" data-field="dem_p90" data-where="chamber=House">—</span></div></div>
+      <div class="tile"><div class="lab">Generic ballot average</div><div class="big" data-draw="gen" data-source="national" data-field="label" data-row="0">—</div><div class="sub">from <span data-draw="genN" data-source="national" data-field="polls" data-row="0">—</span> national polls</div></div>
+    </div>
+
+    <div class="grid2">
+      <div class="card" id="senate-dist">
+        <h3>Senate: how many seats Democrats end up with</h3>
+        <p class="muted">Share of 40,000 simulations by Democratic-caucus seats. Blue bars are Democratic majorities (51+). Independents Osborn, Achilles, Bengs and Bodnar are not counted, since none has said which party he would caucus with.</p>
+        <div class="chart" data-draw="distSenate" data-source="seat_distribution"></div>
+      </div>
+      <div class="card" id="house-dist">
+        <h3>House: how many seats Democrats end up with</h3>
+        <p class="muted">Share of 40,000 simulations by Democratic seats. Blue bars are Democratic majorities (218+).</p>
+        <div class="chart" data-draw="distHouse" data-source="seat_distribution"></div>
+      </div>
+    </div>
+
+    <div class="card" id="over-time" style="margin-top: var(--cds-gap-md)">
+      <h3>Forecast over time</h3>
+      <p class="muted">Chance of Democratic control on each day the forecast was run. Polls, ratings and fundraising are refreshed daily.</p>
+      <div class="chart" data-draw="history" data-source="history"></div>
+    </div>
+
+    <h2 id="polls-wrong">What if the polls are wrong?</h2>
+    <p class="muted">Every simulation above already includes a nationwide polling miss. Here the miss is fixed at a set size instead, to show what each size would mean. A miss moves every race the same way; misses by region, state and race are still simulated on top. Sizes are in margin points: "overstate Democrats by 3" means a race polled at D+2 ends up R+1.</p>
+    <div class="grid2">
+      <div class="card" id="scenario-chart">
+        <h3>Chance of Democratic control, by size of polling miss</h3>
+        <p class="muted">Right of zero, polls overstated Democrats (as in 2014, 2016, 2020, 2024); left of zero, they overstated Republicans (as in 2012, 2018).</p>
+        <div class="chart" data-draw="scenarioChart" data-source="scenarios"></div>
+      </div>
+      <div class="card" id="miss-history">
+        <h3>How far off the polls were in past elections</h3>
+        <p class="muted">Average miss of final poll averages across Senate, governor and House races. Red: Republicans did better than the polls; blue: Democrats did.</p>
+        <div class="chart" data-draw="missChart" data-source="poll_misses"></div>
+      </div>
+    </div>
+    <div class="card" style="margin-top: var(--cds-gap-md)">
+      <div class="tbl" data-draw="scenarioTable" data-source="scenarios"></div>
+      <p class="note">"Chance of a miss this big" is the model's own estimate of a miss at least that large in that direction: centred on the assumed lean toward Democrats, with the spread estimated from the 2010–2022 record (national layer in the table further down).</p>
+    </div>
+
+    <h2 id="closest">Closest races</h2>
+    <p class="muted">The 25 races nearest a coin flip. Click a race to open it in the state-by-state list below.</p>
+    <div class="card"><div class="tbl" data-draw="closest" data-source="races"></div></div>
+  </section>
+
+  <section id="by-state">
+    <h2>Every race, by state</h2>
+    <p class="muted">Click any race for its poll average, the inputs behind the projection, and every poll used. Margins are Democrat (or the leading independent) minus Republican; "D+3.0" means the Democrat is projected to win by 3 points.</p>
+    <div class="controls">
+      <select class="f-state" aria-label="State" data-draw="stateSelect" data-source="races"></select>
+      <span class="seg" role="group" aria-label="Chamber">
+        <button type="button" class="f-ch" data-ch="all" aria-pressed="true">Both chambers</button>
+        <button type="button" class="f-ch" data-ch="Senate" aria-pressed="false">Senate</button>
+        <button type="button" class="f-ch" data-ch="House" aria-pressed="false">House</button>
+      </span>
+      <label class="chk"><input type="checkbox" class="f-comp"> Competitive only (each side 5%+)</label>
+      <input type="search" class="f-q" placeholder="Search candidate or district" aria-label="Search">
+    </div>
+    <div class="states" data-draw="states" data-source="races polls"></div>
+  </section>
+
+  <section id="method" class="method">
+    <h2>How the forecast works</h2>
+    <div class="card">
+      <p>Each race gets three estimates of the final margin, which are averaged with weights set by how accurate each kind has been in past elections:</p>
+      <ul>
+        <li><b>Poll average.</b> Every published poll of the actual nominees, weighted by recency (two-week half-life), sample size, likely-voter screens and the pollster's historical accuracy grade, with no single pollster allowed to dominate. Each pollster's typical lean relative to other polls of the same races is measured and removed; polls paid for by a campaign or party group are discounted by 2 points and given half weight.</li>
+        <li><b>Fundamentals.</b> The seat's partisan lean (Cook PVI on the 2026 maps), incumbency, and the national generic-ballot average. For House seats it also uses each nominee's money raised from donors (FEC filings, self-funding excluded) and the incumbent's personal vote: how far they ran ahead of or behind their district in 2024, re-measured on the new lines. Fitted on 2018–2024 House results and FEC filings, tested by leaving each year out.</li>
+        <li><b>Expert and model ratings.</b> The average of up to 11 published ratings (Cook, Inside Elections, Sabato, The Economist, Split Ticket, Decision Desk HQ, FiftyPlusOne, Fox, Silver Bulletin, RealClearPolitics, NBC), converted to an implied margin. These carry about 10–30% of the weight and capture local knowledge (candidate quality, money) the polls and fundamentals miss.</li>
+      </ul>
+      <p>The forecast then simulates the election 40,000 times. Each simulation draws a nationwide polling miss (with fat tails for surprise years), a regional miss, a state miss and a race-specific miss, so races move together the way they do in real elections. The size of each layer was estimated by maximum likelihood from how 2010–2022 poll averages missed (table below). Win chances and seat counts are shares of those simulations.</p>
+      <p>The nationwide miss is not centred on zero. Polls overstated Democrats in 6 of the last 8 cycles, so every simulation assumes the polls overstate Democrats by <b data-draw="lean" data-source="national" data-field="value" data-row="1">—</b> points, the average miss in the four midterms since 2010. Without that assumption the forecast would be more favorable to Democrats (see the sensitivity table).</p>
+      <p>Two things were tested and dropped: a full Bayesian model fitting every poll jointly (it trusted individual polls too much and missed by more than the simpler weighted average), and a slower poll decay (no gain).</p>
+    </div>
+
+    <div class="grid2" style="margin-top: var(--cds-gap-md)">
+      <div class="card" id="backtest">
+        <h3>Backtest: average miss on past elections</h3>
+        <p class="muted">Root-mean-square error of the final margin in points, lower is better. Polls from FiveThirtyEight's archive of every poll in the last three weeks of each race.</p>
+        <div class="tbl" data-draw="backtest" data-source="backtest"></div>
+      </div>
+      <div class="card" id="sensitivity">
+        <h3>How much the choices matter</h3>
+        <p class="muted">The same forecast re-run with different settings. Control odds barely move.</p>
+        <div class="tbl" data-draw="sensitivity" data-source="sensitivity"></div>
+      </div>
+    </div>
+
+    <div class="grid2" style="margin-top: var(--cds-gap-md)">
+      <div class="card" id="calibration">
+        <h3>Are the win chances honest?</h3>
+        <p class="muted">The full House forecast re-run on every contested 2018–2022 race, with races grouped by the Democratic win chance it gave. A well-calibrated forecast's favorites win about as often as it says.</p>
+        <div class="tbl" data-draw="calibration" data-source="calibration"></div>
+      </div>
+      <div class="card" id="error-structure">
+        <h3>How polling misses are shared</h3>
+        <p class="muted">Typical size of each layer of polling error (standard deviation, margin points), estimated from 2010–2022 races. The shared layers are why one bad polling year can swing many seats at once.</p>
+        <div class="tbl" data-draw="errors" data-source="error_structure"></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top: var(--cds-gap-md)">
+      <h3>Limits to keep in mind</h3>
+      <ul>
+        <li>Most House districts have no public polls; their forecasts rest on partisanship, incumbency and ratings.</li>
+        <li>District polls are often released by campaigns. They are discounted, but a few strong internal polls can still move a race.</li>
+        <li>Fundraising, candidate scandals and late news enter only through the published ratings.</li>
+        <li>Maine and Alaska use ranked-choice voting; final-round poll numbers were used where published.</li>
+        <li>This is a statistical estimate, not a prediction of certainty: a 70% favorite loses about three times in ten.</li>
+      </ul>
+      <p class="note">Sources: Senate and generic-ballot polls as compiled by <a href="https://www.pollcheck.co.uk/us-midterms-2026" target="_blank" rel="noopener">PollCheck</a> from Wikipedia; House district polls, candidates, Cook PVI and race ratings from Wikipedia's 2026 House and Senate election pages (CC BY-SA); pollster grades and historical polls from <a href="https://github.com/fivethirtyeight/data/tree/master/pollster-ratings" target="_blank" rel="noopener">FiveThirtyEight's public data</a>; past House results from Wikipedia. Data pulled on the forecast date shown at the top.</p>
+    </div>
+  </section>
+</div>
+
+<script>
+(function () {
+  const ui = { state: '', ch: 'all', comp: false, q: '', sel: null };
+  window.__fc = ui;
+  const rows = (id) => { const d = dash.data(id); return d.status === 'ok' ? (Array.isArray(d.data) ? d.data : []) : null; };
+  const one = (id, where) => { const r = rows(id); if (!r) return null; return r.find(where) || null; };
+  const fill = (el, v) => { el.textContent = (v === null || v === undefined) ? '—' : String(v); };
+
+  // headline numbers
+  const head = [
+    ['takeSen', 'Senate', 'dem_control_pct'], ['takeHouse', 'House', 'dem_control_pct'],
+    ['senD', 'Senate', 'dem_control_pct'], ['senR', 'Senate', 'gop_control_pct'], ['senMed', 'Senate', 'dem_median'],
+    ['senLo', 'Senate', 'dem_p10'], ['senHi', 'Senate', 'dem_p90'],
+    ['houD', 'House', 'dem_control_pct'], ['houMed', 'House', 'dem_median'], ['houLo', 'House', 'dem_p10'], ['houHi', 'House', 'dem_p90'],
+  ];
+  head.forEach(([name, ch, f]) => dash.draw(name, (el) => { const r = one('chamber_summary', (x) => x.chamber === ch); fill(el, r ? r[f] : null); }));
+  dash.draw('asof', (el) => { const r = one('chamber_summary', (x) => x.chamber === 'Senate'); fill(el, r ? r.as_of : null); });
+
+  // forecast over time
+  dash.draw('history', (el) => {
+    const h = rows('history');
+    el.replaceChildren();
+    if (!h || !h.length) return;
+    const data = h.map((d) => ({ t: new Date(d.date + 'T12:00:00Z'), s: Number(d.senate_dem_control_pct), h: Number(d.house_dem_control_pct), date: d.date }));
+    const W = Math.max(280, el.clientWidth || 480), H = 220, m = { t: 12, r: 110, b: 28, l: 40 };
+    const t0 = d3.min(data, (d) => d.t), t1 = d3.max(data, (d) => d.t);
+    const x = d3.scaleUtc(t0 - t1 === 0 ? [d3.utcDay.offset(t0, -3), d3.utcDay.offset(t1, 3)] : [t0, t1], [m.l, W - m.r]);
+    const y = d3.scaleLinear([0, 100], [H - m.b, m.t]);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Chance of Democratic control over time');
+    svg.append('g').selectAll('line').data([0, 25, 50, 75, 100]).join('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', (d) => y(d)).attr('y2', (d) => y(d))
+      .attr('stroke', (d) => d === 50 ? 'var(--cds-chart-reference)' : 'var(--cds-chart-grid)').attr('stroke-dasharray', (d) => d === 50 ? '4 3' : null);
+    const ya = svg.append('g').attr('transform', `translate(${m.l},0)`).call(d3.axisLeft(y).tickValues([0, 25, 50, 75, 100]).tickFormat((v) => v + '%').tickSize(0));
+    ya.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)'); ya.select('.domain').remove();
+    const xa = svg.append('g').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).ticks(Math.max(2, Math.floor((W - m.l - m.r) / 90))).tickFormat(d3.utcFormat('%b %-d')).tickSizeOuter(0));
+    xa.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)');
+    xa.select('.domain').attr('stroke', 'var(--cds-chart-axis)'); xa.selectAll('.tick line').attr('stroke', 'var(--cds-chart-axis)');
+    const series = [{ k: 'h', name: 'House', c: dash.colors[0] }, { k: 's', name: 'Senate', c: dash.colors[1] }];
+    series.forEach((sr) => {
+      svg.append('path').datum(data).attr('fill', 'none').attr('stroke', sr.c).attr('stroke-width', 2).attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round')
+        .attr('d', d3.line().x((d) => x(d.t)).y((d) => y(d[sr.k])));
+      svg.append('g').selectAll('circle').data(data).join('circle').attr('cx', (d) => x(d.t)).attr('cy', (d) => y(d[sr.k])).attr('r', data.length > 20 ? 0 : 3).attr('fill', sr.c);
+    });
+    const last = data[data.length - 1];
+    const ends = series.map((sr) => ({ sr, v: last[sr.k], yy: y(last[sr.k]) })).sort((a, b) => a.yy - b.yy);
+    if (ends.length === 2 && ends[1].yy - ends[0].yy < 16) { const mid = (ends[0].yy + ends[1].yy) / 2; ends[0].yy = mid - 8; ends[1].yy = mid + 8; }
+    ends.forEach((e) => svg.append('text').attr('x', x(last.t) + 8).attr('y', e.yy + 4).attr('fill', e.sr.c).style('font-size', 'var(--cds-font-size-caption)')
+      .text(`${e.sr.name} ${e.v.toFixed(0)}%`));
+    const tip = d3.select(el).append('div').attr('class', 'tip').style('display', 'none');
+    const bis = d3.bisector((d) => d.t).center;
+    svg.append('rect').attr('x', m.l).attr('y', m.t).attr('width', W - m.l - m.r).attr('height', H - m.t - m.b).attr('fill', 'transparent')
+      .on('mousemove', (ev) => {
+        const [px, py] = d3.pointer(ev, el); const d = data[bis(data, x.invert(d3.pointer(ev)[0]))];
+        tip.style('display', null).selectAll('*').remove();
+        tip.append('div').attr('class', 'k').text(d3.utcFormat('%b %-d, %Y')(d.t));
+        series.forEach((sr) => tip.append('div').text(`${sr.name}: ${d[sr.k].toFixed(1)}% Democratic control`));
+        const tw = tip.node().offsetWidth;
+        tip.style('left', Math.min(Math.max(0, px + 10), el.clientWidth - tw) + 'px').style('top', Math.max(0, py - 50) + 'px');
+      }).on('mouseleave', () => tip.style('display', 'none'));
+  });
+
+  dash.draw('gen', (el) => { const r = rows('national'); fill(el, r && r[0] ? r[0].label : null); });
+  dash.draw('lean', (el) => { const r = rows('national'); fill(el, r && r[1] ? r[1].value : null); });
+  dash.draw('genN', (el) => { const r = rows('national'); fill(el, r && r[0] ? r[0].polls : null); });
+
+  // seat distribution charts
+  function distChart(el, chamber) {
+    const all = rows('seat_distribution');
+    const sum = one('chamber_summary', (x) => x.chamber === chamber);
+    el.replaceChildren();
+    if (!all || !sum) return;
+    const data = all.filter((d) => d.chamber === chamber).map((d) => ({ s: Number(d.dem_seats), p: Number(d.prob_pct) }));
+    const need = Number(sum.seats_for_control);
+    const W = Math.max(280, el.clientWidth || 480), H = 220, m = { t: 10, r: 10, b: 30, l: 36 };
+    const x = d3.scaleBand(data.map((d) => d.s), [m.l, W - m.r]).paddingInner(0.15);
+    const y = d3.scaleLinear([0, d3.max(data, (d) => d.p) * 1.1], [H - m.b, m.t]);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img')
+      .attr('aria-label', chamber + ' Democratic seat distribution');
+    svg.append('g').selectAll('line').data(y.ticks(4)).join('line').attr('x1', m.l).attr('x2', W - m.r)
+      .attr('y1', (d) => y(d)).attr('y2', (d) => y(d)).attr('stroke', 'var(--cds-chart-grid)');
+    const blue = 'rgba(37, 99, 235, .85)', red = 'rgba(220, 38, 38, .8)';
+    const bars = svg.append('g').selectAll('rect').data(data).join('rect')
+      .attr('x', (d) => x(d.s)).attr('width', x.bandwidth()).attr('y', (d) => y(d.p)).attr('height', (d) => y(0) - y(d.p))
+      .attr('rx', Math.min(2, x.bandwidth() / 2)).attr('fill', (d) => d.s >= need ? blue : red);
+    const step = Math.max(1, Math.ceil(data.length / Math.max(2, Math.floor((W - m.l - m.r) / 44))));
+    const ticks = data.map((d) => d.s).filter((s, i) => i % step === 0);
+    const xa = svg.append('g').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickValues(ticks).tickSizeOuter(0));
+    xa.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)');
+    xa.select('.domain').attr('stroke', 'var(--cds-chart-axis)'); xa.selectAll('.tick line').attr('stroke', 'var(--cds-chart-axis)');
+    const ya = svg.append('g').attr('transform', `translate(${m.l},0)`).call(d3.axisLeft(y).ticks(4).tickFormat((v) => v + '%').tickSize(0));
+    ya.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)');
+    ya.select('.domain').remove();
+    const xl = x(need);
+    if (xl !== undefined) svg.append('line').attr('x1', xl - x.step() * 0.075).attr('x2', xl - x.step() * 0.075).attr('y1', m.t).attr('y2', H - m.b)
+      .attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 3');
+    const tip = d3.select(el).append('div').attr('class', 'tip').style('display', 'none');
+    bars.on('mousemove', (ev, d) => {
+      const [px, py] = d3.pointer(ev, el);
+      tip.style('display', null).selectAll('*').remove();
+      tip.append('div').attr('class', 'k').text(d.s + ' Democratic seats');
+      tip.append('div').text(d.p.toFixed(1) + '% of simulations');
+      const tw = tip.node().offsetWidth;
+      tip.style('left', Math.min(Math.max(0, px + 10), el.clientWidth - tw) + 'px').style('top', Math.max(0, py - 40) + 'px');
+    }).on('mouseleave', () => tip.style('display', 'none'));
+  }
+  dash.draw('distSenate', (el) => distChart(el, 'Senate'));
+  dash.draw('distHouse', (el) => distChart(el, 'House'));
+
+  // helpers for race tables
+  const pillClass = (r) => {
+    const t = r.rating || '';
+    if (t.startsWith('Toss')) return 'pT';
+    const side = t.endsWith('R') ? 'R' : 'D';
+    const lvl = t.startsWith('Safe') ? 3 : t.startsWith('Likely') ? 2 : 1;
+    return 'p' + side + lvl;
+  };
+  function probCell(td, v) {
+    td.className = 'num prob';
+    td.textContent = v === null || v === undefined ? '—' : String(v);
+    if (v !== null && v !== undefined) {
+      const d = Number(v);
+      td.style.background = `linear-gradient(to right, rgba(37,99,235,.28) ${d}%, rgba(220,38,38,.22) ${d}%)`;
+    }
+  }
+  function raceTable(list, cols, opts) {
+    const table = document.createElement('table');
+    table.setAttribute('data-source', 'races');
+    table.setAttribute('data-row-key', 'id');
+    const thead = table.createTHead().insertRow();
+    cols.forEach((c) => { const th = document.createElement('th'); th.textContent = c.label; th.setAttribute('data-field', c.f); if (c.num) th.className = 'num'; thead.appendChild(th); });
+    const tb = table.createTBody();
+    list.forEach((r) => {
+      const tr = tb.insertRow();
+      tr.className = 'race' + (ui.sel === r.id ? ' sel' : '');
+      tr.dataset.key = r.id;
+      cols.forEach((c) => {
+        const td = tr.insertCell();
+        const v = r[c.f];
+        if (c.f === 'dem_win_pct') return probCell(td, v);
+        if (c.f === 'rating') { const s = document.createElement('span'); s.className = 'pill ' + pillClass(r); s.textContent = v; td.appendChild(s); return; }
+        if (c.num) td.className = 'num';
+        td.textContent = v === null || v === undefined || v === '' ? '—' : String(v);
+      });
+    });
+    if (opts && opts.onClick) table.addEventListener('click', (ev) => { const tr = ev.target.closest('tr[data-key]'); if (tr) opts.onClick(tr.dataset.key); });
+    return table;
+  }
+
+  // closest races
+  dash.draw('closest', (el) => {
+    const r = rows('races'); el.replaceChildren(); if (!r) { el.textContent = '—'; return; }
+    const list = r.filter((x) => x.projected_margin !== null).sort((a, b) => a.closeness - b.closeness).slice(0, 25);
+    el.appendChild(raceTable(list, [
+      { f: 'state', label: 'State' }, { f: 'seat', label: 'Seat' }, { f: 'dem_side', label: 'Democrat / independent' }, { f: 'gop_side', label: 'Republican' },
+      { f: 'projection', label: 'Projected margin' }, { f: 'dem_win_pct', label: 'Dem / Ind win %', num: true }, { f: 'rating', label: 'Rating' },
+    ], { onClick: (id) => { const row = r.find((x) => x.id === id); ui.state = row.state; ui.sel = id; syncControls(); dash.draw('states'); dash.draw('stateSelect'); const t = document.querySelector('#by-state'); if (t) { t.scrollIntoView(); dash.setLink('by-state'); } } }));
+  });
+
+  // state select
+  dash.draw('stateSelect', (sel) => {
+    const r = rows('races');
+    const states = r ? Array.from(new Set(r.map((x) => x.state))).sort() : [];
+    sel.replaceChildren(new Option('All states', ''), ...states.map((s) => new Option(s, s)));
+    sel.value = ui.state;
+    sel.onchange = () => { ui.state = sel.value; ui.sel = null; dash.draw('states'); };
+  });
+
+  function syncControls() {
+    document.querySelectorAll('.f-ch').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.ch === ui.ch)));
+    document.querySelectorAll('.f-comp').forEach((c) => { c.checked = ui.comp; });
+  }
+  document.querySelectorAll('.f-ch').forEach((b) => b.addEventListener('click', () => { ui.ch = b.dataset.ch; syncControls(); dash.draw('states'); }));
+  document.querySelectorAll('.f-comp').forEach((c) => c.addEventListener('change', () => { ui.comp = c.checked; dash.draw('states'); }));
+  document.querySelectorAll('.f-q').forEach((q) => q.addEventListener('input', () => { ui.q = q.value.trim().toLowerCase(); dash.draw('states'); }));
+
+  function kv(parent, label, id, field, value) {
+    const d = document.createElement('div'); d.textContent = label;
+    const s = document.createElement('span');
+    s.setAttribute('data-source', 'races'); s.setAttribute('data-field', field); s.setAttribute('data-where', 'id=' + encodeURIComponent(id));
+    s.textContent = value === null || value === undefined || value === '' ? '—' : String(value);
+    d.appendChild(s); parent.appendChild(d);
+  }
+  function detail(r, polls) {
+    const box = document.createElement('div'); box.className = 'detail';
+    const h = document.createElement('h3'); h.textContent = r.state + ' · ' + r.seat; box.appendChild(h);
+    const g = document.createElement('div'); g.className = 'kv'; box.appendChild(g);
+    kv(g, 'Candidates on the ballot', r.id, 'candidates', r.candidates);
+    kv(g, 'Incumbent', r.id, 'incumbent', r.incumbent);
+    kv(g, 'Partisan lean (Cook PVI)', r.id, 'pvi', r.pvi);
+    kv(g, 'Projected margin', r.id, 'projection', r.projection);
+    kv(g, '80% range of outcomes', r.id, 'range_80', r.range_80);
+    kv(g, 'Dem / Ind win %', r.id, 'dem_win_pct', r.dem_win_pct);
+    kv(g, 'GOP win %', r.id, 'gop_win_pct', r.gop_win_pct);
+    kv(g, 'Poll average', r.id, 'poll_avg_label', r.poll_avg_label);
+    kv(g, 'Polls used', r.id, 'n_polls', r.n_polls);
+    kv(g, 'Fundamentals estimate', r.id, 'fundamentals', r.fundamentals);
+    if (r.chamber === 'House') {
+      kv(g, 'Democrat raised (FEC)', r.id, 'dem_raised', r.dem_raised);
+      kv(g, 'Republican raised (FEC)', r.id, 'gop_raised', r.gop_raised);
+      kv(g, 'Incumbent personal vote', r.id, 'personal_vote', r.personal_vote);
+    }
+    kv(g, 'Ratings average', r.id, 'ratings_avg', r.ratings_avg);
+    kv(g, 'Ratings counted', r.id, 'n_ratings', r.n_ratings);
+    kv(g, 'Weight on polls %', r.id, 'weight_polls_pct', r.weight_polls_pct);
+    kv(g, 'Weight on fundamentals %', r.id, 'weight_fund_pct', r.weight_fund_pct);
+    kv(g, 'Weight on ratings %', r.id, 'weight_ratings_pct', r.weight_ratings_pct);
+    const pl = polls ? polls.filter((p) => p.race_id === r.id) : [];
+    const ph = document.createElement('p'); ph.className = 'note';
+    ph.textContent = pl.length ? 'Polls used, newest first. Margin as released; "pollster lean" is how far that firm has run from other polls of the same races, which the average removes.' : 'No public polls of this matchup; the projection rests on fundamentals and ratings.';
+    box.appendChild(ph);
+    if (pl.length) {
+      const wrap = document.createElement('div'); wrap.className = 'tbl';
+      const t = document.createElement('table'); t.setAttribute('data-source', 'polls'); t.setAttribute('data-row-key', 'poll_id');
+      const cols = [['pollster', 'Pollster'], ['end_date', 'Ended'], ['sample', 'Sample'], ['population', 'Pop.'], ['sponsor', 'Sponsor'], ['margin_label', 'Margin'], ['pollster_lean', 'Pollster lean']];
+      const hr = t.createTHead().insertRow();
+      cols.forEach(([f, l]) => { const th = document.createElement('th'); th.textContent = l; th.setAttribute('data-field', f); hr.appendChild(th); });
+      const tb = t.createTBody();
+      pl.forEach((p) => { const tr = tb.insertRow(); tr.dataset.key = p.poll_id; cols.forEach(([f]) => { const td = tr.insertCell(); const v = p[f]; td.textContent = v === null || v === undefined || v === '' ? '—' : String(v); }); });
+      wrap.appendChild(t); box.appendChild(wrap);
+    }
+    return box;
+  }
+
+  // all races by state
+  dash.draw('states', (el) => {
+    const r = rows('races'); const polls = rows('polls');
+    el.replaceChildren(); if (!r) { el.textContent = '—'; return; }
+    const keep = r.filter((x) => (!ui.state || x.state === ui.state) && (ui.ch === 'all' || x.chamber === ui.ch)
+      && (!ui.comp || (x.dem_win_pct >= 5 && x.dem_win_pct <= 95))
+      && (!ui.q || [x.state, x.seat, x.dem_side, x.gop_side, x.candidates, x.id, x.incumbent].join(' ').toLowerCase().includes(ui.q)));
+    const by = d3.group(keep.sort((a, b) => a.sort_key - b.sort_key), (x) => x.state);
+    const names = Array.from(by.keys()).sort();
+    if (!names.length) { const p = document.createElement('p'); p.className = 'muted'; p.textContent = 'No races match these filters.'; el.appendChild(p); return; }
+    const cols = [
+      { f: 'seat', label: 'Seat' }, { f: 'dem_side', label: 'Democrat / independent' }, { f: 'gop_side', label: 'Republican' },
+      { f: 'incumbent', label: 'Incumbent' }, { f: 'pvi', label: 'PVI' }, { f: 'poll_avg_label', label: 'Poll avg' }, { f: 'n_polls', label: 'Polls', num: true },
+      { f: 'projection', label: 'Projected margin' }, { f: 'dem_win_pct', label: 'Dem / Ind win %', num: true }, { f: 'rating', label: 'Rating' }, { f: 'flip', label: 'Flip?' },
+    ];
+    names.forEach((st) => {
+      const list = by.get(st);
+      const card = document.createElement('div'); card.className = 'card stcard'; card.id = 'state-' + st.toLowerCase().replace(/[^a-z]+/g, '-');
+      const h = document.createElement('h3'); h.textContent = st; card.appendChild(h);
+      const wrap = document.createElement('div'); wrap.className = 'tbl';
+      wrap.appendChild(raceTable(list, cols, { onClick: (id) => { ui.sel = ui.sel === id ? null : id; dash.draw('states'); } }));
+      card.appendChild(wrap);
+      const s = list.find((x) => x.id === ui.sel);
+      if (s) card.appendChild(detail(s, polls));
+      el.appendChild(card);
+    });
+  });
+
+  // method tables
+  function simpleTable(el, id, key, cols) {
+    const r = rows(id); el.replaceChildren(); if (!r) { el.textContent = '—'; return; }
+    const t = document.createElement('table'); t.setAttribute('data-source', id); t.setAttribute('data-row-key', key);
+    const hr = t.createTHead().insertRow();
+    cols.forEach(([f, l, n]) => { const th = document.createElement('th'); th.textContent = l; th.setAttribute('data-field', f); if (n) th.className = 'num'; hr.appendChild(th); });
+    const tb = t.createTBody();
+    r.forEach((x) => { const tr = tb.insertRow(); tr.dataset.key = x[key]; cols.forEach(([f, , n]) => { const td = tr.insertCell(); if (n) td.className = 'num'; td.textContent = x[f] === null || x[f] === undefined ? '—' : String(x[f]); }); });
+    el.appendChild(t);
+  }
+  dash.draw('backtest', (el) => simpleTable(el, 'backtest', 'method', [['test', 'Test'], ['method', 'Method'], ['rmse', 'Avg miss (pts)', true]]));
+  dash.draw('sensitivity', (el) => simpleTable(el, 'sensitivity', 'variant', [['variant', 'Setting'], ['senate_dem_control_pct', 'Senate Dem %', true], ['house_dem_control_pct', 'House Dem %', true], ['house_dem_median', 'House Dem seats', true]]));
+  dash.draw('calibration', (el) => simpleTable(el, 'calibration', 'bin', [['bin', 'Forecast Dem win chance'], ['predicted_dem_win_pct', 'Avg forecast %', true], ['observed_dem_win_pct', 'Dems actually won %', true], ['races', 'Races', true]]));
+  dash.draw('errors', (el) => simpleTable(el, 'error_structure', 'component', [['component', 'Layer'], ['sd_points', 'Typical miss (pts)', true]]));
+
+  // what if the polls are wrong
+  dash.draw('scenarioChart', (el) => {
+    const r = rows('scenarios'); el.replaceChildren(); if (!r || !r.length) return;
+    const data = r.map((d) => ({ x: Number(d.shift), s: Number(d.senate_dem_control_pct), h: Number(d.house_dem_control_pct), label: d.label }));
+    const W = Math.max(280, el.clientWidth || 480), H = 230, m = { t: 12, r: 16, b: 40, l: 40 };
+    const x = d3.scaleLinear(d3.extent(data, (d) => d.x), [m.l, W - m.r]);
+    const y = d3.scaleLinear([0, 100], [H - m.b, m.t]);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Chance of Democratic control by polling miss');
+    svg.append('g').selectAll('line').data([0, 25, 50, 75, 100]).join('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', (d) => y(d)).attr('y2', (d) => y(d))
+      .attr('stroke', (d) => d === 50 ? 'var(--cds-chart-reference)' : 'var(--cds-chart-grid)').attr('stroke-dasharray', (d) => d === 50 ? '4 3' : null);
+    svg.append('line').attr('x1', x(0)).attr('x2', x(0)).attr('y1', m.t).attr('y2', H - m.b).attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '4 3');
+    const ya = svg.append('g').attr('transform', `translate(${m.l},0)`).call(d3.axisLeft(y).tickValues([0, 25, 50, 75, 100]).tickFormat((v) => v + '%').tickSize(0));
+    ya.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)'); ya.select('.domain').remove();
+    const xa = svg.append('g').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickValues(data.map((d) => d.x)).tickFormat((v) => (v > 0 ? '+' : '') + v).tickSizeOuter(0));
+    xa.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)');
+    xa.select('.domain').attr('stroke', 'var(--cds-chart-axis)'); xa.selectAll('.tick line').attr('stroke', 'var(--cds-chart-axis)');
+    svg.append('text').attr('x', (m.l + W - m.r) / 2).attr('y', H - 6).attr('text-anchor', 'middle').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)')
+      .text('Polling miss, points (positive = polls overstated Democrats)');
+    const series = [{ k: 'h', name: 'House', c: dash.colors[0] }, { k: 's', name: 'Senate', c: dash.colors[1] }];
+    series.forEach((sr) => {
+      svg.append('path').datum(data).attr('fill', 'none').attr('stroke', sr.c).attr('stroke-width', 2).attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round')
+        .attr('d', d3.line().x((d) => x(d.x)).y((d) => y(d[sr.k])));
+      svg.append('g').selectAll('circle').data(data).join('circle').attr('cx', (d) => x(d.x)).attr('cy', (d) => y(d[sr.k])).attr('r', 3).attr('fill', sr.c);
+    });
+    const lg = svg.append('g').attr('transform', `translate(${W - m.r - 150},${m.t + 4})`);
+    series.forEach((sr, i) => { lg.append('rect').attr('x', 0).attr('y', i * 16).attr('width', 10).attr('height', 10).attr('rx', 2).attr('fill', sr.c);
+      lg.append('text').attr('x', 16).attr('y', i * 16 + 9).attr('fill', 'var(--color-fg)').style('font-size', 'var(--cds-font-size-caption)').text(sr.name + ': Dem control'); });
+    const tip = d3.select(el).append('div').attr('class', 'tip').style('display', 'none');
+    const bis = d3.bisector((d) => d.x).center;
+    svg.append('rect').attr('x', m.l).attr('y', m.t).attr('width', W - m.l - m.r).attr('height', H - m.t - m.b).attr('fill', 'transparent')
+      .on('mousemove', (ev) => {
+        const [px, py] = d3.pointer(ev, el); const d = data[bis(data, x.invert(d3.pointer(ev)[0]))];
+        tip.style('display', null).selectAll('*').remove();
+        tip.append('div').attr('class', 'k').text(d.label);
+        tip.append('div').text(`House: ${d.h.toFixed(1)}% Democratic control`); tip.append('div').text(`Senate: ${d.s.toFixed(1)}% Democratic control`);
+        const tw = tip.node().offsetWidth;
+        tip.style('left', Math.min(Math.max(0, px + 10), el.clientWidth - tw) + 'px').style('top', Math.max(0, py - 60) + 'px');
+      }).on('mouseleave', () => tip.style('display', 'none'));
+  });
+  dash.draw('missChart', (el) => {
+    const r = rows('poll_misses'); el.replaceChildren(); if (!r || !r.length) return;
+    const data = r.map((d) => ({ c: String(d.cycle), v: Number(d.dem_overstatement), kind: d.kind }));
+    const W = Math.max(280, el.clientWidth || 480), H = 230, m = { t: 14, r: 12, b: 28, l: 40 };
+    const x = d3.scaleBand(data.map((d) => d.c), [m.l, W - m.r]).padding(0.25);
+    const lim = Math.max(4, d3.max(data, (d) => Math.abs(d.v)) + 1);
+    const y = d3.scaleLinear([-lim, lim], [H - m.b, m.t]);
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img').attr('aria-label', 'Past polling misses by election year');
+    svg.append('g').selectAll('line').data(y.ticks(5)).join('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', (d) => y(d)).attr('y2', (d) => y(d))
+      .attr('stroke', (d) => d === 0 ? 'var(--cds-chart-axis)' : 'var(--cds-chart-grid)');
+    const ya = svg.append('g').attr('transform', `translate(${m.l},0)`).call(d3.axisLeft(y).ticks(5).tickFormat((v) => (v > 0 ? '+' : '') + v).tickSize(0));
+    ya.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)'); ya.select('.domain').remove();
+    svg.append('g').selectAll('rect').data(data).join('rect').attr('x', (d) => x(d.c)).attr('width', x.bandwidth())
+      .attr('y', (d) => y(Math.max(0, d.v))).attr('height', (d) => Math.abs(y(d.v) - y(0))).attr('rx', Math.min(3, x.bandwidth() / 2))
+      .attr('fill', (d) => d.v > 0 ? 'rgba(220, 38, 38, .75)' : 'rgba(37, 99, 235, .75)');
+    svg.append('g').selectAll('text').data(data).join('text').attr('x', (d) => x(d.c) + x.bandwidth() / 2).attr('y', (d) => d.v >= 0 ? y(d.v) - 4 : y(d.v) + 12)
+      .attr('text-anchor', 'middle').attr('fill', 'var(--color-fg)').style('font-size', 'var(--cds-font-size-caption)').text((d) => (d.v > 0 ? '+' : '') + d.v.toFixed(1));
+    const xa = svg.append('g').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickSize(0));
+    xa.attr('font-size', null).attr('font-family', null).selectAll('text').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)'); xa.select('.domain').remove();
+  });
+  dash.draw('scenarioTable', (el) => simpleTable(el, 'scenarios', 'label', [['label', 'If the polls are off like this'], ['senate_dem_control_pct', 'Senate Dem %', true], ['senate_gop_control_pct', 'Senate GOP %', true], ['house_dem_control_pct', 'House Dem %', true], ['house_dem_median', 'House Dem seats', true], ['chance_miss_this_big_pct', 'Chance of a miss this big %', true]]));
+
+  dash.onData(() => {
+    const named = location.hash && document.getElementById(location.hash.slice(1));
+    if (named && !window.__fcJumped && rows('races')) { window.__fcJumped = true; named.scrollIntoView(); }
+  });
+})();
+</script>
+
+</div>
+</body>
+</html>

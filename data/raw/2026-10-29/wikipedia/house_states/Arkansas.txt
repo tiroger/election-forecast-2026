@@ -1,0 +1,1067 @@
+{{short description|none}}
+{{Use mdy dates|date=March 2025}}
+{{use American English|date=March 2025}}
+
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Arkansas House of Representatives election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Arkansas
+| country = Arkansas
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arkansas
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Arkansas
+| next_year = 2028
+| seats_for_election = All 4 Arkansas seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''4'''
+| seats1 = '''4'''
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 0
+| seat_change1 = 
+| seat_change2 = 
+| map_image = <!-- Please keep these maps hidden until election day {{switcher |[[File:2026 United States House of Representatives elections in Arkansas results map.svg|250px]] |District results |[[File:2026 United States House of Representatives elections in Arkansas results map by county.svg|250px]] |County results}}-->
+| map_caption = 
+}}
+{{ElectionsAR}}
+The '''2026 United States House of Representatives elections in Arkansas''' will be held on November 3, 2026, to elect the four [[U.S. representative]]s from the [[U.S. state|state]] of [[Arkansas]], one from all four of the state's [[Arkansas congressional districts|congressional districts]]. The primary elections took place on March 3, 2026, and in races where no candidate receives over 50% in a primary, runoff elections took place on March 31, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|publisher=NCSL |access-date=5 August 2025}}</ref> Arkansas' U.S. House delegation has been exclusively Republican since 2013.
+
+This election will take place alongside races for [[2026 United States Senate election in Arkansas|U.S. Senate]], [[2026 Arkansas gubernatorial election|governor]], [[2026 Arkansas House of Representatives election|state senate]], [[2026 Arkansas House of Representatives election|state house]], and [[2026 Arkansas elections|numerous other state and local offices]].
+
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Background==
+In ''Christian Ministerial Alliance v. Thurston'', plaintiffs alleged racial gerrymandering diluting the voting power of black voters by splitting [[Little Rock]] into three districts. The case was heard in a federal district court. The panel ruled that it did not constitute a racial gerrymander and dismissed the case.<ref>{{cite web |title=District Court Rejects Federal Challenge to Arkansas Congressional Map: Eastern District of Arkansas Court Finds Lack of Evidence that Map is a Racial Gerrymander and is Racially Dilutive|work=Legal Defense Fund |date=June 9, 2025 |url=https://www.naacpldf.org/press-release/district-court-rejects-federal-challenge-to-arkansas-congressional-map-eastern-district-of-arkansas-court-finds-lack-of-evidence-that-map-is-a-racial-gerrymander-and-is-racially-dilutive/}}</ref>
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Arkansas's 1st congressional district election
+| country = Arkansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arkansas#District 1
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Arkansas#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Crawford Rick 118th Congress (cropped).jpg
+| nominee1 = [[Rick Crawford (politician)|Rick Crawford]] 
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Terri Yarbrough Green 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day File:2026 Arkansas's 1st congressional district election results map by county.svg
+| map_size = 230px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Rick Crawford (politician)|Rick Crawford]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arkansas's 1st congressional district}}
+The 1st district is based in North-Eastern [[Arkansas]] and parts of its South-East, taking in [[Eudora, Arkansas|Eudora]], [[McGehee]], [[Lonoke]], and [[Stuttgart, Arkansas|Stuttgart]]. The majority of its population can be found in the city of [[Jonesboro, Arkansas|Jonesboro]]. The incumbent is Republican [[Rick Crawford (politician)|Rick Crawford]], who was re-elected with 72.9% of the vote in 2024.<ref name="HPVT">{{cite web |url=https://www.cookpolitical.com/vote-tracker/2024/house |title=2024 House Vote Tracker |access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Rick Crawford (politician)|Rick Crawford]], incumbent U.S. representative<ref name="ARrunning">{{cite news |last1=Campbell |first1=Matt |title=The race is (almost) on: A look at 2026 federal, constitutional and legislative elections |url=https://arktimes.com/arkansas-blog/2025/10/07/the-race-is-almost-on-a-look-at-2026-federal-constitutional-and-legislative-elections |publisher=Arkansas Times |date=October 8, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Rick Crawford
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[President of the United States]] (2017–2021, 2025–present)<ref name="Trump endorses">{{Cite web |title=- President Trump endorses Arkansas congressmen in reelection bids |url=https://www.5newsonline.com/article/news/local/president-trump-endorses-arkansas-congressmen-reelection-bids/527-e20394ee-aa92-4db0-b5f5-57080c02467b}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Rick Crawford (R)
+|$944,302.03
+|$743,498.30
+|$1,031,630.59
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC AR01">{{cite web |title=2026 Election United States House - Arkansas 1st |url=https://www.fec.gov/data/elections/house/AR/01/2026/ |publisher=[[Federal Election Commission]] |access-date=February 21, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+*Terri Yarbrough Green, retired pathologist<ref>{{cite web |title=Paragould woman files to challenge Crawford for First Congressional District seat |url=https://thewynneprogress.com/paragould-woman-files-to-challenge-crawford-for-first-congressional-district-seat/ |access-date=November 11, 2025 |work=[[Wynne Progress]] |date=November 11, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Terri Yarbrough Green (D)
+|$65,149.26
+|$53,191.65
+|$11,957.61
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC AR01" /></small>
+|}
+
+=== Third-party and independent candidates ===
+=== Candidates ===
+==== Declared ====
+*Steve Parsons ([[Libertarian Party (United States)|Libertarian]]), nominee for this district in [[2024 United States House of Representatives elections in Arkansas#District 1|2024]]<ref name="Ark Lib">{{Cite web |last=Swaim |first=Kyler |title=Arkansas Libertarians nominate candidates for 2026 general election |url=https://www.myarklamiss.com/news/arkansas-news/arkansas-libertarians-nominate-candidates-for-2026-general-election/ |access-date=February 25, 2026 |website=politics1.com |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| style="text-align:left" | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| style="text-align:left" | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|style="text-align:left" | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|-
+|style="text-align:left" | [[The Economist]]<ref name="Economist interactive">{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=April 26, 2026 |website=[[The Economist]] |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Terri Green
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web|url=https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates/|title=Our Recommended Candidates|publisher=Education Votes|access-date=2026-10-27}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Rick Crawford (R)
+|$944,302
+|$743,498
+|$1,031,631
+|-
+|{{party shading/Democratic}}| Terri Yarbrough (D)
+|$65,149
+|$53,192
+|$11,958
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC AR2026">{{cite web |title=2026 Election United States House - Arkansas |url=https://www.fec.gov/data/elections/house/AR/2026/ |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arkansas's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Rick Crawford (politician)|Rick Crawford]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Terri Yarbrough 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Steve Parsons
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Arkansas's 2nd congressional district election
+| country = Arkansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arkansas#District 2
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Arkansas#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Hill French 119th Congress (cropped).jpg
+| nominee1 = [[French Hill (politician)|French Hill]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Chris Jones, Arkansas gubernatorial candidate (cropped).jpg
+| nominee2 = [[Chris Jones (Arkansas politician)|Chris Jones]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day File:2026 Arkansas's 2nd congressional district election results map by county.svg
+| map_size = 200px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[French Hill (politician)|French Hill]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arkansas's 2nd congressional district}}
+The 2nd district is located in central [[Arkansas]], and includes most of the state capital of [[Little Rock, Arkansas|Little Rock]], and the entirety of [[Cleburne County, Arkansas|Cleburne]], [[Conway County, Arkansas|Conway]], [[Faulkner County, Arkansas|Faulkner]], [[Perry County, Arkansas|Perry]], [[Saline County, Arkansas|Saline]], [[Van Buren County, Arkansas|Van Buren]] and [[White County, Arkansas|White]] counties. The incumbent is Republican [[French Hill (politician)|French Hill]], who was re-elected with 58.9% of the vote in 2024.<ref name="HPVT" />
+
+===Republican primary===
+====Nominee====
+*[[French Hill (politician)|French Hill]], incumbent U.S. representative<ref name="ARrunning" />
+====Eliminated in primary====
+*Chase McDowell, consultant and nominee for [[Arkansas House of Representatives|Arkansas State Representative]] District 5 in [[2020 Arkansas House of Representatives election#District 5|2020]]<ref>{{cite news |last1=Thomas |first1=Alex |title=Arkansas consultant launches primary challenge to Hill in 2nd Congressional District |url=https://www.arkansasonline.com/news/2025/may/12/arkansas-consultant-launches-primary-challenge-to/ |access-date=May 21, 2025 |work=Arkansas Democrat Gazette |date=May 12, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=French Hill
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump endorses" />
+
+;U.S. senators
+*[[John Boozman]], [[Arkansas]] (2011–present)<ref name="VoteHub">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=3 May 2026}}</ref>
+*[[Tom Cotton]], [[Arkansas]] (2015–present)<ref name="VoteHub" />
+
+;Statewide officials
+*[[Tim Griffin]], [[attorney general of Arkansas]] (2023–present)<ref name="VoteHub" />
+*[[Leslie Rutledge]], [[lieutenant governor of Arkansas]] (2023–present)<ref name="VoteHub" />
+*[[Sarah Huckabee Sanders]], [[governor of Arkansas]] (2023–present)<ref name="VoteHub" />
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|French Hill (R)
+|$4,421,509.93
+|$2,830,320.69
+|$2,967,541.43
+|-
+|{{party shading/Republican}}|Chase McDowell (R)
+|$163,105.11
+|$163,105.11
+|$0.00
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Arkansas 2nd |url=https://www.fec.gov/data/elections/house/AR/02/2026/ |publisher=[[Federal Election Commission]] |access-date=February 21, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 United States House of Representatives Republican primary election in Arkansas's second congressional district results map by county.svg|thumb|200px|Results by county
+{{collapsible list
+| title={{legend|#e27f7f|Hill}}
+|{{legend|#d72f30|70–80%}}
+|{{legend|#c21b18|80–90%}}
+}}
+]]
+
+{{Election box begin no change
+ | title=Republican primary results<ref name="ARKMAR3PRIMARY">{{cite web |title=2026 Special Primary Election |url=https://enr.totalresults.com/arkansas#election=7f77a178-af02-40ec-92db-c5cc50882c68&contest=1ff198fb-395a-4a8d-9083-eae9bbb9700a&filter=Federal&bucket=results |publisher=[[Arkansas Secretary of State]] |access-date=7 March 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[French Hill (politician)|French Hill]] (incumbent)
+ | votes= 49,079
+ | percentage= 76.8}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Chase McDowell
+ | votes= 14,830
+ | percentage= 23.2}}
+{{Election box total no change
+ | votes= 63,909
+ | percentage=100.0}}
+{{Election box end}}
+=== Democratic primary ===
+====Nominee====
+*[[Christopher M. Jones (politician)|Chris Jones]], nuclear engineer and nominee for [[Governor of Arkansas|governor]] in [[2022 Arkansas gubernatorial election|2022]]<ref>{{cite news |last1=Vrbin |first1=Tess |title=Former Democratic candidate for Arkansas governor will challenge U.S. Rep. Hill in 2026 |url=https://arkansasadvocate.com/2025/08/01/former-democratic-candidate-for-arkansas-governor-will-challenge-u-s-rep-hill-in-2026/ |access-date=August 4, 2025 |work=Arkansas Advocate |date=August 1, 2025}}</ref>
+====Eliminated in primary====
+*Zack Huffman, educator<ref>{{cite web |title=Huffman announces run for U.S. Congress in Arkansas' 2nd District |url=https://www.thecabin.net/news/huffman-announces-run-for-u-s-congress-in-arkansas-2nd-district/article_907b585a-df5b-5511-ac18-e4be21507474.html |access-date=September 11, 2025 |website=[[Log Cabin Democrat]] |date=September 5, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Zack Huffman (D)
+|$12,402.59
+|$12,402.59
+|$0
+|-
+|{{party shading/Democratic}}|Chris Jones (D)
+|$1,174,414.32
+|$983,015.95
+|$191,398.37
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2" /></small>
+|}
+
+====Results====
+[[File:2026 United States House of Representatives Democratic primary election in Arkansas's second congressional district results map by county.svg|thumb|200px|Results by county
+{{collapsible list
+| title={{legend|#7996e2|Jones}}
+|{{legend|#3933e5|80–90%}}
+|{{legend|#0d0596|90–100%}}
+}}
+]]
+{{Election box begin no change
+ | title=Democratic primary results<ref name="ARKMAR3PRIMARY" />}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=[[Chris Jones (Arkansas politician)|Chris Jones]]
+ | votes= 47,512
+ | percentage= 92.6}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Zack Huffman
+ | votes= 3,806
+ | percentage= 7.4}}
+{{Election box total no change
+ | votes= 51,318
+ | percentage=100.0}}
+{{Election box end}}
+{| class="wikitable"
+|+ Results by county<ref name="ARKMAR3PRIMARY" />
+|-
+! County
+! style="text-align:center;" colspan="2"| Huffman
+! style="text-align:center;" colspan="2"| Jones
+! style="text-align:center;" colspan="2"| Margin
+! style="text-align:center;" colspan="2"| Total
+|-
+| {{Party shading/Democratic}} | [[Cleburne County, Arkansas|Cleburne]]
+| 76 || 14.29% 
+| {{Party shading/Democratic}} | '''456''' 
+| {{Party shading/Democratic}} | '''85.71%'''
+| {{Party shading/Democratic}} | 380
+| {{Party shading/Democratic}} | 71.42%
+| {{Party shading/Democratic}} | 532
+|-
+| {{Party shading/Democratic}} | [[Conway County, Arkansas|Conway]]
+| 97 || 11.20% 
+| {{Party shading/Democratic}} | '''769''' 
+| {{Party shading/Democratic}} | '''88.80%'''
+| {{Party shading/Democratic}} | 672
+| {{Party shading/Democratic}} | 77.60%
+| {{Party shading/Democratic}} | 866
+|-
+| {{Party shading/Democratic}} | [[Faulkner County, Arkansas|Faulkner]]
+| 498 || 9.30% 
+| {{Party shading/Democratic}} | '''4,859''' 
+| {{Party shading/Democratic}} | '''90.70%'''
+| {{Party shading/Democratic}} | 4,361
+| {{Party shading/Democratic}} | 81.40%
+| {{Party shading/Democratic}} | 5,357
+|-
+| {{Party shading/Democratic}} | [[Perry County, Arkansas|Perry]]
+| 38 || 14.50% 
+| {{Party shading/Democratic}} | '''224''' 
+| {{Party shading/Democratic}} | '''85.50%'''
+| {{Party shading/Democratic}} | 186
+| {{Party shading/Democratic}} | 71.00%
+| {{Party shading/Democratic}} | 262
+|-
+| {{Party shading/Democratic}} | [[Pulaski County, Arkansas|Pulaski]] (part)
+| 2,190 || 5.80% 
+| {{Party shading/Democratic}} | '''35,566''' 
+| {{Party shading/Democratic}} | '''94.20%'''
+| {{Party shading/Democratic}} | 33,376
+| {{Party shading/Democratic}} | 88.40%
+| {{Party shading/Democratic}} | 37,756
+|-
+| {{Party shading/Democratic}} | [[Saline County, Arkansas|Saline]]
+| 583 || 12.18% 
+| {{Party shading/Democratic}} | '''4,202''' 
+| {{Party shading/Democratic}} | '''87.82%'''
+| {{Party shading/Democratic}} | 3,619
+| {{Party shading/Democratic}} | 75.64%
+| {{Party shading/Democratic}} | 4,785
+|-
+| {{Party shading/Democratic}} | [[Van Buren County, Arkansas|Van Buren]]
+| 58 || 14.99% 
+| {{Party shading/Democratic}} | '''329''' 
+| {{Party shading/Democratic}} | '''85.01%'''
+| {{Party shading/Democratic}} | 271
+| {{Party shading/Democratic}} | 70.02%
+| {{Party shading/Democratic}} | 387
+|-
+| {{Party shading/Democratic}} | [[White County, Arkansas|White]]
+| 266 || 19.37% 
+| {{Party shading/Democratic}} | '''1,107''' 
+| {{Party shading/Democratic}} | '''80.63%'''
+| {{Party shading/Democratic}} | 841
+| {{Party shading/Democratic}} | 61.26%
+| {{Party shading/Democratic}} | 1,373
+|- style="text-align:center;"
+!Totals!!3,806!!7.42%!!47,512!!92.58%!!43,706!!85.16%!!51,318 
+|}
+
+=== General election ===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| style="text-align:left" | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Likely|R}}
+|October 9, 2026
+|-
+| style="text-align:left" | [[Inside Elections]]<ref name="IE Initial" />
+| {{USRaceRating|Likely|R}}
+|October 15, 2026
+|-
+|style="text-align:left" | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Likely|R}}
+|September 16, 2026
+|-
+|style="text-align:left" | [[The Economist]]<ref name="Economist interactive" />
+| {{USRaceRating|Likely|R}}
+|October 23, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Likely|R|}}
+|August 20, 2026
+|}
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Chris Jones (D)
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref>{{cite news |last1=Gelder |first1=Austin |title=Mayor Pete comes to town to campaign for congressional hopeful Chris Jones |url=https://arktimes.com/arkansas-blog/2026/06/12/mayor-pete-comes-to-town-to-campaign-for-congressional-hopeful-chris-jones |website=[[Arkansas Times]] |access-date=12 June 2026 |date=12 June 2026}}</ref>
+*[[Kamala Harris]], 49th [[vice president of the United States]] (2021–2025)<ref name=times>{{cite web|title=Kamala Harris endorses Chris Jones for Congress|url=https://arktimes.com/arkansas-blog/2026/08/26/kamala-harris-endorses-chris-jones-for-congress|website=[[Arkansas Times]]|last=Gelder|first=Austin|date=August 26, 2026|access-date=August 30, 2026}}</ref>
+
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-six-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Six New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=October 5, 2026|access-date=October 5, 2026}}</ref>
+
+;Statewide officials
+*[[Andy Beshear]], [[governor of Kentucky]] (2019–present)<ref name=times/>
+*[[JB Pritzker]], [[governor of Illinois]] (2019–present)<ref name=times/>
+
+;Local officials
+*[[Lottie Shackelford]], former [[List of mayors of Little Rock, Arkansas|mayor of Little Rock]] (1987–1988)<ref>{{cite web|title=Former Little Rock Mayor Lottie Shackelford backs Chris Jones in Arkansas House race|url=https://katv.com/community/little-rock-arc/former-little-rock-mayor-lottie-shackelford-backs-chris-jones-in-arkansas-house-race-katv-news-share-inform-community|website=[[KATV]]|last1=Solomon|first1=Scott|last2=Gooden|first2=Isley|date=April 15, 2026|access-date=June 22, 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+
+;Organizations
+*[[The Collective PAC]]<ref>{{cite web|title=Our Candidates|url=https://collectivepac.org/candidates/|publisher=[[The Collective PAC]]|access-date=June 22, 2026}}</ref>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Moms Demand Action]]<ref>{{cite web|title=Chris Jones|url=https://gunsensevoter.org/candidates/d7958cf901373822eba52793e8780167df4576bc613771f1d3c7d40cc109c87c/|publisher=[[Moms Demand Action]]|access-date=June 22, 2026}}</ref>
+
+;Political parties
+*[[Democratic Party of Arkansas]]<ref>{{cite web|title=2026 Candidates|url=https://www.arkdems.org/our-candidates-2026/|publisher=[[Democratic Party of Arkansas]]|access-date=August 30, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| French Hill (R)
+|$5,011,741
+|$4,735,597
+|$1,652,497
+|-
+|{{party shading/Democratic}}| Chris Jones (D)
+|$1,765,803
+|$1,484,909
+|$280,894
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC AR2026">{{cite web |title=2026 Election United States House - Arkansas |url=https://www.fec.gov/data/elections/house/AR/2026/ |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px"| French<br />Hill (R)
+! style="width:100px" |Chris<br />Jones (D)
+! Undecided
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{cite web|url=https://pollvault.substack.com/p/levee-math|title=Levee Math|date=October 21, 2026|access-date=October 22, 2026}}</ref>{{efn-ua|Poll sponsored by [[RealClearPolitics|Poll Vault]]}}
+|October 12–14, 2026
+|383 (LV)
+|–
+|{{party shading/Republican}}|'''52%'''
+|48%
+|–
+|-
+| style="text-align: left;" |[[Hendrix College]]<ref>{{Cite web |date=2026-08-20 |title=Poll: Similar trends in CD2 show tight race between Hill, Jones |url=https://talkbusiness.net/2026/08/poll-similar-trends-in-cd2-show-tight-race-between-hill-jones/ |access-date=2026-08-21 |website=Talk Business & Politics |language=en-US}}</ref>
+|August 12–13, 2026
+|1,112 (LV)
+|±&nbsp;5.3%
+|44%
+|{{party shading/Democratic}}|'''48%'''
+|8%
+|-
+|style="text-align:left;" rowspan="2"|2040 Strategy Group (D)<ref>{{Cite web|url=https://arktimes.com/arkansas-blog/2026/05/21/chris-jones-noses-ahead-of-french-hill|title=Chris Jones noses ahead of French Hill|first=Byron|last=Tate|website=[[Arkansas Times]]|date=May 21, 2026|access-date=August 6, 2026}}</ref>{{efn-ua|name=Jones|Poll sponsored by Jones' campaign}}
+|rowspan="2"|April 28 – May 8, 2026
+|660 (LV)
+|rowspan="2"|±&nbsp;3.5%
+|43%
+|{{party shading/Democratic}}|'''46%'''
+|11%
+|-
+|660 (RV)
+|41%
+|{{party shading/Democratic}}|'''47%'''
+|12%
+|}
+
+====Results====
+{{Election box begin|title=2026 Arkansas's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[French Hill (politician)|French Hill]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Chris Jones (Arkansas politician)|Chris Jones]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Arkansas's 3rd congressional district election
+| country = Arkansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arkansas#District 3
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Arkansas#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = Steve Womack 118thCongress (cropped).jpg
+| nominee1 = [[Steve Womack]] 
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Robb Ryerse 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day File:2026 Arkansas's 3rd congressional district election results map by county.svg
+| map_size = 150px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Steve Womack]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arkansas's 3rd congressional district}}
+The 3rd district encompasses the entirety of [[Benton County, Arkansas|Benton]], [[Carroll County, Arkansas|Carroll]], [[Crawford County, Arkansas|Crawford]], [[Madison County, Arkansas|Madison]], [[Sebastian County, Arkansas|Sebastian]] and [[Washington County, Arkansas|Washington]] counties. The incumbent is Republican [[Steve Womack]], who was elected with 63.8% of the vote in 2024.<ref name="HPVT" />
+
+===Republican primary===
+====Nominee====
+*[[Steve Womack]], incumbent U.S. representative<ref>{{cite news |last1=Palafox |first1=Nayely |title=Womack eyes reelection to Congress in 2026 election |url=https://www.5newsonline.com/article/news/local/steve-womack-seeks-reelection-congress/527-e809e773-d191-4c95-a33b-5bb73bfc59ec |access-date=May 20, 2025 |publisher=[[KFSM-TV]] |date=May 20, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Steve Womack
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[President of the United States]] (2017–2021, 2025–present)<ref name="Trump endorses" />
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Steve Womack (R)
+|$1,871,760.74
+|$1,183,378.23
+|$2,404,276.17
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Arkansas 3rd |url=https://www.fec.gov/data/elections/house/AR/03/2026/ |publisher=[[Federal Election Commission]] |access-date=February 21, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+*Robb Ryerse, pastor and Republican candidate for this district in [[2018 United States House of Representatives elections in Arkansas#District 3|2018]]<ref>{{cite web |last1=Thomas |first1=Alex |title=Robb Ryerse seeks 2018 rematch with '26 run in 3rd District |url=https://www.nwaonline.com/news/2025/jul/19/robb-ryerse-seeks-2018-rematch-with-26-run-in-3rd/ |access-date=September 11, 2025 |publisher=[[Northwest Arkansas Democrat-Gazette]] |date=July 19, 2025}}</ref>
+
+==== Withdrawn ====
+* Diana Lawrence, former customer service, realtor, and substitute teacher<ref>{{Cite web |title=About Diana Lawrence, Candidate for US Congress for Arkansas District 3 |url=https://www.dianalawrencecongress.com/Withdraw.shtml |access-date=2025-11-13 |website=dianalawrencecongress.com}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Robb Ryerse
+|list=
+;Organizations
+*[[Track AIPAC]]<ref name=TrackAIPAC>{{cite web |title=Candidates Endorsed By Citizens Against AIPAC Corruption |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+*[[Vote Common Good]]<ref>{{cite web |title=2026 Candidates for Common Good |url=https://www.votecommongood.com/candidates-for-common-good-2026/ |website=Vote Common Good |access-date=21 January 2026}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|''Diana Lawrence (D)''
+|$12,930.72
+|$12,930.72
+|$0.00
+|-
+|{{party shading/Democratic}}|Robb Ryerse (D)
+|$120,526.35
+|$114,575.79
+|$5,950.56
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+
+===Third-party and independent candidates===
+=== Candidates ===
+==== Declared ====
+*Bobby Wilson ([[Libertarian Party (United States)|Libertarian]]), nominee for this district in [[2024 United States House of Representatives elections in Arkansas#District 3|2024]]<ref name="Ark Lib">{{Cite web |last=Swaim |first=Kyler |title=Arkansas Libertarians nominate candidates for 2026 general election |url=https://www.myarklamiss.com/news/arkansas-news/arkansas-libertarians-nominate-candidates-for-2026-general-election/ |access-date=February 25, 2026 |website=politics1.com |language=en}}</ref>
+
+====Withdrawn====
+*Christopher Hocevar, graduate research assistant ''(did not file)''<ref name="ARrunning" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Christopher Hocevar (I)
+|$1,631.83
+|$1,443.04
+|$188.79
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+
+===General election===
+
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| style="text-align:left" | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| style="text-align:left" | [[Inside Elections]]<ref name="IE Initial" />
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|style="text-align:left" | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|-
+|style="text-align:left" | [[The Economist]]<ref name="Economist interactive" />
+| {{USRaceRating|Safe|R}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Robb Ryerse
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+
+;Organizations
+*[[Progressive Democrats of America]]<ref>{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements |archive-url=https://web.archive.org/web/20260918165120/https://pdamerica.org/endorsements |website=[[Progressive Democrats of America]] |access-date=20 October 2026 |archive-date=18 September 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Steve Womack (R)
+|$1,871,761
+|$1,183,378
+|$2,404,276
+|-
+|{{party shading/Democratic}}| Robb Ryerse (D)
+|$120,526
+|$114,576
+|$5,951
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC AR2026">{{cite web |title=2026 Election United States House - Arkansas |url=https://www.fec.gov/data/elections/house/AR/2026/ |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arkansas's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Steve Womack]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Robb Ryerse
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Bobby Wilson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Arkansas's 4th congressional district election
+| country = Arkansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Arkansas#District 4
+| previous_year = 2024
+| election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
+| next_election = 2028 United States House of Representatives elections in Arkansas#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Bruce Westerman 118th Congress (cropped).jpeg
+| nominee1 = [[Bruce Westerman]] 
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = James Russell
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day File:2026 Arkansas's 4th congressional district election results map by county.svg
+| map_size = 230px
+| map_caption = County results-->
+| title = U.S. Representative
+| before_election = [[Bruce Westerman]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Arkansas's 4th congressional district}}
+The 4th district encompasses large parts of rural Arkansas, including the majority of its Southern half, and a stretch to the north-west which includes [[Pope County, Arkansas|Pope County]] and others. It also shares part of the state capital, [[Little Rock]] with the [[Arkansas's 2nd congressional district|2nd district]], though it is a smaller portion. The incumbent is Republican [[Bruce Westerman]], who was elected with 72.9% of the vote in 2024.
+
+===Republican primary===
+====Nominee====
+*[[Bruce Westerman]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848882 |url=https://docquery.fec.gov/cgi-bin/forms/H4AR04048/1848882/ |access-date=2025-09-30 |publisher=[[Federal Election Commission]]}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Bruce Westerman
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[President of the United States]] (2017–2021, 2025–present)<ref name="Trump endorses" />
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Bruce Westerman (R)
+|$2,562,973.36
+|$928,087.20
+|$4,668,446.56
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Arkansas 4th |url=https://www.fec.gov/data/elections/house/AR/04/2026/ |publisher=[[Federal Election Commission]] |access-date=February 21, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+*James Russell, mental health advocate and candidate for governor in [[2022 Arkansas gubernatorial election|2022]] ''(previously [[2026 United States Senate election in Arkansas|ran for U.S. Senate]])''<ref>{{cite web |last2=Lee |first2=Yuna |last1=Roberts |first1=Adam |title=James 'Rus' Russell exits Senate race, announces bid for Congress |url=https://www.4029tv.com/article/james-russell-congress/69180583 |access-date=October 28, 2025 |publisher=[[KHBS]] |date=October 28, 2025}}</ref>
+
+====Eliminated in primary====
+*Steven O'Donnell, [[United States Navy|Navy]] veteran and small business owner<ref>{{Cite web |title=SOS Candidate Search |url=https://candidates.arkansas.gov/ |archive-url=https://web.archive.org/web/20251111221851/https://candidates.arkansas.gov/ |archive-date=2025-11-11 |access-date=2025-11-13 |website=SOS Candidate Search |language=en-US}}</ref>
+
+====Results====
+[[File:2026 United States House of Representatives Democratic primary election in Arkansas's fourth congressional district results map by county.svg|thumb|230px|Results by county
+{{collapsible list
+| title={{legend|#7996e2|Russell}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+}}
+{{collapsible list
+| title={{legend|#51C2C2|O'Donnell}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+}}
+]]
+
+{{Election box begin no change
+ | title=Democratic primary results<ref name="ARKMAR3PRIMARY" />}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=James Russell
+ | votes= 13,092
+ | percentage= 53.0}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Steven O'Donnell
+ | votes= 11,616
+ | percentage= 47.0}}
+{{Election box total no change
+ | votes= 24,708
+ | percentage=100.0}}
+{{Election box end}}
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| style="text-align:left" | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| style="text-align:left" | [[Inside Elections]]<ref name="IE Initial" />
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|style="text-align:left" | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|-
+|style="text-align:left" | [[The Economist]]<ref name="Economist interactive" />
+| {{USRaceRating|Safe|R}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=James Russell
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Bruce Westerman (R)
+|$2,562,973
+|$928,087
+|$4,668,447
+|-
+|{{party shading/Democratic}}| James Russell (D)
+|$5,853
+|$5,628
+|$907
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC AR2026">{{cite web |title=2026 Election United States House - Arkansas |url=https://www.fec.gov/data/elections/house/AR/2026/ |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Arkansas's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Bruce Westerman]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = James Russell 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==See also==
+*[[Elections in Arkansas]]
+*[[Political party strength in Arkansas]]
+*[[Arkansas Democratic Party]]
+*[[Arkansas Republican Party]]
+*[[Government of Arkansas]]
+*[[2026 United States Senate election in Arkansas]]
+*[[2026 United States House of Representatives elections]]
+*[[2026 United States elections]]
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+* [https://www.meetrickcrawford.com/ Rick Crawford (R)]
+* [https://terrigreen26.com/ Terri Green (D)]
+* [https://www.steve-parsons.com/ Steve Parsons (L)]
+
+;Official campaign websites for 2nd district candidates
+* [https://www.electfrench.com/ French Hill (R)]
+* [https://chrisjonesforcongress.com/ Chris Jones (D)]
+
+;Official campaign websites for 3rd district candidates
+* [https://chocevar.com/ Christopher Hocevar (I)]
+* [https://www.robbforcongress.com/ Robb Ryerse (D)]
+* [https://www.womackforcongress.com/about/ Steve Womack (R)]
+
+;Official campaign websites for 4th district candidates
+* [https://russellforar.com/ James Russell (D)]
+* [https://www.brucewesterman.com/ Bruce Westerman (R)]
+
+{{Arkansas elections}}
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Arkansas|2026]]
+[[Category:2026 elections in Arkansas|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Arkansas]]

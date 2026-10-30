@@ -1,0 +1,2897 @@
+{{short description|none}}
+{{Use mdy dates|date=November 2022}}
+{{use American English|date=November 2022}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Maryland
+| country = Maryland
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland
+| next_year = 2028
+| seats_for_election = All 8 Maryland seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = 7
+| seats1 = '''7'''
+| seat_change1 = 
+| popular_vote1 = 
+| percentage1 = 
+| swing1 = 
+| party2 = Republican Party (United States)
+| last_election2 = 1
+| seats2 = 
+| seat_change2 = 
+| popular_vote2 = 
+| percentage2 = 
+| swing2 = 
+| map_image = 
+| map_caption = 
+}}
+{{ElectionsMD}}
+The '''2026 United States House of Representatives elections in Maryland''' will be held on November 3, 2026, to elect the eight [[U.S. representative]]s from the [[U.S. state|state]] of [[Maryland]], one from each of the state's eight [[Maryland's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives and various [[2026 United States elections#State elections|state]] and [[2026 United States elections#Local elections|local elections]]. The primary elections took place on June 23, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+== Failed redistricting attempt ==
+In November 2025, as a part of the broader [[2025–2026 United States redistricting]], Governor [[Wes Moore]] announced the formation of the Governor's Redistricting Advisory Commission, which was tasked with holding public hearings and providing recommendations for a new congressional map.<ref>{{cite news |last1=Sears |first1=Bryan P. |title=Moore forges ahead with redistricting effort, announcing advisory commission |url=https://marylandmatters.org/2025/11/04/moore-forges-ahead-with-redistricting-effort-announcing-advisory-commission/ |access-date=November 4, 2025 |work=Maryland Matters |date=November 4, 2025}}</ref> On January 20, 2026, the commission voted to recommend a congressional map that would redraw [[Maryland's 1st congressional district]] to improve the Democratic Party's chances of winning it.<ref>{{cite news |last1=Wood |first1=Pamela |title=Maryland commission recommends new congressional boundaries favoring Democrats |url=https://www.thebanner.com/politics-power/state-government/maryland-congressional-redistricting-vote-CFYGKDSGN5CD7NTAUEDP4ZAXQ4/ |access-date=January 20, 2026 |work=[[The Baltimore Banner]] |date=January 20, 2026 |language=en}}</ref> The map passed the [[Maryland House of Delegates]] by a 99–37 vote on February 2, 2026,<ref>{{cite news |last1=Wood |first1=Pamela |title=Maryland House approves congressional map; expected to stall in Senate |url=https://www.thebanner.com/politics-power/state-government/maryland-house-redistricting-vote-JOAA2YPSCJE5DLTUQKDLSH3ZW4/ |access-date=February 2, 2026 |work=[[The Baltimore Banner]] |date=February 2, 2026 |language=en}}</ref> but died in the [[Maryland Senate]] after Senate President [[Bill Ferguson (politician)|Bill Ferguson]] refused to hold a vote on the redistricting bill in the Senate.<ref>{{cite news |last1=Gaskill |first1=Hannah |title=Is MD's midcycle redistricting battle over? Yes, Ferguson says. |url=https://thedailyrecord.com/2026/02/20/maryland-opens-midcycle-redistricting-closed/ |access-date=February 20, 2026 |work=[[The Daily Record (Maryland)|The Daily Record]] |date=February 20, 2026}}</ref> In August 2026, the Maryland General Assembly convened for a special session, during which it passed [[2026 Maryland Question 3|Question 3]], which would exempt Maryland's congressional districts from guidelines in the [[Constitution of Maryland]] that require legislative districts to respect natural boundaries and the boundaries of political subdivisions. If approved by voters, it may allow Democrats to redraw its congressional maps ahead of the 2028 elections.<ref>{{cite news |last1=Gregory |first1=Matt |title=Maryland legislators approved a 'redistricting' referendum |url=https://www.wusa9.com/article/news/politics/maryland-house-sentae-approves-redistricting-ballot/65-59680979-7185-4501-8021-389586c1aa1b |access-date=September 12, 2026 |work=[[WUSA (TV)]] |date=September 12, 2026}}</ref>
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Maryland's 1st congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland #District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Andy Harris 115th Congress Higher dif (cropped).jpg
+| nominee1 = [[Andy Harris (politician)|Andy Harris]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Dan Schwartz 2026-10-13.png
+| nominee2 = Dan Schwartz
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Andy Harris (politician)|Andy Harris]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 1st congressional district}}
+The 1st district encompasses the entire [[Eastern Shore of Maryland]], including [[Salisbury, Maryland|Salisbury]], [[Harford County, Maryland|Harford County]], and parts of north [[Baltimore County, Maryland|Baltimore County]].<ref name = "valid source"/> The incumbent is Republican [[Andy Harris (politician)|Andy Harris]], who was re-elected with 59.4% of the vote in 2024.<ref name="HPVT">{{cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |website=[[The Cook Political Report with Amy Walter|Cook Political Report]] |access-date=January 31, 2025 |language=en}}</ref>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Andy Harris (politician)|Andy Harris]], incumbent U.S. representative<ref>{{cite news |last1=Tierney |first1=Lily |title=Harris makes reelection bid official |url=https://www.stardem.com/news/local_news/harris-makes-reelection-bid-official/article_8e17d7f7-9468-45f6-b527-31f782b969c5.html |access-date=February 3, 2026 |work=[[The Star Democrat]] |date=February 3, 2026 |language=en}}</ref>
+=====Eliminated in primary=====
+*Chris Bruneau, building contractor and candidate for this district in [[2024 United States House of Representatives elections in Maryland#District 1|2024]]<ref name="mdboe">{{cite web |title=2026 Gubernatorial Primary Election State Candidates List |url=https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=February 13, 2026}}</ref>
+
+=====Declined=====
+*[[Larry Hogan]], former [[governor of Maryland]] (2015–2023) and nominee for U.S. Senate in [[2024 United States Senate election in Maryland|2024]]<ref>{{cite news |last1=Karpovich |first1=Todd |title=Larry Hogan says he won’t seek another term as Maryland governor |url=https://www.baltimoresun.com/2026/01/20/larry-hogan-governor-maryland/ |access-date=January 20, 2026 |work=[[The Baltimore Sun]] |date=January 20, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Andy Harris
+| list =
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-andy-harris-md-01/|title=Freedom Caucus Fund Endorses Andy Harris for MD-01|date=June 18, 2026|access-date=September 15, 2026}}</ref>
+*[[National Right to Life Committee]]<ref>{{cite web |title=Maryland Endorsements |url=https://nrlvictoryfund.org/endorsements/maryland/ |website=nrlvictoryfund.org |publisher=National Right to Life Victory Fund |access-date=June 17, 2026}}</ref>
+*[[NRA Political Victory Fund]]<ref>{{cite web |title=NRA-PVF {{!}} Grades {{!}} Maryland |url=https://www.nrapvf.org/grades/maryland/ |website=NRA-PVF |publisher=NRA Political Victory Fund |access-date=June 2, 2026 |language=en-us}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Andy Harris (R)
+|$2,319,668
+|$1,221,001
+|$1,853,603
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Maryland 1st |url=https://www.fec.gov/data/elections/house/MD/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 MD-01 Republican primary.svg|thumb|170px|Results by county
+{{collapsible list
+| title = {{legend|#E27F7F|Harris}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+]]
+{{Election box begin no change |title = Republican primary results<ref name="Primary">{{cite web |title=Official 2026 Gubernatorial Primary Election Results for Representative in Congress |url=https://elections.maryland.gov/elections/2026/Primary_Results/gen_results_2026_4.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=June 20, 2026}}</ref> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Andy Harris (politician)|Andy Harris]] (incumbent)
+| party = Republican Party (United States)
+| votes = 54,122
+| percentage = 79.7
+}}
+{{Election box candidate with party link no change
+| candidate = Chris Bruneau
+| party = Republican Party (US)
+| votes = 13,788
+| percentage = 20.3
+}}
+{{Election box total no change
+| votes = 67,910
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Dan Schwartz, consumer advocate<ref>{{cite news |last1=Metz |first1=Konner |title=1st Congressional District hopefuls have varying takes on redistricting |url=https://www.stardem.com/news/local_news/1st-congressional-district-hopefuls-have-varying-takes-on-redistricting/article_04de2dba-c832-49af-914b-74ed03043ffc.html |access-date=November 1, 2025 |work=The Star Democrat |date=October 31, 2025 |language=en}}</ref>
+=====Eliminated in primary=====
+*Victor Guidice, commercial truck driver<ref name="mdboe" />
+*George Walish, former [[Saint Michaels, Maryland|Saint Michaels]] town commissioner<ref>{{cite news |title=Earleville Executive Launches 2026 Campaign Against Rep. Andy Harris |url=https://www.wmdt.com/2025/09/earleville-executive-launches-2026-campaign-against-rep-andy-harris/ |access-date=September 11, 2025 |work=[[WMDT]] |date=September 10, 2025}}</ref>
+*Randi White, marketing professional<ref name="mdboe" />
+
+====Endorsements====
+Endorsements in '''bold''' were made after the primary elections.
+{{Endorsements box
+| title = Dan Schwartz
+| list =
+'''U.S. representatives'''
+*[[Wayne Gilchrest]], {{ushr|MD|1|MD-01}} (1991–2009) ''(formerly Republican)''<ref>{{cite news |last1=Bontrager |first1=Will |title=With primary approaching, Democratic candidates court Kent County voters |url=https://www.myeasternshoremd.com/kent_county_news/news/with-primary-approaching-democratic-candidates-court-kent-county-voters/article_48a702a6-2c10-4808-a5cd-8791ec013c39.html |access-date=June 3, 2026 |work=MyEasternShoreMD |date=June 3, 2026 |language=en}}</ref>
+
+'''Statewide officials'''
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref>{{cite news |last1=Sears |first1=Bryan P. |title=Moore to announce first eight primary endorsements |url=https://marylandmatters.org/2026/04/28/moore-to-announce-first-eight-primary-endorsements/ |access-date=April 28, 2026 |work=[[Maryland Matters]] |date=April 28, 2026}}</ref>
+
+'''Organizations'''
+*[[Moms Demand Action]] ''(co-endorsed with White)''<ref name="moms"/>
+*'''[[Sierra Club]]'''<ref name="Sierra" />
+}}
+{{Endorsements box
+| title = Randi White
+| list =
+'''Organizations'''
+*[[Moms Demand Action]] ''(co-endorsed with Schwartz)''<ref name="moms"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Dan Schwartz (D)
+|$695,170{{efn|$15,568 of this total was self-funded by Schwartz}}
+|$622,595
+|$72,575
+|-
+|{{party shading/Democratic}}|Randi White (D){{Efn|As last reported on June 3, 2026}}
+|$18,225{{efn|$8,356 of this total was self-funded by White}}
+|$14,047
+|$1,381
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+[[File:2026 MD-01 Democratic primary.svg|thumb|170px|Results by county
+{{collapsible list
+| title = {{legend|#7996E2|Schwartz}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|White}}
+|{{legend|#FFDD55|40–50%}}
+|{{legend|#DEB02A|60–70%}}
+}}
+]]
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = Dan Schwartz
+| party = Democratic Party (United States)
+| votes = 19,821
+| percentage = 46.3
+}}
+{{Election box candidate with party link no change
+| candidate = Randi White
+| party = Democratic Party (US)
+| votes = 15,723
+| percentage = 36.7
+}}
+{{Election box candidate with party link no change
+| candidate = Victor Allen Guidice
+| party = Democratic Party (US)
+| votes = 4,274
+| percentage = 10.0
+}}
+{{Election box candidate with party link no change
+| candidate = George Walish
+| party = Democratic Party (US)
+| votes = 3,006
+| percentage = 7.0
+}}
+{{Election box total no change
+| votes = 42,824
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+==== Debate ====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Maryland's 1st congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (United States)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Andy Harris (politician)|Andy Harris]]
+! scope="col" | Dan Schwartz
+|-
+!1<ref>{{cite news |last1=Brown |first1=Danielle J. |title=In heated debate, Harris-Schwartz clash over diesel, agree on redistricting |url=https://marylandmatters.org/2026/10/14/in-heated-debate-harris-schwartz-clash-over-diesel-agree-on-redistricting/ |access-date=October 20, 2026 |work=[[Maryland Matters]] |date=October 14, 2026}}</ref>
+| style="white-space:nowrap;" | Oct. 13, 2026
+| style="white-space:nowrap;" | Eastern Shore [[League of Women Voters]]
+| style="white-space:nowrap;" | Glenna Heckathorn
+| style="white-space:nowrap;" | [[YouTube]]<ref>{{cite web |author1=QACTV |title=Maryland Congressional Candidate Forum - District 1 |url=https://www.youtube.com/watch?v=fwXUgLMff8w |website=YouTube |date=October 13, 2026}}</ref>
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|October 27, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Likely|R}}
+|October 20, 2026
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Andy<br>Harris (R)
+! style="width:100px;" |Dan<br>Schwartz (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Z to A Research (D)<ref>{{cite web |title=Baseline Poll Findings  Survey of likely midterm voters in MD-1 July 2026 |url=https://drive.google.com/file/d/1h21eJZ-tzlqNhbsPP3YFvqFUC5kGcd8B/view |publisher=Z to A Research |access-date=August 28, 2026}}</ref>{{efn-ua|Poll sponsored by Schwartz's campaign}}
+|July 23–27, 2026
+|482 (LV)
+|±&nbsp;4.46%
+|{{party shading/Republican}}|'''52%'''
+|39%
+|1%{{Efn|"Would not vote" with 1%}}
+|7%
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Andy Harris (R)
+|$2,319,668
+|$1,221,001
+|$1,853,603
+|-
+|{{party shading/Democratic}}|Dan Schwartz (D)
+|$695,170{{efn|$15,568 of this total was self-funded by Schwartz}}
+|$622,595
+|$72,575
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 1st congressional district election<ref name="gen">{{cite web |title=Unofficial 2026 Gubernatorial General Election Results for Representative in Congress |url=https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=October 28, 2026}}</ref> }}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Andy Harris (politician)|Andy Harris]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Dan Schwartz
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Maryland's 2nd congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland #District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Johnny Olszewski 119th congress (cropped).jpg
+| nominee1 = [[Johnny Olszewski]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Dave Wallace
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Johnny Olszewski]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 2nd congressional district}}
+The 2nd district encompasses much of [[Baltimore County, Maryland|Baltimore]] and [[Carroll County, Maryland|Carroll]] counties, along with a portion of Baltimore itself.<ref name="valid source">{{cite web |title=SB1012-2022-Md-Congress |url=https://redistricting.mgaleg.maryland.gov/PlanViewer-SB1012-Congressional/#SB1012-2022-Md-Congress |website=redistricting.mgaleg.maryland.gov |publisher=Maryland General Assembly |access-date=March 4, 2023}}</ref> The incumbent is Democrat [[Johnny Olszewski]], who was elected with 58.2% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Johnny Olszewski]], incumbent U.S. representative<ref>{{cite news |last1=Mause |first1=Ben |title=Rep. Johnny Olszewski Jr. launches reelection campaign for Congress |url=https://www.baltimoresun.com/2025/12/09/rep-johnny-olszewski-jr-launches-reelection-campaign-for-congress/ |access-date=December 9, 2025 |work=[[The Baltimore Sun]] |date=December 9, 2025}}</ref>
+
+=====Eliminated in primary=====
+*Clint Spellman Jr., insurance agent and candidate for this district in [[2024 United States House of Representatives elections in Maryland#District 2|2024]]<ref name="mdboe" />
+
+====Endorsements====
+{{Endorsements box
+|title=Johnny Olszewski
+|columns=yes
+|list=
+;Statewide officials
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref name="Moore">{{cite web |title=Governor Moore Endorses Leaders Across Maryland To Finish The Job |url=https://wesmoore.com/governor-moore-endorses-leaders-across-maryland-to-finish-the-job/ |website=Wes Moore for Maryland |access-date=May 7, 2026 |date=May 7, 2026}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Announces Slate of Maryland Endorsements Ahead of June 23 Primary |url=https://www.afge.org/publication/largest-federal-employee-union-announces-slate-of-maryland-endorsements-ahead-of-june-23-primary/ |website=www.afge.org |publisher=[[American Federation of Government Employees]] |access-date=May 27, 2026 |language=en |date=May 27, 2026}}</ref>
+*[[American Federation of State, County and Municipal Employees]] Council 3<ref name="AFSCME3">{{cite web |title=Our Endorsements |url=https://afscmemd.org/vote |website=afscmemd.org |publisher=AFSCME Maryland Council 3 |access-date=May 6, 2026 |language=en}}</ref>
+*[[Association of Flight Attendants]]<ref name="AFACWA">{{cite web |title=Endorsements |url=https://afacwa.org/endorsements/ |website=Association of Flight Attendants |access-date=May 4, 2026}}</ref>
+*Maryland State & DC [[AFL-CIO]]<ref name="mdaflcio">{{cite web |title=Endorsements 2026 |url=https://mddclabor.org/endorsements-2026 |publisher=Maryland State & DC AFL-CIO |access-date=April 28, 2026}}</ref>
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=educationvotes.nea.org |publisher=National Education Association |access-date=February 22, 2026}}</ref>
+*[[Service Employees International Union]] Local 500<ref name="BusBallot"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="Humane"/>
+*[[International Franchise Association]]<ref>{{cite web |title=IFA Endorses Congressional Candidates in 13 States Ahead of June Primary Elections - International Franchise Association |url=https://www.franchise.org/2026/05/ifa-endorses-congressional-candidates-in-13-states-ahead-of-june-primary-elections/ |website=www.franchise.org |publisher=International Franchise Association |access-date=June 2, 2026 |date=May 29, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=September 13, 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[J Street]]<ref>{{cite web | title=Johnny Olszewski | url=https://jstreetpac.org/candidate/johnny-olszewski/ }}</ref>
+*[[League of Conservation Voters]] Action Fund<ref name="LCV">{{cite web |title=2025-2026 Endorsements |url=https://www.lcv.org/endorsements/ |website=League of Conservation Voters |access-date=February 22, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Sierra Club]]<ref name="Sierra"/>
+
+;Newspapers
+*''[[Baltimore Afro-American]]''<ref name="AFRO">{{cite news |last1=Sayles |first1=Megan |title=AFRO Endorsements 2026|url=https://afro.com/baltimore-washington-e-edition/ |access-date=June 8, 2026 |work=[[Baltimore Afro-American]] |date=June 5, 2026 |page=A4}}</ref>
+}}
+{{Endorsements box
+|title=Clint Spellman Jr.
+|list=
+;Organizations
+*[[Vote Common Good]]<ref>{{cite web |title=2026 Candidates for Common Good |url=https://www.votecommongood.com/candidates-for-common-good-2026/ |website=Vote Common Good |access-date=21 January 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Johnny Olszewski (D)
+|$1,040,389
+|$592,706
+|$614,275
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Maryland 2nd |url=https://www.fec.gov/data/elections/house/MD/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Johnny Olszewski]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 65,646
+| percentage = 84.5
+}}
+{{Election box candidate with party link no change
+| candidate = Clint Spellman, Jr.
+| party = Democratic Party (US)
+| votes = 12,019
+| percentage = 15.5
+}}
+{{Election box total no change
+| votes = 77,665
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Dave Wallace, business owner and perennial candidate<ref name="mdboe" />
+
+=====Eliminated in primary=====
+*Nnabu Eze, IT contractor and perennial candidate<ref name="mdboe" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Dave Wallace (R)
+|$20,194
+|$17,122
+|$3,073
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = Dave Wallace
+| party = Republican Party (United States)
+| votes = 27,136
+| percentage = 88.9
+}}
+{{Election box candidate with party link no change
+| candidate = Nnabu Eze
+| party = Republican Party (US)
+| votes = 3,404
+| percentage = 11.2
+}}
+{{Election box total no change
+| votes = 30,540
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Johnny Olszewski (D)
+|$1,040,389
+|$592,706
+|$614,275
+|-
+|{{party shading/Republican}}|Dave Wallace (R)
+|$20,194
+|$17,122
+|$3,073
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 2nd congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Johnny Olszewski]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Dave Wallace
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Maryland's 3rd congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland #District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = Sarah Elfreth 119th congress (cropped).jpg
+| nominee1 = [[Sarah Elfreth]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Berney Flowers
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Sarah Elfreth]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 3rd congressional district}}
+The 3rd district encompasses all of [[Howard County, Maryland|Howard County]], much of [[Anne Arundel County, Maryland|Anne Arundel County]], including [[Annapolis, Maryland|Annapolis]], and parts of [[Carroll County, Maryland|Carroll County]].<ref name = "valid source"/> The incumbent is Democrat [[Sarah Elfreth]], who was elected with 59.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Sarah Elfreth]], incumbent U.S. representative<ref>{{cite news |last1=Wilson |first1=Katharine |title=Rep. Sarah Elfreth launches reelection campaign in Maryland's 3rd District |url=https://www.baltimoresun.com/2025/09/17/elfreth-re-election/ |access-date=September 17, 2025 |work=[[The Baltimore Sun]] |date=September 17, 2025}}</ref>
+
+=====Eliminated in primary=====
+*Jennifer Cross<ref name="mdboe" />
+*Austin Dyches, [[U.S. Army]] veteran<ref name="mdboe"/>
+*Sean Hammond<ref name="mdboe"/>
+*Robert Morrison<ref name="mdboe"/>
+
+=====Withdrew=====
+*John Rea, perennial candidate<ref name="mdboe"/>
+*Felix Seier, [[U.S. Navy]] veteran ''(running as a Republican)''<ref name="mdboe"/>
+
+====Endorsements====
+Endorsements in '''bold''' were made after the primary elections.
+{{Endorsements box
+|title=Austin Dyches
+|list=
+'''Organizations'''
+*[[Council on American–Islamic Relations]] Action<ref name="CAIR">{{cite web |title=CAIR Action Maryland Primary Election Voter Guide 2026 |url=https://cairaction.org/wp-content/uploads/2026/06/MD-Voter-Guide-1_compressed-1.pdf |website=cairaction.org |access-date=June 5, 2026}}</ref>
+*[[Track AIPAC]]<ref name=Track/>
+}}
+{{Endorsements box
+|title=Sarah Elfreth
+|columns=yes
+|list=
+'''Statewide officials'''
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref name="Moore"/>
+
+'''Labor unions'''
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*[[American Federation of State, County and Municipal Employees]] Council 3<ref name="AFSCME3"/>
+*Maryland State & DC [[AFL-CIO]]<ref name="mdaflcio" />
+*[[National Education Association]]<ref name="NEA"/>
+*[[Service Employees International Union]] Local 500<ref name="BusBallot"/>
+*[[United Food and Commercial Workers]] Local 1994 MCGEO<ref name="UFCW1994">{{cite web |title=2026 Montgomery County Endorsements - UFCW Local 1994 MCGEO |url=https://www.mcgeo.org/2026-elections/ |publisher=UFCW Local 1994 MCGEO |access-date=May 21, 2026 |date=31 March 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Elect Democratic Women]]<ref name="EDWDEC">{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=5 December 2025}}</ref>
+*'''[[Humane World for Animals|Humane World Action Fund]]'''<ref name="humaneaction">{{cite web |title=Endorsements {{!}} Humane World Action Fund |url=https://humaneaction.org/endorsements |website=humaneaction.org |access-date=September 22, 2026 |language=en}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA" />
+*[[League of Conservation Voters]] Action Fund<ref name="LCV" />
+*[[Moms Demand Action]]<ref name="moms">{{cite web |title=Your 2026 Gun Sense Candidates |url=https://gunsensevoter.org/candidates/ |website=Gun Sense Voter |access-date=April 17, 2026}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |url=https://nwpc.org/endorsed-candidates/ |website=National Women's Political Caucus |access-date=April 22, 2026}}</ref>
+*[[Natural Resources Defense Council]] Action Fund<ref>{{cite web |title=NRDC Action Fund Endorsements |url=https://www.nrdcactionfund.org/nrdc-action-fund-endorsements/ |website=NRDC Action Fund |access-date=June 22, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Sierra Club]]<ref name="Sierra">{{cite web |title=2026 Endorsements |url=https://www.sierraclubindependentaction.org/endorsements |website=Sierra Club Independent Action |access-date=18 January 2026 |archive-url=https://web.archive.org/web/20260601182609/https://www.sierraclubindependentaction.org/endorsements |archive-date=June 1, 2026 |url-status=dead}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sarah Elfreth (D)
+|$1,139,858
+|$834,771
+|$335,826
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Maryland 3rd |url=https://www.fec.gov/data/elections/house/MD/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Sarah Elfreth]] (incumbent)
+| party = Democratic Party (US)
+| votes = 55,784
+| percentage = 74.7
+}}
+{{Election box candidate with party link no change
+| candidate = Austin Dyches
+| party = Democratic Party (US)
+| votes = 7,999
+| percentage = 10.7
+}}
+{{Election box candidate with party link no change
+| candidate = Jennifer Cross
+| party = Democratic Party (US)
+| votes = 6,178
+| percentage = 8.3
+}}
+{{Election box candidate with party link no change
+| candidate = Sean Hammond
+| party = Democratic Party (US)
+| votes = 2,744
+| percentage = 3.7
+}}
+{{Election box candidate with party link no change
+| candidate = Robert Gerald Morrison
+| party = Democratic Party (US)
+| votes = 1,961
+| percentage = 2.6
+}}
+{{Election box total no change
+| votes = 74,666
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Berney Flowers, former inter-agency technical advisor for [[NORAD]] and  [[USNORTHCOM]], candidate for the 2nd district in [[2022 United States House of Representatives elections in Maryland#District 2|2022]], and this district in [[2024 United States House of Representatives elections in Maryland#District 3|2024]]<ref name="mdboe"/>
+
+=====Eliminated in primary=====
+*Ray Bly, perennial candidate<ref name="mdboe"/>
+*Felix Seier, [[U.S. Navy]] veteran ''(previously ran as a Democrat)''<ref name="mdboe"/>
+*John White<ref name="mdboe" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Berney Flowers (R)
+|$9,860
+|$8,100
+|$2,016
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = Berney Flowers
+| party = Republican Party (US)
+| votes = 10,428
+| percentage = 48.9
+}}
+{{Election box candidate with party link no change
+| candidate = John White
+| party = Republican Party (US)
+| votes = 5,491
+| percentage = 25.8
+}}
+{{Election box candidate with party link no change
+| candidate = Ray Bly
+| party = Republican Party (US)
+| votes = 3,241
+| percentage = 15.2
+}}
+{{Election box candidate with party link no change
+| candidate = Felix M. Seier
+| party = Republican Party (US)
+| votes = 2,156
+| percentage = 10.1
+}}
+{{Election box total no change
+| votes = 21,316
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Sarah Elfreth (D)
+|$1,139,858
+|$834,771
+|$335,826
+|-
+|{{party shading/Republican}}| Berney Flowers (R)
+|$9,860
+|$8,100
+|$2,016
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 3rd congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Sarah Elfreth]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Berney Flowers
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Maryland's 4th congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Glenn Ivey official portrait, 118th Congress (cropped).jpg
+| nominee1 = [[Glenn Ivey]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = George McDermott
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Glenn Ivey]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 4th congressional district}}
+The 4th district encompasses parts of the [[Washington, D.C.]] suburbs in [[Prince George's County, Maryland|Prince George's County]], including [[Landover, Maryland|Landover]], [[Laurel, Maryland|Laurel]], and [[Suitland, Maryland|Suitland]].<ref name = "valid source"/> The incumbent is Democrat [[Glenn Ivey]], who was re-elected with 88.4% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Candidates====
+====Nominee====
+*[[Glenn Ivey]], incumbent U.S. representative<ref name="mdboe" />
+=====Eliminated in primary=====
+*Joseph Gomes, social worker and candidate for this district in [[2024 United States House of Representatives elections in Maryland#District 4|2024]]<ref name="mdboe" />
+*Shavonne Hedgepeth, capital planner<ref name="Notes 10-14">{{cite news |last1=Crane |first1=Steve |last2=Ford |first2=William J. |title=Jackson, Fisher face off in Prince George's, more campaign news in political notes |url=https://marylandmatters.org/2025/10/13/jackson-fisher-face-off-in-prince-georges-more-campaign-news-in-political-notes/ |access-date=October 14, 2025 |work=[[Maryland Matters]] |date=October 14, 2025}}</ref>
+*Jakeya Johnson, grants specialist<ref name="Notes 10-14"/>
+=====Withdrawn=====
+*Jonathan White, social worker ''(remained on ballot, endorsed Johnson)''<ref>{{cite web |title=2026 Voter Guide |url=https://marylandmatters.org/voter-guides/contests/4th-district-democratic-primary/ |access-date=June 15, 2025 |work=[[Maryland Matters]] |date=June 12, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Glenn Ivey
+|columns=yes
+|list=
+;Statewide officials
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref name="Moore"/>
+
+;Labor unions
+*[[Amalgamated Transit Union]] Local 689<ref name="ATU689"/>
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*[[American Federation of State, County and Municipal Employees]] Council 3<ref name="AFSCME3"/>
+*Maryland State & DC [[AFL-CIO]]<ref name="mdaflcio" />
+*[[National Education Association]]<ref name="NEA"/>
+*[[Service Employees International Union]] Local 500<ref name="BusBallot"/>
+*[[United Food and Commercial Workers]] Local 1994 MCGEO<ref name="UFCW1994"/>
+
+;Organizations
+*{{strikethrough|[[AIPAC]]}}<ref>{{cite news |last1=Deutch |first1=Gabby |title=AIPAC ends fundraising for endorsees who voted to cut off Israel aid |url=https://jewishinsider.com/2026/07/aipac-ends-fundraising-for-endorsees-who-voted-to-end-israel-aid/ |access-date=July 17, 2026 |work=[[Jewish Insider]] |date=July 17, 2026}}</ref>
+*[[Brady Campaign|Brady PAC]]<ref name="Brady">{{cite web |title=Candidates |url=https://elections.bradyunited.org/candidates?state=maryland |website=The Brady Campaign |access-date=June 15, 2026}}</ref>
+*{{strikethrough|[[Democratic Majority for Israel]]}}<ref>{{cite news |last1=Kassel |first1=Matthew |title=DMFI pauses endorsements of nine House Democrats who voted against aid to Israel |url=https://jewishinsider.com/2026/07/democratic-majority-for-israel-pac-9-house-democrats-endorsements/ |access-date=July 27, 2026 |work=[[Jewish Insider]] |date=July 27, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA" />
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Sierra Club]]<ref name="Sierra"/>
+
+;Newspapers
+*''[[Baltimore Afro-American]]''<ref name="AFRO"/>
+}}
+{{Endorsements box
+|title=Jakeya Johnson
+|list=
+;Organizations
+*[[Council on American–Islamic Relations]] Action<ref name="CAIR"/>
+*[[Progressive Victory]]<ref name="Progressive Victory">{{cite web |title=Endorsements for 2026 |url=https://www.progressivevictory.win/endorsements |website=Progressive Victory |access-date=April 5, 2026}}</ref>
+*[[Track AIPAC]]<ref name=Track>{{cite web |title=Our Endorsements |url=https://www.trackaipac.com/endorsements |website=Track AIPAC |access-date=December 4, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Shavonne Hedgepeth (D)
+|$29,652{{efn|$12,038 of this total was self-funded by Hedgepeth}}
+|$28,629
+|$0
+|-
+|{{party shading/Democratic}}|Glenn Ivey (D)
+|$674,406
+|$520,568
+|$459,226
+|-
+|{{party shading/Democratic}}|Jakeya Johnson (D)
+|$36,359{{efn|$1,209 of this total was self-funded by Johnson}}
+|$31,525
+|$4,834
+|-
+|{{party shading/Democratic}}|Jonathan White (D)
+|$34,101{{efn|$347 of this total was self-funded by White}}
+|$16,111
+|$18,090
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Maryland 4th |url=https://www.fec.gov/data/elections/house/MD/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Glenn Ivey]] (incumbent)
+| party = Democratic Party (US)
+| votes = 60,099
+| percentage = 79.2
+}}
+{{Election box candidate with party link no change
+| candidate = Jakeya Johnson
+| party = Democratic Party (US)
+| votes = 8,475
+| percentage = 11.2
+}}
+{{Election box candidate with party link no change
+| candidate = Shavonne N. Hedgepeth
+| party = Democratic Party (US)
+| votes = 3,697
+| percentage = 4.9
+}}
+{{Election box candidate with party link no change
+| candidate = Jonathan D. White
+| party = Democratic Party (US)
+| votes = 1,814
+| percentage = 2.4
+}}
+{{Election box candidate with party link no change
+| candidate = Joseph Gomes
+| party = Democratic Party (US)
+| votes = 1,793
+| percentage = 2.4
+}}
+{{Election box total no change
+| votes = 75,878
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*George McDermott, entrepreneur and perennial candidate<ref name="mdboe" />
+
+====Results====
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = George McDermott
+| party = Republican Party (United States)
+| votes = 1,923
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 1,923
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Third-party and independent candidates===
+====Candidates====
+*[[Sam Husseini]] (Green), communications director of the [[Institute for Public Accuracy]]<ref>{{cite news |last1=Hammann |first1=Will |title=Maryland Green Party announces its general election nominees |url=https://marylandmatters.org/2026/07/23/maryland-green-party-announces-its-general-election-nominees/ |access-date=July 23, 2026 |work=[[Maryland Matters]] |date=July 23, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Glenn Ivey (D)
+|$674,406
+|$520,568
+|$459,226
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 4th congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Glenn Ivey]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = George McDermott
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Green Party of the United States
+  |candidate  = [[Sam Husseini]]
+  |votes      = 
+  |percentage = 
+  |change = N/A
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Maryland's 5th congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = Adrian Boafo Feb2023.jpg
+| nominee1 = [[Adrian Boafo]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Chris Chaffee.jpg
+| nominee2 = Chris Chaffee
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Steny Hoyer]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 5th congressional district}}
+The 5th district is based in [[southern Maryland]], and encompasses [[Charles County, Maryland|Charles]], [[St. Mary's County, Maryland|St. Mary's]], [[Calvert County, Maryland|Calvert]] counties and a small portion of southern [[Anne Arundel County]], as well as the [[Washington, D.C.]] suburbs of [[Bowie, Maryland|Bowie]] and [[Greater Upper Marlboro, Maryland|Upper Marlboro]].<ref name = "valid source"/> Incumbent Democrat [[Steny Hoyer]], who was re-elected with 67.8% of the vote in 2024,<ref name="HPVT"/> announced in early January that he would not run for re-election.<ref name=StWi/>
+
+===Democratic primary===
+{{Multiple image|
+| perrow = 2
+|total_width=230
+|image1=Rushern Baker, May 2017.jpg
+|caption1=[[Rushern Baker]]
+|image2=Wala Blegay (54703685109).jpg
+|caption2=Wala Blegay
+|image3=Reuben B. Collins II (52795491080).jpg
+|caption3=Reuben Collins II
+|image4=Harry Dunn speaks at a Veteran's March, on March 14, 2025 (cropped) (cropped).png
+|caption4=[[Harry Dunn (police officer)|Harry Dunn]]
+|image5=Arthur Ellis 54748365950 (cropped).jpg
+|caption5=[[Arthur Ellis (Maryland politician)|Arthur Ellis]]
+|image6=3x4.svg
+}}
+
+====Candidates====
+=====Nominee=====
+*[[Adrian Boafo]], state delegate from the [[Maryland Legislative District 23|23rd district]] (2023–present)<ref>{{cite news |last1=Pusatory |first1=Matt |title=Prince George's County Del. Adrian Boafo is running for Congress |url=https://www.wusa9.com/article/news/politics/adrian-boafo-announces-run-to-succeed-steny-hoyer/65-094eb810-8dcd-414b-aeae-4e8eb4dd0323 |access-date=January 12, 2026 |work=[[WUSA (TV)]] |date=January 12, 2026}}</ref>
+
+=====Eliminated in primary=====
+*[[Rushern Baker]], former [[Prince George's County, Maryland|Prince George's County]] executive (2010–2018), candidate for [[Governor of Maryland|governor]] in [[2018 Maryland gubernatorial election|2018]] and [[2022 Maryland gubernatorial election|2022]], and candidate for county executive in [[2025 Prince George's County executive special election|2025]]<ref name="Beidle"/>
+*Quincy Bareebe, assisted living care center owner and candidate for this district in [[2024 United States House of Representatives elections in Maryland#District 5|2024]]<ref name="YoungHoyer">{{cite news |last1=Chingarande |first1=Tinashe |title=Young Maryland Democrats take on party’s most senior guard, Hoyer and Mfume |url=https://www.baltimoresun.com/2026/01/06/maryland-democrats-campaign-mfume-hoyer/ |access-date=January 6, 2026 |work=[[The Baltimore Sun]] |date=January 6, 2026}}</ref>
+*Wala Blegay, Prince George's County councilmember (2022–present)<ref>{{cite news |last1=Sears |first1=Bryan P. |last2=Ford |first2=William J. |title=5th District gets crowded, Ferguson won't say the 'D' word, Ellis' AI journey continues, in notes |url=https://marylandmatters.org/2026/02/03/5th-district-gets-crowded-ferguson-wont-say-the-d-word-ellis-ai-trek-continues-in-political-notes/ |access-date=February 4, 2026 |work=[[Maryland Matters]] |date=February 4, 2026}}</ref>
+*Reuben Collins II, president of the [[Charles County, Maryland|Charles County]] Board of Commissioners (2018–present)<ref>{{cite news |last1=Ford |first1=William J. |last2=Sears |first2=Bryan P. |title=Crosby out, Collins in, a Muslim Caucus forms and Nkongolo reflects on Lincoln, in political notes |url=https://marylandmatters.org/2026/02/16/crosby-out-collins-in-a-muslim-caucus-forms-and-nkongolo-reflects-on-lincoln-in-political-notes/ |access-date=February 17, 2026 |work=[[Maryland Matters]] |date=February 17, 2026}}</ref>
+*Ellis Colvin, [[U.S. Army]] veteran<ref name="mdboe" />
+*[[Harry Dunn (police officer)|Harry Dunn]], former [[U.S. Capitol Police]] officer and candidate for the 3rd district in [[2024 United States House of Representatives elections in Maryland#District 3|2024]]<ref>{{cite news |last1=Broadwater |first1=Luke |title=Ex-Capitol Police Officer Harry Dunn Seeks Maryland House Seat |url=https://www.nytimes.com/2026/02/04/us/politics/harry-dunn-maryland-house.html |access-date=February 4, 2026 |work=[[The New York Times]] |date=February 4, 2026}}</ref>
+*[[Arthur Ellis (Maryland politician)|Arthur Ellis]], state senator from the [[Maryland Legislative District 28|28th district]] (2019–present)<ref name="Ellis">{{cite news |last1=Ibarhim |first1=Mennatalla |last2=Wilson |first2=Katharine |title=State Sen. Arthur Ellis to enter race for Hoyer’s congressional seat |url=https://www.baltimoresun.com/2026/02/17/arthur-ellis-ct-wilson-senate-congress/ |access-date=February 17, 2026 |work=[[The Baltimore Sun]] |date=February 17, 2026}}</ref>
+*Elldwnia English<ref name="mdboe" />
+*Harry Jarin, emergency services consultant<ref>{{cite news |last1=Howard |first1=Andrew |title=Rep. Steny Hoyer draws a challenger who makes the age argument explicit |url=https://www.politico.com/news/2025/05/29/hoyer-challenger-age-harry-jarin-00373866 |access-date=May 29, 2025 |work=[[Politico]] |date=May 29, 2025}}</ref>
+*Walter Kirkland, community activist<ref name="mdboe" />
+*Jerry Lightfoot<ref name="mdboe" />
+*Heather Luper, social worker<ref name="YoungHoyer"/>
+*James Makle Jr., emergency medical technician<ref name="mdboe" />
+*Leigha Messick, nonprofit executive<ref name="mdboe" />
+*Keith Salkowski, actor and [[Green Party of the United States|Green Party]] nominee for the 2nd district in [[2004 United States House of Representatives elections in Maryland#District 2|2004]]<ref name="mdboe" />
+*Kenny Simons, lobbyist<ref name="YoungHoyer"/>
+*Alexis Solis, consulting firm owner<ref name="YoungHoyer"/>
+*Tracy Starr, former [[USAID]] crisis operations officer<ref>{{cite news |last1=Wintrode |first1=Brenda |title=Terminated by Trump, Maryland federal workers are running for new jobs |url=https://www.thebanner.com/politics-power/state-government/maryland-fired-federal-workers-donald-trump-candidates-P2CA3AFE6JH67GQQPUZJE3XXAU/ |access-date=June 16, 2026 |work=[[The Baltimore Banner]] |date=June 16, 2026 |language=en}}</ref>
+*David Sundberg, former [[FBI]] assistant director<ref>{{cite news |last1=Savage |first1=Charlie |title=Former F.B.I. Official, Ousted Under Trump, Will Run for Congress in Maryland |url=https://www.nytimes.com/2026/02/23/us/politics/former-fbi-official-congress-maryland.html |access-date=February 23, 2026 |work=[[The New York Times]] |date=February 23, 2026}}</ref>
+*Harold Tolbert, entrepreneur<ref name="mdboe" />
+
+=====Withdrew=====
+*Mark Arness, [[U.S. Air Force]] veteran and Republican nominee for this district in [[2016 United States House of Representatives elections in Maryland#District 5|2016]] and candidate in [[2014 United States House of Representatives elections in Maryland#District 5|2014]] ''(remained on ballot)''<ref>{{cite news |title=U.S. House, 5th District Democrats {{!}} Voter Guide: 2026 Primary election • Maryland |url=https://marylandmatters.org/voter-guides/contests/5th-district-democratic-primary/ |access-date=June 10, 2026 |work=[[Maryland Matters]] |date=June 10, 2026}}</ref>
+*Jennifer Cross ''(ran in the 3rd district)''<ref name="mdboe" />
+*Terry Jackson, former federal physical security specialist ''(remained on ballot)''<ref>{{cite news |last1=Williams |first1=John-John IV |title=Who succeeds Steny Hoyer could offer a glimpse into Democrats’ future |url=https://www.thebanner.com/politics-power/maryland-congress-steny-hoyer-5th-district-VS3K47GGBJABDO3IEGBIDJUVBU/ |access-date=June 21, 2026 |work=[[The Baltimore Banner]] |date=June 21, 2026 |language=en}}</ref>
+*[[Nicole A. Williams|Nicole Williams]], state delegate from the [[Maryland Legislative District 22|22nd district]] (2019–present) ''(remained on ballot)''<ref name="Williams">{{cite news |last1=Ford |first1=William J. |title=Del. Nicole Williams drops out of crowded 5th District race for Congress |url=https://marylandmatters.org/2026/05/05/del-nicole-williams-drops-out-of-crowded-5th-district-race-for-congress/ |access-date=May 5, 2026 |work=[[Maryland Matters]] |date=May 5, 2026}}</ref>
+
+=====Declined=====
+*Tim Adams, [[Prince George's County, Maryland|Prince George's County]] councilmember from the 4th district (2026–present), former mayor of [[Bowie, Maryland|Bowie]] (2019–2026) and candidate for [[comptroller of Maryland|comptroller]] in [[2022 Maryland Comptroller election|2022]] ''(running for re-election)''<ref>{{cite web |title=2026 Gubernatorial Primary Election Local Candidates List |url=https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_all_counties_candidatelist.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=February 21, 2026}}</ref>
+*[[Steny Hoyer]], incumbent U.S. representative<ref name=StWi>{{cite news |last1=Kane |first1=Paul |title=Rep. Steny Hoyer to retire, ending storied career in elected office |url=https://www.washingtonpost.com/politics/2026/01/07/steny-hoyer-retire-congress/ |access-date=January 7, 2026 |work=[[The Washington Post]] |date=January 7, 2026}}</ref> ''(endorsed Boafo)''<ref name="Backing">{{cite news |last2=Vazquez |first2=Maegan |last1=Dent |first1=Alec |title=Hoyer endorses former campaign manager in race to succeed him in Congress |url=https://www.washingtonpost.com/politics/2026/01/23/steny-hoyer-house-seat-maryland/ |access-date=January 23, 2026 |work=[[The Washington Post]] |date=January 23, 2026}}</ref>
+*[[Steuart Pittman]], [[Anne Arundel County]] executive (2018–present) and chair of the [[Maryland Democratic Party]] (2025–present)<ref>{{cite news |last1=Wood |first1=Pamela |title=Steuart Pittman on chairing the Maryland Democratic party |url=https://www.thebaltimorebanner.com/politics-power/state-government/steuart-pittman-maryland-democratic-party-5VSPE23UGJEKTALFHG4FNNAPVE/ |access-date=June 21, 2025 |work=[[The Baltimore Banner]] |date=June 21, 2025 |language=en |quote=I don't intend to run for another office.}}</ref>
+*[[C. T. Wilson]], state delegate from the [[Maryland Legislative District 28|28th district]] (2011–present) ''([[2026 Maryland Senate election#District 28|running for state senate]])''<ref name="wilson">{{cite news |last1=Sears |first1=Bryan P. |title=Wilson files for state Senate seat of Ellis, who's eyeing bid for Hoyer's seat in Congress |url=https://marylandmatters.org/2026/02/17/wilson-files-for-state-senate-seat-as-ellis-eyes-congress/ |access-date=February 17,  2026 |work=[[Maryland Matters]] |date=February 17,  2026}}</ref>
+
+====Endorsements====
+Endorsements in '''bold''' were made after the primary election.
+{{Endorsements box
+|title=Rushern Baker
+|list=
+;Executive Branch officials
+*[[Martin O'Malley]], former commissioner of the [[Social Security Administration]] (2023–2024) and [[governor of Maryland]] (2007–2015)<ref>{{cite news |last1=Resnicow |first1=Mia |title=Maryland Primary: Who Will Replace Rep. Steny Hoyer? |url=https://www.jewishtimes.com/maryland-primary-who-will-replace-rep-steny-hoyer/ |access-date=May 15, 2026 |work=[[Baltimore Jewish Times]] |date=May 15, 2026}}</ref>
+
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+*[[With Honor Fund]]<ref>{{Cite web |title=Endorsed Candidates |url=https://withhonorfundiii.org/endorsements/ |access-date=May 5, 2026 |website=With Honor Fund III |language=en-US}}</ref>
+}}
+{{Endorsements box
+|title=Quincy Bareebe
+|list=
+;U.S. representatives
+*[[Jamaal Bowman]], former {{ushr|NY|16|NY-16}} (2021–2025)<ref>{{cite web |last1=Abamu |first1=Jenny |title=A Maryland businesswoman is spending millions to run for Congress. Lawsuits and her own backstory are complicating her campaign |url=https://wamu.org/story/26/06/18/maryland-businesswoman-spend-millions-congress-lawsuits-backstory-complicating-her-campaign/ |website=WAMU |access-date=20 June 2026 |language=en}}</ref>
+
+;County officials
+*[[Aisha Braveboy]], [[Prince George's County]] executive (2025–present) ''(previously endorsed Blegay)''<ref name="BraveboySwitch"/>
+
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th|Co-endorsed with Arness, Baker, Bareebe, Boafo, Dunn, Jarin, Lightfoot, Messick, Starr, and Williams}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Wala Blegay
+|columns=yes
+|list=
+;U.S. representatives
+*[[Ro Khanna]], {{ushr|CA|17|CA-17}} (2017–present)<ref>{{cite news |last1=Elliott |first1=Richard D. |title=23 Candidates Vie for Southern Maryland Congressional District |url=https://www.washingtoninformer.com/maryland-5th-congressional-district-race/ |access-date=June 14, 2026 |work=[[The Washington Informer]] |date=June 10, 2026}}</ref>
+
+;State legislators
+*[[C. Anthony Muse]], state senator from the 26th district (2007–2019, 2023–present)<ref>{{cite web |title=Wala Blegay "The Poopster" could go to Congress |url=https://themarylandwire.substack.com/p/wala-blegay-the-poopster-could-go |website=The Maryland Wire |access-date=May 4, 2026 |date=April 4, 2026}}</ref>
+
+;County officials
+*{{strikethrough|[[Aisha Braveboy]], [[Prince George's County, Maryland|Prince George's County]] executive (2025–present)}}<ref name="BlegayWRC">{{cite news |last1=Valencia |first1=Juliana |title=Prince George's County Council member Wala Blegay announces run for Congress |url=https://www.nbcwashington.com/news/local/prince-georges-county/prince-georges-county-council-member-wala-blegay-announces-run-for-congress/4054270/ |access-date=February 4, 2026 |work=[[WRC-TV]] |date=February 4, 2026}}</ref> ''(switched endorsement to Bareebe)''<ref name="BraveboySwitch">{{cite news |last1=Grim |first1=Ryan |last2=Franks |first2=Lily |title=In Maryland District, a Last-Minute Scramble to Stop “AIPAC Adrian” Boafo |url=https://www.dropsitenews.com/p/aipac-adrian-boafo-steny-hoyer-seat-maryland-oracle |access-date=June 22, 2026 |work=[[Drop Site News]] |date=June 22, 2026 |language=en}}</ref>
+
+;Labor unions
+*[[Amalgamated Transit Union]] Local 689<ref name="ATU689">{{cite web |title=Endorsements and Elections |url=https://www.atulocal689.org/endorsements |website=ATU Local 689 |access-date=April 28, 2026}}</ref>
+*[[Communication Workers of America]] ''(co-endorsement with Boafo)''<ref name="cwa"/>
+*[[National Nurses United]]<ref>{{cite web |title=National Nurses United endorses Wala Blegay for Maryland’s 5th District |url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-wala-blegay-for-marylands-5th-district |website=www.nationalnursesunited.org |publisher=National Nurses United |access-date=March 26, 2026 |language=en |date=March 25, 2026}}</ref>
+
+;Organizations
+*[[We Are CASA|CASA in Action]]<ref name="CASA">{{cite web |title=Endorsements |url=https://casainaction.org/maryland/ |website=casainaction.org |publisher=CASA in Action |access-date=May 14, 2026}}</ref>
+*[[Council on American–Islamic Relations]] Action<ref name="CAIR"/>
+*[[Our Revolution]]<ref>{{cite web |title=OUR CHAMPIONS |url=https://ourrevolution.com/progressive-champions/ |website=Our Revolution |access-date=31 March 2026}}</ref>
+*[[Progressive Democrats of America]]<ref name="pdamerica"/>
+*[[Sierra Club]]<ref name="Sierra"/>
+}}
+{{Endorsements box
+|title=Adrian Boafo
+|columns=yes
+|list=
+;U.S. senators
+*[[Angela Alsobrooks]], U.S. senator from Maryland (2025–present)<ref name="MooreBoafo">{{cite news |last1=Ford |first1=William J. |last2=Sears |first2=Bryan P. |title=Moore issues scores of endorsements, but some incumbent Democrats miss the cut |url=https://marylandmatters.org/2026/05/08/moore-issues-scores-of-endorsements-but-some-incumbent-democrats-miss-the-cut/ |access-date=May 8, 2026 |work=[[Maryland Matters]] |date=May 8, 2026}}</ref>
+
+;U.S. representatives
+*[[Sarah Elfreth]], [[Maryland's 3rd congressional district|MD-03]] (2025–present)<ref>{{cite news |last1=Chingarande |first1=Tinashe |title=Rep. Sarah Elfreth endorses Adrian Boafo for retiring Hoyer’s seat |url=https://www.baltimoresun.com/2026/02/25/rep-sarah-elfreth-endorses-adrian-boafo-for-retiring-hoyers-seat/ |access-date=February 25, 2026 |work=[[The Baltimore Sun]] |date=February 25, 2026}}</ref>
+*[[Steny Hoyer]], [[Maryland's 5th congressional district|MD-05]] (1981–present)<ref name="Backing"/>
+*[[Albert Wynn]], [[Maryland's 4th congressional district|MD-04]] (1993–2008)<ref name="Wire">{{cite web |title=CD5 THE PARTY COMES OFF THE SIDELINES |url=https://themarylandwire.substack.com/p/cd5-the-party-comes-off-the-sidelines |website=The Maryland Wire |access-date=2 May 2026 |date=April 25, 2026}}</ref>
+
+;Statewide officials
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref name="MooreBoafo"/>
+
+;State legislators
+*[[Dylan Behler]], state delegate from district 30A (2025–present)<ref name="Wire" />
+*[[Pamela Beidle]], state senator from the 32nd district (2019–present)<ref name="DemocracySlate">{{cite news |last1=Hutzell |first1=Rick |title=Hutzell: Financing a legacy, state senator pumps $574,000 into the primary |url=https://www.thebanner.com/opinion/column/pam-beidle-anne-arundel-county-campaign-funds-candidates-RFUCIKRLOFATTCFPLXISIYMWYU/ |access-date=May 1, 2026 |work=[[The Baltimore Banner]] |date=May 1, 2026 |language=en}}</ref>
+*[[John L. Bohanan Jr.|John Bohanan]], state delegate from district 29B (1999–2015)<ref name="Wire" />
+*[[Mark S. Chang]], state delegate from the 32nd district (2015–present)<ref name="DemocracySlate" />
+*[[Nick Charles (politician)|Nick Charles]] state senator from the 25th district (2023–present)<ref name="Wire" />
+*[[Dawn Gile]], state senator from the 33rd district (2023–present)<ref name="DemocracySlate" />
+*[[Kevin Harris (politician)|Kevin Harris]], state senator from the 27th district (2025–present)<ref name="DefinitelyConsidering" />
+*[[Marvin E. Holmes Jr.]], state delegate from the 23rd district (2003–present)<ref name="DefinitelyConsidering">{{cite news |last1=Ford |first1=William J. |title=List of possible Hoyer successors continues to grow, with more 'definitely considering' |url=https://marylandmatters.org/2026/01/13/list-of-possible-hoyer-successors-continues-to-grow-with-more-definitely-considering/ |access-date=January 13, 2026 |work=Maryland Matters |date=January 13, 2026}}</ref>
+*[[Dana Jones (politician)|Dana Jones]], state delegate from district 30A (2020–present)<ref name="DefinitelyConsidering" />
+*[[Rachel Jones (Maryland politician)|Rachel Jones]], state delegate from district 27B (2021–2023)<ref name="Wire" />
+*[[Cheryl Landis]], state delegate from district 23B (2021–2023)<ref name="Wire" />
+*[[Darrell Odom]], state delegate from district 27A (2026–present)<ref name="Wire" />
+*[[Andrew Pruski]], state delegate from district 33A (2023–present)<ref name="DefinitelyConsidering" />
+*[[Kent Roberson]], state delegate from the 25th district (2023–present)<ref name="Wire" />
+*[[Denise Roberts (politician)|Denise Roberts]], state delegate from the 25th district (2024–present)<ref name="Wire" />
+*[[Geraldine Valentino-Smith]], state delegate from district 23A (2011–2023)<ref name="Wire" />
+*[[Kym Taylor]], state delegate from the 23rd district (2023–present)<ref name="DefinitelyConsidering" />
+*[[Karen Toles]], state delegate from the 25th district (2022–present)<ref name="Wire" />
+*[[Ron Watson (politician)|Ron Watson]], state senator from the 23rd district (2021–present)<ref name="DefinitelyConsidering" />
+
+;Individuals
+*[[Yvette Lewis (politician)|Yvette Lewis]], chair of the [[Maryland Democratic Party]] (2011–2015, 2019–2023)<ref name="Wire" />
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Maryland’s Adrian Boafo for Election to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-marylands-adrian-boafo-for-election-to-congress/ |website=afge.org |publisher=[[American Federation of Government Employees]] |access-date=May 15, 2026 |language=en |date=May 15, 2026}}</ref>
+*[[Communication Workers of America]] ''(co-endorsement with Blegay)''<ref name="cwa">{{cite web |title=2026 Maryland {{!}} CWA Endorsed Candidates |url=https://cwa-union.org/candidates-md |website=cwa-union.org |publisher=Communications Workers of America |access-date=June 1, 2026 |language=en}}</ref>
+*[[International Union of Bricklayers and Allied Craftworkers|Bricklayers and Allied Craftworkers]] Local 1<ref name="Wire" />
+*[[National Education Association|Maryland State Education Association]]<ref>{{cite web |title=Your Ballot – Prince George's County |url=https://mdappleballot.com/county-results/?cmg_mapped_districts_county_select=Prince+George%27s+County |website=Maryland Apple Ballot |access-date=May 1, 2026}}</ref>
+*[[National Education Association]]<ref name="NEA" />
+*[[Service Employees International Union]] Local 500<ref name="BusBallot">{{cite web |title=2026 Elections |url=https://www.seiu500.org/2026-elections |website=SEIU LOCAL 500 |access-date=June 17, 2026}}</ref>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|SMART]]<ref name="Wire" />
+
+;Organizations
+*[[Democratic Majority for Israel]]<ref>{{cite news |last1=Schneider |first1=Elena |title=Pro-Israel group wades into Democratic House primaries |url=https://www.politico.com/news/2026/02/19/pro-israel-dmfi-endorsements-democrats-house-primaries-00787254 |access-date=February 19, 2026 |work=[[Politico]] |date=February 19, 2026 |language=en}}</ref>
+*'''[[Giffords]]'''<ref>{{Cite web |title=Adrian Boafo |url=http://giffords.org/candidates/adrian-boafo/ |access-date=July 30, 2026 |website=giffords.org |language=en-US}}</ref>
+*'''[[Jewish Democratic Council of America]]'''<ref name="JDCA" />
+*'''[[League of Conservation Voters]] Action Fund'''<ref>{{cite web |title=LCV Action Fund Endorses New Slate of Candidates for U.S. House of Representatives |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-new-slate-of-candidates-for-u-s-house-of-representatives/ |website=League of Conservation Voters |access-date=August 20, 2026 |date=August 20, 2026}}</ref>
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+*[[New Democrat Coalition]]<ref>{{cite news |last1=Wu |first1=Nicholas |title=Centrist Democratic group wades into primaries |url=https://www.semafor.com/article/05/15/2026/centrist-democratic-group-wades-into-primaries |access-date=May 15, 2026 |work=[[Semafor (website)|Semafor]] |date=May 15, 2026}}</ref>
+*[[Protect Progress]]<ref name = "RollCallBoafo">{{cite news |last1=McIntire |first1=Mary Ellen |title=Maryland Democrats slam crypto, AIPAC-linked spending in race for Hoyer’s seat  |url=https://rollcall.com/2026/06/16/maryland-democrats-slam-crypto-aipac-linked-spending-in-race-for-hoyers-seat/  |access-date=June 25, 2026 |work=Roll Call |date=June 16, 2026}}</ref>
+*[[United Democracy Project]]<ref name = "RollCallBoafo"/>
+
+;Newspapers
+*''[[Baltimore Afro-American]]''<ref name="AFRO"/>
+}}
+{{Endorsements box
+|title=Harry Dunn
+|list=
+;U.S. representatives
+*[[Nancy Pelosi]], former [[Speaker of the United States House of Representatives|speaker of the House]] (2007–2011, 2019–2023) from {{ushr|CA|11|CA-11}} (1987–present)<ref>{{cite news |last1=Kashinsky |first1=Lisa |title=Pelosi backs former Capitol Police officer over Hoyer's preferred successor in Maryland |url=https://www.politico.com/news/2026/03/11/pelosi-capitol-police-officer-hoyer-maryland-00822368 |access-date=March 11, 2026 |work=[[Politico]] |date=March 11, 2026}}</ref>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web |title=Endorsements |url=https://www.endcitizensunited.org/endorsements |website=End Citizens United |access-date=April 23, 2026 |language=en}}</ref>
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+*[[Working Families Party]]<ref name="WFP">{{cite web |title=Our 2026 Candidates |url=https://workingfamilies.org/candidates/ |website=Working Families Party |access-date=May 21, 2026 |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Harry Jarin
+|list=
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Jerry Lightfoot
+|list=
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Leigha Messick
+|list=
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Tracy Starr
+|list=
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Mark Arness ''(withdrawn)''
+|list=
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Nicole Williams ''(withdrawn)''
+|list=
+;Statewide officials
+*[[Dereck E. Davis]], [[Maryland State Treasurer|state treasurer of Maryland]] (2021–present)<ref>{{cite news |last1=Kunken |first1=Tim |title=Maryland Del. Nicole Williams announces run in crowded race to replace Rep. Steny Hoyer's seat |url=https://www.dcnewsnow.com/news/politics/election-maryland/maryland-del-nicole-williams-announces-run-in-crowded-race-to-replace-rep-steny-hoyers-seat/ |access-date=February 23, 2026 |work=[[WDCW]] |date=February 23, 2026}}</ref>
+
+;Organizations
+*[[Moms Demand Action]]{{efn|name=moms5th}}<ref name="moms"/>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;U.S. senators
+*[[Chris Van Hollen]], U.S. senator from Maryland (2017–present)<ref>{{cite news |last1=Williams |first1=John-John IV |title=Van Hollen sends warning about outside money in 5th Congressional District race |url=https://www.thebanner.com/politics-power/national-politics/van-hollen-boafo-5th-district-hoyer-TXUEH4EMY5DPVOSUQG5F2UPIVU/ |access-date=June 4, 2026 |work=[[The Baltimore Banner]] |date=June 4, 2026 |language=en}}</ref>
+
+;State legislators
+*[[Nicole A. Williams]], state delegate from the 22nd district (2019–present) and candidate for this district in 2026<ref name="Williams" />
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite news |last1=Kurtz |first1=Josh |title=With the legislative session past, all eyes turn to looming primaries |url=https://marylandmatters.org/2026/04/22/with-the-legislative-session-past-all-eyes-turn-to-looming-primaries/ |access-date=April 22, 2026 |work=[[Maryland Matters]] |date=April 22, 2026}}</ref>
+}}
+
+====Fundraising====
+During the Democratic primary, Boafo received financial support from Hoyer, including $500,000 from his leadership [[Political action committee|PAC]], Ameripac.<ref>{{cite news |last1=Kurtz |first1=Josh |title=The Apprentice: Boafo fills coffers with support from Hoyer's political network |url=https://marylandmatters.org/2026/05/12/the-apprentice-boafo-fills-coffers-with-support-from-hoyers-political-network/ |access-date=May 13, 2026 |work=[[Maryland Matters]] |date=May 12, 2026}}</ref> He also received support from [[Protect Progress]], a PAC funded by the cryptocurrency industry,<ref>{{cite news |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: It looks like Dan Osborn will get his one-on-one with Pete Ricketts |url=https://www.the-downballot.com/p/morning-digest-it-looks-like-dan |access-date=May 13, 2026 |work=The Downballot |date=May 13, 2026 |language=en}}</ref> and from [[AIPAC]]'s United Democracy Project super PAC.<ref>{{cite news |last1=Howard |first1=Andrew |title=Crockett’s lasting influence in two Texas runoffs |url=https://www.politico.com/newsletters/weekly-score/2026/05/26/crocketts-lasting-influence-in-two-texas-runoffs-00935475 |access-date=May 26, 2026 |work=[[Politico]] |date=May 26, 2026 |language=en}}</ref>
+
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Rushern Baker (D)
+|$369,665{{efn|$41,950 of this total was self-funded by Baker}}
+|$294,460
+|$75,204
+|-
+|{{party shading/Democratic}}|Quincy Bareebe (D)
+|$6,808,528{{efn|$6,613,000 of this total was self-funded by Bareebe}}
+|$6,794,549
+|$14,198
+|-
+|{{party shading/Democratic}}|Wala Blegay (D){{efn|As of last reported March 31, 2026}}
+|$396,714
+|$89,551
+|$307,163
+|-
+|{{party shading/Democratic}}|Adrian Boafo (D)
+|$1,676,916
+|$1,585,049
+|$91,867
+|-
+|{{party shading/Democratic}}|Reuben Collins II (D)
+|$39,871
+|$33,610
+|$6,261
+|-
+|{{party shading/Democratic}}|Harry Dunn (D)
+|$4,900,230
+|$4,535,958
+|$364,272
+|-
+|{{party shading/Democratic}}|Arthur Ellis (D)
+|$227,421{{efn|$200,000 of this total was self-funded by Ellis}}
+|$149,052
+|$78,370
+|-
+|{{party shading/Democratic}}|Terry Jackson (D)
+|$16,322{{efn|$8,392 of this total was self-funded by Jackson}}
+|$16,322
+|$0
+|-
+|{{party shading/Democratic}}|Harry Jarin (D)
+|$432,658{{efn|$350,000 of this total was self-funded by Jarin}}
+|$432,658
+|$0
+|-
+|{{party shading/Democratic}}|Walter Kirkland (D)
+|$48,296
+|$49,603
+|$0
+|-
+|{{party shading/Democratic}}|Heather Luper (D)
+|$28,563{{efn|$14,500 of this total was self-funded by Luper}}
+|$28,263
+|$300
+|-
+|{{party shading/Democratic}}|Leigha Messick (D){{efn|As of last reported June 3, 2026}}
+|$7,990{{efn|$1,900 of this total was self-funded by Messick}}
+|$4,559
+|$3,431
+|-
+|{{party shading/Democratic}}|Kenny Simons (D){{efn|As of last reported June 12, 2026}}
+|$14,105
+|$550
+|$0
+|-
+|{{party shading/Democratic}}|Alexis Solis (D)
+|$29,633
+|$25,133
+|$4,500
+|-
+|{{party shading/Democratic}}|Tracy Starr (D)
+|$33,254{{efn|$254 of this total was self-funded by Starr}}
+|$30,604
+|$2,649
+|-
+|{{party shading/Democratic}}|David Sundberg (D)
+|$188,438{{efn|$49,400 of this total was self-funded by Sundberg}}
+|$188,438
+|$0
+|-
+|{{party shading/Democratic}}|''Nicole Williams (D)''
+|$151,952{{efn|$85,053 of this total was self-funded by Williams}}
+|$138,299
+|$13,653
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Maryland 5th |url=https://www.fec.gov/data/elections/house/MD/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" |Rushern<br/>Baker
+! style="width:60px;" |Quincy<br>Bareebe
+! style="width:60px;" |Wala<br/>Blegay
+! style="width:60px;" |Adrian<br/>Boafo
+! style="width:60px;" |Harry<br/>Dunn
+! style="width:60px;" |Arthur<br/>Ellis
+! style="width:60px;" |Harry<br/>Jarin
+! style="width:60px;" |Nicole<br/>Williams
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Clarity Campaign<ref>{{cite web |last=Solender |first=Andrew |title=New #MD05 Democratic primary poll from Protect Progress (crypto group backing Boafo) |url=https://bsky.app/profile/andrewsolender.bsky.social/post/3mni4rcuaac2c |website=[[Bluesky]] |access-date=June 4, 2026 |date=June 4, 2026}}</ref>{{efn-ua|Poll sponsored by Protect Progress, which supports Boafo.}}
+|May 26–28, 2026
+|526 (RV)
+|±&nbsp;3.21%
+|10%
+|10%
+|5%
+|{{party shading/Democratic}}|'''17%'''
+|5%
+|2%
+|1%
+|–
+|6%{{efn|"Someone else" with 6%}}
+|{{party shading/Undecided}}|'''43%'''
+|-
+|style="text-align:left;"|[[Greenberg Quinlan Rosner Research|GQR]] (D)<ref>{{cite news |last1=Nir |first1=David |title=Morning Digest: Another conservative justice on the Wisconsin Supreme Court is retiring |url=https://www.the-downballot.com/p/morning-digest-another-conservative |access-date=March 10, 2026 |work=The Downballot |date=March 10, 2026 |language=en}}</ref>{{efn-ua|name=Baker|Poll sponsored by Baker's campaign}}
+|February 26 – March 1, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''22%'''
+|6%
+|11%
+|3%
+|15%
+|5%
+|1%
+|9%
+|<1%{{efn|"Someone else" with less than 1%}}
+|{{party shading/Undecided}}|'''28%'''
+|}
+
+====Results====
+{{Switcher|[[File:2026 MD-05 Democratic primary.svg|thumb|180px|Results by county
+{{collapsible list
+| title = {{legend|#7996E2|Boafo}}
+|{{legend|#BDD3FF|30–40%}}
+}}]]|Results by county|[[File:2026 Maryland's 5th congressional district Democratic primary results by precinct.svg|thumb|180px|Results by precinct
+{{collapsible list
+| title = {{legend|#7996E2|Boafo}}
+|{{legend|#EBF2FF|10–20%}}
+|{{legend|#DFEEFF|20–30%}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#0D0596|>90%}}
+}}{{collapsible list
+| title = {{legend|#F1C92A|Bareebe}}
+|{{legend|#FFF5CC|20–30%}}
+|{{legend|#FFEEAA|30–40%}}
+|{{legend|#A58100|>90%}}
+}}{{collapsible list
+| title = {{legend|#5FD35F|Dunn}}
+|{{legend|#C0F0C0|20–30%}}
+|{{legend|#165016|>90%}}
+}}{{collapsible list
+| title = {{legend|#B380FF|Blegay}}
+|{{legend|#EEDCFF|20–30%}}
+|{{legend|#CCAAFF|40–50%}}
+}}{{collapsible list
+| title = {{legend|#51C2C2|Baker}}
+|{{legend|#D0F9F9|20–30%}}
+}}{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#EFE7F5|20–30%}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}]]|Results by precinct}}
+
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Adrian Boafo]]
+| party = Democratic Party (US)
+| votes = 33,081
+| percentage = 32.7
+}}
+{{Election box candidate with party link no change
+| candidate = Quincy Bareebe
+| party = Democratic Party (US)
+| votes = 17,515
+| percentage = 17.3
+}}
+{{Election box candidate with party link no change
+| candidate = [[Harry Dunn (police officer)|Harry Dunn]]
+| party = Democratic Party (US)
+| votes = 14,189
+| percentage = 14.0
+}}
+{{Election box candidate with party link no change
+| candidate = Wala Blegay
+| party = Democratic Party (US)
+| votes = 11,258
+| percentage = 11.1
+}}
+{{Election box candidate with party link no change
+| candidate = [[Rushern Baker]]
+| party = Democratic Party (US)
+| votes = 10,588
+| percentage = 10.5
+}}
+{{Election box candidate with party link no change
+| candidate = [[Arthur Ellis (Maryland politician)|Arthur Ellis]]
+| party = Democratic Party (US)
+| votes = 2,883
+| percentage = 2.9
+}}
+{{Election box candidate with party link no change
+| candidate = Reuben B. Collins, II
+| party = Democratic Party (US)
+| votes = 1,640
+| percentage = 1.6
+}}
+{{Election box candidate with party link no change
+| candidate = Harry Jarin
+| party = Democratic Party (US)
+| votes = 1,515
+| percentage = 1.5
+}}
+{{Election box candidate with party link no change
+| candidate = [[Nicole A. Williams]] ''(withdrawn)''
+| party = Democratic Party (US)
+| votes = 1,445
+| percentage = 1.4
+}}
+{{Election box candidate with party link no change
+| candidate = Alexis S. Solis
+| party = Democratic Party (US)
+| votes = 949
+| percentage = 0.9
+}}
+{{Election box candidate with party link no change
+| candidate = Dave Sundberg
+| party = Democratic Party (US)
+| votes = 898
+| percentage = 0.9
+}}
+{{Election box candidate with party link no change
+| candidate = Leigha Messick
+| party = Democratic Party (US)
+| votes = 795
+| percentage = 0.8
+}}
+{{Election box candidate with party link no change
+| candidate = Mark Arness ''(withdrawn)''
+| party = Democratic Party (US)
+| votes = 617
+| percentage = 0.6
+}}
+{{Election box candidate with party link no change
+| candidate = Walter Kirkland
+| party = Democratic Party (US)
+| votes = 505
+| percentage = 0.5
+}}
+{{Election box candidate with party link no change
+| candidate = Tracy Starr
+| party = Democratic Party (US)
+| votes = 502
+| percentage = 0.5
+}}
+{{Election box candidate with party link no change
+| candidate = Jerry Lightfoot
+| party = Democratic Party (US)
+| votes = 460
+| percentage = 0.5
+}}
+{{Election box candidate with party link no change
+| candidate = Terry Jackson II ''(withdrawn)''
+| party = Democratic Party (US)
+| votes = 403
+| percentage = 0.4
+}}
+{{Election box candidate with party link no change
+| candidate = Heather Luper
+| party = Democratic Party (US)
+| votes = 377
+| percentage = 0.4
+}}
+{{Election box candidate with party link no change
+| candidate = Harold Tolbert
+| party = Democratic Party (US)
+| votes = 373
+| percentage = 0.4
+}}
+{{Election box candidate with party link no change
+| candidate = Ellis D. Colvin
+| party = Democratic Party (US)
+| votes = 286
+| percentage = 0.3
+}}
+{{Election box candidate with party link no change
+| candidate = Elldwnia English
+| party = Democratic Party (US)
+| votes = 257
+| percentage = 0.3
+}}
+{{Election box candidate with party link no change
+| candidate = Keith Salkowski
+| party = Democratic Party (US)
+| votes = 203
+| percentage = 0.2
+}}
+{{Election box candidate with party link no change
+| candidate = Kenneth Simons
+| party = Democratic Party (US)
+| votes = 160
+| percentage = 0.2
+}}
+{{Election box candidate with party link no change
+| candidate = James Anderson Makle, Jr.
+| party = Democratic Party (US)
+| votes = 149
+| percentage = 0.2
+}}
+{{Election box total no change
+| votes = 101,048
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+[[File:Michelle Talkington with US Flag 007 (cropped).jpg|150px|thumb|Michelle Talkington placed second in the Republican primary.]]
+
+====Candidates====
+=====Nominee=====
+*Chris Chaffee, perennial candidate and nominee for U.S. Senate in [[2022 United States Senate election in Maryland|2022]]<ref name="mdboe" />
+
+=====Eliminated in primary=====
+*Bryan DuVal Cubero, veteran and candidate for this district in [[2020 Maryland's 5th congressional district election|2020]] and [[2022 United States House of Representatives elections in Maryland#District 5|2022]]<ref name="mdboe" />
+*Michelle Talkington, businesswoman, youth minister, and nominee for this district in [[2024 United States House of Representatives elections in Maryland#District 5|2024]]<ref name="mdboe" />
+
+=====Withdrew=====
+*Jordan Eversley<ref name="mdboe" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michelle Talkington (R)
+|$15,640
+|$15,193
+|$2,453
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+[[File:2026 MD-05 Republican primary.svg|thumb|180px|Results by county
+{{collapsible list
+| title = {{legend|#E27F7F|Chaffee}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Talkington}}
+|{{legend|#FFDD55|40–50%}}
+}}
+]]
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = Chris Chaffee
+| party = Republican Party (US)
+| votes = 11,536
+| percentage = 51.2
+}}
+{{Election box candidate with party link no change
+| candidate = Michelle Talkington
+| party = Republican Party (US)
+| votes = 7,866
+| percentage = 34.9
+}}
+{{Election box candidate with party link no change
+| candidate = Bryan DuVal
+| party = Republican Party (US)
+| votes = 3,145
+| percentage = 14.0
+}}
+{{Election box total no change
+| votes = 22,547
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent and third-party candidates===
+====Candidates====
+=====Disqualified=====
+*Jonathan Burruss (Unaffiliated)<ref name="mdboe" />
+*Brian Jordan (Unaffiliated), research and development executive<ref name="mdboe" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Adrian Boafo (D)
+|$1,676,916
+|$1,585,049
+|$91,867
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 5th congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Adrian Boafo]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Chris Chaffee
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Maryland's 6th congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 Maryland's 6th congressional district election
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. April McClain Delaney Official Portrait (cropped).jpg
+| nominee1 = [[April McClain Delaney]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Robin Ficker (35598540490).jpg
+| nominee2 = [[Robin Ficker]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[April McClain Delaney]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 6th congressional district}}
+The 6th district is based in [[western Maryland]]. It covers all of [[Garrett County, Maryland|Garrett]], [[Allegany County, Maryland|Allegany]], [[Washington County, Maryland|Washington]], and [[Frederick County, Maryland|Frederick]] counties, and extends south into the [[Washington, D.C.]] suburbs in [[Montgomery County, Maryland|Montgomery County]], including [[Germantown, Maryland|Germantown]] and [[Gaithersburg, Maryland|Gaithersburg]].<ref name = "valid source"/> The incumbent is Democrat [[April McClain Delaney]], who was elected with 53.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+[[File:David Trone official photo (cropped).jpg|150px|thumb|McClain Delaney faced a primary challenge from her predecessor, former U.S. representative [[David Trone]].]]
+
+====Candidates====
+=====Nominee=====
+*[[April McClain Delaney]], incumbent U.S. representative<ref>{{cite news |title=McClain Delaney files to run for second term |url=https://www.fredericknewspost.com/news/continuing_coverage/election_coverage/mcclain-delaney-files-to-run-for-second-term/article_ddb7e380-2e1a-5793-9845-3dca04ffe2ef.html |access-date=October 31, 2025 |work=The Frederick News-Post |date=October 30, 2025 |language=en}}</ref>
+
+=====Eliminated in primary=====
+*[[Alexis Goldstein]], former [[Consumer Financial Protection Bureau]] official<ref>{{cite news |last1=Williams |first1=Claire |title=She was fired from the CFPB. Now she's running for Congress. |url=https://www.americanbanker.com/news/she-was-fired-from-the-cfpb-now-shes-running-for-congress |access-date=February 18, 2026 |work=[[American Banker]] |date=February 18, 2026 |language=en}}</ref>
+*George Gluck, perennial candidate<ref name="mdboe" />
+*[[David Trone]], former [[U.S. representative]] (2019–2025) and candidate for U.S. Senate in [[2024 United States Senate election in Maryland|2024]]<ref>{{cite news |last1=Wintrode |first1=Brenda |title=David Trone will challenge Rep. McClain Delaney for U.S. House seat |url=https://www.thebanner.com/politics-power/state-government/david-trone-rep-mcclain-delaney-2026-democratic-primary-TQDQAWALGVDJTG75U4VOMNWFZE/ |access-date=December 11, 2025 |work=[[The Baltimore Banner]] |date=December 11, 2025 |language=en}}</ref>
+*Ethan Wechtaluk, federal consultant<ref name="mdboe" />
+*Kiambo White, union representative and candidate for this district in [[2024 Maryland's 6th congressional district election|2024]]<ref name="mdboe" />
+*Altimont Wilks, grocery store owner and candidate for this district in [[2024 Maryland's 6th congressional district election|2024]]<ref name="mdboe" />
+
+=====Withdrawn=====
+*Daniel Krakower, attorney ''(remained on ballot)''<ref>{{cite news |last1=Greene |first1=Julie E. |title=Washington County, Maryland, local races on primary election ballot |url=https://www.heraldmailmedia.com/story/news/politics/elections/2026/06/09/see-who-is-running-in-local-washington-county-primary-election-races/90406391007/ |access-date=June 9, 2026 |work=Herald-Mail Media |date=June 9, 2026}}</ref>
+
+====Endorsements====
+Endorsements in '''bold''' were made following the primary elections.
+{{Endorsements box
+|title=Alexis Goldstein
+|list=
+;Organizations
+*[[Progressive Democrats of America]]<ref name="pdamerica"/>
+}}
+{{Endorsements box
+|title=April McClain Delaney
+|colwidth=60
+|list=
+;U.S. senators
+*[[Angela Alsobrooks]], Maryland (2025–present)<ref name="AMDdelegation">{{cite news |last1=Report |first1=Staff |title=McClain Delaney to seek reelection, gets endorsements from Governor, MD Dem congressional delegation |url=https://tristatealert.com/mcclain-delaney-to-seek-reelection-gets-endorsements-from-governor-md-dem-congressional-delegation/ |access-date=October 31, 2025 |work=Tri-State Alert |date=October 30, 2025}}</ref>
+*[[Chris Van Hollen]], Maryland (2017–present)<ref name="AMDdelegation" />
+
+;U.S. representatives
+*[[Sarah Elfreth]], {{ushr|MD|3|MD-03}} (2025–present)<ref name="AMDdelegation" />
+*[[Steny Hoyer]], {{ushr|MD|5|MD-05}} (1981–present)<ref name="AMDdelegation" />
+*[[Glenn Ivey]], {{ushr|MD|4|MD-04}} (2023–present)<ref name="AMDdelegation" />
+*[[Sarah McBride]], {{ushr|DE|AL|DE-AL}} (2025–present)<ref name="TronePost" />
+*[[Kweisi Mfume]], {{ushr|MD|7|MD-07}} (1987–1996, 2020–present)<ref name="AMDdelegation" />
+*[[Johnny Olszewski]], {{ushr|MD|2|MD-02}} (2025–present)<ref name="AMDdelegation" />
+*[[Nancy Pelosi]], {{ushr|CA|11|CA-11}} (1987–present)<ref name="TronePost">{{cite news |last1=Cox |first1=Erin |title=After a $62 million Senate loss, David Trone wants old House seat back |url=https://www.washingtonpost.com/dc-md-va/2025/12/11/david-trone-congress-comeback-bid/ |access-date=December 11, 2025 |work=[[The Washington Post]] |date=December 11, 2025}}</ref>
+*[[Jamie Raskin]], {{ushr|MD|8|MD-08}} (2017–present)<ref name="AMDdelegation" />
+
+;Statewide officials
+*[[Anthony Brown (Maryland politician)|Anthony Brown]], [[attorney general of Maryland]] (2023–present)<ref name="MillerBrown" />
+*[[Aruna Miller]], [[lieutenant governor of Maryland]] (2023–present)<ref name="MillerBrown">{{cite news |last1=Mause |first1=Ben |title=McClain Delaney gains key endorsements, taps Moore alum to run campaign |url=https://www.baltimoresun.com/2025/11/14/mcclain-delaney-gains-key-endorsements-taps-moore-alum-to-run-campaign/ |access-date=November 14, 2025 |work=[[The Baltimore Sun]] |date=November 14, 2025}}</ref>
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref name="AMDdelegation" />
+
+;State legislators
+*[[Cheryl Kagan]], [[Maryland Senate|state senator]] from the [[Maryland Legislative District 17|17th district]] (2015–present)<ref name="Pitting">{{cite news |last1=Svirnovskiy |first1=Gregory |title=Trump, immigration, and Total Wine: The House primary pitting Maryland Democrats against one another |url=https://www.politico.com/news/2026/01/28/maryland-democratic-primary-david-trone-april-mcclain-delaney-00749716 |access-date=January 28, 2026 |work=[[Politico]] |date=January 28, 2026 |language=en}}</ref>
+*[[Joe Vogel (politician)|Joe Vogel]], [[Maryland House of Delegates|state delegate]] from the [[Maryland Legislative District 17|17th district]] (2023–present) and candidate for this district in [[2024 Maryland's 6th congressional district election|2024]]<ref>{{cite news |last1=Lokay |first1=Jim |title=Delaney gets endorsement from former foe Vogel |url=https://www.fox5dc.com/video/fmc-stomxu5do79hgtt9 |access-date=June 12, 2026 |work=[[WTTG]] |date=June 12, 2026 |language=en}}</ref>
+*[[Karen Lewis Young]], [[Maryland Senate|state senator]] from the [[Maryland Legislative District 3|3rd district]] (2023–present)<ref name="Pitting"/>
+
+;County officials
+*[[Sidney A. Katz]], member of the [[Montgomery County Council (Maryland)|Montgomery County Council]] from the 3rd district (2014–present)<ref name="Pitting"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*'''[[National Education Association|Maryland State Education Association]]'''<ref>{{cite web |title=Your Ballot |url=https://mdappleballot.com/county-results/?cmg_mapped_districts_county_select=Frederick+County |website=mdappleballot.com |publisher=Maryland State Education Association |access-date=September 5, 2026}}</ref>
+*[[United Food and Commercial Workers]] Local 1994 MCGEO<ref name="UFCW1994"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Democratic Majority for Israel]]<ref name="DMFI"/>
+*[[Elect Democratic Women]]<ref name="EDWDEC"/>
+*[[EMILYs List]]<ref name="TroneToTrone"/>
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="Humane"/>
+*[[Jewish Democratic Council of America]]<ref name="JDCA" />
+*[[League of Conservation Voters]] Action Fund<ref name="LCV" />
+*[[Moms Demand Action]] ''(co-endorsed with Trone and White)''<ref name="moms"/>
+*[[National Committee to Preserve Social Security and Medicare]]<ref>{{cite web |title=National Seniors’ Group Endorses April McClain Delaney for Reelection |url=https://www.ncpssm.org/documents/latest-news/national-seniors-group-endorses-april-mcclain-delaney-for-reelection/ |website=NCPSSM |access-date=6 March 2026}}</ref>
+*[[NewDem Action Fund]]<ref name="TroneToTrone">{{cite news |title=Harris' hat trick, Trone appears to be polling in the 6th and new leaders in Office for Children |url=https://marylandmatters.org/2025/11/30/harris-hat-trick-trone-appears-to-be-polling-in-the-6th-and-new-leaders-in-the-office-for-children/ |access-date=November 30, 2025 |work=[[Maryland Matters]] |date=November 30, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Rep. April McClain Delaney for Reelection |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-rep-april-mcclain-delaney-for-reelection/ |website=Reproductive Freedom for All |access-date=April 30, 2026 |date=April 30, 2026}}</ref>
+*[[Sierra Club]]<ref name="Sierra"/>
+*'''[[United States Chamber of Commerce]]'''<ref>{{cite web |title=U.S. Chamber Endorses Rep. April McClain Delaney for Maryland’s Sixth District |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-april-mcclain-delaney-for-marylands-sixth-district |website=U.S. Chamber of Commerce |access-date=1 September 2026 |language=en |date=18 August 2026}}</ref>
+}}
+{{Endorsements box
+|title=David Trone
+|colwidth=60
+|list=
+;State legislators
+*[[Ana Sol Gutierrez]], former [[Maryland House of Delegates|state delegate]] from the [[Maryland Legislative District 18|18th district]] (2003–2019)<ref name="Pitting" />
+*[[Nancy J. King]], majority leader of the [[Maryland Senate]] (2020–present) from the [[Maryland Legislative District 39|39th district]] (2007–present)<ref name="balnews">{{cite web |title=Incumbent April McClain Delaney, David Trone, and six others running in the June 23 Democratic primary to represent Maryland's 6th Congressional District - Ballotpedia News |url=https://news.ballotpedia.org/2026/04/01/incumbent-april-mcclain-delaney-david-trone-and-six-others-running-in-the-june-23-democratic-primary-to-represent-marylands-6th-congressional-district/ |website=Ballotpedia News |access-date=1 May 2026 |date=1 April 2026}}</ref>
+*[[Ronald N. Young]], former [[Maryland Senate|state senator]] from the [[Maryland Legislative District 3|3rd district]] (2011–2023)<ref name="Pitting"/>
+
+;County officials
+*[[Jessica Fitzwater]], [[Frederick County Council and County Executive|Frederick County Executive]] (2022–present)<ref>{{cite news |last1=Mause |first1=Ben |title=Frederick County executive endorses David Trone over McClain Delaney |url=https://www.baltimoresun.com/2026/03/04/david-trone-jessica-fitzwater-fredrick-county/ |access-date=March 4, 2026 |work=[[The Baltimore Sun]] |date=March 4, 2026}}</ref>
+
+;Labor unions
+*Maryland State [[National Education Association|Education Association]]<ref name="MSEA">{{cite web |title=National Education Association and Maryland State Education Association Endorse David Trone for Congress – WCBC Radio |url=https://www.wcbcradio.com/news/national-education-association-and-maryland-state-education-association-endorse-david-trone-for-congress/ |website=WCBC Radio |access-date=3 May 2026 |date=2 May 2026}}</ref>
+*[[National Education Association]]<ref name="NEA" />
+*[[Service Employees International Union]] Local 500<ref name="BusBallot"/>
+*[[UNITE HERE]] Local 25<ref>{{Cite tweet |user=UHLocal25 |number=2046624112852845023 |title=Local 25 is proud to endorse Rep. David Trone for reelection to Congress. |date=April 22, 2026 |access-date=May 1, 2026}}</ref>
+
+;Organizations
+*Maryland [[National Organization for Women]] PAC<ref>{{cite web |title=Maryland NOW Political Action Committee {{!}} Maryland National Organization for Women {{!}} Maryland NOW |url=https://marylandnow.org/pac/ |website=marylandnow.org |access-date=June 2, 2026}}</ref>
+*[[Moms Demand Action]] ''(co-endorsed with McClain Delaney and White)''<ref name="moms"/>
+
+;Newspapers
+*''[[Washington Jewish Week]]''<ref>{{cite news |title=Editorial: Primary Choices in Maryland, DC |url=https://www.washingtonjewishweek.com/primary-choices-in-maryland-dc/ |access-date=May 27, 2026 |work=[[Washington Jewish Week]] |date=May 27, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Ethan Wechtaluk
+|list=
+;Organizations
+*[[Council on American–Islamic Relations]] Action<ref name="CAIR"/>
+*[[Progressive Victory]]<ref name="Progressive Victory"/>
+*[[Track AIPAC]]<ref name=Track/>
+}}
+{{Endorsements box
+|title=Kiambo White
+|list=
+;Organizations
+*[[Moms Demand Action]] ''(co-endorsed with McClain Delaney and Trone)''<ref name="moms"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|George Gluck (D){{efn|As of last reported June 10, 2026}}
+|$102,176{{efn|$101,618 of this total was self-funded by Gluck}}
+|$102,052
+|$224
+|-
+|{{party shading/Democratic}}|Alexis Goldstein (D){{efn|As of last reported June 3, 2026}}
+|$41,096
+|$4,520
+|$0
+|-
+|{{party shading/Democratic}}|April McClain Delaney (D)
+|$12,308,220{{efn|$11,000,000 of this total was self-funded by McClain Delaney}}
+|$12,013,488
+|$307,611
+|-
+|{{party shading/Democratic}}|David Trone (D)
+|$26,207,404{{efn|$25,000,000 of this total was self-funded by Trone}}
+|$24,745,121
+|$1,466,124
+|-
+|{{party shading/Democratic}}|Ethan Wechtaluk (D)
+|$15,247{{efn|$2,395 of this total was self-funded by Wechtaluk}}
+|$15,118
+|$129
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Maryland 6th |url=https://www.fec.gov/data/elections/house/MD/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;" |April<br />{{nowrap|McClain Delaney}}
+! style="width:75px;" |David<br />Trone
+! Other
+! Undecided
+|-
+| style="text-align: left;" |[[Global Strategy Group]] (D)<ref name="TronePolls">{{cite web |title=NEW POLL RESULTS: Two independent polling firms find David Trone running slightly ahead of April McClain Delaney in the MD-06 primary election; Trone consistently leads on key traits as voters sour on the incumbent |url=https://drive.google.com/file/d/1auZ7jz1uPSPZg2TyXDrAhqwoLo5ZLOyI/view |website=[[Google Drive]] |access-date=June 16, 2026 |date=June 16, 2026}}</ref>{{efn-ua|name=Trone}}
+|June 8–11, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|40%
+|{{party shading/Democratic}}|'''43%'''
+|–
+|17%
+|-
+|style="text-align:left;"|Hart Research (D)<ref>{{cite web |title=MD-06 (D): Hart Research Associates for April McClain Delaney (June 2026) |url=https://www.documentcloud.org/documents/28226492-md-06-d-hart-research-associates-for-april-mcclain-delaney-june-2026/ |website=[[DocumentCloud]] |access-date=June 11, 2026 |date=June 8, 2026}}</ref>{{efn-ua|name=AMD}}
+|June 2–4, 2026
+|500 (LV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''52%'''
+|37%
+|–
+|12%
+|-
+| style="text-align: left;" |Impact Research (D)<ref name="TronePolls"/>{{efn-ua|name=Trone}}
+|May 26–28, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|43%
+|{{party shading/Democratic}}|'''45%'''
+|–
+|12%
+|-
+|style="text-align:left;"|Hart Research (D)<ref name="ms"/>{{efn-ua|name=AMD}}
+|May 16–18, 2026
+|500 (LV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''49%'''
+|34%
+|–
+|17%
+|-
+| style="text-align: left;" |Impact Research (D)<ref name="TronePolls"/>{{efn-ua|name=Trone|Poll sponsored by Trone's campaign}}
+|May 11–14, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|41%
+|{{party shading/Democratic}}|'''43%'''
+|–
+|16%
+|-
+| style="text-align:left;" |Hart Research (D)<ref name="ms">{{cite news |last1=Soler |first1=Caroline |title=Maryland Sixth Congressional District 2026: Latest Polls |url=https://www.nytimes.com/interactive/polls/maryland-us-house-6-polls-2026.html |access-date=May 29, 2026 |work=New York Times |date=May 21, 2026}}</ref>{{efn-ua|name=AMD}}
+|April 11–14, 2026
+|564 (LV)
+|±&nbsp;4.2%
+| {{party shading/Democratic}} |'''49%'''
+|38%
+|–
+|13%
+|-
+| style="text-align: left;" |The Public Sentiment Institute<ref>{{Cite web |title=Our New Poll Shows Democrats Holding Strong Advantage in Maryland's 6th Congressional District |url=https://tpsiofficial.substack.com/p/our-new-poll-shows-democrats-holding |access-date=2026-04-11 |date=2026-04-11 |website=Substack |language=en}}</ref>{{efn-ua|Poll sponsored by Federal Elections Analysis}}
+|April 8–11, 2026
+|154 (LV)
+|–
+|30%
+|{{party shading/Democratic}}|'''51%'''
+|4%{{efn|Ethan Wechtaluk, George Gluck, Alexis Goldstein, and Daniel Krakower with 1%}}
+|15%
+|-
+|style="text-align:left;"|Hart Research (D)<ref>{{cite news |last1=Pagnucco |first1=Adam |title=McClain Delaney Claims 12-Point Lead Over Trone |url=https://montgomeryperspective.com/2026/04/15/mcclain-delaney-claims-12-point-lead-over-trone/ |access-date=April 15, 2026 |work=Montgomery Perspective |date=April 15, 2026}}</ref>{{efn-ua|name=AMD}}
+|March 16–21, 2026
+|500 (LV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''49%'''
+|37%
+|–
+|14%
+|-
+|style="text-align:left;"|Hart Research (D)<ref>{{cite web |last1=Pagnucco |first1=Adam |title=Delaney Claims 17 Point Lead Over Trone |url=https://montgomeryperspective.com/2025/12/18/delaney-claims-17-point-lead-over-trone/ |publisher=Montgomery Perspective |access-date=20 December 2025 |date=18 December 2025}}</ref>{{efn-ua|name=AMD|Poll sponsored by McClain Delaney's campaign}}
+|December 9–16, 2025
+|600 (LV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''50%'''
+|33%
+|–
+|17%
+|}
+
+====Results====
+[[File:2026 MD-06 Democratic primary.svg|thumb|300px|Results by county
+{{collapsible list
+| title = {{legend|#7996E2|McClain Delaney}}
+|{{legend|#A5B0FF|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Trone}}
+|{{legend|#FFDD55|40–50%}}
+}}
+]]
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[April McClain Delaney]] (incumbent)
+| party = Democratic Party (US)
+| votes = 27,819
+| percentage = 44.0
+}}
+{{Election box candidate with party link no change
+| candidate = [[David Trone]]
+| party = Democratic Party (US)
+| votes = 23,383
+| percentage = 37.0
+}}
+{{Election box candidate with party link no change
+| candidate = [[Alexis Goldstein]]
+| party = Democratic Party (US)
+| votes = 6,201
+| percentage = 9.8
+}}
+{{Election box candidate with party link no change
+| candidate = Ethan Wechtaluk
+| party = Democratic Party (US)
+| votes = 3,469
+| percentage = 5.5
+}}
+{{Election box candidate with party link no change
+| candidate = George Gluck
+| party = Democratic Party (US)
+| votes = 933
+| percentage = 1.5
+}}
+{{Election box candidate with party link no change
+| candidate = Kiambo "Bo" White
+| party = Democratic Party (US)
+| votes = 670
+| percentage = 1.1
+}}
+{{Election box candidate with party link no change
+| candidate = A. Mark Wilks
+| party = Democratic Party (US)
+| votes = 556
+| percentage = 0.9
+}}
+{{Election box candidate with party link no change
+| candidate = Daniel Krakower ''(withdrawn)''
+| party = Democratic Party (US)
+| votes = 187
+| percentage = 0.3
+}}
+{{Election box total no change
+| votes = 63,218
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Robin Ficker]], former state delegate from district 15B (1979–1983), sports heckler, and perennial candidate<ref>{{cite news |last1=Pollak |first1=Suzanne |title=Ficker Declares for Congress, Vows To Fight For Trump |url=https://www.mymcmedia.org/ficker-declares-for-congress-vows-to-fight-for-trump/ |access-date=July 18, 2025 |work=Montgomery Community Media |date=July 18, 2025 |language=en}}</ref>
+
+=====Eliminated in primary=====
+*Chris Burnett, retired [[U.S. Marine Corps]] veteran<ref name="mdboe" />
+*Mariela Roca, medical logistics specialist and candidate for this district in [[2022 United States House of Representatives elections in Maryland#District 6|2022]] and [[2024 Maryland's 6th congressional district election|2024]]<ref name="mdboe" />
+
+=====Declined=====
+*[[Jason C. Buckel|Jason Buckel]], minority leader of the [[Maryland House of Delegates]] (2021–present) from [[Maryland House of Delegates District 1B|district 1B]] (2015–present)<ref>{{cite web |author1=Buckel, Jason |work=[[Maryland House of Delegates]] |title=House Floor Session, 3/5/2025, #1 |url=https://www.youtube.com/live/YmlHN-dm2NU?si=vkbrTRIRftjhEwTO&t=3848 |access-date=March 5, 2025 |date=March 5, 2025 |quote=There's a lot of people in this room that want to be in Congress, I'm looking you right in the eye, it ain't me. |via=[[YouTube]]}}</ref> ''([[2026 Maryland House of Delegates election#District 1B|running for re-election]])''<ref name="mdboe" />
+*[[Chuck Jenkins]], [[Frederick County Sheriff's Office|Frederick County Sheriff]] (2006–present) ''(running for re-election)''<ref>{{cite news |last1=Sanderlin |first1=Lee O. |title=A red stalwart in blue Maryland: Are these Chuck Jenkins' last days? |url=https://www.thebaltimorebanner.com/politics-power/local-government/frederick-sheriff-chuck-jenkins-republican-election-G4UIJGQQAJFY3AENB7D3VULCSU/ |access-date=April 11, 2025 |work=[[The Baltimore Banner]] |date=April 11, 2025 |language=en}}</ref>
+*[[Neil Parrott]], former state delegate from [[Maryland House of Delegates District 2A|district 2A]] (2011–2023) and nominee for this district in [[2020 United States House of Representatives elections in Maryland#District 6|2020]], [[2022 United States House of Representatives elections in Maryland#District 6|2022]], and [[2024 Maryland's 6th congressional district election|2024]]<ref name="Beidle">{{cite news |last1=Sears |first1=Bryan P. |title=Beidle withdraws at the filing deadline, taps Chang for her Senate seat |url=https://marylandmatters.org/2026/02/25/beidle-withdraws-at-the-filing-deadline-chang-lines-up-for-her-senate-seat/ |access-date=February 25, 2026 |work=[[Maryland Matters]] |date=February 25, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Chris Burnett (R)
+|$102,142{{efn|$6,023 of this total was self-funded by Burnett}}
+|$94,187
+|$1,084
+|-
+|{{party shading/Republican}}|Robin Ficker (R)
+|$403,934{{efn|$402,862 of this total was self-funded by Ficker}}
+|$403,533
+|$401
+|-
+|{{party shading/Republican}}|Mariela Roca (R)
+|$26,926{{efn|$761 of this total was self-funded by Roca}}
+|$26,400
+|$526
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+[[File:2026 MD-06 Republican primary.svg|thumb|300px|Results by county
+{{collapsible list
+| title = {{legend|#E27F7F|Ficker}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Burnett}}
+|{{legend|#FFDD55|40–50%}}
+}}
+]]
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Robin Ficker]]
+| party = Republican Party (US)
+| votes = 16,284
+| percentage = 41.8
+}}
+{{Election box candidate with party link no change
+| candidate = Chris Burnett
+| party = Republican Party (US)
+| votes = 14,562
+| percentage = 37.4
+}}
+{{Election box candidate with party link no change
+| candidate = Mariela Roca
+| party = Republican Party (US)
+| votes = 8,115
+| percentage = 20.8
+}}
+{{Election box total no change
+| votes = 38,961
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent and third-party candidates===
+====Candidates====
+=====Declared=====
+*Moshe Landman (Green), attorney, mortgage broker, and nominee for [[Maryland Legislative District 39|SD-39]] in [[2022 Maryland Senate election#District 39|2022]]<ref name="mdboe" />
+
+=====Withdrew=====
+*Chris Hyser (Unaffiliated), retired state trooper and Republican candidate for this district in [[2024 Maryland's 6th congressional district election|2024]]<ref name="mdboe"/>
+*Hajra Kirmani (Unaffiliated), real estate agent<ref name="mdboe" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|September 24, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|March 26, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| April McClain Delaney (D)
+|$12,308,220{{efn|$11,000,000 of this total was self-funded by McClain Delaney}}
+|$12,013,488
+|$307,611
+|-
+|{{party shading/Republican}}|Robin Ficker (R)
+|$403,934{{efn|$402,862 of this total was self-funded by Ficker}}
+|$403,533
+|$401
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 6th congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[April McClain Delaney]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Robin Ficker]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Maryland's 7th congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = Maryland Congressman Kweisi Mfume, 117th Congress (cropped).jpg
+| nominee1 = [[Kweisi Mfume]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Scott Collier
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Kweisi Mfume]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 7th congressional district}}
+The 7th district includes most of [[Baltimore]] and some of its suburbs.<ref name = "valid source"/> The incumbent is Democrat [[Kweisi Mfume]], who was re-elected with 80.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+[[File:GEDCO Thanksgiving Tribute (close crop).jpg|150px|thumb|Mfume faced a primary challenge from Baltimore city councilor [[Mark Conway (politician)|Mark Conway]].]]
+====Candidates====
+=====Nominee=====
+*[[Kweisi Mfume]], incumbent U.S. representative<ref name="mdboe"/>
+
+=====Eliminated in primary=====
+*[[Mark Conway (politician)|Mark Conway]], [[Baltimore City Council|Baltimore city councilor]] from the 4th district (2020–present)<ref>{{cite news |last1=Swick |first1=Carson |last2=Ibrahim |first2=Mennatalla |title=Councilman Mark Conway launches congressional bid against Mfume, calls for 'new ideas' |url=https://www.baltimoresun.com/2025/10/15/mark-conway-kweisi-mfume-congress-bid/ |access-date=October 15, 2025 |work=[[The Baltimore Sun]] |date=October 15, 2025 |archive-url=https://web.archive.org/web/20251015182612/https://www.baltimoresun.com/2025/10/15/mark-conway-kweisi-mfume-congress-bid/ |archive-date=October 15, 2025}}</ref>
+*Tashi Davis, project manager and candidate for this district in [[2022 United States House of Representatives elections in Maryland#District 7|2022]] and [[2024 United States House of Representatives elections in Maryland#District 7|2024]]<ref name="mdboe" />
+*Theo Gillespie, school bus driver<ref name="mdboe"/>
+
+====Endorsements====
+Endorsements in '''bold''' were made after the primary elections.
+{{Endorsements box
+|title=Mark Conway
+|list=
+;Organizations
+*[[Council on American–Islamic Relations]] Action<ref name="CAIR"/>
+*[[Moms Demand Action]] ''(co-endorsed with Mfume)''<ref name="moms"/>
+*[[Peace Action]]<ref>{{cite web | title=2026 Endorsements | url=https://www.peaceaction.org/endorsements/|website=Peace Action|access-date=April 5, 2026 }}</ref>
+*[[Track AIPAC]]<ref name=Track/>
+}}
+{{Endorsements box
+|title=Kweisi Mfume
+|columns=yes
+|list=
+;Statewide officials
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref name="Moore"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*[[American Federation of State, County and Municipal Employees]] Council 3<ref name="AFSCME3"/>
+*Maryland State & DC [[AFL-CIO]]<ref name="mdaflcio" />
+*[[National Education Association]]<ref name="NEA"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[We Are CASA|CASA in Action]]<ref name="CASA"/>
+*'''[[Humane World for Animals|Humane World Action Fund]]'''<ref name="humaneaction"/>
+*[[J Street]]<ref>{{cite web | title=Kweisi Mfume | url=https://jstreetpac.org/candidate/kweisi-mfume/ }}</ref>
+*'''[[League of Conservation Voters]]'''<ref>{{cite press release |title=LCV Action Fund Announces Next Slate of Endorsements for U.S. House of Representatives and Senate |url=https://www.lcv.org/media-center/lcv-action-fund-announces-next-slate-of-endorsements-for-u-s-house-of-representatives-and-senate/ |website=League of Conservation Voters |access-date=July 3, 2026 |date=July 2, 2026}}</ref>
+*[[Moms Demand Action]] ''(co-endorsed with Conway)''<ref name="moms"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Sierra Club]]<ref name="Sierra"/>
+
+;Newspapers
+*''[[Baltimore Afro-American]]''<ref name="AFRO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Mark Conway (D)
+|$203,673
+|$191,083
+|$12,590
+|-
+|{{party shading/Democratic}}|Kweisi Mfume (D)
+|$415,174
+|$406,290
+|$702,810
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Maryland 7th |url=https://www.fec.gov/data/elections/house/MD/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Kweisi Mfume]] (incumbent)
+| party = Democratic Party (US)
+| votes = 57,793
+| percentage = 70.1
+}}
+{{Election box candidate with party link no change
+| candidate = [[Mark Conway (politician)|Mark Conway]]
+| party = Democratic Party (US)
+| votes = 20,197
+| percentage = 24.5
+}}
+{{Election box candidate with party link no change
+| candidate = Tashi Davis
+| party = Democratic Party (US)
+| votes = 2,904
+| percentage = 3.5
+}}
+{{Election box candidate with party link no change
+| candidate = Theo Gillespie
+| party = Democratic Party (US)
+| votes = 1,573
+| percentage = 1.9
+}}
+{{Election box total no change
+| votes = 82,467
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Scott Collier, media entrepreneur, perennial candidate, and nominee for this district in [[2022 United States House of Representatives elections in Maryland#District 7|2022]] and [[2024 United States House of Representatives elections in Maryland#District 7|2024]]<ref name="mdboe" />
+
+====Results====
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = Scott Collier
+| party = Republican Party (United States)
+| votes = 5,749
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 5,749
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kweisi Mfume (D)
+|$415,174
+|$406,290
+|$702,810
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 7th congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Kweisi Mfume]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Scott Collier
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Maryland's 8th congressional district election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maryland#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maryland#District 8
+| next_year = 2028
+| image_size = x150px
+| image1 = Jamie Raskin Official Portrait 2019 (cropped).jpg
+| nominee1 = [[Jamie Raskin]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Cheryl Riley
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jamie Raskin]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maryland's 8th congressional district}}
+The 8th district is based in [[Montgomery County, Maryland|Montgomery County]] and includes the county's innermost suburbs of [[Washington, D.C.]], such as [[Rockville, Maryland|Rockville]], [[Silver Spring, Maryland|Silver Spring]], and [[Bethesda, Maryland|Bethesda]].<ref name = "valid source"/> The incumbent is Democrat [[Jamie Raskin]], who was re-elected with 76.8% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Jamie Raskin]], incumbent U.S. representative<ref name="mdboe" />
+
+=====Eliminated in primary=====
+*J. D. Kumar, finance executive<ref name="mdboe" />
+*Stephen Leon, inventor<ref name="mdboe" />
+
+=====Withdrew=====
+*Marc Lande, nursing assistant<ref name="mdboe" />
+*Boris Velasquez, national security analyst (''remained on ballot'')<ref name="mdboe" /><ref>{{Cite web |title=Boris Velasquez for Maryland's 8th District {{!}} Get Involved Today |url=https://www.borisvelasquez.com/ |access-date=2026-06-23 |website=Boris Velasquez for Maryland's 8th District |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jamie Raskin
+|columns=yes
+|list=
+;Statewide officials
+*[[Wes Moore]], [[Maryland governor]] (2023–present)<ref name="Moore"/>
+
+;Labor unions
+*[[Amalgamated Transit Union]] Local 689<ref name="ATU689"/>
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*[[American Federation of State, County and Municipal Employees]] Council 3<ref name="AFSCME3"/>
+*[[Association of Flight Attendants]]<ref name="AFACWA"/>
+*Maryland State & DC [[AFL-CIO]]<ref name="mdaflcio" />
+*[[National Education Association]]<ref name="NEA"/>
+*[[Service Employees International Union]] Local 500<ref name="BusBallot"/>
+*[[United Food and Commercial Workers]] Local 1994 MCGEO<ref name="UFCW1994"/>
+
+;Organizations
+*[[Brady Campaign|Brady PAC]]<ref name="Brady"/>
+*[[Center for Freethought Equality]] PAC<ref name="cfe">{{cite web |title=2026 Endorsements |url=https://www.cfequality.org/members/endorsements/2026#Maryland |publisher=Center for Freethought Equality |access-date=April 20, 2026}}</ref>
+*[[Council on American–Islamic Relations]] Action<ref name="CAIR"/>
+*[[Giffords]]<ref name="Giffords">{{cite web |title=Endorsements |url=https://giffords.org/elections/endorsements/ |website=Giffords |access-date=February 24, 2026}}</ref>
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="Humane">{{cite web |title=Humane World Action Fund endorses Rep. Jamie Raskin for reelection in MD-08 race {{!}} Humane World Action Fund |url=https://humaneaction.org/press-release/2026/05/humane-world-action-fund-endorses-rep-jamie-raskin-reelection-md-08-race |website=humaneaction.org |access-date=June 2, 2026 |language=en |date=May 27, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA" />
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+*[[J Street]]<ref>{{cite web | title=Jamie Raskin | url=https://jstreetpac.org/candidate/jamie-raskin/ }}</ref>
+*[[League of Conservation Voters]] Action Fund<ref name="LCV" />
+*[[Moms Demand Action]]<ref name="moms"/>
+*[[Our Revolution]]<ref>{{cite web |author1=Our Revolution |title=At a time when our democracy is under attack, we need to re-elect Rep. Jamie Raskin to Congress (MD-08). |url=https://www.instagram.com/p/DXwjWubDZXv/ |website=Instagram |access-date=April 30, 2026 |date=April 30, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Progressive Democrats of America]]<ref name="pdamerica">{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements/ |publisher=Progressive Democrats of America |access-date=April 20, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Elections |url=https://reproductivefreedomforall.org/elections/ |website=Reproductive Freedom for All |access-date=15 February 2026}}</ref>
+*[[Sierra Club]]<ref name="Sierra"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Stephen Leon (D){{Efn|As last reported on June 30, 2026}}
+|$4,214{{efn|$4,189 of this total was self-funded by Leon}}
+|$4,741
+|$83
+|-
+|{{party shading/Democratic}}|Jamie Raskin (D)
+|$7,425,389
+|$4,497,145
+|$7,893,447
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Maryland 8th |url=https://www.fec.gov/data/elections/house/MD/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = [[Jamie Raskin]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 98,179
+| percentage = 92.7
+}}
+{{Election box candidate with party link no change
+| candidate = Boris Velasquez ''(withdrawn)''
+| party = Democratic Party (US)
+| votes = 2,767
+| percentage = 2.6
+}}
+{{Election box candidate with party link no change
+| candidate = J. D. Kumar
+| party = Democratic Party (US)
+| votes = 2,538
+| percentage = 2.4
+}}
+{{Election box candidate with party link no change
+| candidate = Stephen Alan Leon
+| party = Democratic Party (US)
+| votes = 2,453
+| percentage = 2.3
+}}
+{{Election box total no change
+| votes = 105,937
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Cheryl Riley, public relations consultant and nominee for this district in [[2024 United States House of Representatives elections in Maryland#District 8|2024]]<ref name="mdboe" />
+=====Eliminated in primary=====
+*Anita Cox, nominee for [[Maryland Legislative District 19|SD-19]] in [[2022 Maryland Senate election#District 19|2022]]<ref name="mdboe" />
+*Donald Lech, [[Food and Drug Administration]] official<ref name="mdboe" />
+*Michael Yadeta, engineer and candidate for this district in [[2020 United States House of Representatives elections in Maryland#District 8|2020]], [[2022 United States House of Representatives elections in Maryland#District 8|2022]], and [[2024 United States House of Representatives elections in Maryland#District 8|2024]]<ref name="mdboe" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Anita Cox (R)
+|$11,916
+|$4,800
+|$7,116
+|-
+|{{party shading/Republican}}|Cheryl Riley (R)
+|$16,590
+|$15,372
+|$1,806
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = Cheryl Riley
+| party = Republican Party (US)
+| votes = 3,495
+| percentage = 43.3
+}}
+{{Election box candidate with party link no change
+| candidate = Anita Cox
+| party = Republican Party (US)
+| votes = 2,123
+| percentage = 26.3
+}}
+{{Election box candidate with party link no change
+| candidate = Donald Lech
+| party = Republican Party (US)
+| votes = 1,376
+| percentage = 17.0
+}}
+{{Election box candidate with party link no change
+| candidate = Michael Yadeta
+| party = Republican Party (US)
+| votes = 1,087
+| percentage = 13.5
+}}
+{{Election box total no change
+| votes = 8,081
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent and third-party candidates===
+====Candidates====
+=====Declared=====
+*Nancy Wallace (Green), nominee for this district in [[2016 United States House of Representatives elections in Maryland#District 8|2016]] and [[Governor of Maryland|governor]] in [[2022 Maryland gubernatorial election|2022]]<ref name="mdboe" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jamie Raskin (D)
+|$7,425,389
+|$4,497,145
+|$7,893,447
+|-
+|{{party shading/Republican}}|Cheryl Riley (R)
+|$16,590
+|$15,372
+|$1,806
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Maryland's 8th congressional district election<ref name="gen"/> }}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jamie Raskin]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Cheryl Riley
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==See also==
+* [[2026 Maryland gubernatorial election]]
+* [[2026 Maryland Attorney General election]]
+* [[2026 Maryland Comptroller election]]
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.andyharris.com/ Andy Harris (R)]
+*[https://schwartzforcongress.com/ Dan Schwartz (D)]
+
+;Official campaign websites for 2nd district candidates
+*[https://gojohnnyo.com/ Johnny Olszewski (D)]
+*[https://davewallace.us/ Dave Wallace (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://elfrethformaryland.com/ Sarah Elfreth (D)]
+*[https://flowersformaryland.com/ Barney Flowers (R)]
+
+;Official campaign websites for 4th district candidates
+*[https://glennivey.com/ Glenn Ivey (D)]
+
+;Official campaign websites for 5th district candidates
+*[https://www.adrianboafo.com/ Adrian Boafo (D)]
+
+;Official campaign websites for 6th district candidates
+*[https://voteficker.com/ Robin Ficker (R)]
+*[https://www.moshelandman.us/ Moshe Landman (G)]
+*[https://www.aprilmcclaindelaneyforcongress.com/ April McClain Delaney (D)]
+
+;Official campaign websites for 7th district candidates
+*[http://www.scottcollier.org/ Scott Collier (R)]
+*[https://mfumeforcongress.com/ Kweisi Mfume (D)]
+
+;Official campaign websites for 8th district candidates
+*[https://jamieraskin.com/ Jamie Raskin (D)]
+*[https://www.cheryl4maryland.com/ Cheryl Riley (R)]
+*[https://www.nancywallace.us/ Nancy Wallace (G)]
+
+{{Elections in Maryland footer}}
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Maryland|2026]]
+[[Category:2026 United States House of Representatives elections|Maryland]]
+[[Category:2026 elections in Maryland|United States House of Representatives]]

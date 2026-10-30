@@ -1,0 +1,797 @@
+{{Short description|none}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 New Mexico House of Representatives election}}{{Infobox election
+| election_name      = 2026 United House of Representatives elections in New Mexico
+| country            = New Mexico
+| type               = legislative
+| ongoing            = yes
+| previous_election  = 2024 United States House of Representatives elections in New Mexico
+| previous_year      = 2024
+| next_election      = 2028 United States House of Representatives elections in New Mexico
+| next_year          = 2028
+| seats_for_election = All 3 New Mexico seats to the [[United States House of Representatives]]
+| election_date      = November 3, 2026
+| party1             = Democratic Party (United States)
+| last_election1     = ''' 3'''
+| seats1             = 
+| seat_change1       = 
+| party2             = Republican Party (United States)
+| last_election2     = 0
+| seats2             = 
+| seat_change2       = 
+| map_image          = 
+| map_caption        = 
+}}
+
+{{Elections in New Mexico}}
+The '''2026 United States House of Representatives elections in New Mexico ''' will be held on November 3, 2026, to elect the three [[U.S. representative]]s from the [[U.S. state|state]] of [[New Mexico]], one from each of the state's [[New Mexico's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 2, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 New Mexico's 1st congressional district election
+| country = New Mexico
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in New Mexico#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in New Mexico#District 1
+| next_year = 2028
+| image1 = Melanie Stansbury 117th Congress (cropped).jpg
+| nominee1 = [[Melanie Stansbury]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Didi Okpareke
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Melanie Stansbury]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|New Mexico's 1st congressional district}}
+The 1st district covers the center of the state, taking in the counties of [[Torrance County, New Mexico|Torrance]], [[Guadalupe County, New Mexico|Guadalupe]], [[De Baca County, New Mexico|De Baca]], and [[Lincoln County, New Mexico|Lincoln]], as well as eastern [[Bernalillo County, New Mexico|Bernalillo County]] and most of [[Albuquerque, New Mexico|Albuquerque]]. The incumbent is Democrat [[Melanie Stansbury]], who was re-elected with 56.4% of the vote in 2024.<ref name="HV"/>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Melanie Stansbury]], incumbent U.S. representative<ref>{{cite web |last1=Ross |first1=Alex |title=Zamora edges out Leger Fernandez in latest fundraising period; Other Congressional candidates, incumbents report big numbers |url=https://nmpoliticalreport.com/2025/10/17/zamora-edges-out-leger-fernandez-in-latest-fundraising-period-vasquez-stansbury-lujan-also-report/ |access-date=October 31, 2025 |work=[[New Mexico Political Report]] |date=October 17, 2025 |quote=Stansbury, who has been in Congress since 2021, is seeking another term...}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Melanie Stansbury
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="afgeNM">{{cite web |title=Largest Federal Employee Union Endorses 4 New Mexico Incumbents for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-4-new-mexico-incumbents-for-reelection-to-congress/ |website=AFGE |access-date=May 27, 2026 |language=en |date=May 27, 2026}}</ref>
+
+;Organizations
+*[[314 Action]]<ref name="314A">{{cite web |title=US House |url=https://314action.org/endorsed-candidates/us-house-210810/ |website=3.14 Action |access-date=26 November 2025}}</ref>
+*[[Christopher Street Project]]<ref name="CSP">{{cite web |title=Champions |url=https://christopherstreetproject.org/champions/ |website=Christopher Street Project |access-date=27 November 2025}}</ref>
+*[[J Street]]<ref name="MSJST">{{cite web |title=Melanie Stansbury |url=https://jstreetpac.org/candidate/melanie-stansbury/ |website=JStreetPAC |access-date=18 April 2026}}</ref>
+*[[League of Conservation Voters]]<ref name="LCV">{{cite web |title=2025-2026 Endorsements |url=https://www.lcv.org/endorsements/ |website=League of Conservation Voters |access-date=26 November 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Melanie Stansbury (D)
+|$1,164,453
+|$990,656
+|$319,506
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - New Mexico 1st |url=https://www.fec.gov/data/elections/house/NM/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 4, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Melanie Stansbury]] (incumbent)
+| votes = 79,823
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 79,823
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Didi Okpareke, pharmacist<ref>{{cite news |last1=Cook |first1=Cathy |title=Rio Rancho pharmacist running for Congress |url=https://www.abqjournal.com/news/article_7ad6f7b7-73ad-4cff-9590-4c53b4f9e27b.html |access-date=September 10, 2025 |work=[[Albuquerque Journal]] |date=July 23, 2025 |language=en}}</ref>
+=====Disqualified=====
+*Steve Jones, radio host and nominee for this district in [[2024 United States House of Representatives elections in New Mexico#District 1|2024]]<ref name="Roswell Daily Record">{{cite news |last1=Ross |first1=Alex |title=Radio host launches campaign to unseat Vasquez in 2nd Congressional District |url=https://www.rdrnews.com/news/radio-host-launches-campaign-to-unseat-vasquez-in-2nd-congressional-district/article_f240e670-1acf-4bdb-93ca-145a4821c1bc.html |access-date=May 14, 2025 |work=[[Roswell Daily Record]] |date=May 14, 2025 |language=en}}</ref>
+*Carlton Pennington, Army veteran<ref name=disqualified>{{cite news |title=Four New Mexico candidates disqualified after failing to meet ballot requirements |url=https://www.abqjournal.com/news/four-new-mexico-candidates-disqualified-after-failing-to-meet-ballot-requirements/2978003?utm_campaign=mrf-twitter-ABQJournal&mrfcid=20260211698cbbd4871dae073950f595 |access-date=February 11, 2026 |work=[[Albuquerque Journal]] |date=February 10, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Didi Okpareke (R)
+|$75,886
+|$39,611
+|$36,274
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Didi Okpareke
+| votes = 31,809
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 31,809
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 19, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 19, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|June 19, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Melanie Stansbury (D)
+|$1,671,811
+|$1,413,721
+|$403,798
+|-
+|{{party shading/Republican}}| Didi Okpareke (R)
+|$100,340
+|$57,599
+|$42,741
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Melanie<br />Stansbury (D)
+! style="width:100px;"| Didi<br />Okapareke (R)
+! Undecided
+|-
+|style="text-align:left;"|Research & Polling<ref name="R&POct2026">{{Cite web|last=Barkhurst|first=Gillian|date=October 15, 2026|title=Journal Poll: Congressional incumbents Stansbury and Leger Fernández lead challengers|url=https://www.yahoo.com/news/politics/articles/journal-poll-congressional-incumbents-stansbury-140200486.html|work=[[Yahoo|Yahoo News]]|access-date=October 15, 2026}}</ref>{{Efn-ua|Poll conducted for the ''[[Albuquerque Journal]]''}}
+|October 1–9, 2026
+|380 (LV)
+|±&nbsp;5.0%
+|{{party shading/Democratic}}|'''53%'''
+|35%
+|12%
+|-
+|}
+
+====Results====
+{{Election box begin|title=2026 New Mexico's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Melanie Stansbury]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Didi Okapareke 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 New Mexico's 2nd congressional district election
+| country = New Mexico
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in New Mexico#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in New Mexico#District 2
+| next_year = 2028
+| image1 = Rep Gabriel Vasquez Official Portrait (cropped).jpg
+| nominee1 = [[Gabe Vasquez]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Greg Cunningham
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Gabe Vasquez]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|New Mexico's 2nd congressional district}}
+The 2nd district encapsulates southern and western New Mexico, including the cities of [[Las Cruces, New Mexico|Las Cruces]], [[Carlsbad, New Mexico|Carlsbad]], and [[Alamogordo, New Mexico|Alamogordo]], as well as the southwestern suburbs of [[Albuquerque, New Mexico|Albuquerque]]. The incumbent is Democrat [[Gabe Vasquez]], who was re-elected with 52.1% of the vote in 2024.<ref name="HV"/>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Gabe Vasquez]], incumbent U.S. representative<ref>{{#invoke:cite|news |last1=Brown |first1=Scott |title=Vasquez announces run for 2026 state congressional seat |url=https://www.krqe.com/news/politics-government/elections/vasquez-announces-run-for-2026-state-congressional-seat/ |access-date=September 21, 2025 |work=[[KRQE]] |date=September 20, 2025 |language=en}}</ref>
+
+=====Disqualified=====
+*Tom Wakely, [[Green Party of the United States|Green Party]] candidate for U.S. Senate in [[2024 United States Senate election in New Mexico|2024]]<ref name=disqualified/>
+
+====Endorsements====
+{{Endorsements box
+|title=Gabe Vasquez
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="afgeNM"/>
+;Organizations
+*[[Giffords]]<ref name="Giffords930">{{cite web |title=GIFFORDS PAC endorses key battleground champions running for reelection to Congress |url=https://giffords.org/press-release/2025/09/giffords-pac-endorses-key-battleground-champions-running-for-reelection-to-congress/ |website=GIFFORDS |access-date=September 30, 2025 |date=30 September 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JD">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=26 November 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[J Street]]<ref name="JGabe">{{cite web |title=Gabe Vasquez |url=https://jstreetpac.org/candidate/gabe-vasquez/ |website=JStreetPAC |access-date=26 November 2025}}</ref>
+*[[Latino Victory]]<ref name="latinovictory">{{cite web |title=Endorsements |url=https://latinovictory.org/endorsements/ |website=latinovictory.org |publisher=Latino Victory |access-date=September 1, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Gabe Vasquez (D)
+|$3,157,009
+|$1,239,654
+|$1,956,441
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - New Mexico 2nd |url=https://www.fec.gov/data/elections/house/NM/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 4, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Gabe Vasquez]] (incumbent)
+| votes = 47,123
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 47,123
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Greg Cunningham, retired police officer and nominee for New Mexico's 29th House district in [[2022 New Mexico House of Representatives election#District 29|2022]] and [[2024 New Mexico House of Representatives election#District 29|2024]]<ref>{{cite web |last1=Ross |first1=Alex |title=Greg Cunningham enters race for Congress in CD2, covering southern NM and ABQ's Westside |url=https://nmpoliticalreport.com/2025/10/03/greg-cunningham-enters-race-for-congress-in-cd2-covering-southern-nm-and-abqs-westside/ |access-date=October 3, 2025 |work=New Mexico Political Report |date=October 3, 2025}}</ref>
+
+=====Withdrawn=====
+*Jose Orozco, federal contractor and nominee for New Mexico's 13th House district in [[2012 New Mexico House of Representatives election#District 13|2012]] ''(endorsed Cunningham; will appear on ballot)''<ref name="Oroz">{{cite web |last1=Bowling |first1=Joshua |title=Republican drops out of Congressional District 2 primary |url=https://sourcenm.com/briefs/republican-drops-out-of-congressional-district-2-primary/ |publisher=[[Source NM]] |access-date=April 10, 2026 |date=April 8, 2026}}</ref>
+
+=====Declined=====
+*[[Yvette Herrell]], former U.S. representative (2021–2023)<ref>{{Cite web |title=Former NM congresswoman Yvette Herrell appointed to Trump administration post |url=https://www.abqjournal.com/news/article_850d9304-2a88-46ce-9cf2-87f4e0107f30.html |work=[[Albuquerque Journal]] |author=Boyd, Dan |date=July 31, 2025 |quote=A Herrell campaign spokesman confirmed her plan to not run in 2026 for the 2nd Congressional District seat}}</ref> ''(endorsed Cunningham)''<ref name="10/15 Digest">{{cite web|url=https://www.the-downballot.com/i/176195689/nm|title=Morning Digest: Arizona threatens to sue after House GOP refuses to seat Democrat|last=Nir|first=David|date=October 15, 2025|access-date=October 15, 2025|work=The Downballot}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Greg Cunningham
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Paloma |first1=Natassia |title=Trump endorses retired detective Greg Cunningham in New Mexico race |url=https://www.elpasotimes.com/story/news/politics/2026/04/15/trump-endorses-greg-cunningham-in-new-mexico-congressional-race/89621778007/ |website=El Paso Times |access-date=April 15, 2026 |date=April 15, 2026}}</ref>
+
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Steve"/>
+*[[Yvette Herrell]], former [[New Mexico's 2nd congressional district|NM-02]] (2021–2023)<ref name="10/15 Digest"/>
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://www.nrcc.org/2026/04/27/nrcc-announces-addition-of-8-candidates-to-maga-majority-program-as-gop-expands-2026-map/|title=NRCC Announces Addition of 8 Candidates to ‘MAGA Majority’ Program as GOP Expands 2026 Map|date=April 27, 2026|access-date=May 4, 2026}}</ref>
+*[[Mike Johnson]], [[speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="Steve"/>
+*[[Lisa McClain]], [[MI-09]] (2021–present)<ref name="Steve"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="Steve">{{cite web |last1=Bowling |first1=Joshua |title=New Mexico Election 2026: trail notes |url=https://sourcenm.com/2026/04/17/new-mexico-election-2026-trail-notes-9/ |website=Source New Mexico |access-date=23 April 2026 |date=17 April 2026}}</ref>
+
+;Individuals
+*Jose Orozco, federal contractor and former candidate for this seat<ref name="Oroz"/>
+
+;Organizations
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+}}
+
+====Fundraising====
+''Italics'' indicate withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Greg Cunningham (R)
+|$659,523
+|$310,324
+|$349,199
+|-
+|{{party shading/Republican}}|''Jose Orozco (R)''
+|$218,755
+|$215,937
+|$2,818
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Greg Cunningham
+| votes = 26,836
+| percentage = 84.5
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Jose Orozco ''(withdrawn)''
+| votes = 4,910
+| percentage = 15.5
+}}
+{{Election box total no change
+| votes = 31,746
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|align=left|[[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+|{{USRaceRating|Likely|D}}
+|August 12, 2026
+|-
+|align=left|[[The Cook Political Report]]<ref name="Cook Initial"/>
+|{{USRaceRating|Lean|D}}
+|January 15, 2026
+|-
+|align=left|[[Inside Elections]]<ref name="IE Initial"/>
+|{{USRaceRating|Tilt|D}}
+|June 19, 2025
+|-
+|align=left|[[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+|{{USRaceRating|Lean|D}}
+|June 19, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Gabe Vasquez (D)
+|$5,259,751
+|$4,655,219
+|$643,617
+|-
+|{{party shading/Republican}}| Gregg Cunningham (R)
+|$2,384,671
+|$1,658,108
+|$726,563
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Gabe<br />Vasquez (D)
+! style="width:100px;"| Greg<br />Cunningham (R)
+! Undecided
+|-
+|style="text-align:left;"|Research & Polling<ref>{{Cite web|last=D'Ammassa|first=Algernon|date=October 12, 2026|title=Journal poll: Gabe Vasquez leads Greg Cunningham in competitive House election|url=https://www.abqjournal.com/news/journal-poll-gabe-vasquez-leads-greg-cunningham-in-competitive-house-election/3139738|url-access=subscription|work=[[Albuquerque Journal]]|access-date=October 12, 2026}}</ref>{{Efn-ua|Poll conducted for the ''[[Albuquerque Journal]]''}}
+|October 1–9, 2026
+|383 (LV)
+|±&nbsp;5.0%
+|{{party shading/Democratic}}|'''48%'''
+|44%
+|8%
+|-
+|style="text-align:left"|[[SurveyUSA]]<ref>{{cite web|last=Troli|first=Blake|date=September 3, 2026|title=KOB poll shows tight race for New Mexico’s 2nd congressional district|url=https://www.kob.com/new-mexico/kob-poll-shows-tight-race-for-new-mexicos-2nd-congressional-district/|website=[[KOB]]|access-date=September 3, 2026}}</ref>
+|August 28 – September 2, 2026
+|554 (LV)
+|±&nbsp;4.6%
+|{{party shading/Democratic}}|'''46%'''
+|43%
+|11%
+|-
+|style="text-align:left"|co/efficient (R)<ref name="NRCCMay2026">{{cite web |title=NM-02 General election Survey |url=https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-NM-02-Survey-Memo-1.pdf |work=[[NRCC]]|access-date=May 8, 2026 |date=May 8, 2026}}</ref>{{Efn-ua|name=NRCC|Poll commissioned by the [[National Republican Congressional Committee]]}}
+|April 26–28, 2026
+|879 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''43%'''
+|41%
+|16%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Generic Democrat vs. generic Republican'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Democrat
+! style="width:100px;"| Generic<br />Republican
+! Undecided
+|-
+|style="text-align:left"|co/efficient (R)<ref name="NRCCMay2026"/>{{Efn-ua|name=NRCC}}
+|April 26–28, 2026
+|879 (LV)
+|±&nbsp;3.3%
+|'''45%'''
+|'''45%'''
+|10%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 New Mexico's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Gabe Vasquez]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Greg Cunningham 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 New Mexico's 3rd congressional district election
+| country = New Mexico
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in New Mexico#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in New Mexico#District 3
+| next_year = 2028
+| image1 = Teresa Leger Fernandez 117th U.S Congress (cropped).jpg
+| nominee1 = [[Teresa Leger Fernández]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Martin Zamora]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Teresa Leger Fernández]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|New Mexico's 3rd congressional district}}
+The 3rd district covers the northern and eastern parts of the state, taking in the cities of [[Santa Fe, New Mexico|Santa Fe]], [[Roswell, New Mexico|Roswell]], [[Farmington, New Mexico|Farmington]], and [[Clovis, New Mexico|Clovis]], as well as parts of the [[Navajo Nation]]. The incumbent is Democrat [[Teresa Leger Fernández]], who was re-elected with 56.3% of the vote in 2024.<ref name="HV">{{Cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=2025-06-19 |website=Cook Political Report |language=en}}</ref>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Teresa Leger Fernández]], incumbent U.S. representative<ref>{{cite web |last1=Lohmann |first1=Patrick |title=By the #s: NM Dem incumbents show big lead for 2026 national mid-terms |url=https://sourcenm.com/briefs/by-the-s-nm-dem-incumbents-show-big-lead-for-2026-national-mid-terms/ |access-date=October 31, 2025 |work=[[Source New Mexico]] |date=October 27, 2025 |quote=Leger Fernández, who is seeking her fourth term in Congress...}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Teresa Leger Fernández
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="afgeNM"/>
+;Organizations
+*[[Council for a Livable World]]<ref>{{cite web |title=House Candidates |url=https://livableworld.org/meet-the-candidates/house-candidates/ |website=Council for a Livable World |access-date=23 November 2025}}</ref>
+*[[J Street]]<ref name="TLFJS">{{cite web |title=Teresa Leger Fernandez |url=https://jstreetpac.org/candidate/teresa-leger-fernandez/ |website=JStreetPAC |access-date=20 April 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JD"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Elections |url=https://reproductivefreedomforall.org/elections/ |website=Reproductive Freedom for All |access-date=27 November 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Teresa Leger Fernández (D)
+|$1,118,127
+|$880,957
+|$645,096
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - New Mexico 3rd |url=https://www.fec.gov/data/elections/house/NM/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 4, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = {{nowrap|[[Teresa Leger Fernández]] (incumbent)}}
+| votes = 68,768
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 68,768
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Martin R. Zamora|Martin Zamora]], [[New Mexico House of Representatives|state representative]] from the 63rd district (2019–present)<ref>{{cite news |last1=Hendricks |first1=Kevin |title=Republican State Rep. Martin Zamora Files to Run Against U.S. Rep. Leger Fernandez |url=https://nmpoliticalreport.com/2025/09/02/republican-state-rep-martin-zamora-files-to-run-against-u-s-rep-leger-fernandez/ |access-date=September 2, 2025 |work=New Mexico Political Report |date=September 2, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Martin Zamora (R)
+|$433,495
+|$164,601
+|$268,894
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Martin R. Zamora|Martin Zamora]]
+| votes = 32,901
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 32,901
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|October 1, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=June 19, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|June 19, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|June 19, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= June 19, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|June 19, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Teresa Leger Fernández (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260625205115/https://nwpc.org/endorsed-candidates |archive-date=25 June 2026 |access-date=24 October 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Teresa Leger Fernández (D)
+|$1,554,253
+|$1,314,976
+|$647,202
+|-
+|{{party shading/Republican}}| Martin Zamora (R)
+|$598,684
+|$450,748
+|$147,936
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - New Mexico |url=https://www.fec.gov/data/elections/house/NM/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 2, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Teresa<br />Leger Fernández (D)
+! style="width:100px;"| Martin<br />Zamora (R)
+! Undecided
+|-
+|style="text-align:left;"|Research & Polling<ref name="R&POct2026"/>{{Efn-ua|Poll conducted for the ''[[Albuquerque Journal]]''}}
+|October 1–9, 2026
+|362 (LV)
+|±&nbsp;5.2%
+|{{party shading/Democratic}}|'''53%'''
+|39%
+|8%
+|-
+|}
+
+====Results====
+{{Election box begin|title=2026 New Mexico's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Teresa Leger Fernández]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Martin Zamora]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==See also==
+* [[2026 New Mexico elections]]
+* [[2026 United States House of Representatives elections]]
+* [[2026 New Mexico House of Representatives election]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.didiforcongress.com/ Ndidiamaka "Didi" Okpareke (R)]
+*[https://melaniefornm.com/ Melanie Stansbury (D)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.cunninghamfornm.com/ Greg Cunningham (R)]
+*[https://gabeforcongress.com/ Gabe Vasquez (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://www.teresaforall.com/ Teresa Leger Fernandez (D)]
+*[https://zamorafornewmexico.com/ Martin Zamora (R)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in New Mexico|2026]]
+[[Category:2026 United States House of Representatives elections|New Mexico]]
+[[Category:2026 elections in New Mexico|United States House of Representatives]]

@@ -1,0 +1,1754 @@
+{{short description|none}}
+{{Use mdy dates|date=November 2024}}
+{{use American English|date=November 2024}}{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Iowa House of Representatives election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Iowa
+| country = Iowa
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Iowa
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Iowa
+| next_year = 2028
+| seats_for_election = All 4 Iowa seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''4'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 
+| seat_change2 = 
+| map_image = <!-- Please keep these maps hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Iowa results map.svg|250px]] |District results |[[File:2026 United States House of Representatives elections in Iowa results map by county.svg|250px]] |County results}}-->
+| map_caption =
+}}
+{{Elections in Iowa}}
+The '''2026 United States House of Representatives elections in Iowa''' will be held on November 3, 2026, to elect the four [[U.S. representative]]s from the state of [[Iowa]], one from each of the state's [[Iowa's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 2, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|publisher=NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Democratic
+! style="width:100px;" |Republican
+! Other
+! Undecided
+|-
+|style="text-align:left;"|co/efficient<ref>{{cite web |title=Iowa U.S. Senate {{!}} Senate Battlegrounds 2026 |url=https://battlegrounds.coefficient.org/ia/ |publisher=co/efficient |access-date=October 20, 2026}}</ref>
+|October 15–19, 2026
+|863 (LV)
+|±&nbsp;3.32%
+|46%
+| {{party shading/Republican}} |'''48%'''
+|–
+|6%
+|-
+|style="text-align:left;"|[[Marist University]]<ref>{{cite web |title=Iowa Likely Voters |url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Iowa_NOS-and-Tables_202610131230@3bcy%5Ew.pdf |publisher=[[Marist University]] |access-date=October 16, 2026}}</ref>
+|October 8–11, 2026
+| (LV)
+|±&#x20;6.6%
+|47%
+| {{party shading/Republican}} |'''50%'''
+|2%{{Efn|"Another party's candidate" & "No response" with 1%}}
+|2%
+|-
+|style="text-align:left;"|[[Marist University]]<ref>{{cite web |title=Democrats Up in Iowa... Elections Underscored by Negative Views of Trump |url=https://maristpoll.marist.edu/polls/2026-midterm-elections-in-iowa-september-2026/ |publisher=[[Marist University]] |access-date=September 22, 2026 |date=September 22, 2026}}</ref>
+|September 17–20, 2026
+|1,050 (RV)
+|±&#x20;4.4%
+| {{party shading/Democratic}} |'''50%'''
+|44%
+|3%{{Efn|"Another party's candidate" with 2%; "No response" with >1%}}
+|3%
+|}
+
+==District 1==
+{{see also|Iowa's 1st congressional district}}
+{{Infobox election
+| election_name = 2026 Iowa's 1st congressional district election
+| country = Iowa
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Iowa#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Iowa#District 1
+| next_year = 2028
+| image1 = Mariannette Miller-Meeks, official portrait, 117th Congress (cropped).jpg
+| nominee1 = [[Mariannette Miller-Meeks]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Christina Bohannan (3x4).jpg
+| nominee2 = [[Christina Bohannan]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+<!-- if he gets 5 percent or more he can be added | image3 = File:Michael Bridgford 3.jpg
+| nominee3 = Michael Bridgford
+| party3 = [[Independent politician|Independent]]
+| popular_vote3 = 
+| percentage3 = -->
+| map = <!-- Please keep this map hidden until election day. {{switcher
+| [[File:2026 Iowa's 1st congressional district election results map by county.svg|220px]]| County results}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mariannette Miller-Meeks]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+This district is based in the southeastern part of the state and includes the cities of [[Davenport, Iowa|Davenport]] and [[Iowa City, Iowa|Iowa City]]. The incumbent is Republican [[Mariannette Miller-Meeks]], who was re-elected with 50.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> This win was the narrowest of any incumbent House Republican in 2024.
+
+The election was one of the most expensive congressional races in the 2026 elections, with over $51.5 million in spending.<ref>{{Cite web |last=Schwartz |first=Berl |date=2026-10-08 |title=$51.5 million later, Michigan’s 7th is the nation’s second-most expensive House race |url=https://www.wkar.org/election-2026/2026-10-08/51-5-million-later-michigans-7th-is-the-nations-second-most-expensive-house-race |access-date=2026-10-15 |website=WKAR Public Media |language=en}}</ref><ref>{{Cite web |last=Mutnick |first=Ally |date=October 6, 2026 |title=The blockbuster House races |url=https://punchbowl.news/article/campaigns/blockbuster-house-races/ |access-date=2026-10-15 |website=Punchbowl News |language=en-US}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Mariannette Miller-Meeks]], incumbent U.S. representative (2021–present)<ref>{{cite news |last1=Wilde |first1=Wendy |last2=Snover |first2=JD |last3=Burnett |first3=Claire |title=Iowa Congresswoman Says She Will Run for Re-Election in 2026 |url=https://whoradio.iheart.com/content/2025-06-02-iowa-congresswoman-says-she-will-run-for-re-election-in-2026/ |access-date=June 2, 2025 |publisher=[[WHO (AM)]] |date=June 2, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+*David Pautsch, ministry founder and candidate for this district in [[2024 United States House of Representatives elections in Iowa#District 1|2024]]<ref>{{cite news |work=Bleeding Heartland |access-date=February 8, 2025 |author=Belin, Laura |title=Interview: David Pautsch previews next primary race against Miller-Meeks |date=February 7, 2025 |url=https://www.bleedingheartland.com/2025/02/07/interview-david-pautsch-previews-next-primary-race-against-miller-meeks/}}</ref>
+
+====Declined====
+*Grant Hill, nonprofit founder and convicted felon<ref>{{cite news |access-date=September 10, 2025 |url=https://www.southeastiowaunion.com/news/fact-check-keota-based-candidate-isnt-running-against-miller-meeks/ |author=McCain, Kalen |date=May 14, 2025 |title=Fact check: Keota-based candidate isn't running against Miller-Meeks |work=[[Southeast Iowa Union]]}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Mariannette Miller-Meeks
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Opsahl |first1=Robin |title=President Donald Trump endorses U.S. Rep. Mariannette Miller-Meeks |url=https://iowacapitaldispatch.com/2025/11/03/president-donald-trump-endorses-u-s-rep-mariannette-miller-meeks/ |access-date=November 3, 2025 |work=[[Iowa Capital Dispatch]] |date=November 3, 2025}}</ref>
+
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from {{ushr|MN|6|MN-06}} (2015–present)<ref name="Emmer"/>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[Louisiana's 4th congressional district|LA-04]] (2017–present)<ref>{{cite news |title=House Speaker Johnson endorses Miller-Meeks for her reelection bid |url=https://khqa.com/news/local/house-speaker-johnson-endorses-miller-meeks-for-her-reelection-bid-mariannette-iowa-district-one-trump-congress-congresswoman |access-date=November 16, 2025 |publisher=[[KHQA]] |date=November 12, 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 26, 2026}}</ref>
+*[[Americans for Prosperity]]<ref>{{cite web |url=https://afpaction.com/endorsements/ |title=Endorsements |publisher=AFP Action |access-date=March 13, 2026 |archive-url= |archive-date=}}</ref>
+*[[ClearPath Foundation|ClearPath Action Fund]]<ref>{{cite web|url=https://clearpathactionfund.org/|title=2026 Announced Clean Energy Campaigns|access-date=January 27, 2026}}</ref>
+*[[Log Cabin Republicans]]<ref name="LCRs">{{cite news |title=22 Republicans endorsed by LGBT organization: Full list of names |url=https://www.newsweek.com/22-republicans-endorsed-by-lgbt-organization-full-list-of-names-11460976 |website=Newsweek |access-date=4 February 2026 |language=en |date=3 February 2026}}</ref>
+*[[Maggie's List]]<ref name="maggiesfirst">{{Cite web |title=Maggie's List Announces First Round of U.S. House Endorsements |url=https://maggieslist.org/press/maggies-list-announces-first-round-of-house-endorsements |access-date=2025-06-13 |publisher=Maggie's List}}</ref>
+*[[Republican Jewish Coalition]]<ref name="RJC1">{{cite news |title=RJC endorses 16 congressional incumbents, including 4 Jews |url=https://www.sdjewishworld.com/2026/03/12/rjc-endorses-16-congressional-incumbents-including-4-jews/ |website=San Diego Jewish World |access-date=13 March 2026 |date=12 March 2026}}</ref>
+*[[Susan B. Anthony Pro-Life America]]<ref>{{cite web|url=https://sbaprolife.org/candidates|title=Endorsed Candidates|access-date=September 7, 2026}}</ref>
+*[[Turning Point Action]]<ref name="TPA">{{cite web|url=https://www.tpaction.com/endorsements|title=2026 Endorsements|access-date=September 7, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mariannette Miller-Meeks (R)
+|$6,171,913
+|$2,298,792
+|$4,246,864
+|-
+|{{party shading/Republican}}|David Pautsch (R)
+|$57,495
+|$53,302
+|$9,892
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House – Iowa 1st |url=https://www.fec.gov/data/elections/house/IA/01/2026/ |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Congressional Republican Primary Election in Iowa's 1st Congressional District, results by county.svg|thumb|220px|Results by county:
+{{collapsible list
+|title={{legend|#E27F7F|Miller-Meeks}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results<ref>{{Cite web|date=July 14, 2026|title=United States Representative District 1 - Rep.|url=https://electionresults.iowa.gov/IA/126082/web.345435/#/detail/1200|access-date=August 4, 2026|publisher=[[Iowa Secretary of State]]}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = {{nowrap|[[Mariannette Miller-Meeks]] (incumbent)}}
+| votes = 35,182
+| percentage = 71.5
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = David Pautsch
+| votes = 13,957
+| percentage = 28.4
+}}
+{{Election box total no change
+| votes = 49,139
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Christina Bohannan]], former [[Iowa House of Representatives|state representative]] from the [[Iowa's 85th House of Representatives district|85th district]] (2021–2023) and nominee for this district in [[2022 United States House of Representatives elections in Iowa#District 1|2022]] and [[2024 United States House of Representatives elections in Iowa#District 1|2024]]<ref>{{cite news |last=Barton |first=Tom |date=June 17, 2025 |title=Iowa Dem Christina Bohannan announces 3rd challenge of Miller-Meeks |url=https://www.thegazette.com/campaigns-elections/iowa-dem-christina-bohannan-announces-3rd-challenge-of-miller-meeks/ |access-date=2025-06-17 |website=The Gazette |language=en-US}}</ref>
+====Eliminated in primary====
+*Travis Terrell, healthcare worker<ref>{{cite news |last1=Martin |first1=Sabine |title=Why this Johnson County Democrat says he's challenging US Rep. Mariannette Miller-Meeks |url=https://www.desmoinesregister.com/story/news/politics/2025/04/22/iowa-democrat-travis-terrell-challenges-iowa-mariannette-miller-meeks-midterm-elections/83157783007/ |access-date=April 24, 2025 |work=[[The Des Moines Register]] |date=April 22, 2025}}</ref>
+
+====Withdrawn====
+*[[Bob Krause (politician)|Bob Krause]], former [[Iowa House of Representatives|state representative]] from the [[Iowa's 7th House of Representatives district|7th district]] (1973–1978) and perennial candidate ''([[2026 United States Senate election in Iowa|ran for U.S. Senate]], endorsed Bohannan)''<ref name=KrauseExit>{{cite news |title=Bob Krause announces candidacy for U.S. Senate, endorses Bohannan in House race |url=https://cbs2iowa.com/news/local/bob-krause-us-united-states-senate-race-iowa-senator-joni-ernst-not-running-republican-democrat-first-congressional-district-christina-bohannan |access-date=September 2, 2025 |publisher=[[KGAN]] |date=September 2, 2025 |language=en}}</ref>
+*Taylor Wettach, attorney ''([[2026 Iowa State Auditor election|running for state auditor]])''<ref>{{cite news |title=Muscatine attorney Taylor Wettach launches bid for Iowa state auditor |url=https://www.kcci.com/article/iowa-politics-taylor-wettach-runs-for-state-auditor/70134363 |access-date=January 26, 2026 |publisher=[[KCCI]] |date=January 26, 2026 |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Christina Bohannan
+|list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-first-round-of-candidates-named-to-coveted-2026-red-to-blue-program/|title=DCCC Announces First Round of Candidates Named to Coveted 2026 'Red to Blue' Program|date=February 23, 2026|access-date=February 23, 2026}}</ref>
+*[[Abby Finkenauer]], former [[IA-01]] (2019–2021)<ref name="EndTrack"/>
+*[[Lois Frankel]], [[FL-22]] (2013–present)<ref name="EndTrack"/>
+*[[Gabby Giffords]], former [[AZ-08]] (2007–2012)<ref name="EndTrack"/>
+*[[Dave Loebsack]], former [[IA-02]] (2007–2021)<ref name="EndTrack"/>
+*[[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Bob Krause (politician)|Bob Krause]], former [[Iowa's 7th House of Representatives district|HD-07]] (1973–1978) and withdrawn candidate<ref name=KrauseExit />
+*[[Brian Meyer (politician)|Brian Meyer]], minority leader of the [[Iowa House of Representatives]] (2025–present) from [[Iowa's 29th House of Representatives district|HD-29]] (2013–present)<ref name="EndTrack"/>
+*[[Janice Weiner]], minority leader of the [[Iowa Senate]] (2025–present) from [[Iowa's 45th Senate district|SD-45]] (2023–present)<ref name="EndTrack"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="afgeIA">{{cite web |title=Largest Federal Employee Union Endorses Three Candidates from Iowa for Election to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-three-candidates-from-iowa-for-election-to-congress |publisher=AFGE |access-date=May 27, 2026 |language=en |date=May 22, 2026}}</ref>
+
+;Organizations
+*[[314 Action]] Fund<ref>{{cite web |last1=Naughton |first1=Shaughnessy |title=314 Action Fund Endorses Christina Bohannan for Iowa's First Congressional District |url=https://314action.org/2025/06/18/314-action-fund-endorses-christina-bohannan-for-iowas-first-congressional-district/ |publisher=3.14 Action |access-date=12 July 2025 |date=18 June 2025}}</ref>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |publisher=Elect Democratic Women |access-date=25 November 2025}}</ref>
+*[[EMILYs List]]<ref name="EMILYsList">{{Cite web |title=EMILYs List Endorses Christina Bohannan for Election to Iowa's 1st Congressional District |url=https://emilyslist.org/news/emilys-list-endorses-christina-bohannan-for-election-to-iowas-1st-congressional-district-2/ |access-date=2025-06-19 |publisher=[[EMILYs List]]}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Christina Bohannan |url=https://giffords.org/candidates/christina-bohannan-3/ |publisher=GIFFORDS |access-date=25 November 2025}}</ref>
+*[[J Street]]<ref>{{cite web |title=Christina Bohannan |url=https://jstreetpac.org/candidate/christina-bohannan/ |publisher=JStreetPAC |access-date=25 November 2025 |date=3 December 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |publisher=Jewish Democratic Council of America |access-date=25 November 2025}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref>{{cite web |title=LCV Action Fund Announces New Slate of Endorsements for U.S. House of Representatives|url=https://www.lcv.org/media-center/lcv-action-fund-announces-new-slate-of-endorsements-for-u-s-house-of-representatives-2/|publisher=League of Conservation Voters |date=October 15, 2025}}</ref>
+*[[NewDem Action Fund]]<ref>{{cite web |last1=Stanton |first1=Greg |title=New Dems Endorse Christina Bohannan, Rebecca Cooke, and Janelle Stelson in First Endorsement Slate for 2026 Midterms |url=https://newdemactionfund.com/press-releases/2025/7/14/new-dems-endorse-christina-bohannan-rebecca-cooke-and-janelle-stelson-in-first-endorsement-slate-for-2026-midterms |publisher=NewDem Action Fund |access-date=5 August 2025 |date=14 July 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Slate of U.S. House Red-to-Blue Candidates Ahead of the 2026 Midterm Election |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-u-s-house-red-to-blue-candidates-ahead-of-the-2026-midterm-election/ |publisher=Reproductive Freedom for All |access-date=25 November 2025 |date=13 November 2025 |location=Washington, DC}}</ref>
+*[[Vote Common Good]]<ref name=VCG>{{cite web |title=2026 Candidates for Common Good |url=https://www.votecommongood.com/candidates-for-common-good-2026/ |publisher=Vote Common Good |access-date=21 January 2026}}</ref>
+*[[WelcomePAC]]<ref>{{Cite web|url=https://welcome.team/elect|title=ELECT|website=welcome.team|access-date=March 27, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Travis Terrell
+| list =
+;Organizations
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Christina Bohannan (D)
+|$5,646,240
+|$1,418,406
+|$4,335,052
+|-
+|{{party shading/Democratic}}|Travis Terrell (D)
+|$20,937
+|$14,804
+|$5,007
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Iowa's 1st Congressional District, results by county.svg|thumb|220px|Results by county:
+{{collapsible list
+|title={{legend|#7996E2|Bohannan}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results<ref>{{Cite web|date=July 14, 2026|title=United States Representative District 1 - Dem.|url=https://electionresults.iowa.gov/IA/126082/web.345435/#/detail/1300|access-date=August 4, 2026|publisher=[[Iowa Secretary of State]]}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Christina Bohannan]]
+| votes = 42,862
+| percentage = 81.5
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Travis Terrell
+| votes = 9,761
+| percentage = 18.5
+}}
+{{Election box total no change
+| votes = 52,623
+| percentage = 100.0
+}}{{Election box end}}
+
+===Independents===
+====Declared====
+*Michael Bridgford, independent financial advisor<ref>{{cite news |last1=Kelley |first1=James |title=Independent candidate enters 'toss up' race for 1st Congressional District |url=https://www.iowapublicradio.org/political-news/2026-04-16/independent-candidate-michael-bridgford-1st-congressional-district |access-date=April 16, 2026 |publisher=[[Iowa Public Radio]] |date=April 16, 2026}}</ref>
+====Endorsements====
+===General election===
+====Predictions====
+{|class="wikitable"style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|style="text-align:left"|''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web|title=2026 CPR House Race Ratings|url=https://www.cookpolitical.com/ratings/house-race-ratings|work=[[Cook Political Report]]|access-date=February 6, 2025}}</ref>
+|{{USRaceRating|Lean|D|Flip}}
+|October 9, 2026
+|-
+|style="text-align:left"|[[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web|title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house|publisher=[[Decision Desk HQ]]|access-date=July 15, 2026}}</ref>
+|{{USRaceRating|Likely|D|Flip}}
+|September 25, 2026
+|-
+|style="text-align:left"|''[[Inside Elections]]''<ref name="IE Initial">{{cite web|title=2026 House Ratings|url=https://insideelections.com/ratings/house|work=[[Inside Elections]]|access-date=October 9, 2026}}</ref>
+|{{USRaceRating|Tilt|D|Flip}}
+|October 1, 2026
+|-
+|style="text-align:left"|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial">{{Cite web|title=2026 House|url=https://centerforpolitics.org/crystalball/2026-house/|access-date=May 5, 2025|work=[[Sabato's Crystal Ball]]}}</ref>
+|{{USRaceRating|Lean|D|Flip}}
+|September 22, 2026
+|-
+|style="text-align:left;"|''[[Silver Bulletin]]''<ref name=":Silver">{{Cite web|last1=Silver|first1=Nate|author-link1=Nate Silver|date=August 11, 2026|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|url-access=subscription|work=[[Silver Bulletin]]|access-date=August 20, 2026}}</ref>
+|{{USRaceRating|Lean|D|Flip}}
+|August 20, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Mariannette Miller-Meeks (R)
+|list=
+;Executive branch officials
+*[[Scott Bessent]], [[United States Secretary of the Treasury|secretary of the treasury]] (2025–present)<ref name=Bessent>{{cite web|last=Pfannenstiel|first=Brianne|date=August 12, 2026|title=Bessent to promote regulatory change, appear with Iowa Republicans|url=https://www.desmoinesregister.com/story/news/politics/elections/2026/08/11/us-treasury-secretary-scott-bessent-visit-iowa-zach-nunn-mariannette-miller-meeks/91257105007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z117028p119050l003650c119050e007650v117028d--57--b--57--&gca-ft=201&gca-ds=sophi |website=[[The Des Moines Register]]|access-date=August 12, 2026}}</ref>
+*[[Robert F. Kennedy Jr.]], [[United States Secretary of Health and Human Services|secretary of health and human services]] (2025–present) ''(Independent)''<ref>{{cite web |last=Draisey |first=Brooklyn |url=https://iowacapitaldispatch.com/2026/08/17/robert-f-kennedy-jr-schools-discourage-students-physical-activity-healthy-eating/|title=Robert F. Kennedy Jr.: Schools 'discourage' students' physical activity, healthy eating|date=August 17, 2026|access-date=August 18, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
+*[[Markwayne Mullin]], [[United States Secretary of Homeland Security|secretary of homeland security]] (2026–present)<ref name="CyHawks">{{cite web |last=Draisey |first=Brooklyn |url=https://iowacapitaldispatch.com/2026/09/12/iowa-national-politicians-court-voters-at-cyhawk-tailgates/|title=Iowa, national politicians court voters at CyHawk tailgates|date=September 12, 2026|access-date=September 15, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
+*[[Brooke Rollins]], [[United States Secretary of Agriculture|secretary of agriculture]] (2025–present)<ref name="USDA">{{cite web |last=Koons |first=Cami |url=https://iowacapitaldispatch.com/2026/10/06/usda-to-increase-research-into-u-s-seed-stores-partner-with-doj-to-investigate-seed-industry/|title=USDA to increase research into U.S. seed stores, partner with DOJ to investigate seed industry |date=October 6, 2026|access-date=October 7, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
+
+;U.S. senators
+*[[Rick Scott]], [[Florida]] (2019–present)<ref name="CyHawks" />
+
+;U.S. representatives
+*[[Ashley Hinson]], [[Iowa's 2nd congressional district|IA-2]] (2021–present) and [[2026 United States Senate election in Iowa|2026 U.S. senate]] nominee<ref name="CyHawks" />
+
+;Individuals
+*Zach Lahn, businessman and [[2026 Iowa gubernatorial election|2026 gubernatorial]] nominee<ref name="CyHawks" />
+
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-mariannette-miller-meeks-for-iowas-first-district|title=U.S. Chamber Endorses Rep. Mariannette Miller-Meeks for Iowa’s First District|date=August 19, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Christina Bohannan (D)
+|list=
+;Organizations
+*[[Human Rights Campaign]]<ref name=HRC>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260901205734/https://nwpc.org/endorsed-candidates |archive-date=1 September 2026 |access-date=24 October 2026}}</ref>
+*[[Planned Parenthood|Planned Parenthood Action Fund]]<ref>{{cite news |title=Planned Parenthood Action Fund Endorses a Pro-Reproductive Rights House Majority |website=Planned Parenthood Action Fund |url=https://www.plannedparenthoodaction.org/pressroom/planned-parenthood-action-fund-endorses-a-pro-reproductive-rights-house-majority |publisher=Planned Parenthood |date=September 14, 2026 |access-date=October 25, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Michael Bridgford (I)
+| list =
+;U.S. senators
+* [[Joe Manchin]], former [[West Virginia]] (2010–2025) ''(Independent; Democratic until 2024)''<ref>{{Cite web|url=https://www.cnn.com/2026/07/24/politics/joe-manchin-recruit-independent-candidates|title=Joe Manchin reenters the political orbit with a new independent experiment|date=July 24, 2026|access-date=July 30, 2026|author=Svitek, Patrick|work=CNN}}</ref>
+
+;Organizations
+*[[Forward Party (United States)|Forward Party]]<ref name="forwardparty_dave-bushaw-in-iowa-congressional-races">{{cite web |title=The Forward Party Endorses Michael Bridgford and Dave Bushaw in Iowa Congressional Races |url=https://www.forwardparty.com/media/press_release/the-forward-party-endorses-michael-bridgford-and-dave-bushaw-in-iowa-congressional-races/ |website=Forward Party}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Mariannette Miller-Meeks (R)
+|$9,101,898
+|$7,774,924
+|$1,700,717
+|-
+|{{party shading/Democratic}}| Christina Bohannan (D)
+|$9,905,570
+|$7,901,941
+|$2,110,846
+|-
+|{{party shading/Independent}}| Michael Bridgford (I)
+|$338,285
+|$261,555
+|$76,730
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House – Iowa |url=https://www.fec.gov/data/elections/house/IA/2026/ |publisher=[[Federal Election Commission]] |access-date=May 21, 2026}}</ref></small>
+|}
+
+==== Polling ====
+'''Mariannette Miller-Meeks vs. Christina Bohannan vs. Michael Bridgford'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+!Poll source
+!Date(s)<br/>administered
+!Sample<br/>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+!Margin<br/>of error
+! style="width:100px;" |Mariannette<br/>Miller-Meeks (R)
+! style="width:100px;" |Christina<br/>Bohannan (D)
+! Michael<br />Bridgford (I)
+! Undecided
+|-
+| style="text-align:left;" |Wavefield Research<ref>{{cite web |last1=Petersen |first1=Patricia |title=New Poll: Independent Michael Bridgford Surges to 18% in Three-Way Iowa-01 Race, Posts Highest Favorability of Any Candidate |url=https://www.rcreader.com/news-releases/new-poll-independent-michael-bridgford-surges-18-three-way-iowa-01-race-posts-highest |access-date=October 22, 2026 |date=October 5, 2026 |website=River Cities' Reader}}</ref>
+|September 29 to October 2, 2026
+|297 (LV)
+|±&nbsp;5.7%
+|29%
+|{{party shading/Democratic}} |'''45%'''
+|18%
+|9%
+|-
+| style="text-align:left;" |The Bullfinch Group/Independent Center<ref>{{cite web |last1=Loyd |first1=Brett |title=POLLING MEMORANDUM & ELECTORAL BRIEF |url=https://cdn.sanity.io/files/ifn0l6bs/production/abfd9319613df822e6cf094f8d2390e5f40a5ebe.docx |access-date=28 July 2026 |date=July 24, 2026}}</ref>
+|July 13–16, 2026
+|705 (LV)
+|±&nbsp;3.7%
+|35%
+|{{party shading/Democratic}} |'''40%'''
+|11%
+|11%
+|-
+| style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{cite news |last=Howard |first=Andrew |date=2025-06-23 |title=Recruiting candidates in an age of political violence |url=https://www.politico.com/newsletters/weekly-score/2025/06/23/recruiting-candidates-in-an-age-of-political-violence-00417469 |access-date=2025-06-23 |website=Politico |language=en}}</ref>{{Efn-ua|name=HMPAC|Poll sponsored by [[House Majority PAC]], which is focused on electing Democrats to the U.S. House of Representatives}}
+|June 18–19, 2025
+|555 (V)
+|–
+|39%
+|{{party shading/Democratic}} |'''43%'''
+|–
+|18%
+|}
+
+==== Debates ====
+Michael Bridgford was excluded from the only debate due to a million-dollar fundraising requirement. All three candidates were invited to an [[Iowa PBS]] debate, but the major-party candidates refused to debate the independent and the debate was not held.<ref>https://www.iowapublicradio.org/political-news/2026-10-21/1st-congressional-district-candidates-debate-foreign-wars-tariffs-healthcare-miller-meeks-bohannan</ref>
+
+{| class="wikitable mw-collapsible"  style="text-align:center;" 
+|+ class="nowrap" | 2026 United States House election in Iowa (District 1) debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Link
+!scope="col" colspan="3"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{colors|black|#f0e68c|&nbsp;W&nbsp;}} <small>Withdrawn</small>
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:{{Party color|Independent}};"|
+|-
+!scope="col"| [[Christina Bohannan]]
+!scope="col"| [[Mariannette Miller-Meeks]]
+!scope="col"| Michael Bridgford
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| October 20,<wbr> 2026
+|style="white-space:nowrap;"| [[St. Ambrose University]]<br>[[KWQC-TV|KWQC]]/[[KCRG-TV|KCRG]]/[[KTIV]]
+|style="white-space:nowrap;"| Matt Christensen<br>Jim Mertens
+|style="white-space:nowrap;"|[https://www.kwqc.com/2026/09/16/kwqc-kcrg-partner-iowas-1st-congressional-district-debate/ KWQC]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background:#A2B2C2; color:black; text-align:center;" |'''N'''
+|- style="background:#fff; font-size:small;"
+|}
+
+====Results====
+{{Election box begin|title=2026 Iowa's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mariannette Miller-Meeks]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Christina Bohannan]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent
+  |candidate  = Michael Bridgford
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{see also|Iowa's 2nd congressional district}}
+{{Infobox election
+| election_name = 2026 Iowa's 2nd congressional district election
+| country = Iowa
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Iowa#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Iowa#District 2
+| next_year = 2028
+| image1 = Joe Mitchell (cropped2).jpg
+| nominee1 = [[Joe Mitchell (politician)|Joe Mitchell]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Member of the Iowa House of Representatives Lindsay James (cropped).jpg
+| nominee2 = [[Lindsay James (politician)|Lindsay James]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map = <!-- Please keep this map hidden until election day. {{switcher
+| [[File:2026 Iowa's 2nd congressional district election results map by county.svg|200px]]| County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Ashley Hinson]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 2nd district is based in northeastern Iowa and contains the cities of [[Cedar Rapids]], [[Waterloo, Iowa|Waterloo]], and [[Dubuque]]. The incumbent is Republican [[Ashley Hinson]], who was re-elected with 57.1% of the vote in 2024.<ref name="HPVT"/> Hinson is not seeking re-election, instead running for [[2026 United States Senate election in Iowa|U.S. Senate]].<ref name=Hinson>{{cite news|title=Iowa Republican Ashley Hinson announces 2026 US Senate campaign |first=Brianne |last=Pfannesteil |work=[[The Des Moines Register]] |date=2 September 2025 |access-date=2 September 2025|url=https://www.desmoinesregister.com/story/news/politics/2025/09/02/ashley-hinson-announces-2026-us-senate-campaign-joni-ernst/85939480007/}}</ref>
+
+=== Republican primary ===
+====Nominee====
+*[[Joe Mitchell (politician)|Joe Mitchell]], former [[Iowa House of Representatives|state representative]] from the [[Iowa's 84th House of Representatives district|84th district]] (2019–2023)<ref>{{cite news |last1=Hanson |first1=Ric |title=Joe Mitchell, former state legislator, regional Trump Admin. official, running for congress |url=https://www.kjan.com/index.php/2025/09/joe-mitchell-former-state-legislator-regional-trump-admin-official-running-for-congress/ |access-date=September 8, 2025 |publisher=[[KJAN]] |date=September 8, 2025}}</ref>
+
+====Eliminated in primary====
+*[[Charlie McClintock]], [[Iowa Senate|state senator]] from the [[Iowa's 42nd Senate district|42nd district]] (2023–present)<ref>{{cite news |title=McClintock announces campaign for congress |url=https://www.kcrg.com/2025/09/05/mcclintock-announces-campaign-congress/ |access-date=September 5, 2025 |publisher=[[KCRG-TV]] |date=September 5, 2025 |language=en}}</ref>
+
+====Withdrawn====
+*[[Rod Blum]], former U.S. representative (2015–2019)<ref>{{cite news |last=Gruber-Miller |first=Stephen |date=2025-10-13 |title=Republican former US Rep. Rod Blum drops out of Iowa's 2nd Congressional District race |url=https://www.desmoinesregister.com/story/news/politics/2025/10/13/rod-blum-drops-out-iowa-2nd-congressional-district-race-election/86677463007/ |access-date=2025-10-13 |website=[[The Des Moines Register]] |language=en-US}}</ref>
+*[[Ashley Hinson]], incumbent U.S. representative<ref>{{cite news |last1=Fisher |first1=Bob |title=Hinson says she'll run for another term in Congress |url=https://northiowanow.com/2025/08/25/hinson-says-shell-run-for-another-term-in-congress/ |access-date=August 25, 2025 |work=North Iowa Now |date=August 25, 2025}}</ref> ''([[2026 United States Senate election in Iowa|running for U.S. Senate]])''<ref name=Hinson/>
+*[[Shannon Lundgren]], [[Iowa House of Representatives|state representative]] from the [[Iowa's 65th House of Representatives district|65th district]] (2017–present) ''([[2026 Iowa House of Representatives election|running for re-election]])''<ref>{{cite news|url=https://www.desmoinesregister.com/story/news/politics/elections/2026/01/26/shannon-lundgren-drops-bid-for-congress-iowa-2nd-district/88358946007/|title=Republican Shannon Lundgren ends campaign for Congress in 2nd District|last=Gruber-Miller|first=Stephen|date=January 26, 2026|access-date=January 26, 2026|website=[[The Des Moines Register]]}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Joe Mitchell
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TMike"/>
+
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Emmer"/>
+*[[Brandon Gill]], [[TX-26]] (2025–present)<ref name="EndTrack"/>
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/|title=NRCC Introduces “MAGA Majority” to Expand House GOP Majority in 2026|date=March 17, 2026|access-date=May 4, 2026}}</ref>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from {{ushr|LA|4|LA-04}} (2017–present)<ref name="TMike">{{cite news |title=Trump endorsement reshapes Iowa's 2nd District race |url=https://www.thegazette.com/campaigns-elections/trump-speaker-mike-johnson-endorse-joe-mitchell-for-congress-as-iowa-gop-primary-field-narrows/ |website=The Gazette |access-date=28 January 2026}}</ref>
+*[[Jim Jordan]], {{ushr|OH|4|OH-04}} (2007–present)<ref>https://www.thegazette.com/campaigns-elections/campaign-almanac-u-s-rep-jim-jordan-endorses-joe-mitchell-in-eastern-iowa-republican-primary/</ref>
+*[[Anna Paulina Luna]], [[FL-13]] (2023–present)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Bobby Kaufmann]], majority leader of the [[Iowa House of Representatives]] (2025–present) from [[Iowa's 82nd House of Representatives district|HD-82]] (2013–present)<ref name="EndTrack"/>
+
+;Organizations
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+*[[Turning Point Action]]<ref name="TPUSA">{{cite news |title=Charlie Kirk's group endorses Joe Mitchell in Iowa Republican Congressional primary |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-charlie-kirks-group-endorses-joe-mitchell-in-iowa-republican-congressional-primar/ |website=The Gazette |access-date=8 December 2025}}</ref>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-joe-mitchell-for-iowas-second-congressional-district|title=U.S. Chamber Endorses Candidate Joe Mitchell for Iowa’s Second Congressional District|date=May 29, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Ashley Hinson ''(withdrawn)''
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+{{Endorsements box
+|title=Shannon Lundgren ''(withdrawn)''
+|list=
+;U.S. representatives
+*[[David Young (Iowa politician)|David Young]], [[IA-03]] (2015–2019)<ref name="Congressional"/>
+
+;Statewide officials
+*[[Chris Cournoyer]], [[lieutenant governor of Iowa]] (2024–present)<ref>{{cite news |title=Iowa Lt. Gov. Chris Cournoyer endorses Lundgren for Congress |url=https://globegazette.com/news/state-regional/government-politics/elections/article_2691a96b-9855-5cfe-95e5-fdeb157d98b7.html |access-date=November 24, 2025 |work=[[Globe Gazette]] |date=November 24, 2025}}</ref>
+
+;State legislators
+*4 state representatives{{Efn|
+*[[Brian Best (Iowa politician)|Brian Best]], former [[Iowa's 11th House of Representatives district|HD-11]] (2015–2025)<ref name="Congressional">{{cite news|url=https://qctimes.com/news/state-regional/government-politics/article_6fa6d2e3-98fb-47e9-9332-48142770f86b.html|title=Campaign Almanac: More Iowa legislative endorsements for Lundgren's Congressional campaign|website=[[The Quad-City Times]]|date=September 25, 2025|access-date=September 26, 2025}}</ref>
+*[[Barb Kniff McCulla]], [[Iowa's 37th House of Representatives district|HD-37]] (2023–present)<ref name="Congressional"/>
+*[[Gary Mohr]], [[Iowa's 93rd House of Representatives district|HD-93]] (2017–present)<ref name="Congressional"/>
+*[[Jennifer Smith (Iowa politician)|Jennifer Smith]], [[Iowa's 72nd House of Representatives district|HD-72]] (2025–present)<ref name="Congressional"/>}}
+
+;Organizations
+*[[Maggie's List]]<ref name="MaggiesListDecember">{{cite web |last1=Biddison |first1=Jennifer |title=Maggie's List Endorses Eight More Candidates |url=https://maggieslist.org/maggies-list-endorses-eight-more-candidates/ |publisher=Maggie's List |access-date=4 December 2025 |date=3 December 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Charlie McClintock (R)
+|$17,322
+|$1,201
+|$16,121
+|-
+| {{party shading/Republican}} |Joe Mitchell (R)
+|$1,560,824
+|$683,158
+|$877,666
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House – Iowa 2nd |url=https://www.fec.gov/data/elections/house/IA/02/2026/ |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Congressional Republican Primary Election in Iowa's 2nd Congressional District, results by county.svg|thumb|200px|Results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Mitchell}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#ff9a50|McClintock}}
+|{{legend|#ff9a50|50–60%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results<ref>{{Cite web|date=July 14, 2026|title=United States Representative District 2 - Rep.|url=https://electionresults.iowa.gov/IA/126082/web.345435/#/detail/1400|access-date=August 4, 2026|publisher=[[Iowa Secretary of State]]}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Joe Mitchell (politician)|Joe Mitchell]]
+| votes = 24,413
+| percentage = 61.5
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Charlie McClintock]]
+| votes = 15,264
+| percentage = 38.5
+}}
+{{Election box total no change
+| votes = 39,677
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Lindsay James (politician)|Lindsay James]], [[Iowa House of Representatives|state representative]] from the [[Iowa's 71st House of Representatives district|71st district]] (2019–present)<ref>{{cite news |last=Barton |first=Tom |date=August 19, 2025 |title=James says she'll address struggles of everyday Iowans, as she announces bid for Congress |url=https://www.thegazette.com/campaigns-elections/james-says-shes-committed-to-addressing-the-struggles-of-everyday-iowans-as-she-announces-congressi/ |access-date=2025-08-19 |website=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |language=en-US}}</ref>
+====Eliminated in primary====
+*Kathy Dolter, former dean of nursing at [[Kirkwood Community College]]<ref>{{cite news |last1=Opsahl |first1=Robin |title=Democrat Kathy Dolter launches bid for 2nd Congressional District; Rep. Lindsay James mulls a run |url=https://iowacapitaldispatch.com/2025/07/15/democrat-kathy-dolter-launches-bid-for-2nd-congressional-district-rep-lindsay-james-mulls-a-run/ |access-date=July 15, 2025 |work=[[Iowa Capital Dispatch]] |date=July 15, 2025}}</ref>
+*Clint Twedt-Ball, nonprofit founder<ref>{{cite news |title=Founder of Matthew 25 announces campaign for 2nd Congressional District |url=https://www.kcrg.com/2025/07/22/founder-matthew-25-announces-campaign-2nd-congressional-district/ |access-date=July 22, 2025 |publisher=[[KCRG-TV]] |date=July 22, 2025 |language=en}}</ref>
+
+====Withdrawn====
+*[[Kevin W. Techau|Kevin Techau]], former [[U.S. attorney]] for the [[Northern District of Iowa|northern district of Iowa]] (2014–2017)<ref>{{cite news |last1=Gruber-Miller |first1=Stephen |date=June 30, 2025 |title=Iowa Democrat Kevin Techau suspends 2nd District campaign for Congress, citing lack of funds |url=https://www.desmoinesregister.com/story/news/politics/2025/06/30/iowa-democrat-kevin-techau-suspends-campaign-congress-2nd-district-ashley-hinson/84422982007/ |access-date=June 30, 2025 |work=[[The Des Moines Register]]}}</ref> ''(endorsed James)''<ref name="James1" />
+
+==== Endorsements ====
+{{Endorsements box
+|title=Lindsay James
+|list=
+;Executive branch officials
+*[[Kevin W. Techau|Kevin Techau]], former [[United States Attorney|attorney]] for the [[United States District Court for the Northern District of Iowa|northern district of Iowa]] (2014–2017)<ref name="James1">{{cite news |title=Campaign Almanac: DNC launches new digital ads in Iowa targeting Miller-Meeks over Epstein files |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-dnc-launches-new-digital-ads-in-iowa-targeting-miller-meeks-over-epstein-files/ |publisher=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |access-date=September 23, 2025 |date=September 10, 2025}}</ref>
+
+;U.S. representatives
+*[[Abby Finkenauer]], former [[IA-01]] (2019–2021)<ref name="James1" />
+*[[Lois Frankel]], [[FL-22]] (2013–present)<ref name="EndTrack"/>
+*[[Dave Loebsack]], former [[IA-02]] (2007–2021)<ref name="James1" />
+
+;State legislators
+*[[Liz Mathis]], [[Iowa's 34th Senate district|SD-34]] (2011–present)<ref name="James1" />
+
+;Individuals 
+*[[Kate Mulgrew]], actress<ref>{{cite news |last1=Barton |first1=Tom |title='Star Trek' actor backs James' Iowa 2nd District congressional bid |url=https://www.thegazette.com/campaigns-elections/star-trek-actor-returns-to-iowa-to-support-lindsay-james-congressional-run/ |website=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |language=en |date=September 22, 2025}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="afgeIA"/>
+*[[Teamsters]] Iowa<ref>{{cite news |title=Iowa Teamsters endorse Democrat Lindsay James in Iowa's 2nd District race |url=https://wcfcourier.com/news/state-regional/government-politics/elections/article_71f64179-1809-40c5-9ee0-ea75cac71581.html |website=Courier |access-date=25 February 2026 |language=en |date=24 February 2026}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-bold-women-leaders-in-ky-06-ia-02-and-co-05-congressional-districts/ |title=EMILYs List Endorses Bold Women Leaders In KY-06, IA-02, and CO-05 Congressional Districts |publisher=[[EMILYs List]] |date=December 3, 2025 |access-date=December 3, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Four Unrig Washington Candidates |url=https://www.endcitizensunited.org/end-citizens-united-endorses-four-unrig-washington-candidates |publisher=End Citizens United |date=April 2, 2026 |access-date=April 4, 2026}}</ref>
+*[[Vote Common Good]]<ref name=VCG/>
+}}
+
+{{Endorsements box
+|title=Clint Twedt-Ball
+|list=
+;State legislators
+*[[Rob Hogg]], former [[Iowa's 33rd Senate district|SD-33]] (2007–2023)<ref name="Almanac"/>
+*[[Art Staed]], [[Iowa's 40th Senate district|SD-40]] (2025–present)<ref name="Almanac">{{cite web |title=Campaign Almanac: J.D. Scholten announces he will not seek re-election to Iowa Legislature |url=https://www.thegazette.com/news/elections/campaign-almanac-j-d-scholten-announces-he-will-not-seek-re-election-to-iowa-legislature/article_f4fd6525-5f28-53f6-9337-286a7000c820.html |website=The Gazette |access-date=27 May 2026 |language=en |date=13 February 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kathy Dolter (D)
+|$73,292
+|$71,310
+|$1,982
+|-
+|{{party shading/Democratic}}|Lindsay James (D)
+|$872,614
+|$633,389 
+|$239,225
+|-
+|{{party shading/Democratic}}|Clint Twedt-Ball (D)
+|$537,637
+|$463,503
+|$74,133
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Debates ====
+{| class="wikitable mw-collapsible"  style="text-align:center;" 
+|+ class="nowrap" | 2026 United States House election in Iowa (District 2) Democratic primary debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Link
+!scope="col" colspan="3"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{colors|black|#f0e68c|&nbsp;W&nbsp;}} <small>Withdrawn</small>
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+|-
+!scope="col"| [[Lindsay James (politician)|Lindsay James]]
+!scope="col"| Clint Twedt-Ball
+!scope="col"| Kathy Dolter
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| May 13, 2026
+|style="white-space:nowrap;"| KCRG and KWQC
+|style="white-space:nowrap;"| Jim Mertens and Matt Christensen
+|style="white-space:nowrap;"|[https://www.youtube.com/watch?v=PIDlKIWA1Sg KCRG]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Iowa's 2nd Congressional District, results by county.svg|thumb|200px|Results by county:
+{{collapsible list
+|title={{legend|#7996E2|James}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results<ref>{{Cite web|date=July 14, 2026|title=United States Representative District 2 - Dem.|url=https://electionresults.iowa.gov/IA/126082/web.345435/#/detail/1500|access-date=August 4, 2026|publisher=[[Iowa Secretary of State]]}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Lindsay James (politician)|Lindsay James]]
+| votes = 27,717
+| percentage = 57.8
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Clint Twedt-Ball
+| votes = 11,529
+| percentage = 24.1
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Kathy Dolter
+| votes = 8,669
+| percentage = 18.1
+}}
+{{Election box total no change
+| votes = 47,915
+| percentage = 100.0
+}}
+{{Election box end}}
+
+=== Libertarian primary ===
+
+====Filed paperwork====
+*Rick Stewart, perennial candidate<ref name=":0">{{Cite web |title=Candidate List {{!}} Iowa Secretary of State - Paul D. Pate|url=https://sos.iowa.gov/sites/default/files/2026-06/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections.pdf|access-date=2026-06-09|website=sos.iowa.gov|language=en}}</ref>
+
+===Independents===
+====Declared====
+*Dave Bushaw, community organizer<ref>{{cite news |last1=Henderson |first1=O. Kay |title=Independent from Hawkeye running in Iowa's 2nd congressional district |url=https://www.radioiowa.com/2025/11/12/independent-from-hawkeye-running-in-iowas-2nd-congressional-district/ |access-date=November 12, 2025 |publisher=[[Radio Iowa]] |date=November 12, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Dave Bushaw
+| list =
+;Organizations
+*[[Forward Party (United States)|Forward Party]]<ref name="forwardparty_dave-bushaw-in-iowa-congressional-races"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Dave Bushaw (I)
+|$13,562
+|$11,021
+|$2,477
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+===General election===
+====Predictions====
+{|class="wikitable"style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|style="text-align:left"|''[[The Cook Political Report]]''<ref name="Cook Initial"/>
+|{{USRaceRating|Tossup}}
+|October 16, 2026
+|-
+|style="text-align:left"|[[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+|{{USRaceRating|Tossup}}
+|September 25, 2026
+|-
+|style="text-align:left"|''[[Inside Elections]]''<ref name="IE Initial"/>
+|{{USRaceRating|Tossup}}
+|October 15, 2026
+|-
+|style="text-align:left"|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial"/>
+|{{USRaceRating|Lean|D|Flip}}
+|October 20, 2026
+|-
+|style="text-align:left;"|''[[Silver Bulletin]]''<ref name=":Silver"/>
+|{{USRaceRating|Tossup}}
+|August 20, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Joe Mitchell (R)
+|list=
+;Individuals
+*[[Riley Gaines]], conservative activist and former swimmer<ref>{{Cite web|last=Conway|first=Simon|date=July 16, 2026|title=Riley Gaine and Joe Mitchell 7/16/2026 The Simon Conway Show|url=https://whoradio.iheart.com/featured/simon-conway/content/2026-07-16-92-simon-conway-riley-gaines-and-joe-mitchell-7162026-the-simon-conway-show/|publisher=[[WHO (AM)|WHO]] Newsradio 1040|access-date=September 19, 2026}}</ref>
+
+;Organizations
+*[[Make America Healthy Again|MAHA Action]]<ref name="MAHA">{{Cite web|url=https://www.politico.com/news/2026/10/15/maha-groups-spending-iowa-governor-house-races-01120984|title=Groups supporting RFK Jr. are spending nearly $2M in Iowa governor, House races|last=Hooper|first=Kelly|date=October 15, 2026|access-date=October 15, 2026|website=[[Politico]]}}</ref>
+*[[Make America Healthy Again|MAHA PAC]]<ref name="MAHA"/>
+}}
+
+{{Endorsements box
+|title=Lindsay James (D)
+|list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCCLindsay"/>
+
+;Individuals
+*[[Matthew Yglesias]], journalist<ref>{{Cite web|url=https://www.slowboring.com/p/the-midterm-candidates-who-deserve|title=The midterm candidates who deserve your money|date=July 13, 2026|access-date=September 22, 2026|last=Yglesias|first=-Matthew|website=Slow Boring}}</ref>
+
+;Organizations
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCCLindsay">{{cite web |title=DCCC Announces Five New Candidates to Coveted 2026 'Red to Blue' Program |url=https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program/ |website=DCCC |date=July 28, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Lindsay James |url=https://jstreetpac.org/candidate/lindsay-james/ |publisher=J Street PAC |access-date=August 14, 2026 |date=August 14, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA"/>
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Slate of Challengers Key to Flipping the House This November |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-challengers-key-to-flipping-the-house-this-november |publisher=Reproductive Freedom for All |access-date=October 25, 2026 |date=August 27, 2026 |location=Washington, DC}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Joe Mitchell (R)
+|$2,916,069
+|$2,370,535
+|$545,534
+|-
+|{{party shading/Democratic}}| Lindsay James (D)
+|$3,917,994
+|$3,652,041
+|$265,953
+|-
+|{{party shading/Independent}}| Dave Bushaw (I)
+|$38,292
+|$26,910
+|$11,318
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2" /></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;" |Joe<br/>Mitchell (R)
+! style="width:100px;" |Lindsay<br/>James (D)
+! Undecided
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{cite web|url=https://pollvault.substack.com/p/levee-math|title=Levee Math|date=October 21, 2026|access-date=October 22, 2026}}</ref>{{efn-ua|Poll sponsored by [[RealClearPolitics|Poll Vault]]}}
+|October 12–14, 2026
+|344 (LV)
+|–
+|47%
+|{{party shading/Democratic}}|'''50%'''
+|3%
+|-
+| style="text-align:left;" |[[Global Strategy Group]] (D)<ref>{{cite web |title=HMP Poll: Lindsay James Leads in IA-02 |url=https://static.notus.org/27/58/c93f2d1946c0814f583fa25c7a31/hmp-ia-02-poll.pdf |publisher=[[House Majority PAC]] |access-date=August 11, 2026 |date=August 5, 2026}}</ref>{{efn-ua|name=HMPAC}}
+|July 14–19, 2026
+|—
+|—
+|45%
+|{{party shading/Democratic}} |'''46%'''
+|9%
+|-
+| style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{cite tweet |user=jamesd0wns |first=James |last=Downs |number=2049820806016860519 |title=New @njhotline: Poll for state Rep. Lindsay James (D) in #IA02 shows her leading state Rep. Joe Mitchell (R) in head to head matchup James 36 Mitchell 33 Unsure 31 |access-date=April 30, 2026}}</ref>{{efn-ua|name=James|Poll sponsored by James's campaign}}
+|April 13–14, 2026
+|675 (RV)
+|±&nbsp;3.2%
+|33%
+|{{party shading/Democratic}} |'''36%'''
+|31%
+|}
+
+==== Debates ====
+{| class="wikitable mw-collapsible"  style="text-align:center;" 
+|+ class="nowrap" | 2026 United States House election in Iowa (District 2) debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Link
+!scope="col" colspan="2"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{colors|black|#f0e68c|&nbsp;W&nbsp;}} <small>Withdrawn</small>
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+! scope="col" style="background:#E81B23;"|
+|-
+!scope="col"| [[Lindsay James (politician)|Lindsay James]]
+!scope="col"| [[Joe Mitchell (politician)|Joe Mitchell]]
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| October 1, 2026
+|style="white-space:nowrap;"| Iowa's News Now
+|style="white-space:nowrap;"| Skylar Tallal and Ray Baccari
+|style="white-space:nowrap;"|[https://www.youtube.com/watch?v=PxmmjLQ5-9M Iowa's News Now]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+!scope="row"| 2
+|style="white-space:nowrap;"| October 8, 2026
+|style="white-space:nowrap;"| [[Iowa PBS]]
+|style="white-space:nowrap;"| Kay Henderson
+|style="white-space:nowrap;"|[https://www.iowapbs.org/shows/iowapress/special/14525/iowa-press-debates-2nd-congressional-district Iowa PBS]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+|}
+
+====Results====
+{{Election box begin|title=2026 Iowa's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Joe Mitchell (politician)|Joe Mitchell]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Lindsay James (politician)|Lindsay James]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Dave Bushaw
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{see also|Iowa's 3rd congressional district}}
+{{Infobox election
+| election_name = 2026 Iowa's 3rd congressional district election
+| country = Iowa
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Iowa#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Iowa#District 3
+| next_year = 2028
+| image1 = Official Portrait of Rep. Zach Lunn 119th Congress (cropped).jpg
+| nominee1 = [[Zach Nunn]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Sarah Trone Garriott 2023 (cropped).jpg
+| nominee2 = [[Sarah Trone Garriott]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map = <!-- Please keep this map hidden until election day. {{switcher
+| [[File:2026 Iowa's 3rd congressional district election results map by county.svg|200px]]| County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Zach Nunn]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 3rd district is based in southwestern Iowa and includes the city of [[Des Moines]]. The incumbent is Republican [[Zach Nunn]], who was re-elected with 51.8% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Zach Nunn]], incumbent U.S. representative<ref name=nunn>{{cite news |last1=Price |first1=Dave |title=Who's in? Who's out? Who's still thinking? |url=https://www.dakotanewsnow.com/2025/05/21/whos-whos-out-whos-still-thinking/ |access-date=May 21, 2025 |work=Dakota News Now |date=May 21, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Zach Nunn
+|list=
+;Executive branch officials
+*[[Pete Hegseth]], [[United States Secretary of Defense|secretary of defense]] (2025–present)<ref>{{cite web|last=Pfannenstiel|first=Brianne|date=March 5, 2026|title=Zach Nunn postpones fundraiser with Pete Hegseth after Iran war deaths |url=https://www.desmoinesregister.com/story/news/politics/elections/2026/03/05/zach-nunn-fundraiser-pete-hegseth-iran-war-deaths/88988356007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z114550p118150l002950c118150e114550v006588d--55--b--55--&gca-ft=172&gca-ds=sophi |website=[[The Des Moines Register]]|access-date=July 16, 2026}}</ref>
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TrumpBooker">{{cite news |title=Trump backs Iowa Congressman in 2026, Sen. Cory Booker endorses Dem running in same race |url=https://cbs2iowa.com/news/local/trump-backs-nunn-booker-endorses-konfrst-as-iowas-3rd-congressional-race-heats-up-ach-nunn-republican-jennifer-sarah-trone-garriott-president-donald-booker-us-senator-reprehensive-washington-dc-vote-2026-election-truth-social-twitter-x-congress-democrats |access-date=May 9, 2025 |publisher=[[KGAN]] |date=May 9, 2025 |language=en}}</ref>
+*[[JD Vance]], [[vice president of the United States]] (2025–present)<ref name="EndTrack"/>
+
+;U.S. representatives
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[Louisiana's 4th congressional district|LA-04]] (2017–present)<ref name="EndTrack">{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 January 2026 |language=en |date=7 January 2026}}</ref>
+*[[Jim Jordan]], {{ushr|OH|4|OH-04}} (2007–present)<ref>{{cite news |last1=Pfannenstiel |first1=Brianne |title=US Rep. Jim Jordan calls the left 'crazy,' 'mean' while rallying for Iowa's Rep. Zach Nunn |url=https://www.desmoinesregister.com/story/news/politics/2025/05/30/jim-jordan-supports-zach-nunn-ahead-of-2026-reelection-bid-iowa-3rd-congressional-district/83877830007/ |access-date=May 30, 2025 |work=[[The Des Moines Register]] |date=May 30, 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Republican Jewish Coalition]]<ref name="RJC1"/>
+*[[Turning Point Action]]<ref name="TPA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Zach Nunn (R)
+|$4,146,939
+|$1,039,267
+|$3,160,505
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House – Iowa 3rd |url=https://www.fec.gov/data/elections/house/IA/03/2026/ |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = [[Zach Nunn]] (incumbent)
+| votes = 48,309
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 48,309
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Sarah Trone Garriott]], [[Iowa Senate|state senator]] from the [[Iowa's 14th Senate district|14th district]] (2021–present)<ref>{{cite news |publisher=[[KTVO]] |title=Iowa State Sen. Sarah Trone Garriott launches bid for 3rd Congressional District seat |url=https://ktvo.com/news/local/iowa-state-sen-sarah-trone-garriott-launches-bid-for-3rd-congressional-district-seat |access-date=May 5, 2025 |date=May 5, 2025}}</ref>
+
+====Disqualified====
+*Xavier Carrigan, voice actor and candidate for {{ushr|OH|5}} in [[2020 United States House of Representatives elections in Ohio#District 5|2020]]<ref>{{cite news |last1=Murphy |first1=Erin |title=Iowa congressional candidate off the ballot; gubernatorial candidate's fate still uncertain |url=https://www.thegazette.com/news/elections/iowa-congressional-candidate-off-the-ballot-gubernatorial-candidate-s-fate-still-uncertain/article_532c997d-4c1e-4751-88cc-48301171321f.html |access-date=March 27, 2026 |work=The Gazette |date=March 2026}}</ref>
+
+====Withdrawn====
+*[[Jennifer Konfrst]], minority leader of the [[Iowa House of Representatives]] (2021–2025) from the [[Iowa's 32nd House of Representatives district|32nd district]] (2019–present) ''(endorsed Trone Garriott)''<ref name="Konfrst">{{cite news|url=https://www.desmoinesregister.com/story/news/politics/elections/2026/01/26/jennifer-konfrst-suspends-iowa-3rd-congressional-district-campaign/88364215007/|title=Jennifer Konfrst suspends bid for Iowa's 3rd Congressional District|last=Payne|first=Marissa|date=January 26, 2026|access-date=January 26, 2026|website=[[The Des Moines Register]]}}</ref>
+
+====Declined====
+*[[Austin Baeth]], [[Iowa House of Representatives|state representative]] from the [[Iowa's 31st House of Representatives district|31st district]] (2023–present)<ref>{{cite news |last1=Rooker |first1=Amanda |title=Iowa Democrat Austin Baeth rules out run for Congress |url=https://www.kcci.com/article/iowa-democrat-austin-baeth-rules-out-run-for-congress/64718370 |access-date=May 8, 2025 |publisher=[[KCCI]] |date=May 8, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Sarah Trone Garriott
+|colwidth=60
+|list=
+;U.S. senators
+*[[Elissa Slotkin]], [[Michigan]] (2025–present)<ref name="EndTrack"/>
+
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC"/>
+*[[Lois Frankel]], [[FL-22]] (2013–present)<ref name="EndTrack"/>
+*[[Gabby Giffords]], former [[AZ-08]] (2007–2012)<ref name="EndTrack"/>
+*[[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Izaah Knox]], [[Iowa's 17th Senate district|SD-17]] (2023–present)<ref name="FirstLookIA03"/>
+*[[Jennifer Konfrst]], minority leader of the [[Iowa House of Representatives]] (2021–2025) from [[Iowa's 32nd House of Representatives district|HD-32]] (2019–present) and former candidate for this district<ref name="Konfrst"/>
+*[[Brian Meyer (politician)|Brian Meyer]], minority leader of the [[Iowa House of Representatives]] (2025–present) from [[Iowa's 29th House of Representatives district|HD-29]] (2015–present)<ref name="thegazette_trone-garriott-for-congress">{{cite news |title=Campaign Almanac: Iowa House Democrats' new leader endorses Trone Garriott for Congress |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-iowa-house-democrats-new-leader-endorses-trone-garriott-for-congress/ |website=The Gazette |access-date=6 December 2025}}</ref>
+*[[Megan Srinivas]], [[Iowa's 30th House of Representatives district|HD-30]] (2023–present)<ref name="thegazette_trone-garriott-for-congress"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="afgeIA"/>
+*[[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers|Iron Workers]] Local 67<ref name="Congressional"/>
+*[[Teamsters]] Local 238<ref name="Dagz3">{{cite news |title=Democrat John Norwood announces run for Iowa state treasurer |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-democrat-john-norwood-announces-run-for-iowa-state-treasurer/ |website=The Gazette |access-date=3 February 2026}}</ref>
+
+;Organizations
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=5 February 2026}}</ref>
+*[[Emily's List]]<ref>{{cite web |title=Sarah Trone Garriott |publisher=[[EMILYs List]] |url=https://emilyslist.org/candidate/sarah-trone-garriott/ |access-date=5 February 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Sarah Trone Garriott in Iowa's 3rd Congressional District |url=https://www.endcitizensunited.org/end-citizens-united-endorses-sarah-trone-garriott-in-iowas-3rd-congressional-district |publisher=End Citizens United |date=April 28, 2026 |access-date=May 1, 2026}}</ref>
+*[[Future Forum]]<ref>{{cite news |author=Gazette-Lee Des Moines Bureau |title=Conservative group airing Iowa ads supporting Miller-Meeks, Nunn |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-group-airing-iowa-ads-supporting-miller-meeks-nunn/ |access-date=October 2, 2025 |website=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |date=September 24, 2025}}</ref>
+*[[J Street]]<ref>{{cite web |title=Sarah Trone Garriott |url=https://jstreetpac.org/candidate/sarah-trone-garriott/ |publisher=J Street PAC |access-date=9 February 2026}}</ref>
+*[[NewDem Action Fund]]<ref>{{cite web |title=Endorsed Candidates |url=https://newdemactionfund.com/candidates |publisher=NewDem Action Fund |access-date=9 December 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Sarah Trone Garriott in IA-03 Election Against Representative Zach Nunn |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-sarah-trone-garriott-in-ia-03-election-against-representative-zach-nunn |publisher=Reproductive Freedom for All |access-date=October 25, 2026 |date=May 7, 2026 |location=Washington, DC}}</ref>
+*[[Vote Mama]]<ref name="votemama">{{Cite web |title=Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-06-13 |publisher=Vote Mama PAC |language=en}}</ref>
+*[[WelcomePAC]]<ref name="WelcomePAC">{{cite web |title= Elect Win with Welcome |url=https://welcome.team/elect |publisher=Welcome PAC |access-date=January 27, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Jennifer Konfrst ''(withdrawn)''
+|list=
+;Executive branch officials
+*[[Bonnie Campbell (politician)|Bonnie Campbell]], former director of the [[Office on Violence Against Women]] (1995–2001)<ref name="GazDec1">{{cite news |title=Konfrst adds new slate of endorsers in IA-03 Democratic primary |url=https://globegazette.com/news/state-regional/government-politics/elections/article_d0bdecd2-6d15-5d3a-aceb-0655a0883de5.html |website=Globe Gazette |access-date=4 December 2025 |archive-url=https://web.archive.org/web/20251204012004/https://globegazette.com/news/state-regional/government-politics/elections/article_d0bdecd2-6d15-5d3a-aceb-0655a0883de5.html |archive-date=4 December 2025 |language=en |date=3 December 2025}}</ref>
+
+;U.S. senators
+*[[Cory Booker]], [[New Jersey]] (2013–present)<ref name="TrumpBooker"/>
+
+;U.S. representatives
+*[[Dave Loebsack]], former [[IA-02]] (2007–2021)<ref name="EndTrack"/>
+
+;State legislators
+*[[Claire Celsi]], former [[Iowa's 16th Senate district|SD-16]] (2019–2025) ''(deceased)''<ref name="FirstLookIA03">{{cite news |last1=Belin |first1=Laura |title=First look at the Sarah Trone Garriott/Jennifer Konfrst primary in IA-03 |url=https://www.bleedingheartland.com/2025/05/11/first-look-at-the-sarah-trone-garriott-jennifer-konfrst-primary-in-ia-03/ |access-date=May 11, 2025 |work=Bleeding Heartland |date=May 11, 2025 |language=en}}</ref>
+*[[Molly Donahue]], [[Iowa's 37th Senate district|SD-37]] (2023–present)<ref name="FirstLookIA03"/>
+*[[Pam Jochum]], former minority leader of the [[Iowa Senate]] (2023–2025) from [[Iowa's 36th Senate district|SD-36]] (2009–2025)<ref name="FirstLookIA03"/>
+*19 [[Iowa House of Representatives|state representatives]]<ref name="FirstLookIA03"/>
+
+;Labor unions
+*[[Communications Workers of America]] Local 7102<ref name=UnionK/>
+*[[Teamsters]] Local 90<ref name=UnionK>{{cite web |last1=Rivers |first1=Amie |title=Iowa Worker's Almanac layoffs and news for Nov. 6, 2025 |url=https://iowastartingline.com/2025/11/07/iowa-workers-almanac-layoffs-and-news-for-nov-6-2025/ |website=Iowa Starting Line |quote=Communication Workers for America Local 7102 also announced their endorsement of Jennifer Konfrst for Iowa's Third Congressional district. Konfrst has also been endorsed by Teamsters Local 90 and Plumbers and Steamfitters 33. "She's been a strong voice for unions and working people, and she's ready to fight for us in Congress," CWA legislative chair Mark Rocha said.}}</ref>
+*[[United Association|UA Plumbers and Steamfitters]] Local 33<ref name=UnionK/>
+
+;Organizations
+*[[Vote Common Good]]<ref name=VCG/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sarah Trone Garriott (D)
+|$3,892,746
+|$1,186,605
+|$2,706,141
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Sarah Trone Garriott]]
+| votes = 54,662
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 54,662
+| percentage = 100.0
+}}
+{{Election box end}}
+
+=== Libertarian primary ===
+====Disqualified====
+*Marco Battaglia, nominee for [[lieutenant governor of Iowa|lieutenant governor]] in [[2022 Iowa gubernatorial election|2022]] and [[Iowa Attorney General|attorney general]] in [[2018 Iowa Attorney General election|2018]]<ref>{{cite web|first=Robin|last=Opsahl|url=https://iowacapitaldispatch.com/2026/06/15/state-objections-panel-takes-two-libertarian-candidates-off-november-ballot/|title=State Objections Panel takes two Libertarian candidates off November ballot|work=[[States Newsroom|Iowa Capital Dispatch]]|date=June 15, 2026}}</ref>
+
+===General election===
+====Predictions====
+{|class="wikitable"style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|style="text-align:left"|''[[The Cook Political Report]]''<ref name="Cook Initial"/>
+|{{USRaceRating|Lean|D|Flip}}
+|October 9, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+|{{USRaceRating|Lean|D|Flip}}
+|July 14, 2026
+|-
+|style="text-align:left"|''[[Inside Elections]]''<ref name="IE Initial"/>
+|{{USRaceRating|Tilt|D|Flip}}
+|October 1, 2026
+|-
+|style="text-align:left"|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial"/>
+|{{USRaceRating|Lean|D|Flip}}
+|October 20, 2026
+|-
+|style="text-align:left"|''[[Silver Bulletin]]''<ref name=":Silver"/>
+|{{USRaceRating|Likely|D|Flip}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Zach Nunn (R)
+|list=
+;Executive branch officials
+*[[Scott Bessent]], [[United States Secretary of the Treasury|secretary of the treasury]] (2025–present)<ref name=Bessent/>
+*[[Brooke Rollins]], [[United States Secretary of Agriculture|secretary of agriculture]] (2025–present)<ref name="USDA"/>
+
+;U.S. senators
+*[[Chuck Grassley]], [[President pro tempore of the United States Senate|president pro tempore]] (2019–2021, 2025–present) from [[Iowa]] (1981–present)<ref>{{cite web |last=Koons |first=Cami |url=https://iowacapitaldispatch.com/2026/10/14/grassley-says-republicans-need-to-get-cranked-up-on-social-media-for-midterms/|title=Grassley says Republicans need to get 'cranked up' on social media for midterms|date=October 14, 2026|access-date=October 14, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
+
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-zach-nunn-for-iowas-third-district|title=U.S. Chamber Endorses Rep. Zach Nunn for Iowa’s Third District|date=August 19, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Sarah Trone Garriott (D)
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref>{{Cite news |last=Payne |first=Marissa |date=July 13, 2026 |title=Pete Buttigieg keeps 2028 options open, focuses on 2026 races in Iowa |url=https://www.desmoinesregister.com/story/news/politics/elections/2026/07/13/pete-buttigieg-2028-presidential-campaign-iowa-midterm-elections-2026/90589398007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z119486p118650c118650e111550v119486d--xx--b--xx--&gca-ft=61&gca-ds=sophi |access-date=July 14, 2026 |work=[[Des Moines Register]]}}</ref>
+
+;Statewide officials
+*[[Tim Walz]], [[governor of Minnesota]] (2019–present)<ref name="ETrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |language=en}}</ref>
+
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=Sarah Trone Garriott |url=https://giffords.org/candidates/sarah-trone-garriott/ |website=giffords.org |date=June 24, 2026}}</ref>
+*[[Human Rights Campaign]]<ref name=HRC/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Zach Nunn (R)
+|$6,123,740
+|$5,555,815
+|$620,759
+|-
+|{{party shading/Democratic}}| Sarah Trone Garriott (D)
+|$8,070,402
+|$6,916,812
+|$1,153,590
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Zach<br />Nunn (R)
+! style="width:100px;"| Sarah Trone<br />Garriott (D)
+! Undecided
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026">{{cite web|url=https://punchbowl.news/wp-content/uploads/CFA_IA-CD-3_Benchmark_Analysis_v1.0_260323.pdf|title=Iowa Congressional District 3|publisher=Ragnar Research Partners|date=April 29, 2026|access-date=April 29, 2026|via=''[[Punchbowl News]]''}}</ref>{{efn-ua|name=CFA|Poll commissioned by Conservatives For America, an organization linked to the [[Republican Study Committee]]}}
+|March 12–14, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''48%'''
+|42%
+|10%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Zach Nunn vs. Jennifer Konfrst'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Zach<br />Nunn (R)
+! style="width:100px;"| Jennifer<br />Konfrst (D)
+! Undecided
+|-
+| style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{cite news |url=https://www.politico.com/f/?id=00000199-6089-dc77-afbb-eb8df56d0000&nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=4f4d3aeb-621a-47b9-a66d-d9944fed5257|title=Iowa CD 3 Survey Results|website=[[Politico]] |access-date=September 19, 2025}}</ref>
+|September 17–18, 2025
+|717 (RV)
+|–
+|'''44%'''
+|'''44%'''
+|12%
+|}
+
+'''Generic Republican vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026"/>{{efn-ua|name=CFA}}
+|March 12–14, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''44%'''
+|43%
+|–
+|13%
+|-
+| style="text-align: left;" |[[Change Research]] (D)<ref>{{Cite web |title=IA-03 Toplines October 2025|url=https://drive.google.com/file/d/1jLNVaV94JlpWAVFQ5Jmb7PvawBSamQ-u/view |date=October 2025 |access-date=October 15, 2025 |publisher=[[Change Research]]}}</ref>
+|October 23–27, 2025
+|638 (LV)
+|±&nbsp;4.3%
+|42%
+|{{party shading/Democratic}}|'''45%'''
+|1%{{Efn|"Would not vote" with 1%}}
+|12%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Iowa's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Zach Nunn]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Sarah Trone Garriott]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{see also|Iowa's 4th congressional district}}
+{{Infobox election
+| election_name = 2026 Iowa's 4th congressional district election
+| country = Iowa
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Iowa#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Iowa#District 4
+| next_year = 2028
+| image1 = 3x4.svg
+| nominee1 = Chris McGowan
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Member of the Iowa House of Representatives David Alan Dawson (cropped).jpg
+| nominee2 = [[David Dawson (politician)|Dave Dawson]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map = <!-- Please keep this map hidden until election day. {{switcher
+| [[File:2026 Iowa's 4th congressional district election results map by county.svg|180px]]| County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Randy Feenstra]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 4th district is based in northwestern Iowa and includes the cities of [[Ames, Iowa|Ames]] and [[Sioux City]]. The incumbent is Republican [[Randy Feenstra]], who was re-elected with 67.0% of the vote in 2024.<ref name="HPVT"/>
+
+On October 28, 2025, Feenstra announced he was retiring to [[2026 Iowa gubernatorial election|run for governor in 2026]]. He placed 2nd in the Republican primary, losing by less than 1%.<ref>{{cite news |last1=Fortinsky |first1=Sarah |title=Rep. Randy Feenstra formally launches Iowa governor bid |url=https://thehill.com/homenews/campaign/5576675-iowa-rep-randy-feenstra-governor/ |access-date=October 28, 2025 |work=The Hill |date=October 28, 2025}}</ref>
+
+===Republican primary===
+====Nominee====
+*Chris McGowan, president of the [[Siouxland]] Chamber of Commerce<ref>{{cite news |last1=Price |first1=Dave |title=First official GOP candidate for Iowa race |url=https://www.dakotanewsnow.com/2025/06/25/first-official-gop-candidate-iowa-race/ |access-date=June 25, 2025 |work=Dakota News Now |date=June 25, 2025 |language=en}}</ref>
+
+====Withdrawn====
+*Douglas Jensen, concrete company executive<ref>{{cite news |last= |first= |date=2025-12-12 |title=Jensen withdraws from race for Iowa's Fourth District |url=https://www.wowt.com/2025/12/13/jensen-withdraws-race-iowas-fourth-district/ |access-date=2025-12-20 |publisher=WOWT First Alert 6 News Omaha |language=en}}</ref>
+*Kyle Larsen, farmer ''(endorsed McGowan)''<ref>{{cite news |last1=Payne |first1=Marissa |title=Republican Kyle Larsen drops Iowa's 4th Congressional District bid, backs Chris McGowan |url=https://www.desmoinesregister.com/story/news/politics/2025/09/29/republican-kyle-larsen-drops-iowa-4th-congressional-district-race-backs-chris-mcgowan/86417692007/ |access-date=September 29, 2025 |work=[[The Des Moines Register]] |date=September 29, 2025}}</ref>
+*Ryan Rhodes, former senior strategist for the [[Ben Carson 2016 presidential campaign]] and former CEO of [[Parler]] ''(endorsed McGowan)''<ref name="ktiv_2025-07-22">{{cite news |last1=Price |first1=Dave |title=New candidate's slogan: 'Make America Iowa' |url=https://www.ktiv.com/2025/07/22/new-candidates-slogan-make-america-iowa/ |access-date=July 22, 2025 |publisher=[[KTIV]] |date=July 22, 2025 |language=en}}</ref><ref>{{cite news |date=2026-03-14 |title=Ryan Rhodes withdraws from Iowa's 4th Congressional District race |url=https://www.yahoo.com/news/articles/ryan-rhodes-withdraws-iowa-4th-040605567.html |access-date=2026-03-17 |website=Yahoo News |language=en-US}}</ref>
+*[[Matt Windschitl]], former majority leader of the [[Iowa House of Representatives]] (2020–2025) from the [[Iowa's 15th House of Representatives district|15th district]] (2007–present) ''(endorsed McGowan)''<ref name="WindEnd">{{cite news |last1=Pfannenstiel |first1=Brianne |title=Matt Windschitl ends congressional run, won't run to retain House seat |url=https://www.desmoinesregister.com/story/news/politics/elections/2026/02/06/matt-windschitl-ends-congressional-bid-iowa-house-election-2026-gop/88553666007/ |website=The Des Moines Register |access-date=7 February 2026}}</ref>
+
+====Declined====
+*[[Lynn Evans]], [[Iowa Senate|state senator]] from the [[Iowa's 3rd Senate district|3rd district]] (2023–present) ''([[2026 Iowa Senate election#District 3|running for re-election]])''<ref>{{cite news |last1=Gruber-Miller |first1=Stephen |title=Republican state Sen. Lynn Evans drops bid for Iowa's 4th Congressional District |url=https://www.desmoinesregister.com/story/news/politics/2025/07/09/iowa-republican-lynn-evans-wont-run-iowa-4th-district/84521706007/ |access-date=July 9, 2025 |work=[[The Des Moines Register]] |date=July 9, 2025}}</ref>
+*[[Randy Feenstra]], incumbent U.S. representative ''([[2026 Iowa gubernatorial election|ran for governor]])''<ref name=Feenstra>{{cite news |last=Price |first=Dave |date=2025-05-12 |title=Congressman Randy Feenstra files to run for Iowa Governor |url=https://www.kcrg.com/2025/05/12/congressman-randy-feenstra-files-run-iowa-governor/ |access-date=2025-05-12 |publisher=[[KCRG-TV]] |language=en}}</ref>
+*[[Steven Holt]], [[Iowa House of Representatives|state representative]] from the [[Iowa's 12th House of Representatives district|12th district]] (2015–present)<ref>{{cite news |title=Iowa politicians hint at running for office in 2026 |url=https://cbs2iowa.com/news/local/iowa-politicians-hint-at-running-for-office-in-2026 |access-date=May 17, 2025 |publisher=[[KGAN]] |date=May 16, 2025 |language=en}}</ref>
+*[[Zach Nunn]], U.S. representative from the 3rd district<ref>{{cite tweet |author=Ally Mutnick |access-date=August 18, 2025 |user=allymutnick |date=July 9, 2025 |number=1943064283123978685 |title=Some more news in here: Zach Nunn initially considered switching districts to run in the ruby red #IA04 (since Rep Randy Feenstra is running for gov) but White House shot that down}}</ref> ''(running for re-election)''<ref name=nunn/>
+
+====Endorsements====
+{{Endorsements box
+| title = Chris McGowan
+| list =
+;Executive branch officials
+*[[Terry Branstad]], former [[List of ambassadors of the United States to China|ambassador to China]] (2017–2020) and former [[List of governors of Iowa|governor of Iowa]] (1983–1999, 2011–2017)<ref>{{cite news |last1=Gottburg |first1=Woody |title=Branstad endorses McGowan for Congress |url=https://kscj.com/2026/01/13/branstad-endorses-mcgowan-for-congress/ |access-date=January 13, 2026 |publisher=[[KSCJ]] |date=January 13, 2026}}</ref>
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Pfannenstiel |first1=Brianne |title=Donald Trump endorses Chris McGowan in Iowa's 4th District primary |url=https://www.desmoinesregister.com/story/news/politics/elections/2026/02/05/donald-trump-endorses-chris-mcgowan-in-iowas-4th-district-primary/88519517007/ |access-date=February 5, 2026 |work=[[The Des Moines Register]] |date=February 5, 2026}}</ref>
+
+;U.S. senators
+*[[Joni Ernst]], [[Iowa]] (2015–present)<ref name="EndTrack"/>
+
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from {{ushr|MN|6|MN-06}} (2015–present)<ref name="Emmer">{{cite news |last1=Henderson |first1=O. Kay |title=Top U.S. House Republican endorses two Iowa congressional candidates |url=https://www.radioiowa.com/2025/11/19/top-u-s-house-republican-endorses-two-iowa-congressional-candidates/ |access-date=November 20, 2025 |publisher=Radio Iowa |date=November 19, 2025}}</ref>
+*[[Mike Johnson]], [[Speaker of the U.S. House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="EndTrack"/>
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from {{ushr|LA|1|LA-01}} (2008–present)<ref name="EndTrack"/>
+*[[Rudy Yakym]], [[IN-02]] (2022–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Matt Windschitl]], former majority leader of the [[Iowa House of Representatives]] (2020–2025) from [[Iowa's 15th House of Representatives district|HD-15]] (2007–present) and former candidate for this seat<ref name="WindEnd"/>
+
+;Individuals
+*[[Robert J. O'Neill|Robert O'Neill]], former [[Navy SEAL]]<ref>{{cite web |author=mmarchelhoff |title=Former Navy SEAL Robert O'Neill endorses McGowan for Congress |url=https://siouxcityjournal.com/news/state-regional/government-politics/elections/article_87e43644-46f1-4e8d-8b54-fbc2293745a3.html |access-date=November 16, 2025 |work=[[Sioux City Journal]] |date=November 13, 2025}}</ref>
+*Ryan Rhodes, former senior strategist for the [[Ben Carson 2016 presidential campaign]], former CEO of [[Parler]], and former candidate for this seat<ref name="ktiv_2025-07-22"/>
+}}
+
+{{Endorsements box
+| title = Ryan Rhodes ''(withdrew)''
+| list =
+;Executive branch officials 
+*[[Ben Carson]], former [[secretary of housing and urban development]] (2017–2021)<ref>https://www.siouxlandproud.com/news/your-local-election-hq/rare-leader-who-combines-gentle-humility-with-courage-of-a-lion-ryan-rhodes-receives-endorsement/amp/</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Chris McGowan (R)
+|$636,623
+|$261,281
+|$375,342
+|-
+|{{party shading/Republican}}|''Ryan Rhodes (R)''
+|$435,006
+|$425,446
+|$9,560
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House – Iowa 4th |url=https://www.fec.gov/data/elections/house/IA/04/2026/ |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Chris McGowan
+| votes = 55,077
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 55,077
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[David Dawson (politician)|David Dawson]], former state representative from the [[Iowa's 14th House of Representatives district|14th district]] (2013–2017)<ref>{{cite news |last1=Hayworth |first1=Bret |title=Siouxland Democrat Dawson announces for Iowa 4th congressional district race |url=https://www.kwit.org/podcast/spm-news/2025-08-27/kwit-exclusive-siouxland-democrat-dawson-announces-for-iowa-4th-congressional-district-race |access-date=August 27, 2025 |publisher=[[KWIT]] |date=August 27, 2025 |language=en}}</ref>
+====Eliminated in primary====
+*Stephanie Steiner, nurse<ref>{{cite news |last=Vlaanderen |first=Kathryn |date=2025-07-18 |title=Stephanie Steiner enters race for Iowa's 4th Congressional District |url=https://www.ktiv.com/2025/07/18/stephanie-steiner-enters-race-iowas-4th-congressional-district/ |access-date=2025-07-19 |publisher=[[KTIV]] |language=en}}</ref>
+*Ashley WolfTornabane, stay-at-home mom<ref>{{cite news |last1=Breen |first1=Matt |title=Storm Lake, IA democrat enters race for Iowa's 4th District U.S. House seat |url=https://www.ktiv.com/2025/07/09/storm-lake-ia-democrat-enters-race-iowas-4th-district-us-house-seat/ |access-date=July 8, 2025 |publisher=[[KTIV]] |date=July 8, 2025 |language=en}}</ref>
+
+====Withdrawn====
+*Ryan Melton, [[Nationwide Mutual Insurance Company|Nationwide]] insurance supervisor and nominee for this district in [[2022 United States House of Representatives elections in Iowa#District 4|2022]] and [[2024 United States House of Representatives elections in Iowa#District 4|2024]]<ref>{{cite news |last1=Payne |first1=Marissa |title=Democrat Ryan Melton suspends campaign for Iowa's 4th Congressional District. Here's why |url=https://www.desmoinesregister.com/story/news/politics/elections/2025/06/17/ryan-melton-suspends-iowa-fourth-congressional-district-campaign/84246919007/ |access-date=June 17, 2025 |work=[[The Des Moines Register]] |date=June 17, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Dave Dawson (D)
+|$98,357
+|$61,895
+|$36,462
+|-
+|{{party shading/Democratic}}|Ashley WolfTornabane (D)
+|$22,458
+|$14,043
+|$8,505
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+=== Results ===
+[[File:2026 Congressional Democratic Primary Election in Iowa's 4th Congressional District, results by county.svg|thumb|180px|Results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Dawson}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Steiner}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|WolfTornabane}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#EE8E50|60–70%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[David Dawson (politician)|David Dawson]]
+| votes = 11,291
+| percentage = 39.1
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Stephanie Steiner
+| votes = 8,836
+| percentage = 30.6
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Ashley WolfTornabane
+| votes = 8,782
+| percentage = 30.4
+}}
+{{Election box total no change
+| votes = 28,909
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Filed paperwork====
+*Jermaine Decker, Army veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1916513 |url=https://docquery.fec.gov/cgi-bin/forms/H6IA04233/1916513/ |access-date=2025-09-28 |publisher=[[Federal Election Commission]]}}</ref>
+
+===General election===
+====Predictions====
+{|class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|style="text-align:left|''[[The Cook Political Report]]''<ref name="Cook Initial"/>
+|{{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+|style="text-align:left|[[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+|{{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+|style="text-align:left"|''[[Inside Elections]]''<ref name="IE Initial"/>
+|{{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|style="text-align:left"|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial"/>
+|{{USRaceRating|Safe|R}}
+|April 10, 2025
+|-
+|style="text-align:left;"|''[[Silver Bulletin]]''<ref name=":Silver"/>
+|{{USRaceRating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Chris McGowan (R)
+|$853,320
+|$408,592
+|$444,728
+|-
+|{{party shading/Democratic}}| Dave Dawson (D)
+|$240,238
+|$176,242
+|$63,996
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4" /></small>
+|}
+
+==== Debates ====
+{| class="wikitable mw-collapsible"  style="text-align:center;" 
+|+ class="nowrap" | 2026 United States House election in Iowa (District 4) debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Link
+!scope="col" colspan="2"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{colors|black|#f0e68c|&nbsp;W&nbsp;}} <small>Withdrawn</small>
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+! scope="col" style="background:#E81B23;"|
+|-
+!scope="col"| [[David Dawson (politician)|Dave Dawson]]
+!scope="col"| Chris McGowan
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| October 14, 2026
+|style="white-space:nowrap;"| [[Iowa PBS]]
+|style="white-space:nowrap;"| Kay Henderson
+|style="white-space:nowrap;"|[https://www.iowapbs.org/shows/iowapress/special/14533/iowa-press-debates-4th-congressional-district Iowa PBS]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+|}
+
+====Results====
+{{Election box begin|title=2026 Iowa's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Chris McGowan
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[David Dawson (politician)|Dave Dawson]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://bohannanforcongress.com/ Christina Bohannan (D)]
+*[https://bridgfordforiowa.com/ Michael Bridgford (I)]
+*[https://drmillermeeks.com/ Mariannette Miller-Meeks (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.davebushaw.com/ Dave Bushaw (I)]
+*[https://www.lindsayforiowa.com/ Lindsay James (D)]
+*[https://joemitchell.com/ Joe Mitchell (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://sarahforiowa.com/ Sarah Trone Garriott (D)]
+*[https://zachnunn.com/ Zach Nunn (R)]
+
+;Official campaign websites for 4th district candidates
+*[https://davedawsonforiowa.com/ Dave Dawson (D)]
+*[https://www.decker4congress.org/ Jermaine Decker (I)]
+*[https://mcgowanforiowa.com/ Chris McGowan (R)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Iowa|2026]]
+[[Category:2026 elections in Iowa|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Iowa]]

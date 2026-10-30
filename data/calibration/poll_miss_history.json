@@ -1,0 +1,66 @@
+{
+ "rows": [
+  {
+   "cycle": 2010,
+   "dem_overstatement": 1.0,
+   "kind": "Midterm",
+   "races": 232,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2012,
+   "dem_overstatement": -3.4,
+   "kind": "Presidential year",
+   "races": 138,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2014,
+   "dem_overstatement": 3.3,
+   "kind": "Midterm",
+   "races": 143,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2016,
+   "dem_overstatement": 3.4,
+   "kind": "Presidential year",
+   "races": 107,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2018,
+   "dem_overstatement": -0.8,
+   "kind": "Midterm",
+   "races": 205,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2020,
+   "dem_overstatement": 6.6,
+   "kind": "Presidential year",
+   "races": 123,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2022,
+   "dem_overstatement": 0.9,
+   "kind": "Midterm",
+   "races": 135,
+   "source": "FiveThirtyEight poll archive; weighted averages five days out, Senate, governor and House"
+  },
+  {
+   "cycle": 2024,
+   "dem_overstatement": 3.0,
+   "kind": "Presidential year",
+   "source": "Silver Bulletin, \"So, how did the polls do in 2024?\": about 3 points of Democratic bias in presidential, Senate and House polls",
+   "races": null
+  }
+ ],
+ "mean_all": 1.7499999999999998,
+ "mean_midterm": 1.1,
+ "share_overstating_dems": 0.75,
+ "sd_all": 3.0359747787395825,
+ "loco_rmse_assume_zero": 3.3357907608241852,
+ "loco_rmse_assume_history": 3.2455935591229546
+}

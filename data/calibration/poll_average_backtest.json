@@ -1,0 +1,29 @@
+{
+ "rows": [
+  {
+   "method": "Simple mean of polls",
+   "rmse": 7.77,
+   "Sen-G": 6.75,
+   "Gov-G": 6.6,
+   "House-G": 8.32
+  },
+  {
+   "method": "Weighted (recency, sample, pollster grade, per-pollster cap)",
+   "rmse": 7.59,
+   "Sen-G": 6.4,
+   "Gov-G": 6.13,
+   "House-G": 8.25
+  },
+  {
+   "method": "Weighted + pollster lean removed (used)",
+   "rmse": 7.4,
+   "Sen-G": 6.23,
+   "Gov-G": 5.99,
+   "House-G": 8.03
+  },
+  {
+   "method": "Same + flat shift to GOP, leave-one-cycle-out (rejected)",
+   "rmse": 7.46
+  }
+ ]
+}

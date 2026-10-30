@@ -1,0 +1,4085 @@
+{{short description|none}}
+{{Use mdy dates|date=December 2024}}
+{{use American English|date=December 2024}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Georgia House of Representatives election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Georgia
+| country = Georgia (U.S. state)
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia
+| next_year = 2028
+| seats_for_election = All 14 Georgia seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''9'''
+| seats1 = '''9'''
+| party2 = Democratic Party (United States)
+| last_election2 = 5
+| seats2 = 5
+| seat_change1 = 
+| seat_change2 = 
+| map_image = <!-- Please keep these maps hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Georgia results map.svg|270px]] |District results |[[File:2026 United States House of Representatives elections in Georgia results map by county.svg|270px]] |County results}}-->
+| map_caption =
+}}
+{{ElectionsGA}}
+The '''2026 United States House of Representatives elections in Georgia''' will be held on November 3, 2026, to elect the 14 [[United States House of Representatives|U.S. representative]]s from the [[U.S. state|state]] of [[Georgia (U.S. state)|Georgia]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. Primary elections took place on May 19, 2026, and in races where no candidate received over 50% in a primary, runoff elections were held on June 16.<ref name="sp26">{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Georgia' 1st congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 1
+| next_year = 2028
+| image1 = 
+| nominee1 = Jim Kingston
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = Amanda Hollowell
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 1st congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Buddy Carter]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 1st congressional district}}
+The 1st district is based in the southeast corner of the state, encompassing [[Savannah, Georgia|Savannah]]. The incumbent is Republican [[Buddy Carter]], who was re-elected with 62.0% of the vote in 2024.<ref name="HPVT"/> On May 8, 2025, Carter announced that he would [[2026 United States Senate election in Georgia|run for U.S. Senate]] in 2026.<ref name="BuddyCarter">{{cite news |last1=Bluestein |first1=Greg |title='MAGA warrior' Buddy Carter jumps into Georgia Senate race against Ossoff |url=https://www.ajc.com/politics/maga-warrior-buddy-carter-jumps-into-georgia-senate-race-against-ossoff/ZBEW6UFRA5DUBAKNSL2GM2GTSQ/ |access-date=May 8, 2025 |work=The Atlanta Journal-Constitution |date=May 8, 2025 |language=English}}</ref>
+
+===Republican primary===
+====Nominee====
+*Jim Kingston, insurance salesman and son of former U.S. representative [[Jack Kingston]]<ref>{{cite news |last1=Nelson |first1=Craig |last2=Philippo |first2=Caitlin |title=Kingston campaign gets Trump nod amid questions about ties to father, district |url=https://thecurrentga.org/2026/05/11/kingston-campaign-gets-trump-nod-amid-questions-about-ties-to-father-district/ |work=The Current |date=May 11, 2026 |access-date=May 12, 2026}}</ref>
+
+====Eliminated in primary====
+*Patrick Farrell, [[Chatham County, Georgia|Chatham County]] commissioner (2004–present)<ref>{{cite news |title=Chatham County commissioner eyes Coastal Georgia's congressional seat |url=https://thecurrentga.org/2025/05/19/chatham-county-commissioner-eyes-coastal-georgias-congressional-seat-with-maga-support/ |access-date=May 19, 2025 |work=The Current |date=May 19, 2025}}</ref>
+*Brian Montgomery, retired [[United States Army|U.S. Army]] lieutenant colonel<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-how-a-court-ruling|title=Morning Digest: How a court ruling could lead to a new Democratic seat—in Utah|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=August 27, 2025|access-date=August 27, 2025|work=The Downballot}}</ref>
+*Krista Penn, healthcare executive<ref>{{Cite news |title=Is there a message for Georgia Democrats in the NYC mayoral primary upset?  |author1=Bluestein, Greg |author2=Mitchell, Tia |author3=Murphy, Patricia |author4=Beam, Adam |date=July 5, 2025 |url=https://www.ajc.com/politics/2025/06/is-there-a-message-for-georgia-democrats-in-the-nyc-mayoral-primary-upset/ |work=[[The Atlanta Journal-Constitution]] |quote=Five candidates are now registered for the race, according to the Federal Elections Commission website. He joins three other GOP candidates: Chatham County Commissioner Pat Farrell, ultraconservative activist Kandiss Taylor and Navy veteran Krista Penn.}}</ref>
+*Kandiss Taylor, district 1 chair for the [[Georgia Republican Party]], candidate for [[United States Senate|U.S. Senate]] in [[2020–21 United States Senate special election in Georgia|2020]], and candidate for [[Governor of Georgia|governor]] in [[2022 Georgia gubernatorial election|2022]]<ref>{{cite news |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=Kandiss Taylor's congressional bid shakes up Georgia's 2026 GOP midterms |url=https://www.ajc.com/politics/politically-georgia/kandiss-taylors-congressional-bid-shakes-up-georgias-2026-gop-midterms/HI4BD4MDSNCSLKOWBFULQE6BHQ/ |access-date=February 26, 2025 |work=[[The Atlanta Journal-Constitution]] |date=February 26, 2025 |language=English}}</ref>
+*Eugene Yu, retired businessman and perennial candidate<ref name="GA2026">{{#invoke:cite|web|title=Qualifying Candidate Information|url=https://mvp.sos.ga.gov/s/qualifying-candidate-information|work=Georgia Secretary of State|access-date=February 27, 2026}}</ref>
+
+====Declined====
+*[[James Burchett (politician)|James Burchett]], [[Georgia House of Representatives|state representative]] from the 176th district (2019–present)<ref>{{cite news |work=The Downballot |access-date=June 10, 2025 |date=June 10, 2025 |url=https://www.the-downballot.com/i/165583069/ga |author1=Nir, David |author2=Singer, Jeff |title=Morning Digest: As New Jersey votes, is Mikie Sherrill still the Democrats' frontrunner?}}</ref>
+*[[Buddy Carter]], incumbent U.S representative ''([[2026 United States Senate election in Georgia|ran for U.S. Senate]])''<ref name="BuddyCarter"/>
+*[[Vernon Jones]], former Democratic CEO of [[DeKalb County, Georgia|DeKalb County]] (2001–2009) and candidate for this district in [[2022 United States House of Representatives elections in Georgia#District 10|2022]] ''([[2026 Georgia Secretary of State election|running for Secretary of State]])''<ref>{{cite web|url=https://www.ajc.com/politics/2025/10/pro-trump-former-state-rep-vernon-jones-runs-for-georgia-secretary-of-state/|title=Pro-Trump former state Rep. Vernon Jones runs for Georgia secretary of state|last1=Niesse|last2=Groves|first1=Mark|first2=Caleb|date=October 13, 2025|access-date=October 13, 2025|website=[[The Atlanta Journal-Constitution]]}}</ref>
+*[[Jesse Petrea]], [[Georgia House of Representatives|state representative]] from the 166th district (2015–present)<ref name="WTOC1">{{cite news |last1=Schrader |first1=Shea |title=Carter announces campaign for Senate in 2026; who will run for Georgia's 1st Congressional District? |url=https://www.wtoc.com/2025/05/08/carter-announces-campaign-senate-2026-who-will-run-georgias-1st-congressional-district/ |access-date=May 8, 2025 |work=[[WTOC-TV]] |date=May 8, 2025 |language=en}}</ref><ref name="Kingston Endorsements">{{cite web|last=Nelson|first=Craig|url=https://thecurrentga.org/2025/06/30/jim-kingston-enters-race-for-congressional-seat-with-support-from-gop-stalwarts/|title=Jim Kingston enters race for congressional seat with support from GOP stalwarts|work=The Current|date=June 30, 2025|access-date=July 6, 2025}}</ref>
+*[[Ron Stephens (Georgia politician)|Ron Stephens]], [[Georgia House of Representatives|state representative]] from the 164th district (1997–present)<ref name="WTOC1"/>
+*[[Ben Watson (politician)|Ben Watson]], [[Georgia State Senate|state senator]] from the [[Georgia's 1st Senate district|1st district]] (2015–present)<ref name="WTOC1"/> ''(endorsed Kingston)''<ref name="Kingston Endorsements"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Jim Kingston
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+*[[Mack Mattingly]], former [[List of ambassadors of the United States to Seychelles|U.S. Ambassador to Seychelles]] (1992–1993) and former [[United States Senate|U.S. senator]] from [[Georgia (U.S. state)|Georgia]] (1981–1987)<ref name="Kingston Endorsements"/>
+
+;U.S. senators
+*[[Ted Cruz]], [[Texas]] (2013–present)<ref name="EndTrack"/>
+*[[Saxby Chambliss]], former [[Georgia (U.S. state)|Georgia]] (2003–2015)<ref name="EndTrack"/>
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Emmer1"/>
+* [[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from {{ushr|LA|4|LA-04}} (2017–present)<ref name="EndTrack"/>
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="EndTrack"/>
+*[[Rich McCormick]], [[GA-07]] (2023–present)<ref name="EndTrack"/>
+* [[David McIntosh (politician)|David McIntosh]], former [[IN-02]] (1995–2001)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="EndTrack"/>
+;Statewide Officials
+*[[Brian Kemp]], [[Governor of Georgia]] (2019-Present)<ref>https://www.wjcl.com/article/gov-kemp-campaigns-for-jim-kingston-in-savannah/73968324</ref>
+;State legislators
+*[[Eric Johnson (Georgia politician)|Eric Johnson]], former [[Georgia State Senate|state senator]] from the [[Georgia's 1st Senate district|1st district]] (1995–2009) and candidate for [[Governor of Georgia|governor]] in [[2010 Georgia gubernatorial election|2010]]<ref name="Kingston Endorsements"/>
+*[[Ben Watson (politician)|Ben Watson]], [[Georgia State Senate|state senator]] from the [[Georgia's 1st Senate district|1st district]] (2015–present)<ref name="Kingston Endorsements"/>
+
+;Organizations
+*[[NRA Political Victory Fund]]<ref>{{Cite web|url=https://www.nrapvf.org/grades/georgia/|title=NRA-PVF &#124; Grades &#124; Georgia|website=Nrapvf.org|access-date=October 5, 2026}}</ref>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jim-kingston-for-georgias-1st-congressional-district|title=Candidate Jim Kingston for Georgia’s 1st Congressional District|date=May 15, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Brian Montgomery
+|list=
+;U.S. representatives
+*[[John James (Michigan politician)|John James]], [[Michigan's 10th congressional district|MI-10]] (2023–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=31 January 2026 |language=en |date=8 January 2026}}</ref>
+}}
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 GA-01 Republican primary debates and forums
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="6"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{color box|#f0e68c|W}} <small>Withdrawn  &nbsp;</small>
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+|-
+!scope="col"| Ferrell
+!scope="col"| Kingston
+!scope="col"| Montgomery
+!scope="col"| Penn
+!scope="col"| Taylor
+!scope="col"| Yu
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| April 26, 2026
+|style="white-space:nowrap;"| Atlanta Press Club
+|style="white-space:nowrap;"| Tina Tyus-Shaw
+|style="white-space:nowrap;"| [https://www.youtube.com/live/thM3OdTmW3Y?si=GSQP894M38M7VPu_ YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jim Kingston (R)
+|$1,862,606
+|$913,390
+|$949,215
+|-
+|{{party shading/Republican}}|Pat Farrell (R)
+|$656,764
+|$593,932
+|$62,832
+|-
+|{{party shading/Republican}}|Brian Montgomery (R)
+|$267,832
+|$222,692
+|$45,140
+|-
+|{{party shading/Republican}}|Eugene Yu (R)
+|$143,070
+|$151,534
+|$34,916
+|-
+|{{party shading/Republican}}|Kandiss Taylor (R)
+|$92,438
+|$88,902
+|$3,729
+|-
+|{{party shading/Republican}}|Krista Penn (R)
+|$21,417
+|$17,661
+|$3,756
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Georgia 1st |url=https://www.fec.gov/data/elections/house/GA/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 14, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Jim Kingston
+| party = Republican Party (United States)
+| votes = 37,025
+| percentage = 52.4
+}}
+{{Election box candidate with party link no change
+| candidate = Patrick Farrell
+| party = Republican Party (United States)
+| votes = 12,193
+| percentage = 17.2
+}}
+{{Election box candidate with party link no change
+| candidate = Kandiss Taylor
+| party = Republican Party (United States)
+| votes = 8,875
+| percentage = 12.6
+}}
+{{Election box candidate with party link no change
+| candidate = Brian Montgomery
+| party = Republican Party (United States)
+| votes = 7,088
+| percentage = 10.0
+}}
+{{Election box candidate with party link no change
+| candidate = Eugene Yu
+| party = Republican Party (United States)
+| votes = 3,083
+| percentage = 4.4
+}}
+{{Election box candidate with party link no change
+| candidate = Krista Penn
+| party = Republican Party (United States)
+| votes = 2,428
+| percentage = 3.4
+}}
+{{Election box total no change
+| votes = 70,692
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Amanda Hollowell, political organizer<ref>{{cite news |title=Coastal Georgia for Democracy to Host a Series of Town Hall Events |url=https://www.coastaldemocracy.org/news/coastal-georgia-for-democracy-to-host-town-hall-in-savannah |access-date=September 7, 2025 |work=Coastal Georgia for Democracy |date=August 19, 2025 |language=en}}</ref>
+====Eliminated in runoff====
+*Joyce Griggs, retired attorney and perennial candidate<ref name="GA2026"/>
+====Eliminated in primary====
+*Defonsio Daniels, security instructor<ref name="Intensify">{{cite web |last2=Gibbs |first2=Jabari |last1=Nelson |first1=Craig |title=Campaigning begins in Coastal Georgia, election contests intensify |url=https://thecurrentga.org/2025/08/25/incumbents-dominate-brunswick-savannah/ |access-date=December 3, 2025 |work=The Current |date=August 25, 2025 |quote=Declared Democratic candidates for the 1st District seat include Amanda Hollowell, Defonsio Daniels, Michael McCord, Joe Palimeno, and Randy Zurcher.}}</ref>
+*Michael McCord, business consultant<ref>{{cite news |last1=Teuton |first1=Christopher J. |title=Savannah business consultant Michael McCord announces Congressional campaign |url=https://www.wtoc.com/2025/07/24/savannah-business-consultant-michael-mccord-announces-congressional-campaign/ |access-date=July 24, 2025 |work=[[WTOC-TV]] |date=July 24, 2025 |language=en}}</ref>
+*Joseph Palimeno, vice chair of the [[Camden County, Georgia|Camden County]] Democratic Party<ref name="Intensify"/>
+*Sharon Williamson, public health professional<ref name="GA2026"/>
+*Patrick Wilver, small business owner<ref name="GA2026"/>
+*Randy Zurcher, union representative<ref>{{cite news |last1=Lasseter |first1=Evan |title=Savannahian Randy Zurcher launches 'grassroots' run for U.S. House seat |url=https://www.savannahnow.com/story/news/local/2025/07/17/savannah-resident-launches-democratic-bid-for-u-s-house-seat/85244884007/ |access-date=September 7, 2025 |work=[[Savannah Now]] |date=July 17, 2025 |language=en}}</ref>
+
+====Declined====
+*[[Anne Allen Westbrook]], [[Georgia House of Representatives|state representative]] from the 163rd district (2023–present)<ref name="WTOC1"/>
+*Aaron Whitely, [[Chatham County, Georgia|Chatham County]] commissioner and chair of the Chatham County Democratic Party<ref name="WTOC1"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Amanda Hollowell
+|list=
+;Executive branch Officials
+*[[Kamala Harris]], former [[Vice President of the United States]] (2021–2025)<ref>{{Cite web|url=https://www.youtube.com/shorts/nAVSbu1tT84|title=Kamala Harris Supports Amanda Hollowell for Congress &#124; Georgia &#124; CD1|access-date=October 5, 2026|via=[[YouTube]]}}</ref>
+;U.S. Representatives
+*[[Ro Khanna]], CA 17th District (2017-Present)<ref>{{Cite web|url=https://www.instagram.com/p/DbqVjhWFjt_/|title=Instagram|website=Instagram.com|access-date=October 5, 2026}}</ref>
+;Local Officials
+*[[Van R. Johnson]], [[Mayor of Savannah]] (2020-Present) <ref>{{Cite web|url=https://www.wsav.com/news/local-news/georgia-news/mayor-johnson-endorses-amanda-hollowell-for-congress/|title=Mayor Johnson endorses Amanda Hollowell for Congress|first=Eric|last=Dorsch|website=Wsav.com|date=April 22, 2026|access-date=October 5, 2026}}</ref>
+;Political parties
+*Georgia [[Working Families Party]]<ref>{{cite web|url=https://workingfamilies.org/2026/03/georgia-wfp-announces-2026-primary-endorsements/|title=Georgia WFP Announces 2026 Primary Endorsements|date=March 19, 2026|publisher=Working Families Party}}</ref>
+}}
+{{Endorsements box
+|title=Michael McCord (Eliminated in Primary)
+|list=
+;U.S. representatives
+*[[John Barrow (American politician)|John Barrow]], former [[Georgia's 12th congressional district|GA-12]] (2005–2015)<ref name="EndTrack"/>
+}}
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 GA-01 Democratic primary debates and forums
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="8"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{color box|#f0e68c|W}} <small>Withdrawn  &nbsp;</small>
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+|-
+!scope="col"| Daniels
+!scope="col"| Griggs
+!scope="col"| Hollowell
+!scope="col"| McCord
+!scope="col"| Palimeno
+!scope="col"| Williamson
+!scope="col"| Wilver
+!scope="col"| Zurcher
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| April 26, 2026
+|style="white-space:nowrap;"| Atlanta Press Club
+|style="white-space:nowrap;"| Tina Tyus-Shaw
+|style="white-space:nowrap;"| [https://www.youtube.com/live/ItS7qw7PJbY?si=QYFQcAaHkmJ4Nq28 YouTube]
+| {{No|'''A'''}}
+| {{No|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Michael McCord (D)
+|$224,654
+|$58,992
+|$147,167
+|-
+|{{party shading/Democratic}}|Amanda Hollowell (D)
+|$135,436
+|$117,193
+|$18,243
+|-
+|{{party shading/Democratic}}|Patrick Wilver (D)
+|$55,937
+|$42,356
+|$13,581
+|-
+|{{party shading/Democratic}}|Joyce Griggs (D)
+|$37,048
+|$33,073
+|$4,055
+|-
+|{{party shading/Democratic}}|Randy Zurcher (D)
+|$11,938
+|$9,468
+|$2,470
+|-
+|{{party shading/Democratic}}|Sharon Stokes-Williamson (D)
+|$6,785
+|$6,462
+|$323
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Joyce Griggs
+| party = Democratic Party (United States)
+| votes = 19,694
+| percentage = 34.5
+}}
+{{Election box winning candidate with party link no change
+| candidate = Amanda Hollowell
+| party = Democratic Party (United States)
+| votes = 14,095
+| percentage = 24.7
+}}
+{{Election box candidate with party link no change
+| candidate = Sharon Williamson
+| party = Democratic Party (United States)
+| votes = 8,501
+| percentage = 14.9
+}}
+{{Election box candidate with party link no change
+| candidate = Defonsio Daniels
+| party = Democratic Party (United States)
+| votes = 5,359
+| percentage = 9.4
+}}
+{{Election box candidate with party link no change
+| candidate = Patrick Wilver
+| party = Democratic Party (United States)
+| votes = 4,003
+| percentage = 7.0
+}}
+{{Election box candidate with party link no change
+| candidate = Michael McCord
+| party = Democratic Party (United States)
+| votes = 3,140
+| percentage = 5.5
+}}
+{{Election box candidate with party link no change
+| candidate = Randy Zurcher
+| party = Democratic Party (United States)
+| votes = 1,517
+| percentage = 2.7
+}}
+{{Election box candidate with party link no change
+| candidate = Joseph Palimeno
+| party = Democratic Party (United States)
+| votes = 850
+| percentage = 1.5
+}}
+{{Election box total no change
+| votes = 57,159
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff results====
+{{Election box begin no change |title = Democratic primary runoff results}}
+{{Election box winning candidate with party link no change
+| candidate = Amanda Hollowell
+| party = Democratic Party (United States)
+| votes = 12,618
+| percentage = 53.0
+}}
+{{Election box candidate with party link no change
+| candidate = Joyce Griggs
+| party = Democratic Party (United States)
+| votes = 11,206
+| percentage = 47.0
+}}
+{{Election box total no change
+| votes = 23,824
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=October 4, 2026}}</ref>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Amanda Hollowell (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260714112931/https://nwpc.org/endorsed-candidates |archive-date=July 14, 2026 |access-date=October 24, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref name="RFFAGeneral">{{cite web |title=Who We're Endorsing |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260907190715/https://reproductivefreedomforall.org/elections |archive-date=September 7, 2026 |access-date=October 24, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Jim Kingston (R)
+|$2,357,233
+|$2,087,278
+|$269,955
+|-
+|{{party shading/Democratic}}| Amanda Hollowell (D)
+|$264,753
+|$214,978
+|$50,137
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Jim Kingston
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Amanda Hollowell
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Georgia' 2nd congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 2
+| next_year = 2028
+| image1 = Sanford Bishop 117th Congress (cropped).jpg
+| nominee1 = [[Sanford Bishop]] 
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Matt Day
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 2nd congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Sanford Bishop]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 2nd congressional district}}
+The 2nd district encompasses the Southwest corner of the state, including most of [[Columbus, Georgia|Columbus]]. The incumbent is Democrat [[Sanford Bishop]], who was re-elected with 56.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Sanford Bishop]], incumbent U.S. representative<ref>{{cite news |last1=Luetkemeyer |first1=Em |title=Forget Retirement: Older Lawmakers Want to Stay in Congress |url=https://www.notus.org/congress/older-lawmakers-running-for-reelection |access-date=August 27, 2025 |work=[[Notus]] |date=August 27, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Sanford Bishop
+|list=
+;Organizations
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC">{{cite web |last1=Corder |first1=Frank |title=Thompson endorsed by SPLC Action Fund |url=https://www.columbianprogress.com/thompson-endorsed-splc-action-fund-69f0e01fdf45c |website=The Columbian Progress |access-date=9 August 2026 |date=April 28, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sanford Bishop (D)
+|$890,390
+|$704,282
+|$368,968
+|-
+|{{party shading/Democratic}}|Danny Glover (D){{Efn|As last reported on June 30, 2025}}
+|$4,675
+|$2,882
+|$1,892
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Georgia 2nd |url=https://www.fec.gov/data/elections/house/GA/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Sanford Bishop]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 72,498
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 72,498
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Matt Day, businessman<ref name="GA2026"/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Matt Day (R)
+|$97,451
+|$90,887
+|$6,563
+|-
+| {{party shading/Republican}} |Chuck Hand (R)
+|$874
+|$874
+|$0
+|-
+| {{party shading/Republican}} |Arthur Johnson (R)
+|$8,000
+|$9,861
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Matt Day
+| party = Republican Party (United States)
+| votes = 42,639
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 42,639
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Sanford Bishop (D)
+|$1,362,149
+|$1,113,485
+|$431,525
+|-
+|{{party shading/Republican}}| Matt Day (R)
+|$217,632
+|$217,632
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Georgia |url=https://www.fec.gov/data/elections/house/GA/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Sanford Bishop]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Matt Day
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Georgia' 3rd congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 3
+| next_year = 2028
+| image1 = File:Jack Brian 119th Congress (3x4 crop).jpg
+| nominee1 = [[Brian Jack]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Maura Keller
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 3rd congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Brian Jack]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 3rd congressional district}}
+The 3rd district comprises central-west Georgia, containing the Northern suburbs of [[Columbus, Georgia|Columbus]] as well as the Southwestern suburbs of [[Atlanta, Georgia|Atlanta]]. The incumbent is Republican [[Brian Jack]], who was elected with 66.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Brian Jack]], incumbent U.S. representative<ref name="GA2026"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Brian Jack
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Brian Jack (R)
+|$1,551,710
+|$981,727
+|$810,159
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Georgia 3rd |url=https://www.fec.gov/data/elections/house/GA/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Brian Jack]] (incumbent)
+| party = Republican Party (United States)
+| votes = 87,643
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 87,643
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Maura Keller, salon owner and nominee for this district in [[2024 United States House of Representatives elections in Georgia#District 3|2024]]<ref>{{cite news |last1=Scudder |first1=Anna |title=Keller announces House campaign |url=https://www.times-georgian.com/news/local/keller-announces-house-campaign/article_4c679ac4-3f71-5917-a4d4-cd94554a1639.html |access-date=June 18, 2025 |work=Times-Georgian |date=June 18, 2025 |language=en}}</ref>
+====Eliminated in primary====
+*George Johnson, attorney<ref name="GA2026"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Maura Keller
+|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO">{{cite web |title=Georgia AFL-CIO Endorsed Candidates for the May 19th, 2026, Primary |publisher=Georgia AFL-CIO |website=[[Squarespace]] |url=https://static1.squarespace.com/static/54a33278e4b040ef97ce7130/t/69fa64e14d43072ccdff3359/1778017505044/ANGALC+Endorsed+Candidates+May+2026.pdf |access-date=October 24, 2026 |format=PDF}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Maura Keller (D)
+|$80,403
+|$35,181
+|$48,177
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Maura Keller
+| party = Democratic Party (United States)
+| votes = 33,964
+| percentage = 60.8
+}}
+{{Election box candidate with party link no change
+| candidate = George Johnson
+| party = Democratic Party (United States)
+| votes = 21,881
+| percentage = 39.2
+}}
+{{Election box total no change
+| votes = 55,845
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Brian Jack (R)
+|$2,431,348
+|$1,565,561
+|$1,105,820
+|-
+|{{party shading/Democratic}}| Maura Keller (D)
+|$246,621
+|$156,055
+|$93,522
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Brian<br/>Jack (R)
+! style="width:100px;"| Maura<br/>Keller (D)
+! Undecided
+|-
+|style="text-align:left;"|VoteNexus (D)<ref>{{Cite web |date=October 8, 2026 |title=Key findings from October 2026 survey of likely voters in Georgia's 3rd Congressional District |url=https://static1.squarespace.com/static/65babf991018d92de237b77e/t/6ac9569d9996ac155cd84360/1791579805717/GA03_Public_Release_Memorandum_VoteNexus.pdf |access-date=October 12, 2026}}</ref>{{Efn-ua|Poll sponsored by Keller's campaign}}
+|October 2–7, 2026
+|301 (LV)
+|±&nbsp;5.6%
+|{{Party shading/Republican}}|'''50%'''
+|45%
+|5%
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Brian Jack]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Maura Keller
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Georgia' 4th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 4
+| next_year = 2028
+| image1 = Hank Johnson, official portrait 115th Congress (cropped).jpg
+| nominee1 = [[Hank Johnson]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = James Duffie
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 4th congressional district election results map by county.svg|150px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Hank Johnson]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 4th congressional district}}
+The 4th district is based in the Southeast suburbs and regions of [[Atlanta]]. The incumbent is Democrat [[Hank Johnson]], who was re-elected with 75.6% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Hank Johnson]], incumbent U.S. representative<ref name="GA2026"/>
+====Eliminated in primary====
+*Ansel Postell, businessman<ref name="GA2026"/>
+*Benedict "Ben" Truman II, candidate for [[DeKalb County, Georgia|DeKalb County]] commission District 1 in 2020<ref name="GA2026"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Hank Johnson
+|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+;Organizations
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Reproductive Freedom for All]]<ref name="RFFAPrimary">{{cite web |title=Who We're Endorsing |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260515110238/https://reproductivefreedomforall.org/elections |archive-date=May 15, 2026 |access-date=October 24, 2026}}</ref>
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Hank Johnson (D)
+|$296,842
+|$337,548
+|$70,969
+|-
+|{{party shading/Democratic}}|Alex Robson (D)
+|$1,924
+|$1,868
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Georgia 4th |url=https://www.fec.gov/data/elections/house/GA/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Georgia's 4th Congressional District, results by county.svg|thumb|150px|Results by county:
+{{collapsible list
+|title={{legend|#7996E2|Johnson}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Hank Johnson]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 81,997
+| percentage = 79.3
+}}
+{{Election box candidate with party link no change
+| candidate = Ansel Postell
+| party = Democratic Party (United States)
+| votes = 12,052
+| percentage = 11.7
+}}
+{{Election box candidate with party link no change
+| candidate = Ben Truman
+| party = Democratic Party (United States)
+| votes = 9,366
+| percentage = 9.1
+}}
+{{Election box total no change
+| votes = 103,415
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*James Duffie, retired executive director for Pure Water Worldwide and veteran<ref name="GA2026"/>
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = James Duffie
+| party = Republican Party (United States)
+| votes = 17,390
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 17,390
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Hank Johnson (D)
+|$514,399
+|$500,640
+|$125,435
+|-
+|{{party shading/Republican}}| James Duffe (R)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Hank Johnson]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = James Duffe
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Georgia' 5th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 5
+| next_year = 2028
+| image1 = Rep. Nikema Williams official photo, 117th Congress (cropped).jpg
+| nominee1 = [[Nikema Williams]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = {{nowrap|John Salvesen}}
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 5th congressional district election results map by county.svg|150px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Nikema Williams]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 5th congressional district}}
+The 5th district comprises most of central [[Atlanta, Georgia|Atlanta]]. The incumbent is Democrat [[Nikema Williams]], who was re-elected with 85.7% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Nikema Williams]], incumbent U.S. representative<ref name="GA2026"/>
+====Eliminated in primary====
+*Arnetress Beatty, consumer services specialist<ref name="GA2026"/>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Nikema Williams
+|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+*[[United Auto Workers]]<ref name="UAW">{{cite web |title=Georgia |url=https://uawendorsements.org/map/georgia/ |website=Uawendorsements.org |access-date=March 26, 2026 |archive-url=https://web.archive.org/web/20240906185247/https://uawendorsements.org/map/georgia/ |archive-date=September 6, 2024 |url-status=dead }}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[J Street]]<ref>{{cite web |title=Nikema Williams |url=https://jstreetpac.org/candidate/nikema-williams/ |website=J Street PAC |access-date=22 April 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{Cite web|url=https://jewishdems.org/endorsements/|title=Jewish Dems Endorsed Candidates|website=Jewishdems.org|access-date=October 5, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref name="RFFAPrimary"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]]<ref>{{Cite web|url=https://www.populationconnectionaction.org/vote/2026-endorsements/|title=2026 Endorsements|website=Populationconnectionaction.org|access-date=October 5, 2026}}</ref>
+*[[Vote Mama]]<ref name="votemama">{{Cite web |title=Vote Mama PAC {{!}} Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-06-13 |website=Vote Mama PAC |language=en}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Arnetress Beatty (D)
+|$6,400
+|$6,400
+|$0
+|-
+|{{party shading/Democratic}}|Andres Castro (D)
+|$36,393
+|$35,626
+|$767
+|-
+|{{party shading/Democratic}}|Nikema Williams (D)
+|$455,433
+|$420,837
+|$47,837
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Georgia 5th |url=https://www.fec.gov/data/elections/house/GA/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Nikema Williams]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 118,546
+| percentage = 88.0
+}}
+{{Election box candidate with party link no change
+| candidate = Arnetress Beatty
+| party = Democratic Party (United States)
+| votes = 16,186
+| percentage = 12.0
+}}
+{{Election box total no change
+| votes = 134,732
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*John Salvesen, handyman<ref name="GA2026"/>
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = John Salvesen
+| party = Republican Party (United States)
+| votes = 9,552
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 9,552
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Nikema Williams (D)
+|list=
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=Nikema Williams |url=https://giffords.org/candidates/nikema-williams-2/ |website=Giffords |access-date=September 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Nikema Williams (D)
+|$772,833
+|$722,968
+|$63,107
+|-
+|{{party shading/Republican}}| John Salveson (R)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 5th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Nikema Williams]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = John Salvesen
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Georgia' 6th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 6
+| next_year = 2028
+| image1 = File:Lucy McBath portrait (118th Congress).jpg
+| nominee1 = [[Lucy McBath]] 
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kevin Martin
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 6th congressional district election results map by county.svg|180px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Lucy McBath]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 6th congressional district}}
+The 6th district comprises suburbs and exurbs of [[Atlanta, Georgia|Atlanta]]. The incumbent is Democrat [[Lucy McBath]], who was re-elected with 74.7% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Lucy McBath]], incumbent U.S. representative<ref name="GA2026"/>
+
+==== Endorsements ====
+{{Endorsements box|title=Lucy McBath|list=
+;U.S. representatives 
+*[[Gabby Giffords]], former [[AZ-08]] (2007-2012)<ref name="EndTrack"/>
+;Labor unions
+*[[United Auto Workers ]]<ref name="UAW"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Black Economic Alliance]] PAC<ref name="BEA PAC">{{cite web |title=Candidates |url=https://pac.blackeconomicalliance.org/candidates/ |website=Black Economic Alliance PAC |access-date=April 23, 2026}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Reproductive Freedom for All]]<ref name="RFFAPrimary"/>
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Lucy McBath (D)
+|$709,536
+|$1,061,691
+|$601,119
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Georgia 6th |url=https://www.fec.gov/data/elections/house/GA/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Lucy McBath]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 126,663
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 126,663
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Kevin Martin, controller<ref name="GA2026"/>
+====Eliminated in primary====
+*Justin Pinker, program director<ref name="GA2026"/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Kevin Martin (R)
+|$10,320
+|$10,220
+|$100
+|-
+| {{party shading/Republican}} |Justin Pinker (R)
+|$15,213
+|$13,148
+|$2,064
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Kevin Martin
+| party = Republican Party (United States)
+| votes = 16,878
+| percentage = 70.1
+}}
+{{Election box candidate with party link no change
+| candidate = Justin Pinker
+| party = Republican Party (United States)
+| votes = 7,197
+| percentage = 29.9
+}}
+{{Election box total no change
+| votes = 24,075
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Lucy McBath (D)
+|list=
+;Organizations
+*[[Democrats for Education Reform]]<ref>{{Cite web|url=https://dfer.org/candidates/|title=House Reform Champions|access-date=September 29, 2026|website=dfer.org}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Lucy McBath |url=https://giffords.org/candidates/lucy-mcbath-3/ |website=Giffords |access-date=September 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Lucy McBath (D)
+|$1,189,989
+|$1,460,928
+|$682,336
+|-
+|{{party shading/Republican}}| Kevin Martin (R)
+|$10,320
+|$10,220
+|$100
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 6th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Lucy McBath]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Kevin Martin
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Georgia' 7th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 7
+| next_year = 2028
+| image1 = Rep. Rich McCormick official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Rich McCormick]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Anthony Kozycki
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 7th congressional district election results map by county.svg|150px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Rich McCormick]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 7th congressional district}}
+The 7th district comprises suburban and rural regions north of [[Atlanta]]. The incumbent is Republican [[Rich McCormick]], who was elected with 64.9% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Rich McCormick]], incumbent U.S. representative<ref name="GA2026"/>
+
+====Withdrawn====
+*Eric Barfield, financial services executive<ref>{{cite web |title=FEC Disclosure Form 3 for ERIC BARFIELD FOR CONGRESS |url=https://docquery.fec.gov/cgi-bin/forms/C00919134/1940329/ |website=docquery.fec.gov |access-date=February 25, 2026}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Rich McCormick|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Eric Barfield (R)''
+|$50,001
+|$50,001
+|$0
+|-
+|{{party shading/Republican}}|Rich McCormick (R)
+|$1,315,416
+|$1,177,211
+|$836,028
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Georgia 7th |url=https://www.fec.gov/data/elections/house/GA/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Rich McCormick]] (incumbent)
+| party = Republican Party (United States)
+| votes = 83,746
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 83,746
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Anthony Kozycki, attorney<ref name="GA2026"/>
+====Eliminated in runoff====
+*Casey Norton, camera technician<ref name="Harvard"/>
+====Eliminated in primary====
+*Larry Long, former [[EPA]] hydrologist<ref name="Harvard"/>
+*Jayson Toweh, environmental scientist<ref name="Harvard">{{cite news |last2=Spenner |first2=Elise A. |last1=Chiasson |first1=Hugo C. |title=Harvard Overseer Jayson Toweh Launches Bid for Georgia’s 7th Congressional District |url=https://www.thecrimson.com/article/2026/3/2/jayson-toweh-house-bid/ |access-date=March 2, 2026 |work=[[The Harvard Crimson]] |date=March 2, 2026}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Casey Norton|list=
+;Organizations
+*[[Track AIPAC]]<ref name="TrackAIPAC">{{cite web |title=Candidates Endorsed By Citizens Against AIPAC Corruption |url=https://www.trackaipac.com/endorsements |publisher=Track AIPAC |access-date=11 March 2026}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of May 27, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Anthony Kozycki (D)
+|$370,743
+|$73,964
+|$291,410
+|-
+|{{party shading/Democratic}}|Larry Long (D)
+|$50,997
+|$50,997
+|$0
+|-
+|{{party shading/Democratic}}|Jayson Toweh (D)
+|$11,653
+|$8,630
+|$27
+|-
+|{{party shading/Democratic}}|Casey Norton (D)
+|$10,781
+|$9,241
+|$2,774
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Anthony Kozycki
+| party = Democratic Party (United States)
+| votes = 19,742
+| percentage = 39.9
+}}
+{{Election box winning candidate with party link no change
+| candidate = Casey Norton
+| party = Democratic Party (United States)
+| votes = 11,043
+| percentage = 22.3
+}}
+{{Election box candidate with party link no change
+| candidate = Jayson Toweh
+| party = Democratic Party (United States)
+| votes = 9,367
+| percentage = 19.0
+}}
+{{Election box candidate with party link no change
+| candidate = Larry Long
+| party = Democratic Party (United States)
+| votes = 9,269
+| percentage = 18.8
+}}
+{{Election box total no change
+| votes = 49,421
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff results====
+{{Election box begin no change |title = Democratic primary runoff results}}
+{{Election box winning candidate with party link no change
+| candidate = Anthony Kozycki
+| party = Democratic Party (United States)
+| votes = 11,667
+| percentage = 67.7
+}}
+{{Election box candidate with party link no change
+| candidate = Casey Norton
+| party = Democratic Party (United States)
+| votes = 5,561
+| percentage = 32.3
+}}
+{{Election box total no change
+| votes = 17,228
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|October 4, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Rich McCormick (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-rich-mccormick-for-georgias-seventh-district|title=U.S. Chamber Endorses Rep. Rich McCormick for Georgia’s Seventh District|date=September 2, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name=Key}}
+! Margin<br/>of error
+! style="width:60px"| Rich<br/>McCormick (R)
+! style="width:60px"| Anthony<br/>Kozycki (D)
+! Undecided
+|-
+|style="text-align:left;"|20/20 Insight (D)<ref>{{cite web |title=Senator Jon Ossoff endorses Tony Kozycki as new poll shows five-point swing in GA-07 |url=https://kozyckiforcongress.com/docs/releases/rel-255316a80123.pdf |publisher=Tony Kozycki for Congress |access-date=October 13, 2026 |date=October 12, 2026}}</ref>{{efn-ua|name=Kozycki}}
+|October 6–9, 2026
+|457 (LV)
+|±&nbsp;4.6%
+|45%
+|{{party shading/Democratic}} |'''47%'''
+|8%
+|-
+|style="text-align:left;"|20/20 Insight (D)<ref>{{cite web |title=New Poll: Georgia's 7th Congressional District Senate Race Tied, U.S. House Race a Statistical Dead Heat |url=https://www.documentcloud.org/documents/28606087-ga-07-2020-insight-for-tony-kozycki-aug-2026/ |publisher=20/20 Insight |access-date=September 10, 2026 |date=August 27, 2026 |via=[[DocumentCloud]]}}</ref>{{efn-ua|name=Kozycki|Poll sponsored by Kozycki's campaign}}
+|August 20–26, 2026
+|445 (LV)
+|±&nbsp;4.7%
+|{{party shading/Republican}} |'''46%'''
+|43%
+|11%
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Rich McCormick (R)
+|$2,250,503
+|$1,612,453
+|$1,335,872
+|-
+|{{party shading/Democratic}}| Anthony Kozycki (D)
+|$922,117
+|$429,686
+|$492,432
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 7th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Rich McCormick]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Anthony Kozycki
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Georgia' 8th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 8
+| next_year = 2028
+| image1 = File:Austin Scott 2021-22 (cropped).jpg
+| nominee1 = [[Austin Scott (politician)|Austin Scott]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kelly Esti
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 8th congressional district election results map by county.svg|150px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Austin Scott (politician)|Austin Scott]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 8th congressional district}}
+The 8th district comprises a large sliver of the southern part of the state. The incumbent is Republican [[Austin Scott (politician)|Austin Scott]], who was re-elected with 68.9% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Austin Scott (politician)|Austin Scott]], incumbent U.S. representative<ref name="GA2026"/>
+
+==== Endorsements ====
+{{Endorsements box|title=Austin Scott|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Austin Scott (R)
+|$900,863
+|$524,224
+|$1,356,804
+|-
+|{{party shading/Republican}}|Vince Watkins (R){{Efn|As last reported on June 30, 2025}}
+|$0
+|$63
+|$138
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Georgia 8th |url=https://www.fec.gov/data/elections/house/GA/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Austin Scott]] (incumbent)
+| party = Republican Party (United States)
+| votes = 72,036
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 72,036
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Kelly Esti, businessman<ref name="GA2026"/>
+====Eliminated in primary====
+*Justin Lucas, [[Worth County, Georgia|Worth County]] school board member<ref name="GA2026"/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jimmy Cooper (D)
+|$123
+|$122
+|$1
+|-
+|{{party shading/Democratic}}|Kelly Esti (D)
+|$17,655
+|$24,002
+|$2,662
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Kelly Esti
+| party = Democratic Party (United States)
+| votes = 23,828
+| percentage = 53.5
+}}
+{{Election box candidate with party link no change
+| candidate = Justin Lucas
+| party = Democratic Party (United States)
+| votes = 20,719
+| percentage = 46.5
+}}
+{{Election box total no change
+| votes = 44,547
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Austin Scott (R)
+|$1,416,651
+|$1,080,761
+|$1,316,056
+|-
+|{{party shading/Democratic}}| Kelly Esti (D)
+|$27,963
+|$28,914
+|$3,709
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 8th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Austin Scott]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Kelly Esti
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 9==
+{{Infobox election
+| election_name = 2026 Georgia' 9th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 9
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 9
+| next_year = 2028
+| image1 = Rep. Andrew Clyde official photo (cropped).jpg
+| nominee1 = [[Andrew Clyde]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Caitlyn Gegen
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 9th congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Andrew Clyde]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 9th congressional district}}
+The 9th district encompasses the northeast part of the state. The incumbent is Republican [[Andrew Clyde]], who was re-elected with 69.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Andrew Clyde]], incumbent U.S. Representative<ref>{{cite news |last1=Daughtry |first1=Will |title=Amid primary challenge, Rep. Andrew Clyde talks 2026 reelection bid |url=https://accesswdun.com/article/2025/2/1285055/amid-primary-challenge-andrew-clyde-talks-2026-reelection-bid |access-date=February 17, 2025 |work=[[WDUN-FM]] |date=February 6, 2025 |language=en}}</ref>
+====Eliminated in primary====
+*Sam Couvillon, mayor of [[Gainesville, Georgia|Gainesville]]<ref>{{cite news |last1=Bluestein |first1=Greg |title=Gainesville mayor to challenge Rep. Andrew Clyde in GOP primary |url=https://www.ajc.com/politics/gainesville-mayor-to-challenge-rep-andrew-clyde-in-gop-primary/WB5RBZNCSVALJJCJCO3M2GW4D4/ |access-date=January 28, 2025 |work=[[The Atlanta Journal-Constitution]] |date=January 28, 2025 |language=English}}</ref>
+*Gregg Poole, [[Hall County, Georgia|Hall County]] commissioner (2022–present)<ref>{{cite news |last1=Winslow |first1=Steve |title=Hall County Commissioner Gregg Poole to run for 9th Congressional District Representative |url=https://accesswdun.com/article/2025/7/1292549/hall-county-commissioner-greg-poole-to-run-for |access-date=July 3, 2025 |work=[[WDUN (AM)|WDUN]] |date=July 3, 2025 |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Andrew Clyde|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Andrew Clyde (R)
+|$553,572
+|$311,824
+|$337,732
+|-
+|{{party shading/Republican}}|Sam Couvillon (R)
+|$679,808
+|$459,712
+|$220,096
+|-
+|{{party shading/Republican}}|Gregg Poole (R)
+|$159,048
+|$41,602
+|$117,446
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9">{{cite web |title=2026 Election United States House - Georgia 9th |url=https://www.fec.gov/data/elections/house/GA/09/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Andrew Clyde]] (incumbent)
+| party = Republican Party (United States)
+| votes = 70,083
+| percentage = 76.0
+}}
+{{Election box candidate with party link no change
+| candidate = Sam Couvillon
+| party = Republican Party (United States)
+| votes = 11,129
+| percentage = 12.1
+}}
+{{Election box candidate with party link no change
+| candidate = Gregg Poole
+| party = Republican Party (United States)
+| votes = 11,037
+| percentage = 12.0
+}}
+{{Election box total no change
+| votes = 92,249
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Caitlyn Gegen, community organizer<ref>{{cite web |last1=Daughtry |first1=Will |title=New candidate emerges in 9th District Democratic primary |url=https://accesswdun.com/news/new-candidate-emerges-in-9th-district-democratic-primary |access-date=February 16, 2026 |work=AccessWDUN |date=February 13, 2026}}</ref>
+====Eliminated in primary====
+*Nick Alex, retired banker<ref>{{cite news |last1=Daughtry |first1=Will |title=New candidate for Georgia's 9th Congressional District speaks at 'No Kings' protest |url=https://accesswdun.com/article/2025/6/1292003/new-candidate-for-georgias-9th-congressional-district-speaks-at-no-kings-protest |access-date=June 14, 2025 |work=[[WDUN-FM]] |date=June 14, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Nick Alex
+|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Nick Alex (D)
+|$129,280
+|$78,797
+|$50,483
+|-
+|{{party shading/Democratic}}|Caitlyn Gegen (D)
+|$15,637
+|$13,022
+|$2,615
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Caitlyn Gegen
+| party = Democratic Party (United States)
+| votes = 25,570
+| percentage = 60.0
+}}
+{{Election box candidate with party link no change
+| candidate = Nick Alex
+| party = Democratic Party (United States)
+| votes = 17,056
+| percentage = 40.0
+}}
+{{Election box total no change
+| votes = 42,626
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Caitlyn Gegen (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Andrew Clyde (R)
+|$738,198
+|$672,714
+|$161,469
+|-
+|{{party shading/Democratic}}| Caitlyn Gegen (D)
+|$101,339
+|$80,202
+|$21,137
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 9th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Andrew Clyde]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Caitlyn Gegan
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 10==
+{{Infobox election
+| election_name = 2026 Georgia' 10th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 10
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 10
+| next_year = 2028
+| image1 = File:Official headshot of Houston Gaines.jpg
+| nominee1 = [[Houston Gaines]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Pamela DeLancy
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 10th congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Mike Collins (politician)|Mike Collins]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 10th congressional district}}
+The 10th district encompasses a large portion of the central-east part of the state. The incumbent is Republican [[Mike Collins (politician)|Mike Collins]], who was elected with 63.1% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Houston Gaines]], [[Georgia House of Representatives|state representative]] from the 120th district (2019–present)<ref>{{cite web|url=https://www.ajc.com/politics/2025/07/athens-lawmaker-launches-us-house-bid-for-open-gop-leaning-georgia-seat/|title=Athens lawmaker launches U.S. House bid for open GOP-leaning Georgia seat|last=Bluestein|first=Greg|date=August 1, 2025|access-date=August 1, 2025|website=[[The Atlanta Journal-Constitution]]}}</ref>
+====Eliminated in primary====
+*Jeffrey Baker, plumber<ref name="GA2026"/>
+*Ryan Millsap, businessman<ref name="GA2026"/>
+
+====Declined====
+*[[Mike Collins (politician)|Mike Collins]], incumbent U.S. representative ''(running for [[2026 United States Senate election in Georgia|U.S. Senate]])''<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H4GA10071/1876247/ |date=2025-02-14 |access-date=2025-02-16}}</ref>
+*[[Brian Strickland]], [[Georgia State Senate|state senator]] from the [[Georgia's 42nd Senate district|42nd district]] (2018–present) ''([[2026 Georgia Attorney General election|running for attorney general]])''<ref name="WhoMightGA10">{{cite news |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=Mike Collins is running for the Senate. Who will replace him in the House? |url=https://www.ajc.com/politics/2025/07/mike-collins-is-running-for-the-senate-who-will-replace-him-in-the-house/ |access-date=July 29, 2025 |work=[[The Atlanta Journal-Constitution]] |date=July 29, 2025 |language=English}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Houston Gaines
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017-2021, 2025–present)<ref name="trump">{{cite web |last1=Mitchell |first1=Tia |title=Trump endorses Republican front-runners in Georgia races for U.S. House |work=The Atlanta Journal-Constitution |url=https://www.ajc.com/politics/2026/04/trump-endorses-republican-front-runners-in-georgia-races-for-us-house/ |access-date=15 April 2026 |language=en}}</ref>
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Emmer1">{{cite web |last1=Foldi |first1=Matthew |title=EXCLUSIVE: Rep. Tom Emmer endorses Houston Gaines for Georgia's 10th District |url=https://washingtonreporter.news/p/exclusive-rep-tom-emmer-endorses |website=Washington Reporter |access-date=27 November 2025 |language=en}}</ref>
+*[[Mike Johnson]], [[speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="trump"/>
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="EndTrack"/>
+*[[Rich McCormick]], [[GA-07]] (2023–present)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="EndTrack"/>
+;Organizations
+*[[Turning Point Action]]<ref>{{cite web |title=Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=29 January 2026}}</ref>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-houston-gaines-for-georgias-10th-congressional-district|title=U.S. Chamber Endorses Candidate Houston Gaines for Georgia’s 10th Congressional District|date=May 11, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 GA-10 Republican primary debates and forums
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="3"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{color box|#f0e68c|W}} <small>Withdrawn  &nbsp;</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+! scope="col" style="background:{{party color| Republican Party (US)}}"|
+|-
+!scope="col"| Baker
+!scope="col"| Gaines
+!scope="col"| Millsap
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| April 26, 2026
+|style="white-space:nowrap;"| Atlanta Press Club
+|style="white-space:nowrap;"| Pamela Kirkland
+|style="white-space:nowrap;"| [https://www.youtube.com/live/M5CYQalJwPw?si=cuxmT4fXw3Phrmu8 YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Houston Gaines (R)
+|$1,863,007
+|$400,812
+|$1,462,195
+|-
+|{{party shading/Republican}}|Ryan Millsap (R)
+|$252,579
+|$244,015
+|$8,564
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC10">{{cite web |title=2026 Election United States House - Georgia 10th |url=https://www.fec.gov/data/elections/house/GA/10/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Houston Gaines]]
+| party = Republican Party (United States)
+| votes = 59,895
+| percentage = 66.9
+}}
+{{Election box candidate with party link no change
+| candidate = Ryan Millsap
+| party = Republican Party (United States)
+| votes = 16,149
+| percentage = 18.0
+}}
+{{Election box candidate with party link no change
+| candidate = Jeffrey Baker
+| party = Republican Party (United States)
+| votes = 13,483
+| percentage = 15.1
+}}
+{{Election box total no change
+| votes = 89,527
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Pamela DeLancy, nurse<ref name="GA2026"/>
+====Eliminated in primary====
+*Lexy Doherty, educational consultant and nominee for this district in [[2024 United States House of Representatives elections in Georgia#District 10|2024]]<ref>{{cite news |last1=Rhoads |first1=Anthony |title=Doherty Launches Another Bid For 10th Congressional Seat |url=https://www.henryherald.com/news/doherty-launches-another-bid-for-10th-congressional-seat/article_2b1b8166-ed30-4854-8104-f6a676b36f31.html |access-date=May 2, 2025 |work=[[Henry Daily Herald]] |date=May 1, 2025 |language=en}}</ref>
+*John Dority, retired engineer<ref name="GA2026"/>
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 GA-10 Democratic primary debates and forums
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="3"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{color box|#f0e68c|W}} <small>Withdrawn  &nbsp;</small>
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+! scope="col" style="background:{{party color| Democratic Party (US)}}"|
+|-
+!scope="col"| DeLancy
+!scope="col"| Doherty
+!scope="col"| Dority
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| April 26, 2026
+|style="white-space:nowrap;"| Atlanta Press Club
+|style="white-space:nowrap;"| Pamela Kirkland
+|style="white-space:nowrap;"| [https://www.youtube.com/live/g0uFnPXsQNg?si=iADJRECXGl5jc0_H YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Pamela DeLancy (D)
+|$8,375
+|$4,509
+|$3,865
+|-
+| {{party shading/Democratic}} |Lexy Doherty (D)
+|$193,477
+|$150,836
+|$55,444
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC10"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Pamela DeLancy
+| party = Democratic Party (United States)
+| votes = 35,058
+| percentage = 54.4
+}}
+{{Election box candidate with party link no change
+| candidate = Lexy Doherty
+| party = Democratic Party (United States)
+| votes = 25,341
+| percentage = 39.3
+}}
+{{Election box candidate with party link no change
+| candidate = John Dority
+| party = Democratic Party (United States)
+| votes = 4,022
+| percentage = 6.2
+}}
+{{Election box total no change
+| votes = 64,421
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|October 20, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Pamela DeLancy (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Houston Gaines (R)
+|$2,816,583
+|$1,754,505
+|$1,062,079
+|-
+|{{party shading/Democratic}}| Pamela DeLancy (D)
+|$78,670
+|$44,421
+|$24,292
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC10"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 10th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Houston Gaines]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Pamela DeLancy
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 11==
+{{Infobox election
+| election_name = 2026 Georgia' 11th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 11
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 11
+| next_year = 2028
+| image1 = 
+| nominee1 = [[John Cowan (Georgia politician)|John Cowan]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = Chris Harden
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 11th congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Barry Loudermilk]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 11th congressional district}}
+The 11th district is based in the northern exurbs of [[Atlanta, Georgia|Atlanta]]. The incumbent is Republican [[Barry Loudermilk]], who was re-elected with 65.63% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[John Cowan (Georgia politician)|John Cowan]], neurosurgeon and candidate for the 14th district in [[2020 United States House of Representatives elections in Georgia#District 14|2020]]<ref>{{Cite web |last=Altimari |first=Daniela |last2=Heller |first2=Nina |last3=Kertes |first3=Noella |date=2026-02-09 |title=Dr. John Cowan announces bid for Loudermilk's U.S. House seat |url=https://www.northwestgeorgianews.com/rome/news/local/dr-john-cowan-announces-bid-for-loudermilks-u-s-house-seat/article_42f7eaa2-50e3-4efe-9b50-343fa597f817.html |access-date=2026-02-10 |website=Northwest Georgia News |language=en}}</ref>
+====Eliminated in runoff====
+*Rob Adkerson, chief of staff to U.S. representative [[Barry Loudermilk]]<ref>{{cite news |last1=Bluestein |first1=Greg |title=Open U.S. House race heats up as Loudermilk aide launches bid |url=https://www.ajc.com/politics/2026/02/open-us-house-race-heats-up-as-loudermilk-aide-launches-bid/ |access-date=February 23, 2026 |work=[[The Atlanta Journal-Constitution]] |date=February 23, 2026 |language=en}}</ref>
+
+====Eliminated in primary====
+*Christopher Mora, former chair of the [[Pickens County, Georgia|Pickens County]] Republican Party<ref>{{cite web |title=Mora Launches Congressional Bid Following Loudermilk’s Retirement Announcement	
+|url=https://www.discovergordoncounty.com/local/mora-launches-congressional-bid-following-loudermilks-retirement-announcement/ |access-date=2026-03-15
+|website=discovergordoncounty.com |date=February 22, 2026}}
+</ref><ref>{{Cite web |title=FEC Form 2 for Report FEC-1924739 |url=https://docquery.fec.gov/cgi-bin/forms/H6GA11132/1924739/ |access-date=2025-11-14 |website=docquery.fec.gov}}</ref>
+*Uloma Kama, physician and perennial candidate<ref name="GA2026"/>
+*[[Tricia Pridemore]], [[Georgia Public Service Commission|Georgia Public Service Commissioner]] (2018–present) and candidate for this seat in [[2014 United States House of Representatives elections in Georgia#District 11|2014]]<ref name="GA2026"/>
+
+====Withdrawn====
+*John Hobbs, attorney (''remained on ballot)''<ref name="GA2026"/>
+*Lisa Carlquist, entrepreneur ''(endorsed Adkerson, remained on ballot)''<ref name="GA2026"/><ref name="Carlquist">{{Cite web|url=https://x.com/LisaCarlquistGA/status/2039055128712663170|title=Lisa Carlquist (@LisaCarlquistGA) on X|website=X.com|date=March 31, 2026|access-date=October 5, 2026}}</ref>
+
+====Declined====
+*[[Brandon Beach]], [[Treasurer of the United States]] (2025–present) and former [[Georgia State Senate|state senator]] from the [[Georgia's 21st Senate district|21st district]] (2013–2025)<ref>{{cite web|url=https://www.ajc.com/politics/2026/04/in-georgias-11th-district-a-test-of-whether-past-trump-criticism-still-matters/|title=In Georgia’s 11th District, a test of whether past Trump criticism still matters|last=Bluestein|first=Greg|date=April 22, 2026|access-date=May 20, 2026|website=[[The Atlanta Journal-Constitution]]}}</ref>
+*[[Michael Caldwell]], mayor of [[Woodstock, Georgia|Woodstock]] (2022–present) and former [[Georgia House of Representatives|state representative]] from the [[Georgia's 20th House of Representatives district|20th district]] (2013–2021) ''(endorsed Adkerson)''<ref name="Caldwell">{{Cite web |last=Bluestein |first=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |date=2026-02-26 |title=Rick Jackson, Burt Jones trade attacks as GOP race for governor intensifies |url=https://www.ajc.com/politics/2026/02/rick-jackson-burt-jones-trade-attacks-as-gop-race-for-governor-intensifies/ |access-date=2026-02-27 |website=The Atlanta Journal-Constitution |language=en}}</ref>
+*[[Barry Loudermilk]], incumbent U.S. representative<ref>{{cite news |last1=Sheehy |first1=Maeve |last2=Ackley |first2=Kate |title=Loudermilk Opts Out of Reelection as Retirement Wave Grows |url=https://news.bgov.com/bloomberg-government-news/loudermilk-opts-out-of-reelection-as-retirement-wave-grows |access-date=February 4, 2026 |work=[[Bloomberg Government]] |date=February 4, 2026}}</ref> ''(endorsed Adkerson)''<ref name="EndTrack"/>
+
+==== Endorsements ====
+{{Endorsements box|title=Rob Adkerson|list=
+;U.S. representatives
+*[[Barry Loudermilk]], [[GA-11]] (2015–present)<ref name="EndTrack"/>
+*[[Bob Barr]], former [[GA-07]] (1995–2003)<ref name="EndTrack"/>
+;State legislators
+*[[Jason Anavitarte]], [[Georgia Senate]] majority leader (2025-present) from the 31st district (2021-present)<ref name="EndTrack"/>
+;Local officials
+*[[Michael Caldwell]], mayor of [[Woodstock, Georgia|Woodstock]] (2022–present)<ref name="Caldwell"/>
+;Individuals
+*Lisa Carlquist, former candidate for this district<ref name="Carlquist"/>
+}}
+{{Endorsements box|title=John Cowan|list=
+;U.S. representatives
+*[[Andy Harris (politician)|Andy Harris]], [[MD-01]] (2011–present)<ref name="EndTrack"/>
+}}
+{{Endorsements box|title=Tricia Pridemore|list=
+;U.S. representatives
+*[[Kat Cammack]], [[Florida's 3rd congressional district|FL-03]] (2021–present)<ref name="EndTrack"/>
+*[[Newt Gingrich]], former [[Speaker of the United States House of Representatives|speaker of the House]] (1995–1999) from [[GA-06]] (1979–1999)<ref name="EndTrack"/>
+;Statewide officials
+*[[Nathan Deal]], former [[governor of Georgia]] (2011–2019) and former [[GA-09]] (1993–2010)<ref name="EndTrack"/>
+}}
+{{Endorsements box|title=Barry Loudermilk ''(declined)''|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Rob Adkerson (R)
+|$123,832
+|$13,934
+|$109,898
+|-
+| {{party shading/Republican}} |John Hobbs (R)
+|$37,480
+|$7,674
+|$29,805
+|-
+| {{party shading/Republican}} |Lisa Carlquist (R)
+|$223,043
+|$83,618
+|$139,425
+|-
+| {{party shading/Republican}} |John Cowan (R)
+|$1,739,444
+|$369,686
+|$1,369,757
+|-
+| {{party shading/Republican}} |Uloma Kama (R)
+|$11,347
+|$10,799
+|$1,095
+|-
+| {{party shading/Republican}} |William Kelly (R)
+|$35,801
+|$35,801
+|$0
+|-
+| {{party shading/Republican}} |Chris Mora (R)
+|$25,842
+|$18,725
+|$7,116
+|-
+| {{party shading/Republican}} |Tricia Pridemore (R)
+|$431,752
+|$32,255
+|$399,496
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC11">{{cite web |title=2026 Election United States House - Georgia 11th |url=https://www.fec.gov/data/elections/house/GA/11/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = John Cowan
+| party = Republican Party (United States)
+| votes = 34,150
+| percentage = 42.6
+}}
+{{Election box winning candidate with party link no change
+| candidate = Rob Adkerson
+| party = Republican Party (United States)
+| votes = 17,408
+| percentage = 21.7
+}}
+{{Election box candidate with party link no change
+| candidate = [[Tricia Pridemore]]
+| party = Republican Party (United States)
+| votes = 15,200
+| percentage = 19.0
+}}
+{{Election box candidate with party link no change
+| candidate = John Hobbs
+| party = Republican Party (United States)
+| votes = 5,086
+| percentage = 6.3
+}}
+{{Election box candidate with party link no change
+| candidate = Christopher Mora
+| party = Republican Party (United States)
+| votes = 4,121
+| percentage = 5.1
+}}
+{{Election box candidate with party link no change
+| candidate = Lisa Carlquist
+| party = Republican Party (United States)
+| votes = 3,161
+| percentage = 3.9
+}}
+{{Election box candidate with party link no change
+| candidate = Uloma Kama
+| party = Republican Party (United States)
+| votes = 1,039
+| percentage = 1.3
+}}
+{{Election box total no change
+| votes = 80,165
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff results====
+{{Election box begin no change |title = Republican primary runoff results}}
+{{Election box winning candidate with party link no change
+| candidate = John Cowan
+| party = Republican Party (United States)
+| votes = 44,799
+| percentage = 65.0
+}}
+{{Election box candidate with party link no change
+| candidate = Rob Adkerson
+| party = Republican Party (United States)
+| votes = 24,140
+| percentage = 35.0
+}}
+{{Election box total no change
+| votes = 68,939
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Chris Harden, attorney<ref>{{cite news |last1=Parker |first1=Wendy |title=Democrat announces 11th Congressional District candidacy |url=https://eastcobbnews.com/democrat-announces-11th-congressional-district-candidacy/ |access-date=January 27, 2026 |work=East Cobb News |date=January 27, 2026}}</ref>
+====Eliminated in primary====
+*Barry Wolfert, real estate broker<ref>{{cite news |last1=Johnson |first1=Atticus |title=Business Owner Barry Wolfert ’88 Launches Campaign to Flip Deep-Red Georgia House District |url=https://www.cornellsun.com/article/2026/01/business-owner-barry-wolfert-88-launches-campaign-to-flip-deep-red-georgia-house-district |access-date=January 20, 2026 |work=[[The Cornell Daily Sun]] |date=January 14, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Chris Harden
+|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Chris Harden (D)
+|$49,635
+|$32,941
+|$2,791
+|-
+|{{party shading/Democratic}}|Barry Wolfert (D)
+|$37,403
+|$19,176
+|$18,226
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC11"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Chris Harden
+| party = Democratic Party (United States)
+| votes = 39,204
+| percentage = 74.8
+}}
+{{Election box candidate with party link no change
+| candidate = Barry Wolfert
+| party = Democratic Party (United States)
+| votes = 13,230
+| percentage = 25.2
+}}
+{{Election box total no change
+| votes = 52,434
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*Natalie Richoz, disabled nurse<ref name="GA2026"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Chris Harden (D)
+|list=
+;Organizations
+*[[Reproductive Freedom for All]]<ref name="RFFAGeneral"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| John Cowan (R)
+|$2,824,606
+|$2,678,788
+|$145,818
+|-
+|{{party shading/Democratic}}| Chris Harden (D)
+|$139,283
+|$130,574
+|$8,709
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC11"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| John<br/>Cowan (R)
+! style="width:100px;"| Chris<br/>Harden (D)
+! Undecided
+|-
+|style="text-align:left;"|Miller Consulting Services<ref>{{Cite web |date=September 16, 2026 |title=GA 11: Miller Consulting Services for Chris Harden (Sept. 2026) |url=https://www.documentcloud.org/documents/28652259-ga-11-miller-consulting-services-for-chris-harden-sept-2026/ |access-date=September 17, 2026 |via=[[DocumentCloud]]}}</ref>{{Efn-ua|name=Harden|Poll sponsored by Harden's campaign}}
+|August 31 – September 11, 2026
+|402 (LV)
+|±&nbsp;4.98%
+|40%
+|{{Party shading/Democratic}}|'''42%'''
+|16%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Generic Republican vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;|Miller Consulting Services<ref>{{cite web |title=GA11 Toplines |url=https://s3.documentcloud.org/documents/28652259/ga-11-miller-consulting-services-for-chris-harden-sept-2026.pdf |publisher=Miller Consulting Service |access-date=October 29, 2026}}</ref>{{Efn-ua|name=Harden}}
+|August 31 – September 11, 2026
+|402 (LV)
+|±&nbsp;4.98%
+|{{party shading/Republican}}|'''48%'''
+|45%
+|8%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 11th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = John Cowan
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Chris Harden
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 12==
+{{Infobox election
+| election_name = 2026 Georgia' 12th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Georgia#District 12
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Georgia#District 12
+| next_year = 2028
+| image1 = Rick Allen Official Photo, 114th Congress (cropped).jpg
+| nominee1 = [[Rick Allen (politician)|Rick Allen]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Ceretta Smith
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 12th congressional district election results map by county.svg|200px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Rick Allen (politician)|Rick Allen]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 12th congressional district}}
+The 12th district is based in the central-east part of the state, surrounding [[Augusta, Georgia|Augusta]]. The incumbent is Republican [[Rick Allen (politician)|Rick Allen]], who was re-elected with 60.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Rick Allen (politician)|Rick Allen]], incumbent U.S. Representative<ref name="GA2026"/>
+
+====Eliminated in primary====
+*Tori Branum, behavioral therapist<ref>{{cite news |last1=McCord |first1=Susan |title=Tori Branum announces bid for 12th Congressional District |url=https://theaugustapress.com/tori-branum-announces-bid-for-12th-congressional-district/ |access-date=June 15, 2025 |work=The Augusta Press |date=March 21, 2025 |language=English}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Rick Allen
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Rick Allen (R)
+|$804,619
+|$709,572
+|$1,270,004
+|-
+|{{party shading/Republican}}|Tori Branum (R)
+|$33,828
+|$27,007
+|$6,797
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC12">{{cite web |title=2026 Election United States House - Georgia 12th |url=https://www.fec.gov/data/elections/house/GA/12/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Rick W. Allen|Rick Allen]] (incumbent)
+| party = Republican Party (United States)
+| votes = 59,576
+| percentage = 83.4
+}}
+{{Election box candidate with party link no change
+| candidate = Tori Branum
+| party = Republican Party (United States)
+| votes = 11,884
+| percentage = 16.6
+}}
+{{Election box total no change
+| votes = 71,460
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Ceretta Smith, [[Grovetown]] city councilor<ref>{{cite web |title=Politician from Columbia County running for U.S. Congress |url=https://www.wrdw.com/2025/10/19/politician-columbia-county-running-us-congress/ |access-date=October 19, 2025 |work=[[WRDW-TV]] |date=October 19, 2025}}</ref>
+
+====Eliminated in runoff====
+*Traci George, educator<ref>{{cite news |title=Local woman announces bid for U.S. Congress seat |url=https://www.wrdw.com/2026/02/03/local-woman-announces-bid-us-congress-seat/ |access-date=February 4, 2026 |work=[[WRDW-TV]] |date=February 3, 2026}}</ref>
+
+====Eliminated in primary====
+*Tracell Peace-Nichols, attorney<ref name="GA2026"/>
+*Chris Stephens, former police officer<ref name="GA2026"/>
+*Brianna Woodson, mental health counselor<ref>{{cite web |last1=Abdur-Rahman |first1=Nahlah |title=A TikToker From Georgia Wants To Make History As Second-Youngest Black Woman In Congress |url=https://www.blackenterprise.com/bri-woodson-tiktoker-georgia-congress/ |access-date=January 6, 2026 |work=[[Black Enterprise]] |date=December 1, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Ceretta Smith
+|list=
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Ceretta Smith for Election to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-ceretta-smith-for-election-to-congress/ |website=AFGE |access-date=8 January 2026 |language=en |date=19 December 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 27, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Tracell Peace-Nichols (D)
+|$21,313
+|$19,723
+|$1,590
+|-
+|{{party shading/Democratic}}|Ceretta Smith (D)
+|$22,756
+|$20,898
+|$1,956
+|-
+|{{party shading/Democratic}}|Chris Stephens (D)
+|$23,217
+|$19,988
+|$3,229
+|-
+|{{party shading/Democratic}}|Brianna Woodson (D)
+|$26,673
+|$24,536
+|$7,030
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC12"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Ceretta Smith
+| party = Democratic Party (United States)
+| votes = 20,112
+| percentage = 32.8
+}}
+{{Election box winning candidate with party link no change
+| candidate = Traci George
+| party = Democratic Party (United States)
+| votes = 16,334
+| percentage = 26.7
+}}
+{{Election box candidate with party link no change
+| candidate = Brianna Woodson
+| party = Democratic Party (United States)
+| votes = 11,456
+| percentage = 18.7
+}}
+{{Election box candidate with party link no change
+| candidate = Tracell Peace-Nichols
+| party = Democratic Party (United States)
+| votes = 6,843
+| percentage = 11.2
+}}
+{{Election box candidate with party link no change
+| candidate = Chris Stephens
+| party = Democratic Party (United States)
+| votes = 6,539
+| percentage = 10.7
+}}
+{{Election box total no change
+| votes = 61,284
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff results====
+{{Election box begin no change |title = Democratic primary runoff results}}
+{{Election box winning candidate with party link no change
+| candidate = Ceretta Smith
+| party = Democratic Party (United States)
+| votes = 16,823
+| percentage = 55.8
+}}
+{{Election box candidate with party link no change
+| candidate = Traci George
+| party = Democratic Party (United States)
+| votes = 13,331
+| percentage = 44.2
+}}
+{{Election box total no change
+| votes = 30,154
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Rick Allen (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-rick-allen-for-georgias-twelfth-congressional-district|title=U.S. Chamber Endorses Rep. Rick Allen for Georgia’s Twelfth Congressional District|date=August 20, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Rick Allen (R)
+|$1,265,488
+|$975,580
+|$1,464,865
+|-
+|{{party shading/Democratic}}| Ceretta Smith (D)
+|$47,693
+|$35,472
+|$12,318
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC12"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 12th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Rick Allen (politician)|Rick Allen]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Ceretta Smith
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 13==
+{{Infobox election
+| election_name = 2026 Georgia' 13th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2026 Georgia's 13th congressional district special election
+| previous_year = July–Aug 2026 (special)
+| next_election = 2028 United States House of Representatives elections in Georgia#District 13
+| next_year = 2028
+| image1 = Member of the Georgia House of Representatives Jasmine Michelle Clark.jpg
+| nominee1 = [[Jasmine Clark]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = {{nowrap|Jonathan Chavez}}
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 13th congressional district election results map by county.svg|180px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Everton Blair]]
+| before_party = Democratic Party (United States)
+| after_election =
+| after_party = 
+}}
+{{see also|Georgia's 13th congressional district}}
+The 13th district is based in the southwest suburbs and exurbs of [[Atlanta, Georgia|Atlanta]]. The incumbent is Democrat [[Everton Blair]] who was elected in a [[2026 Georgia's 13th congressional district special election|special election]] after congressman [[David Scott (Georgia politician)|David Scott]] died in April 2026. Scott was re-elected with 71.8% of the vote in 2024 and was running for re-election until his death in April 2026.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+Scott faced criticism from fellow Democrats due to his age; he would have been 81 years old at the beginning of the next Congress, as well as reports from his voting record revealing that he had not cast a single vote in the last six election cycles, including the [[2024 United States presidential election]].<ref>{{cite news |last=Rashid |first=Hafiz |title=80-Year-Old Swing State Democrat Didn't Vote in Past Six Elections |url=https://newrepublic.com/post/202831/80-year-old-swing-state-democrat-didnt-vote-elections-david-scott |access-date=November 7, 2025 |work=[[The New Republic]] |date=November 6, 2025 |language=English}}</ref> Scott faced several primary challengers, but stated he was running for re-election to a 13th term in Congress.<ref name="Scott13">{{cite news |last1=Solender |first1=Andrew |title=Scoop: House Democrats' oldest members mostly running again despite youth revolt |url=https://www.axios.com/2025/05/15/house-democrats-age-members-reelection-biden |access-date=May 14, 2025 |work=[[Axios (website)|Axios]] |date=May 14, 2025 |language=en}}</ref> Scott died on April 22, 2026. His name remained on the Democratic primary ballot, but votes for him were not counted in the official tally.<ref>{{Cite web |last=Homan |first=Alander Rocha, Maya |date=2026-04-23 |title=Scott’s rivals take a break from politics after the longtime congressman’s death upends the election • Georgia Recorder |url=https://georgiarecorder.com/2026/04/23/scotts-rivals-take-a-break-from-politics-after-the-longtime-congressmans-death-upends-the-election/ |access-date=2026-06-19 |website=Georgia Recorder |language=en-US}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Jasmine Clark]], [[Georgia House of Representatives|state representative]] from the [[Georgia's 108th House of Representatives district|108th district]] (2019–present)<ref>{{cite news |last1=Bluestein |first1=Greg |title=Jasmine Clark jumps into race against U.S. Rep. David Scott |url=https://www.ajc.com/politics/2025/06/jasmine-clark-jumps-into-race-against-us-rep-david-scott/ |access-date=June 2, 2025 |work=[[The Atlanta Journal-Constitution]] |date=June 2, 2025 |language=English}}</ref>
+====Eliminated in primary====
+*[[Everton Blair]], former chair of the [[Gwinnett County, Georgia|Gwinnett County]] Board of Education and candidate for [[Georgia Department of Education|superintendent of schools]] in [[2022 Georgia State Superintendent of Schools election|2022]]<ref>{{cite news |last1=Bluestein |first1=Greg |last2=Mitchell |title=Former Gwinnett school board chair jumps in race to challenge 12-term Rep. David Scott |url=https://www.ajc.com/politics/democrat-everton-blair-jumps-in-race-to-challenge-rep-david-scott/25GGX5HTRVFVXPHD73ZIQPADHY/ |access-date=April 16, 2025 |work=[[The Atlanta Journal-Constitution]] |date=April 16, 2025 |language=English}}</ref>
+*Jeff Fauntleroy, ministry and law enforcement<ref name="GA2026"/>
+*[[Emanuel Jones]], [[Georgia State Senate|state senator]] from the [[Georgia's 10th Senate district|10th district]] (2005–present)<ref>{{cite news |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=Emanuel Jones to challenge David Scott for Atlanta-area congressional seat |url=https://www.ajc.com/politics/politically-georgia/emanuel-jones-to-challenge-david-scott-for-atlanta-area-congressional-seat/M2L2IPHXT5DRDBPEWR2VJPVXJM/ |access-date=January 22, 2025 |work=[[The Atlanta Journal-Constitution]] |date=January 22, 2025 |quote=Jones, a Democratic state senator, says he will run for the seat even if the 79-year-old Scott does not retire. |language=English}}</ref>
+*Heavenly Kimes, dentist and ''[[Married to Medicine]]'' cast member<ref>{{cite press release |title=Dr. Heavenly Kimes Announces Candidacy for Congress in GA-13 'We Need More Than Just a Vote. We Need a Voice' |url=https://www.kget.com/business/press-releases/ein-presswire/846066802/dr-heavenly-kimes-announces-candidacy-for-congress-in-ga-13-we-need-more-than-just-a-vote-we-need-a-voice/ |access-date=September 7, 2025 |via=[[KGET]] |date=September 4, 2025 |language=English}}</ref>
+*Joe Lester, dentist<ref name="GA2026"/>
+
+==== Withdrawn ====
+*Jonathan Bonner, project manager<ref>{{Cite web |last= |date=2025-04-30 |title=Jonathan Bonner Announces Candidacy for U.S. Congress, Georgia’s 13th District |url=https://www.fayette-news.net/government/jonathan-bonner-announces-candidacy-for-u-s-congress-georgia-s-13th-district/article_08bce7bd-6079-4006-9990-a73de5d1c1fc.html |access-date=2026-05-19 |website=Fayette County News |language=en}}</ref> ''(running for [[2026 Georgia House of Representatives election#District 68|State House]])''<ref>{{Cite web |last= |first= |date=2026-03-07 |title=Jonathan Bonner Announces Candidacy for Georgia State House District 68, Grounded in Community Service, Data-Driven Policy, and Nonpartisan Leadership {{!}} The Citizen |url=https://thecitizen.com/2026/03/07/jonathan-bonner-announces-candidacy-for-georgia-state-house-district-68-grounded-in-community-service-data-driven-policy-and-nonpartisan-leadership/ |access-date=2026-05-19 |language=en-US}}</ref>
+*Ron McKenzie, business attorney<ref name="dozens">{{cite news |last1=Solender |first1=Andrew |title=Scoop: Dozens of Dem candidates won't commit to backing Jeffries |url=https://www.axios.com/2025/10/16/hakeem-jeffries-speaker-leader-democrats-primary |access-date=October 16, 2025 |date=October 16, 2025 |website=[[Axios (website)|Axios]] |archive-url=https://archive.today/20251016170246/https://www.axios.com/2025/10/16/hakeem-jeffries-speaker-leader-democrats-primary |archive-date=October 16, 2025}}</ref> ''(endorsed Blair)''<ref name="RonMck">{{Cite web|url=https://www.cbsnews.com/atlanta/news/ron-mckenzie-suspends-congressional-campaign-endorses-dr-everton-blair-in-georgias-13th-district-race/|title=Ron McKenzie suspends congressional campaign, endorses Dr. Everton Blair in Georgia's 13th district race - CBS Atlanta|date=February 23, 2026|website=Cbsnews.com|access-date=October 5, 2026}}</ref>
+*[[David Scott (Georgia politician)|David Scott]], former U.S. Representative (2003–2026)<ref name="Scott13"/> ''(died April 22, 2026)''<ref>{{Cite web |title=Georgia U.S. Rep. David Scott has died |url=https://www.ajc.com/politics/2026/04/georgia-us-rep-david-scott-has-died/ |access-date=2026-04-22 |website=ajc |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Everton Blair
+|list=
+;Statewide officials
+*[[Deval Patrick]], former [[governor of Massachusetts]] (2007–2015)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/17/a-ballot-budget-buster-00694630|title=A ballot budget buster|last=Garrity|first=Kelly|date=December 17, 2025|access-date=December 19, 2025|website=[[Politico]]}}</ref>
+
+;Individuals
+*Ron McKenzie, business attorney and former candidate for this seat<ref name="RonMck"/>
+
+;Organizations
+*[[LGBTQ+ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-53-candidates-in-2025-races-mike-simmons-il-09-james-osyf-va-02-and-everton-blair-for-u-s-house/|title=LGBTQ+ Victory Fund Endorses 53 Candidates in 2025 Races, Mike Simmons (IL-09), James Osyf (VA-02), and Everton Blair for U.S. House|website=victoryfund.org|date=September 25, 2025|access-date=September 25, 2025}}</ref>
+* [[Our Revolution]]<ref>{{cite web |title=
+Everton Blair for Congress in GA-13|url=https://ourrevolution.com/everton-blair-for-congress-in-ga-13/|publisher=Our Revolution|access-date=May 9, 2026}}</ref>
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+}}
+
+{{Endorsements box
+|title= Jasmine Clark
+|list=
+;Individuals
+*[[Mary L. Trump|Mary Trump]], niece of [[Donald Trump]] and sister of [[Fred Trump III]]<ref name="Vindman"/>
+*[[Alex Vindman]], retired [[U.S. Army|Army]] Col. and witness in the [[first impeachment of Donald Trump]] and candidate for the [[2026 United States Senate special election in Florida|2026 U.S. Senate]]<ref name="Vindman">{{cite web |title=At the Races: A reprieve for Republicans? |url=https://rollcall.com/2026/04/30/at-the-races-a-reprieve-for-republicans/ |website=Roll Call |access-date=2 May 2026 |date=April 30, 2026}}</ref>
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |last1=Kauffman |first1=Tim |title=Largest Federal Employee Union Endorses Georgia’s Jasmine Clark for Election to U.S. House |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-georgias-jasmine-clark-for-election-to-us-house |website=AFGE |access-date=August 19, 2026 |date=August 18, 2026}}</ref>
+;Organizations
+*[[314 Action]]<ref>{{cite web |url=https://314action.org/2026/04/07/314-action-endorses-dr-jasmine-clark-for-georgias-13th-congressional-district/ |title=314 Action Endorses Dr. Jasmine Clark for Georgia’s 13th Congressional District |website=314action.org |date=April 7, 2026 |access-date=April 8, 2026}}</ref>
+*[[Indivisible movement|Indivisible]]<ref>{{cite news |last1=Howard |first1=Andrew |title=The big ads from the big game |url=https://www.politico.com/newsletters/weekly-score/2026/02/09/the-big-ads-from-the-big-game-00770981 |access-date=February 9, 2026 |work=[[Politico]] |date=February 9, 2026 |language=en}}</ref>
+*[[J Street PAC]]<ref>{{cite web |title=Jasmine Clark |url=https://jstreetpac.org/candidate/jasmine-clark/ |website=J Street PAC |access-date=18 May 2026}}</ref>
+*[[MoveOn]]<ref>{{cite web|title=MoveOn Endorses Dr. Jasmine Clark|url=https://front.moveon.org/endorsements/candidates/dr-jasmine-clark/|access-date=June 6, 2026}}</ref>
+*[[Planned Parenthood Action Fund]] (since June)<ref name="PPAF"/>
+*[[Vote Mama]]<ref>{{cite web |title=Candidates |url=https://www.votemamapac.org/candidates |website=Vote Mama PAC |access-date=26 November 2025}}</ref>
+}}
+
+{{Endorsements box
+|title=Emanuel Jones
+|list=
+;Federal officials
+*[[Andrew Young]], former [[United States ambassador to the United Nations|U.S. ambassador to the UN]] (1977–1979) and former [[mayor of Atlanta]] (1982–1990)<ref name="Vindman"/>
+}}
+
+{{Endorsements box
+|title=Heavenly Kimes
+|list=
+;State legislators
+*[[Donna McLeod]], former [[Georgia House of Representatives|state representative]] from the [[Georgia's 105th House of Representatives district|105th district]] (2019–2023)<ref>{{cite web |title=Reality TV star says she’s serious about her run for Congress |url=https://www.ajc.com/politics/2026/02/reality-tv-star-says-shes-serious-about-her-run-for-congress/ |website=AJC |access-date=26 February 2026 |language=en}}</ref>
+
+;Local officials
+*[[Fani Willis]], [[Fulton County, Georgia|Fulton County]] district attorney (2021–present)<ref name="Vindman"/>
+
+;Individuals
+*[[Kandi Burruss]], singer-songwriter<ref name="JasB">{{cite web |last1=McDaniel |first1=Twila-Amoure |title=Married To Medicine's Dr. Heavenly Kimes Thanks Kandi Burruss For Endorsing Her Congressional Run Amid Pushback From Fellow Bravo Stars |url=https://thejasminebrand.com/2026/02/25/married-to-medicines-dr-heavenly-kimes-thanks-kandi-burruss-for-endorsing-her-congressional-run-amid-pushback-from-fellow-bravo-stars/ |website=theJasmineBRAND |access-date=26 February 2026 |date=25 February 2026}}</ref>
+*[[Ben Crump]], civil rights attorney<ref name="Vindman"/>
+*[[Knowa De Baraso]], political commentator and social media personality<ref>{{cite web |title=Instagram endorsement post |url=https://www.google.com/goto?url=CAESaQHrOzAVHrI90Sy58EZA47Bm4LMU5pPQtShfBNYbw0VUJ2pehMJQBi4c4-AAnX7Vq2JYnRH_quldFECcuwwIYlp5S8pG-HNzHUTRm1IKINrLHw1UHnKUZy8W2teq8HnGNK05fYeLB-xyfg |website=Instagram}}</ref>
+}}
+
+{{Endorsements box|title=David Scott ''(deceased)''|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+*[[United Auto Workers]]<ref name="UAW"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Democratic Majority for Israel]]<ref name="DMFI"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Everton Blair (D)
+|$644,025
+|$486,993
+|$157,032
+|-
+|{{party shading/Democratic}}|Jonathan Bonner (D){{Efn|As last reported on June 30, 2025}}
+|$8,303
+|$7,800
+|$503
+|-
+|{{party shading/Democratic}}|Jasmine Clark (D)
+|$1,072,632
+|$590,234
+|$482,398
+|-
+|{{party shading/Democratic}}|Jeff Fauntleroy (D)
+|$24,155{{Efn|$20,000 of this total was self-funded by Fauntleroy}}
+|$16,198
+|$0
+|-
+| {{party shading/Democratic}} |Emanuel Jones (D)
+|$385,572{{Efn|$145,500 of this total was self-funded by Jones}}
+|$206,455
+|$179,116
+|-
+| {{party shading/Democratic}} |Heavenly Kimes (D)
+|$536,733{{Efn|$250,000 of this total was self-funded by Kimes}}
+|$394,285
+|$142,447
+|-
+| {{party shading/Democratic}} |Joe Lester (D)
+|$40,409
+|$38,420
+|$1,989
+|-
+| {{party shading/Democratic}} |''Ron McKenzie (D)''
+|$47,355
+|$47,301
+|$53
+|-
+| {{party shading/Democratic}} |Carlos Moore (D)
+|$105,381
+|$52,539
+|$0
+|-
+| {{party shading/Democratic}} |David Scott (D){{Efn|Deceased}}
+|$515,601{{Efn|$173,291 of this total was self-funded by Scott}}
+|$519,010
+|$171,115
+|-
+| {{party shading/Democratic}} |Pierre Whatley (D)
+|$65,888
+|$62,528
+|$3,359
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC13">{{cite web |title=2026 Election United States House - Georgia 13th |url=https://www.fec.gov/data/elections/house/GA/13/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 25, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name=Key|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br/>of error
+! style="width:60px"| Everton<br/>Blair
+! style="width:60px"| Jasmine<br/>Clark
+! style="width:60px"| Emanuel<br/>Jones
+! style="width:60px"| Heavenly<br/>Kimes
+! style="width:60px"| David<br/>Scott
+! Other
+! Undecided
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | April 22, 2026
+| colspan="11"| David Scott dies
+|-
+|style="text-align:left;"|Z to A Research (D)<ref>{{cite tweet|user=nicholaswu12|first=Nicholas|last=Wu|number=2034228822665527761|title=GA-13 primary poll has incumbent Rep. David Scott statistically tied with Jasmine Clark, 12% undecided|access-date=March 18, 2026}}</ref>{{efn-ua|name=Clark|Poll sponsored by Clark's campaign}}
+|March 10–13, 2026
+|522 (LV)
+|±&nbsp;4.3%
+|6%
+|{{party shading/Democratic}} |'''30%'''
+|8%
+|10%
+|{{party shading/Democratic}} |'''31%'''
+|2%{{efn|Jeff Fauntleroy and Joe Lester with 1%}}
+|13%
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Jasmine Clark]]
+| party = Democratic Party (United States)
+| votes = 61,504
+| percentage = 56.1
+}}
+{{Election box candidate with party link no change
+| candidate = Heavenly Kimes
+| party = Democratic Party (United States)
+| votes = 23,537
+| percentage = 21.5
+}}
+{{Election box candidate with party link no change
+| candidate = [[Everton Blair]]
+| party = Democratic Party (United States)
+| votes = 12,733
+| percentage = 11.6
+}}
+{{Election box candidate with party link no change
+| candidate = [[Emanuel Jones]]
+| party = Democratic Party (United States)
+| votes = 8,204
+| percentage = 7.5
+}}
+{{Election box candidate with party link no change
+| candidate = Joe Lester
+| party = Democratic Party (United States)
+| votes = 2,046
+| percentage = 1.9
+}}
+{{Election box candidate with party link no change
+| candidate = Jeff Fauntleroy
+| party = Democratic Party (United States)
+| votes = 1,557
+| percentage = 1.4
+}}
+{{Election box total no change
+| votes = 109,581
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Jonathan Chavez, former chairman of the [[Rockdale County, Georgia|Rockdale County]] Republican Party<ref name="GA2026"/>
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Jonathan Chavez
+| party = Republican Party (United States)
+| votes = 25,547
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 25,547
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Candidates====
+=====Declined=====
+*Marcye Scott, computer consultant, daughter of former representative [[David Scott (Georgia politician)|David Scott]], and Democratic candidate for this seat in the [[2026 Georgia's 13th congressional district special election|July-August special election]] ''(Democratic)''<ref>{{Cite web |last=Darnell |first=Tim |date=2026-05-14 |title=6 candidates qualify to replace late Rep. David Scott in Congress |url=https://www.wrdw.com/2026/05/14/6-candidates-qualify-replace-late-rep-david-scott-congress/ |access-date=2026-05-21 |website=WRDW/WAGT |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Jasmine Clark (D)
+|list=
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=Jasmine Clark |url=https://giffords.org/candidates/jasmine-clark/ |website=Giffords |access-date=September 3, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref name="RFFAGeneral"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Jasmine Clark (D)
+|$2,386,955
+|$2,043,223
+|$343,732
+|-
+|{{party shading/Republican}}| Jonathan Chavez (R)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC13"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 13th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jasmine Clark]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Jonathan Chavez
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 14==
+{{Infobox election
+| election_name = 2026 Georgia' 14th congressional district election
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2026 Georgia's 14th congressional district special election
+| previous_year = Mar–Apr 2026 (special)
+| next_election = 2028 United States House of Representatives elections in Georgia#District 13
+| next_year = 2028
+| image1 = File:Clay Fuller official congressional photograph 119th congress.jpg
+| nominee1 = [[Clay Fuller]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Shawn Harris.jpg
+| nominee2 = Shawn Harris 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Georgia's 14th congressional district election results map by county.svg|150px]]
+|County results
+}}-->
+| map_caption =
+| title = Representative
+| before_election = [[Clay Fuller]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Georgia's 14th congressional district}}
+The 14th district is based in the northwest corner of the state. Republican [[Marjorie Taylor Greene]] was re-elected with 64.4% of the vote in 2024,<ref name="HPVT"/> but she resigned on January 5, 2026. 
+
+A [[2026 Georgia's 14th congressional district special election|special election]] was held with district attorney [[Clay Fuller]] winning the election in a runoff and serving the remainder of the term.<ref>{{Cite web |date=2026-04-07|title=2026 Georgia U.S. House Nonpartisan Special Runoff Election Election Live Results|url=https://apnews.com/projects/elections-2026/georgia-special-general-runoff-results-us-house-district-14/|access-date=2026-04-08|website=AP News|language=en}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Clay Fuller]], incumbent U.S. Representative<ref name="GA2026"/>
+====Eliminated in primary====
+*Star Black, former [[Federal Emergency Management Agency]] official<ref name="GA2026"/>
+*Reagan Box, horse trainer<ref name="GA2026"/>
+*Timothy Brown, risk engineer<ref name="GA2026"/>
+*Tom Gray, pastor and candidate for [[Georgia's 36th House of Representatives district]] in [[2018 Georgia House of Representatives election|2018]]<ref name="GA2026"/>
+*Nicky Lama, [[Dalton, Georgia|Dalton]] city councilmember<ref name="GA2026"/>
+*[[Colton Moore]], [[Georgia State Senate|state senator]] from the [[Georgia's 53rd Senate district|53rd district]] (2023–2026)<ref name="GA2026"/>
+*Brian Stover, former [[Paulding County, Georgia|Paulding County]] commissioner<ref name="GA2026"/>
+
+====Withdrawn====
+*Eric Cunningham, sales executive and candidate for this district in [[2022 United States House of Representatives elections in Georgia#District 14|2022]]<ref name="GA2026"/>
+*[[Marjorie Taylor Greene]], former U.S. representative<ref>{{cite news|title=Georgia Republican Marjorie Taylor Greene won't run for governor in 2026|url=https://apnews.com/article/marjorie-taylor-greene-republican-governor-georgia-3afd2ed330a227c42710ae664a12cf6a |access-date=July 29, 2025 |work=[[Associated Press]] |author=Amy, Jeff |date=July 29, 2025 |language=en}}</ref>
+*Jim Tully, congressional staffer and chairman of the 14th District Republican Party<ref name="GA2026"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Marjorie Taylor Greene
+|list=
+;Executive branch officials
+*<s>[[Donald Trump]], [[List of presidents of the United States|45th and 47th]] [[president of the United States]] (2017–2021, 2025–present)</s> ''(endorsement rescinded)''{{efn|Trump withdrew his endorsement of Greene after she criticized his handling of the [[Epstein files]], [[Tariffs in the second Trump administration|tariffs]], and [[Foreign policy of the second Trump administration|foreign policy]].<ref name="TrumpWithdraw">{{cite web|url=https://www.reuters.com/world/us/trump-withdraws-support-marjorie-taylor-greene-2025-11-15/|title=Trump withdraws support for Marjorie Taylor Greene|date=November 14, 2025|access-date=November 14, 2025|website=[[Reuters]]}}</ref>}}<ref name="TrumpWithdraw"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Star Black (R)
+|$84,346
+|$29,203
+|$55,142
+|-
+|{{party shading/Republican}}|Reagan Box (R)
+|$82,041
+|$90,345
+|$0
+|-
+|{{party shading/Republican}}|James Brown (R)
+|$9,879
+|$3,600
+|$1,492
+|-
+|{{party shading/Republican}}|Timothy Brown (R)
+|$13,050
+|$6,837
+|$6,212
+|-
+| {{party shading/Republican}} |Jared Craig (R)
+|$21,000
+|$20,905
+|$94
+|-
+| {{party shading/Republican}} |Jefferson Criswell (R)
+|$2,505
+|$2,505
+|$0
+|-
+|{{party shading/Republican}}|''Eric Cunningham (R)''
+|$16,075
+|$16,075
+|$0
+|-
+| {{party shading/Republican}} |Clay Fuller (R)
+|$1,436,947
+|$1,291,573
+|$145,373
+|-
+| {{party shading/Republican}} |Tom Gray (R)
+|$327,582
+|$323,451
+|$4,131
+|-
+|{{party shading/Republican}}|Christian Hurd (R)
+|$21,563
+|$21,563
+|$0
+|-
+| {{party shading/Republican}} |Nicky Lama (R)
+|$380,341
+|$358,991
+|$21,349
+|-
+| {{party shading/Republican}} |Colton Moore (R)
+|$439,776
+|$413,209
+|$26,567
+|-
+|{{party shading/Republican}}|Linvel Risner (R)
+|$1,930
+|$1,325
+|$605
+|-
+|{{party shading/Republican}}|Brian Stover (R)
+|$1,119,341
+|$1,116,423
+|$2,917
+|-
+| {{party shading/Republican}} |Megahn Strickland (R)
+|$14,580
+|$2,684
+|$0
+|-
+| {{party shading/Republican}} |''Jim Tully (R)''
+|$68,505
+|$68,505
+|$0
+|-
+| {{party shading/Republican}} |Jenna Turnipseed (R)
+|$15,425
+|$13,345
+|$2,080
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC14">{{cite web |title=2026 Election United States House - Georgia 14th |url=https://www.fec.gov/data/elections/house/GA/14/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 14, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Clay Fuller]] (incumbent)
+| party = Republican Party (United States)
+| votes = 66,888
+| percentage = 81.3
+}}
+{{Election box candidate with party link no change
+| candidate = [[Colton Moore]]
+| party = Republican Party (United States)
+| votes = 5,508
+| percentage = 6.7
+}}
+{{Election box candidate with party link no change
+| candidate = Brian Stover
+| party = Republican Party (United States)
+| votes = 3,191
+| percentage = 3.9
+}}
+{{Election box candidate with party link no change
+| candidate = Tom Gray
+| party = Republican Party (United States)
+| votes = 2,044
+| percentage = 2.5
+}}
+{{Election box candidate with party link no change
+| candidate = Timothy Brown
+| party = Republican Party (United States)
+| votes = 1,489
+| percentage = 1.8
+}}
+{{Election box candidate with party link no change
+| candidate = Star Black
+| party = Republican Party (United States)
+| votes = 1,406
+| percentage = 1.7
+}}
+{{Election box candidate with party link no change
+| candidate = Nicky Lama
+| party = Republican Party (United States)
+| votes = 1,220
+| percentage = 1.5
+}}
+{{Election box candidate with party link no change
+| candidate = Reagan Box
+| party = Republican Party (United States)
+| votes = 560
+| percentage = 0.7
+}}
+{{Election box total no change
+| votes = 82,306
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Shawn Harris, cattleman, retired [[brigadier general (United States)|brigadier general]], and nominee for this district in [[2024 United States House of Representatives elections in Georgia#District 14|2024]]<ref>{{cite news|last=Chidi|first=George|date=December 30, 2025|title=Shawn Harris was ready to defeat Marjorie Taylor Greene. Now he awaits Republicans' next move|newspaper=[[The Guardian]]|url=https://www.theguardian.com/us-news/2025/dec/30/shawn-harris-marjorie-taylor-green-georgia|access-date=December 30, 2025}}</ref>
+
+====Withdrawn====
+*Clarence Blalock, [[GIS]] contractor and candidate for this district in [[2024 United States House of Representatives elections in Georgia#District 14|2024]] ''([[2026 Georgia Labor Commissioner election|running for Labor Commissioner]], endorsed Harris)''<ref>{{cite news |work=[[Rome News-Tribune]] |access-date=July 23, 2025 |url=https://www.northwestgeorgianews.com/nw-gas-u-s-house-district-14-race-taking-shape/article_a2293cf1-3991-424e-8797-9861f6a0ccad.html |date=July 20, 2025 |title=NW Ga's U.S. House District 14 race taking shape |last1=Wagner |first1=Diane |quote=Blalock, of Hiram, is also taking a second shot at the seat and is the only other announced Democrat so far.}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Shawn Harris
+|list=
+;Labor unions
+*[[AFL-CIO|Georgia AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |''Clarence Blalock (D)''
+|$17,356
+|$16,690
+|$0
+|-
+| {{party shading/Democratic}} |Shawn Harris (D)
+|$7,163,864
+|$6,921,018
+|$242,845
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC14"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Shawn Harris
+| party = Democratic Party (United States)
+| votes = 43,067
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 43,067
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian party===
+====Disqualified====
+*Andrew Underwood, candidate for [[Georgia's 2nd House of Representatives district]] in [[2022 Georgia House of Representatives election|2022]] and for this district in the [[2026 Georgia's 14th congressional district special election|2026 special election]]<ref name="GA2026"/>
+
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Libertarian}}| Andrew Underwood (L)
+|$2,987
+|$2,712
+|$275
+|}
+
+=== Independent ===
+==== Withdrawn ====
+* Rob Ruszkowski, small business owner<ref name="sp26"/>
+
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of October 14, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Independent}}|Rob Ruszkowski (I)
+|$9,703
+|$9,491
+|$213
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+<!--==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}-->
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Clay Fuller (R)
+|$2,160,464
+|$1,956,150
+|$204,314
+|-
+|{{party shading/Democratic}}| Shawn Harris (D)
+|$8,418,045
+|$8,358,733
+|$59,313
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC14"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Georgia's 14th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Clay Fuller]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Shawn Harris
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+*[https://www.amandaforga.com/ Amanda Hollowell (D)]
+*[https://www.jimkingston.org/ Jim Kingston (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://sanfordbishop.com/ Sanford Bishop (D)]
+*[https://www.votemattday.com/ Matt Day (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://brianjack.com/ Brian Jack (R)]
+*[https://maurakeller.com/ Maura Keller (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://jimduffie.com/ James Duffie (R)]
+*[https://hankforcongress.com/ Hank Johnson (D)]
+
+;Official campaign websites for 5th district candidates
+*[https://www.bongo4congress.com/ John Salvesen (R)]
+*[https://www.nikemaforcongress.com/ Nikema Williams (D)]
+
+;Official campaign websites for 6th district candidates
+*[https://kevinmartinforcongress.com/ Kevin Martin (R)]
+*[https://lucyforcongress.com/ Lucy McBath (D)]
+
+;Official campaign websites for 7th district candidates
+*[https://kozyckiforcongress.com/ Tony Kozycki (D)]
+*[https://www.richmccormick.us/ Rich McCormick (R)]
+
+;Official campaign websites for 8th district candidates
+*[https://www.kellyesti4congress.com/ Kelly Esti (D)]
+*[https://www.scottforga.com/ Austin Scott (R)]
+
+;Official campaign websites for 9th district candidates
+*[https://www.clyde4congress.com/ Andrew Clyde (R)]
+*[https://www.caitlynforgeorgia.com/ Caitlyn Gegen (D)]
+
+;Official campaign websites for 10th district candidates
+*[https://www.votepamdelancy.com/ Pamela DeLancy (D)]
+*[https://houstongaines.com/ Houston Gaines (R)]
+
+;Official campaign websites for 11th district candidates
+*[https://www.cowanforcongress.com/ John Cowan (R)]
+*[https://www.chrishardenforcongress.com/ Chris Harden (D)]
+*[https://www.richozforcongress.com/ Natalie Richoz (I)]
+
+;Official campaign websites for 12th district candidates
+*[https://rickwallen.com/ Rick Allen (R)]
+*[https://cerettaforgeorgia.com/ Ceretta Smith (D)]
+
+;Official campaign websites for 13th district candidates
+*[https://jonathanchavezforcongress.com/ Jonathan Chavez (R)]
+*[https://jasmine4ga.com/ Jasmine Clark (D)]
+
+;Official campaign websites for 14th district candidates
+*[https://clayfullerforgeorgia.com/ Clay Fuller (R)]
+*[https://www.shawnforgeorgia.com/ Shawn Harris (D)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Georgia (U.S. state)|2024]]
+[[Category:2026 elections in Georgia (U.S. state)|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Georgia]]

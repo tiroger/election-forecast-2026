@@ -1,0 +1,601 @@
+{{Short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Wyoming House of Representatives election}}
+{{Use American English|date=February 2026}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=March 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives election in Wyoming's at-large district
+| country = Wyoming
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives election in Wyoming
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives election in Wyoming
+| next_year = 2028
+| turnout =
+| 1blank = First<br>round
+| 2blank = [[Instant-runoff voting|Maximum<br>round]]
+| image_size = x150px
+| image1 = File:Chuck_Gray_in_2025_(cropped).jpg
+| nominee1 = [[Chuck Gray (Wyoming politician)|Chuck Gray]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| 1data1 =
+| 2data1 =
+| image2 = 3x4.svg
+| nominee2 = [[Lisa Kinney]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| 1data2 =
+| 2data2 =
+| map_image =
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Harriet Hageman]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+{{ElectionsWY}}
+
+The '''2026 United States House of Representatives election in Wyoming''' is scheduled to be held on November 3, 2026, to elect the [[United States House of Representatives|U.S. representative]] for {{ushr|WY|AL}}. The election will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections happened on August 18, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+* [[Chuck Gray (Wyoming politician)|Chuck Gray]], [[Wyoming Secretary of State]] (2023–present) and candidate for this seat in [[2022 United States House of Representatives election in Wyoming|2022]]<ref>{{cite web|last=McFarland|first=Claire|title= Chuck Gray Announces Run For Wyoming's U.S. House Seat|url= https://cowboystatedaily.com/2025/12/29/chuck-gray-announces-run-for-wyomings-u-s-house-seat/|access-date=December 29, 2025|work=Cowboy State Daily|date=December 29, 2025}}</ref>
+
+====Eliminated in primary====
+* [[Jillian Balow]], former [[Virginia Superintendent of Public Instruction]] (2022–2023) and [[Wyoming Superintendent of Public Instruction]] (2015–2022)<ref>{{cite news |title=Gillette native Jillian Balow announces run for US Congress |url=https://capcity.news/latest-news/2026/01/13/gillette-native-jillian-balow-announces-run-for-u-s-congress/ |access-date=January 13, 2026 |work=Cap City News |date=January 13, 2026}}</ref>
+* [[Bo Biteman]], president of the [[Wyoming Senate]] (2025–present) from the [[Wyoming's 21st State Senate district|21st district]] (2019–present)<ref>{{Cite web |title=Wyoming State Senate President Bo Biteman Announces Candidacy For U.S. House |url=https://cowboystatedaily.com/2026/03/12/bo-biteman-announces-candidacy-for-u-s-house/ |access-date=2026-03-13 |website=Cowboy State Daily |language=en}}</ref>
+* Kevin Christensen, military veteran<ref>{{cite news |title=Casper native Kevin Christensen announces run for Wyoming's U.S. House of Representatives seat |url=https://oilcity.news/politics/2026/03/09/casper-native-kevin-christensen-announces-run-for-wyomings-u-s-house-of-representatives-seat/ |access-date=March 9, 2026 |work=Oil City News |date=March 9, 2026}}</ref>
+* Richard Dodson, military veteran, entrepreneur<ref name=":0">{{cite web |title=Primary Election Candidate Roster |url=https://sos.wyo.gov/Elections/Docs/2026/2026_WY_Primary_Election_Candidates.pdf |access-date=2026-06-01 |website=sos.wyo.gov}}</ref>
+* Steve Friess, conservative activist and son of [[Foster Friess]]<ref>{{Cite web |title=Conservative Activist Steve Friess, Son Of Foster, Runs For Wyoming U.S. House Seat |url=https://cowboystatedaily.com/2026/04/02/conservative-activist-steve-friess-son-of-foster-running-for-wyoming-u-s-house-seat/ |last=McFarland |first=Clair |date=April 2, 2026|access-date=April 2, 2026 |website=Cowboy State Daily |language=en}}</ref>
+* David Giralt, policy advisor to U.S. Senator [[Cynthia Lummis]]<ref>{{cite news |last1=Byrd |first1=Klark |title=Casper veteran David Giralt joins race for Wyoming U.S. House seat |url=https://county17.com/2026/02/27/casper-veteran-david-giralt-joins-race-for-wyoming-u-s-house-seat/ |access-date=February 27, 2026 |work=County 17 |date=February 27, 2026}}</ref>
+* [[Keith Goodenough]], former Democratic state senator (1995–2005), former [[Casper, Wyoming|Casper]] city councilor (2006–2014), and candidate for U.S. Senate in [[2008 United States Senate special election in Wyoming|2008]]<ref name=":0" />
+* Reid Rasner, businessman and candidate for [[U.S. Senate]] in [[2024 United States Senate election in Wyoming|2024]]<ref>{{cite news |last1=Byrd |first1=Klark |title=Reid Rasner to take on Secretary of State Chuck Gray for Rep. Hageman's House seat |url=https://oilcity.news/community/election/2026/01/07/reid-rasner-to-take-on-secretary-of-state-chuck-gray-for-rep-hagemans-house-seat/ |access-date=January 7, 2026 |work=Oil City News |date=January 7, 2026}}</ref>
+* [[John Romero-Martinez]], former [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 44th House of Representatives district|44th district]] (2021–2023)<ref>{{Cite web |last=Byrd |first=Klark |date=2026-03-26 |title=Former legislator John Romero-Martinez joins race for Wyoming's US House seat |url=https://capcity.news/community/elections/2026/03/26/former-legislator-john-romero-martinez-joins-race-for-wyomings-us-house-seat/ |access-date=2026-04-04 |website=Cap City News |language=en-US}}</ref>
+
+====Withdrawn====
+* Frank Chapman, entrepreneur, rancher ''(remained on ballot)''<ref>{{cite news |last1=Ouellet |first1=Nicky |title=A seventh Republican will vie for Wyoming's lone U.S. House seat |url=https://www.wyomingpublicmedia.org/politics-government/2026-03-27/a-seventh-republican-will-vie-for-wyomings-lone-u-s-house-seat |access-date=April 5, 2026 |work=[[Wyoming Public Radio]] |date=March 27, 2026}}</ref><ref>{{Cite web |last=Eagle |first=Noah Zahn Wyoming Tribune |date=2026-07-23 |title=Moran rancher Frank Chapman withdraws from U.S. House race |url=https://www.wyomingnews.com/news/local_news/moran-rancher-frank-chapman-withdraws-from-u-s-house-race/article_7f6383c1-b086-48cc-9fce-51b32242ce94.html |access-date=2026-08-01 |website=Wyoming Tribune Eagle |language=en}}</ref>
+
+====Declined====
+* [[Harriet Hageman]], incumbent U.S. representative ''(running for [[2026 United States Senate election in Wyoming|U.S. Senate]])''<ref>{{cite web |last1=Steinhauser |first1=Paul |title=Scoop: Trump ally who ousted Cheney launches Senate bid keep GOP seat in Republican hands |url=https://www.foxnews.com/politics/scoop-trump-ally-harriet-hageman-who-ousted-cheney-launches-senate-bid-keep-gop-seat-republican-hands |access-date=December 23, 2025 |work=[[Fox News]] |date=December 23, 2025}}</ref>
+* [[Chip Neiman]], [[speaker of the Wyoming House of Representatives]] (2025–present) from the [[Wyoming's 1st House of Representatives district|1st district]] (2021–present) ''([[2026 Wyoming Senate election|ran for state senate]], endorsed Gray)''<ref>{{cite web|url=https://www.sundancetimes.com/story/2026/04/09/news/house-speaker-chip-neiman-announces-candidacy-for-wyoming-senate/12349.html|title=House Speaker Chip Neiman announces candidacy for Wyoming Senate|date=April 9, 2026|access-date=August 19, 2026}}</ref><ref>{{Cite web |last=Nir |first=David |date=2026-03-19 |title=Morning Digest: Nevada's top Republican is trying to thwart far-right throwbacks |url=https://www.the-downballot.com/p/morning-digest-nevadas-top-republican |access-date=2026-03-23 |website=The Downballot |language=en}}</ref>
+
+===Endorsements===
+{{endorsements box
+|title = Steve Friess
+|list = 
+;Statewide officials
+*[[Jim Geringer]], 30th [[governor of Wyoming]] (1995–2003)<ref name="Friess19">{{cite web |last1=McFarland |first1=Clair |title=Friess Gets 19 High Profile Endorsements, Gray Calls Them Tired Political 'Insiders' |url=https://cowboystatedaily.com/2026/07/30/friess-gets-19-endorsers-gray-calls-them-tired-political-insiders/ |website=Cowboy State Daily |access-date=12 August 2026 |date=July 30, 2026}}</ref>
+*[[Rita Meyer]], former [[Wyoming State Auditor]] (2007–2011)<ref name="Friess19" />
+
+;State legislators
+*[[Eli Bebout]], former President of the [[Wyoming Senate]] (2017–2019) from the [[Wyoming's 26th State Senate district|26th district]] (2007–2021)<ref name="Friess19" />
+*[[Dan Dockstader]], former President of the [[Wyoming Senate]] (2021–2023) from the [[Wyoming's 16th State Senate district|16th district]] (2009–present)<ref name="Friess19" />
+*[[Dave Kinskey]], former Vice President of the [[Wyoming Senate]] (2023–2025) from the [[Wyoming's 22nd State Senate district|22nd district]] (2014–2025)<ref name="Friess19" />
+*[[Diemer True]], former President of the [[Wyoming Senate]] (1991–1993) from the [[Wyoming's 18th State Senate district|18th district]] (1977–1993)<ref name="Friess19" />
+*[[Brian Boner]], [[Wyoming Senate|state senator]] from the [[Wyoming's 2nd State Senate district|2nd district]] (2015–present)<ref name="Friess19" />
+*[[Jared Olsen]], [[Wyoming Senate|state senator]] from the [[Wyoming's 8th State Senate district|8th district]] (2025–present)<ref name="Friess19" />
+*[[Donald Burkhart|Don Burkhart]], former Speaker pro tempore of the [[Wyoming House of Representatives]] (2017–2019) from the [[Wyoming's 15th House of Representatives district|15th district]] (2011–2025)<ref name="Friess19" />
+*[[Wyoming's 36th House of Representatives district#List of members representing the district|Bruce Hinchey]], former [[speaker of the Wyoming House of Representatives]] (1997–1998) from the [[Wyoming's 36th House of Representatives district|36th district]] (1989–1999) and [[Wyoming Senate|state senator]] from the [[Wyoming's 27th State Senate district|27th district]] (1999–2002)<ref name="Friess19" />
+*[[Tom Lubnau]], former [[speaker of the Wyoming House of Representatives]] (2013–2015) from the [[Wyoming's 31st House of Representatives district|31st district]] (2004–2015)<ref name="Lubnau">{{cite web |last1=Lubnau |first1=Tom |title=Tom Lubnau: Why You Should Consider Steve Friess For U.S. House |url=https://cowboystatedaily.com/2026/08/05/tom-lubnau-why-you-should-consider-steve-friess-for-u-s-house/ |website=Cowboy State Daily |access-date=12 August 2026 |date=August 5, 2026}}</ref>
+*[[Rosie Berger]], former [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 51st House of Representatives district|51st district]] (2003–2017)<ref name="Friess19" />
+*[[Harlan Edmonds]], former [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 12th House of Representatives district|12th district]] (2015–2016)<ref name="Friess19" />
+*[[Jamie Flitner]], former [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 26th House of Representatives district|26th district]] (2017–2023)<ref name="Friess19" />
+*[[Ron Micheli]], former [[Wyoming House of Representatives|state representative]] (1977–1992)<ref name="Friess19" />
+}}
+
+{{endorsements box
+|title = David Giralt
+|list = 
+;Executive branch officials
+*[[Ryan Zinke]], former [[United States secretary of the interior|secretary of the interior]] (2017–2019) and [[United States House of Representatives|U.S. representative]] from [[Montana's 1st congressional district|MT-01]] (2015–2017, 2023–present)<ref name="Giralt6">{{cite web |last1=McFarland |first1=Clair |title=Another Day, Another Huge Endorsement For U.S. House Candidate David Giralt |url=https://cowboystatedaily.com/2026/07/09/another-day-another-huge-endorsement-for-u-s-house-candidate-david-giralt/ |website=Cowboy State Daily |access-date=12 August 2026 |date=July 9, 2026}}</ref>
+
+;U.S. representatives
+*[[Jack Bergman]], [[MI-01]] (2017–present)<ref name="Giralt6" />
+*[[Jake Ellzey]], [[TX-06]] (2021–present)<ref name="Giralt6" />
+*[[Rich McCormick]], [[GA-07]] (2023–present)<ref name="Giralt6" />
+*[[Mike Rogers (Alabama politician)|Mike Rogers]], [[AL-03]] (2003-present)<ref name="Giralt6" />
+*[[Pete Stauber]], [[MN-08]] (2019–present)<ref name="Giralt6" />
+
+;Individuals
+*[[Ted Nugent]], musician<ref name="Giralt6" />
+
+;Organizations
+*[[With Honor Fund]]<ref name="With Honor">{{cite web |title=Endorsed Candidates |url=https://withhonorfundiii.org/endorsements/ |website=With Honor Fund |access-date=12 August 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Chuck Gray
+| list =
+;State legislators
+*[[Chip Neiman]], [[speaker of the Wyoming House of Representatives]] (2025–present) from the [[Wyoming's 1st House of Representatives district|1st district]] (2021–present)<ref>{{cite web |title=House Speaker Neiman endorses Chuck Gray for U.S. House seat |url=https://www.wyomingnews.com/news/local_news/house-speaker-neiman-endorses-chuck-gray-for-u-s-house-seat/article_9f86e215-3e70-4e93-b057-93252859a502.html |website=Wyoming Tribune Eagle |access-date=11 March 2026 |language=en |date=10 March 2026}}</ref>
+*[[Tony Locke (politician)|Tony Locke]], [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 35th House of Representatives district|35th district]] (2023–present)<ref name="Stock">{{cite web |last1=McFarland |first1=Clair |title=As 2026 Election Heats Up, Wyoming Political Candidates Stockpiling Endorsements |url=https://cowboystatedaily.com/2026/03/17/some-wyoming-statewide-candidates-stockpiling-endorsements/ |website=Cowboy State Daily |access-date=12 August 2026 |date=March 12, 2026}}</ref>
+*[[Ann Lucas]], [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 43rd House of Representatives district|43rd district]] (2025–present)<ref>{{cite web |last1=Randall |first1=Doug |title=Rep. Ann Lucas Endorses Chuck Gray In Wyoming Congressional Race |url=https://kgab.com/wyoming-congressional-campaign/ |access-date=March 5, 2026 |work=[[KGAB]] |date=March 5, 2026}}</ref>
+*[[Laura Pearson]], [[Wyoming State Senate|state senator]] from the [[Wyoming's 14th State Senate district|14th district]] (2025–present)<ref name="Stock" />
+*[[Ken Pendergraft]], [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 29th House of Representatives district|29th district]] (2023–present)<ref name="Stock" />
+*[[Tomi Strock]], [[Wyoming House of Representatives|state representative]] from the [[Wyoming's 6th House of Representatives district|6th district]] (2023–present)<ref name="Stock" />
+
+;Organizations
+*[[Wyoming Freedom Caucus]]<ref name="WFC">{{cite web |last1=McFarland |first1=Clair |title=U.S. House Candidate Reid Rasner Calls For Defeat Of "Freedom Caucus Losers" |url=https://cowboystatedaily.com/2026/08/11/rasner-and-biteman-take-aim-again-at-these-so-called-freedom-caucus-losers/ |website=Cowboy State Daily |access-date=12 August 2026 |date=August 11, 2026}}</ref>
+
+;State Parties
+*[[Wyoming Republican Party]]<ref> https://cowboystatedaily.com/2026/07/20/wyoming-gop-endorses-brent-bien-chuck-gray-and-harriet-hageman/</ref>
+}}
+
+''Italics'' indicate a withdrawn candidate
+
+=== Fundraising ===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Jillian Balow (R)
+|$180,501{{Efn|$125,000 was self funded}}
+|$75,538
+|$104,963
+|-
+| {{party shading/Republican}} |Dennis Biteman (R)
+|$115,130
+|$86,533
+|$28,597
+|-
+| {{party shading/Republican}} |Kevin Christensen (R)
+|$35,952
+|$26,219
+|$9,732
+|-
+| {{party shading/Republican}} |Stephen Friess (R)
+|$3,282,745{{Efn|$2,000,000 was self funded}}
+|$2,485,619
+|$797,126
+|-
+| {{party shading/Republican}} |''Frank Chapman (R)''
+|$1,091,624{{Efn|$1,060,768 was self funded}}
+|$596,463
+|$495,161
+|-
+| {{party shading/Republican}} |David Giralt (R)
+|$213,244{{Efn|$64,691 was self funded}}
+|$176,700
+|$36,543
+|-
+| {{party shading/Republican}} |Chuck Gray (R)
+|$1,621,197{{Efn|$1,147,000 was self funded}}
+|$1,381,051
+|$240,146
+|-
+| {{party shading/Republican}} |Reid Rasner (R)
+|$2,327,646{{Efn|$1,717,573 was self funded}}
+|$2,260,947
+|$79,152
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Wyoming At-Large |url=https://www.fec.gov/data/elections/house/WY/00/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 17, 2026}}</ref></small>
+|}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"| Eric<br />Barlow
+! style="width:60px;"| Jillian<br />Balow
+! style="width:60px;"| Bo<br />Biteman
+! style="width:60px;"| Kevin<br />Christensen
+! style="width:60px;"| Steve<br />Friess
+! style="width:60px;"| David<br />Giralt
+! style="width:60px;"| Chuck<br />Gray
+! style="width:60px;"| Reid<br />Rasner
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{Cite web|url=https://cowboystatedaily.com/2026/06/01/chuck-gray-leads-u-s-house-poll-with-21-followed-by-rasner-and-friess/|title=Chuck Gray Leads U.S. House Poll With 21%, Followed By Rasner And Friess|first=Clair|last=McFarland|website=Cowboy State Daily|date=June 1, 2026|access-date=June 2, 2026}}</ref>{{efn-ua|name=Gray|Poll sponsored by Gray's campaign}}
+|May 13–16, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|–
+|8%
+|7%
+|5%
+|10%
+|0%
+|{{party shading/Republican}}|'''21%'''
+|14%
+|1%{{efn|Frank Chapman with 1%; John Romero-Martinez with 0%}}
+|{{party shading/Undecided}}|'''33%'''
+|-
+|style="text-align:left;"|Peak Insights (R)<ref name="PeakMarch2026">{{Cite web|url=https://rasnerforwy.com/wp-content/uploads/2026/03/Rasner-GOP-Primary-Momentum_Memo_March-2026.pdf|title=Reid Rasner Seizes the Momentum in GOP Primary|first=Erik|last=Iverson|work=Peak Insights|date=March 26, 2026|access-date=April 2, 2026}}</ref>{{efn-ua|name=Rasner|Poll sponsored by Rasner's campaign}}
+|March 21–22, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|6%
+|–
+|5%
+|3%
+|–
+|2%
+|21%
+|{{party shading/Republican}}|'''24%'''
+|colspan="2" {{party shading/Undecided}}|'''39%'''
+|-
+|style="text-align:left;"|Peak Insights (R)<ref name="PeakMarch2026"/>{{efn-ua|name=Rasner}}
+|January 9, 2026
+|– (LV)
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|{{party shading/Republican}}|'''22%'''
+|16%
+|colspan="2" {{party shading/Undecided}}|'''60%'''{{efn|Gavin Solomon with 1%}}
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+!Poll source
+!Date(s)<br>administered
+!Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+!Margin<br>of error
+! style="width:60px;"| Chuck<br />Gray
+! style="width:60px;"| Eric<br />Barlow
+! style="width:60px;"| Bret<br />Bien
+! style="width:60px;"| Tara<br />Nethercott
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{Cite web |date=2025-08-02 |title=Chuck Gray polls his odds as Wyoming governor or U.S. representative |url=https://www.yahoo.com/news/articles/chuck-gray-polls-odds-wyoming-035900669.html |access-date=2025-09-22 |website=Yahoo News |language=en-US}}</ref>{{efn-ua|Poll commissioned by Chuck Gray}}
+|July 15–17, 2025
+|500 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''16%'''
+|6%
+|6%
+|7%
+|6%
+|{{party shading/Undecided}}|'''58%'''
+|}
+{{hidden end}}
+
+===Debate===
+<div style="overflow-x:auto;">
+{| class="wikitable" style="text-align:center;"
+|+ 2026 United States House of Representatives election in Wyoming Republican primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br/>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Jillian Balow]]
+! scope="col" | [[Bo Biteman]]
+! scope="col" | Frank Chapman
+! scope="col" | Kevin Christensen
+! scope="col" | Richard Dodson
+! scope="col" | Steve Friess
+! scope="col" | David Giralt
+! scope="col" | [[Keith Goodenough]]
+! scope="col" | [[Chuck Gray (Wyoming politician)|Chuck Gray]]
+! scope="col" | Reid Rasner
+! scope="col" | [[John Romero-Martinez]]
+|-
+!1
+| style="white-space:nowrap;" | Aug. 4, 2026
+| style="white-space:nowrap;" | [[Sheridan County, Wyoming|Sheridan County]] Chamber of Commerce<br>Cowboy State Daily, [[Sheridan College (Wyoming)|Sheridan College]]<br>The Sheridan Press, [[Wyoming PBS]]<br>[[Wyoming Public Media]]
+| style="white-space:nowrap;" | Steve Peck
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=kphQzcEeUdc YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-W|'''W'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+|}
+</div>
+
+===Results===
+[[File:2026 Wyoming's at-large congressional district Republican primary election results by county map.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Gray}}
+|{{legend|#FFE0EA|20–30%}}
+|{{legend|#FFC8CD|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Friess}}
+|{{legend|#FFDAC1|20–30%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Christensen}}
+|{{legend|#C0F0C0|20–30%}}
+|{{legend|#AAE5AA|30–40%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Chuck Gray (Wyoming politician)|Chuck Gray]]
+  |votes      = 31,224
+  |percentage = 25.4
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Steve Friess
+  |votes      = 25,059
+  |percentage = 20.4
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Kevin Christensen
+  |votes      = 21,633
+  |percentage = 17.6
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Jillian Balow]]
+  |votes      = 12,591
+  |percentage = 10.3
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Reid Rasner
+  |votes      = 10,808
+  |percentage = 8.8
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = David Giralt
+  |votes      = 10,131
+  |percentage = 8.2
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Bo Biteman]]
+  |votes      = 6,257
+  |percentage = 5.1
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Keith Goodenough]]
+  |votes      = 3,343
+  |percentage = 2.7
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Richard Dodson
+  |votes      = 1,777
+  |percentage = 1.4
+}}
+{{Election box total no change
+  |votes      = 122,823
+  |percentage = 100.0
+}}{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Lisa F. Kinney]], former [[Party leaders of the Wyoming Senate|minority leader]] of the [[Wyoming Senate]]<ref>{{cite news |last1=Perkins |first1=Nick |title=Lisa Kinney announces candidacy for US House of Representatives |url=https://county17.com/2026/04/04/lisa-kinney-announces-candidacy-for-u-s-house-of-representatives/ |access-date=April 5, 2026 |work=[[County 17]] |date=April 4, 2026}}</ref>
+
+====Eliminated in primary====
+*Elena del Real<ref name=filings>{{cite web|url=https://sos.wyo.gov/Elections/Docs/2026/2026_WY_Primary_Election_Candidates.pdf|title=2026 Unofficial Primary Election Candidate Roster|website=Wyoming Secretary of State|date=4 June 2026|access-date=6 June 2026}}</ref>
+
+===Results===
+[[File:2026 Wyoming's at-large congressional district Democratic primary election results by county map.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Kinney}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change |title=Democratic primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[Lisa F. Kinney]]
+  |votes      = 9,344
+  |percentage = 77.8
+}}
+{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Elena del Real
+  |votes      = 2,660
+  |percentage = 22.2
+}}
+{{Election box total no change
+  |votes      = 12,004
+  |percentage = 100.0
+}}{{Election box end}}
+
+==Independents and third parties==
+===Candidates===
+====Declared====
+*Jeffrey Haggit ([[Constitution Party (United States)|Constitution]])<ref>{{cite news |last1=Mullen |first1=Maggie |title=What would it take for a third-party candidate to win Wyoming’s race for governor? |url=https://wyofile.com/what-would-it-take-for-a-third-party-candidate-to-win-wyomings-race-for-governor/ |access-date=September 19, 2026 |work=[[WyoFile]] |date=September 10, 2026}}</ref>
+*Shawn Johnson ([[Libertarian Party of Wyoming|Libertarian]]), former vice mayor of [[Casper, Wyoming|Casper]]<ref>{{cite news |last1=Byrd |first1=Klark |title=Former Casper vice mayor Shawn Johnson seeks Libertarian nod for US House |url=https://county17.com/2026/03/20/former-casper-vice-mayor-shawn-johnson-seeks-libertarian-nod-for-u-s-house/ |access-date=April 5, 2026 |work=[[County 17]] |date=March 20, 2026}}</ref>
+
+====Filed paperwork====
+* Daniel Workman (Independent)<ref>{{Cite web |title=FEC Form 2 for Report FEC-1931074 |url=https://docquery.fec.gov/cgi-bin/forms/H6WY01108/1931074 |access-date=2026-01-07 |website=docquery.fec.gov}}</ref>
+
+== General election ==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report }}</ref>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Likely|R}}
+|October 15, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/  |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Solid|R}}
+|July 10, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 23, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Chuck Gray (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Nitzberg |first1=Alex |title=President Trump endorses Wyoming's secretary of state for US House of Representatives |url=https://www.foxnews.com/politics/president-trump-endorses-wyomings-secretary-state-us-house-representatives.amp |access-date=October 15, 2026 |work=[[Fox News]] |date=October 6, 2026}}</ref>
+
+;U.S. representatives
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-2]] (1995–2001)<ref name="CFG">{{cite web|url=https://www.clubforgrowth.org/club-for-growth-pac-endorses-chuck-gray-in-wy-al-race/|title=Club for Growth PAC Endorses Chuck Gray in WY-AL Race|last=Mitola|first=Will|date=August 31, 2026|access-date=September 15, 2026}}</ref>
+
+;Organizations
+*[[Club for Growth]] PAC<ref name="CFG"/>
+}}
+{{Endorsements box
+|title=Lisa Kinney (D)
+|list=
+;Statewide officials
+*[[Mike Sullivan (Wyoming politician)|Mike Sullivan]], former [[governor of Wyoming]] (1987–1995)<ref>{{cite news |last1=McFarland |first1=Clair |title=Former Wyoming Gov. Mike Sullivan Endorses Lisa Kinney For U.S. House |url=https://cowboystatedaily.com/2026/10/06/former-gov-sullivan-backs-democrat-lisa-kinney-in-race-for-u-s-house-seat/ |access-date=October 15, 2026 |work=Cowboy State Daily |date=October 6, 2026}}</ref>
+}}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}} |Chuck Gray (R)
+|$1,984,104
+|$1,816,215
+|$167,889
+|-
+|{{party shading/Democratic}} |Lisa Kinney (D)
+|$83,714
+|$56,464
+|$27,250
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+=== Results ===
+{{Election box begin|title=2026 Wyoming's at-large congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Chuck Gray (Wyoming politician)|Chuck Gray]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Constitution Party (United States)
+  |candidate  = Jeffrey Haggit
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Shawn Johnson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Lisa Kinney]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Daniel Workman
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+'''Official campaign websites'''
+* [https://chuckforwyoming.com/ Chuck Gray (R)]
+* [https://haggitforhouse.com/ Jeff Haggit (C)]
+* [https://www.shawnforwyoming.com/ Shawn Johnson (L)]
+* [https://lisakinneyforcongress.com/ Lisa Kinney (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Wyoming|2024]]
+[[Category:2026 United States House of Representatives elections|Wyoming]]
+[[Category:2026 elections in Wyoming|United States House of Representatives]]
+[[Category:Long stubs with short prose]]
+
+
+{{Wyoming-election-stub}}

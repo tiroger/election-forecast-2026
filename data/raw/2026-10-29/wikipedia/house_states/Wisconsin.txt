@@ -1,0 +1,1915 @@
+{{short description|none}}
+{{Use mdy dates|date=December 2024}}
+{{use American English|date=December 2024}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{distinguish|2026 Wisconsin State Assembly election}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Wisconsin
+| country = Wisconsin
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Wisconsin
+| next_year = 2028
+| seats_for_election = All 8 Wisconsin seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''6'''
+| seats1 = '''6'''
+| party2 = Democratic Party (United States)
+| last_election2 = 2
+| seats2 = 2
+| seat_change1 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{ElectionsWI}}
+The '''2026 United States House of Representatives elections in Wisconsin''' will be held on November 3, 2026, to elect the eight [[U.S. representative]]s from the [[U.S. state|state]] of [[Wisconsin]], one from each of the state's eight [[Wisconsin's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary election took place on August 11, 2026.
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Background==
+In July 2025, a lawsuit was filed by two liberal law firms in a Wisconsin district court, asking to consider the constitutionality of Wisconsin's congressional maps.<ref>{{cite web |date=2025-07-22 |title=New Lawsuit Alleges Wisconsin's Congressional Map Violates State Constitution |url=https://www.democracydocket.com/news-alerts/wisconsin-congressional-map-discriminates-democrats-unconstitutional-lawsuit/ |access-date=2025-10-01 |website=Democracy Docket}}</ref> In September 2025, the Wisconsin Supreme court addressed this lawsuit and asked each party to provide briefs on whether this court case should proceed.<ref>{{cite web |last=Kremer |first=Rich |date=2025-09-25 |title=Wisconsin Supreme Court orders legal briefs in 2 congressional map challenges |url=https://www.wpr.org/news/wisconsin-supreme-court-orders-legal-briefs-in-2-congressional-map-challenges |access-date=2025-10-01 |website=WPR}}</ref> On March 31, 2026, a judicial panel dismissed the challenge.<ref>{{cite web |last1=Rego |first1=Max |title=Judicial panel dismisses challenge to Wisconsin congressional map |url=https://thehill.com/homenews/campaign/5809613-wisconsin-congressional-map-challenge/ |work=[[The Hill (newspaper)|The Hill]] |access-date=April 1, 2026 |date=March 31, 2026}}</ref>
+
+==District 1==
+{{see also|Wisconsin's 1st congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 1st congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 1
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Steil Headshot (cropped).jpg
+| nominee1 = [[Bryan Steil]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Mitchell Berman
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. representative
+| before_election = [[Bryan Steil]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 1st district encompasses the southeastern corner of Wisconsin, containing the cities of [[Beloit, Wisconsin|Beloit]], [[Franklin, Milwaukee County, Wisconsin|Franklin]], [[Janesville, Wisconsin|Janesville]], [[Kenosha, Wisconsin|Kenosha]], [[Oak Creek, Wisconsin|Oak Creek]], [[Racine, Wisconsin|Racine]], and most of [[Whitewater, Wisconsin|Whitewater]]. The incumbent is Republican [[Bryan Steil]], who was re-elected with 54.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Bryan Steil]], incumbent U.S. representative<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=0GbkMDGGIt8 |title=Rep Bryan Steil expresses his support for Trump's agenda at Town Hall July 31, 2025 |date=2025-08-01 |author=Bird, LuAnn |quote=I'm gonna be running for reelection to the House |access-date=2025-08-02 |via=[[YouTube]]}}</ref>{{Better source|date=August 2026}}
+
+====Did not file====
+*Jose Vera<ref>{{Cite web |title=FEC Form 2 for Report FEC-1972417 |url=https://docquery.fec.gov/cgi-bin/forms/H6WI01341/1972417 |access-date=2026-05-11 |website=docquery.fec.gov}}</ref>
+*Connor Walleck<ref>{{Cite web |title=FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1812931|url=https://docquery.fec.gov/cgi-bin/forms/H6WI01242/1812931/}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Bryan Steil|list=;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last=Nitzberg |first=Alex |title= Trump endorses House Republican who failed to vote on the One Big Beautiful Bill Act |url= https://www.foxnews.com/politics/trump-endorses-house-republican-who-failed-vote-one-big-beautiful-bill-act.amp |work=[[Fox News]] |access-date=May 26, 2025 |date=May 26, 2025}}</ref>
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCRs">{{cite web |title=22 Republicans endorsed by LGBT organization: Full list of names |url=https://www.newsweek.com/22-republicans-endorsed-by-lgbt-organization-full-list-of-names-11460976 |website=Newsweek |access-date=February 4, 2026 |date=February 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Bryan Steil (R)
+|$4,376,364
+|$1,031,407
+|$5,564,127
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Wisconsin 1st |url=https://www.fec.gov/data/elections/house/WI/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Bryan Steil]] (incumbent)|votes=50,915|percentage=99.60}}{{Election box write-in with party link no change|votes=204|percentage=0.40}}
+{{Election box total no change|votes=51,119|percentage=100.0}}{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Mitchell Berman, nurse<ref>{{Cite web |date=August 12, 2025 |title=Berman campaign: Democrat launches campaign for Wisconsin's First Congressional District |url=https://www.wispolitics.com/2025/berman-campaign-democrat-launches-campaign-for-wisconsins-first-congressional-district/ |access-date=August 12, 2025 |website=[[WisPolitics]]}}</ref>
+====Eliminated in primary====
+*Miguel Aranda, vice president of the [[Whitewater, Wisconsin|Whitewater]] Unified School District<ref>{{cite news |last1=Asiyanbi |first1=Heather |title=Miguel Aranda enters 1st Congressional District race, challenging Rep. Bryan Steil |url=https://racinecountyeye.com/2025/09/11/aranda-1st-cd-wisconsin-democrat/ |access-date=September 11, 2025 |work=Racine County Eye |date=September 11, 2025}}</ref>
+*Lorenzo Santos, emergency management professional and candidate for this district in [[2024 United States House of Representatives elections in Wisconsin#District 1|2024]]<ref>{{cite web|url= https://www.fec.gov/data/committee/C00940601/?cycle=2026 |title= LORENZO FOR CONGRESS |website= FEC.gov |access-date= April 18, 2026}}</ref>
+
+==== Withdrawn ====
+*Peter Burgelis, [[Government of Milwaukee#Common Council|Milwaukee alderman]] (''remains on ballot; endorsed Berman'')<ref name="Burgelis">{{Cite news |date=July 15, 2026 |title=Burgelis campaign: Suspends campaign, calls for Democratic unity to defeat Bryan Steil |url=https://www.wispolitics.com/2026/burgelis-campaign-suspends-campaign-calls-for-democratic-unity-to-defeat-bryan-steil/ |access-date=July 16, 2026 |work=[[WisPolitics]]}}</ref>
+*Randy Bryce, political fundraiser and nominee for this district in [[2018 United States House of Representatives elections in Wisconsin#District 1|2018]] (''endorsed Berman'')<ref>{{cite news |last1=Torres |first1=Ricardo |title=Democrat Randy Bryce suspends campaign for Wisconsin's 1st District |url=https://www.jsonline.com/story/news/politics/2026/06/02/democrat-randy-bryce-suspends-campaign-for-wisconsins-1st-district/90372699007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z114432p119050l003850c119050u001832e1131xxv114432&gca-ft=16&gca-ds=sophi |access-date=June 2, 2026 |work=[[Milwaukee Journal Sentinel]] |date=June 2, 2026}}</ref><ref name="Anderson">{{cite web|url=https://www.wispolitics.com/2026/berman-campaign-assembly-representative-clinton-anderson-endorses-mitchell-berman-for-wisconsins-first-congressional-district/|title=Berman campaign: Rep. Clinton Anderson endorses Mitchell Berman for Wisconsin's First Congressional District|date=July 23, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+
+====Did not file====
+*Travis Beckius<ref>{{Cite web |title=FEC Form 2 for Report FEC-1930194 |url=https://docquery.fec.gov/cgi-bin/forms/H6WI01325/1930194 |access-date=2026-03-23 |website=docquery.fec.gov}}</ref>
+*Enrique Casiano, chair of [[United Auto Workers]] Local 95's Unit 12<ref>{{cite web |last1=Powell |first1=Hannah |title=UAW labor leader Enrique Casiano joins 1st Congressional District race |url=https://www.gazettextra.com/news/local/uaw-labor-leader-enrique-casiano-joins-1st-congressional-district-race/article_0807bcab-f496-4e86-b8f5-bf662b71e2ef.html |access-date=October 11, 2025 |work=[[GazetteXtra]] |date=October 10, 2025}}</ref>
+*Gage Stills, retail worker<ref>{{Cite web |date=August 18, 2025 |title=Democratic field grows in 2026 contest for Wisconsin's 1st Congressional District |url=https://wisconsinexaminer.com/2025/08/18/democratic-field-grows-in-2026-contest-for-wisconsins-1st-congressional-district/ |access-date=August 27, 2025 |website=[[Wisconsin Examiner]] |last1=Gunn |first1=Erik}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Mitchell Berman
+|list=
+;U.S. representatives
+*[[Pat Ryan (politician)|Pat Ryan]], [[NY-18]] (2022–present)<ref name="Anderson"/>
+
+;State legislators
+*5 [[Wisconsin State Assembly|state assemblymembers]]{{Efn|
+*[[Clinton Anderson (Wisconsin politician)|Clinton Anderson]], [[Wisconsin's 45th Assembly district|AD-45]] (2023–present)<ref name="Anderson"/>
+*[[Ben DeSmidt]], [[Wisconsin's 65th Assembly district|AD-65]] (2025–present)<ref name="Anderson"/>
+*[[Tip McGuire]], [[Wisconsin's 64th Assembly district|AD-64]] (2019–present)<ref name="Anderson"/>
+*[[Ann Roe]], [[Wisconsin's 44th Assembly district|AD-44]] (2025–present)<ref name="Anderson"/>
+*[[Christine Sinicki]], [[Wisconsin's 20th Assembly district|AD-20]] (1999–present)<ref name="Anderson"/>}}
+*[[Mark Spreitzer]], [[Wisconsin's 15th Senate district|SD-15]] (2023–present)<ref name="Anderson"/>
+
+;Local officials
+*Peter Burgelis, [[Government of Milwaukee#Common Council|Milwaukee alderman]] and former candidate for this district<ref name="Burgelis"/>
+
+;Individuals
+*Randy Bryce, political fundraiser and former candidate for this district<ref name="Anderson"/>
+
+;Labor unions
+*[[American Federation of Teachers]] Local 212<ref name="Anderson"/>
+*[[United Auto Workers]]<ref name="Anderson"/>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web|url=https://www.wispolitics.com/2026/end-citizens-united-endorses-er-nurse-mitchell-berman-in-wisconsins-1st-congressional-district/|title=End Citizens United: Endorses ER Nurse Mitchell Berman in Wisconsin’s 1st Congressional District|date=August 10, 2026|access-date=August 10, 2026|website=[[Wispolitics.com]]}}</ref>
+}}
+
+{{Endorsements box
+|title=Randy Bryce ''(withdrawn)''
+|list=
+;Organizations
+*[[Our Revolution]]<ref>{{cite web |title=Revolution Report: Nov 15th, 2025 |website=[[Our Revolution]] |url=https://ourrevolution.com/revolution-report-nov-15th-2025 |date=15 November 2025 |access-date=23 October 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Miguel Aranda (D)
+|$7,722
+|$1,270
+|$12,831
+|-
+| {{party shading/Democratic}} |Mitchell Berman (D)
+|$426,671
+|$286,071
+|$140,600
+|-
+| {{party shading/Democratic}} |Lorenzo Santos (D)
+|$0
+|$373
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+[[File:2026 Wisconsin's 1st congressional district Democratic primary election results by county.svg|thumb|County results:{{collapsible list
+| title = {{legend|#A5B0FF|Berman}}|{{legend|#BDD3FF|30–40%}}|{{legend|#A5B0FF|40–50%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Mitchell Berman|votes=31,494|percentage=44.11}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Peter Burgelis ''(withdrawn)''|votes=15,455|percentage=21.64}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Lorenzo Santos|votes=14,590|percentage=20.43}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Miguel Aranda|votes=9,701|percentage=13.59}}{{Election box write-in with party link no change|votes=163|percentage=0.23}}
+{{Election box total no change|votes=71,403|percentage=100.0}}{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Lean|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Lean|R}}
+|September 25, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections}}</ref>
+| {{USRaceRating|Lean|R}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Lean|R}}
+|October 8, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Mitchell Berman (D)
+|list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC 1st">{{cite web|url=https://dccc.org/dccc-announces-three-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Three New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=September 15, 2026|access-date=September 15, 2026}}</ref>
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-four-new-candidates-ready-to-win-tough-seats/|title=Blue Dog PAC Endorses Four New Candidates Ready to Win Tough Seats|date=September 16, 2026|access-date=September 17, 2026}}</ref>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="New Dems">{{cite web|url=https://www.newdemactionfund.com/news/new-dems-endorse-seven-more-candidates-in-key-red-to-blue-seats?source=dfba9884-cc51-4c60-b5ac-1e7c74296073|title=New Dems Endorse Seven More Candidates in Key Red-to-Blue Seats|date=September 29, 2026|access-date=October 2, 2026}}</ref>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC 1st"/>
+*[[J Street]]<ref>{{cite web |title=Mitchell Berman |url=https://jstreetpac.org/candidate/mitchell-berman/ |website=J Street PAC |access-date=16 October 2026}}</ref>
+*[[New Democrat Coalition#Campaign arm|NewDem Action Fund]]<ref name="New Dems"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Bryan Steil (R)
+|$6,393,553
+|$6,369,119
+|$2,243,605
+|-
+|{{party shading/Democratic}}|Mitchell Berman (D)
+|$1,977,099
+|$1,625,541
+|$351,558
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Bryan<br />Steil (R)
+! style="width:100px;"| Mitchell<br />Berman (D)
+! Undecided
+|-
+|style="text-align:left;"|Impact Research (D)<ref name=ImpactCD1.10.26>{{cite web |title=More details on this poll:<br>Pollster: Impact Research<br>Field dates: Sept. 28 – Oct. 1<br>Sample size: 500 LVs<br>#WI01 voted Trump+5 in 2024 but Steil won by 10 against a touted Dem recruit. |url=https://bsky.app/profile/the-downballot.com/post/3mwyouhbwg22k |publisher=[[Bluesky]] |access-date=October 4, 2026 |date=October 3, 2026}}</ref>{{efn-ua|name=HMP|Poll sponsored by House Majority PAC, which is focused on electing Democrats to the U.S. House of Representatives}}
+|September 28 – October 1, 2026
+|500 (LV)
+|–
+|47%
+|{{party shading/Democratic}}|'''48%'''
+|5%
+|-
+|style="text-align:left;"|[[Democratic Congressional Campaign Committee|DCCC]] Analytics Department<ref>{{cite web |title=Dems Choosin' Texas |url=https://hub.nationaljournal.com/dems-choosin-texas |publisher=[[National Journal]] |access-date=September 30, 2026}}</ref>
+|September 21–23, 2026
+|495 (LV)
+|±&nbsp;4.4%
+|'''48%'''
+|'''48%'''
+|5%
+|-
+|style="text-align:left;"|Impact Research (D)<ref>{{cite web |title=Wisconsin’s First Congressional District Is a Toss-Up |url=https://drive.google.com/file/d/13LvQnVe9L6CQM-h30ze12qGk2mq7nqB4/view |publisher=Impact Research |access-date=August 14, 2026 |date=August 12, 2026}}</ref>{{Efn-ua|Poll sponsored by Berman's campaign}}
+|August 6–9, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''49%'''
+|48%
+|4%
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026">{{cite web|url=https://punchbowl.news/wp-content/uploads/RSC_WI-CD-1_Benchmark_MQ_v1.0_260316.pdf|title=Wisconsin CD 1|work=Ragnar Research Partners|date=April 29, 2026|access-date=April 29, 2026|via=''[[Punchbowl News]]''}}</ref>{{efn-ua|name=CFA|Poll commissioned by Conservatives For America, an organization linked to the [[Republican Study Committee]]}}
+|March 14–16, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''50%'''
+|41%
+|9%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|Impact Research (D)<ref name=ImpactCD1.10.26/>{{efn-ua|name=HMP}}
+|September 28 – October 1, 2026
+|500 (LV)
+|–
+|48%
+|{{party shading/Democratic}}|'''49%'''
+|3%
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026"/>{{efn-ua|name=CFA}}
+|March 14–16, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|42%
+|{{party shading/Democratic}}|'''44%'''
+|14%
+|}
+{{hidden end}}
+
+==District 2==
+{{see also|Wisconsin's 2nd congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 2nd congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 2
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Mark Pocan official photo (cropped).jpg
+| nominee1 = '''[[Mark Pocan]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mark Pocan]]
+| before_party = Democratic Party (United States)
+| after_election = [[Mark Pocan]]
+| after_party = Democratic Party (United States)
+}}
+
+The 2nd district contains much of southern Wisconsin, including [[Madison, Wisconsin|Madison]], [[Monroe, Wisconsin|Monroe]], [[Dodgeville, Wisconsin|Dodgeville]], and [[Baraboo, Wisconsin|Baraboo]]. The incumbent is Democrat [[Mark Pocan]], who was reelected with 70.1% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Mark Pocan]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849791 |url=https://docquery.fec.gov/cgi-bin/forms/H2WI02124/1849791 |access-date=2025-12-23 |website=docquery.fec.gov}}</ref>
+====Eliminated in primary====
+*Douglas Alexander<ref>{{cite news |last1=Dade |first1=Caroline |title=June surprise: No Republican files to run against Pocan in 2nd Congressional District |url=https://www.wxow.com/news/wisconsin-politics/june-surprise-no-republican-files-to-run-against-pocan-in-2nd-congressional-district/article_19e86db1-8285-5ea9-a9dd-057ce7017165.html |access-date=June 10, 2026 |work=[[WXOW]] |date=June 3, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Mark Pocan
+|list=
+;Labor unions
+*Wisconsin [[AFL-CIO]]<ref name="AFL">{{cite web|url=https://wisaflcio.org/candidate-endorsements|title=2026 Fall Election Endorsed Candidates|access-date=July 28, 2026}}</ref>
+
+;Organizations
+* [[A New Policy]]<ref name = "PocanBallotpedia">{{Cite web |title=Mark Pocan |url=https://ballotpedia.org/Mark_Pocan |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+* [[Center for Freethought Equality]]<ref name=CFEDec>{{cite web |title=2026 Endorsements |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=4 December 2025}}</ref>
+* [[Citizens Against AIPAC Corruption]]<ref name = "PocanBallotpedia"/>
+*[[End Citizens United]]<ref name = "PocanBallotpedia"/>
+*[[Equality PAC]]<ref>{{cite web |title=2026 Endorsed LGBTQ Candidates |url=https://lgbtequalitypac.org/endorsements/ |website=Equality PAC |access-date=27 November 2025}}</ref>
+*[[Fair Wisconsin]]<ref name="FW">{{cite web|url=https://fairwisconsin.com/fair-wisconsin-pac-issues-first-round-of-endorsements-in-the-2026-midterms/|title=Fair Wisconsin PAC Issues First Round of Endorsements in the 2026 Midterms|date=June 1, 2026|access-date=July 28, 2026}}</ref>
+*[[Human Rights Campaign]]<ref name=HRC>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+* [[LGBTQ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-43-new-candidates-for-2026-campaigns/|title=LGBTQ+ Victory Fund endorses 43 new candidates in February for 2026 campaigns|website=LGBTQ+ Victory Fund|date=February 26, 2026|access-date=March 25, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Mark Pocan |url=https://jstreetpac.org/candidate/mark-pocan/ |website=J Street PAC |access-date=7 February 2026}}</ref>
+*[[Our Revolution]]<ref>{cite web |title= |website=[[Our Revolution]] |url=https://ourrevolution.com/mark-pocan-for-congress-in-wisconsins-2nd-district |access-date=23 October 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web |title=Meet Our 2026 Candidates |url=https://www.peaceaction.org/endorsements/ |website=Peace Action |access-date=27 November 2025 |language=en-EN}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026}}</ref>
+*[[Progressive Democrats of America]]<ref name = "PocanBallotpedia"/>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=27 November 2025}}</ref>
+*[[Sierra Club]]<ref name = "PocanBallotpedia"/>
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Mark Pocan (D)
+|$643,149
+|$672,984
+|$972,382
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Wisconsin 2nd |url=https://www.fec.gov/data/elections/house/WI/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Mark Pocan]] (incumbent)|votes=144,365|percentage=87.93}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Douglas Alexander|votes=19,610|percentage=11.94}}{{Election box write-in with party link no change|votes=208|percentage=0.13}}
+{{Election box total no change|votes=164,183|percentage=100.0}}{{Election box end}}
+*
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+==District 3==
+{{see also|Wisconsin's 3rd congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 3rd congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 3
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Congressman dvo (cropped).jpg
+| nominee1 = [[Derrick Van Orden]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Rebecca Cooke on UpNorthNews March 2025 (further cropped).jpg
+| nominee2 = [[Rebecca Cooke (politician)|Rebecca Cooke]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Derrick Van Orden]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 3rd district takes in the [[Driftless Area]] in southwestern Wisconsin including [[Eau Claire, Wisconsin|Eau Claire]] and [[La Crosse, Wisconsin|La Crosse]]. The incumbent is Republican [[Derrick Van Orden]], who was re-elected with 51.4% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+The election was one of the most expensive congressional races in the 2026 elections, with over $31.6 million in spending.<ref>{{Cite web |last=Mutnick|first=Ally|date=October 6, 2026|title=The blockbuster House races|url=https://punchbowl.news/article/campaigns/blockbuster-house-races/|access-date=2026-10-15|website=Punchbowl News|language=en-US}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Derrick Van Orden]], incumbent U.S. representative<ref>{{cite news |last1=Fergot |first1=Allyson |title=Van Orden to seek reelection as fellow Republicans ponder path forward after Supreme Court election |url=https://www.news8000.com/news/politics/local-politics/van-orden-to-seek-reelection-as-fellow-republicans-ponder-path-forward-after-supreme-court-election/article_6261d98a-91e2-425d-a453-8d94b3274202.html |access-date=April 2, 2025 |work=[[WKBT-DT]] |date=April 2, 2025}}</ref>
+====Endorsements====
+{{Endorsements box
+|title=Derrick Van Orden
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Van Orden campaign: President Donald Trump endorses Congressman Van Orden for re-election |url=https://www.wispolitics.com/2025/van-orden-campaign-president-donald-trump-endorses-congressman-van-orden-for-re-election/ |website=WisPolitics |access-date=17 November 2025 |date=29 April 2025}}</ref>
+*[[JD Vance]], [[vice president of the United States]] (2025–present)<ref>{{cite web |title=Vice President Vance discusses tax cuts, public safety at La Crosse manufacturing plant |url=https://www.postbulletin.com/news/national/vice-president-vance-discusses-tax-cuts-public-safety-at-la-crosse-manufacturing-plant |website=Rochester Post Bulletin |access-date=17 November 2025 |date=29 August 2025 |quote=Vance also re-endorsed U.S. Rep. Derrick Van Orden for the Third District Congressional seat, in what is often seen as one of the most competitive House districts in the state.}}</ref>
+
+;U.S. representatives
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="EndTrack">{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 January 2026 |date=7 January 2026}}</ref>
+
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCR">{{cite web |title=Log Cabin Republicans PAC Announces Second Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-second-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=8 August 2026 |date=April 14, 2026}}</ref>
+*[[Republican Jewish Coalition]]<ref name="RJC1">{{cite web |title=RJC endorses 16 congressional incumbents, including 4 Jews |url=https://www.sdjewishworld.com/2026/03/12/rjc-endorses-16-congressional-incumbents-including-4-jews/ |website=San Diego Jewish World |access-date=13 March 2026 |date=12 March 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Derrick Van Orden (R)
+|$7,289,146
+|$3,121,342
+|$4,684,610
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Wisconsin 3rd |url=https://www.fec.gov/data/elections/house/WI/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Derrick Van Orden]] (incumbent)|votes=56,948|percentage=99.00}}{{Election box write-in with party link no change|votes=575|percentage=1.00}}
+{{Election box total no change|votes=57,523|percentage=100.0}}{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Rebecca Cooke (politician)|Rebecca Cooke]], former [[Wisconsin Economic Development Corporation]] board member and nominee for this district in [[2024 United States House of Representatives elections in Wisconsin#District 3|2024]]<ref name=cooke>{{cite news |last1=Andrea |first1=Lawrence |title=Democrat Rebecca Cooke launches bid to unseat Derrick Van Orden in Wisconsin battleground seat |url=https://www.jsonline.com/story/news/politics/elections/2025/03/11/democrat-rebecca-cooke-launches-bid-to-unseat-derrick-van-orden/82225312007/ |access-date=March 11, 2025 |work=[[Milwaukee Journal Sentinel]] |date=March 11, 2025 |archive-url=https://archive.today/20250311175533/https://www.jsonline.com/story/news/politics/elections/2025/03/11/democrat-rebecca-cooke-launches-bid-to-unseat-derrick-van-orden/82225312007/ |archive-date=March 11, 2025}}</ref>
+
+====Eliminated in primary====
+*Emily Berge, former president of the [[Eau Claire, Wisconsin|Eau Claire]] city council<ref>{{cite news |last1=Andrea |first1=Lawrence |title=Emily Berge, an Eau Claire Democrat, announces run for 3rd Congressional District |url=https://www.jsonline.com/story/news/politics/elections/2025/04/15/eau-claire-democrat-emily-berge-to-run-in-3rd-congressional-district/83086250007/ |access-date=April 15, 2025 |work=[[Milwaukee Journal Sentinel]] |date=April 15, 2025 |archive-url=https://archive.today/20250415175329/https://www.jsonline.com/story/news/politics/elections/2025/04/15/eau-claire-democrat-emily-berge-to-run-in-3rd-congressional-district/83086250007/ |archive-date=April 15, 2025}}</ref>
+
+==== Withdrawn ====
+*Laura Benjamin, former [[Eau Claire, Wisconsin|Eau Claire]] city councilor<ref>{{Cite web |last=Shill |first=Kristen |date=2025-09-26 |title=Democrat Laura Benjamin ends congressional campaign |url=https://www.wkow.com/news/politics/democrat-laura-benjamin-ends-congressional-campaign/article_b2079a43-78bb-56b1-a702-8777ff8093c5.html |access-date=2025-09-27 |website=[[WKOW]]}}</ref>
+*Rodney Rave, former [[Ho-Chunk Nation]] legislator (''endorsed Berge'')<ref name="Rave">{{Cite news |date=May 14, 2026 |title=3rd Congressional District candidate Rodney Rave suspends campaign, endorses Emily Berge |url=https://www.wxow.com/news/wisconsin-politics/3rd-congressional-district-candidate-rodney-rave-suspends-campaign-endorses-emily-berge/article_1c81ee95-bd07-4041-8066-9b425db87687.html |access-date=May 14, 2026 |work=[[WXOW]]}}</ref>
+
+====Declined====
+*[[Brad Pfaff]], state senator from the [[Wisconsin's 32nd Senate district|32nd district]] (2021–present) and nominee for this district in [[2022 United States House of Representatives elections in Wisconsin#District 3|2022]] (''endorsed Cooke'')<ref name=":1">{{Cite news |author1=Nir, David |author2=Singer, Jeff |date=June 25, 2025 |title=Morning Digest: Mamdani defeats Cuomo in massive upset |url=https://www.the-downballot.com/i/166764726/wi |access-date=June 27, 2025 |website=The Downballot}}</ref>
+*[[Katrina Shankland]], former state representative from the [[Wisconsin's 71st Assembly district|71st district]] (2013–2025) and candidate for this district in [[2024 United States House of Representatives elections in Wisconsin#District 3|2024]]<ref name=cooke />
+
+====Endorsements====
+{{Endorsements box
+| title = Emily Berge
+| list =
+;State legislators
+*[[Tara Johnson]], [[Wisconsin's 96th Assembly district|AD-96]] (2025–present)<ref name="taraberge">{{cite web |title=Berge campaign: Proudly accepts endorsement of State Representative Tara Johnson |url=https://www.wispolitics.com/2026/berge-campaign-proudly-accepts-endorsement-of-state-representative-tara-johnson/ |website=WisPolitics |access-date=11 February 2026 |date=9 February 2026}}</ref>
+*[[Jeff Smith (Wisconsin politician)|Jeff Smith]], [[Wisconsin's 31st Senate district|SD-31]] (2019–present)<ref name="BergeCamp"/>
+*[[Dana Wachs]], former [[Wisconsin's 91st Assembly district|AD-91]] (2013–2019)<ref name="BergeCamp">{{cite web |title=Berge campaign: Proudly accepts endorsement of La Crosse Mayor, Shaundel Washington-Spivey, demonstrating her in-district support |url=https://www.wispolitics.com/2025/berge-campaign-proudly-accepts-endorsement-of-la-crosse-mayor-shaundel-washington-spivey-demonstrating-her-in-district-support/ |website=WisPolitics |access-date=26 November 2025 |date=19 November 2025}}</ref>
+
+;Local officials
+*Rodney Rave, former [[Ho-Chunk Nation]] legislator and former candidate for this district<ref name="Rave"/>
+
+;Individuals
+*[[Kirk Bangstad]], brewery owner and political candidate<ref>{{cite web |last1=Schulte |first1=Laura |title=Did Rebecca Cooke serve as a political consultant for Kirk Bangstad? |url=https://www.jsonline.com/story/news/factcheck/2026/05/06/did-rebecca-cooke-serve-as-a-political-consultant-for-kirk-bangstad/89935523007/ |website=Journal Sentinel |access-date=27 July 2026 |quote=Bangstad, who said on May 2 he was launching a run for governor, has endorsed Cooke's Democratic challenger in the race for the 3rd Congressional District, Emily Berge.}}</ref>
+
+;Organizations
+*Coulee [[Democratic Socialists of America]]<ref>{{Cite web |title=Emily Berge |url=https://ballotpedia.org/Emily_Berge |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+*[[Our Revolution|Our Wisconsin Revolution]]<ref>{{cite web |title=2026 Endorsement|url=https://www.ourwisconsinrev.com/endorsements|website=Our Wisconsin Revolution |access-date=11 July 2026}}</ref>
+*[[Patriotic Millionaires]]<ref>{{cite web |title=Emily Berge |url=https://patrioticmillionaires.org/people/emily-berge/ |website=Patriotic Millionaires |access-date=16 April 2026}}</ref>
+*[[Vote Common Good]]<ref>{{cite web |title=Emily Berge |url=https://www.votecommongood.com/wps-members/emily-berge/ |website=Vote Common Good |access-date=16 April 2026}}</ref>
+*[[Indivisible (organization)|WI-03 Indivisible Coalition]]<ref>{{cite web|url=https://www.wispolitics.com/2026/berge-campaign-wi-03-indivisible-coalition-endorses-emily-berge-for-congress/|title=Berge campaign: WI-03 Indivisible Coalition endorses Emily Berge for Congress|date=June 29, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+}}
+{{Endorsements box
+| title = Rebecca Cooke
+| colwidth = 60
+| list =
+;Executive branch officials
+*[[Pete Buttigieg]], former [[U.S. Secretary of Transportation|secretary of transportation]] (2021–2025)<ref>{{cite web |title=Cooke campaign: Pete Buttigieg endorses Rebecca Cooke for congress |url=https://www.wispolitics.com/2026/cooke-campaign-pete-buttigieg-endorses-rebecca-cooke-for-congress/ |website=[[Wispolitics.com]] |date=February 9, 2026 |access-date=February 9, 2026}}</ref>
+
+;U.S. senators
+*[[Tammy Baldwin]], [[Wisconsin]] (2013–present)<ref>{{cite web |last1=Altimari |first1=Daniela |title=At the Races: When the pain hits home |url=https://rollcall.com/2025/10/30/at-the-races-shutdown-elections/ |website=Roll Call |access-date=12 November 2025 |date=30 October 2025}}</ref>
+*[[Bernie Sanders]], [[Vermont]] (2007–present) (''Independent'')<ref>{{cite web|url=https://thehill.com/homenews/campaign/5359217-bernie-sanders-endorsement-wisconsin-rebecca-cooke/|title=Sanders wades into battleground district with Wisconsin endorsement|last=Gans|first=Jared|date=June 19, 2025|access-date=June 19, 2025|website=[[The Hill (newspaper)|The Hill]]}}</ref>
+*[[Elissa Slotkin]], [[Michigan]] (2025–present)<ref>{{Cite news |work=[[WEAU]] |access-date=August 18, 2025 |url=https://www.weau.com/2025/08/18/cooke-campaigns-with-michigan-sen-slotkin/ |date=August 18, 2025 |author=Gallaher, Bob |title=Cooke campaigns with Michigan Sen. Slotkin}}</ref>
+
+;U.S. representatives
+*[[Yassamin Ansari]], [[Arizona's 3rd congressional district|AZ-03]] (2025–present)<ref name="CookeCongressEndorsement"/>
+*[[Don Beyer]], [[Virginia's 8th congressional district|VA-08]] (2015–present)<ref name="CookeCongressEndorsement"/>
+*[[Nikki Budzinski]], [[Illinois's 13th congressional district|IL-13]] (2023–present)<ref name="CookeCongressEndorsement"/>
+*[[Jason Crow]], [[CO-06]] (2019–present)<ref name="EndTrack"/>
+*[[Sharice Davids]], [[Kansas's 3rd congressional district|KS-03]] (2019–present)<ref name=CookeCongressEndorsement>{{cite web |title=Cooke campaign: Announces Member of Congress endorsements |url=https://www.wispolitics.com/2025/cooke-campaign-announces-member-of-congress-endorsements/ |website=[[WisPolitics]] |access-date=23 April 2025 |date=23 April 2025}}</ref>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC 3rd">{{cite web|url=https://dccc.org/dccc-announces-first-round-of-candidates-named-to-coveted-2026-red-to-blue-program/|title=DCCC Announces First Round of Candidates Named to Coveted 2026 'Red to Blue' Program|date=February 23, 2026|access-date=February 23, 2026}}</ref>
+*[[Maxine Dexter]], [[Oregon's 3rd congressional district|OR-03]] (2025–present)<ref name="CookeCongressEndorsement"/>
+*[[Jared Golden]], [[Maine's 2nd congressional district|ME-02]] (2019–present)<ref>{{cite web |title=Cooke campaign: Blue Dog PAC endorses Rebecca Cooke in Wisconsin's third Congressional District |url=https://www.wispolitics.com/2025/cooke-campaign-blue-dog-pac-endorses-rebecca-cooke-in-wisconsins-third-congressional-district/ |website=[[WisPolitics]] |access-date=5 June 2025 |date=4 June 2025}}</ref>
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name="EndTrack"/>
+*[[Annie Kuster]], former [[New Hampshire's 2nd congressional district|NH-02]] (2013–2025)<ref name="CookeCongressEndorsement"/>
+*[[Susie Lee]], [[Nevada's 3rd congressional district|NV-03]] (2019–present)<ref name="CookeCongressEndorsement"/>
+*[[Ted Lieu]], [[California's 36th congressional district|CA-36]] (2015–present)<ref name="CookeCongressEndorsement"/>
+*[[Johnny Olszewski]], [[Maryland's 2nd congressional district|MD-02]] (2025–present)<ref name="CookeCongressEndorsement"/>
+*[[Scott Peters (politician)|Scott Peters]], [[California's 50th congressional district|CA-50]] (2013–present)<ref name="CookeCongressEndorsement"/>
+*[[Linda Sanchez]], [[California's 38th congressional district|CA-38]] (2003–present)<ref name="CookeCongressEndorsement"/>
+*[[Adam Smith (Washington politician)|Adam Smith]], [[Washington's 9th congressional district|WA-09]] (1997–present)<ref name="CookeCongressEndorsement"/>
+*[[Melanie Stansbury]], [[New Mexico's 1st congressional district|NM-01]] (2021–present)<ref name="CookeCongressEndorsement"/>
+*[[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="EndTrack"/> 
+*[[Haley Stevens]], [[Michigan's 11th congressional district|MI-11]] (2019–present)<ref name="CookeCongressEndorsement"/>
+*[[Eric Swalwell]], former [[California's 14th congressional district|CA-14]] (2013–2026)<ref name="CookeCongressEndorsement"/> (''rejected by candidate'')<ref>{{Cite web|url=https://www.weau.com/2026/04/13/rebecca-cooke-cuts-ties-with-eric-swalwell-over-recent-sexual-misconduct-allegations/|title=Rebecca Cooke cuts ties with Eric Swalwell over recent sexual misconduct allegations|date=April 12, 2026|work=WEAU}}</ref>
+*[[Lori Trahan]], [[Massachusetts's 3rd congressional district|MA-03]] (2019–present)<ref name="CookeCongressEndorsement"/>
+
+;State legislators
+*[[Brad Pfaff]], [[Wisconsin's 32nd Senate district|SD-32]] (2021–present) and nominee for this district in [[2022 United States House of Representatives elections in Wisconsin#District 3|2022]]<ref name=":1" />
+
+;Labor unions
+*[[American Federation of State, County and Municipal Employees]]<ref name="NRDC"/>
+*[[American Postal Workers Union]] of Wisconsin<ref>{{cite web|url=https://www.wispolitics.com/2026/cooke-campaign-american-postal-workers-union-of-wisconsin-endorses-rebecca-cooke-for-congress/|title=Cooke campaign: American Postal Workers Union of Wisconsin endorses Rebecca Cooke for Congress|date=June 8, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Association of Flight Attendants]]<ref>{{cite web |title=Endorsements |url=https://afacwa.org/endorsements/ |website=Association of Flight Attendants-CWA |access-date=16 April 2026}}</ref>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers]]<ref>{{cite web |title=Cooke campaign: Sheet Metal Air Rail and Transportation Workers endorse Rebecca Cooke in Wisconsin's third district |url=https://www.wispolitics.com/2025/cooke-campaign-sheet-metal-air-rail-and-transportation-workers-endorse-rebecca-cooke-in-wisconsins-third-district/ |website=[[WisPolitics]] |access-date=11 May 2025 |date=27 March 2025}}</ref>
+*[[Communications Workers of America]]<ref name="Cooke Unions">{{cite web|url=https://www.wispolitics.com/2026/cooke-campaign-unions-rally-around-rebecca-cooke/|title=Cooke campaign: Unions rally around Rebecca Cooke|date=April 13, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[International Brotherhood of Electrical Workers]] Wisconsin State Conference<ref name="NRDC"/>
+*[[International Union of Painters and Allied Trades]] District Councils 7 & 82<ref name=DCI>{{cite web |title=Cooke campaign: Rebecca Cooke endorsed by Wisconsin Laborers' District Council |url=https://pro.stateaffairs.com/wi/press-releases/cooke-campaign-rebecca-cooke-endorsed-by-wisconsin-laborers-district-council |website=State Affairs |access-date=17 November 2025}}</ref>
+*[[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers|Iron Workers]] Locals 383 & 512<ref name="Cooke Unions"/>
+*[[LIUNA|Wisconsin Laborers' District Council]]<ref name="NRDC"/>
+*[[Office and Professional Employees International Union]]<ref name="NRDC"/>
+*[[United Food and Commercial Workers]] Local 1473<ref>{{cite web |title=Cooke campaign: Announces UFCW Local 1473 endorsement |url=https://www.wispolitics.com/2025/cooke-campaign-announces-ufcw-local-1473-endorsement/ |website=[[WisPolitics]] |access-date=11 May 2025 |date=24 April 2025}}</ref>
+*Wisconsin [[AFL-CIO]]<ref>{{cite web|url=https://www.wispolitics.com/2026/wisconsin-afl-cio-endorses-rebecca-cooke-in-wisconsins-3rd-congressional-district/|title=Wisconsin AFL-CIO endorses Rebecca Cooke in Wisconsin's 3rd Congressional District|date=July 21, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Wisconsin Education Association Council]]<ref>{{cite web|url=https://www.wispolitics.com/2026/cooke-campaign-wisconsin-education-association-council-latest-union-to-endorse-rebecca-cooke-for-congress/|title=Cooke Campaign: Wisconsin Education Association Council latest union to endorse Rebecca Cooke for Congress|date=June 1, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*Wisconsin State Council of [[International Association of Machinists and Aerospace Workers|Machinists]]<ref name="Cooke Unions"/>
+
+;Organizations
+*[[American Association for Justice]]<ref name="Listed">{{cite web |title=Cooke campaign: Reproductive Freedom For All endorses Rebecca Cooke for Congress |url=https://www.wispolitics.com/2025/cooke-campaign-reproductive-freedom-for-all-endorses-rebecca-cooke-for-congress/ |website=WisPolitics |access-date=26 November 2025 |date=13 November 2025}}</ref>
+*[[Blue Dog Coalition]]<ref name="NRDC"/>
+*[[Council for a Livable World]]<ref name = "CookeBallotpedia">{{Cite web |title=Rebecca Cooke |url=https://ballotpedia.org/Rebecca_Cooke |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC 3rd"/>
+*[[EMILYs List]]<ref name = "CookeBallotpedia"/>
+*[[End Citizens United]]<ref>{{cite web |title=Cooke campaign: Endorsed by End Citizens United |url=https://www.wispolitics.com/2025/cooke-campaign-endorsed-by-end-citizens-united/ |website=[[WisPolitics.com]] |date=August 19, 2025 |access-date=September 8, 2025}}</ref>
+*[[Environmental Defense Fund]]<ref name = "CookeBallotpedia"/>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=17 November 2025}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Rebecca Cooke |url=https://giffords.org/candidates/rebecca-cooke-2/ |website=GIFFORDS |access-date=26 November 2025}}</ref>
+*[[Human Rights Campaign]]<ref name=HRC/>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=24 March 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Support JStreetPAC's first challenger endorsees |url=https://jstreetpac.org/first-challenger-endorsements/ |website=JStreetPAC |access-date=17 November 2025 |date=20 June 2025}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=LCV Action Fund Announces New Slate of Endorsements for U.S. House of Representatives|url=https://www.lcv.org/media-center/lcv-action-fund-announces-new-slate-of-endorsements-for-u-s-house-of-representatives-2/|publisher=League of Conservation Voters |date=October 15, 2025}}</ref>
+*[[National Committee to Preserve Social Security and Medicare]]<ref name=DCI/>
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=25 July 2026 |access-date=24 October 2026}}</ref>
+*[[Natural Resources Defense Council]]<ref name="NRDC">{{cite web |title=Cooke campaign: NRDC Action Fund endorses Rebecca Cooke for Congress |url=https://www.wispolitics.com/2026/cooke-campaign-nrdc-action-fund-endorses-rebecca-cooke-for-congress/ |website=WisPolitics |access-date=16 April 2026 |date=19 March 2026}}</ref>
+*[[NewDem Action Fund]]<ref name = "CookeBallotpedia"/>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Slate of U.S. House Red-to-Blue Candidates Ahead of the 2026 Midterm Election |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-u-s-house-red-to-blue-candidates-ahead-of-the-2026-midterm-election/ |website=Reproductive Freedom for All |access-date=17 November 2025 |date=13 November 2025}}</ref>
+*[[Social Security Works]]<ref>{{cite web |title=Cooke campaign: Social Security Works endorses Rebecca Cooke for congress in WI-03 |url=https://pro.stateaffairs.com/wi/press-releases/cooke-campaign-social-security-works-endorses-rebecca-cooke-for-congress-in-wi-03 |website=State Affairs |access-date=17 November 2025}}</ref>
+*[[WelcomePAC]]<ref>{{Cite web |url=https://www.welcomestack.org/p/the-rebecca-cooke-endorsement/ |title=The Rebecca Cooke Endorsement}}</ref>
+
+;Newspapers
+*''[[The Shepherd Express]]''<ref name = "ShepherdExpressEndorsements">{{Cite web |date=2026-07-21 |title=Updated Endorsements for the 2026 Wisconsin Primary: Dual Endorsements for Governor |url=https://shepherdexpress.com/api/content/ab182bb8-8517-11f1-8494-1248ae80e59d/ |access-date=2026-08-07 |website=Shepherd Express |language=en-us}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Emily Berge (D)
+|$728,722
+|$622,758
+|$105,964
+|-
+|{{party shading/Democratic}}|Rebecca Cooke (D)
+|$8,601,146
+|$6,784,680
+|$1,826,605
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:75px;" |Emily<br />Berge
+! style="width:75px;" |Rebecca<br />Cooke
+! style="width:75px;" |Rodney<br />Rave
+! Undecided
+|-
+| style="text-align:left;"|Impact Research (D)<ref>{{Cite web|url=https://drive.google.com/file/d/160_HZJ9REEGlNs8a9A6KKb9dX96C88zq/view|title=Findings and Recommendations from Recent Polling in WI-03|work=Impact Research|date=March 4, 2026|access-date=March 12, 2026|via=[[Google Drive]]}}</ref>{{efn-ua|name=Cooke|Poll sponsored by Cooke's campaign}}
+|February 12–17, 2026
+|471 (LV)
+|±&nbsp;4.6%
+|22%
+|{{party shading/Democratic}}|'''65%'''
+|1%
+|12%
+|}
+
+==== Results ====
+{{Switcher|
+[[File:2026 Wisconsin's 3rd congressional district Democratic primary election results by county.svg|thumb|Results by county
+{{collapsible list
+| title = {{legend|#7996E2|Cooke}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|{{legend|#584CDE|70–80%}}
+}}{{collapsible list
+| title = {{legend|#51C2C2|Berge}}|{{legend|#51C2C2|50–60%}}
+}}]]|Results by county|
+[[File:2026 Wisconsin's 3rd congressional district Democratic primary election results by precinct.svg|thumb|Results by precinct
+{{collapsible list
+| title = {{legend|#7996E2|Cooke}}|
+{{legend|#7996E2|50–60%}}
+{{legend|#6674DE|60–70%}}
+{{legend|#584CDE|70–80%}}
+{{legend|#3933E5|80–90%}}
+{{legend|#0D0596|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Berge}}|
+{{legend|#51C2C2|50–60%}}
+{{legend|#2AACAC|60–70%}}
+{{legend|#006666|>90%}}
+}}]]|Results by precinct|
+}}
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Rebecca Cooke (politician)|Rebecca Cooke]]|votes=56,650|percentage=60.48}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Emily Berge|votes=36,958|percentage=39.45}}{{Election box write-in with party link no change|votes=65|percentage=0.07}}
+{{Election box total no change|votes=93,673|percentage=100.0}}{{Election box end}}
+
+===Independents===
+====Declared====
+*Alexander Kent<ref>{{Cite web |title=FEC Form 2 for Report FEC-1930465 |url=https://docquery.fec.gov/cgi-bin/forms/H6WI03214/1930465 |access-date=2026-01-02 |website=docquery.fec.gov}}</ref>
+*Rustin Provance, certified nursing assistant and candidate for this district in [[2024 United States House of Representatives elections in Wisconsin#District 3|2024]]<ref>{{Cite web |title=FEC FORM 2 STATEMENT OF CANDIDACY|url=https://acrobat.adobe.com/id/urn:aaid:sc:US:46c22faa-b312-48bd-bd8c-4472f7aa58db}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|D|Flip}}
+|October 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|D|Flip}}
+|October 23, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tilt|D|Flip}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|October 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Derrick Van Orden (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-derrick-van-orden-for-wisconsins-third-congressional-district|title=U.S. Chamber Endorses Rep. Derrick Van Orden for Wisconsin’s Third Congressional District|date=August 26, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Derrick Van Orden (R)
+|$9,101,596
+|$8,452,731
+|$1,165,671
+|-
+|{{party shading/Democratic}}|Rebecca Cooke (D)
+|$12,675,997
+|$12,238,749
+|$447,387
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;" |Derrick<br />Van Orden (R)
+! style="width:100px;" |Rebecca<br />Cooke (D)
+! Undecided
+|-
+| style="text-align:left;" |FM3 Research (D)<ref>{{Cite web|url=https://www.politico.com/newsletters/weekly-score/2026/07/06/republicans-top-senate-super-pac-wants-to-make-the-midterms-an-election-about-fear-00987457|title=Republicans' top Senate super PAC wants to make the midterms 'an election about fear'|first=Andrew|last=Howard|website=[[Politico]]|date=July 6, 2026|access-date=July 6, 2026}}</ref>{{efn-ua|name=Majority}}
+|June 20–25, 2026
+|535 (LV)
+|±&nbsp;4.4%
+|46%
+|{{party shading/Democratic}}|'''50%'''
+|4%
+|-
+| style="text-align:left;" |Impact Research (D)<ref name=IRMay>{{Cite web|url=https://drive.google.com/file/d/1dTP7FcvzgV49WVSyQ6MtgpX7W48_1SsR/edit|title=Findings and Recommendations from Recent Polling in WI-03|work=Impact Research|date=June 2, 2026|access-date=June 4, 2026|via=[[Google Drive]]}}</ref>{{efn-ua|name=Cooke}}
+|May 26–31, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|46%
+|{{party shading/Democratic}}|'''50%'''
+|4%
+|-
+| style="text-align:left;" |Impact Research (D)<ref>{{Cite web|url=https://drive.google.com/file/d/1iNmbcsNYlPvxu_q6Za5CrngdWc2u3lZ4/view|title=Findings and Recommendations from Recent Polling in WI-03|work=Impact Research|date=March 18, 2026|access-date=March 29, 2026|via=[[Google Drive]]}}</ref>{{efn-ua|name=Cooke}}
+|February 12–17, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|48%
+|{{party shading/Democratic}}|'''49%'''
+|3%
+|-
+| style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://www.politico.com/f/?id=00000199-fd60-dc69-abd9-fff233550000|title= Wisconsin CD 3 Survey Results|website=[[Politico]]|date=October 20, 2025|access-date=October 20, 2025}}</ref>{{efn-ua|name=Majority|Poll commissioned by the House Majority PAC, which supports Cooke}}
+|October 14–15, 2025
+|609 (LV)
+|–
+|42%
+|{{party shading/Democratic}}|'''44%'''
+|13%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Generic Republican vs. Generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|Impact Research (D)<ref name=IRMay/>{{efn-ua|name=Cooke}}
+|May 26–31, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|41%
+|{{party shading/Democratic}} |'''44%'''
+|15%
+|}
+{{hidden end}}
+
+==District 4==
+{{see also|Wisconsin's 4th congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 4th congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 4
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Gwen_Moore,_official_portrait,_116th_Congress (cropped).jpg
+| nominee1 = [[Gwen Moore]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Tim Rogers
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Gwen Moore]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 4th district encompasses [[Milwaukee County, Wisconsin|Milwaukee County]], taking in the city of [[Milwaukee]] and its working-class suburbs of [[West Milwaukee, Wisconsin|West Milwaukee]] and most of [[West Allis, Wisconsin|West Allis]], the middle to upper-class suburb of [[Wauwatosa, Wisconsin|Wauwatosa]], and the North Shore communities of [[Glendale, Wisconsin|Glendale]], [[Shorewood, Wisconsin|Shorewood]], [[Whitefish Bay, Wisconsin|Whitefish Bay]], [[Fox Point, Wisconsin|Fox Point]], [[Bayside, Wisconsin|Bayside]], and [[Brown Deer, Wisconsin|Brown Deer]]. The incumbent is Democrat [[Gwen Moore]], who was reelected with 74.8% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+==== Nominee ====
+*[[Gwen Moore]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849316 |url=https://docquery.fec.gov/cgi-bin/forms/H4WI04183/1849316 |access-date=2025-12-23 |website=docquery.fec.gov}}</ref>
+==== Eliminated in primary ====
+* Amy Donahue, [[genetic counselor]]<ref>{{Cite web |date=May 28, 2026 |title=Amy Donahue is Officially Running for Congressional District 4 |url=https://urbanmilwaukee.com/pressrelease/amy-donahue-is-officially-running-for-congressional-district-4/ |access-date=May 29, 2026 |website=[[Urban Milwaukee]]}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Gwen Moore
+|list=
+;Labor unions
+*Wisconsin [[AFL-CIO]]<ref>{{cite web|url=https://www.wispolitics.com/2026/wisconsin-afl-cio-endorses-gwen-moore-for-wisconsins-4th-congressional-district-2/|title=Wisconsin AFL-CIO Endorses Gwen Moore for Wisconsin's 4th Congressional District|date=July 23, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+
+;Organizations
+*[[Fair Wisconsin]]<ref name="FW"/>
+*[[J Street]]<ref>{{cite web |title=Gwen Moore |url=https://jstreetpac.org/candidate/gwen-moore/ |website=J Street PAC |access-date=7 February 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Sierra Club]]<ref name = "MooreBallotpedia">{{Cite web |title=Gwen Moore |url=https://ballotpedia.org/Gwen_Moore |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+
+;Newspapers
+*''[[The Shepherd Express]]''<ref name = "ShepherdExpressEndorsements"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Amy Donahue (D)
+|$5,672
+|$2,544
+|$3,128
+|-
+|{{party shading/Democratic}}|Gwen Moore (D)
+|$844,348
+|$795,038
+|$71,558
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Wisconsin 4th |url=https://www.fec.gov/data/elections/house/WI/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Gwen Moore]] (incumbent)|votes=81,707|percentage=71.92}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Amy Donahue|votes=31,707|percentage=27.91}}{{Election box write-in with party link no change|votes=199|percentage=0.18}}
+{{Election box total no change|votes=113,613|percentage=100.0}}{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Tim Rogers, perennial candidate<ref name="FEC Form 2 for Report FEC-1934239"/>
+====Eliminated in primary====
+*Purnima Nath, engineer and perennial candidate<ref name="FEC Form 2 for Report FEC-1934239">{{Cite web |title=FEC Form 2 for Report FEC-1934239 |url=https://docquery.fec.gov/cgi-bin/forms/H4WI04282/1934239 |access-date=2026-01-21 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Purnima Nath (R)
+|$0
+|$1,441
+|$5,168
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Tim Rogers|votes=10,079|percentage=80.76}}{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Purnima Nath|votes=2,356|percentage=18.88}}{{Election box write-in with party link no change|votes=45|percentage=0.36}}
+{{Election box total no change|votes=12,480|percentage=100.0}}{{Election box end}}
+
+===Independents===
+====Declared====
+*Arthur Burks<ref>{{Cite web |title=RFAI: Mid-Year Report 2025|url=https://acrobat.adobe.com/id/urn:aaid:sc:US:847f7a29-0ca3-4dc9-b5e4-81c581f5594d}} August 15, 2025.</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+==District 5==
+{{see also|Wisconsin's 5th congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 5th congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 5
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = Scott Fitzgerald Official Portrait (alt crop).jpg
+| nominee1 = [[Scott Fitzgerald (politician)|Scott Fitzgerald]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Andrew Beck
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Scott Fitzgerald (politician)|Scott Fitzgerald]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 5th district takes in the northern and western suburbs of [[Milwaukee]], including [[Washington County, Wisconsin|Washington County]], [[Jefferson County, Wisconsin|Jefferson County]], as well as most of [[Waukesha County, Wisconsin|Waukesha County]]. The incumbent is Republican [[Scott Fitzgerald (politician)|Scott Fitzgerald]], who was reelected with 64.4% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Scott Fitzgerald (politician)|Scott Fitzgerald]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1858313 |url=https://docquery.fec.gov/cgi-bin/forms/H0WI05113/1858313 |access-date=2025-12-23 |website=docquery.fec.gov}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Scott Fitzgerald|list=;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name = "FitzgeraldBallotpedia">{{Cite web |title=Scott Fitzgerald |url=https://ballotpedia.org/Scott_Fitzgerald |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Scott Fitzgerald (R)
+|$1,058,656
+|$432,835
+|$1,463,426
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Wisconsin 5th |url=https://www.fec.gov/data/elections/house/WI/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Scott Fitzgerald (politician)|Scott Fitzgerald]] (incumbent)|votes=76,702|percentage=99.74}}{{Election box write-in with party link no change|votes=202|percentage=0.26}}
+{{Election box total no change|votes=76,904|percentage=100.0}}{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Andrew Beck, product developer<ref name=":0">{{Cite news |last=Bahl |first=Andrew |date=May 20, 2025 |title=Chris Taylor for Wisconsin Supreme Court among 2026 election bids |url=https://captimes.com/news/elections/chris-taylor-for-wisconsin-supreme-court-among-2026-election-bids/article_a18a2764-8cf1-44f1-bbbf-76792f7d8952.html |access-date=May 25, 2025 |work=[[The Cap Times]]}}</ref>
+
+====Did not file====
+*Ben Steinhoff, paramedic and nominee for this district in [[2024 United States House of Representatives elections in Wisconsin#District 5|2024]]<ref>{{cite news |title=Democrat Ben Steinhoff joins 2026 5th Congressional District race |url=https://www.dailyunion.com/news/jefferson_county_area/democrat-ben-steinhoff-joins-2026-5th-congressional-district-race/article_6da585f7-7ed2-4dde-bd02-319430a2ac29.html |access-date=May 20, 2025 |work=Daily Jefferson County Union |date=May 19, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Andrew Beck
+|list=
+;Labor unions
+*Wisconsin [[AFL-CIO]]<ref name="AFL"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Andrew Beck (D)
+|$6,320
+|$5,158
+|$1,297
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Andrew Beck|votes=64,504|percentage=99.72}}{{Election box write-in with party link no change|votes=184|percentage=0.28}}
+{{Election box total no change|votes=64,688|percentage=100.0}}{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+==District 6==
+{{see also|Wisconsin's 6th congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 6th congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 6
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Glenn Grothman 117th Congress portrait (cropped).jpg
+| nominee1 = [[Glenn Grothman]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Brad Smith
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Glenn Grothman]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 6th district is based in east-central Wisconsin, encompassing part of the [[Fox River (Green Bay tributary)|Fox River Valley]], and takes in [[Fond du Lac, Wisconsin|Fond du Lac]], [[Oshkosh, Wisconsin|Oshkosh]], and [[Sheboygan, Wisconsin|Sheboygan]]. The incumbent is Republican [[Glenn Grothman]], who was reelected with 61.2% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Glenn Grothman]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849031 |url=https://docquery.fec.gov/cgi-bin/forms/H4WI06048/1849031 |access-date=2025-12-23 |website=docquery.fec.gov}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Glenn Grothman|list=;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name = "GrothmanBallotpedia">{{Cite web |title=Glenn Grothman |url=https://ballotpedia.org/Glenn_Grothman |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Glenn Grothman (R)
+|$865,240
+|$584,127
+|$803,602
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Wisconsin 6th |url=https://www.fec.gov/data/elections/house/WI/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Glenn Grothman]] (incumbent)|votes=63,462|percentage=99.68}}{{Election box write-in with party link no change|votes=206|percentage=0.32}}
+{{Election box total no change|votes=63,668|percentage=100.0}}{{Election box end}}
+
+=== Democratic primary ===
+==== Nominee ====
+*Brad Smith, businessman<ref>{{cite web |title=Democrat Brad Smith Announces Campaign for Congress in Wisconsin's 6th District |url=https://kfiz.com/democrat-brad-smith-announces-campaign-for-congress-in-wisconsins-6th-district/ |access-date=November 3, 2025 |work=[[KFIZ (AM)|KFIZ]] |date=October 31, 2025}}</ref>
+
+==== Eliminated in primary ====
+*Amanda Bell, former U.S. Geological Survey Center operations officer<ref>{{cite news |last1=Hale |first1=Lisa M. |title=Amanda Bell runs for 6th Congressional District |url=https://waukradio.com/news/2025/12/02/amanda-bell-runs-for-6th-congressional-district |access-date=December 2, 2025 |work=[[WAUK]] |date=December 2, 2025}}</ref>
+
+==== Withdrawn ====
+*Michael Heidenreich, paint store owner<ref name=":2">{{Cite news |last=Stefonek |first=Jonathan |date=May 5, 2026 |title=Candidates line up to take on Grothman for 6th District House race |url=https://www.hngnews.com/tribune_enterprise/news/local/candidates-line-up-to-take-on-grothman-for-6th-district-house-race/article_1f3393f2-1f22-4acc-aaaa-319e82c1ce34.html |access-date=July 27, 2026 |work=Tribune Enterprise}}</ref>
+*Aaron Wojciechowski, former [[Oshkosh, Wisconsin|Oshkosh]] city councilor<ref name=":2" />
+*Joey Marschall, bartender (''running for state assembly'')
+
+====Did not file====
+*Kelly Brown, business owner<ref name=":0" />
+*John Macho, minister and former [[U.S. Army]] officer<ref>{{cite news |last1=Hale |first1=Lisa |title=John Macho of Oshkosh jumps into the 6th Congressional District |url=https://waukradio.com/news/2025/11/18/john-macho-of-oshkosh-jumps-into-the-6th-congressional-district |access-date=November 18, 2025 |work=[[WAUK]] |date=November 18, 2025}}</ref>
+*Kortney Oldham<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6WI06159/1894258/}} June 1, 2025.</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Amanda Bell
+|list=
+;
+Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+{{Endorsements box
+|title=Brad Smith
+|list=
+;State legislators
+*[[Kristin Dassler-Alfheim]], [[Wisconsin's 18th Senate district|SD-18]] (2025–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/smith-campaign-brad-smith-campaign-continues-to-earn-support-across-wisconsins-6th-district/|title=Smith campaign: Brad Smith campaign continues to earn support across Wisconsin's 6th District|date=July 2, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Jodi Habush Sinykin]], [[Wisconsin's 8th Senate district|SD-08]] (2025–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/smith-campaign-state-senator-jodi-habush-sinykin-endorses-brad-smith-for-congress/|title=Smith campaign: State Senator Jodi Habush Sinykin endorses Brad Smith for Congress|date=June 16, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="WEAC Smith">{{cite web|url=https://www.wispolitics.com/2026/smith-campaign-brad-smith-earns-wisconsin-educator-association-endorsement-in-6th-congressional-district-race/|title=Smith Campaign: Brad Smith earns Wisconsin Educator Association Endorsement in 6th Congressional District Race|date=May 26, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Wisconsin Education Association Council]]<ref name="WEAC Smith"/>
+}}
+
+{{Endorsements box
+|title=Aaron Wojciechowski (''withdrawn'')
+|list=
+;Organizations
+*[[Track AIPAC]]<ref>{{cite web|url=https://www.trackaipac.com/endorsements|title=Candidates Endorsed By Citizens Against AIPAC Corruption|access-date=April 15, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Amanda Bell (D)
+|$40,119
+|$36,223
+|$3,896
+|-
+|{{party shading/Democratic}}|Brad Smith (D)
+|$155,415
+|$71,104
+|$84,310
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+==== Results ====
+{{Switcher|
+[[File:2026 Wisconsin's 6th congressional district Democratic primary election results by county.svg|thumb|Results by county
+{{collapsible list
+| title = {{legend|#7996E2|Smith}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}
+}}{{collapsible list
+| title = {{legend|#51C2C2|Bell}}|{{legend|#51C2C2|50–60%}}|{{legend|#2AACAC|60–70%}}
+}}]]|Results by county|
+[[File:Wisconsin's 6th congressional district 2026 Democratic primary election results by precinct.svg|thumb|Results by precinct
+{{collapsible list
+| title = {{legend|#7996E2|Smith}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Bell}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#009696|70–80%}}
+|{{legend|#008080|80–90%}}
+|{{legend|#006666|>90%}}
+}}]]|Results by precinct|
+}}
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Brad Smith|votes=36,413|percentage=50.18}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Amanda Bell|votes=36,046|percentage=49.67}}{{Election box write-in with party link no change|votes=109|percentage=0.15}}
+{{Election box total no change|votes=72,568|percentage=100.0}}{{Election box end}}
+
+===Green primary===
+====Declared====
+*Matthew Arndt, business owner<ref>{{cite news |last1=Behnke |first1=Duke |title=Appleton-area races set for Congress and Wisconsin Senate and Assembly |url=https://www.postcrescent.com/story/news/politics/elections/2026/06/01/appleton-area-election-november-2026-set-for-congress-and-wisconsin-senate-and-assembly/90300641007/ |access-date=June 10, 2026 |work=[[The Post-Crescent]] |date=June 1, 2026}}</ref>
+
+===Independents===
+====Declared====
+*Elizabeth Fitzgibbon<ref>{{cite web |title=Fitzgibbon campaign: Elizabeth Fitzgibbon launches independent campaign to lower costs and clean up Washington |url=https://www.wispolitics.com/2026/fitzgibbon-campaign-elizabeth-fitzgibbon-launches-independent-campaign-to-lower-costs-and-clean-up-washington/ |access-date=June 10, 2026 |work=[[WisPolitics]] |date=June 2, 2026}}</ref>
+*Michael Thurow, firefighter<ref>{{Cite news |date=January 20, 2026 |title=Thurow campaign: Mequon native, union fire captain and father of four launches independent run for Congress in WI-6 |url=https://www.wispolitics.com/2026/thurow-campaign-mequon-native-union-fire-captain-and-father-of-four-launches-independent-run-for-congress-in-wi-6/ |access-date=January 20, 2026 |work=[[WisPolitics]] |via=''Mike Thurow for Congress''}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Michael Thurow (I)
+|$154,864
+|$89,777
+|$66,691
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Wisconsin 6th |url=https://www.fec.gov/data/elections/house/WI/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=Elizabeth Fitzgibbon (I)
+|list=
+;Political parties
+*[[Libertarian Party of Wisconsin|Libertarian Party]]<ref>{{cite web |title=Libertarian Party: Unanimously endorses Elizabeth Fitzgibbon for Congress |url=https://www.wispolitics.com/2026/libertarian-party-unanimously-endorses-elizabeth-fitzgibbon-for-congress/ |access-date=June 10, 2026 |work=[[WisPolitics]] |date=May 19, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Michael Thurow (I)
+|list=
+;Individuals
+*[[Dan Osborn]], former president of [[Bakery, Confectionery, Tobacco Workers and Grain Millers' International Union]]<ref>{{cite web |title=Working Class Heroes Announces First 2026 Endorsements |url=https://chadronradio.com/working-class-heroes-announces-first-2026-endorsements/ |website=Chadron Radio |date=February 5, 2026 |access-date=June 14, 2026}}</ref>
+
+;Labor unions
+*[[International Association of Fire Fighters]] Local 215<ref>{{cite web|url=https://www.wispolitics.com/2026/thurow-campaign-iaff-local-215-endorses-mike-thurow-for-wi-6/|title=Thurow campaign: IAFF Local 215 endorses Mike Thurow for WI-6|date=January 23, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[International Association of Fire Fighters|Professional Fire Fighters of Wisconsin]]<ref>{{cite web|url=https://www.wispolitics.com/2026/thurow-campaign-the-pffw-endorses-mike-thurow-for-wi-6/|title=Thurow campaign: The PFFW endorses Mike Thurow for WI-6|date=March 24, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[United Auto Workers]] Wisconsin State CAP Council<ref>{{cite web|url=https://www.wispolitics.com/2026/thurow-campaign-the-uaw-wisconsin-state-cap-council-endorses-mike-thurow-for-wi-6/|title=Thurow campaign: The UAW Wisconsin State CAP Council endorses Mike Thurow for WI-6|date=June 3, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref name="ForwardParty">{{cite web |title=Candidates |url=https://www.forwardparty.com/candidates/ |website=Forward Party |access-date=8 April 2026}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Glenn<br />Grothman (R)
+! style="width:100px;"| Brad<br />Smith (D)
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WI06ToplinesMay2026"/>
+|May 18–28, 2026
+|437 (LV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''61%'''
+|39%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Glenn Grothman vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Glenn<br />Grothman (R)
+! style="width:100px;"| Generic<br />Democrat
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WI06ToplinesMay2026">{{Cite web|url=https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/WI-06%20Toplines.pdf|title=Wisconsin 6th Toplines|publisher=Tavern Research|access-date=May 29, 2026}}</ref>
+|May 18–28, 2026
+|437 (LV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''61%'''
+|39%
+|}
+
+'''Glenn Grothman vs. Michael Thurow'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Glenn<br />Grothman (R)
+! style="width:100px;"| Michael<br />Thurow (I)
+! Other
+! Undecided
+|-
+|style="text-align: left;"|Tavern Research (D)<ref name="WI06ToplinesMay2026"/>
+|May 18–28, 2026
+|437 (LV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''55%'''
+|45%
+|–
+|–
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref>{{Cite web|url=https://docs.google.com/document/d/1dnBCsEXvbRIp-ClNd2SWrMKJ4r_6fxM7AEB7C-Iicno/|title=Independent Candidate Action – Wisconsin CD-6 –Toplines – March 2026|work=[[Change Research]]|date=March 25, 2026|access-date=June 8, 2026}}</ref>{{efn-ua|name=ICA|Poll sponsored by Independent Candidate Action, which supports Thurow}}
+|March 17–20, 2026
+|640 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''42%'''
+|38%
+|2%{{efn|name="WNV2"|"Would not vote" with 2%}}
+|18%
+|}
+{{hidden end}}
+
+==District 7==
+{{see also|Wisconsin's 7th congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 7th congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 7
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Michael Alfonso 2025.jpg
+| nominee1 = Michael Alfonso
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Fred Clark in Bayfield (cropped).jpg
+| nominee2 = [[Fred Clark (politician)|Fred Clark]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Tom Tiffany]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 7th district is located in northwestern Wisconsin and includes [[Wausau, Wisconsin|Wausau]] and [[Superior, Wisconsin|Superior]]. The incumbent Republican [[Tom Tiffany]], who was reelected with 63.6% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> Tiffany is not seeking re-election, instead choosing to [[2026 Wisconsin gubernatorial election|run for governor]].<ref name=":3"/>
+
+===Republican primary===
+====Nominee====
+*Michael Alfonso, media producer and son-in-law of [[United States Secretary of Transportation|Secretary of Transportation]] [[Sean Duffy]]<ref>{{cite web|url=https://www.jsonline.com/story/news/politics/2025/10/29/sean-duffy-son-in-law-announces-bid-for-wisconsins-congressional-seat/86960876007/|title=Sean Duffy's son-in-law announces GOP bid for Wisconsin's 7th Congressional District|last=Andrea|first=Lawrence|date=October 29, 2025|access-date=October 29, 2025|website=[[Milwaukee Journal Sentinel]]}}</ref>
+====Eliminated in primary====
+*Niina Baum, business owner<ref>{{cite news |title='Moderate' Republican Niina Baum running for 7th Congressional District |url=https://www.weau.com/2026/02/04/moderate-republican-niina-baum-running-7th-congressional-district/ |access-date=March 23, 2026 |work=[[WEAU]] |date=February 3, 2026}}</ref>
+*Jessi Ebben, public relations professional and candidate for the 3rd district in [[2020 United States House of Representatives elections in Wisconsin#District 3|2020]]<ref>{{Cite news |date=September 24, 2025 |title=Jessi Ebben announces candidacy for Wisconsin's 7th Congressional District |url=https://www.weau.com/2025/09/24/jessi-ebben-announces-candidacy-wisconsins-7th-congressional-district/ |access-date=September 24, 2025 |work=[[WEAU]]}}</ref>
+*Kevin Hermening, former chair of the [[Marathon County, Wisconsin|Marathon County]] Republican Party and hostage during the [[Iran hostage crisis]]<ref>{{cite news |title=MON PM Update: Hermening running for 7th CD, but won't launch campaign until after holidays |url=https://pro.stateaffairs.com/wi/pm-update/mon-pm-update-hermening-running-for-7th-cd-but-wont-launch-campaign-until-after-holidays |access-date=November 26, 2025 |work=State Affairs |date=November 24, 2025}}</ref>
+*Don Raihala, construction contractor<ref>{{cite news |last1=Poltrock |first1=Heather |title=Republican Don Raihala announces bid for 7th Congressional District |url=https://www.wsaw.com/2026/06/01/republican-don-raihala-announces-bid-7th-congressional-district/ |access-date=July 27, 2026 |work=[[WSAW-TV]] |date=June 1, 2026}}</ref>
+
+====Withdrawn====
+*Paul Wassgren, attorney<ref>{{Cite web |last= |first= |date=2026-04-21 |title=Wassgren suspends campaign for 7th Congressional District |url=https://www.wsaw.com/2026/04/21/wassgren-suspends-campaign-7th-congressional-district/ |access-date=2026-04-22 |website=WSAW}}</ref>
+
+====Declined====
+*[[Calvin Callahan]], [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 35th Assembly district|35th district]] (2021–present) (''[[2026 Wisconsin State Assembly election|running for re-election]]'')<ref>{{Cite news |date=October 20, 2025 |title=Rep. Callahan: Thanks supporters, declines run for Congress |url=https://www.wispolitics.com/2025/rep-callahan-thanks-supporters-declines-run-for-congress/ |access-date=October 20, 2025 |work=[[WisPolitics]]}}</ref>
+*[[Mary Felzkowski]], president of the [[Wisconsin Senate]] (2025–present) from the [[Wisconsin's 12th Senate district|12th district]] (2021–present)<ref>{{Cite news |date=October 13, 2025 |title=Sen. Felzkowski: Statement on electoral future |url=https://www.wispolitics.com/2025/sen-felzkowski-statement-on-electoral-future/ |access-date=October 13, 2025 |work=[[WisPolitics]]}}</ref>
+*Paul Schecklman, economic development business owner<ref name=":3" />
+*[[Rob Swearingen]], [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 34th Assembly district|34th district]] (2023–present) (''[[2026 Wisconsin State Assembly election|running for re-election]]'')<ref>{{cite web|url=https://rrhelections.com/index.php/2025/09/24/political-roundup-for-september-24-2025/|work=RRH Elections|title=Political Roundup for September 24, 2025|date=September 24, 2025|access-date=September 24, 2025}}</ref>
+*[[Tom Tiffany]], incumbent U.S. representative (''[[2026 Wisconsin gubernatorial election|running for governor]]'')<ref name=":3">{{Cite news |last=Andrea |first=Lawrence |date=September 23, 2025 |title=U.S. Rep. Tom Tiffany enters the 2026 race for Wisconsin governor, 3rd Republican in the field |url=https://www.jsonline.com/story/news/politics/2025/09/23/u-s-rep-tom-tiffany-enters-the-2026-race-for-wisconsin-governor/85375533007/ |access-date=September 23, 2025 |work=[[Milwaukee Journal Sentinel]] |archive-url=https://archive.today/20250924124609/https://www.jsonline.com/story/news/politics/2025/09/23/u-s-rep-tom-tiffany-enters-the-2026-race-for-wisconsin-governor/85375533007/ |archive-date=September 24, 2025}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Michael Alfonso
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Styf |first1=Jon |title=Trump endorses Tiffany for Wisconsin governor, Alfonso for Congress |url=https://www.thecentersquare.com/wisconsin/article_4f76c73f-aae1-4fd9-b595-21af41afd309.html |website=The Center Square |access-date=28 January 2026 |date=27 January 2026}}</ref>
+*[[Sean Duffy]], [[United States Secretary of Transportation|secretary of transportation]] (2025–present) (''candidate's father-in-law'')<ref>{{cite web |last1=Gorman |first1=Reese |title=Sean Duffy Makes Unapproved Campaign Stop in Wisconsin |url=https://www.notus.org/trump-white-house/sean-duffy-trump-michael-alfonso-campaign-event-wisconsin-dot-transportation |website=NOTUS |access-date=17 November 2025 |date=6 November 2025}}</ref>
+
+;U.S. representatives
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="EndTrack"/>
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="EndTrack"/>
+*[[Bryan Steil]], [[WI-01]] (2019–present)<ref name="EndTrack"/>
+*[[Derrick Van Orden]], [[WI-03]] (2023–present)<ref name="EndTrack"/>
+*[[Scott Fitzgerald (politician)|Scott Fitzgerald]], [[WI-05]] (2021–present)<ref name="EndTrack"/>
+*[[Tony Wied]], [[WI-08]] (2024–present)<ref name="EndTrack"/>
+*[[Brandon Gill]], [[TX-26]] (2025–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Shannon Zimmerman]], state assemblymember from the 30th district (2017–present)<ref name = "AlfonsoBallotpedia"/>
+
+;Organizations
+*[[Turning Point Action]]<ref name = "AlfonsoBallotpedia">{{Cite web |title=Michael Alfonso |url=https://ballotpedia.org/Michael_Alfonso |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+}}
+{{Endorsements box
+| title = Niina Baum
+| list =
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref>{{cite web|url=https://www.wispolitics.com/2026/forward-party-endorses-niina-baum-in-wisconsin-and-alissa-ellman-in-new-york/|title=Forward Party: Endorses Niina Baum in Wisconsin and Alissa Ellman in New York|date=July 27, 2026|access-date=July 28, 2026|website=[[Wispolitics.com]]}}</ref>
+}}
+{{Endorsements box
+| title = Jessi Ebben 
+| list =
+;U.S. representatives
+*[[Eric Burlison]], [[Missouri's 7th congressional district|MO-07]] (2023–present)<ref>{{cite web|url=https://www.wispolitics.com/2025/ebben-campaign-rep-eric-burlison-endorses-trump-conservative-jessi-ebben-in-wi-07/|title=Ebben campaign: Rep. Eric Burlison endorses Trump conservative Jessi Ebben in WI-07|date=October 14, 2025|access-date=October 14, 2025 |website=[[WisPolitics]]}}</ref>
+*[[Virginia Foxx]], [[North Carolina's 5th congressional district|NC-05]] (2005–present)<ref>{{cite web |date=October 9, 2025 |title=Ebben campaign: New: Rep. Virginia Foxx endorses Trump Conservative Jessi Ebben in WI-07 |url=https://www.wispolitics.com/2025/ebben-campaign-new-rep-virginia-foxx-endorses-trump-conservative-jessi-ebben-in-wi-07/ |access-date=October 9, 2025 |website=[[WisPolitics]]}}</ref>
+*[[Anna Paulina Luna]], [[Florida's 13th congressional district|FL-13]] (2023–present)<ref>{{cite web |title=Ebben campaign: New: Rep. Anna Paulina Luna endorses Trump Conservative Jessi Ebben in WI-07 |url=https://pro.stateaffairs.com/wi/press-releases/ebben-campaign-new-rep-anna-paulina-luna-endorses-trump-conservative-jessi-ebben-in-wi-07 |website=State Affairs |access-date=3 January 2026}}</ref>
+*[[David McIntosh (politician)|David McIntosh]], former [[Indiana's 2nd congressional district|IN-02]] (1995–2001)<ref name="CFG">{{cite web|url=https://www.wispolitics.com/2025/ebben-campaign-club-for-growth-pac-endorses-trump-conservative-jessi-ebben-in-wi-07/|title=Ebben campaign: Club for Growth PAC endorses Trump Conservative Jessi Ebben in WI-07|date=September 26, 2025|access-date=October 14, 2025 |website=[[WisPolitics]]}}</ref>
+
+;Statewide officials
+*[[Dan Meyer (Wisconsin politician)|Dan Meyer]], former secretary of the [[Wisconsin Department of Natural Resources]] (2017–2019)<ref>{{cite web|url=https://www.wispolitics.com/2026/ebben-campaign-new-former-tate-rep-and-dnr-secretary-dan-meyer-endorses-trump-conservative-jessi-ebben-in-wi-07/|title=Ebben campaign: NEW: Former tate Rep. and DNR Secretary Dan Meyer endorses Trump conservative Jessi Ebben in WI-07|date=January 15, 2026|access-date=July 28, 2026|website=[[Wispolitics.com]]}}</ref>
+
+;Organizations
+*[[Club for Growth]]<ref name="CFG"/>
+}}
+{{Endorsements box
+| title = Kevin Hermening
+| list =
+;State legislators
+*[[Brent Jacobson]], [[Wisconsin State Assembly|state assemblymember]] from the [[Wisconsin's 87th Assembly district|87th district]] (2025–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/hermening-campaign-state-rep-brent-jacobson-endorses-kevin-hermening-for-congress/|title=Hermening campaign: State Rep Brent Jacobson endorses Kevin Hermening for Congress|date=March 31, 2026|access-date=July 28, 2026|website=[[Wispolitics.com]]}}</ref>
+*[[Romaine Quinn]], [[Wisconsin State Senate|state senator]] from the [[Wisconsin's 25th Senate district|25th district]] (2023–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/sen-quinn-endorses-marine-veteran-kevin-hermening-for-congress/|title=Sen. Quinn: Endorses Marine Veteran Kevin Hermening for Congress|date=May 18, 2026|access-date=July 28, 2026|website=[[Wispolitics.com]]}}</ref>
+*[[Patrick Snyder]], [[Wisconsin State Assembly|state assemblymember]] from the [[Wisconsin's 85th Assembly district|85th district]] (2017–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/hermening-campaign-state-rep-patrick-snyder-endorses-kevin-hermening-for-congress/|title=Hermening campaign: State Rep. Patrick Snyder endorses Kevin Hermening for congress|date=April 21, 2026|access-date=July 28, 2026|website=[[Wispolitics.com]]}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michael Alfonso (R)
+|$1,351,546
+|$688,138
+|$663,408
+|-
+|{{party shading/Republican}}|Jessi Ebben (R)
+|$528,023
+|$235,172
+|$294,453
+|-
+|{{party shading/Republican}}|Kevin Hermening (R)
+|$1,180,818
+|$974,536
+|$206,282
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Wisconsin 7th |url=https://www.fec.gov/data/elections/house/WI/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"| Michael<br />Alfonso
+! style="width:60px;"| Jessi<br />Ebben
+! style="width:60px;"| Kevin<br />Hermening
+! style="width:60px;"| Niina<br />Baum
+! Undecided
+|-
+|style="text-align:left;"|TIPP Insights (R)<ref>{{Cite web|url=https://tippinsights.com/league-of-american-workers-survey-wisconsin-district-7/|title=League of American Workers Survey — Wisconsin District-7|website=TIPP Insights|date=May 11, 2026|access-date=May 11, 2026}}</ref>{{efn-ua|name=LAW|Poll sponsored by League of American Workers}}
+|April 28 – May 1, 2026
+|301 (RV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''35%'''
+|5%
+|21%
+|5%
+|34%
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Wisconsin's 7th congressional district Republican primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator(s)
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | Michael Alfonso
+! scope="col" | Niina Baum
+! scope="col" | Jessi Ebben
+! scope="col" | Kevin Hermening
+|-
+!1
+| style="white-space:nowrap;" | July 7, 2026
+| style="white-space:nowrap;" | [[WJFW-TV]]
+| style="white-space:nowrap;" | Dan Hagen
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=n29U1Cmmk-Y Youtube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+[[File:2026 Wisconsin's 7th congressional district Republican primary election results by county.svg|thumb|County results:{{collapsible list
+| title = {{legend|#E27F7F|Alfonso}}|{{legend|#FFB2B2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}
+}}]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Michael Alfonso|votes=49,720|percentage=48.96}}{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Kevin Hermening|votes=27,009|percentage=26.59}}{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Jessi Ebben|votes=15,937|percentage=15.69}}{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Niina Baum|votes=4,893|percentage=4.82}}{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Don Raihala|votes=3,926|percentage=3.87}}{{Election box write-in with party link no change|votes=73|percentage=0.07}}
+{{Election box total no change|votes=101,558|percentage=100.0}}{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Fred Clark (politician)|Fred Clark]], former [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 81st Assembly district|81st district]]{{efn|Numbered as the [[Wisconsin's 42nd Assembly district|42nd district]] prior to the [[2010 United States redistricting cycle|2010 redistricting cycle]].}} (2009–2015) and nominee for [[Wisconsin's 14th Senate district]] in [[2011 Wisconsin Senate recall elections|2011]]<ref>{{Cite news |date=October 1, 2025 |title=Bayfield resident announces campaign for Wisconsin's 7th congressional district |url=https://www.apg-wi.com/ashland_daily_press/news/local/bayfield-resident-announces-campaign-for-wisconsin-s-7th-congressional-district/article_4685c43c-c0ee-43fd-af10-1a707e01a497.html |access-date=October 1, 2025 |work=[[Ashland Daily Press]]}}</ref>
+====Eliminated in primary====
+*Chris Armstrong, business owner<ref name=":0" />
+*Ginger Murray, attorney<ref>{{Cite news |date=December 4, 2025 |title=Crandon attorney announces bid for 7th Congressional District |url=https://www.apg-wi.com/ashland_daily_press/news/state_and_national/crandon-attorney-announces-bid-for-7th-congressional-district/article_8ed9f0ce-762e-461e-aed9-265632114ea2.html |access-date=December 8, 2025 |work=[[Ashland Daily Press]]}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Chris Armstrong
+|list=
+;Organizations
+*[[Center for Freethought Equality]]<ref name = "ArmstrongBallotpedia">{{Cite web |title=Chris Armstrong (Wisconsin) |url=https://ballotpedia.org/Chris_Armstrong_(Wisconsin) |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Fred Clark
+|list=
+;U.S. representatives
+*[[Dave Obey]], former [[Wisconsin's 7th congressional district|WI-07]] (1969–2011)<ref>{{cite web|url=https://www.wispolitics.com/2026/clark-campaign-former-congressman-dave-obey-endorses-candidate-fred-clark-in-wisconsins-7th-congressional-district/|title=Clark campaign: Former Congressman Dave Obey endorses candidate Fred Clark in Wisconsin's 7th Congressional District|date=July 7, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Mark Pocan]], [[Wisconsin's 2nd congressional district|WI-02]] (2013–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/clark-campaign-congressman-mark-pocan-endorses-democratic-candidate-fred-clark-in-wisconsins-7th-congressional-district/|title=Clark campaign: Congressman Mark Pocan Endorses Democratic Candidate Fred Clark in Wisconsin's 7th Congressional District|date=July 21, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Chris Armstrong (D)
+|$31,323
+|$27,938
+|$3,384
+|-
+|{{party shading/Democratic}}|Fred Clark (D)
+|$275,258
+|$118,042
+|$157,215
+|-
+|{{party shading/Democratic}}|Ginger Murray (D)
+|$115,003
+|$30,590
+|$84,412
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+==== Results ====
+[[File:2026 Wisconsin's 7th congressional district Democratic primary election results by county.svg|thumb|County results:{{collapsible list
+| title = {{legend|#7996E2|Clark}}|{{legend|#BDD3FF|30–40%}}|{{legend|#A5B0FF|40–50%}}|{{legend|#7996E2|50–60%}}|{{legend|#584CDE|70–80%}}
+}}{{collapsible list
+| title = {{legend|#51C2C2|Murray}}|{{legend|#ACF2F2|30–40%}}|{{legend|#7DDDDD|40–50%}}|{{legend|#51C2C2|50–60%}}
+}}{{collapsible list
+| title = {{legend|#FFAACC|Armstrong}}|{{legend|#FFC5DA|30–40%}}|{{legend|#FFAACC|40–50%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Fred Clark (politician)|Fred Clark]]|votes=25,716|percentage=37.66}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Ginger Murray|votes=21,726|percentage=31.82}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Chris Armstrong|votes=20,764|percentage=30.41}}{{Election box write-in with party link no change|votes=76|percentage=0.11}}
+{{Election box total no change|votes=68,282|percentage=100.0}}{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025 
+|}
+
+==District 8==
+{{see also|Wisconsin's 8th congressional district}}
+{{Infobox election
+| election_name = 2026 Wisconsin's 8th congressional district election
+| country = Wisconsin
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Wisconsin#District 8
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Wisconsin#District 8
+| next_year = 2028
+| image_size = x150px
+| image1 = Representative Tony Wied Official Portrait (cropped).jpg
+| nominee1 = [[Tony Wied]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Rick Crosson
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Tony Wied]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+
+The 8th district encompasses northeastern Wisconsin, including [[Green Bay, Wisconsin|Green Bay]] and [[Appleton, Wisconsin|Appleton]]. The incumbent is Republican [[Tony Wied]], who was elected with 57.3% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Tony Wied]], incumbent U.S. representative<ref>{{cite news |last1=Krumholz |first1=Ben |title=Rep. Tony Wied says he'll run again in 2026 after 2 Democrats recently declared candidacy |url=https://fox11online.com/news/local/rep-tony-wied-says-hell-run-again-in-26-after-two-democrats-recently-declared-8th-congressional-district-rick-crosson-mark-scheffler |access-date=August 28, 2025 |work=[[WLUK-TV]] |date=August 28, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Tony Wied
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Wied campaign: President Donald J. Trump gives Congressman Tony Wied his "Complete and Total Endorsement" for re-election in 2026 |url=https://www.wispolitics.com/2025/wied-campaign-president-donald-j-trump-gives-congressman-tony-wied-his-complete-and-total-endorsement-for-re-election-in-2026/ |website=WisPolitics |access-date=17 November 2025 |date=3 November 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tony Wied (R)
+|$831,540
+|$449,391
+|$427,379
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Wisconsin 8th |url=https://www.fec.gov/data/elections/house/WI/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 9, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Tony Wied]] (incumbent)|votes=63,211|percentage=99.78}}{{Election box write-in with party link no change|votes=137|percentage=0.22}}
+{{Election box total no change|votes=63,348|percentage=100.0}}{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Rick Crosson, former [[Green Bay, Wisconsin|Green Bay]] school board member (2024–2025)<ref name="CrossonWI8">{{cite news |last1=Scharf |first1=Nadia |last2=Lin |first2=Jesse |title=Former Green Bay School Board member Rick Crosson announces run for 8th Congressional District |url=https://www.greenbaypressgazette.com/story/news/politics/2025/08/18/rick-crosson-announces-run-for-congress-as-democrat-against-tony-wied/85710973007/ |access-date=August 18, 2025 |work=[[Green Bay Press-Gazette]] |date=August 18, 2025}}</ref>
+====Eliminated in primary====
+*Katrina DeVille, musician<ref>{{cite web |last1=Zimmerman |first1=Jason |title=3 Democrats running in the 8th Congressional District, setting up first primary in almost 20 years |url=https://www.wbay.com/2026/01/01/3-democrats-running-8th-congressional-district-setting-up-first-primary-almost-20-years/ |access-date=January 1, 2026 |work=[[WBAY]] |date=December 31, 2025}}</ref>
+*Mark Scheffler, financial advisor<ref>{{cite news |last1=Washington |first1=Charlotte Scott |title=Another Democrat challenging Green Bay Rep. Tony Wied |url=https://spectrumnews1.com/oh/toledo/news/2025/08/26/democrat-mark-scheffler-campaign-congress |access-date=August 26, 2025 |work=[[Spectrum News]] |date=August 26, 2025}}</ref>
+
+====Did not file====
+*Benjamin Hable, former electrical engineer<ref name=GrowingField>{{cite web |last1=Lin |first1=Jesse |title=Benjamin Hable seeks 8th Congressional District seat, stresses representation, youth involvement |url=https://www.greenbaypressgazette.com/story/news/politics/elections/2025/10/15/democrat-benjamin-hable-stresses-representation-in-run-for-congress/86296104007/ |access-date=October 15, 2025 |work=[[Green Bay Press-Gazette]] |date=October 15, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Katrina DeVille
+|list=
+;Organizations
+*  Northeast Wisconsin [[Democratic Socialists of America]]<ref name = "deVilleBallotpedia">{{Cite web |title=Katrina DeVille |url=https://ballotpedia.org/Katrina_deVille |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+}}{{Endorsements box
+|title=Mark Scheffler
+|list=
+;Organizations
+* [[Center for Freethought Equality]]<ref name = "SchefflerBallotpedia">{{Cite web |title=Mark Scheffler |url=https://ballotpedia.org/Mark_Scheffler |access-date=2026-08-07 |website=Ballotpedia |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Rick Crosson (D)
+|$23,772
+|$10,981
+|$15,588
+|-
+|{{party shading/Democratic}}|Mark Scheffler (D)
+|$91,546
+|$73,626
+|$17,919
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+==== Results ====
+[[File:2026 Wisconsin's 8th congressional district Democratic primary election results by county.svg|thumb|County results:{{collapsible list
+| title = {{legend|#A5B0FF|Crosson}}|{{legend|#BDD3FF|30–40%}}|{{legend|#A5B0FF|40–50%}}
+}}{{collapsible list
+| title = {{legend|#7DDDDD|Scheffler}}|{{legend|#ACF2F2|30–40%}}|{{legend|#7DDDDD|40–50%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Rick Crosson|votes=24,970|percentage=35.24}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Mark Scheffler|votes=23,392|percentage=33.01}}{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Katrina DeVille|votes=22,405|percentage=31.62}}{{Election box write-in with party link no change|votes=88|percentage=0.12}}
+{{Election box total no change|votes=70,855|percentage=100.0}}{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Tony Wied (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-tony-wied-for-wisconsins-eighth-district|title=U.S. Chamber Endorses Rep. Tony Wied for Wisconsin’s Eighth District|date=September 3, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+{{div col start|colwidth=60}}
+'''Official campaign websites for 1st district candidates'''
+*[https://www.bermanforcongress.com/ Mitchell Berman (D)]
+*[https://bryansteil.com/ Bryan Steil (R)]
+
+'''Official campaign websites for 2nd district candidates'''
+*[https://pocanforcongress.com/ Mark Pocan (D)]
+
+'''Official campaign websites for 3rd district candidates'''
+*[https://cookeforwisconsin.com/en/ Rebecca Cooke (D)]
+*[https://rustinforcongress.wixsite.com/website Rustin Provance (I)]
+*[https://www.vanordenforcongress.com/ Derrick Van Orden (R)]
+
+'''Official campaign websites for 4th district candidates'''
+*[https://www.burks4congress.com/ Arthur Burks (I)]
+*[https://gwenmooreforcongress.com/ Gwen Moore (D)]
+*[https://www.rogersforwisconsin.com/ Tim Rogers (R)]
+
+'''Official campaign websites for 5th district candidates'''
+*[https://www.beckforcongress.com/ Andrew Beck (D)]
+*[https://scottfitzgeraldforcongress.com/ Scott Fitzgerald (R)]
+
+'''Official campaign websites for 6th district candidates'''
+*[https://endthecartel.com/ Matthew Arndt (G)]
+*[https://www.fitzgibbonforcongress.com/ Elizabeth Fitzgibbon (I)]
+*[https://glenngrothman.com/ Glenn Grothman (R)]
+*[https://www.bradsmithforcongress.com/ Brad Smith (D)]
+*[https://www.thurowforcongress.com/ Mike Thurow (I)]
+
+'''Official campaign websites for 7th district candidates'''
+*[https://www.alfonsoforwisconsin.com/ Michael Alfonso (R)]
+*[https://www.clarkforwi.com/ Fred Clark (D)]
+
+'''Official campaign websites for 8th district candidates'''
+*[https://rickcrosson.com/ Rick Crosson (D)]
+*[https://tonywiedforcongress.com/ Tony Wied (R)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Wisconsin|2024]]
+[[Category:2026 elections in Wisconsin|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Wisconsin]]

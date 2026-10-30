@@ -1,0 +1,1297 @@
+{{Short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{use mdy dates|date=May 2025}}
+{{use American English|date=May 2025}}
+
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Louisiana
+| country = Louisiana
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives elections in Louisiana
+| next_year = ''2028''
+| seats_for_election = All 6 Louisiana seats to the [[United States House of Representatives]]
+| party1 = Republican Party (United States)
+| last_election1 = '''4'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 2
+| seats2 = 
+| seat_change2 = 
+| map_image = <!--{{Switcher
+|[[File:Louisiana 2026 US House Elections.svg|300px]]|District results
+|[[File:2026 United States House of Representatives elections in Louisiana results map by parish.svg|300px]]|Parish results
+}}-->
+| map_caption = 
+}}
+{{ElectionsLA}}
+[[File:Louisiana Congressional Districts, 120th Congress.svg|thumb|upright=1.2|District lines to be used from the 2026 elections, per SB 121 signed by the [[Governor of Louisiana]] on May 29, 2026<ref>{{Cite web |title=Louisiana |url=https://redistricting.lls.edu/state/louisiana/ |access-date=2026-06-17 |website=All About Redistricting |language=en}}</ref>
+<br />{{maplink|from1=Louisiana's 1st congressional district (2027–).map|from2=Louisiana's 2nd congressional district (2027–).map|from3=Louisiana's 3rd congressional district (2027–).map|from4=Louisiana's 4th congressional district (2027–).map|from5=Louisiana's 5th congressional district (2027–).map|from6=Louisiana's 6th congressional district (2027–).map|text=Interactive map version}}
+]]
+The '''2026 United States House of Representatives elections in Louisiana''' will be held on November 3, 2026, to elect the 6 [[U.S. representative]]s from the [[U.S. state|state]] of [[Louisiana]], one from each of the state's [[Louisiana's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. In races where no candidate receives over 50% of the vote, runoff elections will take place on December 12, 2026. 
+
+Party [[primary election]]s were originally scheduled for May 16, 2026, with the potential primary runoffs scheduled for June 27.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref><ref>{{cite web|url=https://www.wwltv.com/article/news/politics/elections/us-house-primaries-officially-rescheduled-to-fall-louisiana-officials-say/289-203a2a88-808d-418a-955f-52c7bad152cc|title=U.S. House primaries officially rescheduled to fall, Louisiana officials say|publisher=[[WWL-TV]]|last=Walberg|first=Rae|date=May 14, 2026|access-date=May 16, 2026}}</ref> On April 30, Governor [[Jeff Landry]] announced that he would postpone the primaries to give state legislators time to redraw congressional maps following the [[Supreme Court of the United States|United States Supreme Court]] decision in ''[[Louisiana v. Callais]]''.<ref>{{Cite web|date=April 30, 2026 |title=Louisiana will delay House primaries after Supreme Court redistricting ruling, governor says|url=https://www.nbcnews.com/politics/2026-election/louisiana-delay-house-primaries-supreme-court-redistricting-ruling-rcna342858|website= NBC News|access-date=30 April 2026}}</ref> It was then decided that they will be held using the [[Nonpartisan primary|jungle primary]] system, in which all candidates regardless of party compete on the same ballot on the date of the [[general election]], November 3. 50% of the vote is required to win the election outright; otherwise, a runoff is scheduled for December 12.<ref>{{cite web |title=AP Decision Notes: What to expect in Louisiana's state primary runoff |url=https://thehill.com/homenews/campaign/louisiana-primary-runoff-saturday-what-to-expect/#:~:text=Primaries%20for%20U.S,regardless%20of%20party. |website=The Hill |access-date=June 27, 2026}}</ref>
+
+{{toclimit|2}}
+
+==Redistricting==
+===Background===
+In April 2026, the Supreme Court ruled on ''[[Louisiana v. Callais]]'' that stricter scrutiny had to be applied with regard to section 2 of the [[Voting Rights Act]]. The state following the ruling requested the Court strike down the lower court ruling to have two black majority districts, which it proceeded to do. The state government has pushed to move back the primary dates in light of the court requiring redistricting.<ref>{{cite web |last1=Hutchinson |first1=Piper |title=Supreme Court strikes down Louisiana congressional maps in case with national implications |url=https://lailluminator.com/2026/04/29/supreme-court-callais/ |website=Louisiana Illuminator |date=April 29, 2026 }}</ref> On May 29, 2026, Governor [[Jeff Landry]] signed a new map into law, removing one of the two plurality-Black, Democratic-controlled districts.<ref>{{cite web |last1=Saksa |first1=Jim |title=Gov. Landry signs Louisiana gerrymander into law, erasing majority-Black district |url=https://www.democracydocket.com/news-alerts/louisiana-lawmakers-send-new-congressional-map-erasing-majority-black-district-to-governor-to-sign/ |website=[[Democracy Docket]] |date=May 29, 2026 }}</ref>
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Louisiana's 1st congressional district election
+| country = Louisiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Louisiana#District 1
+| next_year = ''2028''
+| image_size = x150px
+| image1 = 
+| nominee1 = 
+| party1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Steve Scalise]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Louisiana's 1st congressional district}}
+[[File:Louisiana's 1st congressional district (since 2027) (new version).svg|thumb|Louisiana's 1st congressional district boundary from the 2026 elections<br>{{maplink|from=Louisiana's 1st congressional district (2027–).map|text=Interactive map version}}]]
+The 1st district is based in the suburbs of [[New Orleans, Louisiana|New Orleans]], spanning from the northern shore of [[Lake Pontchartrain]] south to the [[Mississippi River Delta]]. The incumbent is Republican [[Steve Scalise]], who was re-elected with 66.8% of the vote in 2024.<ref name="HPVT">{{cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Candidates===
+==== Declared ====
+*Randall Arrington (Republican), Navy veteran<ref name="challengers">{{cite web |url=https://americanpress.com/2026/02/14/six-us-congressmen-from-louisiana-all-have-challengers/ |title=Six US congressmen from Louisiana all have challengers |website=American Press |date=February 14, 2026 |access-date=February 17, 2026}}</ref>
+*E. Glass (Independent), special education teacher<ref name="Cand">{{cite web|title=Louisiana's 2026 U.S. Senate and House races: Meet the candidates|date=September 20, 2026|url=https://www.wwltv.com/article/news/politics/elections/louisianas-2026-us-senate-and-house-races-meet-the-candidates-vote-voting-politics-government/289-0b5d1ab7-84cf-4b50-9009-e6d5377b665f|website=4WWL|access-date=September 23, 2026}}</ref>
+*Lauren Jewett (Democratic), special education teacher<ref>{{cite web |last1=Hilburn |first1=Greg |title=Special education teacher campaigns against Majority Leader Steve Scalise as special ed gutted |url=https://www.shreveporttimes.com/story/news/2025/10/20/special-education-teacher-campaigns-against-house-majority-leader-steve-scalise-in-louisiana/86797757007/ |access-date=October 22, 2025 |work=[[Shreveport Times]] |date=October 20, 2025}}</ref>
+*[[Steve Scalise]] (Republican), incumbent U.S. representative and [[House Majority Leader]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849634 |url=https://docquery.fec.gov/cgi-bin/forms/H0LA01087/1849634/ |access-date=2025-09-29 |website=docquery.fec.gov}}</ref>
+
+==== Withdrawn ====
+* Jim Long (Democratic)<ref name=":0">{{cite web | title=Candidate Inquiry | url=https://voterportal.sos.la.gov/candidateinquiry }}</ref>
+* Donna Major (Democratic)<ref name="blt">{{cite web |url=https://ballotpedia.org/Louisiana%27s_1st_Congressional_District |title=Louisiana's 1st Congressional District}}</ref>
+* Candida Pagel (Democratic)<ref name="blt"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Endorsements====
+{{Endorsements box
+| title = Steve Scalise (R)
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Graves-2024b"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Lauren Jewett (D)
+| list =
+;Labor unions
+*[[AFL-CIO|Louisiana AFL-CIO]]<ref>{{cite news |title=Louisiana AFL-CIO Endorses Lauren Jewett in LA-1, Giving Democrat Major Boost as Field Clears |author=The Bayou Progressive |url=https://bayouprogressive.com/2026/03/louisiana-afl-cio-endorses-lauren-jewett-in-la-1-giving-democrat-major-boost-as-field-clears |access-date=October 28, 2026}}</ref>
+;Organizations
+*[[National Organization for Women]]<ref>{{cite web |title=2026 Federal Endorsements |website=NOW PAC |publisher=National Organization for Women |url=https://nowpac.org/2026-federal-endorsements |archive-url=https://web.archive.org/web/20260930050144/https://nowpac.org/2026-federal-endorsements |archive-date=September 30, 2026 |access-date=October 24, 2026}}</ref>
+*[[Democratic Socialists of America|New Orleans Democratic Socialists of America]]<ref>{{cite news |title=Solidarity Means Action: August 3, 2026 |website=New Orleans Democratic Socialists of America |url=https://dsaneworleans.org/2026/08/03/solidarity-means-action-august-3-2026 |date=August 3, 2026 |access-date=October 28, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Steve Scalise (R)
+|$10,638,030
+|$10,883,240
+|$3,885,941
+|-
+|{{party shading/Democratic}}|Lauren Jewett (D)
+|$142,676
+|$130,792
+|$11,884
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC1">{{Cite web |title=2026 Election United States House - Louisiana 1st |url=https://www.fec.gov/data/elections/house/LA/01/2026/ |access-date=May 24, 2026 |website=FEC.gov |language=en}}</ref>
+|}
+
+
+====Results====
+{{Election box begin no change
+| title=2026 Louisiana's 1st congressional district election
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Randall Arrington
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+| party       = Independent politician
+| candidate   = E. Glass
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+| party       = Democratic Party (United States)
+| candidate   = Lauren Jewett
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Steve Scalise]] (incumbent)
+ | votes      = 
+ | percentage = 
+}}
+{{Election box total no change
+ | votes      = 
+ | percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Louisiana's 2nd congressional district election
+| country = Louisiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Louisiana#District 2
+| next_year = ''2028''
+| image_size = x150px
+| image1 = 
+| nominee1 = 
+| party1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Troy Carter (politician)|Troy Carter]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Louisiana's 2nd congressional district}}
+[[File:Louisiana's 2nd congressional district (since 2027) (new version).svg|thumb|Louisiana's 2nd congressional district boundary from the 2026 elections<br>{{maplink|from=Louisiana's 2nd congressional district (2027–).map|text=Interactive map version}}]]
+The 2nd district stretches from [[New Orleans]] to inner [[Baton Rouge, Louisiana|Baton Rouge]]. The incumbent is Democrat [[Troy Carter (politician)|Troy Carter]], who was re-elected with 60.3% of the vote in 2024.<ref name="HPVT" />
+
+===Candidates===
+==== Declared ====
+*Lisa Ballay (Libertarian), digital creator and wife of 2024 Presidential candidate [[2024 Libertarian Party presidential primaries|Charles Ballay]]<ref>{{Cite web |last=Hutchinson |first=Piper |date=2026-08-07 |title=Miguez jumps into 6th District race, but Trump endorsement uncertain • Louisiana Illuminator |url=https://lailluminator.com/2026/08/07/miguez-jumps-into-6th-district-race-but-trump-endorsement-uncertain/ |access-date=2026-08-08 |website=Louisiana Illuminator |language=en-US}}</ref>
+*Walker Beach (Independent), paramedic<ref name="Cand" />
+*[[Troy Carter (politician)|Troy Carter]] (Democratic), incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1860439 |url=https://docquery.fec.gov/cgi-bin/forms/H2LA02149/1860439/ |access-date=2025-09-29 |website=docquery.fec.gov}}</ref>
+*Renada Collins (Democratic), businesswoman and independent candidate for [[mayor of New Orleans]] in [[2025 New Orleans mayoral election|2025]]<ref name=challengers/>
+*Peter Williams (Republican), tree farmer<ref name="Cand" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=Troy Carter
+|list=
+;Organizations
+*[[J Street]]<ref>{{cite web |title=Troy Carter |url=https://jstreetpac.org/candidate/troy-carter/ |publisher=J Street PAC |access-date=April 21, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC">{{cite web |last1=Corder |first1=Frank |title=Thompson endorsed by SPLC Action Fund |url=https://www.columbianprogress.com/thompson-endorsed-splc-action-fund-69f0e01fdf45c |website=The Columbian Progress |access-date=9 August 2026 |date=April 28, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Troy Carter (D)
+|$1,412,697
+|$1,539,320
+|$382,785
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC2">{{Cite web |title=2026 Election United States House - Louisiana 2nd |url=https://www.fec.gov/data/elections/house/LA/02/2026/ |access-date=May 24, 2026 |website=FEC.gov |language=en}}</ref>
+|}
+
+====Results====
+{{Election box begin no change
+| title=2026 Louisiana's 2nd congressional district election
+}}
+{{Election box candidate with party link no change
+ | party      = Libertarian Party (United States)
+ | candidate  = Lisa Ballay
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+| party       = Independent politician
+| candidate   = Walker Beach
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+| party       = Democratic Party (United States)
+| candidate   = [[Troy Carter (politician)|Troy Carter]] (incumbent)
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Renada Collins
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Peter Williams
+ | votes      = 
+ | percentage = 
+}}
+{{Election box total no change
+ | votes      = 
+ | percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Louisiana's 3rd congressional district election
+| country = Louisiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Louisiana#District 3
+| next_year = ''2028''
+| image_size = x150px
+| image1 = 
+| nominee1 = 
+| party1 =
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Clay Higgins]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Louisiana's 3rd congressional district}}
+[[File:Louisiana's 3rd congressional district (since 2027) (new version).svg|thumb|Louisiana's 3rd congressional district boundary from the 2026 elections<br>{{maplink|from=Louisiana's 3rd congressional district (2027–).map|text=Interactive map version}}]]
+The 3rd district encompasses [[Southwest Louisiana|southwestern Louisiana]], taking in [[Lake Charles, Louisiana|Lake Charles]] and [[Lafayette, Louisiana|Lafayette]]. The incumbent is Republican [[Clay Higgins]], who was re-elected with 70.6% of the vote in 2024.<ref name="HPVT" />
+
+===Candidates===
+==== Declared ====
+*Kate Cotten (Republican)<ref name="Cand" />
+*John Day (Democratic), former insurance industry employee<ref>{{cite news |last1=Gonsoulin |first1=Aaron |title=Incumbent Higgins, two Democrats qualify in Louisiana District 3 |url=https://www.theadvertiser.com/story/news/local/acadiana/2026/02/12/louisiana-district-3-qualifying-period-candidates-file/88616773007/ |access-date=February 12, 2026 |work=[[The Daily Advertiser (Lafayette, Louisiana)|The Daily Advertiser]] |date=February 12, 2026}}</ref>
+*Priscilla Gonzalez (Democratic)<ref name="Cand" />
+*[[Clay Higgins]] (Republican), incumbent U.S. representative<ref>{{cite news |work=KLFY.com |access-date=April 11, 2025 |author1=Badeaux, Lilianna |url=https://www.klfy.com/louisiana/congressman-clay-higgins-announced-he-will-not-run-for-senator-in-2026/ |date=March 20, 2025 |title=Congressman Clay Higgins announced he will not run for Senator in 2026 |quote=Many expected Congressman Clay Higgins would campaign for this position but earlier today, Higgins released a statement where he expressed his intent to stay in the House.}}</ref>
+*Tia LeBrun (Independent), teacher and Democratic candidate for this district in [[2022 United States House of Representatives elections in Louisiana#District 3|2022]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1927096 |url=https://docquery.fec.gov/cgi-bin/forms/H2LA03105/1927096 |access-date=2025-12-01 |website=docquery.fec.gov}}</ref>
+*Caleb Walker (Democratic), executive president of the SGA at [[South Louisiana Community College]]<ref name=challengers/>
+
+===General election ===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=John Day (D)
+|list=
+;Political parties
+*[[Louisiana Democratic Party]]<ref name="StateEndorse">{{cite web|last=LaRose|first=Greg|date=August 30, 2026|title=Louisiana Democrats make endorsements in congressional races|url=https://lailluminator.com/2026/08/30/louisiana-democrats-endorse/|website=Louisana Illuminator|access-date=September 23, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Clay Higgins (R)
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=5 February 2026 |language=en |date=8 January 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Tia LeBrun (I)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20261021101316/https://nwpc.org/endorsed-candidates |archive-date=October 21, 2026 |access-date=October 28, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Clay Higgins (R)
+|$822,841
+|$551,994
+|$595,414
+|-
+|{{party shading/Democratic}}|John Day (D)
+|$18,946
+|$17,748
+|$7,385
+|-
+|{{party shading/Democratic}}|Tia LeBrun (D)
+|$6,968
+|$4,101
+|$3,465
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC3">{{Cite web |title=2026 Election United States House - Louisiana 3rd |url=https://www.fec.gov/data/elections/house/LA/03/2026/ |access-date=May 24, 2026 |website=FEC.gov |language=en}}</ref>
+|}
+
+====Results====
+{{Election box begin no change
+| title=2026 Louisiana's 3rd congressional district election
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Kate Cotten
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+| party       = Democratic Party (United States)
+| candidate   = John Day
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+| party       = Democratic Party (United States)
+| candidate   = Priscilla Gonzalez
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Clay Higgins]] (incumbent)
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Independent politician
+ | candidate  = Tia LeBrun
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Caleb Walker
+ | votes      = 
+ | percentage = 
+}}
+{{Election box total no change
+ | votes      = 
+ | percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Louisiana's 4th congressional district election
+| country = Louisiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Louisiana#District 4
+| next_year = ''2028''
+| image_size = x150px
+| image1 = 
+| nominee1 = 
+| party1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mike Johnson]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Louisiana's 4th congressional district}}
+[[File:Louisiana's 4th congressional district (since 2027) (new version).svg|thumb|Louisiana's 4th congressional district boundary from the 2026 elections<br>{{maplink|from=Louisiana's 4th congressional district (2027–).map|text=Interactive map version}}]]
+The 4th district encompasses [[North Louisiana|northwestern Louisiana]], taking in the [[Shreveport–Bossier City metropolitan area]]. The incumbent is Republican and current Speaker of the House [[Mike Johnson]], who was re-elected with 85.8% of the vote against another Republican in 2024<ref name="HPVT" />
+
+===Candidates===
+==== Declared ====
+*Conrad Cable (Democratic), farmer<ref>{{cite news |work=Shreveport Times |access-date=September 2, 2025 |author1=Hilburn, Greg |url=https://www.shreveporttimes.com/story/news/2025/09/02/louisiana-democratic-dirt-row-vegetable-farmer-targets-speaker-mike-johnson-in-2026-election/85930491007/ |date=September 2, 2025 |title=Louisiana Democratic 'dirt row farmer' targets Speaker Mike Johnson in 2026 election}}</ref>
+*Matt Gromlich (Democratic), college professor<ref>{{cite news |last1=Gallinaro |first1=Joe |title=House Speaker Mike Johnson to face four opponents in 2026 District Four Congressional race |url=https://louisianaradionetwork.com/2026/02/19/45480/ |access-date=February 23, 2026 |work=[[Louisiana Radio Network]] |date=February 19, 2026}}</ref>
+*Gordan Heslop (Republican)<ref name="Cand" />
+*[[Mike Johnson]] (Republican), incumbent U.S. representative and [[Speaker of the United States House of Representatives|Speaker of the House]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1878296 |url=https://docquery.fec.gov/cgi-bin/forms/H6LA04138/1878296/ |access-date=2025-09-29 |website=docquery.fec.gov}}</ref>
+*Mike Nichols (Republican), biologist<ref name=challengers/>
+
+==== Withdrawn ====
+*Josh Morott (Republican), substitute teacher and candidate for this district in [[2024 United States House of Representatives elections in Louisiana#District 4|2024]]<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H4LA04034/1910025/}} August 1, 2025</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=Conrad Cable (D)
+|list=
+;Political parties
+*[[Louisiana Democratic Party]]<ref name="StateEndorse" />
+}}
+{{Endorsements box
+| title = Mike Johnson (R)
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Graves-2024b">{{#invoke:cite|news||last= Murphy |first= Ryan |date=January 23, 2026 |title= Trump endorses Spartz, other Indiana members of Congress for re-election. Here's who else |url= https://www.usatoday.com/story/news/politics/2026/01/23/trump-indiana-congress-representatives-for-re-election-truth-social-spartz-baird-houchins-shreve/88326534007/ |access-date= January 23, 2026 |work=USA Today}}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Conrad Cable (D)
+|$1,193,377
+|$858,876
+|$334,501
+|-
+|{{party shading/Democratic}}|Matt Gromlich (D)
+|$445,580
+|$411,881
+|$33,635
+|-
+|{{party shading/Republican}}|Gordan Heslop (R)
+|$118,576
+|$114,037
+|$5,978
+|-
+|{{party shading/Republican}}|Mike Johnson (R)
+|$24,227,908
+|$17,952,560
+|$7,527,724
+|-
+|{{party shading/Republican}}|Mike Nicols (R)
+|$70,555
+|$66,792
+|$173
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC4">{{Cite web |title=2026 Election United States House - Louisiana 4th |url=https://www.fec.gov/data/elections/house/LA/04/2026/ |access-date=February 27, 2026 |website=FEC.gov |language=en}}</ref>
+|}
+
+====Results====
+{{Election box begin no change
+| title=2026 Louisiana's 4th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Conrad Cable
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+| party       = Democratic Party (United States)
+| candidate   = Matt Gromlich
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+| party       = Republican Party (United States)
+| candidate   = Gordan Heslop
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Mike Johnson]] (incumbent)
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Mike Nichols
+ | votes      = 
+ | percentage = 
+}}
+{{Election box total no change
+ | votes      = 
+ | percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Louisiana's 5th congressional district election
+| country = Louisiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Louisiana#District 5
+| next_year = ''2028''
+| image_size = x150px
+| image1 = 
+| nominee1 = 
+| party1 =
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Julia Letlow]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Louisiana's 5th congressional district}}
+[[File:Louisiana's 5th congressional district (since 2027) (new version).svg|thumb|Louisiana's 5th congressional district boundary from the 2026 elections<br>{{maplink|from=Louisiana's 5th congressional district (2027–).map|text=Interactive map version}}]]
+The 5th district encompasses rural northeastern Louisiana, central Louisiana, as well as the northern part of Louisiana's [[Florida parishes]] in southeast Louisiana, taking in [[Monroe, Louisiana|Monroe]], [[Amite, Louisiana|Amite]] and [[Bogalusa, Louisiana]]. The incumbent is Republican [[Julia Letlow]], who was re-elected with 62.9% of the vote in 2024.<ref name="HPVT" /> On January 20, 2026, Letlow announced that she would [[2026 United States Senate election in Louisiana|run for the U.S. Senate in 2026]].<ref name="LetlowSen" />
+
+===Candidates===
+==== Declared ====
+*[[Stewart Cathey Jr.]] (Republican), [[Louisiana State Senate|state senator]] from the [[Louisiana's 33rd State Senate district|33rd district]] (2020–present)<ref>{{Cite web |last=Quigley |first=Charles |date=2026-07-08 |title=State Senator Stewart Cathey announces 5th District Congressional run |url=https://www.knoe.com/2026/07/08/state-senator-stewart-cathey-announces-5th-congressional-run/ |access-date=2026-07-09 |website=KNOE 8 |language=en}}</ref>
+*Misti Cordell (Republican), member of the [[Louisiana Board of Regents]]<ref>{{#invoke:cite| web |title=Two more Republicans say they'll enter race to succeed Julia Letlow in 5th US House district |url=https://www.wbrz.com/news/two-more-republicans-say-they-ll-enter-race-to-succeed-julia-letlow-in-5th-us-house-district |access-date=January 22, 2026 |work=wbrk |date=January 22, 2026}}</ref>
+*Oscar "Omar" Dantzler (Republican), former policeman and bail bondsman, Democratic candidate for this district in [[2022 United States House of Representatives elections in Louisiana#District 5|2022]], and candidate for governor in [[2019 Louisiana gubernatorial election|2019]]<ref>{{Cite web |last1=LaRose |first1=Greg |last2=Plunk |first2=Elise |date=2026-08-06 |title=Undeterred Democrats qualify for La. congressional races favoring GOP candidates • Louisiana Illuminator |url=https://lailluminator.com/2026/08/06/undeterred_democrats_qualify/ |access-date=2026-08-13 |website=Louisiana Illuminator |language=en-US}}</ref>
+*[[Michael Echols]] (Republican), [[Louisiana State House of Representatives|Louisiana State House majority leader]] from the 14th district (2019–present)<ref>{{Cite web |title=State Rep. Michael Echols announces congressional run |url=https://www.knoe.com/2026/02/11/state-rep-michael-echols-announces-congressional-run/ |access-date=February 11, 2026 |work=KNOE 8 News |date=February 10, 2026}}</ref>
+*[[Gabe Firment]] (Republican), [[Louisiana State House of Representatives|state representative]] from the 22nd district (2020–present)<ref>{{Cite web |title=State Rep. Gabe Firment announces candidacy for Louisiana’s 5th Congressional District |url=https://www.louisianafirstnews.com/news/political-news/state-rep-gabe-firment-announces-candidacy-for-louisianas-5th-congressional-district/#/questions/5662210 |access-date=July 1, 2026 |work=Louisiana First News |date=July 1, 2026}}</ref>
+*Austin Magee (Republican), industrial contracting company owner<ref name="Illuminator">{{cite news |last1=LaRose |first1=Greg |title=Trump endorsements in Louisiana congressional races pit Republicans against each other |url=https://lailluminator.com/2026/02/11/trump-louisiana-congress/ |access-date=February 18, 2026 |work=Louisiana Illuminator |date=February 11, 2026}}</ref>
+*Dan McKay (Democratic), attorney<ref>{{cite news |last1=Combs |first1=Liam |title=Qualifying begins for U.S. Senate, House seats |url=https://www.wafb.com/2026/02/11/qualifying-begins-us-senate-house-seats/ |access-date=February 12, 2026 |work=[[WAFB]] |date=February 11, 2026}}</ref>
+*[[Pat Moore (Louisiana politician)|Patricia "Pat" Moore]] (Democratic), [[Louisiana House of Representatives|state representative]] from the [[Louisiana's 17th House of Representatives district|17th district]] (2019–present)<ref name=":2">{{Cite web |last=Hilburn |first=Greg |title=Louisiana's higher education chief enters race for Congress |url=https://www.shreveporttimes.com/story/news/2026/08/07/louisiana-higher-education-chief-enters-race-for-congress-seeking-trump-endorsement/91212270007/ |access-date=2026-08-13 |website=The Times |language=en-US}}</ref>
+*Antonio Wilson (Democratic), community activist<ref name=":2" />
+
+====Withdrawn====
+*[[Rick Edmonds]] (Republican), [[Louisiana State Senate|state senator]] from the [[Louisiana's 6th State Senate district|6th district]] (2024–present) ''([[#District 6|running in the 6th district]])''<ref name=":1">{{Cite web |last=Nir |first=David |date=2026-07-02 |title=Morning Digest: How a GOP plan to elect judges could end abortion rights in Kansas |url=https://www.the-downballot.com/p/morning-digest-how-a-gop-plan-to |access-date=2026-07-03 |website=The Downballot |language=en}}</ref>
+*Jessee Fleenor (Democratic), farmer and candidate for this district in [[2018 United States House of Representatives elections in Louisiana#District 5|2018]]<ref>{{cite news |last1=Quigley |first1=Charles |title=Candidate Qualifying begins in Northeast Louisiana and statewide |url=https://www.knoe.com/2026/02/12/candidate-qualifying-begins-northeast-louisiana-statewide/ |access-date=February 12, 2026 |work=[[KNOE-TV]] |date=February 11, 2026}}</ref>
+*Larry Foy (Democratic), religious scholar<ref>{{#invoke:cite| web |title=Larry W. Foy, Sr. Launches Campaign for Louisiana's 5th District in the United States Congress |url=https://www.einnews.com/pr_news/876387923/larry-w-foy-sr-launches-campaign-for-louisiana-s-5th-district-in-the-united-states-congress |access-date=January 15, 2026 |work=[[EIN News]] |date=January 2, 2026}}</ref>
+*Lindsay Garcia (Democratic), activist ''([[#District 6|running in the 6th district]])<ref name="challengers" />''
+*[[Dixon McMakin]] (Republican) [[Louisiana State House of Representatives|state representative]] from the 68th district (2024–present)<ref>{{cite news |last1=Hutchinson |first1=Piper |title=State Rep. Dixon McMakin drops congressional bid |url=https://lailluminator.com/briefs/mcmakin-congress/ |access-date=February 9, 2026 |work=Louisiana Illuminator |date=February 9, 2026}}</ref>
+*Michael Mebruer (Republican), traveling medical worker ''([[#District 6|running in the 6th district]])<ref name="Illuminator" />''
+*[[Blake Miguez]] (Republican), [[Louisiana State Senate|state senator]] from the [[Louisiana's 22nd State Senate district|22nd district]] (2024–present) ''(previously [[2026 United States Senate election in Louisiana|ran for U.S. Senate]]; [[#District 6|running in the 6th district]])''<ref>{{cite news |last1=Dick |first1=Cooper |title=State Senator ends Senate campaign to run for Congress |url=https://lsureveille.com/274407/news/tigertvnews/state-senator-ends-senate-campaign-to-run-for-congress/ |access-date=February 3, 2026 |work=Reveille |date=February 3, 2026}}</ref>
+*Tania Nyman (Democratic), community advocate<ref name="challengers" />
+*Ray Smith (Republican), veteran and former [[Jefferson Parish, Louisiana|Jefferson Parish]] Sheriff's Office employee<ref>{{#invoke:cite| web |title=State senator, Army veteran join Livingston Parish man in quest for Julia Letlow's US House seat |url=https://www.wbrz.com/news/state-senator-representing-baton-rouge-army-veteran-announce-campaigns-for-seat-in-congress |access-date=January 22, 2026 |work=wbrz |date=January 21, 2026}}</ref>
+*Sammy Wyatt (Republican), healthcare professional ''(previously [[2026 United States Senate election in Louisiana|ran for U.S. Senate]]; endorsed Cordell)''<ref>{{cite news |title=Another Republican says he is entering the race to succeed Julia Letlow as District 5 Congressperson |url=https://www.wbrz.com/news/another-republican-says-he-is-entering-the-race-to-succeed-julia-letlow-as-district-5-congressperson |access-date=January 22, 2026 |work=[[WBRZ-TV]] |date=January 22, 2026 |language=en}}</ref>
+
+====Declined====
+*[[Daryl Deshotel]] (Republican), [[Louisiana State House of Representatives|state representative]] from the 28th district (2020–present)<ref>{{Cite web |title=Greg Hillburn on X: "Rep. Daryl Deshotel won't run in La. 5th District race" |url=https://x.com/GregHilburn1/status/2018708183309586712 |access-date=2026-02-04 |website=x.com |language=en}}</ref>
+*[[Garret Graves]] (Republican), former U.S. representative from the 6th district (2015–2025)<ref name=prepares>{{Cite web |title=Garret Graves on X: "There is a strong demand for people-focused representation and leadership in Louisiana."|url=https://x.com/RepGarretGraves/status/2016637439570309548 |access-date=2026-01-29 |website=x.com |language=en}}</ref>
+*[[Julia Letlow]] (Republican), incumbent U.S. representative ''([[2026 United States Senate election in Louisiana|running for U.S. Senate]])''<ref name="LetlowSen">{{cite news |last1=Howard |first1=Andrew |last2=Doherty |first2=Erin |last3=Lee Hill |first3=Meredith |title=Letlow launches Trump-backed Senate bid against Cassidy |url=https://www.politico.com/news/2026/01/20/letlow-senate-cassidy-trump-00736200 |access-date=January 20, 2026 |work=[[Politico]] |date=January 20, 2026 |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=Misti Cordell (R)
+|list=
+;Political parties
+*[[Republican Party of Louisiana]]<ref name="StateEndorse" />
+}}
+
+{{Endorsements box
+|title=Michael Echols (R)
+|list=
+;U.S. representatives
+*[[Jim Jordan]], [[Ohio's 4th congressional district|OH-04]] (2007–present)<ref>{{cite web|last=Hilburn|first=Greg|date=September 14, 2026|title=National Republican leader makes Louisiana congressional endorsement|url=https://www.shreveporttimes.com/story/news/2026/09/14/potential-house-speaker-jim-jordan-endorses-michael-echols-in-louisiana-race-for-congress/91757123007/|website=Shreveport Times|access-date=September 26, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Lindsay Garcia (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWWPC"/>
+}}
+
+{{Endorsements box
+|title=Blake Miguez (R) ''(running in the 6th district)''
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Hilburn |first1=Greg |title=Trump endorses Blake Miguez for Louisiana's 5th District, shaking up race |url=https://www.shreveporttimes.com/story/news/2026/02/04/trump-endorses-blake-miguez-for-louisianas-5th-congressional-district/88518646007/ |website=The Times |access-date=5 February 2026}}</ref>
+;U.S. representatives
+*[[Jim Jordan]], [[Ohio's 4th congressional district|OH-04]] (2007–present)<ref name="EndTrack"/>
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-02]] (1995–2001)<ref name="EndTrack"/>
+;Organizations
+*[[Club for Growth]]<ref>{{cite web |title=National Conservative PAC Candidates |url=https://www.clubforgrowth.org/elections/pac-endorsed-candidates/ |website=Club for Growth |access-date=7 February 2026}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Stewart Cathey Jr. (R)
+|$245,550
+|$147,771
+|$97,779
+|-
+|{{party shading/Republican}}|Misti Cordell (R)
+|$658,608
+|$458,430
+|$200,178
+|-
+|{{party shading/Republican}}|Michael Echols (R)
+|$3,188,840
+|$2,299,888
+|$888,952
+|-
+|{{party shading/Republican}}|Gabe Firment (R)
+|$453,882
+|$390,613
+|$63,269
+|-
+|{{party shading/Republican}}|Austin Magee (R)
+|$11,302
+|$11,243
+|$59
+|-
+|{{party shading/Democratic}}|Dan McKay (D)
+|$121,182
+|$116,184
+|$4,998
+|-
+|{{party shading/Democratic}}|Patricia Moore (D)
+|$22,129
+|$9,328
+|$12,800
+|-
+|{{party shading/Democratic}}|''Tania Nyman'' (D)
+|$33,123
+|$21,019
+|$12,103
+|-
+|{{party shading/Democratic}}|Antonia Wilson (D)
+|$71,047
+|$39,997
+|$31,051
+|-
+|{{party shading/Republican}}|''Sammy Wyatt'' (R)
+|$299,615
+|$299,615
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC5">{{Cite web |title=2026 Election United States House - Louisiana 5th |url=https://www.fec.gov/data/elections/house/LA/05/2026/ |access-date=July 17, 2026 |website=FEC.gov |language=en}}</ref>
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Louisiana's 5th congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br/>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Stewart Cathey Jr.]]
+! scope="col" | Misti Cordell
+! scope="col" | [[Michael Echols]]
+! scope="col" | [[Gabe Firment]]
+! scope="col" | Dan McKay
+! scope="col" | [[Pat Moore (Louisiana politician)|Patricia Moore]]
+|-
+!1
+| style="white-space:nowrap;" | September 21, 2026
+| style="white-space:nowrap;" | PAR Louisiana
+| style="white-space:nowrap;" | Steven Procopio<br />Melinda Deslatte
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=YnKyRhUSPH4 Youtube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Polling====
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br>of error
+! style="width:100px;"| Misti<br>Cordell
+! style="width:100px;"| Michael<br>Echols
+! style="width:100px;"| Rick<br>Edmonds
+! style="width:100px;"| Blake<br>Miguez
+! Undecided
+|-
+|style="text-align:left;"|Bedrock Polling<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Long Island GOP pulls off switcheroo, but not for the candidate it wanted |url=https://www.the-downballot.com/i/194241768/poll-pile |publisher=The Downballot |access-date=April 15, 2026 |date=April 15, 2026}}</ref>{{Efn-ua|Poll sponsored by the Rainey Center Freedom Project}}
+|April 4–7, 2026
+|889 (LV)
+|±&nbsp;3.6%
+|3%
+|{{party shading/Republican}}|'''20%'''
+|10%
+|{{party shading/Republican}}|'''23%'''
+|{{party shading/Undecided}}|'''42%'''
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin no change
+| title=2026 Louisiana's 5th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Stewart Cathey Jr.]]
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+| party       = Republican Party (United States)
+| candidate   = Misti Cordell
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+| party       = Republican Party (United States)
+| candidate   = [[Michael Echols]]
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Gabe Firment]]
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Austin Magee
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Oscar Dantzler
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Dan McKay
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = [[Pat Moore (Louisiana politician)|Patricia Moore]]
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Antonio Wilson
+ | votes      = 
+ | percentage = 
+}}
+{{Election box total no change
+ | votes      = 
+ | percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Louisiana's 6th congressional district election
+| country = Louisiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Louisiana#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Louisiana#District 6
+| next_year = ''2028''
+| image_size = x150px
+| image1 = 
+| nominee1 =
+| party1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Cleo Fields]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Louisiana's 6th congressional district}}
+[[File:Louisiana's 6th congressional district (since 2027) (new version).svg|thumb|Louisiana's 6th congressional district boundary from the 2026 elections<br>{{maplink|from=Louisiana's 6th congressional district (2027–).map|text=Interactive map version}}]]
+The 6th district encompasses much of [[Baton Rouge, Louisiana|Baton Rouge]], [[Shreveport, Louisiana|Shreveport]], and [[Lafayette, Louisiana|Lafayette]]. The incumbent, Democrat [[Cleo Fields]], was elected with 50.8% of the vote in 2024.<ref name="HPVT" />
+
+===Candidates===
+====Declared====
+*Monique Appeaning (Republican), candidate for [[Louisiana's 66th House of Representatives district]] in [[2023 Louisiana House of Representatives election#District 66|2023]]<ref name=challengers/>
+*Chauna Banks (Democratic), former East Baton Rouge Parish Metro Councilor<ref name="nola.com">{{cite web|last=Bridges|first=Tyler|date=August 22, 2026|title=Cleo Fields isn’t seeking reelection after redistricting. The race for his seat looks wide open.|url=https://www.nola.com/news/politics/3-democrats-think-they-can-win-gop-tilted-congressional-seat/article_18209da8-e74d-4dfc-a345-6f5e2c3f34a4.html|website=nola.com|access-date=August 25, 2026}}</ref>
+*Rufus Craig (Libertarian)<ref name="Cand" />
+*Larry Davis (Republican), [[Livingston Parish]] Republican Executive committee member<ref>{{#invoke:cite| web |title=Republican Larry Davis jumps from 5th to 6th District race for Congress |url=https://lailluminator.com/briefs/davis-6th-congress/ |access-date=February 11, 2026 |work=Louisiana Illuminator |date=February 10, 2026}}</ref>
+*[[Rick Edmonds]] (Republican), [[Louisiana State Senate|state senator]] from the [[Louisiana's 6th State Senate district|6th district]] (2024–present)<ref name=":1" />
+*Pat Forbes (Democratic)<ref name="nola.com" />
+*Lindsay Garcia (Democratic), activist<ref name="challengers" />
+*Michael Mebruer (Republican), traveling medical worker<ref name="Illuminator" />
+*[[Blake Miguez]] (Republican), [[Louisiana State Senate|state senator]] from the [[Louisiana's 22nd State Senate district|22nd district]] ''([[#District 5|previously ran for the 5th district]])''<ref>{{Cite web |last=Hutchinson |first=Piper |date=2026-08-07 |title=Miguez jumps into 6th District race, but Trump endorsement uncertain • Louisiana Illuminator |url=https://lailluminator.com/2026/08/07/miguez-jumps-into-6th-district-race-but-trump-endorsement-uncertain/ |access-date=2026-08-08 |website=Louisiana Illuminator |language=en-US}}</ref>
+*Stephen Wagley (Republican)<ref name="Cand" />
+
+====Withdrawn====
+*[[Cleo Fields]] (Democratic), incumbent U.S. representative ''([[2026 United States state legislative elections#Louisiana|running for state senate]])''<ref>{{Cite web |url=https://www.politico.com/live-updates/2026/07/21/congress/rep-cleo-fields-heads-out-01006782 |title=Rep. Cleo Fields announces he will not seek reelection |date=July 21, 2026 |access-date=July 21, 2026 |website=[[Politico]] |language=en}}</ref>
+*Chris Johnson (Republican)<ref>{{Cite web |title=FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1883648|url=https://docquery.fec.gov/cgi-bin/forms/H6LA06141/1883648/}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R|Flip}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R|Flip}}
+|June 1, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R|Flip}}
+|June 11, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R|Flip}}
+|June 3, 2026
+|}
+
+====Endorsements====
+{{Endorsements box
+|title=Lindsay Garcia (D)
+|list=
+;Political parties
+*[[Louisiana Democratic Party]]<ref name="StateEndorse" />
+}}
+{{Endorsements box
+|title=Rick Edmonds (R)
+|list=
+;Political parties
+*[[Republican Party of Louisiana]] (co-endorsement with Miguez)<ref name="StateEndorse" />
+}}
+{{Endorsements box
+|title=Blake Miguez (R)
+|list=
+;U.S. representatives
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-2]] (1995–2001)<ref name="CFG">{{cite web|url=https://www.clubforgrowth.org/club-for-growth-pac-endorses-blake-miguez-in-la-06/|title=Club for Growth PAC Endorses Blake Miguez in LA-06|last=Mitola|first=Will|date=August 17, 2026|access-date=September 15, 2026}}</ref>
+
+;Organizations
+*[[Club for Growth]] PAC<ref name="CFG"/>
+*[[NRA Political Victory Fund]]<ref>{{cite web|title=Louisiana|url=https://www.nrapvf.org/grades/louisiana/|website=NRA Political Victory Fund|access-date=September 26, 2026}}</ref>
+
+;Political parties
+*[[Republican Party of Louisiana]] (co-endorsement with Edmonds)<ref name="StateEndorse" />
+}}
+{{Endorsements box
+|title=Cleo Fields (D) ''(withdrawn)''
+|list=
+;Organizations
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Southern Poverty Law Center]]<ref name="SPLC" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Monique Appeaning (R)
+|$109,183
+|$94,474
+|$14,709
+|-
+|{{party shading/Republican}}|Larry Davis III (R)
+|$33,216
+|$31,397
+|$809
+|-
+|{{party shading/Republican}}|Rick Edmonds (R)
+|$697,139
+|$562,504
+|$134,635
+|-
+|{{party shading/Democratic}}|''Cleo Fields (D)''
+|$851,920
+|$484,259
+|$239,444
+|-
+|{{party shading/Democratic}}|Lindsay Garcia (D)
+|$97,007
+|$75,353
+|$21,654
+|-
+|{{party shading/Democratic}}|Pat Forbes (D)
+|$156,334
+|$58,934
+|$97,400
+|-
+|{{party shading/Republican}}|Michael Mebruer (R)
+|$70,714
+|$55,630
+|$10,987
+|-
+|{{party shading/Republican}}|Blake Miguez (R)
+|$7,749,606
+|$6,215,093
+|$1,534,513
+|-
+|{{party shading/Republican}}|Stephen Wagley (R)
+|$874,344
+|$678,710
+|$195,633
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]</small><ref name="FEC6">{{Cite web |title=2026 Election United States House - Louisiana 6th |url=https://www.fec.gov/data/elections/house/LA/06/2026/ |access-date=February 27, 2026 |website=FEC.gov |language=en}}</ref>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Chauna<br/>Banks (D)
+! style="width:100px;"| Larry<br/>Davis (R)
+! style="width:100px;"| Rick<br/>Edmonds (R)
+! style="width:100px;"| Pat<br/>Forbes (D)
+! style="width:100px;"| Blake<br/>Miguez (R)
+! Others
+! Undecided
+|-
+|style="text-align:left;"|Greg Rigamer<ref name="nola.com" />
+|August 12–13, 2026
+|500 (RV)
+|± 4.4%
+|{{party shading/Democratic}}|'''19%'''
+|6%
+|{{party shading/Republican}}|'''16%'''
+|8%
+|9%
+|1%
+|{{party shading/Undecided}}|'''40%'''
+|}
+
+====Results====
+{{Election box begin no change
+| title=2026 Louisiana's 6th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Monique Appeaning
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+| party       = Democratic Party (United States)
+| candidate   = Chauna Banks
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+| party       = Libertarian Party (United States)
+| candidate   = Rufus Craig
+| votes       = 
+| percentage  = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Larry Davis
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Rick Edmonds]]
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Pat Forbes
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Democratic Party (United States)
+ | candidate  = Lindsay Garcia
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Michael Mebruer
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = [[Blake Miguez]]
+ | votes      = 
+ | percentage = 
+}}
+{{Election box candidate with party link no change
+ | party      = Republican Party (United States)
+ | candidate  = Stephen Wagley
+ | votes      = 
+ | percentage = 
+}}
+{{Election box total no change
+ | votes      = 
+ | percentage = 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{div col start|colwidth=60}}
+'''Official campaign websites for 1st district candidates'''
+*[https://www.laurenjewett.com/ Lauren Jewett (D)]
+*[https://stevescalise.com/ Steve Scalise (R)]
+
+'''Official campaign websites for 2nd district candidates'''
+*[https://ballayforcongress.com/ Lisa Ballay (L)]
+*[https://voteforrocky.com/ Walter Beach (I)]
+*[https://www.congressmantroycarter.com/ Troy Carter (D)]
+*[https://www.renadacollinsforyou.com/ Renada Collins (D)]
+
+'''Official campaign websites for 3rd district candidates'''
+*[https://johndayforcongress.com/ John Day (D)]
+*[https://prisforcongress.com/ Priscilla Gonzalez (D)]
+*[https://captainhiggins.com/ Clay Higgins (R)]
+*[https://lebrun4la.com/ Tia LeBrun (D)]
+*[https://www.calebforcongress.com/ Caleb Walker (D)]
+
+'''Official campaign websites for 4th district candidates'''
+*[https://www.conrad4congress2026.com/ Conrad Cable (D)]
+*[https://www.mattgromlichforcongress.com/ Matt Gromlich (D)]
+*[https://www.mikejohnsonforlouisiana.com/ Mike Johnson (R)]
+*[https://mikenicholsforcongress.com/ Mike Nichols (R)]
+
+'''Official campaign websites for 5th district candidates'''
+*[https://www.stewartcathey.com/ Stewart Cathey Jr. (R)]
+*[https://www.cordellforcongress.com/ Misti Cordell (R)]
+*[https://www.michaelechols.com/ Michael Echols (R)]
+*[https://www.firmentforcongress.com/ Gabe Firment (R)]
+*[https://www.austinmageeforcongress.com/ Austin Magee (R)]
+*[https://www.mckayforcongress.com/ Dan McKay (D)]
+*[https://patmooreforcongress.com/ Pat Moore (D)]
+*[https://wilsonforlouisiana.com/ Antonio Wilson (D)]
+
+'''Official campaign websites for 6th district candidates'''
+*[https://www.appeaningforcongress.com/ Monique Appeaning (R)]
+*[https://chaunabanksforcongress.vote/ Chauna Banks (D)]
+*[https://www.larrydavisforcongress.com/ Larry Davis (R)]
+*[https://rickedmonds.com/ Rick Edmonds (R)]
+*[https://www.patforbes.com/ Pat Forbes (D)]
+*[https://www.rubiagarcia.com/ Rubia Garcia (D)]
+*[https://www.mebruerforcongress.com/ Michael Mebruer (R)]
+*[https://blakemiguez.com/ Blake Miguez (R)]
+*[https://www.wagleyforcongress.com/ Stephen Wagley (R)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Louisiana|2026]]
+[[Category:2026 United States House of Representatives elections|Louisiana]]
+[[Category:2026 elections in Louisiana|United States House of Representatives]]
+[[Category:Mike Johnson]]

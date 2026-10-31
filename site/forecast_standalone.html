@@ -76,6 +76,8 @@ window.dash = (function () {
 .fc .tile .sub { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin-top: var(--cds-gap-xs); font-variant-numeric: tabular-nums; }
 .fc .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr)); gap: var(--cds-gap-md); }
 .fc .chart { position: relative; min-height: 220px; }
+/* cards side by side share row lines (title, subtitle, content), so charts and tables start at the same height whatever the subtitle length */
+.fc .grid2 > .card { display: grid; grid-template-rows: subgrid; grid-row: span 3; row-gap: 0; align-content: start; }
 .fc .tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; }
 .fc .tip .k { color: var(--cds-text-secondary); }
 .fc .controls { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); align-items: center; margin: var(--cds-gap-sm) 0 var(--cds-gap-md); }
@@ -129,7 +131,7 @@ window.dash = (function () {
     <div class="grid2">
       <div class="card" id="senate-dist">
         <h3>Senate: how many seats Democrats end up with</h3>
-        <p class="muted">Share of 40,000 simulations by Democratic-caucus seats. Blue bars are Democratic majorities (51+). Independents Osborn, Achilles, Bengs and Bodnar are not counted, since none has said which party he would caucus with.</p>
+        <p class="muted">Share of 40,000 simulations by Democratic-caucus seats. Blue bars are Democratic majorities (51+). Independents who haven't picked a caucus are not counted.</p>
         <div class="chart" data-draw="distSenate" data-source="seat_distribution"></div>
       </div>
       <div class="card" id="house-dist">

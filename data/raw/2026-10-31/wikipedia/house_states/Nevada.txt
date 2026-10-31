@@ -1,0 +1,1433 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Nevada Assembly election}}
+{{Use mdy dates|date=September 2026}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Nevada
+| country = Nevada
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nevada
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nevada
+| next_year = 2028
+| seats_for_election = All 4 Nevada seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = 3
+| seats1 = 3
+| party2 = Republican Party (United States)
+| last_election2 = 1
+| seats2 = 1
+}}
+{{ElectionsNV}}
+The '''2026 United States House of Representatives elections in Nevada''' will be held on November 3, 2026, to elect the four [[U.S. representative]]s from the [[U.S. state|state]] of [[Nevada]], one from each of the state's [[Nevada's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 9, 2026.<ref>{{Cite web |date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates |website=NCSL |access-date=August 5, 2025 |archive-date=November 13, 2025 |archive-url=https://web.archive.org/web/20251113164508/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates |url-status=live }}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Democratic
+! style="width:100px;" |Republican
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Concord Public Opinion Partners (D)<ref>{{cite web |title=Nevada General Election 2026 — Governor & Congress |url=https://concordpublicopinionpartners.org/polls/nevada-ge-2026 |publisher=Concord Public Opinion Partners |access-date=October 26, 2026 |date=September 30, 2026}}</ref>{{Efn-ua|Poll sponsored by Education Reform Now Advocacy}}
+|September 26–30, 2026
+|565 (LV)
+|±&nbsp;4.12%
+|{{party shading/Democratic}}|'''48%'''
+|33%
+|7%{{Efn|"Someone else" with 7%}}
+|12%
+|}
+
+== District 1 ==
+{{Infobox election
+| election_name = 2026 Nevada's 1st congressional district election
+| country = Nevada
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nevada#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nevada#District 1
+| next_year = 2028
+| image1 = File:Dina Titus official photo (cropped).jpg
+| nominee1 = [[Dina Titus]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Carrie A. Buck|Carrie Buck]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Dina Titus]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nevada's 1st congressional district}}
+The 1st district expands from inner [[Las Vegas]] towards its southeastern suburbs and some rural parts of [[Clark County, Nevada|Clark County]], taking in the cities of [[Paradise, Nevada|Paradise]], [[Henderson, Nevada|Henderson]], and [[Boulder City, Nevada|Boulder City]]. The incumbent is Democrat [[Dina Titus]], who was re-elected with 52.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 25, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]|archive-date=January 28, 2025|archive-url=https://web.archive.org/web/20250128171130/https://www.cookpolitical.com/vote-tracker/2024/house|url-status=live}}</ref>
+
+=== Democratic primary ===
+==== Candidates ====
+==== Nominee ====
+* [[Dina Titus]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1860038 |url=https://docquery.fec.gov/cgi-bin/forms/H8NV03036/1860038/ |access-date=September 21, 2025 |website=docquery.fec.gov |archive-date=December 23, 2025 |archive-url=https://web.archive.org/web/20251223013444/https://docquery.fec.gov/cgi-bin/forms/H8NV03036/1860038/ |url-status=live }}</ref>
+===== Eliminated in primary =====
+* Gabriel Cornejo, perennial candidate<ref name="Independent"/>
+* Joy Hoover, businesswoman and nonprofit founder<ref>{{Cite web |title=Hoover, Joy - Candidate overview |url=https://docquery.fec.gov/cgi-bin/forms/H6NV01356/1911701/ |access-date=October 30, 2025 |website=[[Federal Election Commission|FEC]] |language=en-US |archive-date=December 24, 2025 |archive-url=https://web.archive.org/web/20251224195018/https://docquery.fec.gov/cgi-bin/forms/H6NV01356/1911701/ |url-status=live }}</ref>
+* Luis Paniagua<ref name="Aurora">{{cite web |title=Aurora - Candidate Filing List |url=https://www.nvsos.gov/SOSCandidateServices/AnonymousAccess/CEFDSearchUU/CertCandList.aspx |website=Nevada Secretary of State |access-date=March 14, 2026 |language=en-us |archive-url=https://web.archive.org/web/20240305010300/https://www.nvsos.gov/SOSCandidateServices/AnonymousAccess/CEFDSearchUU/CertCandList.aspx |archive-date=March 5, 2024 |url-status=live}}</ref>
+
+===== Withdrawn =====
+* Alex Pereszlenyi, data analyst<ref>{{cite web |title=FEC Disclosure Form 3 for Alex Pereszlenyi For Nevada |url=https://docquery.fec.gov/cgi-bin/forms/C00907592/1930184/ |website=docquery.fec.gov |access-date=March 2, 2026}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Joy Hoover
+|list=
+;Organizations
+*[[Progressive Leadership Alliance of Nevada]] Action<ref name=plan>{{cite web|title=2026 Endorsements for a Better Nevada|url=https://planaction.org/2026endorsements/|website=PLAN Action|access-date=May 11, 2026|archive-url=https://web.archive.org/web/20260515225359/https://planaction.org/2026endorsements/|archive-date=May 15, 2026|url-status=live}}</ref>
+}}
+
+{{Endorsements box
+|title=Dina Titus
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=November 25, 2025 |archive-date=November 19, 2025 |archive-url=https://web.archive.org/web/20251119104053/https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |url-status=live }}</ref>
+*[[International Association of Fire Fighters|Professional Firefighters of Nevada]]<ref name="Sheridan-2">{{cite news |last1=Sheridan |first1=Kevin |title=Professional Firefighters of Nevada endorse Lombardo, Cannizzaro, others for election |url=https://www.kolotv.com/2026/04/24/professional-firefighters-nevada-endorse-lombardo-cannizzaro-others-election/ |access-date=April 24, 2026 |work=[[KOLO]] |date=April 24, 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 14, 2026|archive-url=https://web.archive.org/web/20230827171509/https://candidates.aipacpac.org/page/featured/|archive-date=August 27, 2023|url-status=live}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025 |archive-date=December 17, 2025 |archive-url=https://web.archive.org/web/20251217133723/https://dmfipac.org/candidates/2026-endorsees/ |url-status=live }}</ref>
+*[[Christopher Street Project]]<ref>{{cite web |title=Champions |url=https://christopherstreetproject.org/champions/ |website=Christopher Street Project |access-date=November 27, 2025 |archive-date=November 12, 2025 |archive-url=https://web.archive.org/web/20251112175422/https://christopherstreetproject.org/champions/ |url-status=live }}</ref>
+*[[Elect Democratic Women]]<ref name="EDW">{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=November 25, 2025 |archive-date=November 16, 2025 |archive-url=https://web.archive.org/web/20251116034502/https://electdemocraticwomen.org/candidates/ |url-status=live }}</ref>
+*[[EMILY's List]]<ref name="emlist">{{Cite web |title=EMILYs List Endorses Nine Democratic Pro-Choice Women for Reelection to the U.S. House of Representatives |url=https://emilyslist.org/news/emilys-list-endorses-nine-democratic-pro-choice-women-for-reelection-to-the-u-s-house-of-representatives/ |access-date=June 13, 2025 |website=EMILYs List |language=en-US |archive-date=June 13, 2025 |archive-url=https://web.archive.org/web/20250613143823/https://emilyslist.org/news/emilys-list-endorses-nine-democratic-pro-choice-women-for-reelection-to-the-u-s-house-of-representatives/ |url-status=live }}</ref>
+*[[Giffords]]<ref name="Giffords930">{{cite web |title=GIFFORDS PAC endorses key battleground champions running for reelection to Congress |url=https://giffords.org/press-release/2025/09/giffords-pac-endorses-key-battleground-champions-running-for-reelection-to-congress/ |website=GIFFORDS |access-date=September 30, 2025 |date=September 30, 2025 |archive-date=October 5, 2025 |archive-url=https://web.archive.org/web/20251005005823/https://giffords.org/press-release/2025/09/giffords-pac-endorses-key-battleground-champions-running-for-reelection-to-congress/ |url-status=live }}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDC">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=October 28, 2025 |archive-date=December 9, 2025 |archive-url=https://web.archive.org/web/20251209012521/https://jewishdems.org/endorsements/ |url-status=live }}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-date=November 21, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|url-status=live}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref name="LCV 4-25">{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025 |archive-date=April 25, 2025 |archive-url=https://web.archive.org/web/20250425122814/https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |url-status=live }}</ref>
+*[[National Organization for Women]] PAC<ref name=nowpac>{{cite web |title=2026 Federal Endorsements|url=https://nowpac.org/2026-federal-endorsements/|website=NOW Political Action Committee|access-date=May 20, 2026}}</ref>
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260607014559/https://nwpc.org/endorsed-candidates |archive-date=June 7, 2026 |access-date=October 24, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en |archive-url=https://web.archive.org/web/20260415015021/https://www.plannedparenthoodaction.org/endorsements |archive-date=April 15, 2026 |url-status=live}}</ref>
+*[[Population Connection]]<ref name="PC">{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=November 25, 2025 |archive-date=November 13, 2025 |archive-url=https://web.archive.org/web/20251113015042/https://www.populationconnectionaction.org/vote/2026-endorsements/ |url-status=live }}</ref>
+*[[Reproductive Freedom for All]]<ref name="RF4A 5-8">{{cite news |title=Reproductive Freedom for All Endorses Slate of U.S. House Frontline Members for the 2026 Midterm Election |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-u-s-house-frontline-members-for-the-2026-midterm-election/ |access-date=May 8, 2025 |work=Reproductive Freedom for All |date=May 8, 2025 |archive-date=May 8, 2025 |archive-url=https://web.archive.org/web/20250508164952/https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-u-s-house-frontline-members-for-the-2026-midterm-election/ |url-status=live }}</ref>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Joy Hoover (D)
+|$67,424
+|$65,982
+|$1,441
+|-
+|{{party shading/Democratic}}|''Alex Pereszlenyi (D)''
+|$9,412
+|$9,412
+|$0
+|-
+|{{party shading/Democratic}}|Dina Titus (D)
+|$1,154,633
+|$250,354
+|$1,059,642
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Nevada 1st |url=https://www.fec.gov/data/elections/house/NV/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026 |archive-date=January 25, 2025 |archive-url=https://web.archive.org/web/20250125073637/https://www.fec.gov/data/elections/house/NV/01/2026/ |url-status=live }}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (US)|candidate=[[Dina Titus]] (incumbent)|votes=33,605|percentage=75.9}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Joy Hoover|votes=5,782|percentage=13.1}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Gabriel Cornejo|votes=3,883|percentage=8.8}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Luis Paniagua|votes=1,022|percentage=2.3}}
+{{Election box total no change|votes=44,292|percentage=100.0}}
+{{Election box end}}
+
+=== Republican primary ===
+==== Candidates ====
+===== Nominee =====
+* [[Carrie A. Buck|Carrie Buck]], [[Nevada Senate|state senator]] from the [[Nevada's 5th Senate district|5th district]] (2020–present)<ref>{{cite web|url=https://www.ktnv.com/news/nevada-state-senator-carrie-buck-challenges-rep-dina-titus-for-congressional-seat|title=Nevada State Senator Carrie Buck challenges Rep. Dina Titus for congressional seat|date=August 6, 2025|access-date=August 9, 2025|website=[[KTNV-TV]]|archive-date=August 7, 2025|archive-url=https://web.archive.org/web/20250807190626/https://www.ktnv.com/news/nevada-state-senator-carrie-buck-challenges-rep-dina-titus-for-congressional-seat|url-status=live}}</ref>
+===== Eliminated in primary =====
+* Marie Encar Arnold<ref>{{Cite web |title=FEC Form 2 for Report FEC-1950763 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV01406/1950763 |access-date=February 27, 2026 |website=docquery.fec.gov}}</ref>
+* Jim Blockey, candidate for this district in [[2024 United States House of Representatives elections in Nevada#District 1|2024]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1926774 |url=https://docquery.fec.gov/cgi-bin/forms/H8NV01113/1926774 |access-date=November 24, 2025 |website=docquery.fec.gov |archive-date=December 23, 2025 |archive-url=https://web.archive.org/web/20251223123249/https://docquery.fec.gov/cgi-bin/forms/H8NV01113/1926774 |url-status=live }}</ref>
+* Michael Boris, appliance repair contractor and candidate for this district in [[2024 United States House of Representatives elections in Nevada#District 1|2024]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1897704 |url=https://docquery.fec.gov/cgi-bin/forms/H4NV01237/1897704/ |access-date=July 12, 2025 |website=docquery.fec.gov}}</ref>
+* Rick Saga, former health services executive<ref name="Aurora"/>
+
+===== Did not file =====
+* Roy Gurner, systems engineer<ref name="NVInd"/>
+* [[Jim Marchant]], former [[Nevada Assembly|state assemblyman]] from the 37th district (2016–2018), candidate for [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Nevada|2024]], nominee for [[Nevada Secretary of State|secretary of state]] in [[2022 Nevada Secretary of State election|2022]], and nominee for the 4th district in [[2020 United States House of Representatives elections in Nevada#District 4|2020]] ''([[2026 Nevada Secretary of State election|running for secretary of state]])''<ref>{{cite news |last1=Hill |first1=Jessica |title=Jim Marchant announces Nevada congressional bid |url=https://www.reviewjournal.com/news/politics-and-government/nevada/jim-marchant-announces-nevada-congressional-bid-3361393/ |access-date=April 23, 2025 |work=[[Las Vegas Review-Journal]] |date=April 23, 2025 |archive-date=April 23, 2025 |archive-url=https://web.archive.org/web/20250423022808/https://www.reviewjournal.com/news/politics-and-government/nevada/jim-marchant-announces-nevada-congressional-bid-3361393/ |url-status=live }}</ref>
+
+===== Withdrawn =====
+* Keith Hanoff, retired police officer<ref>{{cite web |title=FEC Disclosure Form 3 for COMMITTEE TO ELECT KEITH HANOFF |url=https://docquery.fec.gov/cgi-bin/forms/C00916361/1923672/ |website=docquery.fec.gov |access-date=March 2, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Carrie Buck
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name ="Racker">{{cite web |last1=Racker |first1=Mini |title=Trump endorses GOP candidates in 2 swingy Nevada House seats |url=https://thenevadaindependent.com/article/trump-endorses-gop-candidates-in-2-swingy-nevada-house-seats |website=[[The Nevada Independent]] |date=April 14, 2026 |access-date=April 14, 2026 |archive-url=https://web.archive.org/web/20260414213942/https://thenevadaindependent.com/article/trump-endorses-gop-candidates-in-2-swingy-nevada-house-seats |archive-date=April 14, 2026 |url-status=live}}</ref>
+
+;U.S. representatives
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://www.nrcc.org/2026/04/27/nrcc-announces-addition-of-8-candidates-to-maga-majority-program-as-gop-expands-2026-map/|title=NRCC Announces Addition of 8 Candidates to 'MAGA Majority' Program as GOP Expands 2026 Map|date=April 27, 2026|access-date=May 4, 2026}}</ref>
+
+;Organizations
+*[[Maggie's List]]<ref>{{cite web |url=https://maggieslist.org/momentum-builds-maggies-list-adds-8-to-growing-2026-endorsement-list/ |title=Momentum Builds: Maggie's List Adds 8 to Growing 2026 Endorsement List |website=maggieslist.org |date=March 23, 2026 |access-date=March 25, 2026 |archive-url=https://web.archive.org/web/20260324094121/https://maggieslist.org/momentum-builds-maggies-list-adds-8-to-growing-2026-endorsement-list/ |archive-date=March 24, 2026 |url-status=live}}</ref>
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jim Blockey (R)
+|$18,451
+|$17,521
+|$929
+|-
+|{{party shading/Republican}}|Carrie Buck (R)
+|$934,219
+|$565,180
+|$369,039
+|-
+|{{party shading/Republican}}|''Keith Hanoff (R)''
+|$31,711
+|$31,711
+|$0
+|-
+|{{party shading/Republican}}|''Jim Marchant (R)''
+|$4,846
+|$4,681
+|$164
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (US)|candidate=[[Carrie A. Buck|Carrie Buck]]|votes=24,680|percentage=77.7}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Jim Blockey|votes=3,551|percentage=11.2}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Michael Boris|votes=1,873|percentage=5.9}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Marie Encar Arnold|votes=1,230|percentage=3.9}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Rick Saga|votes=410|percentage=1.3}}
+{{Election box total no change|votes=31,744|percentage=100.0}}
+{{Election box end}}
+
+=== Independents ===
+==== Candidates ====
+*Bobby Khan, former car dealer and convicted felon
+*Steven St John, chaplain and candidate for the 3rd district in [[2014 United States House of Representatives elections in Nevada#District 3|2014]]<ref name="Aurora" />
+
+===== Withdrawn =====
+*Anthony Thomas Jr., Democratic candidate for this district in [[2020 United States House of Representatives elections in Nevada#District 1|2020]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1950413 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV01398/1950413 |access-date=February 25, 2026 |website=docquery.fec.gov}}</ref>
+*Victor Willert, retired educator and perennial candidate<ref name="Aurora" />
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Bobby Khan (I)
+|$80,169
+|$63,225
+|$16,944
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+=== General election ===
+==== Predictions ====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 25, 2025 |archive-date=February 28, 2025 |archive-url=https://web.archive.org/web/20250228114129/https://www.cookpolitical.com/ratings/house-race-ratings |url-status=live }}</ref>
+| {{USRaceRating|Likely|D}}
+|February 6, 2025
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en |access-date=April 1, 2025 |archive-date=June 25, 2018 |archive-url=https://web.archive.org/web/20180625091630/https://insideelections.com/ratings/house |url-status=live }}</ref>
+| {{USRaceRating|Lean|D}}
+|March 7, 2025
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |access-date=July 15, 2025 |language=en-US |archive-date=September 17, 2025 |archive-url=https://web.archive.org/web/20250917190638/https://centerforpolitics.org/crystalball/2026-house/ |url-status=live }}</ref>
+| {{USRaceRating|Likely|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver">{{Cite web |last=Silver |first=Nate |date=August 20, 2026 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=August 20, 2026 |website=www.natesilver.net |language=en |archive-url=https://web.archive.org/web/20260811181238/https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |archive-date=August 11, 2026 |url-status=live}}</ref>
+| {{US political race rating|Likely|D}}
+|August 23, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Dina Titus (D)
+|$2,055,144
+|$2,008,273
+|$202,235
+|-
+|{{party shading/Republican}}| Carrie Buck (R)
+|$2,632,235
+|$2,447,972
+|$184,263
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Nevada |url=https://www.fec.gov/data/elections/house/NV/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 12, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Nevada's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Dina Titus]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Carrie Buck (politician)|Carrie Buck]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== District 2 ==
+{{Infobox election
+| election_name = 2026 Nevada's 2nd congressional district election
+| country = Nevada
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nevada#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nevada#District 2
+| next_year = 2028
+| image1 = File:David Flippo.png
+| nominee1 = Dave Flippo
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Teresa Benitez-Thompson]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mark Amodei]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nevada's 2nd congressional district}}
+The 2nd district includes [[White Pine County, Nevada|White Pine County]] and part of [[Lyon County, Nevada|Lyon County]], and contains the cities of [[Reno, Nevada|Reno]], [[Sparks, Nevada|Sparks]], and [[Carson City, Nevada|Carson City]]. The incumbent is Republican [[Mark Amodei]], who was re-elected with 55.0% of the vote in 2024 against an independent candidate.<ref name="HPVT" />
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Dave Flippo, financial advisor, former Air Force lieutenant colonel, and candidate for [[Nevada's 4th congressional district]] in [[2024 United States House of Representatives elections in Nevada#District 4|2024]] ''(previously ran in the 4th district)''<ref name="Margiott">{{Cite web |last=Margiott |first=Kenzie |date=March 4, 2026 |title=Republican David Flippo switches to Nevada's 2nd congressional district race |url=https://mynews4.com/news/local/republican-david-flippo-switches-to-nevadas-2nd-congressional-district-race |access-date=March 4, 2026 |website=KRXI2 |language=en}}</ref>
+
+=====Eliminated in primary=====
+*Jennifer Billat, entrepreneur<ref name="Independent">{{Cite web |title=Election 2026: Tracking Nevada candidate announcements |url=https://thenevadaindependent.com/2026-candidate-filing-tracker |access-date=March 3, 2026 |website=The Nevada Independent |language=en |archive-url=https://web.archive.org/web/20260815111637/https://thenevadaindependent.com/2026-candidate-filing-tracker |archive-date=August 15, 2026 |url-status=live}}</ref>
+*Tom Doyle<ref name="Independent" />
+*George Forbush, police officer<ref name="Aurora"/>
+*Bruce Grego, former [[South Lake Tahoe, California]] city councilor<ref name="Aurora"/>
+*Andrea Lowe, board director for the Nevada Association of School Boards<ref>{{cite news |last1=O'Boyle |first1=Brenna |title=Andrea Lowe, board director for Nevada Association of School Boards, to run for Congress |url=https://www.kolotv.com/2026/03/07/andrea-lowe-board-director-nevada-association-school-boards-run-congress/ |access-date=March 6, 2026 |work=[[KOLO]] |date=March 6, 2026 |archive-url=https://web.archive.org/web/20260307021649/https://www.kolotv.com/2026/03/07/andrea-lowe-board-director-nevada-association-school-boards-run-congress/ |archive-date=March 7, 2026 |url-status=live}}</ref>
+*Jerry Olsen<ref name="Aurora"/>
+*[[James Settelmeyer]], director of the [[Nevada Department of Conservation and Natural Resources]] (2023–present) and former minority leader of the [[Nevada State Senate|Nevada Senate]] (2018–2022) from the [[Nevada's 17th Senate district|17th district]] (2010–2022)<ref>{{cite news |last1=Nowicki |first1=Katherine |title=Former Senate GOP leader James Settelmeyer enters Nevada's 2nd congressional district race |url=https://foxreno.com/news/local/former-senate-gop-leader-james-settelmeyer-enters-nevadas-2nd-congressional-district-race |access-date=March 6, 2026 |work=[[KRXI]] |date=March 6, 2026}}</ref>
+*Rick Shepherd<ref>{{Cite web |title=FEC Form 2 for Report FEC-1930521 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV02313/1930521 |access-date=January 2, 2026 |website=docquery.fec.gov}}</ref>
+*Fred Simon, doctor, candidate for [[List of governors of Nevada|governor]] in [[2022 Nevada gubernatorial election|2022]], and candidate for this district in [[2024 United States House of Representatives elections in Nevada#District 2|2024]]<ref name="Hinges">{{cite web|url=https://thenevadaindependent.com/article/gop-primary-to-replace-amodei-hinges-on-trump-favorite-sam-brown|title=GOP primary to replace Amodei hinges on Trump favorite Sam Brown|last=Racker|first=Mini|date=February 12, 2026|access-date=February 12, 2026|website=[[The Nevada Independent]]|archive-url=https://web.archive.org/web/20260212205739/https://thenevadaindependent.com/article/gop-primary-to-replace-amodei-hinges-on-trump-favorite-sam-brown|archive-date=February 12, 2026|url-status=live}}</ref>
+*Mike Smith<ref name="Aurora"/>
+*Sherman Tylawsky, civic educator<ref name="Aurora"/>
+
+=====Withdrawn=====
+*[[Mark Amodei]], incumbent U.S. representative (2011–present)<ref>{{cite news |last1=Sheridan |first1=Kevin |title=Amodei announces retirement |url=https://www.kolotv.com/2026/02/06/amodei-announces-retirement/ |access-date=February 6, 2026 |work=[[KOLO-TV]] |date=February 6, 2026 |language=en}}</ref> ''(endorsed Settelmeyer)''<ref name="Set">{{cite web |title=Settelmeyer backed by Lombardo, Amodei in bid for open Northern Nevada congressional seat |url=https://thenevadaindependent.com/article/settelmeyer-backed-by-lombardo-amodei-in-bid-for-open-northern-nevada-congressional-seat |website=The Nevada Independent |access-date=March 31, 2026 |language=en |date=March 30, 2026 |archive-url=https://web.archive.org/web/20260331020610/https://thenevadaindependent.com/article/settelmeyer-backed-by-lombardo-amodei-in-bid-for-open-northern-nevada-congressional-seat |archive-date=March 31, 2026 |url-status=live}}</ref>
+*Bill Conrad, former [[Modesto, California]] city councilor (1997–2003) and candidate for U.S. Senate in [[2022 United States Senate election in Nevada|2022]] and [[2024 United States Senate election in Nevada|2024]]<ref>{{cite news |last1=Robison |first1=Mark |title=Final filing day: See who's running for Reno, Sparks, Nevada elections |url=https://www.rgj.com/story/news/politics/elections/2026/03/09/nevada-candidate-filing-enters-week-two-as-key-2026-races-take-shape/89026157007/ |access-date=March 14, 2026 |work=[[Reno Gazette-Journal]] |date=March 9, 2026}}</ref>
+*Doug Miller<ref name="Aurora" />
+*Jesse Watts, former [[Eureka County, Nevada|Eureka County]] sheriff ''(endorsed Settelmeyer, remained on ballot)''<ref>{{cite news |work=[[KOLO]] |url=https://www.kolotv.com/2026/05/30/jesse-watts-suspends-bid-congress-then-endorses-james-settelmeyer/ |date=May 30, 2026 |title=Jesse Watts suspends bid for Congress then endorses James Settelmeyer |author=O'Boyle, Brenna}}</ref>
+
+=====Declined=====
+*[[Sam Brown (military)|Sam Brown]], [[Under Secretary of Veterans Affairs for Memorial Affairs|under secretary of Veterans Affairs for Memorial Affairs]] (2025–present), nominee for [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Nevada|2024]], and candidate in [[2022 United States Senate election in Nevada|2022]]<ref name="Brown">{{cite web|url=https://thenevadaindependent.com/article/former-senate-nominee-sam-brown-will-not-run-for-open-congressional-seat-in-nevada|title=Former Senate nominee Sam Brown will not run for open congressional seat in Nevada|last=Racker|first=Mini|date=March 3, 2026|access-date=March 3, 2026|website=[[The Nevada Independent]]|archive-url=https://web.archive.org/web/20260303182005/https://thenevadaindependent.com/article/former-senate-nominee-sam-brown-will-not-run-for-open-congressional-seat-in-nevada|archive-date=March 3, 2026|url-status=live}}</ref>
+*Paul Enos, trade association executive<ref name="Brown" /> ''(endorsed Settelmeyer)''<ref name="Set"/>
+*[[Joey Gilbert]], attorney, former boxer, and candidate for [[List of governors of Nevada|governor]] in [[2022 Nevada gubernatorial election|2022]]<ref>{{Cite web |last=Nir |first=David |date=March 16, 2026 |title=Morning Digest: A Florida Republican warns her party not to get greedy in redistricting |url=https://www.the-downballot.com/p/morning-digest-a-florida-republican |access-date=March 16, 2026 |website=The Downballot |language=en |archive-url=https://web.archive.org/web/20260316153442/https://www.the-downballot.com/p/morning-digest-a-florida-republican |archive-date=March 16, 2026 |url-status=live}}</ref> (endorsed Flippo)
+*Tony Grady Jr., [[Reno Air Races]] director of flight operations, candidate for [[Lieutenant Governor of Nevada|lieutenant governor]] in [[2022 Nevada lieutenant gubernatorial election|2022]], and candidate for [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Nevada|2024]]<ref name="Brown"/>
+*[[Ken Gray (politician)|Ken Gray]], advisor to the [[United States National Cemetery System|National Cemetery Administration]] (2025–present) and former [[Nevada State Assembly|state assemblymember]] from the 39th district (2022–2025) ''([[2026 Nevada Assembly election|running for state assembly]])''<ref name="Hinges"/>
+*[[Ira Hansen]], [[Nevada State Senate|state senator]] from the [[Nevada's 14th Senate district|14th district]] (2018–present)<ref name="Open">{{cite web |last1=Margiott |first1=Ben |title=As Amodei retires, GOP contenders consider open Nevada seat, Dems eye 'longshot' flip |url=https://mynews4.com/news/local/story/representative-mark-amodei-nv02-retires-gop-republican-contenders-consider-open-nevada-congressional-seat-democrats-eye-longshot-flip# |access-date=February 9, 2026 |work=[[mynews4.com]] |date=February 9, 2026}}</ref>
+*[[Adam Laxalt]], former [[Nevada Attorney General|Nevada attorney general]] (2015–2019), nominee for [[List of governors of Nevada|governor]] in [[2018 Nevada gubernatorial election|2018]], and nominee for [[United States Senate|U.S. Senate]] in [[2022 United States Senate election in Nevada|2022]]<ref>{{Cite web |last=Racker |first=Mini |date=February 6, 2026 |title=Mark Amodei will retire at the end of his term |url=https://thenevadaindependent.com/article/mark-amodei-will-retire-at-the-end-of-his-term |access-date=February 7, 2026 |website=The Nevada Independent |language=en |archive-url=https://web.archive.org/web/20260206213222/https://thenevadaindependent.com/article/mark-amodei-will-retire-at-the-end-of-his-term |archive-date=February 6, 2026 |url-status=live}}</ref>
+*[[Andy Matthews]], [[Nevada State Controller|Nevada state controller]] (2023–present) ''([[2026 Nevada State Controller election|running for re-election]])''<ref>{{Cite web |last=Nir |first=David |date=March 5, 2026 |title=Morning Digest: Montana Sen. Steve Daines quits reelection bid at filing deadline |url=https://www.the-downballot.com/p/morning-digest-montana-sen-steve |access-date=March 5, 2026 |website=The Downballot |language=en |archive-url=https://web.archive.org/web/20260305171849/https://www.the-downballot.com/p/morning-digest-montana-sen-steve |archive-date=March 5, 2026 |url-status=live}}</ref>
+*[[Danny Tarkanian]], [[Douglas County, Nevada|Douglas County]] commissioner (2021–present) and candidate for this district in [[2022 United States House of Representatives elections in Nevada#District 2|2022]] ''([[2026 Nevada Attorney General election|running for attorney general]])''<ref name="Hinges"/>
+*[[Robin L. Titus|Robin Titus]], minority leader of the [[Nevada Senate]] (2024–present) from the [[Nevada's 17th Senate district|17th district]] (2022–present) ''([[2026 Nevada Senate election|running for re-election]])''<ref name="Hinges"/>
+
+==== Endorsements ====
+{{Endorsements box
+| title = David Flippo
+| list =
+;Executive branch officials
+*[[Richard Grenell]], [[Ambassadors of the United States#Special envoys, representatives, and coordinators|special presidential envoy for Special Missions]] (2025–present)<ref name="Set"/>
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web|last=Racker|first=Mini|date=May 29, 2026|title=President Trump endorses in Nevada's most competitive GOP primary race
+|url=https://thenevadaindependent.com/article/president-trump-endorses-in-nevadas-most-competitive-gop-primary-race|website=Nevada Independent|access-date=May 29, 2026}}</ref>
+
+;U.S. representatives
+*[[Lauren Boebert]], [[CO-4]] (2021–present)<ref name="EndTrack"/>
+*[[Eric Burlison]], [[MO-07]] (2023–present)<ref name="Set"/>
+*[[Eli Crane]], [[AZ-2]] (2023–present)<ref name="EndTrack"/>
+*[[Jeff Duncan (politician)|Jeff Duncan]], [[South Carolina's 3rd congressional district|SC-3]] (2011–2025)<ref name="EndTrack"/>
+*[[Matt Gaetz]], [[Florida's 1st congressional district|FL-1]] (2017–2024)<ref name="EndTrack"/>
+*[[Paul Gosar]], [[AZ-09]] (2011–present)<ref name="Set"/>
+*[[Abe Hamadeh]], [[AZ-8]] (2025–present)<ref name="EndTrack"/>
+*[[Trent Kelly]], [[Mississippi's 1st congressional district|MS-1]] (2015–present)<ref name="EndTrack"/>
+*[[Anna Paulina Luna]], [[FL-13]] (2023–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=January 20, 2026 |language=en |date=January 8, 2026}}</ref>
+*[[Mary Miller (politician)|Mary Miller]], [[Illinois's 15th congressional district|IL-15]] (2021–present)<ref name="EndTrack"/>
+*[[Ralph Norman]], [[South Carolina's 5th congressional district|SC-5]] (2017–present)<ref name="EndTrack"/>
+*[[Andy Ogles]], [[Tennessee's 5th congressional district|TN-5]] (2023–present)<ref name="EndTrack"/>
+*[[Allen West (politician)|Allen West]], [[FL-22]] (2011–2013)<ref name="EndTrack"/>
+
+;Local officials
+*[[Joe Arpaio]], former [[Maricopa County Sheriff's Office|sheriff of Maricopa County]] (1993–2017)<ref name="Set"/>
+
+;Organizations
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-david-flippo-for-nv-02/|title=Freedom Caucus Fund Endorses David Flippo for NV-02|date=April 7, 2026|access-date=April 8, 2026}}</ref>
+*[[Turning Point Action]]<ref name="Set"/>
+}}
+{{Endorsements box
+| title = James Settelmeyer
+| list =
+;U.S. representatives
+*[[Mark Amodei]], [[NV-02]] (2011–present)<ref name="Set"/> ''(previously declined to endorse)''<ref name="Hinges"/>
+;Statewide officials
+*[[Stavros Anthony]], [[lieutenant governor of Nevada]] (2023–present)<ref name="EndTrack"/>
+*Gregory Haffen II, [[Nevada Assembly]] minority leader<ref name="EndTrack"/>
+*[[Joe Lombardo]], [[governor of Nevada]] (2023–present)<ref name="Set"/>
+*[[Robin Titus]], minority leader of the [[Nevada Senate]] (2024–present)<ref name="EndTrack"/>
+}}
+{{Endorsements box
+| title = Mark Amodei ''(withdrawn)''
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Torres-Cortez |first1=Ricardo |title=Trump endorses re-election bids from Lombardo, Amodei |url=https://www.reviewjournal.com/news/politics-and-government/nevada/trump-endorses-re-election-bids-from-lombardo-amodei-3533963/ |access-date=November 7, 2025 |work=[[Las Vegas Review-Journal]] |date=November 6, 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;U.S. representatives
+*<s>[[Mark Amodei]], [[United States House of Representatives|U.S. representative]] from [[Nevada's 2nd congressional district]] (2011–present)</s><ref name="Hinges"/> ''(later endorsed Settelmeyer)''<ref name="Set"/>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Mark Amodei (R)''
+|$521,642
+|$327,815
+|$554,868
+|-
+|{{party shading/Republican}}|David Flippo (R)
+|$1,733,805
+|$1,104,505
+|$644,015
+|-
+|{{party shading/Republican}}|James Settelmeyer (R)
+|$108,270
+|$$5,256
+|$103,014
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States House - Nevada 2nd |url=https://www.fec.gov/data/elections/house/NV/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026 |archive-date=January 21, 2025 |archive-url=https://web.archive.org/web/20250121141804/https://www.fec.gov/data/elections/house/NV/02/2026/ |url-status=live }}</ref></small>
+|}
+
+==== Results ====
+[[File:2026 Nevada's 2nd congressional district Republican primary election results by county map.svg|thumb|240px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Flippo}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Settelmeyer}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+{{legend|#808080|'''No votes'''}}
+]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (US)|candidate=David Flippo|votes=38,174|percentage=46.9}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=[[James Settelmeyer]]|votes=28,131|percentage=34.5}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=George Forbush|votes=3,337|percentage=4.1}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Mike Smith|votes=2,762|percentage=3.4}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Tom Doyle|votes=1,717|percentage=2.1}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Fred Simon|votes=1,616|percentage=2.0}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Jennifer Billat|votes=1,464|percentage=1.8}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Jesse Watts ''(withdrawn)''|votes=1,264|percentage=1.6}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Andrea Lowe|votes=1,130|percentage=1.4}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Rick Shepherd|votes=720|percentage=0.9}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Jerry Olsen|votes=608|percentage=0.7}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Sherman Tylawsky|votes=278|percentage=0.3}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Bruce Grego|votes=223|percentage=0.3}}
+{{Election box total no change|votes=81,424|percentage=100.0}}
+{{Election box end}}
+
+=== Democratic primary ===
+==== Candidates ====
+===== Nominee =====
+* [[Teresa Benitez-Thompson]], chief of staff to Nevada Attorney General [[Aaron Ford (Nevada politician)|Aaron Ford]] and former majority leader of the [[Nevada Assembly]] (2016–2022) from the 27th district (2010–2022)<ref name="Best">{{cite news |last1=Racker |first1=Mini |title=Former Dem Assembly leader Teresa Benitez-Thompson to run for Congress |url=https://thenevadaindependent.com/article/former-dem-assembly-leader-teresa-benitez-thompson-to-run-for-congress |access-date=February 17, 2026 |work=[[The Nevada Independent]] |date=February 17, 2026 |archive-url=https://web.archive.org/web/20260217102054/https://thenevadaindependent.com/article/former-dem-assembly-leader-teresa-benitez-thompson-to-run-for-congress |archive-date=February 17, 2026 |url-status=live}}</ref>
+
+===== Eliminated in primary =====
+* Kathy Durham, former [[West Wendover]] city councilor<ref>{{cite web |title=11/17/25 Elko Live - Candidate for Congress Durham |url=https://www.elkoradio.com/post/11-17-25-elko-live-candidate-for-congress-durham |access-date=November 30, 2025 |work=ElkoRadio |date=November 17, 2025 |archive-date=December 8, 2025 |archive-url=https://web.archive.org/web/20251208202948/https://www.elkoradio.com/post/11-17-25-elko-live-candidate-for-congress-durham |url-status=live }}</ref>
+* Gamaliel Zavala Enriquez, community organizer<ref name="Open"/>
+* Matthew Fonken, former executive director of the [[Nevada Democratic Party]]<ref>{{cite news |last1=O'Boyle |first1=Brenna |title=Longtime organizer Matthew Fonken throws hat in ring for Congress |url=https://www.kolotv.com/2026/01/17/longtime-organizer-matthew-fonken-throws-hat-ring-congress/ |access-date=January 17, 2026 |work=[[KOLO]] |date=January 17, 2026 |archive-date=January 18, 2026 |archive-url=https://web.archive.org/web/20260118003521/https://www.kolotv.com/2026/01/17/longtime-organizer-matthew-fonken-throws-hat-ring-congress/ |url-status=live }}</ref>
+* Gerold Gorman<ref name="Aurora"/>
+* Johnny E. Kerns, retired homicide investigator<ref name="Independent" />
+* Greg Kidd, entrepreneur and independent candidate for this seat in [[2024 United States House of Representatives elections in Nevada#District 2|2024]]<ref>{{cite news |title=Democratic Congressional candidate Greg Kidd hosts town hall on affordability |url=https://www.2news.com/news/local/democratic-congressional-candidate-greg-kidd-hosts-town-hall-on-affordability/article_54f968b1-2665-49b2-8f02-3e96e6e20835.html |access-date=January 26, 2026 |work=[[KTVN]] |date=January 21, 2026}}</ref>
+* Morgan Wadsworth, college student<ref>{{cite web |title=Morgan Wadsworth, a Gen-Zer Taking on the Establishment to Help Northern Nevada Reach Its Full Potential |url=https://www.ourtownreno.com/our-stories-1/2026/1/15/morgan-wadsworth-a-gen-zer-taking-on-the-establishment-to-help-northern-nevada-reach-its-full-potential |access-date=January 17, 2026 |work=Our Town Reno |date=January 15, 2026}}</ref>
+
+===== Withdrawn =====
+* Josh Hebert, physicist<ref>{{cite news |title=Democrat Hebert to seek Carson seat in U.S. House |url=https://www.nevadaappeal.com/news/2026/jan/06/democrat-hebert-to-seek-carson-city-seat-in-us-house/ |access-date=February 7, 2026 |work=[[Nevada Appeal]] |date=January 6, 2026 |archive-url=https://web.archive.org/web/20260115163249/https://www.nevadaappeal.com/news/2026/jan/06/democrat-hebert-to-seek-carson-city-seat-in-us-house/ |archive-date=January 15, 2026 |url-status=live}}</ref><ref name="Sheridan" /> (''endorsed Wadsworth, remained on ballot'')
+* Mark Jolle, business owner ''(remained on ballot)''<ref>{{Cite web |title=FEC Form 2 for Report FEC-1936912 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV02339/1936912 |access-date=January 28, 2026 |website=docquery.fec.gov}}</ref><ref name="MeetNV02">{{Cite web |date=May 26, 2026 |title=Meet the 8 Democrats running in Nevada's 2nd Congressional District |url=https://thenevadaindependent.com/article/meet-the-8-democrats-running-in-nevadas-2nd-congressional-district |access-date=June 6, 2026 |website=The Nevada Independent |language=en |archive-url=https://web.archive.org/web/20260605071854/https://thenevadaindependent.com/article/meet-the-8-democrats-running-in-nevadas-2nd-congressional-district? |archive-date=June 5, 2026 |url-status=live}}</ref>
+* Samuel White<ref>{{Cite web |title=FEC Form 2 for Report FEC-1933281 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV02321/1933281 |access-date=January 16, 2026 |website=docquery.fec.gov}}</ref><ref name="Sheridan">{{Cite web |last=Sheridan |first=Kevin |date=May 5, 2026 |title=White, Hebert drop Congressional bid, endorse Wadsworth |url=https://www.kolotv.com/2026/05/05/white-hebert-drop-congressional-bid-endorse-wadsworth/ |access-date=June 6, 2026 |website=kolotv.com |language=en |archive-url=https://web.archive.org/web/20260606144148/https://www.kolotv.com/2026/05/05/white-hebert-drop-congressional-bid-endorse-wadsworth/ |archive-date=June 6, 2026 |url-status=live}}</ref> (''endorsed Wadsworth, remained on ballot'')
+
+===== Declined =====
+*[[Alexis Hill (Nevada politician)|Alexis Hill]], Washoe County commissioner (2021–present) ''([[2026 Nevada gubernatorial election|running for governor]])''<ref name="SLRH" />
+*[[Selena La Rue Hatch]], state assemblymember from the 25th district (2022–present) ''([[2026 Nevada Assembly election|running for re-election]], endorsed Benitez-Thompson)''<ref name="SLRH">{{cite news |last1=Racker |first1=Mini |title=Democrats have never won Northern Nevada's 2nd District. These candidates think they can. |url=https://thenevadaindependent.com/article/democrats-have-never-won-northern-nevadas-2nd-district-these-candidates-think-they-can |access-date=February 19, 2026 |work=[[The Nevada Independent]] |date=February 19, 2026 |language=en}}</ref>
+*[[Kate Marshall]], former [[lieutenant governor of Nevada]] (2019–2021) and nominee for this seat in [[2011 Nevada's 2nd congressional district special election|2011]] ''([[2026 Reno mayoral election|running for mayor of Reno]])''<ref name="SLRH" />
+*Joe Rodriguez, [[Sparks, Nevada|Sparks]] city councilor<ref name="SLRH" />
+*Beth Smith, member of the [[Washoe County School District|Washoe County Board of Education]]<ref name="SLRH" />
+*[[Angie Taylor]], state senator from the 15th district (2024–present)<ref name="SLRH" />
+
+====Endorsements====
+{{Endorsements box
+| title= Teresa Benitez-Thompson
+| list=
+;U.S. representatives
+*[[Steven Horsford]], [[NV-04]] (2019–present)<ref name="MeetNV02"/>
+;State legislators
+*[[Selena La Rue Hatch]], state assemblymember from the 25th district (2022–present)<ref name="SLRH" />
+;Organizations
+*[[Culinary Workers Union]] Local 226<ref name="MeetNV02" />
+*[[National Organization for Women]] PAC<ref name=nowpac/>
+*[[Progressive Leadership Alliance of Nevada]] Action<ref name=plan/>
+}}
+{{Endorsements box
+| title= Matthew Fonken
+| list=
+;State legislators
+*[[Edgar Flores (politician)|Edgar Flores]], [[Nevada's 2nd Senate district|SD-02]] (2022–present)<ref name="Best"/>
+;Local officials
+*[[Tick Segerblom]], [[Clark County Commission|Clark County commissioner]] (2019–present)<ref name="Best"/>
+
+;Organizations
+*[[Indivisible (organization)|Indivisible]] Northern Nevada<ref name="MeetNV02" />
+}}
+{{Endorsements box
+| title= Greg Kidd
+| list=
+;U.S. representatives
+*[[Susie Lee]], [[NV-03]] (2019–present)<ref name="Best"/>
+}}
+{{Endorsements box
+| title= Morgan Wadsworth
+| list=
+; Organizations
+* [[Track AIPAC]]<ref name="AIPAC-2">{{cite web|url=https://www.trackaipac.com/endorsements|title=Candidates Endorsed By Citizens Against AIPAC Corruption|access-date=December 26, 2025|archive-date=December 30, 2025|archive-url=https://web.archive.org/web/20251230180544/https://www.trackaipac.com/endorsements|url-status=live}}</ref>}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Teresa Benitez-Thompson (D)
+|$57,120{{Efn|$20,000 of this total was self-funded by Benitez-Thompson.}}
+|$3,807
+|$53,312
+|-
+|{{party shading/Democratic}}|Kathy Durham (D)
+|$14,523{{Efn|$2,600 of this total was self-funded by Durham.}}
+|$9,900
+|$4,623
+|-
+|{{party shading/Democratic}}|Matthew Fonken (D)
+|$59,615
+|$51,876
+|$7,738
+|-
+|{{party shading/Democratic}}|Joshua Hebert (D)
+|$19,371{{Efn|$10,347 of this total was self-funded by Hebert.}}
+|$11,309
+|$15,965
+|-
+|{{party shading/Democratic}}|Greg Kidd (D)
+|$562,946{{Efn|$560,000 of this total was self-funded by Kidd.}}
+|$602,110
+|$22,637
+|-
+|{{party shading/Democratic}}|Morgan Wadsworth (D)
+|$3,643{{Efn|$675 of this total was self-funded by Wadsworth.}}
+|$463
+|$3,204
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+==== Results ====
+[[File:2026 Nevada's 2nd congressional district Democratic primary election results by county map.svg|thumb|240px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Benitez-Thompson}}
+|{{legend|#DFEEFF|20–30%}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Kidd}}
+|{{legend|#D0F9F9|20–30%}}
+}}
+{{legend|#808080|'''No votes'''}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (US)|candidate=[[Teresa Benitez-Thompson]]|votes=23,706|percentage=45.6}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Greg Kidd|votes=11,714|percentage=22.5}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Kathy Durham|votes=5,973|percentage=11.5}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Morgan Wadsworth|votes=4,877|percentage=9.4}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Matthew Fonken|votes=3,204|percentage=6.2}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Gamaliel Zavala Enriquez|votes=863|percentage=1.7}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Josh Hebert ''(withdrawn)''|votes=421|percentage=0.8}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Johnny E. Kerns|votes=375|percentage=0.7}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Mark Jolle ''(withdrawn)''|votes=357|percentage=0.7}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Samuel White ''(withdrawn)''|votes=320|percentage=0.6}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Gerold Gorman|votes=221|percentage=0.4}}
+{{Election box total no change|votes=52,031|percentage=100.0}}
+{{Election box end}}
+
+=== Independent and third-party candidates ===
+==== Candidates ====
+===== Declared =====
+*Lynn Chapman ([[Independent American Party of Nevada|Independent American]])<ref name=Aurora/>
+
+===== Declined =====
+*[[Hillary Schieve]] (Independent), [[Mayor of Reno, Nevada|mayor of Reno]] (2014–present)<ref name="SLRH" />
+
+=== General election ===
+==== Predictions ====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Lean|R}}
+|October 30, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|R}}
+|October 23, 2026
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial"/>
+| {{USRaceRating|Tilt|R}}
+|October 29, 2026
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Lean|R}}
+|October 20, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver"/>
+| {{US political race rating|Likely|R|}}
+|August 23, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=David Flippo (R)
+|list=
+;Statewide officials
+*[[Joe Lombardo]], [[governor of Nevada]] (2023–present)<ref name="Intriguing">{{cite web|url=https://nevadacurrent.com/2026/09/08/cd2-race-is-more-intriguing-than-it-usually-is-how-much-more-competitive-remains-to-be-seen/|title=CD2 race is more intriguing than it usually is. How much more competitive remains to be seen.|last=Corbin Girnus|first=April|date=September 8, 2026|access-date=September 13, 2026|website=[[States Newsroom|Nevada Current]]}}</ref>
+
+;State legislators
+*[[Robin L. Titus|Robin Titus]], minority leader of the [[Nevada Senate]] (2024–present) from the [[Nevada's 17th Senate district|17th district]] (2022–present)<ref name="Intriguing"/>
+
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-david-flippo-for-nevadas-second-district|title=U.S. Chamber Endorses Candidate David Flippo for Nevada's Second District|date=September 8, 2026|access-date=September 15, 2026|archive-url=https://web.archive.org/web/20260915210534/https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-david-flippo-for-nevadas-second-district|archive-date=September 15, 2026|url-status=live}}</ref>
+}}
+{{Endorsements box
+|title=Teresa Benitez-Thompson (D)
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref name="Chance">{{cite web|url=https://thenevadaindependent.com/article/does-teresa-benitez-thompson-stand-a-chance-in-deep-red-northern-nevada|title=Does Teresa Benitez-Thompson stand a chance in deep red Northern Nevada?|last=Racker|first=Mini|date=September 13, 2026|access-date=September 13, 2026|website=[[The Nevada Independent]]|archive-url=https://web.archive.org/web/20260913094503/https://thenevadaindependent.com/article/does-teresa-benitez-thompson-stand-a-chance-in-deep-red-northern-nevada|archive-date=September 13, 2026|url-status=live}}</ref>
+
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-six-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Six New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=October 5, 2026|access-date=October 5, 2026}}</ref>
+*[[Linda Sánchez]], [[California's 38th congressional district|CA-38]] (2003–present)<ref name="BOLD">{{cite web|url=https://www.boldpac.com/chc-bold-pac-endorses-teresa-benitez-thompson-for-congress-in-nevada-s-2nd-congressional-district|title=CHC BOLD PAC Endorses Teresa Benitez-Thompson for Congress in Nevada's 2nd Congressional District|date=July 1, 2026|access-date=July 7, 2026|website=BOLD Democrats|archive-url=https://web.archive.org/web/20260710133734/https://www.boldpac.com/chc-bold-pac-endorses-teresa-benitez-thompson-for-congress-in-nevada-s-2nd-congressional-district|archive-date=July 10, 2026|url-status=live}}</ref>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="New Dems">{{cite web|url=https://www.newdemactionfund.com/news/new-dems-endorse-seven-more-candidates-in-key-red-to-blue-seats?source=dfba9884-cc51-4c60-b5ac-1e7c74296073|title=New Dems Endorse Seven More Candidates in Key Red-to-Blue Seats|date=September 29, 2026|access-date=October 2, 2026}}</ref>
+
+;State legislators
+*[[James Oscarson]], former [[Nevada State Assembly|state assemblymember]] from the 36th district (2013–2018) ''(Republican)''<ref name="Chance"/>
+
+;Organizations
+*[[Congressional Hispanic Caucus#CHC BOLD PAC|CHC BOLD PAC]]<ref name="BOLD"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[J Street]]<ref>{{cite web |title=Teresa Benitez Thompson |url=https://jstreetpac.org/candidate/teresa-benitez-thompson/ |website=J Street PAC |access-date=16 October 2026}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref>{{cite web|url=https://www.lcv.org/media-center/lcv-action-fund-announces-new-endorsements-for-u-s-house-of-representatives/|title=LCV Action Fund Announces New Endorsements for U.S. House of Representatives|date=July 16, 2026|access-date=September 13, 2026|archive-url=https://web.archive.org/web/20260914014442/https://www.lcv.org/media-center/lcv-action-fund-announces-new-endorsements-for-u-s-house-of-representatives/|archive-date=September 14, 2026|url-status=live}}</ref>
+*[[New Democrat Coalition#Campaign arm|NewDem Action Fund]]<ref name="New Dems"/>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;U.S. representatives
+*[[Mark Amodei]], [[NV-02]] (2011–present) ''(Republican)''<ref name="Intriguing"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|David Flippo (R)
+|$2,934,108
+|$2,787,661
+|$161,162
+|-
+|{{party shading/Democratic}}|Teresa Benitez-Thompson (D)
+|$1,054,467
+|$872,618
+|$181,849
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| David<br />Flippo (R)
+! style="width:100px;"| Teresa<br />Benitez-Thompson (D)
+! style="width:100px;"| Lynn<br />Chapman (IA)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|GBAO (D)<ref name="Chance"/>{{Efn-ua|name="NA"|Poll sponsored by the Nevada Alliance, which supports Benitez-Thompson}}
+|August 31 – September 3, 2026
+|500 (LV)
+|{{sdash}}
+|37%
+|{{party shading/Democratic}}|'''38%'''
+|14%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|Strategies 360<ref>{{cite web |last1=Robison |first1=Mark |title=Poll, forecasters show Democrat momentum in Nevada House, AG races |url=https://www.rgj.com/story/news/politics/elections/2026/09/04/democrats-claim-momentum-in-nevada-house-and-attorney-general-races/91615085007/ |publisher=[[Reno Gazette-Journal]] |access-date=September 7, 2026 |date=September 4, 2026 |url-access=subscription}}</ref>{{Efn-ua|Poll sponsored by Benitez-Thompson's campaign}}
+|August 22–26, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''45%'''
+|42%
+|7%
+|1%{{Efn|"Someone else" with 1%}}
+|6%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|GBAO (D)<ref name="Chance"/>{{Efn-ua|name="NA"}}
+|August 31 – September 3, 2026
+|500 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''48%'''
+|42%
+|10%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Nevada's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = David Flippo
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Teresa Benitez-Thompson]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent American Party of Nevada|Independent American
+  |candidate  = Lynn Chapman
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== District 3 ==
+{{Infobox election
+| election_name = 2026 Nevada's 3rd congressional district election
+| country = Nevada
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nevada#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nevada#District 3
+| next_year = 2028
+| image1 = Rep. Susie Lee 119th Portrait (cropped).jpg
+| nominee1 = [[Susie Lee]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Marty O'Donnell by Gage Skidmore.jpg
+| nominee2 = [[Martin O'Donnell]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Susie Lee]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nevada's 3rd congressional district}}
+The 3rd district comprises the western [[Las Vegas]] suburbs, including [[Spring Valley, Nevada|Spring Valley]], [[Summerlin South, Nevada|Summerlin South]], and [[Sandy Valley, Nevada|Sandy Valley]]. The incumbent is Democrat [[Susie Lee]], who was re-elected with 51.4% of the vote in 2024.<ref name="HPVT" />
+
+=== Democratic primary ===
+==== Candidates ====
+===== Nominee =====
+* [[Susie Lee]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849676 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV04020/1849676/ |access-date=September 21, 2025 |website=docquery.fec.gov |archive-date=December 22, 2025 |archive-url=https://web.archive.org/web/20251222225600/https://docquery.fec.gov/cgi-bin/forms/H6NV04020/1849676/ |url-status=live }}</ref>
+===== Eliminated in primary =====
+* James Lally, cardiologist<ref>{{cite web|url=https://lasvegassun.com/news/2025/aug/13/las-vegas-cardiologist-launches-bid-for-congress-w/|title=Las Vegas cardiologist launches bid for Congress, will challenge Lee in Democratic primary|last=Chouinard|first=Kyle|date=August 13, 2025|access-date=August 18, 2025|website=[[Las Vegas Sun]]|archive-date=August 14, 2025|archive-url=https://web.archive.org/web/20250814093826/https://lasvegassun.com/news/2025/aug/13/las-vegas-cardiologist-launches-bid-for-congress-w/|url-status=live}}</ref>
+* Terrill Robinson, [[United States Marine Corps|Marine Corps]] veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1931627 |url=https://docquery.fec.gov/cgi-bin/forms/H6NV03295/1931627 |access-date=January 9, 2026 |website=docquery.fec.gov}}</ref>
+* Brandon West<ref name=Aurora/>
+
+==== Endorsements ====
+{{Endorsements box
+|title=James Lally
+|list=
+;Organizations
+*[[Track AIPAC]]<ref name="AIPAC-2"/>
+}}
+{{Endorsements box
+|title=Susie Lee
+|list=
+;Statewide officials
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref name="WM">{{cite news |last1=Wren |first1=Adam |last2=Burns |first2=Dasha |last3=Steakin |first3=Will |title=Remember the Talarico |url=https://www.politico.com/newsletters/playbook/2026/09/25/remember-the-talarico-01093112 |access-date=October 2, 2026 |work=[[Politico]] |date=September 25, 2026 |language=en}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name=NEA/>
+*[[International Association of Fire Fighters|Professional Firefighters of Nevada]]<ref name="Sheridan-2"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Brady Campaign]]<ref>{{cite web |title=Candidates|url=https://bradypac.org/candidates/?_office=federal |website=The Brady Campaign |access-date=January 29, 2026}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI"/>
+*[[Elect Democratic Women]]<ref name=EDW/>
+*[[EMILY's List]]<ref name="emlist" />
+*[[Giffords]]<ref name="Giffords930"/>
+*[[Jewish Democratic Council of America]]<ref name="JDC"/>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+*[[League of Conservation Voters]] Action Fund<ref name="LCV 4-25"/>
+*[[National Organization for Women]] PAC<ref name=nowpac/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]]<ref name=PC/>
+*[[Reproductive Freedom for All]]<ref name="RF4A 5-8"/>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-susie-lee-for-nevadas-third-congressional-district|title=U.S. Chamber Endorses Rep. Susie Lee for Nevada's Third Congressional District|date=May 27, 2026|access-date=September 15, 2026|archive-url=https://web.archive.org/web/20260915210342/https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-susie-lee-for-nevadas-third-congressional-district|archive-date=September 15, 2026|url-status=live}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|James Lally (D)
+|$839,271
+|$649,072
+|$190,199
+|-
+|{{party shading/Democratic}}|Susie Lee (D)
+|$3,498,064
+|$895,743
+|$3,068,975
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Nevada 3rd |url=https://www.fec.gov/data/elections/house/NV/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026 |archive-date=January 21, 2025 |archive-url=https://web.archive.org/web/20250121141851/https://www.fec.gov/data/elections/house/NV/03/2026/ |url-status=live }}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (US)|candidate=[[Susie Lee]] (incumbent)|votes=31,712|percentage=69.2}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=James Lally|votes=9,324|percentage=20.4}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Terrill Robinson|votes=2,996|percentage=6.5}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=Brandon West|votes=1,776|percentage=3.9}}
+{{Election box total no change|votes=45,808|percentage=100.0}}
+{{Election box end}}
+
+=== Republican primary ===
+==== Candidates ====
+===== Nominee =====
+* [[Martin O'Donnell]], composer and candidate for this district in [[2024 United States House of Representatives elections in Nevada#District 3|2024]]<ref>{{cite news |work=[[Las Vegas Review-Journal]] |access-date=April 1, 2025 |url=https://www.reviewjournal.com/news/politics-and-government/nevada/halo-composer-announces-plan-to-run-for-congress-again-3344681/ |author=Hill, Jessica |date=March 31, 2025 |title='Halo' composer announces plan to run for Congress again |archive-date=March 31, 2025 |archive-url=https://web.archive.org/web/20250331231531/https://www.reviewjournal.com/news/politics-and-government/nevada/halo-composer-announces-plan-to-run-for-congress-again-3344681/ |url-status=live }}</ref>
+===== Eliminated in primary =====
+* Tera Anderson, asset development manager and candidate for [[mayor of Las Vegas]] in [[2024 Las Vegas mayoral election|2024]]<ref name="NVInd">{{cite news |last1=Birenbaum |first1=Gabby |title=Surveying the 2026 House challengers in Las Vegas |url=https://thenevadaindependent.com/article/surveying-the-2026-house-challengers-in-las-vegas |access-date=May 21, 2025 |work=[[Nevada Independent]] |date=May 10, 2025 |archive-date=May 15, 2025 |archive-url=https://web.archive.org/web/20250515160902/https://thenevadaindependent.com/article/surveying-the-2026-house-challengers-in-las-vegas |url-status=live }}</ref>
+* [[Jeffrey Ross Gunter|Jeff Gunter]], former [[List of ambassadors of the United States to Iceland|U.S. ambassador to Iceland]] (2019–2021) and candidate for U.S. Senate in [[2024 United States Senate election in Nevada|2024]]<ref>{{Cite web |last=Nir |first=David |date=December 10, 2025 |title=Morning Digest: An unlikely Obamacare champion just launched an unexpected comeback |url=https://www.the-downballot.com/p/morning-digest-an-unlikely-obamacare |access-date=December 10, 2025 |website=The Downballot |language=en |archive-date=December 12, 2025 |archive-url=https://web.archive.org/web/20251212063647/https://www.the-downballot.com/p/morning-digest-an-unlikely-obamacare |url-status=live }}</ref>
+* Aury Nagy, neurosurgeon<ref name="NVInd"/>
+
+===== Withdrawn =====
+* Chris Brandlin, lawyer<ref>{{cite web |title=FEC Disclosure Form 3 for BRANDLIN FOR CONGRESS |url=https://docquery.fec.gov/cgi-bin/forms/C00899013/1929323/ |website=docquery.fec.gov |access-date=March 2, 2026}}</ref>
+* Lydia Dominguez, [[Clark County, Nevada|Clark County]] school board trustee<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-get-caught-up-on-all |title=Morning Digest: Get caught up on all the latest election news with The Downballot! |last1=Singer |first1=Jeff |last2=Nir |first2=David |date=January 5, 2026|access-date=January 5, 2026}}</ref>
+* Steve London, accountant<ref>{{cite web |title=FEC Disclosure Form 3 for Steve London for Congress |url=https://docquery.fec.gov/cgi-bin/forms/C00845529/1923744/ |website=docquery.fec.gov |access-date=March 2, 2026}}</ref>
+* Lucena Parker<ref name="NVInd"/>
+* Joshua Walters, real estate investor<ref>{{Cite web |last1=Racker |first1=Mini |last2=Mueller |first2=Tabitha |last3=Milliken |first3=Oona |last4=Aldrete |first4=Isabella |date=December 9, 2025 |title=A big campaign finance change, residency questions and more Nevada political news as 2025 ends |url=https://thenevadaindependent.com/article/this-supreme-court-case-could-swing-future-nevada-elections-heres-what-to-know |access-date=December 10, 2025 |website=The Nevada Independent |language=en |archive-date=December 10, 2025 |archive-url=https://web.archive.org/web/20251210191300/https://thenevadaindependent.com/article/this-supreme-court-case-could-swing-future-nevada-elections-heres-what-to-know |url-status=live }}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Tera Anderson
+| list =
+;Statewide officials
+* [[Bob List]], former [[governor of Nevada]] (1979–1983)<ref>{{cite news |last=Sheehan |first=Brittany |date=September 23, 2025 |title=Former Nevada Governor Bob List Endorses Tera Anderson For Congress |url=https://nevadanewsandviews.com/former-nevada-governor-bob-list-endorses-tera-anderson-for-congress/ |work=Nevada News and Views |access-date=January 28, 2025 |archive-date=October 17, 2025 |archive-url=https://web.archive.org/web/20251017002519/https://nevadanewsandviews.com/former-nevada-governor-bob-list-endorses-tera-anderson-for-congress/ |url-status=live }}</ref>
+}}
+{{Endorsements box
+|title=Martin O'Donnell
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name ="Racker" />
+
+;U.S. representatives
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC"/>
+
+;Organizations
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tera Anderson (R)
+|$286,720{{efn|$100,100 of this total was self-funded by Anderson}}
+|$99,294
+|$187,426
+|-
+|{{party shading/Republican}}|''Chris Brandlin (R)''
+|$191,276
+|$191,276
+|$0
+|-
+|{{party shading/Republican}}|''Lydia Dominguez (R)''
+|$27,465
+|$27,465
+|$0
+|-
+|{{party shading/Republican}}|Jeff Gunter (R)
+|$777,063{{efn|$750,000 of this total was self-funded by Gunter}}
+|$747,003
+|$30,059
+|-
+|{{party shading/Republican}}|''Steve London (R)''
+|$42,404
+|$42,404
+|$0
+|-
+|{{party shading/Republican}}|Aury Nagy (R)
+|$1,076,398{{efn|$1,020,000 of this total was self-funded by Nagy}}
+|$330,476
+|$745,921
+|-
+|{{party shading/Republican}}|Marty O'Donnell (R)
+|$3,225,990{{efn|$3,000,000 of this total was self-funded by O'Donnell}}
+|$503,914
+|$2,722,076
+|-
+|{{party shading/Republican}}|''Joshua Walters (R)''
+|$47,841
+|$47,841
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (US)|candidate=[[Martin O'Donnell]]|votes=14,892|percentage=42.3}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Tera Anderson|votes=8,482|percentage=24.1}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=[[Jeffrey Ross Gunter|Jeff Gunter]]|votes=6,879|percentage=19.5}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Aury Nagy|votes=4,945|percentage=14.0}}
+{{Election box total no change|votes=35,198|percentage=100.0}}
+{{Election box end}}
+
+=== Independent and third-party candidates ===
+==== Candidates ====
+===== Declared =====
+*David Anderson (Independent)<ref name=Aurora/>
+*Dean Johnson (Independent)<ref name=Aurora/>
+*Jon Kamerath (Independent American)<ref name=Aurora/>
+
+=== General election ===
+==== Predictions ====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|D}}
+|October 9, 2026
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial"/>
+| {{USRaceRating|Lean|D}}
+|March 7, 2025 
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|D}}
+|October 20, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 23, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Susie Lee (D)
+|$5,942,432
+|$5,477,793
+|$931,294
+|-
+|{{party shading/Republican}}| Martin O'Donnell (R)
+|$4,864,563
+|$4,680,014
+|$184,549
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;"|Susie<br />Lee (D)
+! style="width:100px;"|Martin<br />O'Donnell (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|RedBox Research (D)<ref>{{cite web |title=Lee leads O'Donnell for the House |url=https://afightworthhaving.com/polling/2026/nv-03 |access-date=October 28, 2026 |date=October 25, 2026}}</ref>{{Efn|name=AFWH|Poll sponsored by A Fight Worth Having}}
+|October 20-23, 2026
+|687 (LV)
+|±&nbsp;5.1%
+|{{party shading/Democratic}}|'''49%'''
+|42%
+|5%{{efn|Jon Kamerath (I) with 3%; "Someone else" with 2%}}
+|4%
+|-
+|}
+
+====Results====
+{{Election box begin|title=2026 Nevada's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Susie Lee]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Martin O'Donnell]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== District 4 ==
+{{Infobox election
+| election_name = 2026 Nevada's 4th congressional district election
+| country = Nevada
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nevada#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nevada#District 4
+| next_year = 2028
+| image1 = Steven Horsford 118th (cropped).jpeg
+| nominee1 = [[Steven Horsford]] 
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Cody Whipple
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Steven Horsford]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nevada's 4th congressional district}}
+The 4th district covers parts of northern [[Las Vegas]], taking in the [[Las Vegas Strip]], as well as its northern suburbs and rural central Nevada. The incumbent is Democrat [[Steven Horsford]], who was re-elected with 52.7% of the vote in 2024.<ref name="HPVT" />
+
+=== Democratic primary ===
+==== Candidates ====
+===== Nominee =====
+* [[Steven Horsford]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1857263 |url=https://docquery.fec.gov/cgi-bin/forms/H2NV04011/1857263/ |access-date=September 22, 2025 |website=docquery.fec.gov |archive-date=December 22, 2025 |archive-url=https://web.archive.org/web/20251222233543/https://docquery.fec.gov/cgi-bin/forms/H2NV04011/1857263/ |url-status=live }}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Steven Horsford
+|list=
+;Statewide officials
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref name="WM"/>
+
+;Labor unions
+* [[National Education Association]]<ref name=NEA/>
+* [[International Association of Fire Fighters|Professional Firefighters of Nevada]]<ref name="Sheridan-2"/>
+; Organizations
+* [[AIPAC]]<ref name="AIPAC"/>
+* [[Black Economic Alliance]] PAC<ref>{{cite web |title=Candidates |url=https://pac.blackeconomicalliance.org/candidates/ |website=Black Economic Alliance PAC |access-date=April 23, 2026 |archive-url=https://web.archive.org/web/20200922033106/https://pac.blackeconomicalliance.org/candidates/ |archive-date=September 22, 2020 |url-status=live}}</ref>
+* [[Brady Campaign]]<ref>{{cite web |title=Steven Horsford |url=https://elections.bradyunited.org/candidates/steve-horsford |website=The Brady Campaign |access-date=November 26, 2025 |archive-date=December 22, 2025 |archive-url=https://web.archive.org/web/20251222225638/https://elections.bradyunited.org/candidates/steve-horsford |url-status=live }}</ref>
+* [[Giffords]]<ref name="Giffords930"/>
+* [[Jewish Democratic Council of America]]<ref name="JDC"/>
+* [[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+* [[League of Conservation Voters]] Action Fund<ref name="LCV 4-25"/>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+* [[Population Connection]]<ref name=PC/>
+* [[Progressive Leadership Alliance of Nevada]] Action<ref name=plan/>
+* [[Reproductive Freedom for All]]<ref name="RF4A 5-8"/>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Steven Horsford (D)
+|$2,574,891
+|$1,464,880
+|$1,116,301
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Nevada 4th |url=https://www.fec.gov/data/elections/house/NV/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026 |archive-date=January 24, 2025 |archive-url=https://web.archive.org/web/20250124183833/https://www.fec.gov/data/elections/house/NV/04/2026/ |url-status=live }}</ref></small>
+|}
+
+=== Republican primary ===
+==== Candidates ====
+===== Nominee =====
+* Cody Whipple, telecommunications business owner<ref name="4/17 Digest">{{cite web|url=https://www.the-downballot.com/i/161500202/nv|title=Morning Digest: New challenger to 12-term Democrat calls on 'next generation to step up'|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=April 17, 2025|access-date=April 17, 2025|work=The Downballot}}</ref>
+===== Eliminated in primary =====
+* Ronda Kennedy, attorney<ref name=Aurora/>
+* Anthony Snowden, healthcare professional<ref name=Aurora/>
+
+===== Did not file =====
+* Aaron Hill, IT director<ref name="NVInd"/>
+
+===== Withdrawn =====
+*David Flippo, financial advisor and candidate for this district in [[2024 United States House of Representatives elections in Nevada#District 4|2024]] ''([[2026 United States House of Representatives elections in Nevada#District 2|running in the 2nd district]])''<ref name="Margiott" />
+
+==== Endorsements ====
+{{Endorsements box
+|title=Cody Whipple
+|list=
+;U.S. representatives
+*[[Cresent Hardy]], former [[Nevada's 4th congressional district|NV-04]] (2015–2017)<ref name="4/17 Digest"/>
+*[[Celeste Maloy]], [[UT-02]] (2023–present)<ref name="EndTrack"/>
+}}
+{{Endorsements box
+|title=David Flippo ''(withdrawn)''
+|list=
+; U.S. representatives
+* [[Lauren Boebert]], [[CO-04]] (2021–present)<ref name="EndTrack"/>
+* [[Jeff Duncan (politician)|Jeff Duncan]], former [[SC-03]] (2011–2025)<ref name="EndTrack"/>
+* [[Paul Gosar]], [[AZ-09]] (2011–present)<ref name="EndTrack"/>
+* [[Trent Kelly]], [[Ms-01|MS-01]] (2015–present)<ref name="EndTrack"/>
+
+; Organizations
+* Veterans for America First<ref>{{cite web |title=Lt. Col. David Flippo Endorsed by VFAF Veterans for America First for U.S. Congress (NV-4) |url=https://fox5sandiego.com/business/press-releases/ein-presswire/863850713/lt-col-david-flippo-endorsed-by-vfaf-veterans-for-america-first-for-u-s-congress-nv-4-says-elizabeth-helgelien |website=FOX5 San Diego |access-date=November 16, 2025}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Aaron Hill (R)''
+|$48,442
+|$43,870
+|$4,571
+|-
+|{{party shading/Republican}}|''Ronda Kennedy (R)''
+|$350,000
+|$5,689
+|$344,310
+|-
+|{{party shading/Republican}}|Cody Whipple (R)
+|$622,721
+|$249,263
+|$373,457
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (US)|candidate=Cody Whipple|votes=22,103|percentage=61.8}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Ronda Kennedy|votes=8,062|percentage=22.5}}
+{{Election box candidate with party link no change|party=Republican Party (US)|candidate=Anthony Snowden|votes=5,597|percentage=15.7}}
+{{Election box total no change|votes=35,762|percentage=100.0}}
+{{Election box end}}
+
+=== Independent and third-party candidates ===
+==== Candidates ====
+===== Declared =====
+*Russell Best (Independent American)<ref name=Aurora/>
+*William Johnson (Independent)<ref name=Aurora/>
+*Gary Steele (Independent)<ref name=Aurora/>
+
+=== General election ===
+==== Predictions ====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|D}}
+|February 6, 2025
+|-
+| align=left | ''[[Inside Elections]]''<ref name="IE Initial"/>
+| {{USRaceRating|Likely|D}}
+|December 5, 2025
+|-
+|align=left | ''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 23, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Cody Whipple (R)
+|list=
+;Organizations
+*[[Log Cabin Republicans]]<ref>{{cite web |title=Log Cabin Republicans PAC Announces Fourth Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-fourth-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=August 8, 2026 |date=August 4, 2026 |archive-url=https://web.archive.org/web/20260809053442/https://logcabin.org/log-cabin-republicans-pac-announces-fourth-round-of-endorsements-2/ |archive-date=August 9, 2026 |url-status=live}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Steven Horsford (D)
+|$4,077,555
+|$3,262,013
+|$821,833
+|-
+|{{party shading/Republican}}| Cody Whipple (R)
+|$1,217,197
+|$1,150,817
+|$66,379
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Nevada's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Steven Horsford]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Cody Whipple
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+; Official campaign websites for 1st district candidates
+* [https://carriebuckforcongress.com/ Carrie Buck (R)]
+* [https://chaplainstevenstjohnforcongress.com/ Steven St John (I)]
+* [https://atjforcongress.com/ Anthony Thomas Jr. (I)]
+* [https://www.dinatitus.com/ Dina Titus (D)]
+* [https://www.victor4nevada.com/ Victor Willert (I)]
+
+; Official campaign websites for 2nd district candidates
+* [https://electteresa.com/ Teresa Benitez-Thompson (D)]
+* [https://flippo4nv.com/ David Flippo (R)]
+
+; Official campaign websites for 3rd district candidates
+* [https://susieleeforcongress.com/ Susie Lee (D)]
+* [https://martyforcongress.vote/ Martin O'Donnell (R)]
+
+; Official campaign websites for 4th district candidates
+* [https://www.stevenhorsford.com/ Steven Horsford (D)]
+* [https://codyk4congress.com/ Cody Whipple (R)]
+* [https://www.garys4congress.com/ Gary Steele (I)]
+
+{{Nevada elections}}
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|Nevada]]
+[[Category:2026 elections in Nevada|United States House]]
+[[Category:United States House of Representatives elections in Nevada]]

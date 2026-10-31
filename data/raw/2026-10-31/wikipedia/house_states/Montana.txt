@@ -1,0 +1,992 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Montana House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name      = 2026 United House of Representatives elections in Montana
+| country            = Montana
+| type               = legislative
+| ongoing            = yes
+| previous_election  = 2024 United House of Representatives elections in Montana
+| previous_year      = [[2024 United States House of Representatives elections in Montana|2024]]
+| next_election      = 2028 United House of Representatives elections in Montana
+| next_year          = 2028
+| seats_for_election = Both Montana seats to the [[United States House of Representatives]]
+| election_date      = November 3, 2026
+| party1             = Republican Party (United States)
+| last_election1     = '''2'''
+| seats1             = 
+| seat_change1       = 
+| party2             = Democratic Party (United States)
+| last_election2     = 0
+| seats2             = 
+| seat_change2       = 
+| map_image          = 
+| map_caption        = 
+}}
+{{Elections in Montana}}
+The '''2026 United States House of Representatives elections in Montana''' will be held on November 3, 2026, to elect the two [[U.S. representative]]s from the [[U.S. state|state]] of [[Montana]], one from each of the state's [[Montana's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 2, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{see also|Montana's 1st congressional district}}{{Infobox election
+| election_name = 2026 Montana's 1st congressional district election
+| country = Montana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Montana#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Montana#District 1
+| next_year = 2028
+| image1 = 3x4.svg
+| nominee1 = Aaron Flint
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Sam Forstag Portrait (cropped).jpg
+| nominee2 = [[Sam Forstag]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Ryan Zinke]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+| image3 = 3x4.svg
+| nominee3 = Nick Sheedy
+| party3 = Libertarian Party (United States)
+}}
+The 1st district is based in western Montana, including [[Missoula, Montana|Missoula]], [[Bozeman, Montana|Bozeman]], [[Butte, Montana|Butte]], and [[Kalispell, Montana|Kalispell]]. The incumbent is Republican [[Ryan Zinke]], who was re-elected with 52.3% of the vote in 2024.<ref name=":0">{{Cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=2025-06-13 |website=Cook Political Report |language=en}}</ref> On March 2, 2026, Zinke announced that he would retire once his present term ends.<ref name=retired>{{cite web |last1=Anchor |first1=Bradley Warren NonStop Local |title=Montana Congressman Ryan Zinke to retire, will not seek reelection |url=https://www.kulr8.com/elections/montana-congressman-ryan-zinke-to-retire-will-not-seek-reelection/article_ef317ebf-4a81-588a-975c-18e7515b9cbc.html |website=NonStop Local Billings |language=en |date=2 March 2026 |quote=Congressman Ryan Zinke will not seek reelection for a fourth term in Montana's first Congressional District. The Republican who has had a storied career will make it official Monday as the filing deadline looms.}}</ref>
+
+===Republican primary===
+====Candidates====
+====Nominee====
+*Aaron Flint, veteran and radio host<ref>{{cite web |last1=Warren |first1=Bradley |title=Conservative radio host Aaron Flint to run for Congress in Montana's first district |url=https://www.montanarightnow.com/montana/conservative-radio-%20host-aaron-flint-to-run-for-congress-in-montanas-first-district/article%20722103b6-1f5d-48de-8eeb-7e5fff29cfc5.html |website=NonStop Local Montana |publisher=MontanaRightNow.com |language=en |date=2 March 2026}}</ref>
+
+=====Eliminated in primary=====
+*Ray Curtis, educator<ref name=":2">{{Cite web |title=FEDERAL PRIMARY 2026 Candidate List |url=https://candidatefiling.mt.gov/candidatefiling/CandidateList.aspx?e=450002928 |access-date=2026-03-05 |website=candidatefiling.mt.gov}}</ref>
+*[[Christi Jacobsen]], [[Secretary of State of Montana]] (2021–present)<ref name="KTVH">{{cite news |last1=Johnson |first1=Brady |title=Christi Jacobsen enters Montana Western Congressional District race |url=https://www.ktvh.com/news/montana-news/christi-jacobsen-enters-montana-western-congressional-district-race |access-date=3 March 2026 |date=3 March 2026}}</ref>
+*[[Albert Olszewski]], former state senator (2017–2021), Flathead County Republican Central Committee chairman, candidate for U.S. Senate in [[2018 United States Senate election in Montana|2018]], governor in [[2020 Montana gubernatorial election|2020]], and this seat in [[2022 United States House of Representatives elections in Montana#District 1|2022]]<ref name="MT1">{{Cite web |last=Drew |first=Micah |date=2026-03-02 |title=Montana GOP candidates jump into race for western House district |url=https://dailymontanan.com/2026/03/02/montana-gop-candidates-jump-into-race-for-western-house-district/ |access-date=2026-03-02 |website=Daily Montanan |language=en-US}}</ref>
+
+=====Withdrawn=====
+*[[Ryan Zinke]], incumbent U.S. representative ''(endorsed Flint)''<ref name="MT1" />
+
+=====Declined=====
+*[[Matt Regier]], president of the [[Montana Senate]] (2025–present) from the 5th district (2025–present)<ref name=":1">{{Cite web |last=Warren |first=Bradley |date=2026-03-02 |title=Who's running for Congress in Montana? Here is what we know: |url=https://www.montanarightnow.com/montana/who-s-running-for-congress-in-montana-here-is-what-we-know/article_95e7c2b4-d619-4c81-bb7f-56a26f4be57b.html |access-date=2026-03-03 |website=NonStop Local Montana |language=en}}</ref>
+*[[Denny Rehberg]], former U.S. representative (2001–2013)<ref name=":1" />
+
+====Endorsements====
+{{Endorsements box
+|title=Aaron Flint
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present) ''(previously endorsed Zinke)''<ref name=Trump1>{{cite web |last1=Eavis |first1=Victoria |title=Trump endorses Aaron Flint in Montana's western congressional primary race |url=https://helenair.com/news/state-regional/government-politics/elections/article_badcdd88-1fef-45d5-bce7-be6b7abed695.html |website=The Independent Record |access-date=3 March 2026 |language=en |date=3 March 2026}}</ref>
+
+;U.S. senators
+*[[Tim Sheehy]], [[Montana]] (2025–present)<ref name="MT1" />
+
+;U.S. representatives
+*[[Troy Downing]], [[Montana's 2nd congressional district|MT-02]] (2025–present)<ref name="MT1" />
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://www.nrcc.org/2026/04/27/nrcc-announces-addition-of-8-candidates-to-maga-majority-program-as-gop-expands-2026-map/|title=NRCC Announces Addition of 8 Candidates to ‘MAGA Majority’ Program as GOP Expands 2026 Map|date=April 27, 2026|access-date=May 4, 2026}}</ref>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[Louisiana's 4th congressional district|LA-04]] (2017–present)<ref name=":1"/>
+*[[Jim Jordan]], [[Ohio's 4th congressional district|OH-04]] (2007–present)<ref name="EndTrack"/>
+*[[Lisa McClain]], [[Michigan's 9th congressional district|MI-09]] (2021–present)<ref name="EndTrack"/>
+*[[Steve Scalise]], [[House majority leader]] (2023-present) from [[LA-01]] (2008-present)<ref name="EndTrack">{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 January 2026 |language=en |date=7 January 2026}}</ref>
+*[[Ryan Zinke]], [[Montana's 1st congressional district|MT-01]] (2023–present)<ref name="MT1" />
+
+;Statewide officials
+*[[James Brown (Montana politician)|James Brown]], [[Montana State Auditor|state auditor of Montana]] (2025–present)<ref name=":1" />
+*[[Greg Gianforte]], [[governor of Montana]] (2021–present)<ref name=":1" />
+*[[Austin Knudsen]], [[Attorney General of Montana|attorney general of Montana]] (2021–present)<ref name=":1" />
+
+;State legislators
+*[[Brandon Ler]], speaker of the [[Montana State House]] (2025–present) from the 35th district (2021-present)<ref name="EndTrack"/>
+
+;Organizations
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-aaron-flint-for-montanas-first-congressional-district|title=U.S. Chamber Endorses Candidate Aaron Flint for Montana’s First Congressional District|date=May 28, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Ryan Zinke ''(withdrawn)''
+| list =
+;Executive branch officials
+*<s>[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)</s><ref name="Reelect2">{{cite web |last1=Drew |first1=Micah |title=Trump endorses Reps. Zinke, Downing for re-election |url=https://missoulacurrent.com/trump-zinke-downing/ |access-date=November 7, 2025 |work=[[Daily Montanan]] |publisher=Missoula Current |date=November 6, 2025}}</ref> ''(endorsed Flint after Zinke withdrew)''<ref name=Trump1/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Aaron Flint (R)
+|$677,089
+|$292,415
+|$384,673
+|-
+|{{party shading/Republican}}|Christi Jacobson (R)
+|$447,271
+|$352,505
+|$94,766
+|-
+|{{party shading/Republican}}|Albert Olszewski (R)
+|$411,338
+|$317,276
+|$104,010
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Montana 1st |url=https://www.fec.gov/data/elections/house/MT/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 17, 2026}}</ref></small>
+|}
+
+==== Results ====
+[[File:2026 Montana's 1st congressional district Republican primary election results by county map.svg|thumb|170px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Flint}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Jacobsen}}
+|{{legend|#FFB580|40–50%}}
+}}
+]]
+{{Election box begin no change|title=Republican primary results<ref name="AP1">{{cite web |title=Montana U.S. House Primary Election Live Results 2026 |url=https://apnews.com/projects/elections-2026/montana-primary-results-us-house/#1 |website=AP News |access-date=4 June 2026 |language=en |date=2 June 2026}}</ref>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Aaron Flint|votes=41,170|percentage=50.1}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Christi Jacobsen]]|votes=18,877|percentage=23.0}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Al Olszewski]]|votes=16,686|percentage=20.3}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Ray Curtis|votes=5,479|percentage=6.7}}
+{{Election box total no change|votes=82,212|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Sam Forstag]], [[smokejumper]] and union leader<ref>{{#invoke:cite| news |last1=Woodall |first1=Hunter |title=Democrats are talking about a midterm blue wave. A Montana smokejumper could help make it a reality. |url=https://www.cbsnews.com/news/democrats-blue-wave-montana-first-congressional-district-sam-forstag/ |access-date=January 5, 2026 |work=[[CBS News]] |date=January 5, 2026}}</ref>
+
+=====Eliminated in primary=====
+*Ryan Busse, author, former vice president of sales at [[Kimber Manufacturing]], and nominee for [[List of governors of Montana|governor]] in [[2024 Montana gubernatorial election|2024]]<ref>{{Cite web |last=Drew |first=Micah |date=2026-01-08 |title=Ryan Busse joins race to challenge Zinke for House seat |url=https://dailymontanan.com/2026/01/08/ryan-busse-joins-race-to-challenge-zinke/ |access-date=2026-01-08 |website=Daily Montanan |language=en-US}}</ref>
+*Russell Cleveland, education consultant<ref>{{cite news |last1=Brooks |first1=Gary |title=Letter to the editor: Russell Cleveland running for US House |url=https://www.news-journal.com/letter-to-the-editor-russell-cleveland-running-for-us-house/article_20bd7114-3ca8-5aec-9833-e724eab420ae.html |access-date=May 21, 2025 |work=Longview News-Journal |date=May 6, 2025 |language=en}}</ref>
+*Matt Rains, rancher and candidate for {{ushr|MT|AL}} in [[2020 United States House of Representatives election in Montana|2020]]<ref>{{cite web |last1=Eavis |first1=Victoria |title=Candidate field for U.S. House is shaping up as Democrat Matt Rains announces candidacy |url=https://helenair.com/news/state-regional/government-politics/elections/article_a5324870-a5bb-4f96-a741-4ab066d200b5.html |access-date=October 23, 2025 |work=[[The Independent Record]] |date=October 23, 2025}}</ref>
+
+=====Declined=====
+*[[Brian Schweitzer]], former [[governor of Montana]] (2005–2013)<ref name=":1" /> ''(endorsed Busse, then Forstag)''<ref name=mtp/><ref>{{cite web |last1=Seymour |first1=Robert |title=Schweitzer Endorses Forstag |url=https://www.google.com/goto?url=CAESYAHrOzAVcA2-3l9eol1SHbbFOIZ7-j0AzZJs8ueIDyxowVpnN7lb8h-dG-z6kYz4j93x4B0fC_CYzw5usFnBeCeFHn-UPlafWz_9AFcJ2pinnJx1036zd189cUOme1195A}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Ryan Busse
+| list =
+;U.S. senators
+*[[Ruben Gallego]], [[Arizona]] (2025–present)<ref name=mtp>{{cite web|last=Kimbel-Sannit|first=Arren|title=Four brands of Democrat make their case in Montana's western congressional primary |url=https://montanafreepress.org/2026/04/27/four-brands-of-democrat-make-their-case-in-montanas-western-congressional-primary/|website=Montana Free Press|date=27 April 2026 |access-date=16 May 2026}}</ref>
+
+;Statewide officials
+*[[Brian Schweitzer]], former [[List of governors of Montana|governor of Montana]] (2005–2013)<ref name=mtp/>
+
+;State Legislators
+*[[Susan Webber (politician)|Susan Webber]], [[Montana Senate|state senator]] from the 8th district (2019–present) ''(co-endorsement with Forstag and Cleveland)''<ref name=Endorse1/>
+
+;Organizations
+*[[League of Conservation Voters]] Action Fund<ref>{{cite web |title=LCV Action Fund Announces Endorsement for Ryan Busse for U.S. House in Montana's First District|url=https://www.lcv.org/media-center/lcv-action-fund-announces-endorsement-for-ryan-busse-for-u-s-house-in-montanas-1st-district/|website=LCV |date=12 May 2026|access-date=16 May 2026}}</ref>
+}}
+{{Endorsements box
+| title = Russell Cleveland
+| list =
+;State legislators
+*[[Susan Webber (politician)|Susan Webber]], [[Montana Senate|state senator]] from the 8th district (2019–present) ''(co-endorsement with Busse and Forstag)''<ref name="Endorse1">{{cite web |last1=Thomas |first1=Mariah |title=Forstag Jumps into Democratic Primary for Western House District |url=https://flatheadbeacon.com/2026/01/06/forstag-jumps-into-democratic-primary-for-western-house-district/ |website=Flathead Beacon |access-date=8 January 2026 |language=en |date=6 January 2026}}</ref>
+
+;Labor unions
+*[[Union of American Physicians and Dentists]]<ref>{{cite web |title=Union Of American Physicians and Dentists Endorses Russell Cleveland for Montana's First Congressional District|url=https://www.uapd.com/2026/04/union-of-american-physicians-and-dentists-endorses-russell-cleveland-for-montanas-first-congressional-district/|website=UAPD |date=13 April 2026|access-date=April 20, 2026}}</ref>
+
+;Individuals
+*[[Josh Hutcherson]], actor<ref name="Endorse1" />
+
+;Organizations
+*[[Indivisible movement|Indivisible]] Missoula<ref name=mtp/>
+}}
+{{Endorsements box
+| title = Sam Forstag
+| list =
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref>{{cite web |last1=Eavis |first1=Victoria |title=Missoula Democratic smokejumper enters U.S. House race to unseat Rep. Zinke |url=https://billingsgazette.com/news/state-regional/government-politics/elections/article_1ce57327-8fa1-596b-a46f-1c42c24fca3a.html |website=Billings Gazette |access-date=6 January 2026 |language=en |date=5 January 2026}}</ref>
+
+;U.S. representatives
+*[[Greg Casar]], [[Texas's 35th congressional district|TX-35]] (2023–present)<ref name="CPC">{{cite web|url=https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-sam-forstag-for-mt-01/|title=Congressional Progressive Caucus PAC Endorses Sam Forstag for MT-01|date=February 26, 2026|access-date=March 12, 2026}}</ref>
+*[[Maxwell Frost]], [[Florida's 10th congressional district|FL-10]] (2023–present)<ref name="CPC"/>
+*[[Pramila Jayapal]], [[Washington's 7th congressional district|WA-07]] (2017–present)<ref name="CPC"/>
+*[[Susie Lee]], [[Nevada's 3rd congressional district|NV-03]] (2019–present) ''(candidate's aunt)''<ref>{{Cite web |title=Sam Forstag Launches Congressional Bid - National Smokejumper Association |url=https://smokejumpers.com/sam-forstag-launches-congressional-bid/ |access-date=2026-06-20 |website=smokejumpers.com}}</ref>
+*[[Alexandria Ocasio-Cortez]], [[New York's 14th congressional district|NY-14]] (2019–present)<ref>{{cite news |last=Ambarian |first=Jonathon |title=Primary 2026: Four Democratic candidates in race for western U.S. House nomination |url=https://www.ktvh.com/news/montana-politics/primary-2026-four-democratic-candidates-in-race-for-western-u-s-house-nomination |work=KTVH |date=April 29, 2026 |access-date=May 1, 2026}}</ref>
+*[[Jamie Raskin]], [[Maryland's 8th congressional district|MD-08]] (2017-present)<ref>{{cite news |last=Delaney |first=Arthur |date=June 3, 2026 |title=Sam Forstag, Smokejumper, Wins Montana Democratic Primary |url=https://www.huffpost.com/entry/sam-forstag-montana-primary_n_6a1ee45ce4b0ba3173037533 |location= |publisher=HuffPost |access-date=June 23, 2026}}</ref>
+
+;State legislators
+*[[Kim Abbott]], former minority leader of the [[Montana House of Representatives]] (2021–2025) from the 83rd district (2017–present)<ref name=mtp/>
+*[[Geraldine Custer]], former [[Montana House of Representatives|state representative]] from the 39th district (2015–2023) ''(Republican)''<ref name=mtp/>
+*[[Susan Webber (politician)|Susan Webber]], [[Montana Senate|state senator]] from the 8th district (2019–present) ''(co-endorsement with Busse and Cleveland)''<ref name=Endorse1/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Smokejumper and Union Leader Sam Forstag for U.S. Representative |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-smokejumper-and-union-leader-sam-forstag-for-us-representative/ |website=AFGE |access-date=May 12, 2026 |date=May 12, 2026}}</ref>
+*[[Association of Flight Attendants]]<ref>{{cite web |title=Endorsements |url=https://afacwa.org/endorsements/ |website=Association of Flight Attendants-CWA |access-date=16 April 2026}}</ref>
+*[[International Association of Fire Fighters]], Locals 96 ([[Butte, Montana|Butte]]), and 271 ([[Missoula, Montana|Missoula]])<ref>{{Cite web |date=2026-03-02 |title=Endorsements - Sam Forstag for Montana |url=https://samformontana.com/endorsements/ |access-date=2026-09-06 |language=en-US}}</ref>
+*Montana [[AFL-CIO]]<ref name=mtp/>
+*Montana [[Alliance for Retired Americans]]<ref>{{Cite web |date=2026-04-02 |title=Three Montana Labor Organizations Endorse Union Leader Sam Forstag in MT-01 Democratic Primary |url=https://retiredamericans.org/three-montana-labor-organizations-endorse-union-leader-sam-forstag-in-mt-01-democratic-primary/ |access-date=2026-09-05 |website=Retired Americans}}</ref>
+*[[Montana Federation of Public Employees]]<ref>{{Cite web |last=Telling |first=Sam |title=2026 MFPE Member-Endorsed Candidates |url=https://mfpe.org/endorsements/ |access-date=2026-09-05 |website=Montana Federation of Public Employees |language=en-US}}</ref>
+*[[International Brotherhood of Electrical Workers|Montana State Conference of Electrical Workers]]<ref>{{Cite web |last=Drew |first=Micah |date=2026-05-29 |title=A look at the candidates running for Montana’s western U.S. House seat • Daily Montanan |url=https://dailymontanan.com/2026/05/29/a-look-at-the-candidates-running-for-montanas-western-u-s-house-seat/ |access-date=2026-09-06 |website=Daily Montanan |language=en-US}}</ref>
+*[[National Federation of Federal Employees]]<ref>{{cite web |title=NFFE Endorses Sam Forstag for Montana's First Congressional District |url=https://nffe.org/press-release/nffe-endorses-sam-forstag-for-montanas-first-congressional-district/ |website=National Federation of Federal Employees |access-date=6 January 2026 |date=5 January 2026}}</ref>
+*[[SEIU 775]]<ref>{{Cite news |last=Jakovac |first=Rachel |date=2026-07-02 |title=2026 Washington Election Endorsements  - SEIU 775 |url=https://seiu775.org/2026endorsements/ |archive-url=https://web.archive.org/web/20260804182600/https://seiu775.org/2026endorsements/ |archive-date=August 4, 2026 |access-date=2026-09-06 |work=SEIU 775 |language=en-US |url-status=live}}</ref>
+
+;Organizations
+*[[Congressional Progressive Caucus]] PAC<ref>{{cite web |last1=Bailey |first1=Ernest |title=Congressional Progressive Caucus PAC Endorses Sam Forstag for MT-01 |url=https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-sam-forstag-for-mt-01/ |website=Progressive Caucus |access-date=3 March 2026 |date=26 February 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web|title=Sam Forstag for Congress (MT-01)|url=https://ourrevolution.com/sam-forstag-for-congress-mt-01/|website=Our Revolution|access-date=28 May 2026}}</ref>
+*[[Progressive Democrats of America]]<ref>{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements |publisher=[[Progressive Democrats of America]] |access-date=October 20, 2026 |archive-url=https://web.archive.org/web/20260526002729/https://pdamerica.org/endorsements |archive-date=May 26, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Matt Rains
+| list =
+;State legislators
+*[[Jill Cohenour]], [[Montana House of Representatives|state representative]] from the 83th district (2003–2011, 2023–present)<ref name="Endorse1" />
+*[[Paul Tuss]], [[Montana House of Representatives|state representative]] from the 27th district (2023–present)<ref name="Endorse1" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Ryan Busse (D)
+|$702,447
+|$551,915
+|$150,531
+|-
+|{{party shading/Democratic}}|Russell Cleveland (D)
+|$418,450
+|$363,895
+|$54,554
+|-
+|{{party shading/Democratic}}|Samuel Forstag (D)
+|$694,569
+|$533,132
+|$161,437
+|-
+|{{party shading/Democratic}}|Matt Rains (D)
+|$265,119
+|$230,813
+|$34,305
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:70px;"| Ryan<br>Busse
+! style="width:70px;"| Russell<br>Cleveland
+! style="width:70px;"| Sam<br>Forstag
+! style="width:70px;"| Matt<br>Rains
+! Undecided
+|-
+|style="text-align:left;"|Tulchin Research (D)<ref>{{cite tweet|user=ryandbusse|first=Ryan|last=Busse|number=2041235904858296505|title=Let's go win this thing!|access-date=April 7, 2026}}</ref>{{efn-ua|name=Busse|Poll sponsored by Busse's campaign}}
+|March 28 – April 1, 2026
+|400 (LV)
+|–
+|{{party shading/Democratic}}|'''35%'''
+|20%
+|13%
+|5%
+|27%
+|}
+
+==== Results ====
+[[File:2026 Montana's 1st congressional district Democratic primary election results by county map.svg|thumb|170px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Forstag}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Busse}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Cleveland}}
+|{{legend|#FFC5DA|30–40%}}
+|{{legend|#FF80B2|50–60%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results<ref name="AP1" />}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Sam Forstag]]|votes=26,276|percentage=37.3}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Ryan Busse|votes=23,196|percentage=33.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Russell Cleveland|votes=15,238|percentage=21.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Matt Rains|votes=5,518|percentage=7.9}}
+{{Election box total no change|votes=70,228|percentage=100.0}}
+{{Election box end}}
+
+=== Libertarian primary ===
+====Candidates====
+=====Nominee=====
+* Nick Sheedy, genealogist and research historian<ref name=":2" />
+
+====Results====
+{{Election box begin no change |title=Libertarian primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Libertarian Party (United States)
+  |candidate  = Nick Sheedy
+  |votes      = 1,202
+  |percentage = 100.0
+}}{{Election box total no change
+  |votes      = 1,202
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Independents===
+====Candidates====
+=====Declared=====
+* Kimberly Persico (Independent)<ref>{{cite news |last1=Wooden |first1=Annie |title=Hot Springs woman running for Congress |url=https://www.scledger.net/story/2026/02/12/news/hot-springs-woman-running-for-congress/13377.html |access-date=February 17, 2026 |work=[[Sanders County Ledger]] |date=February 12, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Tossup}}
+|October 30, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=June 13, 2025}}</ref>
+| {{USRaceRating|Tossup}}
+|October 16, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Tossup}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= June 13, 2025|language=en-US}}</ref>
+| {{USRaceRating|Tossup}}
+|October 27, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Sam Forstag (D)
+|colwidth=
+|collapsed=yes
+|list=
+;U.S. senators
+*[[Jon Tester]], [[Montana]] (2007–2025)<ref>{{cite web |title=Tester endorses Forstag in Montana U.S. House race |url=https://nbcmontana.com/news/beyond-the-podium/tester-endorses-forstag-in-montana-us-house-race |website=KECI |publisher=NBC Montana |access-date=12 June 2026 |language=en |date=11 June 2026}}</ref>
+
+;U.S. representatives
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-six-new-candidates-built-to-win-in-competitive-districts/|title=Blue Dog PAC Endorses Six New Candidates Built to Win in Competitive Districts|date=August 11, 2026|access-date=August 15, 2026}}</ref>
+
+;Statewide officials
+*[[Steve Bullock (American politician)|Steve Bullock]], former [[List of governors of Montana|governor of Montana]] (2013–2021)<ref>{{Cite web |last=Drew |first=Micah |date=2026-07-16 |title=Independent Bodnar again leads all candidates in latest fundraising reports • Daily Montanan |url=https://dailymontanan.com/2026/07/16/independent-bodnar-again-leads-all-all-candidates-in-latest-fundraising-reports/ |access-date=2026-09-06 |website=Daily Montanan |language=en-US}}</ref>
+*[[Marc Racicot]], former [[List of governors of Montana|governor of Montana]] (1993–2001) and former chair of the [[Republican National Committee]] (2001–2003) ''(Republican)''<ref>{{cite web|url=https://www.ms.now/news/montana-house-racicot-forstag-zinke-midterms|title=Former RNC chair backs Democrat in coveted Montana district|last=Woodall|first=Hunter|date=September 4, 2026|access-date=September 4, 2026|website=[[MS NOW]]}}</ref>
+
+;State legislators
+*[[Brian Putnam]], former [[Montana House of Representatives|state representative]] from the 9th district (2021–2023) ''(Republican)''<ref>{{Cite web |last=Putnam |first=Brian |date=2026-10-26 |title=A Former Republican Lawmaker’s Case for Sam Forstag |url=https://flatheadbeacon.com/2026/10/26/a-former-republican-lawmakers-case-for-sam-forstag/ |access-date=2026-10-27 |website=Flathead Beacon |language=en}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=NEA Education Votes |access-date=October 28, 2026}}</ref>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref>{{cite web|title=Sam Forstag Added to DCCC's Coveted 'Red to Blue' Program|url=https://dccc.org/sam-forstag-added-to-dcccs-coveted-red-to-blue-program/|website=DCCC |date=July 28, 2026|access-date=July 29, 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/news/end-citizens-united-endorses-sam-forstag-in-montanas-1st-congressional-district?source=f2e30753-191b-4a29-bda6-0d6b5a98681a|title=End Citizens United Endorses Sam Forstag in Montana's 1st Congressional District|date=June 5, 2026}}</ref>
+*[[Independent Leadership Council]]<ref name="ILC">{{cite web |last1=Murphy |first1=Clayton |title=Interest group money rolls in to Montana's congressional races |url=https://www.mtpr.org/montana-news/2026-09-18/interest-group-money-rolls-in-to-montanas-congressional-races |website=Montana Public Radio |access-date=22 September 2026 |language=en |date=18 September 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Sam Forstag |url=https://jstreetpac.org/candidate/sam-forstag/ |publisher=J Street PAC |access-date=August 1, 2026 |date=August 1, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=September 25, 2026}}</ref>
+*[[MoveOn]]<ref>{{Cite web |title=Sam Forstag |url=https://front.moveon.org/endorsements/candidates/sam-forstag/ |access-date=2026-09-05 |website=MoveOn: People-Powered Progress |language=en-US}}</ref>
+*[[Peace Action]]<ref>{{cite web |title=2026 Candidates |website=[[Peace Action]] |archive-url=https://web.archive.org/web/20261013154450/https://www.peaceaction.org/endorsements |url=https://www.peaceaction.org/endorsements |archive-date=13 October 2026 
+|access-date=23 October 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite news |title=Reproductive Freedom for All Endorses Slate of Challengers Key to Flipping the House This November |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-challengers-key-to-flipping-the-house-this-november |date=August 27, 2026 |access-date=October 25, 2026 |location=Washington, DC}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Aaron Flint (R)
+|$2,856,139
+|$2,447,986
+|$408,153
+|-
+|{{party shading/Democratic}}| Sam Forstag (D)
+|$4,312,110
+|$3,585,985
+|$726,126
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"|Aaron<br />Flint (R)
+! style="width:100px;"|Sam<br />Forstag (D)
+! style="width:100px;"|Nick<br />Sheedy (L)
+! Undecided
+|-
+|style="text-align:left;"|RedBox Research (D)<ref>{{cite web |title=Flint holds a narrow lead over Forstag for the House |url=https://afightworthhaving.com/polling/2026/mt-01 |access-date=October 28, 2026 |date=October 25, 2026}}</ref>{{Efn-ua|Poll sponsored by A Fight Worth Having}}
+|October 20–23, 2026
+|754 (LV)
+|±&nbsp;4.6%
+|{{party shading/Republican}}|'''48%'''
+|46%
+|2%
+|4%{{efn|"Prefer not to answer" with 1%}}
+|-
+|style="text-align:left;"|[[Montana State University Billings]]<ref name=MSUB>{{cite web |title=Mountain State Poll October 2026 |url=https://www.msubillings.edu/class/nams/polls/2026-mountain-states-poll-report.pdf |publisher=[[Montana State University Billings]] |access-date=October 31, 2026}}</ref>
+|October 5–21, 2026
+|–
+|±&nbsp;5.78%
+|32%
+|{{party shading/Democratic}}|'''49%'''
+|4%
+|11%
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{cite web|url=https://pollvault.substack.com/p/levee-math|title=Levee Math|date=October 21, 2026|access-date=October 22, 2026}}</ref>{{efn-ua|Poll sponsored by [[RealClearPolitics|Poll Vault]]}}
+|October 12–14, 2026
+|329 (LV)
+|–
+|46%
+|{{party shading/Democratic}}|'''50%'''
+|4%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW from @washingtonsun🚨 |url=https://x.com/cjwarnke/status/2112877284684341727 |publisher=[[Twitter]] |access-date=October 22, 2026 |date=October 21, 2026}}</ref>{{efn-ua|name=HMP| Poll sponsored by the [[House Majority PAC]], which is focused on electing Democrats to the U.S. House of Representatives}}
+|October 12–14, 2026
+|541 (LV)
+|–
+|45%
+|{{party shading/Democratic}}|'''48%'''
+|–
+|7%
+|-
+|style="text-align:left;"|American Pulse<ref>{{cite web |url=https://www.montanarightnow.com/elections/aaron-flint-sam-forstag-nearly-tied-for-montana-congressional-district-1/article_96a2f7e1-334a-46c7-9a92-84ccc4c44171.html|title=Aaron Flint, Sam Forstag nearly tied for Montana Congressional District 1|last=Depping|first=Meridith|date=September 28, 2026|access-date=September 30, 2026|website=[[NonStop Local]]}}</ref>{{Efn-ua|name=NSP|Poll sponsored by the [[NonStop Local]]}}
+|September 19–24, 2026
+|314 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''46%'''
+|45%
+|5%
+|3%
+|-
+|style="text-align:left;"|Impact Research (D)<ref>{{cite web|title=Sam Forstag Leads in Recent MT CD 01 Poll |url=https://mcusercontent.com/c8d0fc607b9ebc333152f806f/files/c5866ca1-08c1-fb4a-effd-deb8bff0ea04/IMPACT_MT_01_PRESS_MEMO_SEPT_2026.01.pdf |publisher=Impact Research |date=September 28, 2026| access-date=September 30, 2026}}</ref>{{efn-ua|name=Forstag}}
+|September 20–23, 2026
+|500 (LV)
+|±&nbsp;3.4%
+|44%
+|{{party shading/Democratic}}|'''47%'''
+|2%
+|7%
+|-
+|style="text-align:left;" |[[Public Policy Polling]] (D)<ref name="PPPSept2026">{{cite tweet|user=zachblackburn23|number=2100002534383358350|title=The Bench has new polling in MT-01, NC-11, NY-21, and SC-01, all Trump-won districts that Dems are hoping to flip|access-date=September 15, 2026}}</ref>{{efn-ua|name="Bench"|Poll sponsored by The Bench, which supports Forstag}}
+|September 9–10, 2026
+|536 (RV)
+|±&nbsp;4.2%
+|43%
+|{{party shading/Democratic}}|'''45%'''
+|–
+|12%
+|-
+|style="text-align:left;"|[[Eagleton Institute of Politics|Rutgers University Eagleton Institute of Politics]]<ref>{{cite web |url=https://montanafreepress.org/2026/09/14/flint-forstag-in-dead-heat-for-house-seat/|title=Flint, Forstag in dead heat for House seat|last=Lutey|first=Tom|date=September 15, 2026|access-date=September 15, 2026|website=[[Montana Free Press]]}}</ref>{{Efn-ua|name=MFP|Poll sponsored by the [[Montana Free Press]]}}
+|August 27 – September 7, 2026
+|375 (RV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''42%'''
+|41%
+|5%
+|11%{{Efn|"Someone else" with 9%; "Would not vote" with 2%}}
+|-
+|style="text-align:left;" |Impact Research (D)<ref name="ImpactJune2026">{{cite tweet|user=JacobRubashkin|first=Jacob|last=Rubashkin|number=2071693706843799687|title=Polling first reported... | Polling first reported in @InsideElections shows a tied race in MT-01, the open seat held by GOP Rep. Ryan Zinke. Survey is a Sam Forstag internal. Aaron Flint (R) 44 Sam Forstag (D) 44 Nick Sheedy (L) 5 Fav/unfav Flint 32/35 Forstag 39/29 Impact, 6/22-25, 500 LV, ±4.4%}}</ref>{{efn-ua|name=Forstag|Poll sponsored by Forstag's campaign}}
+|June 22–25, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|'''44%'''
+|'''44%'''
+|5%
+|7%
+|-
+|style="text-align:left;" |Upswing Research (D)<ref name="UpswingMay2026">{{cite tweet|user=PatrickSvitek|first=Patrick|last=Svitek|number=2054609849439199263|title=#MT01 Democratic primary: A memo on polling done for 314 Action, which hasn't endorsed, makes an electability pitch for Matt Rains over Sam Forstag}}</ref>{{efn-ua|name=314Action|Poll sponsored by [[314 Action]]}}
+|April 30 – May 5, 2026
+|401 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''48%'''
+|43%
+|–
+|9%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+;Aaron Flint vs. Matt Rains
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"|Aaron<br />Flint (R)
+! style="width:100px;"|Matt<br />Rains (D)
+! Undecided
+|-
+|style="text-align:left;" |Upswing Research (D)<ref name="UpswingMay2026"/>{{efn-ua|name=314Action}}
+|April 30 – May 5, 2026
+|401 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''47%'''
+|43%
+|10%
+|}
+
+;Ryan Zinke vs. Ryan Busse
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"|Ryan<br />Zinke (R)
+! style="width:100px;"|Ryan<br />Busse (D)
+! Undecided
+|-
+|style="text-align:left;" |Peak Insights (R)<ref name="Insights">{{cite web |last1=Drew |first1=Micah |title=Poll shows Zinke up on Busse, Forstag |url=https://dailymontanan.com/briefs/poll-shows-zinke-up-on-busse-forstag/ |access-date=January 23, 2026 |work=[[Daily Montanan]] |date=January 23, 2026}}</ref>{{Efn-ua|Poll conducted by Leadership in Action PAC, which supports Zinke|name=Action}}
+|January 12–15, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''47%'''
+|41%
+|12%
+|-
+|style="text-align:left;" |Tulchin Research (D)<ref>{{cite web |last1=Lutey |first1=Tom |title=The Poll...err Express |url=https://montanafreepress.org/2025/12/18/the-pollerr-express/ |access-date=January 8, 2026 |work=[[Montana Free Press]] |date=December 18, 2025}}</ref>
+|November 22–25, 2025
+|424 (LV)
+|±&nbsp;5.0%
+|43%
+|{{party shading/Democratic}}|'''47%'''
+|10%
+|}
+
+;Ryan Zinke vs. Sam Forstag
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"|Ryan<br />Zinke (R)
+! style="width:100px;"|Sam<br />Forstag (D)
+! Undecided
+|-
+|style="text-align:left;" |Peak Insights (R)<ref name="Insights"/>{{efn-ua|name=Action}}
+|January 12–15, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''48%'''
+|38%
+|14%
+|}
+
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;" |[[Public Policy Polling]] (D)<ref name="PPPSept2026"/>{{efn-ua|name="Bench"}}
+|September 9–10, 2026
+|536 (RV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''48%'''
+|44%
+|12%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Montana's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Aaron Flint
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Sam Forstag]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Nick Sheedy
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent
+  |candidate  = Kimberly Persico
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{see also|Montana's 2nd congressional district}}{{Infobox election
+| election_name = 2026 Montana's 2nd congressional district election
+| country = Montana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Montana#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Montana#District 2
+| next_year = 2028
+| image1 = Troy Downing, official portrait (119th Congress) (cropped).jpg
+| nominee1 = [[Troy Downing]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Brian Miller
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Troy Downing]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+| nominee3 = Michael Eisenhauer
+| party3 = Independent politician
+| image3 = 3x4.svg
+}}
+The 2nd district is based in eastern Montana, including [[Billings, Montana|Billings]], [[Great Falls, Montana|Great Falls]], and [[Helena, Montana|Helena]]. The incumbent is Republican [[Troy Downing]], who was elected with 65.7% of the vote in 2024.<ref name=":0" />
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Troy Downing]], incumbent U.S. representative<ref name=Downing>{{#invoke:cite|news |last1=Ambarian |first1=Jonathon |title=Montana's Eastern Congressional District: Downing running, two Democrats file |url=https://www.ktvh.com/news/montana-politics/montanas-eastern-congressional-district-downing-running-two-democrats-file |access-date=November 13, 2025 |work=[[KTVH-DT]] |date=November 12, 2025 |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Troy Downing
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Reelect2"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 12, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Troy Downing (R)
+|$1,794,757
+|$1,512,717
+|$393,570
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Montana 2nd |url=https://www.fec.gov/data/elections/house/MT/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 17, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Troy Downing]] (incumbent)|votes=82,088|percentage=100.0}}
+{{Election box total no change|votes=82,088|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Brian Miller, attorney<ref name=Downing/>
+
+=====Eliminated in primary=====
+*Sam Lux, horse farrier<ref name=Downing/>
+*[[Jonathan Windy Boy]], [[Montana Senate|state senator]] from the 16th district (2009–2017, 2025–present)<ref>{{Cite web |last=Lloyd |first=Zeke |date=2026-05-06 |title=Windy Boy restarts campaign for Montana's eastern U.S. House seat |url=https://montanafreepress.org/2026/05/06/windy-boy-restarts-campaign-for-house-seat/ |access-date=2026-05-07 |website=Montana Free Press |language=en-US}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sam Lux (D)
+|$9,611
+|$8,845
+|$943
+|-
+|{{party shading/Democratic}}|Brian Miller (D)
+|$15,220
+|$9,390
+|$1,821
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Brian Miller|votes=24,033|percentage=55.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Sam Lux|votes=11,759|percentage=27.2}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jonathan Windy Boy]]|votes=7,484|percentage=17.2}}
+{{Election box total no change|votes=43,276|percentage=100.0}}
+{{Election box end}}
+
+=== Libertarian primary ===
+====Candidates====
+=====Nominee=====
+*Patrick McCracken<ref>{{Cite web |title=FEC Form 2 for Report FEC-1951987 |url=https://docquery.fec.gov/cgi-bin/forms/H6MT02176/1951987 |access-date=2026-03-06 |website=docquery.fec.gov}}</ref>
+
+====Results====
+{{Election box begin no change |title=Libertarian primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Libertarian Party (United States)
+  |candidate  = Patrick McCracken
+  |votes      = 1,846
+  |percentage = 100.0
+}}{{Election box total no change
+  |votes      = 1,846
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Independents===
+====Candidates====
+=====Declared=====
+*Michael Eisenhauer, cardiologist<ref>{{cite web |last1=Ambarian |first1=Jonathon |title=How 2026 is shaping up in Montana politics |url=https://www.kxlf.com/news/montana-politics/how-2026-is-shaping-up-in-montana-politics |access-date=January 2, 2026 |work=[[KXLF]] |date=January 2, 2026 |quote=Michael Eisenhauer, a cardiologist from Great Falls, has announced plans to run for the seat as an independent.}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Michael Eisenhauer (I)
+|$259,927
+|$124,165
+|$135,762
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 13, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|June 13, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Troy Downing (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-troy-downing-for-montanas-second-district|title=U.S. Chamber Endorses Rep. Troy Downing for Montana's Second District|date=July 14, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Michael Eisenhauer (I)
+|list=
+;U.S. senators
+*[[Jon Tester]], [[Montana]] (2007–2025) ''(Democratic)''<ref>{{cite web |last=Warren|first=Bradley|title=Senator Jon Tester endorses independent Dr. Michael Eisenhauer in MT02 congressional race|url=https://www.kulr8.com/montana/senator-jon-tester-endorses-independent-dr-michael-eisenhauer-in-mt02-congressional-race/article_7b4e0936-c32d-4821-a0fc-aa8d88e186e9.html |website=KURL |access-date=August 31, 2026 |language=en |date=July 6, 2026}}</ref>
+
+;Labor unions
+*Montana [[AFL-CIO]]<ref>{{cite web |last=Larson|first=Seaborn|title=Montana labor leaders tackle political priorities at Bozeman convention|url=https://billingsgazette.com/news/state-regional/article_f86ea4ab-be56-5b32-ba70-1cbf432a5e1e.html |website=Billings Gazette|access-date=August 31, 2026 |language=en |date=June 30, 2026}}</ref>
+
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref>{{cite web |last=Willow Evans|first=Jordan|title=Forward Party Endorses Independents Tracey Tackett and Michael Eisenhauer for Congress|url=https://independentpoliticalreport.com/2026/08/forward-party-endorses-independents-tracey-tackett-and-michael-eisenhauer-for-congress/|website=Independent Political Report|access-date=August 31, 2026 |language=en |date=August 30, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Troy Downing (R)
+|$2,697,257
+|$1,967,800
+|$840,987
+|-
+|{{party shading/Democratic}}| Brian Miller (D)
+|$30,654
+|$27,089
+|$2,129
+|-
+|{{party shading/Independent}}| Michael Eisenhauer (I)
+|$347,728
+|$322,017
+|$25,711
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Montana |url=https://www.fec.gov/data/elections/house/MT/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 4, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"|Troy<br />Downing (R)
+! style="width:100px;"|Brian<br />Miller (D)
+! style="width:100px;"|Michael<br />Eisenhauer (I)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Montana State University Billings]]<ref name=MSUB/>
+|October 5–21, 2026
+|–
+|±&nbsp;5.24%
+|{{party shading/Republican}}|'''29%'''
+|18%
+|15%
+|2%{{Efn|Patrick McCracken (L) with 2%}}
+|{{party shading/Undecided}}|'''31%'''
+|-
+|style="text-align:left;"|[[Eagleton Institute of Politics|Rutgers University Eagleton Institute of Politics]]<ref>{{cite web |url=https://montanafreepress.org/2026/09/15/downing-favorite-eastern-house-district/|title=Poll: Rep. Troy Downing ahead in Eastern U.S. House District|last=Lloyd|first=Zeke|date=September 15, 2026|access-date=September 16, 2026|website=[[Montana Free Press]]}}</ref>{{Efn-ua|name=MFP}}
+|August 27 – September 7, 2026
+|470 (RV)
+|±&nbsp;5.8%
+|{{party shading/Republican}}|'''48%'''
+|26%
+|9%
+|5%{{Efn|Patrick McCracken (L) with 5%}}
+|12%
+|}
+
+====Results====
+{{Election box begin|title=2026 Montana's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Troy Downing]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Brian Miller
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent 
+  |candidate  = Michael Eisenhauer
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==See also==
+* [[2026 Montana elections]]
+* [[2026 United States House of Representatives elections]]
+* [[2026 Montana House of Representatives election]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://flintformontana.com/ Aaron Flint (R)]
+*[https://samformontana.com/ Sam Forstag (D)]
+*[https://keepingamericaspromise.com/ Kimberly Persico (I)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.troydowning.com/ Troy Downing (R)]
+*[https://eisenhauerforcongress.com/ Mike Eisenhauer (I)]
+*[https://www.mccrackenformontana.com/ Patrick McCracken (L)]
+*[https://www.miller4congress.com/ Brian Miller (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Montana|2026]]
+[[Category:2026 United States House of Representatives elections|Montana]]
+[[Category:2026 elections in Montana|United States House of Representatives]]

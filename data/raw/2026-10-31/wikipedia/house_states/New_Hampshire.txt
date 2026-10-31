@@ -1,0 +1,1399 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 New Hampshire House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in New Hampshire
+| country = New Hampshire
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in New Hampshire
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in New Hampshire
+| next_year = 2028
+| seats_for_election = Both New Hampshire seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = 2
+| seats1 = 2
+| party2 = Republican Party (United States)
+| last_election2 = 0
+| seats2 = 0
+}}
+{{ElectionsNH}}
+The '''2026 United States House of Representatives elections in New Hampshire''' will be held on November 3, 2026, to elect the two [[U.S. representative]]s from the [[U.S. state|state]] of [[New Hampshire]], one from both of the state's [[New Hampshire's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary election took place on September 8, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Democratic
+! style="width:100px;" |Republican
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=SaintAnselm10.26>{{cite web |title=New Saint Anselm College Poll Finds Democrats Leading Congressional Races as Affordability Concerns Shape Election Landscape |url=https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-poll-finds-democrats-leading-congressional-races-affordability-concerns-shape-election-landscape |publisher=[[Saint Anselm College]] |access-date=October 23, 2026 |date=October 22, 2026}}</ref>
+|October 19–20, 2026
+|1,672 (LV)
+|±&nbsp;2.4%
+| {{party shading/Democratic}} |'''52%'''
+|43%
+|3%{{Efn|"Other" with 3%}}
+|2%
+|-
+|style="text-align:left;"|[[The New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in New Hampshire |url=https://www.nytimes.com/interactive/2026/09/25/polls/times-siena-poll-nh-crosstabs.html |publisher=[[The New York Times]] |access-date=September 26, 2026 |date=September 23, 2026 |url-access=registration}}</ref>
+|September 15–22, 2026
+|613 (LV)
+|±&nbsp;4.9%
+| {{party shading/Democratic}} |'''52%'''
+|43%
+|–
+|5%
+|}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 New Hampshire's 1st congressional district election
+| country = New Hampshire
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in New Hampshire#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in New Hampshire#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Stefany Shaheen, 2015 (cropped).jpg
+| nominee1 = Stefany Shaheen
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Anthony DiLorenzo
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Chris Pappas (American politician)|Chris Pappas]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|New Hampshire's 1st congressional district}}
+The 1st district is based in southeastern New Hampshire, and includes Greater [[Manchester, New Hampshire|Manchester]], the [[Seacoast Region (New Hampshire)|Seacoast]] and the [[Lakes Region (New Hampshire)|Lakes Region]]. The incumbent is Democrat [[Chris Pappas (American politician)|Chris Pappas]], who was re-elected with 54.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 25, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> Pappas is retiring to [[2026 United States Senate election in New Hampshire|run for Senate in 2026]].<ref name=pappas/>
+
+===Democratic primary===
+==== Nominee ====
+*Stefany Shaheen, former [[Portsmouth, New Hampshire|Portsmouth]] city councilor and daughter of U.S. Senator [[Jeanne Shaheen]]<ref>{{cite web|last=Kashinsky|first=Lisa|title=Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary|publisher=Politico|date=September 9, 2026|url=https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480|access-date=September 9, 2026}}</ref>
+
+==== Eliminated in primary ====
+*Carleigh Beriont, [[Hampton, New Hampshire|Hampton]] selectwoman<ref>{{cite web|url=https://www.seacoastonline.com/story/news/politics/2025/06/04/hamptons-carleigh-beriont-running-nh-1st-district-us-house-2026/84026653007/|title=Hampton's Carleigh Beriont launches campaign for NH 1st District seat in US House|last=Sullivan|first=Max|date=June 4, 2025|access-date=June 4, 2025|website=[[The Portsmouth Herald]]}}</ref><ref name=filing>{{Cite web |title=CUMULATIVE FILING|url=https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/cumulative-filings-6.11.26.pdf|website=NH SOS}}</ref>
+* Sarah Chadzynski, nonprofit director<ref>{{Cite news |date=2025-07-08 |author=Rogers, Josh |title=Calling her campaign a 'movement,' non-profit director enters NH congressional race |url=https://www.nhpr.org/nh-news/2025-07-08/calling-her-campaign-a-movement-non-profit-director-enters-nh-congressional-race |access-date=2025-07-09 |website=[[New Hampshire Public Radio]] |language=en}}</ref>
+*[[Bill Conlin (politician)|Bill Conlin]], former [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 15th district (2022–2024)<ref>{{Cite web |date=2025-10-19 |title=Former State House representative gets into US congressional race |url=https://www.wmur.com/article/former-state-house-representative-gets-into-us-congressional-race/69084957 |access-date=2025-10-20 |website=[[WMUR-TV]] |language=en}}</ref>
+* Matthew Emerson, organizer<ref name=filing/>
+* Sarah Bella Spinosa, [[Libertarianism|libertarian]] activist and journalist<ref name=filing/>
+* [[Maura Sullivan]], vice chair of the [[New Hampshire Democratic Party]], former [[Assistant to the Secretary of Defense for Public Affairs]] (2015), and candidate for this district in [[2018 United States House of Representatives elections in New Hampshire#District 1|2018]]<ref>{{Cite web |last=Sexton |first=Adam |date=2025-04-10 |title=News 9 Exclusive: Maura Sullivan launches 2026 campaign in NH's 1st District |url=https://www.wmur.com/article/maura-sullivan-2026-congress-campaign-040925/64436932 |access-date=2025-04-10 |website=[[WMUR-TV]] |language=en}}</ref>
+
+==== Withdrawn ====
+*[[Heath Howard]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 4th district (2022–present) ''(remained on ballot; endorsed Beriont)''<ref name="Howard">{{Cite web |last=Enstrom |first=Kirk |date=2026-08-24 |title=Howard suspends 1st District campaign, endorses Beriont |url=https://www.wmur.com/article/heath-howard-suspends-1st-district-82426/73514368 |access-date=2026-08-25 |website=WMUR |language=en}}</ref><ref>{{Cite web |last=Bookman |first=Todd |date=2026-08-24 |title=Democrat Heath Howard suspends campaign, backs Beriont in 1st Congressional District |url=https://www.nhpr.org/nh-news/2026-08-24/heath-howard-suspends-campaign-1st-congressional-district-nh-newhampshire-2026-midterms |access-date=2026-09-01 |website=New Hampshire Public Radio |language=en}}</ref>
+*Christian Urrutia, lawyer and [[Army National Guard]] captain ''(remained on ballot; endorsed Shaheen)''<ref>{{cite news |last1=Porter |first1=Steven |title=Christian Urrutia launches N.H. Democratic campaign for Congressional District 1 |url=https://www.bostonglobe.com/2025/07/01/metro/nh-congress-christian-urrutia-congressional-district-1-democrat/ |access-date=July 1, 2025 |work=[[The Boston Globe]] |date=July 1, 2025}}</ref><ref name="UrrutiaShaheen">{{Cite web |last=Sexton |first=Adam |date=2026-09-06 |title=Christian Urrutia drops out of NH-01 race, endorses Stefany Shaheen |url=https://www.wmur.com/article/christian-urrutia-nh-01-endorses-stefany-shaheen/73624670 |access-date=2026-09-06 |website=WMUR |language=en}}</ref>
+
+====Declined====
+*[[Debra Altschiller]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 24th State Senate district|24th district]] (2022–present) ''(running for re-election)''<ref>{{Cite news|date=2025-06-04 |title=Hampton's Carleigh Beriont launches campaign for NH 1st District seat in US House |url=https://www.yahoo.com/news/hamptons-carleigh-beriont-launches-campaign-190038279.html |access-date=2025-06-05 |work=[[Portsmouth Herald]] |via=[[Yahoo News]] |author=Sullivan, Max |quote=State Sen. Debra Altschiller, D-Stratham, said in April constituents encouraged her to run for CD1 and she was considering it. On June 4, she announced she would not be running for Congress and instead will pursue her third term in the state Senate in 2026. |language=en-US}}</ref>
+*Deaglan McEachern, [[List of mayors of Portsmouth, New Hampshire|mayor]] of [[Portsmouth, New Hampshire|Portsmouth]] and candidate for this district in [[2018 United States House of Representatives elections in New Hampshire#District 1|2018]]<ref name="Seacoast">{{cite news |last1=Lenahan |first1=Ian |date=April 7, 2025 |title=Sherman, Noveletsky, Sullivan weigh runs to succeed Pappas in Congress |url=https://www.seacoastonline.com/story/news/local/2025/04/07/sherman-noveletsky-sullivan-weigh-runs-to-succeed-pappas-in-congress/82865704007/ |access-date=April 7, 2025 |work=[[The Portsmouth Herald]]}}</ref> ''(endorsed Shaheen)''<ref name="Shaheen1" />
+*[[Chris Pappas (American politician)|Chris Pappas]], incumbent U.S. representative ''([[2026 United States Senate election in New Hampshire|running for U.S. Senate]])''<ref name=pappas>{{Cite web |last=Sexton |first=Adam |date=2025-04-03 |title=News 9 Exclusive: Chris Pappas announces he will run for U.S. Senate |url=https://www.wmur.com/article/chris-pappas-announces-run-for-us-senate-04032025/64370925 |access-date=2025-04-03 |website=[[WMUR-TV]] |language=en}}</ref>
+*[[Tom Sherman (politician)|Tom Sherman]], former [[New Hampshire Senate|state senator]] from the [[New Hampshire's 24th State Senate district|24th district]] (2018–2022) and nominee for governor in [[2022 New Hampshire gubernatorial election|2022]] ''(endorsed Shaheen)''<ref>{{Cite news |author1=Nir, David |author2=Singer, Jeff |title=Morning Digest: Kansas Democrats land first major contender for governor's race |url=https://www.the-downballot.com/i/165825295/nh |access-date=June 15, 2025 |date=June 13, 2025 |website=The Downballot |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Carleigh Beriont
+|list=
+;U.S. representatives
+*[[Dennis Kucinich]], former [[Ohio's 10th congressional district|OH-10]] (1997–2013) ''(Independent, served as a Democrat)''<ref name="Kucinich">{{cite web |last1=Sexton |first1=Adam |title=1st District Democratic candidates make final push amid flurry of final endorsements |url=https://www.wmur.com/article/1st-district-democratic-candidates-final-push-9726/73634938 |website=WMUR 9 |access-date=8 September 2026 |date=September 7, 2026}}</ref>
+
+;State legislators
+*[[Heath Howard]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 4th district (2022–present) and former candidate for this seat<ref name="Howard"/>
+
+;Organizations
+*[[Progressive Democrats of America]]<ref>{{cite web|url=https://pdamerica.org/endorsements/|title=Endorsements|access-date=August 28, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Sarah Chadzynski
+|list=
+;U.S. representatives
+*[[Adam Kinzinger]], former [[Illinois's 16th congressional district|IL-16]] (2011–2023) ''(Republican)''<ref name="Sarah">{{cite web |last1=Sexton |first1=Adam |title=Adam Kinzinger announces endorsement in New Hampshire's 1st Congressional District race |url=https://www.wmur.com/article/adam-kinzinger-endorses-sarah-chadzynski/70482109 |website=WMUR |access-date=24 February 2026 |language=en |date=24 February 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Maura Sullivan
+|list=
+;Executive branch officials
+*[[George Charles Bruno]], former [[List of ambassadors of the United States to Belize|ambassador to Belize]] (1994–1997)<ref name="Splash">{{cite web|url=https://www.unionleader.com/news/politics/voters/sullivan-splashes-endorsements-for-1st-district-seat-as-others-mull-run/article_f4b73432-498e-430e-80d1-4fb06588f42c.html|title=Sullivan splashes endorsements for 1st District seat as others mull run|last=Landrigan|first=Kevin|date=April 25, 2025|access-date=April 25, 2025|website=[[New Hampshire Union Leader]] |language=en-US}}</ref>
+*[[Carlos Del Toro]], former [[U.S. Secretary of the Navy|secretary of the navy]] (2021–2025)<ref name="CollectTop">{{cite web |last1=Sexton |first1=Adam |title=Maura Sullivan collects endorsements from former top military officials |url=https://www.wmur.com/article/maura-sullivan-collects-endorsements-nh01-closeup/69524376 |access-date=November 24, 2025 |work=[[WMUR]] |date=November 24, 2025}}</ref>
+*[[Frank Kendall III]], former [[U.S. Secretary of the Air Force|secretary of the air force]] (2021–2025)<ref name="CollectTop"/>
+*[[Christine Wormuth]], former [[U.S. Secretary of the Army|secretary of the army]] (2021–2025)<ref name="CollectTop"/>
+
+;U.S. representatives
+*[[Jason Crow]], {{ushr|CO|6|CO-6}} (2019–present)<ref>{{cite web |last1=Sexton |first1=Adam |title=Colorado Rep. Jason Crow visits New Hampshire to campaign for Maura Sullivan |url=https://www.wmur.com/article/colorado-jason-crow-new-hampshire-maura-sullivan/69438452 |access-date=November 14, 2025 |work=[[WMUR]] |date=November 14, 2025}}</ref>
+*[[Chris Deluzio]], {{ushr|PA|17|PA-17}} (2023–present)<ref name=veteranendorse>{{Cite web |url=https://www.wmur.com/article/democrat-veterans-congress-endorse-sullivan-5525/64675495 |title=Democratic military veterans in Congress endorse Sullivan in 1st District |website=[[WMUR-TV|WMUR]] 9 |last=Sexton |first=Adam |date=May 5, 2025 |access-date=May 6, 2025 |language=en-US}}</ref>
+*[[Chrissy Houlahan]], {{ushr|PA|6|PA-6}} (2019–present)<ref name="RollCall820">{{cite web |last1=Altimari |first1=Daniela |title=At the Races: Party’s (not) over? |url=https://rollcall.com/2026/08/20/at-the-races-partys-not-over/ |website=[[Roll Call]] |access-date=20 August 2026 |date=August 20, 2026}}</ref>
+*[[Seth Moulton]], {{ushr|MA|6|MA-6}} (2015–present)<ref name=veteranendorse/>
+*[[Pat Ryan (politician)|Pat Ryan]], {{ushr|NY|18|NY-18}} (2023–present)<ref name="RollCall820" />
+
+;Statewide officials
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref name="Sherrill">{{Cite web |last=Davis |first=Sarah |date=August 7, 2026 |title=Sherrill unveils first set of midterm endorsements |url=https://thehill.com/homenews/campaign/6013472-nj-gov-backs-national-security-candidates/ |website=[[The Hill (newspaper)|The Hill]] |access-date=August 7, 2026}}</ref>
+*[[Abigail Spanberger]], [[governor of Virginia]] (2026–present)<ref>{{cite web|url=https://www.wmur.com/article/nh-maura-sullivan-democrat-boost/73453685|title=Maura Sullivan is getting another boost from a recently elected Democrat|last=Sexton|first=Adam|date=August 17, 2026|access-date=August 20, 2026|website=[[WMUR-TV]]}}</ref>
+
+;State legislators
+*10 state legislators{{efn|
+*[[Peter Burling (politician)|Peter Burling]], former [[New Hampshire Senate|state senator]] from the [[New Hampshire's 5th State Senate district|5th district]] (2004–2008)<ref name="First Week">{{cite web|url=https://granitepostnews.com/2025/04/17/exclusive-maura-sullivan-raises-400k-in-first-week-endorsed-by-over-40-influential-granite-staters-in-campaign-for-nhs-1st-congressional-district/|title=Exclusive: Maura Sullivan raises $400K in first week, endorsed by over 40 influential Granite Staters in campaign for NH's 1st Congressional District|last=Booth|first=Colin|work=Granite Post News|date=April 17, 2025|access-date=April 17, 2025}}</ref>
+*[[Lou D'Allesandro]], former [[New Hampshire Senate|state senator]] from the [[New Hampshire's 20th State Senate district|20th district]] (1998–2024)<ref name="First Week"/>
+*[[Martha Fuller Clark]], former President pro tempore of the [[New Hampshire Senate]] (2018–2020) from the [[New Hampshire's 21st State Senate district|21st district]] (2012–2020, 2004–2010)<ref name="First Week"/>
+*[[Jaci Grote]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 24th district (2018–present)<ref name="First Week"/>
+*[[Patrick Long (Manchester, New Hampshire, politician)|Patrick Long]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 20th State Senate district|20th district]] (2024–present)<ref name="Splash"/>
+*[[Jennifer Mandelbaum]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 21st district (2024–present)<ref name="First Week"/>
+*[[Suzanne Prentiss]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 5th State Senate district|5th district]] (2020–present)<ref name="First Week"/>
+*[[Steve Shurtleff]], former [[List of speakers of the New Hampshire House of Representatives|Speaker of the New Hampshire House of Representatives]] (2018–2020) from the [[Merrimack County, New Hampshire|Merrimack]] 11th district (2004–present)<ref name="Splash"/>
+*[[Donna Soucy]], former [[List of presidents of the New Hampshire Senate|President of the New Hampshire Senate]] (2018–2020) from the [[New Hampshire's 18th State Senate district|18th district]] (2018–2024)<ref name="First Week"/>
+*[[David H. Watters|David Watters]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 4th State Senate district|4th district]] (2012–present)<ref name="First Week"/>
+}}
+
+;Individuals
+*[[Paul Eaton]], former deputy chief of staff for the [[U.S. Army Training and Doctrine Command]]<ref name="VoteVets">{{cite web|url=https://votevets.org/press-releases/votevets-pac-endorses-maura-sullivan-for-congress|title=VoteVets PAC Endorses Maura Sullivan for Congress|date=April 14, 2025|access-date=April 15, 2025 |website=[[VoteVets.org|VoteVets]] |language=en-US}}</ref>
+
+;Labor unions
+*[[IBEW]] Local 2071<ref name="IBEW">{{cite web |last1=Sexton |first1=Adam |title=Sullivan picks up endorsement from electrical workers union at Portsmouth Naval Shipyard |url=https://www.wmur.com/article/sullivan-endorsement-union-shipyard-8726/73378545 |website=WMUR |access-date=8 August 2026 |date=August 7, 2026}}</ref>
+
+;Organizations
+*[[Democratic Majority for Israel]]<ref name="NHJ723">{{cite web |last1=Robinson |first1=Leonard |title=Pappas, Sullivan Under Fire For Taking AIPAC, Pro-Israel Campaign Cash |url=https://nhjournal.com/pappas-sullivan-under-fire-for-taking-aipac-pro-israel-campaign-cash/ |website=NH Journal |access-date=8 August 2026 |date=July 23, 2026}}</ref>
+*[[Vote Mama]]<ref>{{cite web |title=candidates |url=https://www.votemamapac.org/candidates |website=Vote Mama |access-date=7 April 2026}}</ref>
+*[[VoteVets.org|VoteVets]]<ref name="VoteVets"/>
+*[[With Honor Fund]]<ref>{{Cite web |title=Endorsed Candidates |url=https://withhonorfundiii.org/endorsements/ |access-date=May 6, 2025 |website=With Honor Fund III |language=en-US}}</ref>
+}}{{Endorsements box
+|title=Stefany Shaheen
+|list=
+;Executive branch officials
+*[[Rahm Emanuel]], former [[List of ambassadors of the United States to Japan| ambassador to Japan]] (2022–2025)<ref name=":0" />
+
+;U.S. senators
+*[[Maggie Hassan]], [[New Hampshire]] (2017–present)<ref>{{cite web |last1=Sexton |first1=Adam |title=Hassan endorses Stefany Shaheen in NH-01 primary |url=https://www.wmur.com/article/nh-hassan-endorses-shaheen-nh01-primary-08262026/73531376 |publisher=[[WMUR-TV]] |access-date=August 27, 2026 |date=August 26, 2026}}</ref>
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref>{{cite web |last1=Sexton |first1=Adam |title=US Sen. Kelly endorses Shaheen in 1st District Democratic primary |url=https://www.wmur.com/article/kelly-endorse-shaheen-1st-district-primary-81126/73403334 |publisher=[[WMUR-TV]] |access-date=August 11, 2026 |date=August 11, 2026}}</ref>
+*[[Jeanne Shaheen]], [[New Hampshire]] (2009–present) ''(candidate's mother)''<ref name=":0" />
+
+;U.S. representatives
+*[[Carol Shea-Porter]], former {{USHR|NH|1|NH-01}} (2007–2011; 2013–2015; 2017–2019)<ref>{{Cite web|url=https://www.wmur.com/article/carol-shea-porter-endorses-stefany-shaheen-nh01/73622590|title=Former US Rep. Carol Shea-Porter endorses Stefany Shaheen in 1st Congressional District race|date=September 5, 2026|work=WMUR|last=Sexton|first=Adam}}</ref>
+
+;Statewide officials
+*[[Gavin Newsom]], [[governor of California]] (2019–present)<ref name=":0">{{Cite web |last=Mutnick |first=Ally |title=Jeanne Shaheen leans in on daughter's race in New Hampshire |url=https://punchbowl.news/article/campaigns/jeanne-shaheen-supports-stefany-shaheen/ |access-date=2026-09-09 |website=Punchbowl News |language=en-US}}</ref>
+*[[JB Pritzker]], [[governor of Illinois]] (2019–present)<ref name=":0" />
+*[[John Lynch (New Hampshire governor)|John Lynch]], former [[governor of New Hampshire]] (2005–2013)<ref>{{cite web|url=https://www.the-downballot.com/p/morning-digest-democrats-land-first-03f|title=Morning Digest: Democrats land first recruit for ultra-close Virginia district|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=July 11, 2025|access-date=July 11, 2025 |website=The Downballot |language=en-US}}</ref>
+
+;State legislators
+*[[Jon Morgan (New Hampshire politician)|Jon Morgan]], former [[New Hampshire Senate|state senator]] from the [[New Hampshire's 23rd State Senate district|23rd district]] (2018–2020)<ref name="Shaheen1">{{cite web |title=Portsmouth mayor endorses Stefany Shaheen for US House in NH CD1 Democratic primary |url=https://www.fosters.com/story/news/politics/elections/2025/06/19/portsmouth-mayor-endorses-stefany-shaheen-us-house-in-nh-cd1/84272444007/ |website=[[Foster's Daily Democrat]] |access-date=June 26, 2025 |date=June 19, 2025 |language=en-US}}</ref>
+*[[Tom Sherman (politician)|Tom Sherman]], former [[New Hampshire Senate|state senator]] from the [[New Hampshire's 24th State Senate district|24th district]] (2018–2022)<ref name="Shaheen1" />
+
+;Individuals
+*Christian Urrutia, lawyer, [[Army National Guard]] Captain, and former candidate for this seat<ref name="UrrutiaShaheen" />
+
+;Labor unions
+*[[American Federation of Teachers]]<ref name="AFT">{{cite web |last1=Landrigan |first1=Kevin |title=DiLorenzo, Shaheen land big endorsements |url=https://www.unionleader.com/news/politics/state/dilorenzo-shaheen-land-big-endorsements/article_790d7637-7776-428f-a62f-80bb6c142d9a.html |website=Union Leader |access-date=8 August 2026 |date=July 15, 2026}}</ref>
+*[[IBEW]] Local 490<ref name="AFT" />
+*[[National Education Association|National Education Association-New Hampshire]]<ref name="NEA">{{cite web |last1=Sexton |first1=Adam |title=Shaheen earns endorsement of state's largest teachers union |url=https://www.wmur.com/article/shaheen-endorsement-teachers-union-8426/73346404 |website=WMUR |access-date=8 August 2026 |date=August 4, 2026}}</ref>
+*[[International Association of Fire Fighters|Professional Fire Fighters of New Hampshire]]<ref name="PFFNH">{{cite web |last1=Sexton |first1=Adam |title=Firefighters endorse Shaheen in NH-01 and 'acknowledge' Beriont's support |url=https://www.wmur.com/article/nh-shaheen-endorsement-nh01-08202026/73482576 |website=WMUR 9 |access-date=20 August 2026 |date=August 20, 2026}}</ref>
+*[[Teamsters]] Local 633<ref>{{cite web |last1=Sexton |first1=Adam |title=Stefany Shaheen gets first major union endorsement in race for 1st Congressional District |url=https://www.wmur.com/article/stefany-shaheen-union-endorsement-congress-121525/69729959 |access-date=December 15, 2025 |work=[[WMUR]] |date=December 15, 2025}}</ref>
+
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Stefany Shaheen for Congress |url=https://giffords.org/press-release/2026/07/giffords-pac-endorses-stefany-shaheen-for-congress/ |website=giffords.org |date=July 23, 2026 |access-date=July 23, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Stefany Shaheen |url=https://jstreetpac.org/candidate/stefany-shaheen/ |website=J Street PAC |access-date=August 19, 2026}}</ref>
+*[[League of Conservation Voters]]<ref name="LCVEndorsedment">{{cite web |title=LCV Action Fund Announces Endorsements for Maggie Goodlander and Stefany Shaheen for U.S. House of Representatives in New Hampshire |url=https://www.lcv.org/media-center/lcv-action-fund-announces-endorsements-for-maggie-goodlander-and-stefany-shaheen-for-u-s-house-of-representatives-in-new-hampshire/ |website=lcv.org |access-date=July 16, 2026}}</ref>
+*[[National Committee to Preserve Social Security and Medicare]]<ref name="NHJ712">{{cite web |last1=Robinson |first1=Leonard |title=Shaheen Touts Endorsement From Group Pushing Payroll Tax Hike on Every Worker |url=https://nhjournal.com/shaheen-touts-endorsement-from-group-pushing-payroll-tax-hike-on-every-worker/ |website=NH Journal |access-date=8 August 2026 |date=July 12, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Christian Urrutia ''(withdrawn, remains on ballot)''
+|list=
+;Statewide officials
+*[[Andru Volinsky]], former [[Executive Council of New Hampshire|executive councilor]] from the 2nd district (2017–2021)<ref>{{Cite web|first=Andru|last=Volinsky|title= Urrutia for Congress (NH-CD 1)|url=https://andruvolinsky.substack.com/p/urrutia-for-congress-nh-cd-1|access-date=July 10, 2025|via=[[Substack]]|date=July 2, 2025 |language=en-US}}</ref>
+
+;Organizations
+*[[350.org|350 New Hampshire Action]]<ref name="Urrutia">{{Cite web|last=Graham|first=Michael|url=https://nhjournal.com/progressive-groups-unite-behind-urrutia-in-nh-01-race-but-can-the-left-win-a-primary/|title=Progressive Groups Unite Behind Urrutia in NH-01 Race, But Can The Left Win a Primary?|date=April 28, 2026|access-date=July 29, 2026|website=NH Journal}}</ref>
+*[[Latino Victory]]<ref>{{cite web | title=Endorsements | url=https://latinovictory.org/endorsements/ | website=Latino Victory | publisher=Latino Victory | access-date=27 March 2026 | language=en }}</ref>
+*[[New Hampshire House of Representatives|New Hampshire House]] [[Progressive caucus|Progressive Caucus]]<ref name="Urrutia"></ref>
+*[[Our Revolution]]<ref>{{Cite web|last=Sexton|first=Adam|url=https://www.wmur.com/article/christian-urrutia-our-revolution-endorsement/73290292|title=Organization supporting progressive policies backs Christian Urrutia in 1st District|date=July 29, 2026|access-date=July 29, 2026|website=WMUR 8}}</ref>
+}}
+{{Endorsements box
+|title=Heath Howard ''(withdrawn, remains on ballot)''
+|list=
+;State legislators
+*31 state legislators{{efn|
+*[[Myles England]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 12th district (2024–present)<ref name=HowardEndorsements>{{cite news |url=https://www.seacoastonline.com/story/news/politics/2025/09/25/rep–heath–howard–announces–endorsements–in–race–for–congress–nh–cd1/86346536007/ |title=Rep. Heath Howard announces endorsements in race for Congress NH CD1 |work=[[Seacoast Online]] |date=September 25, 2025 |access-date=September 25, 2025}}</ref>
+*[[Eric Gallager]], [[New Hampshire House of Representatives|state representative]] from the [[Merrimack County, New Hampshire|Merrimack]] 20th district (2020–present)<ref name=HowardEndorsements />
+*[[Gerry Ward (politician)|Gerry Ward]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 27th district (2022–present)<ref name=HowardEndorsements />
+*[[Tony Caplan]], [[New Hampshire House of Representatives|state representative]] from the [[Merrimack County, New Hampshire|Merrimack]] 8th district (2022–present)<ref name=HowardEndorsements />
+*[[Christal Lloyd]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 8th district (2022–present)<ref name=HowardEndorsements />
+*[[Suraj Budathoki]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 40th district (2024–present)<ref name=HowardEndorsements />
+*[[Lily Foss]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 41st district (2024–present)<ref name=HowardEndorsements />
+*[[Molly Howard]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 31st district (2024–present)<ref name=HowardEndorsements />
+*[[Samantha Jacobs]], [[New Hampshire House of Representatives|state representative]] from the [[Cheshire County, New Hampshire|Cheshire]] 15th district (2024–present)<ref name=HowardEndorsements />
+*[[Ellen Read]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 17th district (2016–present)<ref name=HowardEndorsements />
+*[[Gary Gilmore (politician)|Gary Gilmore]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 16th district (2024–present)<ref name=HowardEndorsements />
+*[[Louis Juris]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 7th district (2022–present)<ref name=HowardEndorsements />
+*[[Amy Malone]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 9th district (2024–present)<ref name=HowardEndorsements />
+*[[Sanjeev Manohar]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 9th district (2024–present)<ref name=HowardEndorsements />
+*[[Lucius Parshall]], [[New Hampshire House of Representatives|state representative]] from the [[Cheshire County, New Hampshire|Cheshire]] 8th district (2024–present)<ref name=HowardEndorsements />
+*[[William Dolan]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 9th district (2022–present)<ref name=HowardEndorsements />
+*[[Linda Ryan (politician)|Linda Ryan]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 4th district (2024–present)<ref name=HowardEndorsements />
+*[[Tom Schamberg]], [[New Hampshire House of Representatives|state representative]] from the [[Merrimack County, New Hampshire|Merrimack]] 6th district (2016–present)<ref name=HowardEndorsements />
+*[[John Cloutier]], [[New Hampshire House of Representatives|state representative]] from the [[Sullivan County, New Hampshire|Sullivan]] 10th district (1992–present)<ref name=HowardEndorsements />
+*[[Fred Davis Jr.]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 3rd district (2024–present)<ref name=HowardEndorsements />
+*[[Dylan Germana]], [[New Hampshire House of Representatives|state representative]] from the [[Cheshire County, New Hampshire|Cheshire]] 1st district (2024–present)<ref name=HowardEndorsements />
+*[[Philip Jones (American politician)|Philip Jones]], [[New Hampshire House of Representatives|state representative]] from the [[Cheshire County, New Hampshire|Cheshire]] 3rd district (2024–present)<ref name=HowardEndorsements />
+*[[Wayne Pearson]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 12th district (2024–present)<ref name=HowardEndorsements />
+*[[Catherine Sofikitis]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 34th district (2016–present)<ref name=HowardEndorsements />
+*[[Marc Plamondon]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 3rd district (2023–present)<ref name=HowardEndorsements />
+*[[Nicholas Germana]], [[New Hampshire House of Representatives|state representative]] from the [[Cheshire County, New Hampshire|Cheshire]] 15th district (2022–present)<ref name=HowardEndorsements />
+*[[Tracy Bricchi]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 5th district (2022–present)<ref name=HowardEndorsements />
+*[[Cam Kenney]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 6th district (2020–2024)<ref name=HowardEndorsements />
+*[[Hal Rafter]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 1st district (2023–2024)<ref name=HowardEndorsements />
+*Bob Perry, [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 20th district (2006–2010, 2012–2014)<ref name=HowardEndorsements />
+*[[Robin Vogt]], [[Durham, New Hampshire|Durham]] town councilor (2023–present) and former [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 24th district (2022–2023)<ref name=HowardEndorsements />
+}}
+
+;Labor unions
+*[[International Brotherhood of Electrical Workers|IBEW]] Local 104<ref name=HowardEndorsements />
+
+;Organizations
+*[[Congressional Freethought Caucus|Center for Freethought Equality]]<ref>{{cite web |title=2026 Endorsements |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=19 November 2025}}</ref>
+*[[Progressive Victory]]<ref>{{cite tweet|user=ProgressiveVic|number=2012955213066359212|title=ENDORSEMENT ALERT! Here is our first 18 endorsements for this year’s 2026 midterms.|access-date=January 18, 2026}}</ref>
+* Southern New Hampshire [[Democratic Socialists of America]]<ref>{{cite web |author1=Southern NH DSA |title=Southern New Hampshire DSA (SNHDSA) is proud to endorse Heath Howard (@heathhowardnh) for Congress. Heath is running for NH-01 to build power for working people across the Granite State... |url=https://www.facebook.com/photo/?fbid=1327534639417942&set=pb.100064842542425.-2207520000 |website=www.facebook.com |publisher=Facebook |access-date=2 March 2026 |date=February 11, 2026}}</ref>
+*[[Track AIPAC]]<ref name="TrackAIPAC">{{cite web |url=https://www.trackaipac.com/endorsements |title=Our Endorsements — Track AIPAC |work=Track AIPAC |access-date=September 25, 2025}}</ref>
+*[[Vote Common Good]]<ref>{{cite web|title=Heath Howard|url=https://www.votecommongood.com/wps-members/heath-howard/|access-date=July 1, 2026|website=Vote Common Good}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Carleigh Beriont (D)
+|$385,021
+|$297,338
+|$87,682
+|-
+|{{party shading/Democratic}}|Sarah Chadzynski (D)
+|$70,321
+|$56,629
+|$13,692
+|-
+|{{party shading/Democratic}}|Heath Howard (D)
+|$34,242
+|$31,190
+|$1,443
+|-
+|{{party shading/Democratic}}|Stefany Shaheen (D)
+|$1,800,994
+|$687,857
+|$1,113,137
+|-
+|{{party shading/Democratic}}|Maura Sullivan (D)
+|$2,638,370
+|$1,167,194
+|$1,478,399
+|-
+|{{party shading/Democratic}}|Christian Urrutia (D)
+|$836,091
+|$564,957
+|$271,134
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - New Hampshire 1st |url=https://www.fec.gov/data/elections/house/NH/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" |Carleigh<br/>Beriont
+! style="width:60px;" |Sarah<br/>Chadzynski
+! style="width:60px;" |Heath<br/>Howard
+! style="width:60px;" |Stefany<br/>Shaheen
+! style="width:60px;" |Maura<br/>Sullivan
+! style="width:60px;" |Christian<br/>Urrutia
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Tavern Research (D)<ref>{{cite web |title=NH-01 Primary Toplines |url=https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/Toplines%20-%20Tavern%20Press%20NH-01%20Democratic%20Primary%2020260828_140219.pdf |publisher=Tavern Research |access-date=September 2, 2026}}</ref>
+|August 28–31, 2026
+|1,068 (LV)
+|±&nbsp;3.4%
+|12%
+|0%
+|2%
+|27%
+|{{party shading/Democratic}}|'''33%'''{{Efn|With voters who lean towards a given candidate}}
+|4%
+|1%{{Efn|Bill Conlin, Matthew Emerson & Sarah Bella Spinosa with 0%}} 
+|{{party shading/Undecided}}|'''22%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 24, 2026
+| colspan="10" | Heath Howard withdraws from the race
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust2026">{{cite web |title=Pappas Support Slides, CD1 Primaries Down to the Wire |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1987&context=survey_center_polls |website=[[University of New Hampshire]] |access-date=26 August 2026 |date=August 26, 2026}}</ref>
+|August 20–24, 2026
+|463 (LV)
+|±&nbsp;4.6%
+|11%
+|1%
+|10%
+|19%
+|{{party shading/Democratic}}|'''24%'''
+|4%
+|1%{{efn|"Write someone else in" with 1%}}
+|{{party shading/Undecided}}|'''29%'''
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026">{{cite web|url=https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-poll-finds-republicans-facing-midterm-headwinds-democratic-lead-widens|title=New Saint Anselm College Poll Finds Republicans Facing Midterm Headwinds as Democratic Lead Widens|website=[[Saint Anselm College]]|date=August 20, 2026|access-date=August 20, 2026}}</ref>
+|August 17–18, 2026
+|359 (LV)
+|±&nbsp;5.2%
+|12%
+|0%
+|7%
+|24%
+|{{party shading/Democratic}}|'''26%'''
+|3%
+|–
+|{{party shading/Undecided}}|'''27%'''
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026">{{cite web|url=https://www.anselm.edu/about/anselmian-hub/news/saint-anselm-college-survey-center-june-poll-finds-democrats-expand-generic-ballot-lead|title=Saint Anselm College Survey Center June Poll Finds Democrats Expand Generic Ballot Lead|website=[[Saint Anselm College]]|date=June 30, 2026|access-date=June 30, 2026}}</ref>
+|June 24–25, 2026
+|398 (RV)
+|±&nbsp;4.9%
+|3%
+|1%
+|9%
+|{{party shading/Democratic}}|'''22%'''
+|15%
+|3%
+|–
+|{{party shading/Undecided}}|'''47%'''
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJan1"/>
+|January 15–19, 2026
+|893 (LV)
+|±&nbsp;3.3%
+|3%
+|3%
+|10%
+|{{party shading/Democratic}}|'''33%'''
+|8%
+|3%
+|1%{{Efn|Alice Wade with 1%; Bill Conlin with 0%}}
+|{{party shading/Undecided}}|'''39%'''
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov/>
+|November 18–19, 2025
+|501 (RV)
+|±&nbsp;4.4%
+|1%
+|1%
+|4%
+|{{party shading/Democratic}}|'''26%'''
+|6%
+|1%
+|–
+|{{party shading/Undecided}}|'''61%'''
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2025">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1887&context=survey_center_polls|title=Early Look at 2026 NH Races|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=UNH Scholars Repository|date=September 29, 2025|access-date=September 29, 2025}}</ref>
+|September 17–23, 2025
+|236 (LV)
+|–
+|2%
+|2%
+|4%
+|{{party shading/Democratic}}|'''29%'''
+|8%
+|4%
+|–
+|{{party shading/Undecided}}|'''52%'''
+|-
+| style="text-align:left;" |[[Saint Anselm College]]<ref name="AnselmAug2025">{{Cite web|url=https://www.anselm.edu/sites/default/files/2025-09/SACSC_NHRV_0825.pdf|title=A Survey of Registered NH Voters|first1=Neil|last1=Levesque|first2=Tauna|last2=Sisco|website=[[Saint Anselm College]]|date=September 3, 2025|access-date=September 29, 2025}}</ref>
+|August 26–27, 2025
+|413 (RV)
+|±&nbsp;4.8%
+|2%
+|1%
+|4%
+|{{party shading/Democratic}} |'''23%'''
+|9%
+|2%
+|–
+|{{party shading/Undecided}} |'''59%'''
+|}
+
+====Results====
+[[File:2026 New Hampshire's 1st congressional district Democratic primary election results by town map.svg|thumb|150px|Primary results by town:
+{{collapsible list
+| title = {{legend|#7996E2|Shaheen}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Sullivan}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Beriont}}
+|{{legend|#FFC5DA|30–40%}}
+|{{legend|#FFAACC|40–50%}}
+|{{legend|#FF2A7F|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Stefany Shaheen
+| party = Democratic Party (United States)
+| votes = 29,571
+| percentage = 36.9
+}}
+{{Election box candidate with party link no change
+| candidate = [[Maura Sullivan]]
+| party = Democratic Party (United States)
+| votes = 27,859
+| percentage = 34.7
+}}
+{{Election box candidate with party link no change
+| candidate = Carleigh Beriont
+| party = Democratic Party (United States)
+| votes = 18,032
+| percentage = 22.5
+}}
+{{Election box candidate with party link no change
+| candidate = Christian Urrutia ''(withdrawn)''
+| party = Democratic Party (United States)
+| votes = 1,220
+| percentage = 1.5
+}}
+{{Election box candidate with party link no change
+| candidate = Sarah Chadzynski
+| party = Democratic Party (United States)
+| votes = 1,170
+| percentage = 1.5
+}}
+{{Election box candidate with party link no change
+| candidate = [[Heath Howard]] ''(withdrawn)''
+| party = Democratic Party (United States)
+| votes = 848
+| percentage = 1.1
+}}
+{{Election box candidate with party link no change
+| candidate = Sarah Bella Spinosa
+| party = Democratic Party (United States)
+| votes = 555
+| percentage = 0.7
+}}
+{{Election box candidate with party link no change
+| candidate = [[Bill Conlin (politician)|Bill Conlin]]
+| party = Democratic Party (United States)
+| votes = 455
+| percentage = 0.6
+}}
+{{Election box candidate with party link no change
+| candidate = Matthew Emerson
+| party = Democratic Party (United States)
+| votes = 348
+| percentage = 0.4
+}}
+{{Election box write-in with party link no change
+|votes = 116
+|percentage = 0.1
+}}
+{{Election box total no change
+| votes = 80,174
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Anthony DiLorenzo, auto dealer<ref>{{cite web |last1=Sexton |first1=Adam |title=Businessman Anthony DiLorenzo enters race for New Hampshire's 1st Congressional District |url=https://www.wmur.com/article/anthony-dilorenzo-enters-race-for-nh-01-10152025/69036566 |access-date=October 15, 2025 |work=[[WMUR]] |date=October 15, 2025}}</ref>
+
+====Eliminated in primary====
+*Lindsey Anderson, chairman emeritus of the [[MIT Sloan School of Management|MIT Sloan CIO Symposium]]<ref name=filing/>
+*[[Brian Cole (politician)|Brian Cole]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 26th district (2022–present)<ref name="cole" /><ref name=filing/>
+*Hollie Noveletsky, former vice chair of the [[New Hampshire Republican Party]] and candidate for this district in [[2024 United States House of Representatives elections in New Hampshire#District 1|2024]]<ref>{{cite news |title=Hollie Noveletsky, a Republican from Greenland, NH, announces run for Congress |url=https://www.seacoastonline.com/story/news/politics/2025/09/17/hollie-noveletsky-a-greenland-republican-to-run-for-congress-in-nh/86195885007/ |access-date=September 17, 2025 |work=[[The Portsmouth Herald]] |date=September 17, 2025}}</ref>
+
+====Withdrawn====
+*Melissa Bailey, vice chair of the [[Bedford, New Hampshire|Bedford]] Republican Committee ''(remained on ballot; endorsed DiLorenzo)''<ref>{{Cite web |last=Sexton |first=Adam |date=2026-07-16 |title=Melissa Bailey suspending her campaign and endorsing Anthony DiLorenzo |url=https://www.wmur.com/article/melissa-bailey-suspending-her-campaign-and-endorsing-anthony-dilorenzo/72292763 |access-date=2026-07-17 |website=WMUR |language=en}}</ref>
+*Chris Bright, facilities management executive and candidate for this district in [[2024 United States House of Representatives elections in New Hampshire#District 1|2024]]<ref>{{Cite news |work=[[New Hampshire Public Radio]] |access-date=September 26, 2025 |url=https://www.nhpr.org/nh-news/2025-09-26/republican-chris-bright-pulls-plug-on-congressional-bid |author=Rogers, Josh |date=September 26, 2025 |title=Republican Chris Bright pulls plug on congressional bid |language=en}}</ref>
+*Elizabeth Girard, former New Hampshire co-chair for the [[Donald Trump 2024 presidential campaign]]<ref>{{cite web|url=https://rrhelections.com/index.php/2026/01/02/political-roundup-for-january-2-2026/|title=Political Roundup for January 2, 2026|date=January 2, 2026|access-date=January 2, 2026}}</ref>
+
+====Declined====
+*[[Karoline Leavitt]], former [[White House Press Secretary]] (2025–2026) and nominee for this district in [[2022 United States House of Representatives elections in New Hampshire#District 1|2022]]<ref name="Eying">{{cite web |last=Graham |first=Michael |date=March 17, 2025 |title=NH Republicans Eying Possible Open Congressional Seats Amid Goodlander-Pappas Chatter |url=https://nhjournal.com/some-nh-republicans-eying-possible-open-congressional-seats-amid-goodlander-v-pappas-chatter/ |access-date=March 18, 2025 |work=NH Journal}}</ref>
+*Joseph Levasseur, at-large [[Manchester, New Hampshire|Manchester]] alder and candidate for this district in [[2024 United States House of Representatives elections in New Hampshire#District 1|2024]]<ref name=cole>{{Cite web |last=Graham |first=Michael |date=2025-08-05 |title=Manchester Republican Cole Enters NH-01 Primary |url=https://nhjournal.com/manchester-republican-cole-enters-nh-01-primary/ |access-date=2025-08-05 |website=NH Journal |language=en-US}}</ref>
+*[[Jay Ruais]], mayor of [[Manchester, New Hampshire|Manchester]] (2023–present)<ref>{{Cite web |last=Sexton |first=Adam |date=2025-07-22 |title=Ruais could be first Manchester mayor to run unopposed since 1863 |url=https://www.wmur.com/article/ruais-manchester-mayor-filing-72225/65480117 |access-date=2025-07-23 |website=[[WMUR-TV]] |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Anthony DiLorenzo
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="AFT" />
+
+;U.S. representatives
+*[[Tom Emmer]], [[United States House of Representatives|House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Guinta" />
+*[[Frank Guinta]], former [[NH-02]] (2011–2013, 2015–2017)<ref name="AFT" />
+*[[Mike Johnson]], [[Speaker of the U.S. House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="AFT" />
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="RollCall820" />
+*[[Lisa McClain]], [[MI-09]] (2021–present)<ref name="AFT" />
+*[[Steve Scalise]], [[United States House of Representatives|House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="AFT" />
+
+;New Hampshire cabinet officials
+*[[Russell Prescott]], former [[New Hampshire Executive Council|New Hampshire Executive Councilor]] from the 3rd district (2017–2021) and nominee for this seat in [[2024 United States House of Representatives elections in New Hampshire#District 1|2024]]<ref name="Guinta">{{cite web |last1=Sexton |first1=Adam |title=1st District candidate DiLorenzo looks to build on momentum after key endorsements |url=https://www.wmur.com/article/1st-district-dilorenzo-endorsements-72326/73250891 |website=WMUR |access-date=8 August 2026 |date=July 23, 2026}}</ref>
+
+;Party officials
+*[[Stephen Stepanek]], former chair of the [[New Hampshire Republican Party]] (2019–2023)<ref name="MAGA11">{{cite web |last1=Sexton |first1=Adam |title=Key 'MAGA' endorsement made in NH-01 |url=https://www.wmur.com/article/steve-stepanek-endorses-anthony-dilorenzo/70759146 |website=WMUR |access-date=17 March 2026 |language=en |date=16 March 2026}}</ref>
+
+;Organizations
+*[[National Republican Congressional Committee]]<ref name="RollCall820" />
+*[[Turning Point Action]]<ref>{{cite web |last1=Sexton |first1=Adam |title=Turning Point Action endorses Anthony DiLorenzo in NH-01 race |url=https://www.wmur.com/article/turning-point-action-endorses-anthony-dilorenzo/71288721 |website=WMUR |access-date=May 13, 2026 |language=en |date=May 13, 2026}}</ref>
+*[[U.S. Chamber of Commerce]]<ref name="USCC">{{cite web |title=U.S. Chamber Endorses Candidate Anthony DiLorenzo for New Hampshire’s First Congressional District |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-anthony-dilorenzo-for-new-hampshires-first-congressional-district |website=[[United States Chamber of Commerce]] |access-date=8 September 2026 |date=August 24, 2026}}</ref>
+
+}}
+{{Endorsements box
+|title=Hollie Noveletsky
+|list=
+;U.S. senators
+*[[Bob Smith (New Hampshire politician)|Bob Smith]], former [[New Hampshire]] (1990–2003)<ref name="NHJ517">{{cite web |last1=Graham |first1=Michael |title=Monday Memo: Louisiana’s Lesson for Scott Brown |url=https://nhjournal.com/monday-memo-louisianas-lesson-for-scott-brown/ |website=NH Journal |access-date=8 August 2026 |date=May 17, 2026}}</ref>
+
+;State legislators
+*[[Regina Birdsell]], majority leader of the [[New Hampshire Senate]] (2024–present) from the [[New Hampshire's 19th State Senate district|19th district]] (2014–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=25 January 2026 |language=en |date=8 January 2026}}</ref>
+
+;Local officials
+*[[George Hansel]], former mayor of [[Keene, New Hampshire|Keene]] (2020–2024) and candidate for [[NH-02]] in [[2022 United States House of Representatives elections in New Hampshire#District 2|2022]]<ref name="NHJ517" />
+
+;Organizations
+*[[Associated Builders and Contractors]]<ref>{{cite web |last1=Graham |first1=Michael |title=NH-01 Round Up: Noveletsky Gets ABC Backing, Urrutia Touts 10k Donors, $400k Haul |url=https://nhjournal.com/nh-01-round-up-noveletsky-gets-abc-backing-urrutia-touts-10k-donors-400k-haul/ |access-date=October 24, 2025 |work=[[NH Journal]] |date=October 2, 2025}}</ref>
+*[[Maggie's List]]<ref>{{cite web |url=https://maggieslist.org/maggies-list-endorses-hinson-in-iowa-noveletsky-in-new-hampshire/ |title=Maggie's List Endorses Hinson in Iowa, Noveletsky in New Hampshire |website=maggieslist.org |date=October 3, 2025 |access-date=October 24, 2025}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Melissa Bailey (R)''
+|$229,363
+|$72,850
+|$156,513
+|-
+|{{party shading/Republican}}|''Chris Bright (R)''
+|$24,604
+|$25,139
+|$1,313
+|-
+|{{party shading/Republican}}|Brian Cole (R)
+|$370,224
+|$183,622
+|$186,601
+|-
+|{{party shading/Republican}}|Anthony DiLorenzo (R)
+|$1,290,475
+|$463,208
+|$827,267
+|-
+|{{party shading/Republican}}|''Elizabeth Girard (R)''
+|$177,619
+|$177,619
+|$0
+|-
+|{{party shading/Republican}}|Hollie Noveletsky (R)
+|$441,458
+|$35,648
+|$405,810
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" |Melissa<br/>Bailey
+! style="width:60px;" |Chris<br/>Bright
+! style="width:60px;" |Brian<br/>Cole
+! style="width:60px;" |Anthony<br />DiLorenzo
+! style="width:60px;" |Elizabeth<br />Girard
+! style="width:60px;" |Holly<br/>Noveletsky
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust2026"/>
+|August 20–24, 2026
+|464 (LV)
+|±&nbsp;4.5%
+|–
+|–
+|7%
+|25%
+|–
+|{{party shading/Republican}}|'''28%'''
+|1%{{efn|Lindsey Anderson with 1%}}
+|{{party shading/Undecided}}|'''38%'''
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|351 (LV)
+|±&nbsp;5.2%
+|1%
+|–
+|8%
+|{{party shading/Republican}}|'''30%'''
+|–
+|17%
+|1%{{efn|Lindsey Anderson with 1%}}
+|{{party shading/Undecided}}|'''44%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 16, 2026
+| colspan="10" | Melissa Bailey withdraws from the race
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmJune2026/>
+|June 24–25, 2026
+|377 (RV)
+|±&nbsp;5.0%
+|2%
+|–
+|8%
+|13%
+|–
+|{{party shading/Republican}}|'''16%'''
+|–
+|{{party shading/Undecided}}|'''61%'''
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJan1"/>
+|January 15–19, 2026
+|967 (LV)
+|±&nbsp;3.2%
+|4%
+|–
+|4%
+|10%
+|2%
+|{{party shading/Republican}}|'''15%'''
+|2%{{efn|name=WI2|"Write in someone else" at 2%}}
+|{{party shading/Undecided}}|'''66%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | January 4, 2026
+| colspan="10" | Elizabeth Girard withdraws from the race
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov/>
+|November 18–19, 2025
+|521 (RV)
+|±&nbsp;4.3%
+|2%
+|–
+|{{party shading/Republican}}|'''5%'''
+|4%
+|2%
+|{{party shading/Republican}}|'''5%'''
+|–
+|{{party shading/Undecided}}|'''81%'''
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |September 25, 2025
+| colspan="10" | Chris Bright withdraws from the race
+|-
+| style="text-align:left;" |[[University of New Hampshire]]<ref name="UNHSept2025"/>
+|September 17–23, 2025
+|256 (LV)
+|±&nbsp;4.2%
+|0%
+|{{party shading/Republican}} |'''10%'''
+|5%
+|–
+|–
+|{{party shading/Republican}} |'''10%'''
+|3%{{efn|name=WI|"Write in someone else" at 3%}}
+|{{party shading/Undecided}} |'''71%'''
+|-
+| style="text-align:left;" |[[Saint Anselm College]]<ref name="AnselmAug2025"/>
+|August 26–27, 2025
+|427 (RV)
+|±&nbsp;4.7%
+|3%
+|{{party shading/Republican}} |'''8%'''
+|5%
+|–
+|–
+|–
+|–
+|{{party shading/Undecided}} |'''84%'''
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results
+}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Anthony DiLorenzo
+ | votes= 29,409
+ | percentage=51.5
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Hollie Noveletsky
+ | votes= 14,980
+ | percentage=26.2
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Brian Cole (politician)|Brian Cole]]
+ | votes=8,050
+ | percentage=14.1
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Melissa Bailey ''(withdrawn)''
+ | votes=2,313
+ | percentage=4.0
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Lindsey Anderson
+ | votes=1,935
+ | percentage=3.4
+}}
+{{Election box write-in with party link no change
+|votes = 452
+|percentage = 0.8
+}}
+{{Election box total no change
+ | votes= 57,139
+ | percentage=100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 25, 2025}}</ref>
+| {{USRaceRating|Likely|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |access-date=September 29, 2025 |language=en}}</ref>
+| {{USRaceRating|Lean|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Likely|D}}
+|October 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Stefany Shaheen (D)
+|list=
+;U.S. representatives
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="New Dems">{{cite web|url=https://www.newdemactionfund.com/news/new-dems-endorse-two-candidates-in-nh-ct?source=dfba9884-cc51-4c60-b5ac-1e7c74296073|title=New Dems Endorse Two Candidates In NH & CT|date=October 1, 2026|access-date=October 2, 2026}}</ref>
+
+;Individuals
+*[[Don Bolduc]], retired [[Brigadier general|brigadier general]] and Republican [[2022 United States Senate election in New Hampshire|2022 U.S. Senate]] nominee ''(Republican)''<ref>{{cite tweet|user=NewHampJournal|number=2111102588040974812|title=2022 @NHGOP US Senate nominee Don Bolduc tells @NHTodayShow that, having endorsed Democrat @ChrisPappasNH, he will also be endorsing @NHDems Stefany Shaheen in NH01 race.|access-date=October 16, 2026}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web|title=Stefany Shaheen|url=https://emilyslist.org/candidate/stefany-shaheen/|website=EMILYs List|access-date=September 19, 2026}}</ref>
+*[[New Democrat Coalition#Campaign arm|NewDem Action Fund]]<ref name="New Dems"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Stefany Shaheen (D)
+|$3,247,792
+|$2,977,060
+|$270,733
+|-
+|{{party shading/Republican}}|Anthony DiLorenzo (R)
+|$6,762,643
+|$5,778,850
+|$983,794
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:100px;" |Stefany<br/>Shaheen (D)
+! style="width:100px;" |Anthony<br/>DiLorenzo (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=SaintAnselm10.26/>
+|October 19–20, 2026
+|861 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''46%'''
+|42%
+|6%{{Efn|"Other" with 6%}}
+|6%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2026">{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2004&context=survey_center_polls |title=Pappas Opens Narrow Lead Over Sununu in New Hampshire Senate Race, Race for Governor Tightens |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|711 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''46%'''
+|42%
+|0%{{efn|"Another Candidate" with 0%}}
+|11%
+|}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 New Hampshire's 2nd congressional district election
+| country = New Hampshire
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in New Hampshire#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in New Hampshire#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Maggie Goodlander official portrait, 119th Congress (cropped).jpg
+| nominee1 = [[Maggie Goodlander]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Lily_Tang_Williams_by_Gage_Skidmore.jpg
+| nominee2 = [[Lily Tang Williams]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Maggie Goodlander]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|New Hampshire's 2nd congressional district}}
+The 2nd district encompasses western and northern New Hampshire, and includes the cities of [[Nashua, New Hampshire|Nashua]] and [[Concord, New Hampshire|Concord]]. The incumbent is Democrat [[Maggie Goodlander]], who was elected with 52.9% of the vote in 2024.<ref name="HPVT" />
+
+===Democratic primary===
+====Nominee====
+*[[Maggie Goodlander]], incumbent U.S. representative<ref name="Decline">{{Cite web |last=Sexton |first=Adam |date=April 17, 2025 |title=US Rep. Maggie Goodlander decides against run for US Senate in 2026 |url=https://www.wmur.com/article/maggie-goodlander-senate-run-decision-41725/64514504 |access-date=April 17, 2025 |website=[[WMUR-TV]] |language=en}}</ref>
+====Eliminated in primary====
+*[[Paige Beauchemin]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 3rd district (2023–present)<ref>{{Cite web |last=Graham |first=Michael |date=2025-10-03 |title=Beauchemin Enters Dem Primary Against Goodlander, Promises 'Disruptive Compassion' |url=https://nhjournal.com/nashua-dem-beauchemin-launches-progressive-challenge-to-goodlander/ |access-date=2025-10-03 |website=NH Journal |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Paige Beauchemin (D)
+|list=
+;Organizations
+*[[College Democrats of America]]<ref>{{cite web|url=https://www.facebook.com/collegedems/posts/pfbid0MbeYux1TTmA9EMssApVsjWmKKXomYzFb7Aw9LBbS7XqLEfJ34o24gwc1dFpegdozl?rdid=sTxTGDxTjylv6L8t#|title=We're excited to announce the slate of candidates we are endorsing in the Granite state!|date=April 27, 2026|access-date=May 7, 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web |url=https://www.peaceaction.org/endorsements/ |title=2026 Endorsements |website=Peace Action |access-date=June 17, 2026}}</ref>
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+}}
+
+{{Endorsements box
+|title=Maggie Goodlander (D)
+|list=
+;U.S. representatives
+*[[Chris Pappas (American politician)|Chris Pappas]], {{ushr|NH|1|NH-01}} (2019–present)<ref name="Decline"/>
+
+;Statewide officials
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref name="Sherrill"/>
+
+;Labor unions
+*[[SEIU]] Local 1984 ''(Democratic primary only)''<ref name="SEIU">{{cite web |last1=Sexton |first1=Adam |title=State Employees' Association backs Congresswoman Maggie Goodlander in NH-02 Democratic primary |url=https://www.wmur.com/article/state-employees-association-backs-congresswoman-maggie-goodlander-in-democratic-primary/73429378 |website=WMUR 9 |access-date=20 August 2026 |date=August 13, 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 14, 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Maggie Goodlander |url=https://giffords.org/candidates/maggie-goodlander-2/ |website=giffords.org |date=April 25, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Maggie Goodlander |url=https://jstreetpac.org/candidate/maggie-goodlander/ |website=J Street PAC |access-date=18 April 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=28 October 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[League of Conservation Voters]]<ref name="LCVEndorsedment"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Paige Beauchemin (D)
+|$19,477
+|$16,763
+|$2,713
+|-
+|{{party shading/Democratic}}|Maggie Goodlander (D)
+|$2,972,341
+|$984,208
+|$2,046,131
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - New Hampshire 2nd |url=https://www.fec.gov/data/elections/house/NH/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Maggie<br/>Goodlander
+! style="width:75px;" |Paige<br/>Beauchemin
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust2026"/>
+|August 20–24, 2026
+|430 (LV)
+|±&nbsp;4.7%
+|{{party shading/Democratic}}|'''59%'''
+|19%
+|22%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|374 (LV)
+|±&nbsp;5.1%
+|{{party shading/Democratic}}|'''66%'''
+|17%
+|17%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmJune2026/>
+|June 24–25, 2026
+|412 (RV)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''76%'''
+|9%
+|15%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJan1"/>
+|January 15–19, 2026
+|893 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''66%'''
+|12%
+|22%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov/>
+|November 18–19, 2025
+|515 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''62%'''
+|6%
+|32%
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Maggie Goodlander]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 59,817
+| percentage = 81.8
+}}
+{{Election box candidate with party link no change
+| candidate = [[Paige Beauchemin]]
+| party = Democratic Party (United States)
+| votes = 13,205
+| percentage = 18.0
+}}
+{{Election box write-in with party link no change
+|votes = 145
+|percentage = 0.2
+}}
+{{Election box total no change
+| votes = 73,167
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*[[Lily Tang Williams]], former chair of the [[Colorado Libertarian Party]], nominee for this district in [[2024 United States House of Representatives elections in New Hampshire#District 2|2024]] and candidate in [[2022 United States House of Representatives elections in New Hampshire#District 2|2022]], and Libertarian nominee for U.S. Senate in [[Colorado]] in [[2016 United States Senate election in Colorado|2016]]<ref>{{Cite web |last=Lips |first=Evan |date=2025-04-10 |title=Lily Tang Williams Enters 2nd CD Race as Goodlander Considers Senate Run |url=https://nhjournal.com/lily-tang-williams-enters-2nd-cd-race-as-goodlander-considers-senate-run/ |access-date=2025-04-10 |website=NH Journal |language=en-US}}</ref>
+
+====Eliminated in primary====
+*Michael A. Callis, stone mason and candidate for this district in [[2024 United States House of Representatives elections in New Hampshire#District 2|2024]]<ref name=":26">{{Cite web |title=CUMULATIVE FILING|url=https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/cumulative-filings-6.11.26.pdf|website=NH SOS}}</ref><ref name=":16">{{Cite web |last=Writer|first=Staff|date=2026-06-08|title=2026 Candidate Filing Update: Who's in? Who's Out?|url=https://nhjournal.com/2026-candidate-filing-update-whos-in-whos-out/|access-date=2026-06-12|website=NH Journal|language=en-US}}</ref>
+*Dan Nicholson<ref name="filing" />
+*Victor Orlando, construction company owner<ref name=filing/>
+
+====Endorsements====
+{{Endorsements box
+|title=Victor Orlando
+|list=
+;Labor unions
+*[[SEIU]] Local 1984 ''(Republican primary only)''<ref name="SEIU" />
+}}
+
+{{Endorsements box
+|title=Lily Tang Williams
+|list=
+;State legislators
+*4 state senators{{efn|
+*[[Kevin Avard]], [[New Hampshire's 12th State Senate district]] (2020–present)<ref name="GEP" />
+*[[Keith Murphy]], [[New Hampshire's 16th State Senate district]] (2022–present)<ref name="GEP" />
+*[[Victoria Sullivan]], [[New Hampshire's 18th State Senate district]] (2024–present)<ref name="GEP" />
+*[[Ruth Ward]], [[New Hampshire's 8th State Senate district]] (2016–present)<ref name="GEP">{{cite web |title=64 Current and Former GOP Legislators Endorse Lily Tang Williams for Congress |url=https://www.graniteeaglepress.com/post/64-current-and-former-gop-legislators-endorse-lily-tang-williams-for-congress |website=Granite Eagle Press |access-date=3 November 2025}}
+</ref>
+}}
+*1 former state senator{{efn|
+*[[Bob Giuda]], [[New Hampshire's 2nd State Senate district]] (2016–2022)<ref name="GEP" />
+}}
+*39 state representatives{{efn|
+*[[Calvin Beaulier]], Grafton 1st (2024–present)<ref name="GEP" />
+*[[Mike Belcher]], Carroll 4th (2022–present)<ref name="GEP" />
+*[[Glenn Cordelli]], Carroll 7th (2022–present)<ref name="GEP" />
+*[[Seth King (politician)|Seth King]], Coos 4th (2022–present)<ref name="GEP" />
+*[[Lisa Mazur]], Hillsborough 44th (2022–present)<ref name="GEP" />
+*[[Donald McFarlane]], Grafton 18th (2022–present)<ref name="GEP" />
+*[[Rich Nalevanko]], Cheshire 9th (2024–present)<ref name="GEP" />
+*[[Katy Peternel]], Carroll 6th (2022–present)<ref name="GEP" />
+*[[Paul Terry (politician)|Paul Terry]], Belknap 7th (2022–present)<ref name="GEP" />
+*[[Mark Warden]], Hillsborough 39th (2024–present)<ref name="GEP" />
+}}
+
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCR4">{{cite web |title=Log Cabin Republicans PAC Announces Fourth Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-fourth-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=8 August 2026 |date=August 4, 2026}}</ref>
+*[[MAHA Action]]<ref name="MAHA">{{cite web |title=MAHA Action endorses Lily Tang Williams for Congress |url=https://www.nashuaindependent.com/maha-action-endorses-lily-tang-williams-for-congress/ |website=Nashua Independent |access-date=9 August 2026 |date=July 23, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Lily Tang Williams (R)
+|$869,483
+|$425,033
+|$573,929
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Lily<br/>Tang Williams
+! style="width:75px;" |Victor<br/>Orlando
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust2026"/>
+|August 20–24, 2026
+|387 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''58%'''
+|2%
+|3%{{efn|Michael Callis, Dan Nicholson, and "Write in someone else" with 1%}}
+|38%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|327 (LV)
+|±&nbsp;5.4%
+|{{party shading/Republican}}|'''53%'''
+|7%
+|0%{{efn|Dan Nicholson with 0%}}
+|40%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmJune2026/>
+|June 24–25, 2026
+|362 (RV)
+|±&nbsp;5.2%
+|{{party shading/Republican}}|'''56%'''
+|7%
+|–
+|38%
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results
+}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Lily Tang Williams]]
+ | votes= 31,402
+ | percentage=64.9
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Dan Nicholson
+ | votes=6,471
+ | percentage=13.4
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Victor Orlando
+ | votes= 6,309
+ | percentage=13.0
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Michael A. Callis
+ | votes=3,808
+ | percentage=7.9
+}}
+{{Election box write-in with party link no change
+|votes = 428
+|percentage = 0.9
+}}
+{{Election box total no change
+ | votes= 48,418
+ | percentage=100.0
+}}
+{{Election box end}}
+
+=== Third-party and independent candidates ===
+==== Nominee ====
+*Robbie Mahrou (Independent), entrepreneur<ref>{{Cite web |title=NH Secretary of State Declarations of Intent |url=https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/declarations-of-intent-list-2026_2.pdf}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|July 16, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|D}}
+|July 15, 2025
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box|title=Robbie Mahrou (I)|list=;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref name="Forward">{{Cite web|url=https://www.forwardparty.com/media/press_release/forward-party-announces-slate-of-congressional-endorsements-across-florida-idaho-and-new-hampshire/|title=Forward Party Announces Slate of Congressional Endorsements Across Florida, Idaho and New Hampshire|date=October 6, 2026|access-date=October 10, 2026|website=forwardparty.com}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Maggie Goodlander (D)
+|$5,012,909
+|$3,249,344
+|$1,821,563
+|-
+|{{party shading/Republican}}|Lily Tang Williams (R)
+|$1,443,796
+|$1,101,045
+|$472,230
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:100px;" |Maggie<br/>Goodlander (D)
+! style="width:100px;" |Lily Tang<br/>Williams (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=SaintAnselm10.26/>
+|October 19–20, 2026
+|811 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}}|'''54%'''
+|38%
+|3%{{Efn|"Other" with 3%}}
+|5%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2026"/>
+|September 17–21, 2026
+|702 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''56%'''
+|35%
+|3%{{efn|Robbie Mahrou (I) with 3%; "Another Candidate" with 0%}}
+|6%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | September 8, 2026
+| colspan="16"| Primary elections are held
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|701 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''50%'''
+|35%
+|–
+|16%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026"/>
+|June 24–25, 2026
+|802 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''50%'''
+|31%
+|–
+|19%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026">{{cite web|url=https://www.anselm.edu/sites/default/files/2026-03/SACSC_NHRV_0326.pdf|title=A Survey of New Hampshire Registered Voters|first1=Neil|last1=Levesque|first2=Tauna|last2=Sisco|date=March 23, 2026|access-date=March 23, 2026}}</ref>
+|March 16–18, 2026
+|739 (RV)
+|±&nbsp;3.6%
+|{{party shading/Democratic}}|'''48%'''
+|36%
+|–
+|16%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJan1">{{cite web |title=Sununu, Pappas Frontrunners in 2026 NH Senate Race; Ayotte Favored for Re-Election as Governor |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1921&amp;context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns|website=UNH Scholars Repository|date=January 21, 2026|access-date=January 22, 2026}}</ref>
+|January 15–19, 2026
+|1,093 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''54%'''
+|40%
+|2%{{efn|name=Another}}
+|3%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov>{{cite web |title=New Poll by the Saint Anselm College Survey Shows Declining Optimism, Democracy Dominant as Issue, and Early Partisan Divides Ahead of 2026 |url=https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026 |website=[[Saint Anselm College]] |date=24 November 2025 | access-date=24 November 2025}}</ref>
+|November 18–19, 2025
+|1,102 (RV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''40%'''
+|35%
+|–
+|25%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2025"/>
+|September 17–23, 2025
+|659 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''51%'''
+|39%
+|2%{{efn|name=Another|"Another candidate" at 2%}}
+|8%
+|-
+| style="text-align:left;" |[[Saint Anselm College]]<ref name="AnselmAug2025"/>
+|August 26–27, 2025
+|881 (RV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}} |'''49%'''
+|31%
+|–
+|20%
+|}
+
+== Notes ==
+{{notelist}}<!--'''Partisan clients'''
+{{notelist-ua}}
+-->
+
+==References==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites for 1st district candidates'''
+*[https://dilorenzoforcongress.com/ Anthony DiLorenzo (R)]
+*[https://stefanyshaheen.com/ Stefany Shaheen (D)]
+
+'''Official campaign websites for 2nd district candidates'''
+*[https://maggiefornh.com/ Maggie Goodlander (D)]
+*[https://livefreenh02.com/ Robbie Mahrou (I)]
+*[https://www.lilytangwilliams.com/congress/ Lily Tang Williams (R)]
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|New Hampshire]]
+[[Category:2026 elections in New Hampshire|United States House]]
+[[Category:United States House of Representatives elections in New Hampshire]]

@@ -1,0 +1,2114 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Indiana House of Representatives election}}
+{{Use mdy dates|date=November 2024}}
+{{use American English|date=November 2024}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Indiana
+| country = Indiana
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana
+| next_year = 2028
+| seats_for_election = All 9 Indiana seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''7'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 2
+| seats2 = 
+| seat_change2 = 
+| map_image = <!-- Please keep these maps hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Indiana results map.svg|180px]] |District results |[[File:2026 United States House of Representatives elections in Indiana results map by county.svg|180px]] |County results}}-->
+| map_caption = 
+}}
+{{Elections in Indiana}}
+The '''2026 United States House of Representatives elections in Indiana''' will be held on November 3, 2026, to elect the nine [[U.S. representative]]s from the [[U.S. state|state]] of [[Indiana]], one from each of the state's [[Indiana's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on May 5, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+== Failed redistricting attempt ==
+In late 2025, as part of the broader [[2025–2026 United States redistricting|2025 U.S. redistricting cycle]], [[President of the United States|President]] [[Donald Trump]] urged Indiana to redraw its congressional map to unseat Democratic Representatives [[Frank J. Mrvan|Frank Mrvan]] (1st district) and [[André Carson]] (7th district). The proposal faced unexpected resistance in the Republican-[[supermajority]] [[Indiana Senate|Senate]], with more than a dozen Republicans opposing it. Trump sought to pressure holdouts by threatening to back primary challengers against those who voted no.<ref>{{Cite web |last=Pellish |first=Aaron |date=2025-12-10 |title=Trump threatens to primary Indiana Republicans ahead of key redistricting vote |url=https://www.politico.com/news/2025/12/10/trump-indiana-redistricting-republicans-rodric-bray-00686257 |access-date=2025-12-11 |website=POLITICO |language=en}}</ref> Separately, several senators received threats, including [[bomb threat]]s and [[Swatting|swatting calls]], ahead of the vote.<ref>{{Cite web |last1=Uribe |first1=Raquel Coronell |last2=Lebowitz |first2=Megan |date=2025-12-01 |title=At least 11 Indiana Republicans were targeted with threats or swatting attacks amid redistricting pressure from Trump |url=https://www.nbcnews.com/politics/2026-election/indiana-republicans-swatting-attacks-redistricting-rcna246689 |access-date=2025-12-11 |website=NBC News |language=en}}</ref> The measure passed the [[Indiana House of Representatives|House]] 57–41 on December 5, with twelve Republicans joining all Democrats in opposition,<ref>{{Cite web |last1=Muñiz |first1=Leslie Bonilla |last2=Davies |first2=Tom |date=2025-12-05 |title=Indiana House approves redistricting bill, sending issue to state Senate • Indiana Capital Chronicle |url=https://indianacapitalchronicle.com/2025/12/05/indiana-house-approves-redistricting-bill-sending-issue-to-state-senate/ |access-date=2025-12-11 |website=Indiana Capital Chronicle |language=en-US}}</ref> but failed in the Senate on December 11 by a 31–19 vote, as 21 Republicans joined all 10 Democrats to defeat it.<ref>{{Cite web |last=Vakil |first=Caroline |date=December 11, 2025 |title=Indiana Senate rejects new House map, defying Trump |url=https://thehill.com/homenews/campaign/5644276-indiana-senate-rejects-gop-map/ |access-date=December 11, 2025 |website=[[The Hill (newspaper)|The Hill]]}}</ref>
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Indiana's 1st congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Frank Mrvan 117th U.S Congress (alt crop).jpg
+| nominee1 = [[Frank Mrvan]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Barb Regnitz
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 1st congressional district election results map by county.svg|210px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Frank J. Mrvan]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 1st congressional district}}
+The 1st district encompasses [[Northwest Indiana]], taking in the eastern [[Chicago metropolitan area]], including [[Hammond, Indiana|Hammond]] and [[Gary, Indiana|Gary]], as well as [[Lake County, Indiana|Lake County]], [[Porter County, Indiana|Porter County]] and northwest [[LaPorte County, Indiana|LaPorte County]]. The incumbent is Democrat [[Frank J. Mrvan|Frank Mrvan]], who was re-elected with 53.4% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Frank J. Mrvan|Frank Mrvan]], incumbent U.S. representative<ref>{{cite news |last1=Carden |first1=Dan |title=Mrvan seeking fourth term representing Northwest Indiana in Congress |url=https://nwitimes.com/news/local/government-politics/elections/article_5506b9bb-0252-4152-991a-f183c2cc663f.html |access-date=January 7, 2026 |website=[[The Times of Northwest Indiana]] |date=January 7, 2026}}</ref>
+
+====Eliminated in primary====
+*LaVetta Sparks-Wade, former [[Gary, Indiana|Gary]] city councilor<ref name="LakeCountyCouncil">{{cite news |last1=Kukulka |first1=Alexandra |title=Lake County Council will see shakeup as filing window closes |url=https://www.chicagotribune.com/2026/02/07/lake-county-council-will-see-shakeup-as-filing-window-closes/ |access-date=February 17, 2026 |work=[[Chicago Tribune]] |date=February 7, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Frank Mrvan
+|list=
+;Labor Unions
+*[[National Education Association]]<ref>{{cite web | title=Our Recommended Candidates | url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ }}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Giffords]]<ref name="Giffords930">{{cite web |title=GIFFORDS PAC endorses key battleground champions running for reelection to Congress |url=https://giffords.org/press-release/2025/09/giffords-pac-endorses-key-battleground-champions-running-for-reelection-to-congress/ |website=GIFFORDS |access-date=September 30, 2025 |date=30 September 2025}}</ref>
+*[[American Farm Bureau Federation#List of state Farm Bureaus|Indiana Farm Bureau AgELECT PAC]]<ref name=INFBE>{{cite web |last=Grant |first=Heidi |title=Indiana Farm Bureau PACs Endorse 33 Candidates for Primary |url=https://www.infarmbureau.org/resources/news-media/2026/03/30/indiana-farm-bureau-pacs-endorse-33-candidates-for-primary|work=Indiana Farm Bureau |date=March 30, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web | title=Jewish Dems Endorsed Candidates | url=https://jewishdems.org/endorsements/ }}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref name="LCV">{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Population Connection]]<ref>{{cite web | title=2026 Endorsements | url=https://www.populationconnectionaction.org/vote/2026-endorsements/ }}</ref>
+*[[Reproductive Freedom for All]]<ref name="RF4A 5-8">{{cite news |title=Reproductive Freedom for All Endorses Slate of U.S. House Frontline Members for the 2026 Midterm Election |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-u-s-house-frontline-members-for-the-2026-midterm-election/ |access-date=May 8, 2025 |work=Reproductive Freedom for All |date=May 8, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Frank Mrvan (D)
+|$1,873,695
+|$873,154
+|$1,088,950
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Indiana 1st |url=https://www.fec.gov/data/elections/house/IN/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 IN-01 Democratic primary results by county.svg|thumb|210px|Results by county:{{Collapsible list
+| title = {{legend|#7996E2|Mrvan}}|{{legend|#584CDE|70–80%}}|{{legend|#3933E5|80–90%}}}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Frank Mrvan]] (incumbent)|votes=42,519|percentage=80.2}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=LaVetta Sparks-Wade|votes=10,467|percentage=19.8}}
+{{Election box total no change|votes=52,986|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Barb Regnitz, [[Porter County]] commissioner (2023–present)<ref>{{cite web |last1=Lavalley |first1=Andy |title=Porter County Commissioner Barb Regnitz making a bid for Congress |url=https://www.chicagotribune.com/2025/10/22/porter-county-commissioner-barb-regnitz-congress/ |access-date=October 22, 2025 |work=[[Chicago Tribune]] |date=October 22, 2025}}</ref>
+
+====Eliminated in primary====
+*Ben Ruiz, vice precinct committeeman and candidate for this district in [[2022 United States House of Representatives elections in Indiana#District 1|2022]] and [[2024 United States House of Representatives elections in Indiana#District 1|2024]]<ref name="Ruiz">{{cite news |title=Ruiz seeks 1st District U.S. House seat |url=https://www.lpheralddispatch.com/news/local/ruiz-seeks-1st-district-u-s-house-seat/article_51b13e36-1a79-5642-af04-aa852c8b6a8b.html |access-date=17 February 2026 |work=[[La Porte County Herald-Dispatch]] |date=January 19, 2026}}</ref>
+*Jim Schenke, news producer and nominee for HD-26 in [[2024 Indiana House of Representatives election#District 26|2024]]<ref>{{cite news |title=After losing local election, Jim Schenke announces campaign for U.S. Congress |url=https://www.kpcnews.com/news/state/article_9fae9829-2858-5222-901f-1eaeaea5c45b.html |access-date=April 9, 2025 |work=[[KPC Media Group]] |date=April 7, 2025 |language=en}}</ref>
+
+====Removed from ballot====
+*Richard "Sieg Heil" Mayers, white supremacist and perennial candidate (''ran for [[2026 United States Senate election in Alaska|U.S. Senate in Alaska]]'')<ref>{{cite news |last1=Kukulka |first1=Alexandra |title=Indiana First Congressional District candidate files ballot name with Nazi salute |url=https://www.chicagotribune.com/2026/01/16/indiana-first-congressional-district-candidate-files-ballot-name-with-nazi-salute/ |access-date=January 16, 2026 |work=[[Chicago Tribune]] |date=January 16, 2026}}</ref><ref>{{cite news |last1=Odendahl |first1=Marilyn |title=CANDIDACY CHALLENGES: Democrats, Republicans Trying To Run In May Primary Face Scrutiny |url=https://indianacitizen.org/candidacy-challenges-democrats-republicans-trying-to-run-in-may-primary-face-scrutiny/ |access-date=March 15, 2026 |work=[[The Indiana Citizen]] |date=February 23, 2026}}</ref>
+
+====Withdrawn====
+*Jennifer-Ruth Green, former Indiana Secretary of Public Safety and nominee for this district in [[2022 United States House of Representatives elections in Indiana#District 1|2022]]<ref>{{cite web |last1=Colombo |first1=Hayleigh |title=Jennifer-Ruth Green drops out of U.S. House race against Mrvan |url=https://www.indystar.com/story/news/politics/2026/02/05/jennifer-ruth-green-drops-out-of-u-s-house-race-against-mrvan/88530301007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z117144p117750c117750v117144d--67--b--67--&gca-ft=139&gca-ds=sophi |website=The Indianapolis Star |access-date=5 February 2026}}</ref>
+
+====Declined====
+*Randy Niemeyer, [[Lake County, Indiana|Lake County]] councilor, chair of the Lake County Republican Party, and nominee for this district in [[2024 United States House of Representatives elections in Indiana#District 1|2024]]<ref name=jrg>{{cite news |work=[[Chicago Tribune]] |access-date=October 29, 2025 |url=https://www.chicagotribune.com/2025/10/28/jennifer-ruth-green-enters-gop-race-for-indianas-first-congressional-district/ |date=October 28, 2025 |author=Kukulka, Alexandria |title=Jennifer-Ruth Green enters GOP race for Indiana's First Congressional District}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Barb Regnitz
+|list=
+;U.S. senators
+*[[Jim Banks]], [[Indiana]] (2025–present)<ref name=EndTrack>{{cite web |url=https://votehub.com/2026-endorsements/ |title=2026 Endorsement Tracker |website=VoteHub |access-date=2026-03-20|date=8 January 2026}}</ref>
+*[[Todd Young]], [[Indiana]] (2017–present)<ref name=EndTrack/>
+
+;U.S. representatives
+*[[Erin Houchin]], [[IN-09]] (2023–present)<ref name="TwoRep"/>
+*[[Marlin Stutzman]], [[IN-03]] (2010–2017, 2025–present)<ref name=EndTrack/>
+*[[Rudy Yakym]], [[IN-02]] (2022–present)<ref name="TwoRep">{{cite web |last1=Carden |first1=Dan |title=Two Hoosier Republicans in Congress endorse Regnitz bid for US House |url=https://nwitimes.com/news/local/government-politics/elections/article_7c55f7e8-a20a-4019-be1a-868957771f2c.html |website=NWI Times |access-date=12 March 2026 |language=en |date=11 March 2026}}</ref>
+
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCR3">{{cite web |title=Log Cabin Republicans PAC Announces Third Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-third-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=8 August 2026 |date=May 26, 2026}}</ref>
+*[[Maggie's List]]<ref name="Earn">{{cite web |url=https://maggieslist.org/gruters-regnitz-spartz-houchin-earn-maggies-list-endorsements/ |title=Gruters, Regnitz, Spartz, Houchin Earn Maggie's List Endorsements |website=maggieslist.org |date=March 30, 2026 |access-date=April 29, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Barb Regnitz (R)
+|$1,640,600{{efn|1,500,000 of this total was self-funded by Regnitz.}}
+|$463,688
+|$1,176,912
+|-
+|{{party shading/Republican}}|Ben Ruiz (R)
+|$1,252
+|$1,799
+|$0
+|-
+|{{party shading/Republican}}|Jim Schenke (R)
+|$58,804
+|$52,768
+|$6,036
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+{{notelist}}
+
+====Results====
+[[File:2026 IN-01 GOP primary results by county.svg|thumb|210px|Results by county:{{Collapsible list
+| title = {{legend|#E27F7F|Regnitz}}|{{legend|#FFB2B2|40–50%}}|{{legend|#D75D5D|60–70%}}}}{{Collapsible list
+| title = {{legend|#FF9A50|Schenke}}|{{legend|#ffcca9|30–40%}}
+}}]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Barb Regnitz|votes=13,007|percentage=45.8}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=James Kent Schenke|votes=8,562|percentage=30.1}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Ben Ruiz|votes=6,852|percentage=24.1}}
+{{Election box total no change|votes=28,421|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Likely|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Likely|D}}
+|June 11, 2026 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|D}}
+|May 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Frank Mrvan (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO">{{cite web |title=Indiana AFL-CIO Labor 2026 Endorsements |website=Indiana State AFL-CIO |url=https://inaflcio.org/elajfklasdf/labor-2026 |access-date=October 25, 2026}}</ref>
+;Organizations
+*[[J Street]]<ref>{{cite web |title=Frank Mrvan |url=https://jstreetpac.org/candidate/frank-mrvan/ |publisher=J Street PAC |access-date=September 30, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Frank Mrvan (D)
+|$3,035,422
+|$2,351,655
+|$772,227
+|-
+|{{party shading/Republican}}|Barb Regnitz (R)
+|$2,755,770{{efn|1,500,000 of this total was self-funded by Regnitz.}}
+|$2,251,535
+|$504,235
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Frank J. Mrvan|Frank Mrvan]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Barb Regnitz
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Indiana's 2nd congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Rudy Yakym official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Rudy Yakym]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Jamee Decio
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 2nd congressional district election results map by county.svg|150px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Rudy Yakym]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 2nd congressional district}}
+The 2nd district is located in north central Indiana taking in [[Michiana]], including [[South Bend, Indiana|South Bend]], [[Mishawaka, Indiana|Mishawaka]], [[Elkhart, Indiana|Elkhart]], and [[Warsaw, Indiana|Warsaw]]. The incumbent is Republican [[Rudy Yakym]], who was re-elected with 62.7% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Rudy Yakym]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1853047 |url=https://docquery.fec.gov/cgi-bin/forms/H2IN02295/1853047/ |access-date=2025-09-21 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Rudy Yakym
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Rudy Yakym (R)
+|$4,026,298
+|$3,517,775
+|$1,118,102
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Indiana 2nd |url=https://www.fec.gov/data/elections/house/IN/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Rudy Yakym]] (incumbent)|votes=41,228|percentage=100.0}}
+{{Election box total no change|votes=41,228|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Jamee Decio, attorney<ref>{{cite news |last1=Bratt |first1=Emma |title=Elkhart Democrat to challenge Republican incumbent Rudy Yakym for Indiana's 2nd District seat |url=https://www.wndu.com/2025/11/17/elkhart-democrat-challenge-republican-incumbent-rudy-yakym-indianas-2nd-district-seat/ |access-date=November 24, 2025 |work=[[WNDU-TV]] |date=November 17, 2025}}</ref>
+
+====Eliminated in primary====
+*Shaun Maeyens, middle school teacher<ref>{{cite web |last1=Short |first1=Joshua |title=South Bend teacher enters race for Indiana's 2nd Congressional District |url=https://www.wndu.com/2026/02/23/south-bend-teacher-enters-race-indianas-2nd-congressional-district/ |website=WNDU |access-date=24 February 2026 |language=en |date=23 February 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jamee Decio (D)
+|$279,879
+|$141,898
+|$137,981
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+[[File:2026 IN-02 Democratic primary results by county.svg|thumb|150px|Results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Allen}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Jamee Decio|votes=18,142|percentage=72.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Shaun Maeyens|votes=7,027|percentage=27.9}}
+{{Election box total no change|votes=25,169|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian convention===
+====Nominated====
+*William Henry, nominee for this district in [[2024 United States House of Representatives elections in Indiana#District 2|2024]]<ref>{{cite news |last1=Davies |first1=Tom |title=Indiana Libertarians nominate Lauri Shillings for secretary of state |url=https://indianacapitalchronicle.com/briefs/indiana-libertarians-nominate-lauri-shillings-for-secretary-of-state/ |access-date=March 23, 2026 |work=[[Indiana Capital Chronicle]] |date=March 23, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Rudy Yakym (R)
+|$5,246,030
+|$5,000,296
+|$855,313
+|-
+|{{party shading/Democratic}}|Jamee Decio (D)
+|$355,589
+|$251,093
+|$104,496
+|-
+|{{party shading/Libertarian}}|William Henry (L)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Indiana's 3rd congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = Marlin Stutzman, official portrait (119th Congress) (cropped).jpg
+| nominee1 = [[Marlin Stutzman]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kelly Thompson
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 3rd congressional district election results map by county.svg|110px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Marlin Stutzman]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 3rd congressional district}}
+The 3rd District encompasses Northeast Indiana, which is anchored by the [[Fort Wayne, Indiana|Fort Wayne]] metropolitan area, also includes the cities of [[Huntington, Indiana|Huntington]], [[Auburn, Indiana|Auburn]], [[Angola, Indiana|Angola]], [[Bluffton, Indiana|Bluffton]], [[Decatur, Indiana|Decatur]], and [[Kendallville, Indiana|Kendallville]]. The incumbent is Republican [[Marlin Stutzman]], who was elected with 65.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Marlin Stutzman]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1851985 |url=https://docquery.fec.gov/cgi-bin/forms/H4IN03174/1851985/ |access-date=2025-12-11 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*Jon Kenworthy, staffer for former Senator [[Mike Braun]] and candidate for this district in [[2024 United States House of Representatives elections in Indiana#District 3|2024]]<ref name="CandidateList">{{cite web |title=2026 Primary Candidate List |url=https://www.in.gov/sos/elections/ |website=Indiana Secretary of State |date=January 14, 2021 |publisher=State of Indiana |access-date=17 February 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Marlin Stutzman
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name=EndTrack/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-marlin-stutzman-for-in-03/|title=Freedom Caucus Fund Endorses Marlin Stutzman for IN-03|date=April 1, 2026|access-date=September 15, 2026}}</ref>
+*[[Political Victory Fund|NRA Political Victory Fund]]<ref name=NRA>{{cite web|url=https://www.nrapvf.org/grades/Indiana/|title=Indiana|date= |publisher=nrapvf.org|access-date=April 13, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Marlin Stutzman (R)
+|$618,303
+|$446,300
+|$221,320
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Indiana 3rd |url=https://www.fec.gov/data/elections/house/IN/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 IN-03 GOP primary results by county.svg|thumb|110px|Results by county:{{Collapsible list
+| title = {{legend|#E27F7F|Stutzman}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#d72f30|70–80%}}}}{{Collapsible list
+| title = {{legend|#FF9A50|Kenworthy}}|{{legend|#EE8E50|60–70%}}
+}}]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Marlin Stutzman]] (incumbent)|votes=39,730|percentage=68.2}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Jon Kenworthy|votes=18,543|percentage=31.8}}
+{{Election box total no change|votes=58,273|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Kelly Thompson, nonprofit founder and nominee for Indiana's 22nd House district in [[2020 Indiana House of Representatives election#District 22|2020]]<ref>{{cite web |last1=Patterson |first1=Deb |date=September 8, 2025 |title=Local Democrats Hear Messages Of Encouragement, Promises, Call To Action |url=https://timesuniononline.com/stories/local-democrats-hear-messages-of-encouragement-promises-call-to-action,245911 |access-date=September 17, 2025 |website=Times-Union}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kelly Thompson (D)
+|$56,687
+|$43,633
+|$13,054
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Kelly Thompson|votes=21,146|percentage=100.0}}
+{{Election box total no change|votes=21,146|percentage=100.0}}
+{{Election box end}}
+
+===Independent===
+====Declared====
+
+* Phillip D. Beachy, semi-retired carpenter and refrigerator technician ''(write in)''<ref name=":0">{{Cite web |last=Division |first=Election |date=2021-05-14 |title=Candidate Information |url=https://www.in.gov/sos/elections/candidate-information/ |access-date=2026-04-04 |website=Election Division |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Marlin Stutzman (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=http://uschamber.com/improving-government/u-s-chamber-endorses-rep-marlin-stutzman-for-indianas-third-congressional-district-on-national-free-enterprise-express-opportunity-tour|title=U.S. Chamber Endorses Rep. Marlin Stutzman for Indiana's Third Congressional District on National Free Enterprise Express Opportunity Tour|date=October 2, 2026|access-date=October 5, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Kelly Thompson (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO"/>
+;Organizations
+*[[National Organization for Women]]<ref name="NOW">{{cite web |title=2026 Federal Endorsements |website=NOW PAC |publisher=National Organization for Women |url=https://nowpac.org/2026-federal-endorsements |archive-url=https://web.archive.org/web/20260930050144/https://nowpac.org/2026-federal-endorsements |archive-date=September 30, 2026 |access-date=October 24, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Marlin Stutzman (R)
+|$839,564
+|$786,959
+|$101,922
+|-
+|{{party shading/Democratic}}| Kelly Thompson (D)
+|$136,340
+|$130,300
+|$6,039
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Indiana |url=https://www.fec.gov/data/elections/house/IN/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 8, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Marlin Stutzman]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Kelly Thompson 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Indiana's 4th congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = Jim Baird 119th Congress (cropped).jpg
+| nominee1 = [[Jim Baird (politician)|Jim Baird]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Drew Cox
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 4th congressional district election results map by county.svg|130px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Jim Baird (politician)|Jim Baird]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 4th congressional district}}
+The 4th district is located in west-central Indiana taking in [[Lafayette, Indiana|Lafayette]] and the western suburbs of [[Indianapolis]]. The incumbent is Republican [[Jim Baird (politician)|Jim Baird]], who was re-elected with 64.8% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Jim Baird (politician)|Jim Baird]], incumbent U.S. representative<ref>{{cite news |title=Congressman Baird slams 'opponents' lies,' vows to keep fighting for 4th District |url=https://www.suncommercial.com/banner_graphic/article_30ab7523-7175-5c3a-b73d-ba9f4d273a65.html |access-date=August 14, 2025 |work=Vincennes Sun-Commercial |date=August 13, 2025}}</ref>
+
+====Eliminated in primary====
+*[[Craig Haggard]], [[Indiana House of Representatives|state representative]] for the 57th district (2022–present)<ref>{{cite news |last1=Downard |first1=Whitney |title=Haggard announces 4th congressional district campaign |url=https://indianacapitalchronicle.com/briefs/haggard-announces-4th-congressional-district-campaign/ |access-date=August 11, 2025 |work=[[Indiana Capital Chronicle]] |date=August 11, 2025}}</ref>
+*John Piper, restaurateur and candidate for this district in [[2024 United States House of Representatives elections in Indiana#District 4|2024]]<ref name="CandidateList"/>
+
+====Endorsements====
+{{endorsements box
+| title = Jim Baird
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Firesoff">{{cite web |last1=Murphy |first1=Ryan |title=Trump endorses Spartz, other Indiana members of Congress for re-election. Here's who else |url=https://www.indystar.com/story/news/politics/2026/01/23/trump-indiana-congress-representatives-for-re-election-truth-social-spartz-baird-houchins-shreve/88326534007/ |website=The Indianapolis Star |access-date=24 January 2026}}</ref>
+;U.S. representatives 
+*[[Jim Jordan]], [[Ohio's 4th congressional district|OH-04]] (2007–present)<ref name=EndTrack/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[American Farm Bureau Federation#List of state Farm Bureaus|Indiana Farm Bureau AgELECT PAC]]<ref name="INFBE"/>
+*[[Political Victory Fund|NRA Political Victory Fund]]<ref name="NRA"/>
+}}
+{{endorsements box
+| title = Craig Haggard
+| list =
+;Statewide officials
+*[[Todd Rokita]], [[Indiana Attorney General|attorney general of Indiana]] (2021–present) and former {{ushr|in|4|IN-04}} (2011–2019)<ref>{{cite web |last=Davies|first=Tom|title=Indiana attorney general backs challenger to US Rep. Jim Baird|url=https://indianacapitalchronicle.com/briefs/indiana-attorney-general-backs-challenger-to-us-rep-jim-baird/|work=[[States Newsroom|Indiana Capital Chronicle]]|date=March 30, 2025}}</ref>
+;Organizations
+*[[Armenian National Committee of America]]<ref>{{cite web|url=https://armenianweekly.com/2025/10/04/anca-endorses-craig-haggard-for-indianas-4th-congressional-district/|title=ANCA endorses Craig Haggard for Indiana's 4th Congressional District |date=October 4, 2025 |access-date=October 4, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jim Baird (R)
+|$194,545
+|$268,477
+|$140,677
+|-
+|{{party shading/Republican}}|Craig Haggard (R)
+|$118,710
+|$57,627
+|$121,725
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Indiana 4th |url=https://www.fec.gov/data/elections/house/IN/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 IN-04 GOP primary results by county.svg|thumb|130px|Results by county:{{Collapsible list
+| title = {{legend|#E27F7F|Baird}}|{{legend|#ffb2b2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#d72f30|70–80%}}}}]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Jim Baird (politician)|Jim Baird]] (incumbent)|votes=37,855|percentage=60.5}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Craig Haggard]]|votes=19,102|percentage=30.5}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=John Piper|votes=5,596|percentage=8.9}}
+{{Election box total no change|votes=62,553|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Drew Cox, veteran and instructor at [[Purdue University]]<ref name="Vincennes">{{cite news |title=Democratic congressional candidates coming to Greencastle |url=https://www.suncommercial.com/banner_graphic/article_6fb33615-627f-5370-9024-ea29478e8498.html |access-date=February 17, 2026 |work=[[Vincennes Sun-Commercial]] |date=February 12, 2026}}</ref>
+
+====Eliminated in primary====
+*Roger Day, retiree and nominee for this district in [[2022 United States House of Representatives elections in Indiana#District 4|2022]]<ref name="CandidateList"/>
+*Darin Patrick Griesey, farmer<ref name="Vincennes"/>
+*Thomas Hall, welder<ref name="Vincennes"/>
+*Robert Lovely<ref name="CandidateList"/>
+*Joe Mackey, retired machinist and nominee for this district in [[2020 United States House of Representatives elections in Indiana#District 4|2020]]<ref name="Vincennes"/>
+*Jayden McCash, truck driver<ref name="CandidateList"/>
+*Paul McPherson, engineer and instructor at [[Purdue University]]<ref name="Vincennes"/>
+*John Whetstone, game store owner<ref name="Vincennes"/>
+
+====Endorsements====
+{{Endorsements box|title=Drew Cox|list=;Organizations
+
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Joe Mackey (D)
+|$150
+|$0
+|$150
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+[[File:2026 IN-04 Democratic primary results by county.svg|thumb|130px|Results by county:{{Collapsible list
+| title = {{legend|#7996e2|Cox}}|{{legend|#dfeeff|20–30%}}|{{legend|#bdd3ff|30–40%}}}}{{Collapsible list
+| title = {{legend|#51c2c2|Mackey}}|{{legend|#d0f9f9|20–30%}}|{{legend|#ACF2F2|30–40%}}
+}}{{Collapsible list
+| title = {{legend|#d79346|McPherson}}|{{legend|#F9E1C6|30–40%}}}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Drew Cox|votes=7,550|percentage=30.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Joe Mackey|votes=5,671|percentage=22.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Paul McPherson|votes=3,136|percentage=12.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jayden McCash|votes=1,965|percentage=7.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Darin Patrick Griesey|votes=1,711|percentage=6.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=John Whetstone|votes=1,699|percentage=6.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Thomas Hall|votes=1,635|percentage=6.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Roger Day|votes=1,507|percentage=6.1}}
+{{Election box total no change|votes=24,874|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Drew Cox (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Jim Baird (R)
+|$358,292
+|$481,341
+|$91,560
+|-
+|{{party shading/Democratic}}| Drew Cox (D)
+|$20,377
+|$13,514
+|$6,862
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Jim Baird (politician)|Jim Baird]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Drew Cox 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Indiana's 5th congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = Victoria Spartz 117th U.S Congress (cropped).jpg
+| nominee1 = [[Victoria Spartz]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Jd-ford-statehouse-official.jpg
+| nominee2 = [[J. D. Ford]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 5th congressional district election results map by county.svg|200px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Victoria Spartz]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 5th congressional district}}
+The 5th district encompasses suburbs north of [[Indianapolis]] including [[Carmel, Indiana|Carmel]], [[Fishers, Indiana|Fishers]], and [[Noblesville, Indiana|Noblesville]], as well as the cities of [[Muncie, Indiana|Muncie]], [[Marion, Indiana|Marion]], and parts of [[Kokomo, Indiana|Kokomo]]. The incumbent is Republican [[Victoria Spartz]], who was re-elected with 56.6% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Victoria Spartz]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848766 |url=https://docquery.fec.gov/cgi-bin/forms/H0IN05326/1848766/ |access-date=2025-12-11 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*Scott King<ref name="Herald">{{cite news |last1=de la Bastide |first1=Ken |title=5 Democrats running for Congress in Spartz's district |url=https://www.heraldbulletin.com/news/local_news/5-democrats-running-for-congress-in-spartzs-district/article_f6027145-cf47-4826-90ec-2bbfed27a6a4.html |access-date=February 18, 2026 |work=[[The Herald Bulletin]] |date=January 30, 2026}}</ref>
+
+====Endorsements====
+{{endorsements box
+| title = Victoria Spartz
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Firesoff"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Maggie's List]]<ref name="Earn"/>
+*[[Political Victory Fund|NRA Political Victory Fund]]<ref name="NRA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Victoria Spartz (R)
+|$1,012,879
+|$1,061,417
+|$209,511
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Indiana 5th |url=https://www.fec.gov/data/elections/house/IN/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 IN-05 GOP primary results by county.svg|thumb|200px|Results by county:{{Collapsible list
+| title = {{legend|#e27f7f|Spartz}}|{{legend|#e27f7f|50–60%}}|{{legend|#d75d5d|60–70%}}}}{{Collapsible list
+| title = {{legend|#ff9a50|King}}|{{legend|#ff9a50|50–60%}}
+}}]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Victoria Spartz]] (incumbent)|votes=33,695|percentage=59.9}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Scott King|votes=22,526|percentage=40.1}}
+{{Election box total no change|votes=56,221|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[J. D. Ford]], state senator for the 29th district (2018–present)<ref>{{cite news |last1=Fowler |first1=Ashley |title=Democrat JD Ford to challenge Rep. Victoria Spartz in Indiana's 5th District |url=https://www.wishtv.com/news/ford-vs-spartz-indiana-5th/ |access-date=January 14, 2026 |work=[[WISH-TV]] |date=January 14, 2026}}</ref>
+
+====Eliminated in primary====
+*Steve Avit, healthcare professional<ref name="Herald"/>
+*Jackson Franklin, paramedic<ref>{{cite news |title=Protesters mach at state house once more in opposition to Trump |url=https://www.thestatehousefile.com/politics/protestors-march-at-statehouse-once-more-in-opposition-to-trump/article_afd4c110-f941-11ef-8b16-4343c982c2f4.html |access-date=June 15, 2025 |author=Crockett, Caleb |work=The Statehouse File |date=March 4, 2025 |quote=Jackson Franklin, 25, has launched a challenge to Republican Rep. Victoria Sparks for Indiana's fifth congressional district. |language=en}}</ref>
+*Phil Goss, educator and candidate for the 3rd district in [[2024 United States House of Representatives elections in Indiana#District 3|2024]]<ref name="CandidateList"/>
+*Dylan McKenna, technology salesman<ref name="Herald"/>
+*Tara Nelson, information technology professional and nominee for the 4th district in [[2012 United States House of Representatives elections in Indiana#District 4|2012]]<ref name="CandidateList"/>
+*Deborah Pickett, teacher and nominee for this district in [[2024 United States House of Representatives elections in Indiana#District 5|2024]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1912865 |url=https://docquery.fec.gov/cgi-bin/forms/H4IN05286/1912865/ |access-date=2025-09-17 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{endorsements box
+| title = J.D. Ford
+| list =
+;State legislators
+*[[Shelli Yoder]], minority leader of the [[Indiana State Senate]] from district 40 (2020–present)<ref name=EndTrack/>
+;Labor Unions
+*[[International Association of Fire Fighters|IAFF]] Local 1262<ref name=anderson>{{cite web|url=https://readthereporter.com/anderson-firefighters-pac-endorses-j-d-ford-for-congress/|title=Anderson Firefighters PAC endorses J.D. Ford for Congress |access-date=April 28, 2026|date=April 16, 2026}}</ref>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|SMART]]<ref name=anderson/>
+*[[United Auto Workers]] Region 2B<ref name=anderson/>
+}}
+{{endorsements box
+| title = Jackson Franklin
+| list =
+;Organizations
+*[[Track AIPAC]]<ref name="TrackAIPAC">{{cite web|url=https://www.trackaipac.com/endorsements#incumbents|title=Our Endorsed Incumbents|access-date=March 26, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|J. D. Ford (D)
+|$106,519
+|$105,060
+|$2,246
+|-
+|{{party shading/Democratic}}|Jackson Franklin (D)
+|$32,737
+|$22,340
+|$10,397
+|-
+|{{party shading/Democratic}}|Phil Goss (D)
+|$76,565
+|$77,212
+|$2,684
+|-
+|{{party shading/Democratic}}|Deborah Pickett (D)
+|$8,925
+|$11,676
+|$1,517
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+[[File:2026 IN-05 Democratic primary results by county.svg|thumb|200px|Results by county:{{Collapsible list
+| title = {{legend|#7996e2|Ford}}|{{legend|#dfeeff|20–30%}}|{{legend|#bdd3ff|30–40%}}|{{legend|#7996e2|50–60%}}}}{{Collapsible list
+| title = {{legend|#47cc9d|Franklin}}|{{legend|#cbffed|20–30%}}|{{legend|#b4ffe5|30–40%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[J.D. Ford]]|votes=17,608|percentage=42.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jackson Franklin|votes=7,023|percentage=17.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Deborah Pickett|votes=5,840|percentage=14.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Tara Nelson|votes=5,573|percentage=13.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Dylan McKenna|votes=3,098|percentage=7.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Phil Goss|votes=1,240|percentage=3.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Steven Avit|votes=1,022|percentage=2.5}}
+{{Election box total no change|votes=41,404|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|R}}
+|October 30, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Likely|R}}
+|October 15, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Likely|R}}
+|October 20, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Likely|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title= J.D. Ford (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Victoria Spartz (R)
+|$2,192,717
+|$1,935,845
+|$514,922
+|-
+|{{party shading/Democratic}}| J.D. Ford (D)
+|$1,410,737
+|$1,086,209
+|$324,529
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px"| Victoria<br />Spartz (R)
+! style="width:100px" |J.D.<br />Ford (D)
+! Undecided
+|-
+|rowspan="2" style="text-align:left;"|Quantus Insights (R)<ref>{{cite web |title=Indiana 5th: Spartz Leads Ford by 3 in Tight Race |url=https://quantusinsights.org/polling/f/indiana-5th-spartz-leads-ford-by-3-in-tight-race |publisher=Quantus Insights |access-date=October 27, 2026 |date=October 27, 2026}}</ref>
+|rowspan="2"|October 21–22, 2026
+|rowspan="2"|601 (LV)
+|rowspan="2"|±&nbsp;4.4%
+|{{party shading/Republican}}|'''45%'''
+|42%
+|13%{{Efn|"Someone else" with 2%; "Would not vote in this race" with 1%}}
+|-
+|{{party shading/Republican}}|'''47%'''{{Efn|With voters who lean towards a given candidate}}
+|45%
+|8%{{Efn|"Someone else" with 2%; "Would not vote in this race" with 1%}}
+|-
+|style="text-align:left;"|Expedition Strategies (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW from @washingtonsun🚨 |url=https://x.com/cjwarnke/status/2112877284684341727 |publisher=[[Twitter]] |access-date=October 22, 2026 |date=October 21, 2026}}</ref>{{efn-ua|name=HMP| Poll sponsored by House Majority PAC, which is focused on electing Democrats to the U.S. House of Representatives}}
+|September 30 – October 4, 2026
+|600 (LV)
+|–
+|{{party shading/Republican}}|'''48%'''
+|47%
+|5%
+|-
+|style="text-align:left;"|Impact Research (D)<ref>{{Cite tweet|user=DanSpehler|first=Dan|last=Spehler|number=2085077555984396724|title=NEW: JD Ford's campaign reacts to news that IN-5 is now on the DCCC's list of districts to flip as his campaign also reveals new internal poll showing them down 2pts within the MOE against incumbent Rep. Victoria Spartz's campaign, who we've also reached out to today for reaction|access-date=August 6, 2026}}</ref>{{efn-ua|name=Ford|Poll sponsored by Ford's campaign}}
+|July 16–20, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''48%'''
+|46%
+|6%
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 5th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Victoria Spartz]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[J.D. Ford]] 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Indiana's 6th congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Jefferson Shreve official photo, 119th Congress (cropped).jpg
+| nominee1 = [[Jefferson Shreve]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Cynthia Wirth
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 6th congressional district election results map by county.svg|200px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Jefferson Shreve]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 6th congressional district}}
+The 6th district is located in eastern and central [[Indiana]] including [[Columbus, Indiana|Columbus]] and [[Richmond, Indiana|Richmond]], some of [[Cincinnati]]'s Indiana suburbs, most of [[Indianapolis]]' southern suburbs, and a sliver of Indianapolis itself. The incumbent is Republican [[Jefferson Shreve]], who was elected with 63.9% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Jefferson Shreve]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1854717 |url=https://docquery.fec.gov/cgi-bin/forms/H4IN06185/1854717 |access-date=2025-12-11 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*Sarah Janisse Brown, former [[Fortville, Indiana|Fortville]] town councilor<ref name="Greenfield">{{cite news |last1=Joslin |first1=Grayson |title=Who is running in May's primaries? Check out the candidates |url=https://www.greenfieldreporter.com/2026/02/11/who-is-running-in-mays-primaries-check-out-the-candidates/ |access-date=February 18, 2026 |work=[[Daily Reporter (Greenfield, Indiana)|Daily Reporter]] |date=February 11, 2026}}</ref>
+
+====Endorsements====
+{{endorsements box
+| title = Jefferson Shreve
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Firesoff"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[American Farm Bureau Federation#List of state Farm Bureaus|Indiana Farm Bureau AgELECT PAC]]<ref name="INFBE"/>
+*[[Political Victory Fund|NRA Political Victory Fund]]<ref name="NRA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jefferson Shreve (R)
+|$2,296,135
+|$308,423
+|$2,119,426
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Indiana 6th |url=https://www.fec.gov/data/elections/house/IN/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 IN-06 GOP primary results by county.svg|thumb|200px|Results by county:{{Collapsible list
+| title = {{legend|#E27F7F|Shreve}}|{{legend|#E27F7F|50–60%}}}}]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Jefferson Shreve]] (incumbent)|votes=27,814|percentage=53.1}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Sarah Janisse Brown|votes=24,559|percentage=46.9}}
+{{Election box total no change|votes=52,373|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Cinde Wirth, anthropologist and nominee for this district in [[2022 United States House of Representatives elections in Indiana#District 6|2022]] and [[2024 United States House of Representatives elections in Indiana#District 6|2024]]<ref name="Greenfield"/>
+
+====Eliminated in primary====
+*Kory Amyx, university counselor<ref>{{cite news |title='Reverse town hall' will start campaign for Congress |url=https://www.newsexaminer.com/news/local/reverse-town-hall-will-start-campaign-for-congress/article_575df84f-f83c-5e3c-b170-2e763e034ecc.html |access-date=September 7, 2025 |work=Connersville News-Examiner |date=September 7, 2025 |language=en}}</ref>
+*Nick Baker, attorney<ref name=Greenfield/>
+*David Boyd, insurance adjuster<ref>{{Cite web |title=FEC Form 2 for Report FEC-1931318 |url=https://docquery.fec.gov/cgi-bin/forms/H6IN06255/1931318 |access-date=2026-01-08 |website=docquery.fec.gov}}</ref>
+
+====Results====
+[[File:2026 IN-06 Democratic primary results by county.svg|thumb|200px|Results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Wirth}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}{{collapsible list
+| title = {{legend|#51C2C2|Amyx}}
+|{{legend|#7DDDDD|40–50%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Cinde Wirth|votes=13,656|percentage=58.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Kory Amyx|votes=3,659|percentage=15.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Nick Baker|votes=3,131|percentage=13.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=David Boyd|votes=2,831|percentage=12.2}}
+{{Election box total no change|votes=23,277|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Jefferson Shreve (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-jefferson-shreve-for-indianas-sixth-district|title=U.S. Chamber Endorses Rep. Jefferson Shreve for Indiana's Sixth District|date=August 21, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Cinde Wirth (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO"/>
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260607014559/https://nwpc.org/endorsed-candidates |archive-date=June 7, 2026 |access-date=October 24, 2026}}</ref>
+*[[National Organization for Women]]<ref name="NOW"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Jefferson Shreve (R)
+|$2,426,804
+|$950,284
+|$1,608,234
+|-
+|{{party shading/Democratic}}| Cynthia Wirth (D)
+|$37,046
+|$30,400
+|$7,151
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 6th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Jefferson Shreve]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Cynthia Wirth 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Indiana's 7th congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = Andre Carson 116th Congress.jpg
+| nominee1 = [[André Carson]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Patrick McAuley
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 7th congressional district election results map by county.svg|200px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[André Carson]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 7th congressional district}}
+The 7th district is entirely located within [[Marion County, Indiana|Marion County]] and includes most of [[Indianapolis]], except for the southern side. The incumbent is Democrat [[André Carson]], who was re-elected with 68.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[André Carson]], incumbent U.S. representative<ref>{{Cite web |last=Solender |first=Andrew |date=2025-04-24 |title="There are more coming": House Democrats' headaches are about to get much worse |url=https://www.axios.com/2025/04/24/house-democrats-primary-challenges |access-date=2025-05-24 |website=Axios |language=en}}</ref>
+
+====Eliminated in primary====
+*Denise Paul Hatch, former [[Center Township, Marion County, Indiana|Center Township]] constable<ref name="msn.com">{{Cite web |title=Destiny Wells enters Democratic US House seventh district primary race| website=[[MSN]] |url=https://www.msn.com/en-us/news/politics/destiny-wells-enters-democratic-us-house-seventh-district-primary-race/ar-AA1VQ92N?ocid=BingNewsSerp}}</ref>
+*George Hornedo, former member of the [[Indiana Democratic Party]] State Central Committee<ref>{{Cite news |last=Mueller |first=Julia |date=April 9, 2025 |title=Democratic strategist challenging Rep. Andre Carson in Indiana |url=https://thehill.com/homenews/campaign/5240295-george-hornedo-andre-carson-indiana-challenger/ |access-date=April 9, 2025 |work=[[The Hill (newspaper)|The Hill]]}}</ref>
+*Destiny Wells, lawyer, nominee for [[Indiana Attorney General|Attorney General]] in [[2024 Indiana Attorney General election|2024]], and nominee for [[Secretary of State of Indiana|Secretary of State]] in [[2022 Indiana Secretary of State election|2022]]<ref name="msn.com"/>
+
+====Endorsements====
+{{Endorsements box
+|title=André Carson
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref>{{cite web |title=Indiana Primary Election 2026|url=https://cairaction.org/indiana/|publisher=CAIR Action |access-date=April 27, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Andre Carson |url=https://jstreetpac.org/candidate/andre-carson/ |publisher=J Street PAC |access-date=March 9, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|André Carson (D)
+|$641,825
+|$444,952
+|$646,296
+|-
+|{{party shading/Democratic}}|George Hornedo (D)
+|$203,889
+|$177,368
+|$26,520
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Indiana 7th |url=https://www.fec.gov/data/elections/house/IN/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[André Carson]] (incumbent)|votes=44,849|percentage=62.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Destiny Wells|votes=16,852|percentage=23.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=George Hornedo|votes=7,517|percentage=10.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Denise Paul Hatch|votes=2,646|percentage=3.7}}
+{{Election box total no change|votes=71,864|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Patrick McAuley, real estate associate<ref name="CandidateList"/>
+
+====Eliminated in primary====
+*Felipe Rios, nominee for Indiana's 99th House district in [[2024 Indiana House of Representatives election#District 99|2024]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1923851 |url=https://docquery.fec.gov/cgi-bin/forms/H6IN07410/1923851/ |access-date=2026-01-06 |website=docquery.fec.gov}}</ref>
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Patrick McAuley|votes=10,357|percentage=84.4}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Felipe Rios|votes=1,915|percentage=15.6}}
+{{Election box total no change|votes=12,272|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian convention===
+====Nominated====
+*James Sceniak, nominee for the 6th district in [[2024 United States House of Representatives elections in Indiana#District 6|2024]]<ref>{{cite news |last1=Doninger |first1=Katy |title=Libertarian Party of Indiana announces candidates for state and federal elections |url=https://www.wishtv.com/news/politics/libertarian-party-of-indiana-announces-candidates-for-state-and-federal-elections/ |access-date=March 23, 2026 |work=[[WISH-TV]] |date=March 21, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title= André Carson (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| André Carson (D)
+|$1,006,176
+|$834,249
+|$621,350
+|-
+|{{party shading/Republican}}| Patrick McAuley (R)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Libertarian}}| James Sceniak (L)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 7th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[André Carson]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Patrick McAuley 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = James Sceniak 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Indiana's 8th congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 8
+| next_year = 2028
+| image_size = x150px
+| image1 = Messmer Mark 119th Congress (cropped).jpg
+| nominee1 = [[Mark Messmer]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| nominee2 = Mary Allen
+| image2 = Mary Allen IN-8.png
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 8th congressional district election results map by county.svg|150px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Mark Messmer]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 8th congressional district}}
+The 8th district is located in [[Southwestern Indiana|southwest]] and west central Indiana, the district is anchored in [[Evansville, Indiana|Evansville]] and also includes [[Jasper, Indiana|Jasper]], [[Princeton, Indiana|Princeton]], [[Terre Haute, Indiana|Terre Haute]], [[Vincennes, Indiana|Vincennes]] and [[Washington, Indiana|Washington]]. The incumbent is Republican [[Mark Messmer]], who was elected with 68.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Mark Messmer]], incumbent U.S. representative<ref name="Messmer">{{cite news |last1=Langhorne |first1=Thomas B. |title=Messmer makes it official: He will seek re-election to Congress |url=https://www.courierpress.com/story/news/politics/2025/08/05/messmer-makes-it-official-he-will-seek-re-election-to-congress/85528535007/ |access-date=August 5, 2025 |work=[[Evansville Courier & Press]] |date=August 5, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Mark Messmer
+|list=
+;U.S. Executive Branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="Messmer"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mark Messmer (R)
+|$701,391
+|$364,487
+|$544,009
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Indiana 8th |url=https://www.fec.gov/data/elections/house/IN/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Mark Messmer]] (incumbent)|votes=52,249|percentage=100.0}}
+{{Election box total no change|votes=52,249|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Mary Allen, at-large [[Evansville, Indiana|Evansville]] city councilor (2023–present)<ref>{{cite news |last1=Jagielo |first1=Tim |title=Evansville City Council member vies for District 8 US House seat in 2026 |url=https://indianapublicradio.org/news/2025/08/mary-allen-vies-for-district-8-us-rep-seat-in-2026/ |access-date=August 5, 2025 |work=[[WBST]] |date=August 5, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+*Mario Foradori, substitute teacher<ref name="Evansville">{{cite news |last1=Langhorne |first1=Thomas B. |title=Can 3 'other' Dem candidates compete with Allen for 8th District nomination? |url=https://www.courierpress.com/story/news/politics/2026/02/10/whos-running-for-8th-district-democrat-nomination-for-congress/88527966007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116724p000850c000850v116724d--32--b--32--&gca-ft=232&gca-ds=sophi |access-date=February 18, 2026 |work=[[Evansville Courier & Press]] |date=February 10, 2026}}</ref>
+*Christopher Rector, retired army veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1910659 |url=https://docquery.fec.gov/cgi-bin/forms/H6IN08301/1910659/ |access-date=2025-09-17 |website=docquery.fec.gov}}</ref>
+*Tabitha Zeigler, activist<ref name="Evansville"/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Mary Allen (D)
+|$119,802
+|$36,931
+|$82,871
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Results====
+[[File:2026 IN-08 Democratic primary results by county.svg|thumb|150px|Results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Allen}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Mary Allen|votes=18,816|percentage=66.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Tabitha Zeigler|votes=4,308|percentage=15.3}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Christopher Rector|votes=3,321|percentage=11.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Mario Foradori|votes=1,758|percentage=6.2}}
+{{Election box total no change|votes=28,203|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Mark Messmer (R)
+|$1,171,366
+|$664,971
+|$713,500
+|-
+|{{party shading/Democratic}}| Mary Allen (D)
+|$294,502
+|$115,194
+|$179,307
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 8th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mark Messmer]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Mary Allen 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 9==
+{{Infobox election
+| election_name = 2026 Indiana's 9th congressional district election
+| country = Indiana
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Indiana#District 9
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Indiana#District 9
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Erin Houchin official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Erin Houchin]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Brad Meyer
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Indiana's 9th congressional district election results map by county.svg|200px]]|County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Erin Houchin]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Indiana's 9th congressional district}}
+The 9th district is located in south-central and southeastern Indiana, the district stretches from the south suburbs of [[Indianapolis]] to the Indiana side of the [[Louisville metropolitan area]]. The incumbent is Republican [[Erin Houchin]], who was re-elected with 64.5% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Erin Houchin]], incumbent U.S. representative<ref>{{cite news |last1=Ladwig |first1=Boris |title=Indiana's Houchin runs again, as data challenges her economic claims |url=https://www.heraldtimesonline.com/story/news/local/2026/02/04/with-trumps-backing-houchin-seeks-another-term-in-indianas-9th-where-democrats-havent-won-since-1998/88481119007/ |access-date=February 4, 2026 |work=[[The Herald-Times]] |date=February 4, 2026}}</ref>
+
+====Endorsements====
+{{endorsements box
+| title = Erin Houchin
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Firesoff"/>
+
+;U.S. representatives
+*[[August Pfluger]], [[TX-11]] (2021–present)<ref name="EndTrack"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Maggie's List]]<ref name="Earn"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Erin Houchin (R)
+|$1,084,190
+|$681,892
+|$1,144,341
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9">{{cite web |title=2026 Election United States House - Indiana 9th |url=https://www.fec.gov/data/elections/house/IN/09/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 26, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Erin Houchin]] (incumbent)|votes=51,165|percentage=100.0}}
+{{Election box total no change|votes=51,165|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Brad Meyer, retired civil engineer<ref>{{cite web |title=Brad Meyer for Congress to host Universal Healthcare Forum with expert panel |url=https://www.wbiw.com/2025/07/17/brad-meyer-for-congress-to-host-universal-healthcare-forum-with-expert-panel/ |access-date=February 8, 2026 |work=[[News and Tribune]] |date=February 2, 2026}}</ref>
+
+====Eliminated in primary====
+*Jim Graham, retired college professor<ref>{{cite web |title=Jim Graham for Congress |website=[[Facebook]] |url=https://www.facebook.com/JimGrahamForCongress/posts/pfbid02QP7t9CAHhMw1pahzaG5c3Hv6826EPPhSuQAArHHWgxgkuPvKgyDA5nu2e4jdCSBXl |access-date=February 8, 2026 |date=February 6, 2026}}</ref>
+*Tim Peck, doctor and nominee for this district in [[2024 United States House of Representatives elections in Indiana#District 9|2024]]<ref name=peck>{{cite web |title=New Washington's Tim Peck making second run for Congress |url=https://www.madisoncourier.com/news/new-washingtons-tim-peck-making-second-run-for-congress/article_3bffd617-b206-5327-8613-d5fe94786232.html |author=Demaree, Bob |date=July 28, 2025 |work=[[Madison Courier]]}}</ref>
+*Keil Roark, electrical engineer and nominee for Indiana's 72nd House district in [[2022 Indiana House of Representatives election#District 72|2022]]<ref>{{cite news |title=Roark running for 9th District U.S. House seat |url=https://www.newsandtribune.com/news/roark-running-for-9th-district-u-s-house-seat/article_e3422d4f-adb7-4038-bca0-44987bd875b2.html |access-date=February 7, 2026 |work=[[News and Tribune]] |date=July 17, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jim Graham (D)
+|$122,547
+|$117,665
+|$4,881
+|-
+|{{party shading/Democratic}}|Brad Meyer (D)
+|$39,823
+|$27,344
+|$8,835
+|-
+|{{party shading/Democratic}}|Tim Peck (D)
+|$106,519
+|$105,060
+|$2,246
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+====Results====
+[[File:2026 IN-09 Democratic primary results by county.svg|thumb|200px|Results by county:{{Collapsible list
+| title = {{legend|#7996e2|Meyer}}|{{legend|#dfeeff|20–30%}}|{{legend|#bdd3ff|30–40%}}|{{legend|#A5B0FF|40–50%}}|{{legend|#7996E2|50–60%}}}}{{Collapsible list
+| title = {{legend|#51c2c2|Peck}}|{{legend|#7EE5C1|40–50%}}
+}}{{Collapsible list
+| title = {{legend|#FFB380|Graham}}|{{legend|#FEE5D5|30–40%}}}}]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Brad Meyer|votes=12,788|percentage=37.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Tim Peck|votes=11,181|percentage=33.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=James Graham|votes=5,833|percentage=17.3}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Keil Roark|votes=3,935|percentage=11.7}}
+{{Election box total no change|votes=33,737|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Declared====
+*Tonya Hudson, realtor and former vice-chair of the [[Libertarian Party of Indiana]]<ref>{{cite web |title=Tonya Hudson seeking Libertarian nomination for US House of Representatives |url=https://www.wbiw.com/2025/12/08/tonya-hudson-seeking-libertarian-nomination-for-us-house-of-representatives/ |access-date=December 8, 2025 |work=[[WBIW]] |date=December 8, 2025}}</ref>
+
+===Independent===
+====Declared====
+*Floyd Taylor, cybersecurity professional<ref>{{Cite web |title=District 9 candidates meet Bloomington at Monroe County Dems open house |url=https://www.idsnews.com/article/2026/02/district-9-election-candidates-monroe-county-democrats-open-house |access-date=2026-04-04 |website=District 9 candidates meet Bloomington at Monroe County Dems open house - Indiana Daily Student |language=en-US}}</ref><ref name=":0" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Floyd Taylor (I)
+|$0
+|$7,921
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Safe|R}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Erin Houchin (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-erin-houchin-for-indianas-ninth-district|title=U.S. Chamber Endorses Rep. Erin Houchin for Indiana's Ninth District|date=August 18, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title= Brad Meyer (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Indiana State AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Debates====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 United States House of Representatives elections in Indiana 9th congressional district healthcare debate 
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! colspan="10" scope="col" | Participants
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Non-invitee&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Democratic Party (United States)}}"|
+! scope="col" style="background:{{party color|Libertarian Party (United States)}}"|
+! scope="col" style="background:{{party color|Independent (United States)}}"|
+|-
+! scope="col" style="width:60px;" | Houchin
+! scope="col" style="width:60px;" | Davidson
+! scope="col" style="width:60px;" | Graham
+! scope="col" style="width:60px;" | McCartney
+! scope="col" style="width:60px;" | Meyer
+! scope="col" style="width:60px;" | Peck
+! scope="col" style="width:60px;" | Roark
+! scope="col" style="width:60px;" | Voyles
+! scope="col" style="width:60px;" | Hudson
+! scope="col" style="width:60px;" | Taylor
+|-
+! scope="row" | 1
+| style="white-space:nowrap;" | November 8, 2025
+| style="white-space:nowrap;" | Franklin & Ripley County Democratic Parties
+| style="white-space:nowrap;" | Rachael Chatham
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=s4qmKcmGeVY Video]
+| {{Yes-No|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes-No|'''A'''}}
+| {{No|'''W'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Erin Houchin (R)
+|$1,856,572
+|$1,415,550
+|$1,183,065
+|-
+|{{party shading/Democratic}}| Brad Meyer (D)
+|$105,510
+|$81,900
+|$17,840
+|-
+|{{party shading/Libertarian}}| Tonya Hudson (L)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Independent}}| Floyd Taylor (I)
+|$0
+|$9,586
+|$-1,664
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Indiana's 9th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Erin Houchin]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Brad Meyer 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Tonya Hudson 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Floyd Taylor 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+*[https://mrvanforcongress.com/ Frank Mrvan (D)]
+*[https://barbregnitzforcongress.com/ Barb Regnitz (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://decioforcongress.com/ Jamee Decio (D)]
+*[https://www.williamhenry.us/ William Henry (L)]
+*[https://rudyforindiana.com/ Rudy Yakym (R)]
+
+;Official campaign websites for 3rd district candidates
+*[https://beachyforcongress.com/ Phillip Beachy (I)]
+*[https://www.gomarlin.com/ Marlin Stutzman (R)]
+*[https://www.kellythompsonforcongress.com/ Kelly Thompson (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://www.drewcox.org/ Drew Cox (D)]
+
+;Official campaign websites for 5th district candidates
+*[https://www.electjdford.com/ J.D. Ford (D)]
+*[https://www.spartzforcongress.com/ Victoria Spartz (R)]
+
+;Official campaign websites for 6th district candidates
+*[https://teamshreve.com/ Jefferson Shreve (R)]
+*[https://www.wirth4congress.com/ Cinde Wirth (D)]
+
+;Official campaign websites for 7th district candidates
+*[https://andrecarson.com/ André Carson (D)]
+*[https://mcauleyforthe7th.com/ Patrick McAuley (R)]
+
+;Official campaign websites for 8th district candidates
+*[https://www.maryallenforcongress.com/ Mary Allen (D)]
+*[https://www.markmessmer.com/ Mark Messmer (R)]
+
+;Official campaign websites for 9th district candidates
+*[https://tonyaforcongress.com/ Tonya Hudson (L)]
+*[https://www.bradmeyer.org/ Brad Meyer (D)]
+*[https://www.erinhouchin.com/ Erin Houchin (R)]
+*[http://www.floyd2026.com/ Floyd Taylor (I)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:2026 elections in Indiana]]
+[[Category:United States House of Representatives elections in Indiana|2026]]
+[[Category:2026 United States House of Representatives elections|Indiana]]

@@ -1,0 +1,369 @@
+{{Short description|none}}
+{{Use American English|date=February 2026}}
+<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+
+{{use mdy dates|date=June 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives election in South Dakota's at-large district
+| country = South Dakota
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives election in South Dakota
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives election in South Dakota
+| next_year = 2028
+| turnout = 
+| image1 = US District Attorney Marty Jackley (3x4 crop).png
+| nominee1 = [[Marty Jackley]] 
+| party1 = Republican Party (United States)
+| popular_vote1 =  
+| percentage1 =  
+| image2 = 3x4.svg
+| nominee2 = Nikki Gronli
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 =  
+| map_image = 
+| map_size = 250px
+| map_caption =  
+| title = U.S. Representative
+| before_election = [[Dusty Johnson]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party = 
+}}
+{{Elections in South Dakota sidebar}}
+The '''2026 United States House of Representatives election in South Dakota''' is scheduled to be held on November 3, 2026, to elect a member of the [[United States House of Representatives]] to represent the [[U.S. state|state]] of [[South Dakota]] from its {{ushr|SD|AL|D}}. The election will coincide with [[2026 South Dakota elections|other elections]] held on the same date. The primary elections will be held on June 2, 2026, and in races where no candidate receives at least 35% in a primary, runoff elections took place on July 28.<ref>{{Cite web |title=South Dakota 2026 General Election |url=https://www.thegreenpapers.com/G26/SD |access-date=2025-06-13 |website=The Green Papers}}</ref>
+
+Incumbent [[Republican Party (United States)|Republican]] representative [[Dusty Johnson]] was re-elected with 72.0% of the vote in 2024.<ref>{{Cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=2025-06-13 |website=[[Cook Political Report]] |language=en}}</ref>
+
+[[Primary election]]s were held on June 2, 2026. Jackley received 79.2% of the vote against minimal opposition and Gronli ran unopposed for their respective party's nominations. Republicans have not lost a Congressional election in South Dakota since [[2008 United States House of Representatives election in South Dakota|2008]].
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Marty Jackley]], [[South Dakota Attorney General]] (2009–2019, 2023–present) and candidate for [[Governor of South Dakota|governor]] in [[2018 South Dakota gubernatorial election|2018]]<ref>{{Cite web |last=Dausch |first=Dominik |date=June 27, 2025 |title=Marty Jackley plans to run for US Rep. Dusty Johnson's job. Here's what we know |url=https://www.argusleader.com/story/news/politics/2025/06/27/marty-jackley-to-run-for-us-house-of-representatives-congress-south-dakota/84389067007/ |website=[[Argus Leader]]}}</ref><ref>{{Cite web |last=staff |first=Dakota News Now |date=2026-04-01 |title=AG Marty Jackley qualifies for U.S. House of Representatives election ballot |url=https://www.dakotanewsnow.com/2026/04/01/ag-marty-jackley-qualifies-us-house-representatives-election-ballot/ |access-date=2026-04-01 |website=Dakota News Now |language=en}}</ref>
+==== Eliminated in primary ====
+*James Bialota Jr., small business owner and real estate investor<ref>{{cite web |title=2026 Primary Election Candidate List Candidate List |url=https://vip.sdsos.gov/candidatelist.aspx?eid=773 |publisher=South Dakota Secretary of State |access-date=April 7, 2026 |language=en}}</ref>
+
+==== Withdrawn ====
+*[[Casey Crabtree]], [[South Dakota Senate|state senator]] from the [[South Dakota's 8th legislative district|8th district]] (2020–present) and former Majority Leader of the South Dakota Senate ''(endorsed Jackley)''<ref>{{cite news |url=https://www.keloland.com/news/local-news/casey-crabtree-exits-congress-race-backs-jackley/ |title=Casey Crabtree exits Congress race, backs Jackley |website=keloland.com |date=2026-02-27 |access-date=2026-04-18}}</ref>
+
+==== Declined ====
+*[[Dusty Johnson]], incumbent U.S. representative ''([[2026 South Dakota gubernatorial election|ran for governor]])''<ref>{{cite web |last1=Hill |first1=Meredith Lee |title=Rep. Dusty Johnson to announce a bid for South Dakota governor Monday |url=https://www.politico.com/live-updates/2025/06/27/congress/dusty-johnson-run-south-dakota-governor-race-00430268 |website=[[Politico]] |access-date=June 28, 2025 |date=June 27, 2025 |ref=govdusty}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=James Bialota
+|list=
+;State legislators
+*[[Aaron Aylward]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 6th legislative district|6th district]] (2021–present)<ref>{{Cite web |last=Dakota War College|url=https://dakotawarcollege.com/bialota-receives-aylward-endorsement-in-congressional-race/ |title=Bialota receives Aylward endorsement in Congressional race|access-date=14 April 2026|website=Dakota War College}}</ref>
+*[[Phil Jensen]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 33rd legislative district|33rd district]] (2009–2013, 2021–present) and former [[South Dakota State Senate|state senator]] from the [[South Dakota's 33rd legislative district|33rd district]] (2013–2021)<ref>{{cite web |title=Of course, there’s that other endorsement for Congress. |url=https://dakotawarcollege.com/of-course-theres-that-other-endorsement-for-congress/ |website=South Dakota War College |access-date=27 April 2026 |date=25 April 2026}}</ref>
+}}
+{{Endorsements box
+|title=Marty Jackley
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web |last=Dakota War College |date=March 12, 2026 |title=Trump endorses Marty Jackley for Congress |url=https://dakotawarcollege.com/trump-endorses-marty-jackley-for-congress/ |access-date=March 12, 2026 |website=Dakota War College}}</ref>
+
+;State legislators
+*[[Casey Crabtree]], [[South Dakota Senate|state senator]] from the [[South Dakota's 8th legislative district|8th district]] (2020–present) and former candidate for this seat<ref>{{Cite web |last=Keloland|url=https://www.keloland.com/news/local-news/casey-crabtree-exits-congress-race-backs-jackley/ |title=Casey Crabtree exits Congress race, backs Jackley|access-date=17 March 2026|website=Keloland}}</ref>
+
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{Cite web |last=US Chamber of Commerce|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-marty-jackley-to-represent-south-dakota-in-the-house-of-representatives |title=U.S. Chamber Endorses Candidate Marty Jackley to Represent South Dakota in the House of Representatives|access-date=5 June 2026|website=US Chamber of Commerce}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Casey Crabtree (R)
+|$254,650
+|$183,634
+|$71,016
+|-
+|{{party shading/Republican}}|Marty Jackley (R)
+|$1,331,302
+|$264,431
+|$1,066,870
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - South Dakota at-large |url=https://www.fec.gov/data/elections/house/SD/00/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:75px;"| James<br>Bialota
+! style="width:75px;"| Marty<br>Jackley
+! Undecided
+|-
+|style="text-align:left;" |[[Mason-Dixon Polling & Strategy]]<ref>{{Cite web|url=https://www.sdnewswatch.org/south-dakota-republican-gop-primary-governor-gubernatorial/| title=Poll: Johnson widens lead in SD GOP governor race|first=Alexander|last=Rifaat|website=South Dakota News Watch|date=April 20, 2026|access-date=April 20, 2026}}</ref>{{efn-ua|name=SDNWUSD|Poll sponsored by ''South Dakota News Watch'' and the Chiesman Center for Democracy at the [[University of South Dakota]]}}
+|April 7–11, 2026
+|500 (RV)
+|±&nbsp;4.5%
+|12%
+|{{party shading/Republican}}|'''68%'''
+|20%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref>{{cite web |title=South Dakota 2026 Poll: Dusty Johnson Leads Incumbent Larry Rhoden in Governor Election |url=https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/ |publisher=Emerson College Polling |access-date=11 March 2026 |date=11 March 2026}}</ref>{{efn-ua|Poll sponsored by [[KELO-TV]] and [[Nexstar Media]]}}
+|March 7–9, 2026
+|415 (LV)
+|±&nbsp;4.8%
+|7%
+|{{party shading/Republican}}|'''51%'''
+|41%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br>of error
+! style="width:75px;"| Casey<br>Crabtree
+! style="width:75px;"| Marty<br>Jackley
+! style="width:75px;"| Tony<br>Venhuizen
+! Undecided
+|-
+|style="text-align:left;"|Guidant Polling & Strategy (R)<ref>{{cite web |title=New poll shows Jackley leading potential candidates for U.S. House |url=https://www.dakotanewsnow.com/2025/06/27/new-poll-shows-jackley-leading-potential-candidates-us-house/ |publisher=[[KDLT-TV]] |access-date=28 June 2025 |date=27 June 2025}}</ref>
+|June 17–19, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|5%
+|{{party shading/Republican}}|'''48%'''
+|5%
+|42%
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:75px;"| James<br>Bialota
+! style="width:75px;"| Casey<br>Crabtree
+! style="width:75px;"| Marty<br>Jackley
+! Undecided
+|-
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref>{{cite web |last1=Killough |first1=Kevin |title=House poll: Jackley leads with many undecided |url=https://www.sdnewswatch.org/sd-house-poll-jackley-bialota-crabtree-gop-republican/ |publisher=South Dakota News Watch |access-date=30 October 2025 |date=29 October 2025}}</ref>{{Efn-ua|name=SDNWUSD}}
+|October 16–20, 2025
+|502 (RV)
+|±&nbsp;4.5%
+|2%
+|5%
+|{{party shading/Republican}}|'''57%'''
+|36%
+|}
+{{hidden end}}
+
+===Results===
+[[File:2026 South Dakota's at-large congressional district Republican primary election results by county map.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Jackley}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Marty Jackley]]|votes=103,074|percentage=79.2}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=James Bialota Jr.|votes=27,100|percentage=20.8}}
+{{Election box total no change|votes=130,174|percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*Nikki Gronli, former South Dakota state director for [[USDA Rural Development]] (2022–2025) and former vice chair of the [[South Dakota Democratic Party]]<ref>{{cite news |last1=Huber |first1=Makenzie |title=Former USDA appointee announces Democratic bid for Congress |url=https://southdakotasearchlight.com/2025/09/08/former-usda-appointee-nikki-gronli-announces-democratic-bid-congress/ |access-date=September 8, 2025 |work=[[South Dakota Searchlight]] |date=September 8, 2025}}</ref>
+
+==== Withdrawn ====
+*Billy Mawhiney, nonprofit executive<ref>{{cite news |title=Billy Mawhiney drops out of Congressional race |url=https://www.dakotanewsnow.com/2026/02/16/billy-mawhinney-drops-out-congressional-race/}}</ref>
+
+=== Endorsements ===
+{{Endorsements box|title=Nikki Gronli|list=
+;Executive branch officials
+*[[Joe Biden]], 46th [[president of the United States]] (2021-2025)<ref>{{Cite web |last1=Burns |first1=Krista |date=June 5, 2026 |title=President Biden Endorses Dan Ahlers, Julian Beaudion, and Nikki Gronli for Governor, U.S. Senate, & U.S. House |url=https://www.sddp.org/post/president-biden-endorses-dan-ahlers-julian-beaudion-and-nikki-gronli-for-governor-u-s-senate |access-date=June 5, 2026 |website=South Dakota Democratic Party}}</ref>{{#tag:ref|Endorsement received after the first round of primary voting took place.|group=n|name=First}}
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Nikki Gronli (D)
+|$213,223
+|$110,642
+|$102,581
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+== Independents ==
+=== Candidates ===
+==== Filed paperwork ====
+*Jack Pittman<ref>{{Cite web |title=FEC Form 2 for Report FEC-1926817 |url=https://docquery.fec.gov/cgi-bin/forms/H6SD01166/1926817 |access-date=2025-11-24 |website=docquery.fec.gov}}</ref>
+
+==General election==
+=== Predictions ===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=July 10, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|July 10, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|July 10, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 10, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 10, 2025
+|}
+
+=== Post-primary endorsements ===
+{{Endorsements box
+|title=Nikki Gronli (D)
+|list=
+;Labor unions
+*[[American Federation of State, County and Municipal Employees|AFSCME Council 65]]<ref>{{cite news |title=2026 Elections & Endorsements |website=AFSCME Council 65 |url=https://afscme65.org/news/2026-elections-endorsements |archive-url=https://web.archive.org/web/20261021071734/https://afscme65.org/news/2026-elections-endorsements |archive-date=October 21, 2026 |access-date=October 30, 2026}}</ref>
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=25 July 2026 |access-date=24 October 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Marty Jackley (R)
+|list=
+;Organizations
+*[[NRA Political Victory Fund]]<ref name="NRA">{{cite web |title=South Dakota |url=https://www.nrapvf.org/grades/South-Dakota/ |website=[[National Rifle Association Political Victory Fund]] |access-date=13 September 2026}}</ref>
+
+;Newspapers
+*''[[Mitchell Daily Republic]]''<ref>{{cite web |title=Endorsement: Rhoden, Rounds and Jackley for South Dakota’s top spots |url=https://www.mitchellrepublic.com/endorsement-rhoden-rounds-and-jackley-for-south-dakotas-top-spots |website=Mitchell Republic |access-date=October 19, 2026 |language=en |date=October 17, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Marty Jackley (R)
+|$1,736,314
+|$551,850
+|$1,184,464
+|-
+|{{party shading/Democratic}}|Nicole Gronli (D)
+|$387,208
+|$294,065
+|$93,143
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - South Dakota |url=https://www.fec.gov/data/elections/house/SD/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 2, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:75px;"| Marty<br>Jackley (R)
+! style="width:75px;"| Nikki<br>Gronli (D)
+! Undecided
+|-
+|style="text-align:left;" |[[Mason-Dixon Polling & Strategy]]<ref>{{cite web |last1=Wetsch |first1=Molly |last2=DeCock |first2=Emily |title=Poll: Jackley leads Gronli 60-32% for US House |url=https://www.sdnewswatch.org/south-dakota-poll-us-house-jackley-gronli/ |publisher=South Dakota News Watch |access-date=October 22, 2026 |date=October 21, 2026}}</ref>{{Efn-ua|Poll conducted for South Dakota News Watch and the [[University of South Dakota]]}}
+|October 12–14, 2026
+|500 (LV)
+|±&nbsp;4.5%
+|{{party shading/Republican}}|'''60%'''
+|32%
+|9%
+|-
+|style="text-align:left;" |Lake Research Partners (D)<ref>{{cite web |title=Lake Research Partners poll {{!}} 8/26-8/30 LV |url=https://x.com/PollTracker2024/status/2105437298531631536 |publisher=[[Twitter]] |access-date=October 3, 2026 |date=September 30, 2026}}</ref>{{Efn-ua|Poll sponsored by Gronli's campaign}}
+|August 26–30, 2026
+| (LV)
+|–
+|{{party shading/Republican}}|'''47%'''
+|43%
+|10%
+|}
+
+===Results===
+{{Election box begin
+|title=2026 South Dakota's at-large congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Marty Jackley]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Nicole Gronli 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Jack Pittman
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{reflist|group=n}}
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites'''
+*[https://www.nikkigforsd.com/ Nikki Gronli (D)]
+*[https://martyjackley.com/ Marty Jackley (R)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in South Dakota|2026]]
+[[Category:2026 United States House of Representatives elections|South Dakota]]
+[[Category:2026 elections in South Dakota|United States House of Representatives]]

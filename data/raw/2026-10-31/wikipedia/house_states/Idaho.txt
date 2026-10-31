@@ -1,0 +1,779 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Idaho House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Idaho
+| country = Idaho
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Idaho
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Idaho
+| next_year = 2028
+| seats_for_election = Both Idaho seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = 2
+| seats1 = 2
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 0
+| map_image = <!-- Please keep these maps hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Idaho results map.svg|180px]] |District results |[[File:2026 United States House of Representatives elections in Idaho results map by county.svg|180px]] |County results}}-->
+| map_caption =
+}}
+{{ElectionsID}}
+The '''2026 United States House of Representatives elections in Idaho''' will be held on November 3, 2026, to elect the two [[U.S. representative]]s from the [[U.S. state|state]] of [[Idaho]], one from both of the state's [[Idaho's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on May 19, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Idaho's 1st congressional district election
+| country = Idaho
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Idaho#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Idaho#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Russ Fulcher, official portrait, 116th Congress (cropped).jpg
+| nominee1 = [[Russ Fulcher]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kaylee Peterson
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| image3 = Maj. Gen. Sarah Zabel discusses the Air Force Journey to Agile Software Acquisition (cropped).jpg
+| nominee3 = Sarah Zabel
+| party3 = Independent politician
+| popular_vote3 = 
+| percentage3 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Idaho's 1st congressional district election results map by county.svg|100px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Russ Fulcher]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Idaho's 1st congressional district}}
+The 1st district takes in the [[Idaho Panhandle]] and the western [[Boise metropolitan area|Boise area]]. The incumbent is Republican [[Russ Fulcher]], who was re-elected with 71.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 25, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Candidates====
+====Nominee====
+*[[Russ Fulcher]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1890098 |url=https://docquery.fec.gov/cgi-bin/forms/H8ID01124/1890098/ |access-date=2025-12-09 |website=docquery.fec.gov}}</ref>
+
+=====Eliminated in primary=====
+*Andy Briner, kitchen designer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1950675 |url=https://docquery.fec.gov/cgi-bin/forms/H6ID01326/1950675 |access-date=2026-02-26 |website=docquery.fec.gov}}</ref>
+*Joseph Morrison, information security professional<ref name="filing">https://run.voteidaho.gov/search</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Russ Fulcher
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=31 January 2026 |language=en |date=8 January 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-russ-fulcher-for-id-01/|title=Freedom Caucus Fund Endorses Russ Fulcher for ID-01|date=April 1, 2026|access-date=September 15, 2026}}</ref>
+
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Russ Fulcher (R)
+|$577,744
+|$498,678
+|$259,075
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Russ Fulcher]] (incumbent)
+| party = Republican Party (United States)
+| votes = 100104
+| percentage = 78.2
+}}
+{{Election box candidate with party link no change
+| candidate = Andy Briner
+| party = Republican Party (United States)
+| votes = 14438
+| percentage = 11.3
+}}
+{{Election box candidate with party link no change
+| candidate = Joseph Morrison
+| party = Republican Party (United States)
+| votes = 13407
+| percentage = 10.5
+}}
+{{Election box total no change
+| votes = 127949	
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Kaylee Peterson, artisan jeweler and nominee for this district in [[2022 United States House of Representatives elections in Idaho#District 1|2022]] and [[2024 United States House of Representatives elections in Idaho#District 1|2024]]<ref>{{cite web |last1=McCandless |first1=Royce |title=Challenger to Rep. Fulcher hosting rallies for 'accountability' |url=https://www.easternprogress.com/challenger-to-rep-fulcher-hosting-rallies-for-accountability/article_81e901ef-e2fe-580a-8775-d7eb9d87d1ac.html |access-date=October 19, 2025 |work=[[Eastern Progress]] |date=October 8, 2025}}</ref>
+=====Eliminated in primary=====
+*Ken Brungardt, retired painting contractor<ref>{{#invoke:cite|news |title=Ken Brungardt Officially Launches Campaign and Website for United States Congress in Idaho's 1st District |url=https://fox40.com/business/press-releases/ein-presswire/847448430/ken-brungardt-officially-launches-campaign-and-website-for-united-states-congress-in-idahos-1st-district/ |access-date=September 10, 2025 |work=FOX40 |date=September 10, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Ken Brungardt (D)
+|$45,015
+|$42,296
+|$2,719
+|-
+|{{party shading/Democratic}}|Kaylee Peterson (D)
+|$145,482
+|$134,248
+|$16,625
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Kaylee Peterson
+| party = Democratic Party (United States)
+| votes = 18907
+| percentage = 87.1
+}}
+{{Election box candidate with party link no change
+| candidate = Ken Brungardt
+| party = Democratic Party (United States)
+| votes = 2803
+| percentage = 12.9
+}}
+{{Election box total no change
+| votes = 21710	
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Constitution primary===
+====Candidates====
+=====Filed paperwork=====
+*Brendan Gomez, nominee for this district in [[2024 United States House of Representatives elections in Idaho#District 1|2024]]<ref>{{cite news |last1=Cutler |first1=Sarah |title=Boise-area voters: See who’s running in the May primary for Congress, Idaho offices |url=https://www.idahostatesman.com/news/politics-government/state-politics/article314863047.html |access-date=March 11, 2026 |work=[[Idaho Statesman]] |date=March 4, 2026}}</ref>
+
+===Independents===
+====Candidates====
+=====Declared=====
+*Sarah Zabel, author and retired [[U.S. Air Force]] major general<ref>{{cite web |title=Bayview resident enters congressional race as Independent |url=https://cdapress.com/news/2025/nov/20/retired-major-general-enters-congressional-race-as-independent/ |access-date=November 20, 2025 |work=[[Coeur d'Alene Press]] |date=November 20, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Sarah Zabel (I)
+|$41,408
+|$29,629
+|$11,779
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 25, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Russ Fulcher (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-russ-fulcher-for-idahos-first-district|title=U.S. Chamber Endorses Rep. Russ Fulcher for Idaho’s First District|date=August 10, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Kaylee Peterson (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref>{{cite web |title=Our Recommended Candidates |website=Education Votes |publisher=National Education Association |url=https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates |archive-url=https://web.archive.org/web/20260612075635/https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates |archive-date=June 12, 2026 |access-date=October 24, 2026}}</ref>
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260714112931/https://nwpc.org/endorsed-candidates |archive-date=July 14, 2026 |access-date=October 24, 2026}}</ref>
+*[[National Organization for Women]]<ref>{{cite web |title=2026 Federal Endorsements |publisher=National Organization for Women |website=NOW PAC |url=https://nowpac.org/2026-federal-endorsements |archive-url=https://web.archive.org/web/20260520225134/https://nowpac.org/2026-federal-endorsements |archive-date=May 20, 2026 |access-date=October 24, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Sarah Zabel (I)
+|list=
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref name="Forward">{{Cite web |url=https://www.forwardparty.com/media/press_release/forward-party-announces-slate-of-congressional-endorsements-across-florida-idaho-and-new-hampshire |title=Forward Party Announces Slate of Congressional Endorsements Across Florida, Idaho and New Hampshire |date=October 6, 2026 |access-date=October 10, 2026 |website=forwardparty.com}}</ref>
+*[[Reform Party of the United States of America|Reform Party]]<ref>{{cite news |last=Willow Evans |first=Jordan |title=Reform Party Endorses Independent Sarah Zabel in Idaho Congressional Race |website=[[Independent Political Report]] |url=https://independentpoliticalreport.com/2026/08/reform-party-endorses-independent-sarah-zabel-in-idaho-congressional-race |date=August 16, 2026 |access-date=October 24, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Russ Fulcher (R)
+|$662,615
+|$597,924
+|$244,700
+|-
+|{{party shading/Democratic}}| Kaylee Peterson (D)
+|$181,024
+|$171,799
+|$14,616
+|-
+|{{party shading/Constitution}}| Brendan Gomez (C)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Independent}}| Sarah Zabel (I)
+|$81,497
+|$57,024
+|$24,473
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Idaho |url=https://www.fec.gov/data/elections/house/ID/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 24, 2026}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;" |Russ<br /> Fulcher (R)
+! style="width:100px;" |Kaylee<br />Peterson (D)
+! style="width:100px;" |Sarah<br />Zabel (I)
+! Other
+! Undecided
+|-
+|style="text-align: left;" | VoteNexus Research<ref name=VoteNexus>{{cite web |title=Idaho Statewide Likely Voter Survey |url=https://drive.google.com/file/d/1ZWt7_rFQzMxjeueMCX4GoFyqIe9jRk8X/view |publisher=VoteNexus Research |access-date=October 24, 2026 |date=October 23, 2026}}</ref>{{Efn-ua|name=KnockAchilles|Poll commissioned by Knock Every Door PAC and the campaign of John Achilles, independent candidate for [[2026 United States Senate election in Idaho|U.S. Senate]]}}
+|October 21–22, 2026
+|(LV)
+|–
+|{{party shading/Republican}}|'''52%'''
+|26%
+|5%
+|6%{{Efn|Brendan Gomez (C) with 6%}}
+|10%
+|-
+| rowspan="2" style="text-align:left;" |Change Research (D)<ref>{{cite web|url=https://static1.squarespace.com/static/69781c4082a86d0a267710a0/t/6a74eb0bb2c4cb2074c857b6/1786047243520/MEDIA+_+Stegner+For+Idaho+_+July+2026+_+Poll+Memo.pdf|title=Poll on Key 2026 Races in Idaho 
+|website=[[Squarespace]]|date=August 6, 2026|access-date=August 14, 2026}}</ref>{{efn-ua|name=Stegner| Poll conducted behalf of John Stegner's campaign, who is an independent running for [[2026 Idaho gubernatorial election|Governor]].}}
+| rowspan="2"|July 28–30, 2026
+| rowspan="2"|606 (LV)
+| rowspan="2"|–
+|{{party shading/Republican}}|'''48%'''
+|27%
+|5%
+|2%{{efn|name=Two|"Would not vote" with 2%}}
+|18%
+|-
+|{{party shading/Republican}}|'''46%'''
+|–
+|26%
+|6%{{efn|Brendan Gomez with 4%; "Would not vote" with 2%}}
+|22%
+|-
+| style="text-align:left;" |[[SurveyUSA]]<ref name="Survey USA-July">{{cite web|url=https://www.surveyusa.com/client/PollReport.aspx?g=48a62c75-2dbc-4948-9e01-cbeccf52c3d6|title=Independent Candidate Sarah Zabel Could Unseat Republican Incumbent in ID-01 ... if 3-Time Democratic Challenger Clears Way:|website=[[SurveyUSA]]|date=July 23, 2026|access-date=July 23, 2026}}</ref>{{efn-ua|name="Survey USA-July"|Poll conducted on behalf of Zabel's campaign}}
+|July 7–14, 2026
+|480 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''45%'''
+|35%
+|6%
+|1%{{efn|name=One|"Would not vote" with 1%}}
+|14%
+|}
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Russ Fulcher vs. Kaylee Peterson'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;" |Russ<br /> Fulcher (R)
+! style="width:100px;" |Kaylee<br />Peterson (D)
+! Other
+! Undecided
+|-
+| style="text-align:left;" |[[SurveyUSA]] (I)<ref name="Survey USA-July"/>{{efn-ua|name="Survey USA-July"}}
+|July 7–14, 2026
+|478 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''44%'''
+|39%
+|1%{{efn|name=One|"Would not vote" with 1%}}
+|16%
+|}
+'''Russ Fulcher vs. Sarah Zabel'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;" |Russ<br /> Fulcher (R)
+! style="width:100px;" |Sarah<br />Zabel (I)
+! Other
+! Undecided
+|-
+| style="text-align:left;" |[[SurveyUSA]] (I)<ref name="Survey USA-July"/>{{efn-ua|name="Survey USA-July"}}
+|July 7–14, 2026
+|478 (LV)
+|±&nbsp;4.9%
+|39%
+|{{party shading/Independent}}|'''42%'''
+|3%{{efn|name=Three|"Would not vote" with 3%}}
+|17%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Idaho's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Russ Fulcher]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Kaylee Peterson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Constitution Party (United States)
+  |candidate  = Brendan Gomez
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Sarah Zabel Peterson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Idaho's 2nd congressional district election
+| country = Idaho
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Idaho#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Idaho#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Mike simpson official portrait (cropped).jpg
+| nominee1 = [[Mike Simpson]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Elinor Gilbreath
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher 
+|[[File:2026 Idaho's 2nd congressional district election results map by county.svg|230px]]
+|County results
+}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Mike Simpson]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Idaho's 2nd congressional district}}
+The 2nd district encompasses eastern and northern [[Boise]], as well as [[Eastern Idaho]]. The incumbent is Republican [[Mike Simpson]], who was re-elected with 61.4% of the vote in 2024.<ref name="HPVT" /> 
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Mike Simpson]], incumbent U.S. representative<ref>{{#invoke:cite| news |last3=Luetkemeyer |first3=Em |last2=González |first2=Oriana |last1=Rogerson |first1=Riley |title=These House Republicans Won’t Commit to Running in 2026 |url=https://www.notus.org/congress/republicans-retirement-watch |access-date=December 18, 2025 |work=[[NOTUS (website)|NOTUS]] |date=December 18, 2025}}</ref>
+
+=====Eliminated in primary=====
+*Brian Keene, educator<ref name=filing/>
+*Perry Shumway, brand strategy manager<ref>{{cite news |last1=Smith |first1=Lisa |title=Rexburg's Perry Shumway to run for U.S. House of Representatives Idaho District 2 |url=https://www.rexburgstandardjournal.com/news/local/rexburgs-perry-shumway-to-run-for-u-s-house-of-representatives-idaho-district-2/article_2e7d79a1-2ddb-4276-818b-94168a804c35.html |access-date=September 8, 2025 |work=Rexburg Standard Journal |date=August 27, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Mike Simpson
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Log Cabin Republicans]]<ref name="LCRs">{{cite web |title=22 Republicans endorsed by LGBT organization: Full list of names |url=https://www.newsweek.com/22-republicans-endorsed-by-lgbt-organization-full-list-of-names-11460976 |website=Newsweek |access-date=4 February 2026 |language=en |date=3 February 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Perry Shumway (R)
+|$5,292
+|$2,836
+|$0
+|-
+|{{party shading/Republican}}|Mike Simpson (R)
+|$924,725
+|$607,181
+|$422,750
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Mike Simpson]] (incumbent)
+| party = Republican Party (United States)
+| votes = 63448
+| percentage = 63.3
+}}
+{{Election box candidate with party link no change
+| candidate = Brian Keene
+| party = Republican Party (United States)
+| votes = 20975
+| percentage = 20.9
+}}
+{{Election box candidate with party link no change
+| candidate = Perry Shumway
+| party = Republican Party (United States)
+| votes = 15802
+| percentage = 15.8
+}}
+{{Election box total no change
+| votes = 100225	
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Elinor Gilbreath, lawyer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1949628 |url=https://docquery.fec.gov/cgi-bin/forms/H6ID02274/1949628 |access-date=2026-02-20 |website=docquery.fec.gov}}</ref>
+
+=====Eliminated in primary=====
+*Julie Wiley, retired counselor<ref>{{Cite web |title=FEC Form 2 for Report FEC-1882367 |url=https://docquery.fec.gov/cgi-bin/forms/H6ID02217/1882367/ |access-date=2025-07-12 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Elinor Gilbreath (D)
+|$68,749
+|$9,880
+|$58,869
+|-
+|{{party shading/Democratic}}|Julie Wiley (D)
+|$30,477
+|$30,477
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Elinor Gilbreath
+| party = Democratic Party (United States)
+| votes = 19523
+| percentage = 72.5
+}}
+{{Election box candidate with party link no change
+| candidate = Julie Wiley
+| party = Democratic Party (United States)
+| votes = 7411
+| percentage = 27.5
+}}
+{{Election box total no change
+| votes = 26934
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Candidates====
+=====Declared=====
+*Will Johanson, engineer<ref name="May">{{cite news |last1=Pfannenstiel |first1=Kyle |title=Who’s running to represent Idaho in Congress in the 2026 election? Incumbents face challengers. |url=https://idahocapitalsun.com/2026/02/27/whos-running-to-represent-idaho-in-congress-in-the-2026-election-incumbents-face-challengers/ |access-date=March 11, 2026 |work=[[Idaho Capital Sun]] |date=February 27, 2026}}</ref>
+
+===Constitution primary===
+====Candidates====
+=====Declared=====
+*Carta Sierra, nominee for this district in [[2024 United States House of Representatives elections in Idaho#District 2|2024]]<ref name="May"/>
+
+===Independents===
+====Candidates====
+=====Declared=====
+*Emre Houser, small business owner<ref>{{cite news |title=Idaho citizens seek elected offices |url=https://www.lmtribune.com/local-news/idaho-citizens-seek-elected-offices-21588153 |access-date=February 28, 2026 |work=[[The Lewiston Tribune]] |date=February 28, 2026}}</ref>
+*Tripp Hutchinson, [[Ketchum, Idaho|Ketchum]] city councilor<ref>{{cite news |last1=Theophilus |first1=Andrew |title=Ketchum councilman announces run for Congress |url=https://www.mtexpress.com/news/ketchum/ketchum-councilman-announces-run-for-congress/article_9c98ae76-c909-42ef-89d0-cd9a699097ea.html |access-date=February 13, 2026 |work=[[Idaho Mountain Express]] |date=February 13, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Mike Simpson (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-mike-simpson-for-idahos-second-district|title=U.S. Chamber Endorses Rep. Mike Simpson for Idaho’s Second District|date=September 1, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Mike Simpson (R)
+|$1,118,093
+|$793,940
+|$429,359
+|-
+|{{party shading/Democratic}}| Ellie Gilbreath (D)
+|$106,892
+|$35,729
+|$71,163
+|-
+|{{party shading/Libertarian}}| Will Johanson (L)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Constitution}}| Carta Sierra (C)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Independent}}| Emre Houser (I)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Independent}}| Tripp Hutchinson (I)
+|$7,565
+|$1,578
+|$6,963
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Idaho |url=https://www.fec.gov/data/elections/house/ID/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 24, 2026}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;" |Mike<br />Simpson (R)
+! style="width:100px;" |Ellie<br />Gilbreath (D)
+! Other
+! Undecided
+|-
+|style="text-align: left;" | VoteNexus Research<ref name=VoteNexus/>{{Efn-ua|name=KnockAchilles}}
+|October 21–22, 2026
+|(LV)
+|–
+|{{party shading/Republican}}|'''46%'''
+|31%
+|12%{{Efn|Emre Houser (I) & Tripp Hutchinson (I) with 5%; Will Johanson (L) with 2%}}
+|12%
+|}
+
+====Results====
+{{Election box begin|title=2026 Idaho's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mike Simpson]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Ellie Gilbreath
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Will Johanson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Constitution Party (United States)
+  |candidate  = Carta Sierra Peterson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Emre Houser
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent Party (United States)
+  |candidate  = Tripp Hutchinson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.russfulcher.com/ Russ Fulcher (R)]
+*[https://kayleeforcongress.com/ Kaylee Peterson (D)]
+*[https://zabelforcongress.com/ Sarah Zabel (I)]
+
+;Official campaign websites for 2nd district candidates
+*[https://ellieforidaho.com/ Ellie Gilbreath (D)]
+*[https://www.houserforidaho.com/ Emre Houser (I)]
+*[https://votefortripp.com/ Tripp Hutchinson (I)]
+*[https://www.johansonforidaho.com/ Will Johanson (L)]
+*[https://simpsonforcongress.com/ Mike Simpson (R)]
+
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|Idaho]]
+[[Category:2026 elections in Idaho|United States House]]
+[[Category:United States House of Representatives elections in Idaho]]

@@ -1,0 +1,2347 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Kentucky House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name     = 2026 United States House of Representatives elections in Kentucky
+| country           = Kentucky
+| type              = legislative
+| ongoing           = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky
+| previous_year     = 2024
+| election_date     = November 3, 2026
+| next_election     = 2028 United States House of Representatives elections in Kentucky
+| next_year         = 2028
+| seats_for_election= All 6 Kentucky seats to the [[United States House of Representatives]]
+| party1            = Republican Party (United States)
+| last_election1    = '''5'''
+| seats1            = '''5'''
+| seat_change1      = 
+| party2            = Democratic Party (United States)
+| last_election2    = 1
+| seats2            = 1
+| seat_change2      = 
+| map_image = <!-- Please keep these maps hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Kentucky results map.svg|320px]] |District results |[[File:2026 United States House of Representatives elections in Kentucky results map by county.svg|320px]] |County results}}-->
+| map_caption = 
+}}
+{{ElectionsKY}}
+The '''2026 United States House of Representatives elections in Kentucky''' will be held on November 3, 2026, to elect the six [[U.S. representative]]s from the [[U.S. state|state]] of [[Kentucky]], one from each of the state's [[Kentucky congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on May 19, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name     = 2026 Kentucky's 1st congressional district election
+| country           = Kentucky
+| type              = presidential
+| ongoing           = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky#District 1
+| previous_year     = 2024
+| next_election     = 2028 United States House of Representatives elections in Kentucky#District 1
+| next_year         = 2028
+| image1            = Rep. James Comer (long cropped 2).jpg
+| nominee1          = [[James Comer]]
+| party1            = Republican Party (United States)
+| popular_vote1     = 
+| percentage1       = 
+| image2            = 3x4.svg
+| nominee2          = Drew Williams
+| party2            = Democratic Party (United States)
+| popular_vote2     = 
+| percentage2       = 
+| map_image         = 
+| map_size          = 300px
+| map_caption       = 
+| title             = U.S. Representative
+| before_election   = [[James Comer]]
+| before_party      = Republican Party (United States)
+| after_election    = 
+| after_party       = 
+}}
+{{see also|Kentucky's 1st congressional district}}
+The 1st district is based in Western [[Kentucky]], and stretches into Central Kentucky, taking in [[Henderson, Kentucky|Henderson]], [[Hopkinsville, Kentucky|Hopkinsville]], [[Madisonville, Kentucky|Madisonville]], [[Paducah, Kentucky|Paducah]], [[Murray, Kentucky|Murray]], and [[Frankfort, Kentucky|Frankfort]]. The incumbent is Republican [[James Comer]], who was re-elected with 74.7% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[James Comer]], incumbent U.S. representative<ref>{{cite news |work=Downballot |access-date=February 12, 2025 |author1=Nir, David |author2=Singer, Jeff |url=https://www.the-downballot.com/p/morning-digest-mitch-mcconnell-hasnt |date=February 12, 2025 |title=Morning Digest: Mitch McConnell hasn't said he's retiring, but everyone's acting like it |quote=Rep. James Comer recently informed Spectrum News' Mario Anderson that he'll seek reelection to the House in 2026, though he added that he's considering running for governor the following year.}}</ref>
+
+====Eliminated in primary====
+*Penny Arcos<ref name="web.sos.ky.gov">{{Cite web |title=Election Candidate Filings - US Representative |url=https://web.sos.ky.gov/CandidateFilings/default.aspx?elecid=86&id=4 |access-date=2026-01-18 |website=web.sos.ky.gov}}</ref>
+*David Sims, truck driver<ref name="web.sos.ky.gov" />
+*Bob Sutherby, pastor and independent candidate for [[Tennessee's 7th congressional district]] in [[2025 Tennessee's 7th congressional district special election|2025]]<ref name="web.sos.ky.gov" />
+
+====Endorsements====
+{{Endorsements box
+|title=James Comer
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|James Comer (R)
+|$1,478,703
+|$1,588,676
+|$3,099,249
+|-
+|{{party shading/Republican}}|David Sims (R)
+|$1,800
+|$1501
+|$298
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Kentucky 1st |url=https://www.fec.gov/data/elections/house/KY/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 27, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Republican primary results<ref name="Primary Election Results">{{cite web |title=Official 2026 Primary Election Results |url=https://elect.ky.gov/Documents/2026%20Primary%20Certification%20of%20Vote%20Totals%20Final.pdf |publisher=Kentucky Secretary of State |access-date=June 15, 2026}}</ref>
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = [[James R. Comer]] (incumbent)
+  |party      = Republican Party (United States)
+  |votes      = 77,678
+  |percentage = 88.1
+}}
+{{Election box candidate with party link no change
+  |candidate  = David Sims
+  |party      = Republican Party (United States)
+  |votes      = 5,068
+  |percentage = 5.7
+}}
+{{Election box candidate with party link no change
+  |candidate  = Robert James Sutherby
+  |party      = Republican Party (United States)
+  |votes      = 2,774
+  |percentage = 3.1
+}}
+{{Election box candidate with party link no change
+  |candidate  = Penny Arcos
+  |party      = Republican Party (United States)
+  |votes      = 2,645
+  |percentage = 3.0
+}}
+{{Election box total no change
+  |votes      = 88,165
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*John "Drew" Williams, event organizer<ref>{{cite news |last1=Barrett |first1=Alexis |title=John "Drew" Williams announces bid for U.S. House in Kentucky's 1st District |url=https://www.wpsdlocal6.com/news/john-drew-williams-announces-bid-for-u-s-house-in-kentucky-s-1st-district/article_9bb53a05-1133-4fe5-8c81-97c189614a71.html |access-date=May 27, 2025 |work=[[WPSD-TV]] |date=May 27, 2025 |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Drew Williams (D)
+|$79,747
+|$68,318
+|$11,387
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|June 3, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=James Comer (R)
+|list=
+;Labor unions
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA">{{cite web|url=https://umwa.org/policy-politics/compac-endorsements/kentucky/|title=Kentucky|publisher=United Mine Workers of America|access-date=October 29, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| James Comer (R)
+|$2,318,361
+|$3,904,151
+|$1,623,432
+|-
+|{{party shading/Democratic}}| Drew Williams (D)
+|$223,180
+|$213,881
+|$7,977
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Kentucky |url=https://www.fec.gov/data/elections/house/KY/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin
+  |title      = 2026 Kentucky's 1st congressional district election
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[James R. Comer]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = John "Drew" Williams
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0
+  |change     = N/A
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name     = 2026 Kentucky's 2nd congressional district election
+| country           = Kentucky
+| type              = presidential
+| ongoing           = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky#District 2
+| previous_year     = 2024
+| next_election     = 2028 United States House of Representatives elections in Kentucky#District 2
+| next_year         = 2028
+| image1            = Brett Guthrie 116th Congress.jpg
+| nominee1          = [[Brett Guthrie]]
+| party1            = Republican Party (United States)
+| popular_vote1     = 
+| percentage1       = 
+| image2            = 3x4.svg
+| nominee2          = Megan Wingfield
+| party2            = Democratic Party (United States)
+| popular_vote2     = 
+| percentage2       = 
+| map_image         = 
+| map_size          = 300px
+| map_caption       = 
+| title             = U.S. Representative
+| before_election   = [[Brett Guthrie]]
+| before_party      = Republican Party (United States)
+| after_election    = 
+| after_party       = 
+}}
+{{see also|Kentucky's 2nd congressional district}}
+The 2nd district is located in west central [[Kentucky]], and includes [[Bowling Green, Kentucky|Bowling Green]], [[Owensboro, Kentucky|Owensboro]], [[Elizabethtown, Kentucky|Elizabethtown]], and a portion of eastern [[Louisville, Kentucky|Louisville]]. The incumbent is Republican [[Brett Guthrie]], who was re-elected with 73.1% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Brett Guthrie]], incumbent U.S. representative<ref>{{cite news |title=HON. S. Brett Brett Guthrie |url=https://docquery.fec.gov/cgi-bin/forms/H8KY02031/1875618/ |access-date=June 28, 2025 |work=FEC.gov |date=February 11, 2025}}</ref>
+
+====Eliminated in primary====
+*Joshua Ferguson, former constable<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924665 |url=https://docquery.fec.gov/cgi-bin/forms/H6KY02076/1924665/ |access-date=2025-12-31 |website=docquery.fec.gov}}</ref>
+*G. "Shay" Perry-Adelmann, former teacher, community activist and candidate for [[Jefferson County, Kentucky|Jefferson County]] school board district three in 2022<ref name="web.sos.ky.gov" />
+
+====Endorsements====
+{{Endorsements box
+|title=Brett Guthrie
+|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="EndTrack"/>
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Joshua Ferguson (R)
+|$7,078
+|$7,013
+|$65
+|-
+|{{party shading/Republican}}|Brett Guthrie (R)
+|$4,193,324
+|$2,898,393
+|$1,661,176
+|-
+|{{party shading/Republican}}|Shay Perry-Adelmann (R)
+|$100,500
+|$1,483
+|$99,117
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Kentucky 2nd |url=https://www.fec.gov/data/elections/house/KY/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 27, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Republican primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = [[S. Brett Guthrie]] (incumbent)
+  |party      = Republican Party (United States)
+  |votes      = 65,176
+  |percentage = 85.4
+}}
+{{Election box candidate with party link no change
+  |candidate  = Joshua M. Ferguson
+  |party      = Republican Party (United States)
+  |votes      = 7,187
+  |percentage = 9.4
+}}
+{{Election box candidate with party link no change
+  |candidate  = G. "Shay" Perry-Adelmann
+  |party      = Republican Party (United States)
+  |votes      = 3,963
+  |percentage = 5.2
+}}
+{{Election box total no change
+  |votes      = 76,326
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Megan Wingfield, mechanic<ref>{{cite web |title=Guthrie talks protests, shutdown |url=https://bgdailynews.com/2025/10/17/guthrie-talks-protests-shutdown/ |access-date=November 3, 2025 |work=[[Bowling Green Daily News]] |date=October 17, 2025 |quote=...Megan Wingfield — who is set to run in the Democratic primaries for Guthrie's position.}}</ref>
+
+====Eliminated in primary====
+*William Compton, [[Plum Springs, Kentucky|Plum Springs]] city commissioner and candidate for this district in [[2022 United States House of Representatives elections in Kentucky#District 2|2022]] and [[2024 United States House of Representatives elections in Kentucky#District 2|2024]]<ref>{{cite web |last1=Thomas |first1=Stephen |title=Good Trouble provided by local Democrats |url=https://www.pmg-ky1.com/pioneer_news/features/good-trouble-provided-by-local-democrats/article_f3666e87-cc28-5e6d-ad7f-6324d0a0a0d0.html |access-date=November 3, 2025 |website=pmg-ky1.com |date=July 31, 2025 |quote=William Compton, a candidate planning to run against U.S. Rep. Brett Guthrie, also attended the event.}}</ref>
+*David Hatfield<ref name="web.sos.ky.gov" />
+*Hank Linderman, recording engineer and nominee for this district in [[2018 United States House of Representatives elections in Kentucky#District 2|2018]], [[2020 United States House of Representatives elections in Kentucky#District 2|2020]], [[2022 United States House of Representatives elections in Kentucky#District 2|2022]], and [[2024 United States House of Representatives elections in Kentucky#District 2|2024]]<ref name="web.sos.ky.gov" />
+
+====Endorsements====
+{{Endorsements box
+| title = William Compton
+| list =
+'''Organizations'''
+*[[Progressive Victory]]<ref name="Progressive Victory">{{cite web | title=Endorsements for 2026 | url=https://www.progressivevictory.win/endorsements |website=Progressive Victory}}</ref>
+*[[Track AIPAC]]<ref name="TrackAIPAC">{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|William Compton (D)
+|$62,061
+|$58,437
+|$271
+|-
+|{{party shading/Democratic}}|Hank Linderman (D)
+|$3,800
+|$23,339
+|$2,023
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Democratic primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = Megan Wingfield
+  |party      = Democratic Party (United States)
+  |votes      = 16,330
+  |percentage = 40.7
+}}
+{{Election box candidate with party link no change
+  |candidate  = Hank Linderman
+  |party      = Democratic Party (United States)
+  |votes      = 8,401
+  |percentage = 20.9
+}}
+{{Election box candidate with party link no change
+  |candidate  = David S. Hatfield
+  |party      = Democratic Party (United States)
+  |votes      = 8,254
+  |percentage = 20.6
+}}
+{{Election box candidate with party link no change
+  |candidate  = William Dakota Compton
+  |party      = Democratic Party (United States)
+  |votes      = 7,126
+  |percentage = 17.8
+}}
+{{Election box total no change
+  |votes      = 40,111
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+*Thomas A. Loecken<ref name="general_candidates">{{cite web |title=2026 General Election Candidates |url=https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=4 |publisher=Kentucky Secretary of State |access-date=1 July 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|June 3, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Megan Wingfield (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260901205734/https://nwpc.org/endorsed-candidates |archive-date=September 1, 2026 |access-date=October 27, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Brett Guthrie (R)
+|$5,986,647
+|$4,905,596
+|$1,447,296
+|-
+|{{party shading/Democratic}}| Megan Wingfield (D)
+|$9,584
+|$7,832
+|$1,271
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin
+  |title      = 2026 Kentucky's 2nd congressional district election
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[S. Brett Guthrie]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Megan Wingfield
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Thomas A. Loecken
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0
+  |change     = N/A
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name     = 2026 Kentucky's 3rd congressional district election
+| country           = Kentucky
+| type              = presidential
+| ongoing           = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky#District 3
+| previous_year     = 2024
+| next_election     = 2028 United States House of Representatives elections in Kentucky#District 3
+| next_year         = 2028
+| image1            = Rep. Morgan McGarvey - 118th Congress (cropped).jpg
+| nominee1          = [[Morgan McGarvey]]
+| party1            = Democratic Party (United States)
+| popular_vote1     = 
+| percentage1       = 
+| image2            = Maria Rodriguez.png
+| nominee2          = Maria Rodriguez
+| party2            = Republican Party (United States)
+| popular_vote2     = 
+| percentage2       = 
+| map_image         = 
+| map_size          = 300px
+| map_caption       = 
+| title             = U.S. Representative
+| before_election   = [[Morgan McGarvey]]
+| before_party      = Democratic Party (United States)
+| after_election    = 
+| after_party       = 
+}}
+{{see also|Kentucky's 3rd congressional district}}
+The 3rd district encompasses nearly all of [[Louisville, Kentucky|Louisville Metro]], which, since the merger of 2003, is consolidated with [[Jefferson County, Kentucky|Jefferson County]], though other incorporated cities, such as [[Shively, Kentucky|Shively]] and [[St. Matthews, Kentucky|St. Matthews]], exist within the county. The incumbent is Democrat [[Morgan McGarvey]], who was re-elected with 61.9% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Morgan McGarvey]], incumbent U.S. representative<ref name="KYreps">{{cite news |last1=Horn |first1=Austin |title=Thomas Massie, Hal Rogers & more: Where do KY's congressmen stand on reelection? |url=https://www.kentucky.com/news/politics-government/article304858996.html |access-date=April 24, 2025 |work=[[Lexington Herald-Leader]] |date=April 24, 2025}}</ref>
+
+====Withdrawn====
+*Jared Randall, community activist<ref name="web.sos.ky.gov" />
+
+====Endorsements====
+{{Endorsements box
+|title=Morgan McGarvey
+|list=
+'''Organizations'''
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web |title=CANDIDATES |url=https://www.jacpac.org/jac-candidates |website=JAC |access-date=23 November 2025 |language=en |archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates |archive-date=November 21, 2025 |url-status=dead}}</ref>
+*[[League of Conservation Voters]]<ref name="LCVFeb">{{cite web |title=LCV Action Fund Announces New Round of Endorsements for U.S. House of Representatives |url=https://www.lcv.org/media-center/lcv-action-fund-announces-new-round-of-endorsements-for-u-s-house-of-representatives/ |website=League of Conservation Voters |access-date=6 February 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Morgan McGarvey (D)
+|$1,448,999
+|$986,553
+|$1,725,862
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Kentucky 3rd |url=https://www.fec.gov/data/elections/house/KY/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 27, 2026}}</ref></small>
+|}
+
+===Republican primary===
+====Nominee====
+*Maria Rodriguez, cleaning contractor<ref name="web.sos.ky.gov" />
+
+====Eliminated in primary====
+*Daniel Cobble, carpet cleaner and perennial candidate<ref name="web.sos.ky.gov" />
+*David Nichter<ref name="web.sos.ky.gov" />
+*Donald Pay, entrepreneur and author<ref name="web.sos.ky.gov" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Donald Pay (R)
+|$2,546
+|$2,254
+|$291
+|-
+|{{party shading/Republican}}|Maria Rodriguez (R)
+|$18,620
+|$3,057
+|$15,562
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Republican primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = Maria Teresa Rodriguez
+  |party      = Republican Party (United States)
+  |votes      = 15,855
+  |percentage = 48.2
+}}
+{{Election box candidate with party link no change
+  |candidate  = David Joseph Nichter
+  |party      = Republican Party (United States)
+  |votes      = 6,807
+  |percentage = 20.7
+}}
+{{Election box candidate with party link no change
+  |candidate  = Daniel Cobble
+  |party      = Republican Party (United States)
+  |votes      = 5,893
+  |percentage = 17.9
+}}
+{{Election box candidate with party link no change
+  |candidate  = Donald Pay
+  |party      = Republican Party (United States)
+  |votes      = 4,313
+  |percentage = 13.1
+}}
+{{Election box total no change
+  |votes      = 32,868
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Did not qualify====
+*Oumou Diallo, former [[PASTEF]] activist and candidate for the Senegalese [[National Assembly (Senegal)|National Assembly]] in [[2024 Senegalese parliamentary election|2024]]<ref>{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6KY03215/1904138/|title=FEC Form 2 for Report FEC-1904138|website=docquery.fec.gov}}</ref><ref name="general_candidates" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Oumou Diallo (I)
+|$2,493
+|$1,312
+|$1,180
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|June 3, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Morgan McGarvey (D)
+|list=
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=Morgan McGarvey |url=https://giffords.org/candidates/morgan-mcgarvey-3/ |website=Giffords |access-date=September 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Morgan McGarvey (D)
+|$1,998,328
+|$1,327,900
+|$1,933,846
+|-
+|{{party shading/Republican}}| Maria Rodriguez (R)
+|$75,079
+|$42,618
+|$32,361
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin
+  |title      = 2026 Kentucky's 3rd congressional district election
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Morgan McGarvey]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Maria Teresa Rodriguez
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0
+  |change     = N/A
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Kentucky's 4th congressional district election
+| country = Kentucky
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Kentucky#District 4
+| next_year = 2028
+| image1 = Ed Gallrein (55505179851) (cropped 3x4).jpg
+| nominee1 = [[Ed Gallrein]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Melissa Strange
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Thomas Massie]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Kentucky's 4th congressional district}}
+The 4th district is located in the northeastern part of the state, along the [[Ohio River]], including the suburbs of [[Cincinnati]] and the eastern suburbs of [[Louisville, Kentucky|Louisville]]. The incumbent is Republican [[Thomas Massie]], who was re-elected unopposed in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+Thomas Massie, a [[libertarian Republican]] first elected in [[2012 United States House of Representatives elections in Kentucky#District 4|2012]], has frequently clashed with [[Donald Trump]] on fiscal and international issues both during and between his terms as president.<ref>{{Cite web |last=Ackley|first=Kate|date=March 27, 2020|title=Who is Thomas Massie and why does Trump want him thrown out of GOP?|url=https://www.rollcall.com/2020/03/27/who-is-thomas-massie-the-house-member-from-kentucky-trump-wants-thrown-out-of-the-gop/|access-date=July 20, 2022|website=[[Roll Call]]|language=en|archive-date=August 22, 2022|archive-url=https://web.archive.org/web/20220822181808/https://rollcall.com/2020/03/27/who-is-thomas-massie-the-house-member-from-kentucky-trump-wants-thrown-out-of-the-gop/|url-status=live}}</ref><ref>{{Cite web |date=July 21, 2025 |title=Seven years of clashes define Thomas Massie's relationship with President Trump |url=https://www.kentucky.com/news/local/article311067930.html |access-date=May 13, 2026 |website=Lexington Herald Ledger}}</ref> By March 2025, Trump had openly called for a primary challenge to Massie in response to his votes on the [[2025 United States federal budget|2025 federal budget]].<ref name="massie">{{cite news |date=March 11, 2025 |access-date=March 11, 2025 |work=[[The National Desk]] |title=Thomas Massie announces reelection bid as Trump vows to back primary challenger |author=Walker, Jackson |url=https://thenationaldesk.com/news/americas-news-now/thomas-massie-announces-reelection-bid-as-trump-vows-to-back-primary-challenger}}</ref> Other high-profile clashes between the two have included Massie's vote against the [[One Big Beautiful Bill Act]], his [[Epstein Files Transparency Act|advocacy]] for the release of the [[Epstein files]], and his condemnation of [[2025 United States strikes on Iranian nuclear sites|U.S. strikes on Iranian nuclear sites]].<ref>{{cite news |date=June 22, 2025 |access-date=June 22, 2025 |work=[[Lexington Herald-Leader]] |title=KY Rep. Thomas Massie is at odds again with Trump over Iran. Here's the history |author=Horn, Austin |url=https://www.kentucky.com/news/politics-government/article309170635.html}}</ref><ref>{{Cite web |last=Goodman |first=Sylvia |date=2026-05-11 |title=Massie or Gallrein? Kentucky voters to decide the true meaning of MAGA in heated GOP primary |url=https://www.lpm.org/news/2026-05-11/massie-or-gallrein-kentucky-voters-to-decide-the-true-meaning-of-maga-in-heated-gop-primary |access-date=2026-05-13 |website=Louisville Public Media |language=en}}</ref>
+
+On October 17, 2025, Trump endorsed farmer and retired Navy SEAL [[Ed Gallrein]] for the seat.<ref name="ballotpedia">{{Cite web |title=Ed Gallrein |url=https://ballotpedia.org/Ed_Gallrein |access-date=2026-10-07 |website=Ballotpedia |language=en}}</ref> On October 21, Gallrein announced his candidacy, challenging Massie.<ref>{{Cite web |last=Wells |first=Jeremy |date=2026-05-27 |title=President Trump wasn't about to lose in the Fourth District |url=https://cartercountytimes.com/editorials/editorial/president-trump-wasnt-about-to-lose-in-the-fourth-district/ |access-date=2026-10-07 |website=Carter County Times |language=en-US}}</ref> On May 11, 2026, the primary became the most expensive U.S. House primary in American history, with over $25.6 million in ad spending beating the prior record of $25.2 million from the [[2024 United States House of Representatives elections in New York#District 16|Democratic primary]] for [[New York's 16th congressional district]] in 2024.<ref>{{Cite web |last=Solender |first=Andrew |date=2026-05-11 |title=Inside the wild $25 million fight to oust top GOP Trump critic Thomas Massie |url=https://www.axios.com/2026/05/11/thomas-massie-ed-gallrein-kentucky-aipac-trump |access-date=2026-05-12 |website=Axios |language=en}}</ref> By May 17, ad spending exceeded $32 million, with [[Israel lobby in the United States|pro-Israel interest groups]] accounting for over $9 million of the spending against Massie.<ref name="Record">{{cite news|last=Kashinsky|first=Lisa|title=Massie's primary is the most expensive in history. Pro-Israel groups have played a huge part.|url=https://www.politico.com/news/2026/05/17/massie-aipac-record-spending-israel-maga-trump-primary-00925375|work=Politico|date=17 May 2026}}</ref> Massie described the primary election as a "[[referendum]] on whether [[Israel]] gets to buy seats in Congress,"<ref>{{cite news|last=Scanlan|first=Quinn|url=https://abcnews.com/Politics/ahead-tuesday-primary-trump-target-massie-billionaires-buy/story?id=133046728|title=Ahead of Tuesday primary, Trump target Massie says billionaires are trying to 'buy' his seat|work=[[ABC News (United States)|ABC News]]|date=17 May 2026}}</ref> while others described it as a referendum on Trump.<ref>{{cite news|last=Smith|first=David|url=https://www.theguardian.com/us-news/2026/may/16/kentucky-republican-primary-election-massie-gallrein|title=Can a Republican defy Donald Trump and survive? Kentucky voters will decide|work=[[The Guardian]]|date=16 May 2026}}</ref>
+
+During the campaign, pro-Massie and pro-Gallrein PACs both used [[AI-generated content in American politics|AI-generated political ads]] to attack each other's campaigns.<ref>{{cite news|url=https://www.cincinnati.com/story/news/politics/elections/2026/05/16/thomas-massie-faces-ed-gallrein-kentucky-may-19-primary/90079310007/|title=The Massie-Gallrein race is not what most people think|work=Cincinnati.com|date=16 May 2026}}</ref><ref>{{cite news|last1=Sonka|first1=Joe|last2=Goodman|first2=Sylvia|url=https://www.lpm.org/news/2026-05-05/ai-deepfake-ads-attack-massie-and-gallrein-in-northern-kentucky-gop-primary|title=AI 'deepfake' ads attack Massie and Gallrein in northern Kentucky GOP primary|work=Louisville Public Media|date=5 May 2026}}</ref> One AI-generated ad from pro-Gallrein PAC MAGA KY included imagery of Massie having a [[threesome]] with pro-[[Palestine|Palestinian]] Democratic representatives [[Ilhan Omar]] and [[Alexandria Ocasio-Cortez]].<ref name="Omar">{{cite news|last=Delaney|first=Arthur|url=https://www.huffpost.com/entry/thomas-massie-throuple-attack-ad-cheating-squad_n_69f8dca9e4b06e9242f57b3f|title=MAGA Attack Ad Uses AI To Show Thomas Massie 'Cheating With The Squad'|work=[[HuffPost]]|date=4 May 2026}}</ref> Massie, Omar, and former Rep. [[Marjorie Taylor Greene]] condemned the ad, with Greene accusing the ad of violating the [[TAKE IT DOWN Act]].<ref name="Omar"/> On May 16, a pro-Trump group announced that Secretary of Defense [[Pete Hegseth]] would visit Kentucky to raise support for Gallrein. Hegseth's move was accused by critics of violating the [[Hatch Act]], which the White House denied.<ref>{{cite news|last=Aitken|first=Peter|url=https://www.newsweek.com/pete-hegseth-thomas-massie-ed-gallreinand-hatch-act-violation-11961018|title=Pentagon Defends Hegseth Stumping Against Massie Amid Hatch Act Claims|work=[[Newsweek]]|date=17 May 2026}}</ref> During the campaign, Gallrein declined to debate Massie, ignored most interview requests, and conducted few public rallies.<ref name="Grayson"/><ref>{{Cite web |last=Almendarez |first=Jolene |title=The Massie-Gallrein race is not what most people think |url=https://www.cincinnati.com/story/news/politics/elections/2026/05/16/thomas-massie-faces-ed-gallrein-kentucky-may-19-primary/90079310007/ |access-date=2026-05-18 |website=The Enquirer |language=en-US}}</ref><ref>{{Cite web |last=Doll |first=Keely |title=Why Ed Gallrein isn't interested in debating Thomas Massie |url=https://www.courier-journal.com/story/News/politics/elections/2026/04/10/ed-gallrein-thomas-massie-debate-2026-primary-elections/89543309007/ |access-date=2026-05-18 |website=The Courier-Journal |language=en-US}}</ref>
+
+On May 19, Gallrein obtained the Republican nomination, defeating Massie 54.9% to 45.1%. Massie conceded the election on election night, joking in his concession speech that "it took a while to find Ed Gallrein in [[Tel Aviv]]."<ref>{{Cite web |last=Nash |first=Charlie |date=2026-05-20 |title=Thomas Massie Mocks Ed Gallrein With Parting Shot After Conceding Kentucky Primary |url=https://www.mediaite.com/politics/thomas-massie-mocks-he-had-to-find-ed-gallrein-in-tel-aviv-to-concede-kentucky-primary/ |access-date=2026-05-21 |website=Mediaite |language=en}}</ref> [[AIPAC]] later sent out an announcement on X, stating that "support for America's alliance with Israel is good policy and good politics."<ref>{{Cite news |date=2026-06-03 |title=AIPAC 🇺🇸🇮🇱 (@AIPAC) on X |url=https://x.com/AIPAC/status/2062263728704266466 |access-date=2026-10-07 |work=X (formerly Twitter) |language=en-US}}</ref>
+
+====Nominee====
+*[[Ed Gallrein]], farmer, retired Navy SEAL, and candidate for [[Kentucky's 7th Senate district]] in [[2024 Kentucky Senate election#District 7|2024]]<ref>{{cite web |last1=Horn|first1=Austin|title=Who is Ed Gallrein? Trump-endorsed candidate launches run against Thomas Massie |url=https://www.kentucky.com/news/politics-government/article312581626.html |access-date=15 May 2026 |work=Lexington Herald Leader |date=October 21, 2025}}</ref>
+
+====Eliminated in primary====
+*[[Thomas Massie]], incumbent U.S. representative<ref name=massie/>
+
+====Withdrawn====
+*Niki Lee Ethington, registered nurse<ref name="WhosRunningKY04">{{cite news |last1=Almendarez |first1=Jolene |date=May 21, 2025 |title=Trump said Thomas Massie should be voted out of office. Who's running against him? |url=https://www.cincinnati.com/story/news/politics/2025/05/21/whos-running-against-rep-thomas-massie-next-year/83747618007/ |url-access=limited |access-date=May 21, 2025 |work=[[The Cincinnati Enquirer]]}}</ref>
+*Dennis Jackson, farmer
+*Robert Wells, physician<ref name="web.sos.ky.gov" />
+
+====Declined====
+*[[Daniel Cameron (American politician)|Daniel Cameron]], former [[Kentucky Attorney General]] (2019–2024), and nominee for governor in [[2023 Kentucky gubernatorial election|2023]] (''[[2026 United States Senate election in Kentucky|unsuccessfully ran for U.S. Senate]]'')<ref>{{Cite web |last=Martin |first=Jonathan |date=2025-09-13 |title=Trump Wants to Boot Out Massie. Could This Senate Candidate Be the Answer? |url=https://www.politico.com/news/magazine/2025/09/13/thomas-massie-trump-kentucky-daniel-cameron-00561596 |access-date=2025-09-13 |website=[[Politico]]}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Ed Gallrein
+|list=
+'''Executive branch officials'''
+*[[Pete Hegseth]], [[United States Secretary of Defense|U.S. secretary of defense]] (2025–present)<ref>{{cite web |last1=Steinhauser |first1=Paul |last2=Sonkin |first2=Jessica |title=Hegseth unleashes on Massie in GOP primary showdown against Trump-backed Navy SEAL vet |url=https://www.foxnews.com/politics/hegseth-unleashes-massie-gop-primary-showdown-against-trump-backed-navy-seal-vet |website=[[FOX News]] |date=May 18, 2026 |access-date=May 18, 2026}}</ref>
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Kashinsky |first1=Lisa |last2=Hill |first2=Meredith Lee |title=Trump endorses Massie challenger not yet in the primary race |url=https://www.politico.com/news/2025/10/17/massie-kentucky-trump-endorsement-00614778 |website=[[Politico]] |date=October 17, 2025 |access-date=October 18, 2025}}</ref>
+'''U.S. senators'''
+*[[Tim Sheehy]], [[Montana]] (2025–present)<ref name="EndTrack">{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=21 March 2026 |language=en |date=7 January 2026}}</ref>
+'''U.S. representatives'''
+*[[Andy Barr]], [[Kentucky's 6th congressional district|KY-06]] (2013–present)<ref>{{cite web |last1=Aulbach |first1=Lucas |title=Andy Barr endorses Thomas Massie opponent in 2026 primary |url=https://www.courier-journal.com/story/News/politics/elections/2026/02/05/andy-barr-endorses-ed-gallrein-over-thomas-massie-kentucky-primary/88524981007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z114746p119250c119250u002346v114746&gca-ft=28&gca-ds=sophi |website=The Courier-Journal |publisher=Louisville Courier Journal |access-date=5 February 2026 |date=February 5, 2026}}</ref>
+*[[Erin Houchin]], [[Indiana's 9th congressional district|IN-09]] (2023–present)<ref>{{cite web |last1=Nitzberg |first1=Alex |title=MTG says GOP's future 'destroyed' after Trump-backed primary challenger defeats Thomas Massie |url=https://www.foxnews.com/politics/thomas-massie-primary-loss-ed-gallrein-mtg|website=FOX News |access-date=20 May 2026 |date=May 20, 2026}}</ref>
+'''Individuals'''
+*[[Nate Morris]], businessman and [[2026 United States Senate election in Kentucky|2026 U.S. Senate candidate]]<ref>{{cite web |title=Barr spurns fellow KY GOP congressman Massie to endorse Trump-backed challenger |url=https://www.kentucky.com/news/politics-government/article314591068.html |website=Lexington Herald-Leader |access-date=5 February 2026 |quote=Thirty minutes after Barr's endorsement, a spokesperson for Morris sent a statement to the Herald-Leader announcing his support for Gallrein. "I've said repeatedly President Trump won a historic mandate in Kentucky and he needs allies he can trust in the House and Senate to deliver his agenda," Morris wrote. "I'm proud to support Ed Gallrein for Congress and look forward to working with him when he's in the House and I'm in the Senate to deliver the MAGA agenda." }}</ref>
+'''Organizations'''
+*[[U.S. Chamber of Commerce]]<ref name="Chamber">{{cite web |last1=Horsley |first1=McKenna |title=Massie, Gallrein and more candidates make final pleas to Kentucky voters ahead of primary |url=https://kentuckylantern.com/2026/05/17/massie-gallrein-and-more-candidates-make-final-pleas-to-kentucky-voters-ahead-of-primary/ |website=Kentucky Lantern |access-date=18 May 2026 |date=17 May 2026}}</ref>
+}}
+{{Endorsements box
+|title=Thomas Massie
+|width=
+|list=
+'''U.S. senators'''
+*[[Rand Paul]], [[Kentucky]] (2011–present)<ref>{{cite news |last1=Pinski|first1=Hannah|title=Rand Paul says he'll endorse Thomas Massie in 2026 despite feud with Donald Trump |url=https://www.msn.com/en-us/news/politics/rand-paul-says-hell-endorse-thomas-massie-in-2026-despite-feud-with-donald-trump/ar-AA1IAlun?ocid=BingNewsVerp |access-date=July 14, 2025 |work=[[Courier Journal]] |date=July 14, 2025 |language=en}}</ref><ref name="VoteHub-2026">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=20 May 2026 |language=en |date=7 May 2026}}</ref>
+'''U.S. representatives'''
+*[[Justin Amash]], former [[Michigan's 3rd congressional district|MI-03]] (2011–2021)<ref name="Massie-Track">{{cite web|url=https://votehub.com/2026-endorsements|title=2026 Endorsement Tracker (Thomas Massie)|date=January 8, 2026 |access-date=18 May 2026}}</ref><ref name="VoteHub-2026"/>
+*[[Lauren Boebert]], [[Colorado's 4th congressional district|CO-04]] (2021–present)<ref>{{cite news|last=Mollman|first=Steve|title=Trump, MAGA Hardliners Attack Boebert for Backing Massie in GOP Primary|url=https://www.newsweek.com/maga-fumes-boebert-praises-trump-massie-11959986|work=Newsweek|date=16 May 2026}}</ref><ref name="VoteHub-2026"/>
+*[[Warren Davidson]], [[Ohio's 8th congressional district|OH-08]] (2016–present)<ref name="Horsley-2026">{{cite news|last=Horsley|first=McKenna|title=Massie, Gallrein and more candidates make final pleas to Kentucky voters ahead of primary|url=https://www.newsfromthestates.com/article/massie-gallrein-and-more-candidates-make-final-pleas-kentucky-voters-ahead-primary|work=News From the States|date=17 May 2026}}</ref><ref name="VoteHub-2026"/>
+*[[Matt Gaetz]], former [[Florida's 1st congressional district|FL-01]] (2017–2024)<ref name="Massie-Track"/>
+*[[Marjorie Taylor Greene]], former [[Georgia's 14th congressional district|GA-14]] (2021–2026)<ref>{{cite news|first=Seth|last=McLaughlin|title=MTG backs Rep. Massie against Trump's effort to oust him, warns of influence of pro-Israel donors|url=https://www.washingtontimes.com/news/2025/oct/23/marjorie-taylor-greene-backs-massie-trump-ouster-effort-warns-pro/|work=[[The Washington Times]]|date=23 October 2025}}</ref><ref name="VoteHub-2026"/>
+*[[Dana Rohrabacher]], former [[California's 48th congressional district|CA-48]] (1989–2019)<ref name="Horsley-2026"/><ref name="VoteHub-2026"/>
+*[[Victoria Spartz]], [[Indiana's 5th congressional district|IN-05]] (2021–present)<ref>{{cite news|last=Zurcher|first=Anthony|title=Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?|url=https://www.bbc.com/news/articles/cz924g45530o|work=[[BBC]]|date=18 May 2026}}</ref><ref name="VoteHub-2026"/>
+'''State legislators'''
+*[[Savannah Maddox]], [[Kentucky House of Representatives|HD-61]] (2021–present)<ref>{{cite news|title=Endorsement war brews among Kentucky Republicans ahead of primary election|url=https://www.leoweekly.com/news/endorsement-war-brews-among-kentucky-republicans-ahead-of-primary-election/|work=Leo Weekly|date=6 February 2026}}</ref>
+*[[Robin L. Webb]], [[Kentucky's 18th Senate district|SD-18]] (2009–present)<ref>{{cite news|url=https://fox56news.com/video/rep-thomas-massie-secures-another-endorsement-ahead-of-primary/11803782/|title=Rep. Thomas Massie secures another endorsement ahead of primary|work=Fox 56|date=18 May 2026}}</ref>
+*[[Gex Williams]], [[Kentucky's 20th Senate district|SD-20]] (2023–present) and [[Kentucky's 24th Senate district|SD-24]] (1993–1999)<ref name="Gex">{{cite web |last1=Almendarez |first1=Jolene |title=Ahead of Trump visit, 'liberty warriors' say they're for Massie |url=https://www.cincinnati.com/story/news/2026/03/10/trump-visits-northern-kentucky-in-battle-against-thomas-massie/88884713007/ |website=The Enquirer |access-date=10 March 2026}}</ref>
+'''Individuals'''
+*[[James Fishback]], investor and [[2026 Florida gubernatorial election|2026 Florida gubernatorial candidate]]<ref name="Record"/>
+*[[Zachary Levi]], actor<ref>{{cite news|last=Nitzberg|first=Alex|url=https://www.foxnews.com/politics/actor-zachary-levi-backs-thomas-massie-trump-targets-republican-ouster-good-country|title=Actor Zachary Levi backs Thomas Massie as Trump targets the Republican for ouster: 'Good for this country'|work=Fox News|date=5 May 2026}}</ref>
+*[[Kyle Rittenhouse]], gun rights advocate<ref>{{cite news|last=King|first=Jordan|url=https://www.newsweek.com/kyle-rittenhouse-volunteers-for-thomas-massie-sparks-maga-fury-11961683|title=Kyle Rittenhouse Volunteers for Thomas Massie, Sparks MAGA Fury|work=Newsweek|date=18 May 2026}}</ref>
+'''Organizations'''
+*[[National Right to Life Committee#Affiliates|Kentucky Right to Life]]<ref>{{cite web|url=https://kyrighttolife.org/kentucky-right-to-life-voter-guide/|title=KENTUCKY RIGHT TO LIFE VOTER GUIDE - 2026 PRIMARY ELECTION PAC ALERT|work=Kentucky Right to Life|access-date=18 May 2026}}</ref>
+*[[MAHA PAC]]<ref>{{cite news|last=Weixel|first=Nathaniel|url=https://thehill.com/policy/healthcare/5693585-trump-kennedy-republican-alliance/|title=RFK Jr.'s MAHA movement becomes wild card for GOP in 2026 |work=The Hill|date=18 January 2026}}</ref>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+'''Statewide officials'''
+* [[Trey Grayson]], former [[Secretary of State of Kentucky]] (2004–2011)<ref name="Grayson">{{cite news|last=Draper|first=Robert|title=In Kentucky, Fidelity to Trump Is Once Again on the Ballot|url=https://www.nytimes.com/2026/05/18/us/politics/thomas-massie-kentucky-trump-election.html|work=[[The New York Times]]|date=18 May 2026}}</ref>
+* [[Ron DeSantis]], [[governor of Florida]] (2019–present)<ref>{{cite news|last=Gancarski|first=A. G.|url=https://www.miamitimesonline.com/news/florida/in-kentucky-ron-desantis-downplays-2028-plans-disses-andy-beshear-doesn-t-stand-by-thomas/article_eda4552c-faaf-449b-9955-6192768e1f9f.html|title=In Kentucky, Ron DeSantis downplays 2028 plans, disses Andy Beshear, doesn't stand by Thomas Massie|work=Miami Times|date=18 February 2026}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:70px;"| Ed<br />Gallrein
+! style="width:70px;"| Thomas<br />Massie
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|Big Data Poll (R)<ref>{{cite web|title=BIG DATA POLL — Republican Primary for Kentucky's Fourth Congressional District Tracking Poll — Sunday May 18, 2026 (3-Day Rolling Average)|url=https://application.marketsight.com/app/ItemView.aspx?SharedFor=public%40bigdatapoll.com&SharedBy=34090&id=a8d2b84f-4d4e-418a-88ac-b44f0012622c|work=Big Data Poll|date=May 18, 2026|access-date=May 18, 2026}}</ref>
+|rowspan="2"|May 16–18, 2026
+|rowspan="2"|587 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|{{party shading/Republican}}|'''50%'''{{efn|name=lean}}
+|{{party shading/Republican}}|'''50%'''
+|−
+|−
+|-
+|{{party shading/Republican}}|'''44%'''
+|43%
+|−
+|13%
+|-
+|style="text-align:left;"|Grayhouse (R)<ref>{{cite web|date=May 18, 2026|title=Kentucky's 4th District G.O.P. Primary: Gallrein set to defeat Massie|url=https://www.grayhouse.com/post/kentucky4|publisher=Grayhouse|access-date=May 18, 2026}}</ref>
+|May 16–17, 2026
+|435 (LV)
+|±&nbsp;4.7%
+|{{party shading/Republican}}|'''51%'''
+|44%
+|−
+|5%
+|-
+|style="text-align:left;" rowspan="2"|Big Data Poll (R)<ref>{{cite web|title=BIG DATA POLL — Republican Primary for Kentucky's Fourth Congressional District Tracking Poll — Sunday May 17, 2026 (3-Day Rolling Average)|url=https://application.marketsight.com/app/ItemView.aspx?SharedFor=public%40bigdatapoll.com&SharedBy=34090&id=f755df36-380d-44b5-aa87-b44e0006d082|work=Big Data Poll|date=May 17, 2026|access-date=May 17, 2026}}</ref>
+|rowspan="2"|May 15–17, 2026
+|rowspan="2"|555 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|{{party shading/Republican}}|'''50%'''{{efn|name=lean}}
+|{{party shading/Republican}}|'''50%'''
+|−
+|−
+|-
+|{{party shading/Republican}}|'''44%'''
+|43%
+|−
+|13%
+|-
+|style="text-align:left;"|SoCal Strategies (R)<ref>{{cite web|url=https://socaldata.substack.com/p/new-socal-strategies-poll-ed-gallrein|title=New SoCal Strategies Poll: Ed Gallrein Leads America's Most Heated Congressional Primary|website=[[Substack]]|date=May 16, 2026|access-date=May 16, 2026|archive-url=https://web.archive.org/web/20260517030433/https://socaldata.substack.com/p/new-socal-strategies-poll-ed-gallrein|archive-date=May 17, 2026|url-status=dead}}</ref>
+|May 15–16, 2026
+|450 (LV)
+|–
+|{{party shading/Republican}}|'''49%'''
+|42%
+|−
+|9%
+|-
+|style="text-align:left;" rowspan="2"|Big Data Poll (R)<ref>{{cite web|title=BIG DATA POLL — Republican Primary for Kentucky's Fourth Congressional District Tracking Poll — Saturday May 16, 2026 (3-Day Rolling Average)|url=https://application.marketsight.com/app/ItemView.aspx?SharedFor=public%40bigdatapoll.com&SharedBy=34090&id=ee92d706-3606-42a9-8270-b44c017f6abc|work=Big Data Poll|date=May 16, 2026|access-date=May 18, 2026}}</ref>
+|rowspan="2"|May 14–16, 2026
+|rowspan="2"|510 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|49%{{efn|name=lean}}
+|{{party shading/Republican}}|'''51%'''
+|−
+|−
+|-
+|43%
+|{{party shading/Republican}}|'''44%'''
+|−
+|13%
+|-
+|style="text-align:left;"|Neighborhood Research and Media (R)<ref>{{cite tweet|user=Shaftan|first=Rick|last=Shaftan|number=2055440116139590112|title=Massie 39 Gallrein 39. 5/12-15 N=291|access-date=May 16, 2026}}</ref>
+|May 12–15, 2026
+|291 (LV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''39%'''
+|{{party shading/Republican}}|'''39%'''
+|−
+|22%
+|-
+|style="text-align:left;"|Big Data Poll (R)<ref>{{cite web|title=Initial Results for Kentucky House District 4 Republican Primary Tracking Poll|url=https://www.bigdatapoll.com/blog/initial-results-for-kentucky-house-district-4-republican-primary-tracking-poll/|website=Big Data Poll|date=May 15, 2026|access-date=May 15, 2026}}</ref>
+|May 12–14, 2026
+|518 (LV)
+|±&nbsp;4.0%
+|49%
+|{{party shading/Republican}}|'''51%'''
+|−
+|−
+|-
+|style="text-align:left;" rowspan="2"|Quantus Insights (R)<ref>{{cite web |last1=Aulbach |first1=Lucas |title=New poll has Massie trailing Gallrein in Kentucky primary election |url=https://eu.courier-journal.com/story/News/politics/elections/2026/05/13/thomas-massie-ed-gallrein-kentucky-primary-election-poll/90058946007/ |website=The Courier-Journal |date=May 13, 2026 |access-date=May 13, 2026}}</ref>
+|rowspan="2"|May 11–12, 2026
+|rowspan="2"|908 (LV)
+|rowspan="2"|±&nbsp;3.3%
+|{{party shading/Republican}}|'''53%'''{{efn|name=lean|With voters who lean towards a given candidate}}
+|45%
+|−
+|2%
+|-
+|{{party shading/Republican}}|'''48%'''
+|43%
+|−
+|8%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web|url=https://www.kentucky.com/news/politics-government/article315347405.html|title=First KY-04 poll: Massie has lead, not majority, over Trump-endorsed Gallrein|first1=Austin|last1=Horn|work=[[Lexington Herald Leader]]|date=April 8, 2026|access-date=April 8, 2026}}</ref>
+|April 6–7, 2026
+|438 (LV)
+|±&nbsp;4.4%
+|38%
+|{{party shading/Republican}}|'''47%'''
+|2%{{efn|"Would not vote" with 2%}}
+|14%
+|-
+|style="text-align:left;"|Big Data Poll (R)<ref>{{Cite web|url=https://www.bigdatapoll.com/blog/republican-primary-poll-for-kentucky-house-district-4/|title=Incumbent Thomas Massie Leads Challenger Ed Gallrein, Though Spending Is Taking a Toll|work=Big Data Poll|date=April 8, 2026|access-date=April 9, 2026}}</ref>
+|April 3–7, 2026
+|433 (LV)
+|±&nbsp;4.0%
+|48%
+|{{party shading/Republican}}|'''52%'''
+|–
+|–
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Thomas Massie vs. Niki Lee Ethington'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Thomas<br />Massie
+! style="width:75px;"| Niki Lee<br />Ethington
+! Undecided
+|-
+|style="text-align:left;"|Kaplan Strategies (R)<ref>{{cite web|url=https://kaplanstrategies.com/wp-content/uploads/2025/06/Kentucky04-GOP-with-write-up.pdf|title=Massie in trouble among Republican Primary voters as he seeks reelection|first=Doug|last=Kaplan|website=Kaplan Strategies|date=June 26, 2025|access-date=June 30, 2025}}</ref>
+|June 23–24, 2025
+|368 (LV)
+|±&nbsp;5.1%
+|19%
+|{{party shading/Republican}}|'''31%'''
+|{{party shading/Undecided}}|'''50%'''
+|}
+
+'''Thomas Massie vs. "Trump-endorsed Republican"'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Thomas<br />Massie
+! style="width:75px;"| Trump-endorsed<br />Republican
+! Undecided
+|-
+|style="text-align:left;"|[[McLaughlin & Associates]] (R)<ref>{{cite news |last1=Isenstadt |first1=Alex |title=Scoop: Trump launches MAGA PAC in effort to oust Rep. Massie from Congress |url=https://www.axios.com/2025/06/22/trump-massie-congress-2026 |access-date=June 22, 2025 |work=[[Axios (website)|Axios]] |date=June 22, 2025 |language=en}}</ref>{{efn-ua|Poll sponsored by MAGA PAC, which opposes Massie.}}
+|June 2025
+|–
+|–
+|23%
+|{{party shading/Republican}}|'''52%'''
+|25%
+|}
+{{hidden end}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ed Gallrein (R)
+|$3,163,892
+|$2,620,239
+|$543,653
+|-
+|{{party shading/Republican}}|''Dennis Jackson (R)''
+|$2,590
+|$2,590
+|$0
+|-
+|{{party shading/Republican}}|Thomas Massie (R)
+|$5,541,900
+|$5,840,666
+|$608,244
+|-
+|{{party shading/Republican}}|''Robert Wells (R)''
+|$113,241
+|$94,102
+|$19,139
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Kentucky 4th |url=https://www.fec.gov/data/elections/house/KY/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 24, 2026}}</ref></small>
+|}
+
+====Debate====
+{| class="wikitable"  style="text-align:center;"
+|+ class="nowrap" | 2026 Kentucky's 4th district congressional debate
+|- style="font-size:small;"
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+!scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+|-
+! colspan="3" rowspan="2" |Key: {{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small><br> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small>
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+|-
+! scope="col" | [[Thomas Massie]]
+! scope="col" | Ed Gallrein
+|-
+| May 4, 2026<ref>{{cite news|url=https://www.kentucky.com/news/politics-government/article315634493.html|title=Massie says he's a pragmatic & independent choice in KET debate with no Gallrein|last=Horn|first=Austin|date=5 May 2026|work=[[Lexington Herald-Leader]]}}</ref>
+| [[Kentucky Educational Television]]
+| Renee Shaw
+! {{YS|P}}
+! style="background-color:#FFFFDD;" | A
+|}
+
+====Results====
+[[File:2026_Kentucky's_4th_congressional_district_Republican_primary_election_results_by_county.svg|thumb|Results by county:
+{{collapsible list
+| title = {{legend|#5FD3BC|Gallrein}}
+|{{legend|#5FD3BC|50–60%}}
+|{{legend|#2ca089|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#E27F7F|Massie}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+}}
+]]
+
+{{Election box begin no change
+  |title      = Republican primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = [[Ed Gallrein]]
+  |party      = Republican Party (United States)
+  |votes      = 57,822
+  |percentage = 54.9
+}}
+{{Election box candidate with party link no change
+  |candidate  = [[Thomas Massie]] (incumbent)
+  |party      = Republican Party (United States)
+  |votes      = 47,539
+  |percentage = 45.1
+}}
+{{Election box total no change
+  |votes      = 105,361
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Melissa Strange, businesswoman<ref>{{cite web |title=Democrat Melissa Strange announces run for Massie's seat |url=https://www.forwardky.com/democrat-melissa-strange-announces-run-for-massies-seat/ |access-date=November 28, 2025 |work=LinkNKY |publisher=Forward Kentucky |date=November 10, 2025}}</ref>
+
+====Eliminated in primary====
+*Jesse Brewer, inventory management professional<ref>{{cite news |last1=Goth |first1=Meghan |title=Jesse Brewer (no, not that one) shares intent to challenge Thomas Massie |url=https://linknky.com/politics/2025/05/15/jesse-brewer-thomas-massie/ |access-date=May 15, 2025 |work=LINK nky |date=May 15, 2025}}</ref>
+
+====Withdrawn====
+*Monica Dean, project manager<ref>{{cite news |date=May 20, 2025 |title=New challenger, Monica Dean, steps up in race for Massie's seat |url=https://linknky.com/news/2025/05/20/monica-dean-race-ky-house-district-4/ |access-date=May 20, 2025 |work=LINK nky}}</ref>
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jesse Brewer (D)
+|$9,680
+|$9,722
+|$0
+|-
+|{{party shading/Democratic}}|''Monica Dean (D)''
+|$9,189
+|$5,518
+|$3,671
+|-
+|{{party shading/Democratic}}|Melissa Strange (D)
+|$69,085
+|$56,277
+|$12,808
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Democratic primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = Melissa Claire Strange
+  |party      = Democratic Party (United States)
+  |votes      = 30,108
+  |percentage = 72.4
+}}
+{{Election box candidate with party link no change
+  |candidate  = Jesse Russell Brewer
+  |party      = Democratic Party (United States)
+  |votes      = 11,461
+  |percentage = 27.6
+}}
+{{Election box total no change
+  |votes      = 41,569
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian Party===
+====Nominee====
+*Jeremy Todd, salesperson<ref name="general_candidates" />
+
+===Kentucky Party===
+====Withdrawn====
+*Mohammad Wael Ahmad<ref name="general_candidates" />
+
+===Write-in candidates===
+====Declared====
+*Peter Harmon Williams<ref name="general_candidates" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|June 3, 2025
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Melissa Strange (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+{{Endorsements box|title=Jeremy Todd (L)|list=
+'''Executive branch officials'''
+*[[Joe Kent]], former [[National Counterterrorism Center|director of the National Counterterrorism Center]] (2025–2026)  (''Republican'')<ref>{{cite news|url=https://www.foxnews.com/politics/libertarians-challenge-trump-backed-republicans-look-shake-up-midterms-beyond-gop-dem-duopoly|title=Libertarians challenge Trump-backed Republicans, look to shake up midterms beyond GOP-Dem duopoly|last=Nitzberg|first=Alex|work=Fox News|date=29 October 2026}}</ref>
+'''U.S. representatives'''
+*[[Cynthia McKinney]], former [[Georgia's 4th congressional district|GA-4]] (1997-2003, 2005–2007) and [[Georgia's 11th congressional district|GA-11]] (1993-1997) (''[[Georgia Green Party|Green]]'')<ref>{{cite news|url=https://independentpoliticalreport.com/2026/10/former-green-party-presidential-nominee-cynthia-mckinney-endorses-kentucky-libertarian-jeremy-todd-for-congress/|title=Former Green Party Presidential Nominee Cynthia McKinney Endorses Kentucky Libertarian Jeremy Todd for Congress|last=Evans|first=Jordan Willow|date=22 October 2026}}</ref>
+*[[Ron Paul]], former [[Texas's 22nd congressional district|TX-22]] (1976–1977, 1979–1985) and [[Texas's 14th congressional district|TX-14]] (1997–2013) (''Republican'')<ref name="LNKY">{{cite web |title=Ron Paul backs Libertarian Jeremy Todd in race for Massie's congressional seat|url=https://linknky.com/elections/2026/10/15/ron-paul-endorses-jeremy-todd-kentucky-4th-district/ |website=Link NKY |date=October 16, 2026 |access-date=October 16, 2026}}</ref>
+'''Organizations'''
+*[[Michael Rectenwald#Anti-Zionist America PAC|Anti-Zionist America PAC]]<ref>{{cite web|url=https://www.aza-pac.com/our-candidates|title=Our Candidates - AZAPAC|work=AZA-PAC|archive-url=https://web.archive.org/web/20261019020051/https://www.aza-pac.com/our-candidates|archive-date=19 October 2026|url-status=live}}</ref>
+'''Political parties'''
+*[[Libertarian Party of Kentucky]]<ref>{{cite news|url=https://independentpoliticalreport.com/2026/10/libertarian-jeremy-todd-announces-ron-paul-endorsement-in-kentucky-congressional-race/|title=Libertarian Jeremy Todd Announces Ron Paul Endorsement in Kentucky Congressional Race|work=Independent Political Report|date=17 October 2026}}</ref> 
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ed Gallrein (R)
+|$4,095,784
+|$3,662,249
+|$433,535
+|-
+|{{party shading/Democratic}}|Melissa Strange (D)
+|$157,330
+|$123,485
+|$40,742
+|-
+|{{party shading/Libertarian}}|Jeremy Todd (L)
+|$30,838
+|$27,449
+|$3,389
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin
+  |title = 2026 Kentucky's 4th congressional district election
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Ed Gallrein]]
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Melissa Claire Strange
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Jeremy Todd
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box write-in with party link
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0
+  |change     = N/A
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name     = 2026 Kentucky's 5th congressional district election
+| country           = Kentucky
+| type              = presidential
+| ongoing           = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky#District 5
+| previous_year     = 2024
+| next_election     = 2028 United States House of Representatives elections in Kentucky#District 5
+| next_year         = 2028
+| image1            = Harold Rogers 118th Congress.jpg
+| nominee1          = [[Hal Rogers]]
+| party1            = Republican Party (United States)
+| popular_vote1     = 
+| percentage1       = 
+| image2            = 3x4.svg
+| nominee2          = Ned Pillersdorf
+| party2            = Democratic Party (United States)
+| popular_vote2     = 
+| percentage2       = 
+| map_image         = 
+| map_size          = 300px
+| map_caption       = 
+| title             = U.S. Representative
+| before_election   = [[Hal Rogers]]
+| before_party      = Republican Party (United States)
+| after_election    = 
+| after_party       = 
+}}
+{{see also|Kentucky's 5th congressional district}}
+The 5th district is based in the [[Eastern Kentucky Coalfield|coalfields]] of eastern Kentucky. The incumbent is Republican [[Dean of the United States House of Representatives|House dean]] [[Hal Rogers]], who was re-elected unopposed in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Hal Rogers]], incumbent U.S. representative<ref name="KYreps" />
+
+====Eliminated in primary====
+*Benjamin Hurley, real estate agent<ref>{{cite web |last1=Bales |first1=Lucas |title=APSU Student Runs for House of Representatives |url=https://theallstate.org/60677/features/apsu-student-runs-for-house-of-representatives/ |access-date=December 5, 2025 |work=The All State |date=October 21, 2025}}</ref>
+*Brandon Monhollon, realtor and veteran<ref name="web.sos.ky.gov" />
+*Jerry Lee Shelton, electrician and [[Crab Orchard, Kentucky|Crab Orchard]] city commissioner<ref name="web.sos.ky.gov" />
+*Kevin Smith, political strategist<ref>{{Cite web |last=Horn |first=Austin |date=2026-01-09 |title=Former GOP staffer Kevin Smith files to run primary against Rep. Hal Rogers |url=https://www.kentucky.com/news/politics-government/article314265302.html |access-date=2026-01-12 |website=Lexington Herald Leader}}</ref>
+
+====Declined====
+*Alan Keck, mayor of [[Somerset, Kentucky|Somerset]] and candidate for governor in [[2023 Kentucky gubernatorial election|2023]]<ref>{{cite web|url=https://amp.kentucky.com/news/politics-government/article311962334.html|title=Sen. Andy Beshear? Thanks, but no thanks, he says to prominent Dem supporters|last=Horn|first=Austin|date=September 4, 2025|access-date=September 8, 2025|website=[[Lexington Herald-Leader]]}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Hal Rogers|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="JTN">{{cite web |last1=Mueller |first1=Caroline |title=Congressman Hal Rogers announces re-election bid |url=https://www.wymt.com/2025/11/07/congressman-hal-rogers-announces-re-election-bid/ |website=[[WYMT-TV]] |date=November 7, 2025 |access-date=November 19, 2025}}</ref>
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Hal Rogers (R)
+|$747,740
+|$858,906
+|$860,086
+|-
+|{{party shading/Republican}}|Kevin Smith (R)
+|$110,370
+|$90,131
+|$20,238
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Kentucky 5th |url=https://www.fec.gov/data/elections/house/KY/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 27, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Republican primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = [[Hal Rogers]] (incumbent)
+  |party      = Republican Party (United States)
+  |votes      = 81,554
+  |percentage = 77.4
+}}
+{{Election box candidate with party link no change
+  |candidate  = Kevin Smith
+  |party      = Republican Party (United States)
+  |votes      = 12,312
+  |percentage = 11.7
+}}
+{{Election box candidate with party link no change
+  |candidate  = Benjamin Hurley
+  |party      = Republican Party (United States)
+  |votes      = 5,537
+  |percentage = 5.3
+}}
+{{Election box candidate with party link no change
+  |candidate  = Brandon R. Monhollon
+  |party      = Republican Party (United States)
+  |votes      = 3,458
+  |percentage = 3.3
+}}
+{{Election box candidate with party link no change
+  |candidate  = Jerry Lee Shelton
+  |party      = Republican Party (United States)
+  |votes      = 2,464
+  |percentage = 2.3
+}}
+{{Election box total no change
+  |votes      = 105,325
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Ned Pillersdorf, attorney, candidate for this district in [[1992 United States House of Representatives elections#Kentucky|1992]], and husband of former [[Kentucky Supreme Court]] justice [[Janet Stumbo]]<ref>{{cite news |last1=Pinski |first1=Hannah |title=Eastern Kentucky attorney announces campaign for Hal Rogers' seat in Congress |url=https://www.courier-journal.com/story/news/politics/2025/06/24/eastern-kentucky-attorney-ned-pillersdorf-campaign-hal-rogers-congressional-district-2026/84333713007/ |access-date=June 24, 2025 |work=[[Courier Journal]] |date=June 24, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Ned Pillersdorf
+|list=
+'''Executive branch officials'''
+*[[Martin O'Malley]], former [[Social Security Administration]] Commissioner (2023–2024) and [[Governor of Maryland|former governor of Maryland]] (2007–2015)<ref name="EndTrack" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Ned Pillersdorf (D)
+|$115,581
+|$32,060
+|$83,521
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+===Independents===
+====Candidates====
+*Gerardo Serrano<ref name="general_candidates" />
+*Mikel Wein, archaeologist<ref>{{Cite web |title=FEC Form 2 for Report FEC-1934055 |url=https://docquery.fec.gov/cgi-bin/forms/H6KY05202/1934055/ |access-date=2026-02-02 |website=docquery.fec.gov}}</ref><ref name="general_candidates" />
+
+===Write-in candidates===
+====Declared====
+*Billy Ray Wilson, veteran and activist<ref name="web.sos.ky.gov" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|R}}
+|June 3, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box|title=Hal Rogers|list=
+'''Executive branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="JTN">{{cite web |last1=Mueller |first1=Caroline |title=Congressman Hal Rogers announces re-election bid |url=https://www.wymt.com/2025/11/07/congressman-hal-rogers-announces-re-election-bid/ |website=[[WYMT-TV]] |date=November 7, 2025 |access-date=November 19, 2025}}</ref>
+'''Organizations'''
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+{{Endorsements box
+|title=Ned Pillersdorf
+|list=
+'''Statewide officials'''
+*[[Paul E. Patton]], former [[Governor of Kentucky]] (1995-2003)<ref name="Patton">{{cite web |last1=Horsley |first1=McKenna |title=Not a ‘David and Goliath race’: Dems challenge long-standing Republicans in KY House races |url=https://kentuckylantern.com/2026/10/26/not-a-david-and-goliath-race-dems-challenge-long-standing-republicans-in-ky-house-races/ |website=[[States Newsroom|Kentucky Lantern]] |date=October 26, 2026 |access-date=October 27, 2026}}</ref>
+'''Executive branch officials'''
+*[[Martin O'Malley]], former [[Social Security Administration]] Commissioner (2023–2024) and [[Governor of Maryland|former governor of Maryland]] (2007–2015)<ref name="EndTrack" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Hal Rogers (R)
+|$1,026,114
+|$1,295,442
+|$701,924
+|-
+|{{party shading/Democratic}}| Ned Pillersdorf (D)
+|$377,089
+|$270,620
+|$106,494
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin
+  |title      = 2026 Kentucky's 5th congressional district election
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Hal Rogers]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Ned Pillersdorf
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Gerardo Serrano
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Mikel Wein
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box write-in with party link
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0
+  |change     = N/A
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Kentucky's 6th congressional district election
+| country = Kentucky
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Kentucky#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Kentucky#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Ralph Alvarado by Gage Skidmore (cropped).jpg
+| nominee1 = [[Ralph Alvarado]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Zach Dembo (cropped).jpg
+| nominee2 = Zach Dembo
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+<!-- Unhide once Bowman has polled at 5% in a 3rd poll, he's currently at 2
+| image3 = Bowman9 11 24 (cropped).jpg
+| nominee3 = Jay Bowman
+| party3 = Independent
+| popular_vote3 = 
+| percentage3 = 
+-->
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Andy Barr]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Kentucky's 6th congressional district}}
+The 6th district is located in central Kentucky, taking in [[Lexington, Kentucky|Lexington]], [[Richmond, Kentucky|Richmond]], and [[Georgetown, Kentucky|Georgetown]]. The incumbent is Republican [[Andy Barr (American politician)|Andy Barr]], who was re-elected with 63.0% of the vote in 2024.<ref name="HPVT"/>
+
+On April 22, 2025, Barr announced that he would [[2026 United States Senate election in Kentucky|run for U.S. Senate in 2026]].<ref name="AndyBarr" />
+
+Democrats last won this district in [[2010 United States House of Representatives elections in Kentucky|2010]], when [[Ben Chandler]] was narrowly reelected.
+
+===Republican primary===
+====Nominee====
+*[[Ralph Alvarado]], former [[Tennessee Department of Health|Tennessee Commissioner of Health]] (2023–2025), former Kentucky state senator (2015–2023), and nominee for lieutenant governor in [[2019 Kentucky gubernatorial election|2019]]<ref name="AlvaradoKY">{{cite news |last1=Horsley |first1=McKenna |title=2 new candidates — a physician politician and former federal prosecutor — enter US House race |url=https://kentuckylantern.com/2025/07/17/federal-prosecutor-who-left-doj-now-seeks-congressional-seat-in-kentucky-as-a-democrat/ |access-date=July 17, 2025 |work=Kentucky Lantern |date=July 17, 2025}}</ref>
+
+====Eliminated in primary====
+*[[Ryan Dotson]], state representative from the 73rd district<ref name="Dotson">{{cite news |last=Horn |first=Austin |title=With Barr running for Senate, KY House Republican declares for 6th District |url=https://www.kentucky.com/news/politics-government/article304803131.html?tbref=hp |access-date=April 22, 2025 |work=[[Lexington Herald-Leader]] |date=April 22, 2025}}</ref>
+*Greg Plucinski, pharmaceutical entrepreneur<ref>{{cite news |last1=Horn |first1=Austin |title=Political newcomer Greg Plucinski announces GOP run for Rep. Barr's open seat |url=https://www.kentucky.com/news/politics-government/article312491779.html |access-date=October 14, 2025 |work=[[Lexington Herald-Leader]] |date=October 14, 2025}}</ref>
+*Steve Shannon<ref name="web.sos.ky.gov" />
+
+====Withdrawn====
+*Adam Perez Arquette ''(endorsed Alvarado, remained on ballot)''<ref>{{cite web |last1=WKYT News Staff |title=6th Congressional District candidate drops out, endorses Alvarado |date=May 13, 2026 |url=https://www.wkyt.com/2026/05/13/6th-congressional-district-candidate-drops-out-endorses-alvarado/ |publisher=WKYT |access-date=13 May 2026}}</ref>
+*[[Deanna Frazier Gordon]], state representative from the 81st district<ref>{{cite news |last1=Horn |first1=Austin |title=Richmond state rep says she'll be 'true Trump MAGA voice' in U.S. Congress race |url=https://www.kentucky.com/news/politics-government/article310240340.html |access-date=July 9, 2025 |work=[[Lexington Herald-Leader]] |date=July 9, 2025}}</ref> ''([[2026 Kentucky House of Representatives election#District 81|running for re-election]])''<ref>{{cite news |title=Kentucky Rep. Deanna Gordon suspends congressional campaign, will run for state house |url=https://www.lex18.com/news/state-of-the-commonwealth/kentucky-rep-deanna-gordon-suspends-congressional-campaign-will-run-for-state-house |access-date=December 8, 2025 |work=[[LEX 18]] |date=December 8, 2025}}</ref>
+
+====Declined====
+*[[Andy Barr (American politician)|Andy Barr]], incumbent U.S. representative ''([[2026 United States Senate election in Kentucky|running for U.S. Senate]])''<ref name="AndyBarr">{{cite news |last1=Horn |first1=Austin |title=Kentucky Rep. Andy Barr launches bid for U.S. Senate, gets Rogers' support |url=https://www.kentucky.com/news/politics-government/article304501871.html |access-date=April 22, 2025 |work=[[Lexington Herald-Leader]] |date=April 22, 2025}}</ref>
+*[[Amanda Mays Bledsoe]], state senator from the [[Kentucky's 12th Senate district|12th district]]<ref>{{Cite web |last=Horn |first=Austin |date=July 7, 2025 |title=Lexington state senator ends speculation, says she won't run for Congress |url=https://www.kentucky.com/news/politics-government/article310148345.html |access-date=July 7, 2025 |website=[[Lexington Herald-Leader]]}}</ref>
+*[[Damon Thayer]], former Majority Leader of the [[Kentucky Senate]] (2013–2025)<ref>{{Cite news |work=The Downballot |access-date=July 9, 2025 |url=https://www.the-downballot.com/i/167856165/ky |date=July 9, 2025 |title=Morning Digest: Nebraska independent who spooked GOP launches another Senate bid |author1=Nir, David |author2=Singer, Jeff}}</ref> ''(endorsed Alvarado)''<ref name="CourierKY06" />
+
+====Endorsements====
+{{Endorsements box
+|title=Ralph Alvarado
+|list=
+''' Executive Branch Officials'''
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last=Horsley |first=McKenna |title= Trump causes political earthquake in KY, backing Barr, Alvarado in U.S. Senate, House races |url= https://kentuckylantern.com/2026/05/01/trump-causes-political-earthquake-in-ky-backing-barr-alvarado-in-u-s-senate-house-races/ |website=Kentucky Lantern |access-date=May 2, 2026 |language=en |date=May 1, 2026}}</ref>
+
+'''U.S. representatives'''
+*[[Brett Guthrie]], [[Kentucky's 2nd congressional district|KY-02]] (2009–present)<ref name="EndTrack"/>
+*[[Mike Johnson]], [[speaker of the United States House of Representatives]] (2023–present), [[Louisiana's 4th congressional district|LA-4]] (2017–present)<ref>{{cite news |last=Ward |first=Karla |title= Trump endorses Ralph Alvarado in KY's 6th District congressional race |url= https://www.kentucky.com/news/politics-government/article315607479.html |website=Kentucky Lantern |access-date=May 3, 2026 |language=en |date=May 1, 2026}}</ref>
+*[[Jim Jordan]], [[OH-04]] (2007–present)<ref name="EndTrack" />
+*[[Hal Rogers]], [[Kentucky's 5th congressional district|KY-05]] (1981–present)<ref name="EndTrack"/>
+*[[Matt Van Epps]], [[TN-07]] (2025–present)<ref name="EndTrack" />
+
+'''State legislators'''
+*[[Damon Thayer]], former Majority Leader of the [[Kentucky Senate]] (2013–2025) from the 17th district (2003–2025)<ref name="CourierKY06">{{cite news |last1=Pinski |first1=Hannah |title=Who's in, who's out: Meet the candidates running for Kentucky's 6th Congressional District |url=https://www.courier-journal.com/story/news/politics/2025/07/21/kentucy-6th-congressional-district-candidates-2026-election-andy-barr/83475085007/ |access-date=July 21, 2025 |work=[[The Courier-Journal]] |date=July 21, 2025}}</ref>
+
+'''Organizations'''
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-ralph-alvarado-for-kentuckys-6th-congressional-district|title=U.S. Chamber Endorses Candidate Ralph Alvarado for Kentucky's 6th Congressional District|date=April 9, 2026|access-date=April 26, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Ryan Dotson
+|list=
+'''U.S. representatives'''
+*[[Paul Gosar]], [[AZ-09]] (2011–present)<ref name="EndTrack" />
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Ralph Alvarado (R)
+|$808,804
+|$256,554
+|$552,250
+|-
+| {{party shading/Republican}} |Adam Perez Arquette (R)
+|$4,990,948
+|$1,672,032
+|$1,656,948
+|-
+| {{party shading/Republican}} |Ryan Dotson (R)
+|$517,084
+|$221,413
+|$295,671
+|-
+| {{party shading/Republican}} |''Deanna Gordon (R)''
+|$372,174
+|$101,051
+|$271,123
+|-
+| {{party shading/Republican}} |Greg Plucinski (R)
+|$620,019
+|$389,451
+|$230,568
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Kentucky 6th |url=https://www.fec.gov/data/elections/house/KY/06/2026/|website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 27, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" | Ralph<br />Alvarado
+! style="width:60px;" | {{nowrap|Adam Perez}}<br />Arquette
+! style="width:60px;" | Ryan<br />Dotson
+! style="width:60px;" | Greg<br />Plucinski
+! style="width:60px;" | Steve<br />Shannon
+! Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 12, 2026
+| colspan="10" |Arquette withdraws from the race
+|-
+| style="text-align:left;" |1892 Polling (R)<ref name="1892May2026">{{Cite web|url=https://eocampaign1.com/web-version?p=81642b8a-4d42-11f1-ac93-e905f9be3453&pt=campaign&t=1778523246&s=88e987a16b7b666e91091f4bb9464bbf8280067daf1e0130163abaa1369456ca|title=Alvarado Takes Dominant Lead in Kentucky's 6th Congressional District Republican Primary Poll|work=Alvarado for Congress|date=May 11, 2026|access-date=May 13, 2026}}</ref>{{efn-ua|name=Alvarado|Poll sponsored by Alvarado's campaign}}
+|May 4–7, 2026
+|400 (LV)
+|±&nbsp;4.9%
+| {{party shading/Republican}} |'''38%'''
+|1%
+|15%
+|8%
+|3%
+|35%
+|-
+| style="text-align:left;" |1892 Polling (R)<ref name="1892May2026" />{{efn-ua|name=Alvarado}}
+|April 6–8, 2026
+|– (LV)
+|–
+| {{party shading/Republican}} |'''32%'''
+|0%
+|11%
+|6%
+|1%
+| {{party shading/Undecided}} |'''50%'''
+|-
+| style="text-align:left;" |1892 Polling (R)<ref name="1892May2026" />{{efn-ua|name=Alvarado}}
+|February 10–12, 2026
+|– (LV)
+|–
+| {{party shading/Republican}} |'''21%'''
+|1%
+|13%
+|0%
+|2%
+| {{party shading/Undecided}} |'''63%'''
+|}
+
+====Debates====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Republican primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! colspan="6" scope="col" | Participants
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee {{color box|#f0e68c|W}} Withdrawn</small>
+|-
+! scope="col" | Ralph Alvarado
+! scope="col" | Adam Perez Arquette
+! scope="col" | Ryan Dotson
+! scope="col" | Greg Plucinski
+! scope="col" | Steve Shannon
+|-
+! scope="row" | 1
+| style="white-space:nowrap;" | February 26, 2026
+| style="white-space:nowrap;" |[[Spectrum News]] 1 Kentucky
+| style="white-space:nowrap;" | Mario Anderson
+| style="white-space:nowrap;" | [https://spectrumnews1.com/ky/louisville/in-focus-shows/2026/03/26/ky-u-s--house-debate-3]
+|{{Yes|'''P'''}}
+| style="background:#A2B2C2; color:black; text-align:center;" |'''N'''
+|{{Yes|'''P'''}}
+| style="background:#A2B2C2; color:black; text-align:center;" |'''N'''
+| style="background:#A2B2C2; color:black; text-align:center;" |'''N'''
+|}
+
+====Results====
+[[File:2026_Kentucky's_6th_congressional_district_Republican_primary_election_results_by_county.svg|220px|thumb|Results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Alvarado}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+}}
+]]
+
+{{Election box begin no change
+  |title      = Republican primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = [[Ralph Alvarado]]
+  |party      = Republican Party (United States)
+  |votes      = 36,217
+  |percentage = 56.5
+}}
+{{Election box candidate with party link no change
+  |candidate  = [[Ryan Dotson]]
+  |party      = Republican Party (United States)
+  |votes      = 16,897
+  |percentage = 26.4
+}}
+{{Election box candidate with party link no change
+  |candidate  = Gregory George Plucinski 
+  |party      = Republican Party (United States)
+  |votes      = 5,670
+  |percentage = 8.8
+}}
+{{Election box candidate with party link no change
+  |candidate  = Steve Shannon
+  |party      = Republican Party (United States)
+  |votes      = 3,980
+  |percentage = 6.2
+}}
+{{Election box candidate with party link no change
+  |candidate  = Adam Perez Arquette ''(withdrawn)''
+  |party      = Republican Party (United States)
+  |votes      = 1,332
+  |percentage = 2.1
+}}
+{{Election box total no change
+  |votes      = 64,096
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+==== Nominee ====
+*Zach Dembo, former federal prosecutor<ref name="AlvaradoKY" />
+
+==== Eliminated in primary ====
+*Jimmy Ausbrooks, mental health counselor and perennial candidate<ref name="web.sos.ky.gov" />
+*Harvey Carroll, real estate developer and consultant<ref name="web.sos.ky.gov" />
+*Corey Edwards<ref name="web.sos.ky.gov" />
+*David Kloiber, former [[Lexington, Kentucky|Lexington]] city councilor and runner-up for [[List of mayors of Lexington, Kentucky|mayor]] of [[Lexington, Kentucky|Lexington]] in [[2022 Lexington, Kentucky mayoral election|2022]]<ref>{{Cite web |last=Hansen |first=Piper |date=June 4, 2025 |title=Former Lexington councilman latest Kentucky Dem to launch campaign for Congress |url=https://www.kentucky.com/news/politics-government/article307809990.html |website=[[Lexington Herald-Leader]]}}</ref>
+*Erin Petrey, sustainability and infrastructure professional, bourbon writer and educator<ref>{{cite news |last1=Horn |first1=Austin |title=New Democrat running in KY's 6th District has background in sustainability, bourbon |url=https://www.kentucky.com/news/politics-government/article311947872.html |access-date=September 3, 2025 |work=[[Lexington Herald-Leader]] |date=September 3, 2025}}</ref>
+*[[Cherlynn Stevenson]], former [[Kentucky House of Representatives|state representative]] from the 88th district (2019–2025)<ref>{{Cite web |last=Horsley |first=McKenna |date=2025-05-13 |title=Former Democratic legislative leader seeks U.S. House seat |url=https://kentuckylantern.com/2025/05/13/former-democratic-legislative-leader-seeks-kentuckys-open-u-s-house-seat/ |access-date=2025-05-13 |website=[[Kentucky Lantern]] |language=en-US}}</ref>
+
+====Declined====
+*[[Chad Aull]], [[Kentucky House of Representatives|state representative]] from the 79th district (2023–present)<ref name="WhoVies">{{cite news |last=Horn |first=Austin |title=If Rep. Andy Barr vies for Senate, who runs for Kentucky's 6th Congressional District? |url=https://www.kentucky.com/news/politics-government/article300099229.html |access-date=February 11, 2025 |work=[[Lexington Herald-Leader]] |date=February 11, 2025}}</ref>
+*[[Ben Chandler]], former U.S. representative (2004–2013)<ref name="BenChandler">{{cite news |last1=Horn |first1=Austin |title=Democrats plan to target Kentucky's 6th Congressional District as Republicans scoff |url=https://www.kentucky.com/news/politics-government/article303716156.html |access-date=April 8, 2025 |work=[[Lexington Herald-Leader]] |date=April 8, 2025}}</ref> ''(endorsed Dembo)''<ref name="Endorsement_snapshot" />
+*[[Jacqueline Coleman]], [[Lieutenant Governor of Kentucky]] (2019–present)<ref name="WhoVies"/> ''(endorsed Stevenson)''<ref name="Coleman">{{cite web|title=Lt. Gov. Coleman endorses Cherlynn Stevenson in Kentucky's 6th Congressional District race|url=https://www.wtvq.com/lt-gov-coleman-endorses-cherlynn-stevenson-in-kentuckys-6th-congressional-district-race/|work=[[WTVQ-DT]]|date=June 17, 2025|access-date=June 17, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Zach Dembo
+| list =
+'''U.S. representatives'''
+*[[Ben Chandler]], [[Kentucky's 6th congressional district|KY-06]] (2004–2013)<ref name="Endorsement_snapshot">{{cite news |last1=James |first1=Josh |title=The last Democrat to win the Sixth District favors Zach Dembo. Here's a snapshot of the endorsement leaderboard |url=https://www.wuky.org/wuky-news/2026-05-13/the-last-democrat-to-win-the-sixth-district-favors-zach-dembo-heres-a-snapshot-of-the-endorsement-leaderboard |access-date=14 May 2026 |work=[[WUKY]] |date=13 May 2026}}</ref>
+'''Local officials'''
+*[[Jim Gray (American politician)|Jim Gray]], [[List of mayors of Lexington, Kentucky|mayor]] of [[Lexington, Kentucky|Lexington]] (2011–2019)<ref name="Endorsement_snapshot" />
+'''Newspapers'''
+*''[[Lexington Herald-Leader]]'' (''Democratic primary only'')<ref>{{cite news |url=https://www.kentucky.com/opinion/editorials/article315357747.html|title=In a strong field, here is the best choice for 6th District Democratic Primary |newspaper=Lexigton Herald-Leader |department=Editorial |date=May 11, 2026|access-date=May 11, 2026}}</ref>
+'''Organizations'''
+*[[National Education Association]]<ref name="Endorsement_snapshot" />
+*[[VoteVets.org|VoteVets]]<ref>{{cite web|url=https://votevets.org/press-releases/votevets-pac-endorses-in-three-key-house-races-where-veteran-candidates-can-provide-crucial-flips|title=VoteVets PAC Endorses In Three Key House Races Where Veteran Candidates Can Provide Crucial Flips|date=October 14, 2025|access-date=October 15, 2025}}</ref>
+*[[With Honor Fund]]<ref>{{Cite web |title=Endorsed Candidates |url=https://withhonorfundiii.org/endorsements/ |access-date=December 2, 2025 |website=With Honor Fund III |language=en-US}}</ref>
+}}
+
+{{Endorsements box
+| title = Erin Petrey
+| list =
+'''Organizations'''
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+*[[Progressive Victory]]<ref name="Progressive Victory"/>
+}}
+
+{{Endorsements box
+| title = Cherlynn Stevenson
+| list =
+'''U.S. representatives'''
+*[[Lois Frankel]], [[Florida's 22nd congressional district|FL-22]] (2013–2017, 2023–present)<ref name="EndTrack"/>
+
+'''Statewide officials'''
+*[[Jacqueline Coleman]], [[lieutenant governor of Kentucky]] (2019–present)<ref name="Coleman"/>
+*[[Paul E. Patton]], former [[governor of Kentucky]] (1995–2003)<ref name="EndTrack"/>
+
+'''Organizations'''
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=10 January 2026}}</ref>
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-bold-women-leaders-in-ky-06-ia-02-and-co-05-congressional-districts/ |title=EMILYs List Endorses Bold Women Leaders In KY-06, IA-02, and CO-05 Congressional Districts |website=emilyslist.org |date=December 3, 2025 |access-date=December 3, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Zach Dembo (D)
+|$552,182
+|$208,900
+|$343,282
+|-
+|{{party shading/Democratic}}|David Kloiber (D)
+|$195,955
+|$51,340
+|$144,614
+|-
+|{{party shading/Democratic}}|Erin Petrey (D)
+|$174,307
+|$53,721
+|$120,585
+|-
+|{{party shading/Democratic}}|Cherlynn Stevenson (D)
+|$453,005
+|$328,062
+|$125,118
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"| Jimmy<br />Ausbrooks
+! style="width:60px;"| Zach<br />Dembo
+! style="width:60px;"| Corey<br />Edwards
+! style="width:60px;"| David<br />Kloiber
+! style="width:60px;"| Erin<br />Petrey
+! style="width:60px;"| Cherlynn<br />Stevenson
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Normington Petts (D)<ref>{{Cite tweet|user=jamesd0wns|first=James|last=Downs|number=2049462945059369137|title=New @njhotline: Poll commissioned by EMILYs List's Women Vote of the KY-06 Democratic primary shows former state Rep. Cherlynn Stevenson leading with 27%. Stevenson 27, Zach Dembo 13, Erin Petrey 6, Four others less than 5, Unsure 45. Seat open with Rep. Andy Barr's Senate run|access-date=April 29, 2026}}</ref>{{efn-ua|Poll commissioned by [[EMILY's List]], which supports Stevenson}}
+|April 6–9, 2026
+|430 (LV)
+|±&nbsp;4.9%
+|2%
+|13%
+|4%
+|2%
+|6%
+|{{party shading/Democratic}}|'''27%'''
+|1%{{efn|Harvey Carroll with 1%}}
+|{{party shading/Undecided}}|'''44%'''
+|}
+
+====Results====
+{{Election box begin no change
+  |title      = Democratic primary results<ref name="Primary Election Results" />
+}}
+{{Election box winning candidate with party link no change
+  |candidate  = Zach Dembo
+  |party      = Democratic Party (United States)
+  |votes      = 26,858
+  |percentage = 39.6
+}}
+{{Election box candidate with party link no change
+  |candidate  = [[Cherlynn Stevenson]]
+  |party      = Democratic Party (United States)
+  |votes      = 21,312
+  |percentage = 31.5
+}}
+{{Election box candidate with party link no change
+  |candidate  = Erin Petrey
+  |party      = Democratic Party (United States)
+  |votes      = 10,703
+  |percentage = 15.8
+}}
+{{Election box candidate with party link no change
+  |candidate  = David Kloiber
+  |party      = Democratic Party (United States)
+  |votes      = 3,041
+  |percentage = 4.5
+}}
+{{Election box candidate with party link no change
+  |candidate  = Corey Edwards
+  |party      = Democratic Party (United States)
+  |votes      = 2,952
+  |percentage = 4.4
+}}
+{{Election box candidate with party link no change
+  |candidate  = Harvey Carroll Jr.
+  |party      = Democratic Party (United States)
+  |votes      = 1,958
+  |percentage = 2.9
+}}
+{{Election box candidate with party link no change
+  |candidate  = Jimmy Clifton Ausbrooks
+  |party      = Democratic Party (United States)
+  |votes      = 940
+  |percentage = 1.4
+}}
+{{Election box total no change
+  |votes      = 67,764
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+===Third-party and indepedents===
+====Candidates====
+*Pete Lynch ([[Kentucky Party]]), political science lecturer<ref>{{cite web |last1=Freire |first1=Sylvia |title=UK graduate and lecturer announces run for Congress |url=https://kykernel.com/121015/news/uk-graduate-and-lecturer-announces-run-for-congress/ |access-date=December 5, 2025 |work=[[Kentucky Kernel]] |date=December 4, 2025}}</ref><ref name="general_candidates" />
+*Jay Bowman ([[Independent politician|Independent]]), businessman and presidential candidate in 2024<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6KY06234/1923186/}} October 21, 2025</ref><ref name="general_candidates" />
+*Robert Quigley (Write-in)<ref>{{Cite web |title=FEC Form 2 for Report FEC-1954154 |url=https://docquery.fec.gov/cgi-bin/forms/H6KY06283/1954154 |access-date=2026-03-18 |website=docquery.fec.gov}}</ref><ref name="general_candidates" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Lean|R}}
+|October 20, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Tossup}}
+|October 23, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tossup}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Tossup}}
+|October 27, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Zach Dembo (D)
+|list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web |title=DCCC Announces Five New Candidates to Coveted 2026 'Red to Blue' Program |url=https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program-2/ |website=DCCC |date=August 20, 2026}}</ref>
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-six-new-candidates-built-to-win-in-competitive-districts/|title=Blue Dog PAC Endorses Six New Candidates Built to Win in Competitive Districts|date=August 11, 2026|access-date=August 15, 2026}}</ref>
+
+;Statewide officials
+*[[Andy Beshear]], [[governor of Kentucky]] (2019–present)<ref>{{cite web |title=Beshear endorses Dembo for Congress |url=https://www.wkyt.com/2026/05/26/beshear-endorses-dembo-congress/ |website=WKYT |access-date=May 26, 2026 |language=en |date=May 26, 2026}}</ref>
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref>{{Cite web |title=Sherrill unveils first set of midterm endorsements |url=https://thehill.com/homenews/campaign/6013472-nj-gov-backs-national-security-candidates/ |access-date=August 7, 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=October 29, 2026}}</ref>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[J Street]]<ref>{{Cite web|title=Zach Dembo |url=https://jstreetpac.org/candidate/zach-dembo/ |publisher=J Street PAC |access-date=October 2, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=September 25, 2026}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite news |title=LCV Action Fund Endorses New Slate of Candidates for U.S. House of Representatives and Senate |website=League of Conservation Voters |location=Washington, D.C. |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-new-slate-of-candidates-for-u-s-house-of-representatives-and-senate |date=June 4, 2026 |access-date=October 25, 2026}}</ref>
+*[[New Democrat Coalition]] Action Fund<ref>{{cite news |title=New Dems Endorse Four Candidates in Florida, Kentucky, Colorado |website=New Democrat Coalition Action Fund |publisher=New Democrat Coalition |location=Washington, D.C. |url=https://www.newdemactionfund.com/news/new-dems-endorse-four-candidates-in-florida-kentucky-colorado?source=b555dc1b-9545-4ae3-a99f-9d334089b4a8 |date=July 22, 2026 |access-date=October 25, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ralph Alvarado (R)
+|$2,307,369
+|$2,126,558
+|$180,812
+|-
+|{{party shading/Democratic}}|Zach Dembo (D)
+|$3,205,462
+|$2,585,132
+|$620,330
+|-
+|{{party shading/Independent}}|Jay Bowman (I)
+|$18,958
+|$18,183
+|$216
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Ralph<br />Alvarado (R)
+! style="width:100px;"| Zach<br />Dembo (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW from @washingtonsun🚨 |url=https://x.com/cjwarnke/status/2112877284684341727 |publisher=[[Twitter]] |access-date=October 22, 2026 |date=October 21, 2026}}</ref>{{efn-ua|name=HMP}}
+|October 19–20, 2026
+|572 (LV)
+|–
+|41%
+|{{party shading/Democratic}}|'''47%'''
+|–
+|12%
+|-
+|style="text-align:left;"|[[Democratic Congressional Campaign Committee|DCCC]] (D)<ref>{{cite web |title=DCCC Polling Memo: Zach Dembo Continues to Lead in KY-06 |url=https://dccc.org/dccc-polling-memo-zach-dembo-continues-to-lead-in-ky-06/ |publisher=[[Democratic Congressional Campaign Committee|DCCC]] |access-date=October 14, 2026 |date=October 14, 2026}}</ref>
+|October 2–5, 2026
+|606 (LV)
+|±&nbsp;4.0%
+|40%
+|{{party shading/Democratic}}|'''46%'''
+|6%{{Efn|Jay Bowman (I) with 5%; Pete Lynch (KP) with 1%}}
+|8%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Recent Polling in Kentucky's 6th Congressional District |url=https://data.ddhq.io/polls/2026/10/08/Change-Research/Kentuckians-Not-Corruption-Kentucky--6-2026-09-29-2026-10-05 |publisher=[[Change Research]] |access-date=October 9, 2026 |date=October 8, 2026}}</ref>{{Efn-ua|Poll sponsored by Kentuckians Not Corruption, which supports Dembo<ref>{{cite web |last1=Cheves |first1=John |title=Flooded with ads for Central Kentucky's US House race? Thank these out-of-town PACs |url=https://www.kentucky.com/news/politics-government/election/article317439116.html |publisher=[[Lexington Herald-Leader]] |access-date=October 9, 2026 |date=October 1, 2026}}</ref>}}
+|September 29 – October 5, 2026
+|524 (LV)
+|±&nbsp;4.4%
+|38%
+|{{party shading/Democratic}}|'''47%'''
+|7%{{Efn|"A third-party candidate" with 7%}}
+|8%
+|-
+|rowspan="2" style="text-align:left;"|Lake Research Partners (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW @HouseMajPAC poll in #KY06🚨 |url=https://x.com/cjwarnke/status/2108282466733818029 |publisher=[[Twitter]] |access-date=October 9, 2026 |date=October 8, 2026}}</ref>{{Efn-ua|name=HMP}}
+|rowspan="2"|September 30 – October 4, 2026
+|rowspan="2"|400 (LV)
+|rowspan="2"|–
+|40%
+|{{party shading/Democratic}}|'''47%'''
+|4%{{Efn|Jay Bowman (I) with 3%; Pete Lynch (KP) with 1%}}
+|10%
+|-
+|45%
+|{{party shading/Democratic}}|'''48%'''
+|–
+|7%
+|-
+|rowspan="2" style="text-align:left;"|GQR (D)<ref>{{cite web |last1=Horsley |first1=McKenna |title=Internal poll shows Democrat Dembo leads GOP's Alvarado in central Kentucky House race |url=https://kentuckylantern.com/2026/10/02/internal-poll-shows-democrat-dembo-leads-gops-alvarado-in-central-kentucky-house-race/ |publisher=[[Kentucky Lantern]] |access-date=October 3, 2026 |date=October 2, 2026}}</ref>{{Efn-ua|name=Dembo}}
+|rowspan="2"|September 25–30, 2026
+|rowspan="2"|401 (LV)
+|rowspan="2"|±&nbsp;4.9%
+|37%
+|{{party shading/Democratic}}|'''42%'''
+|11%{{Efn|Jay Bowman (I) & Pete Lynch (KP) together with 11%}}
+|9%
+|-
+|43%
+|{{party shading/Democratic}}|'''46%'''{{efn|name=lean}}
+|–
+|11
+|-
+|style="text-align:left;"|Lake Research Partners (D)<ref>{{Cite web|url=https://www.thehousemajoritypac.com/news/hmp-memo-polling-shows-path-to-a-larger-democratic-majority-exists-with-necessary-funding|title=HMP MEMO: Polling Shows Path To A Larger Democratic Majority Exists With Necessary Funding|website=[[House Majority PAC]]|date=August 27, 2026|access-date=August 31, 2026}}</ref>{{Efn-ua|name=HMP}}
+|August 17–23, 2026
+|400 (LV)
+|±&nbsp;4.0%
+|44%
+|{{party shading/Democratic}}|'''45%'''
+|–
+|11%
+|-
+|style="text-align:left;"|[[Democratic Congressional Campaign Committee|DCCC]] (D)<ref>{{Cite web|url=https://www.kentucky.com/news/politics-government/article316781408.html|title=New poll shows Zach Dembo, Ralph Alvarado tied in Central KY congressional race|first=John|last=Cheves|website=[[Lexington Herald-Leader]]|date=August 6, 2026|access-date=August 7, 2026}}</ref>{{efn-ua|name=HMP| Poll sponsored by the [[House Majority PAC]], which is focused on electing Democrats to the U.S. House of Representatives}}
+|July 29–30, 2026
+|474 (V)
+|±&nbsp;4.5%
+|'''47%'''
+|'''47%'''
+|–
+|6%
+|-
+|style="text-align:left;"|GQR (D)<ref>{{Cite web|url=https://insideelections.com/kentucky-6-new-poll-fuels-democratic-optimism/|title=Kentucky 6: New Poll Fuels Democratic Optimism|first=Inshara|last=Ali|website=[[Inside Elections]]|date=July 10, 2026|access-date=July 10, 2026}}</ref>{{efn-ua|name=Dembo}}
+|June 24–28, 2026
+|440 (V)
+|–
+|{{party shading/Republican}}|'''42%'''
+|39%
+|–
+|19%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 19, 2026
+| colspan="16"| Primary elections
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref name="PPPMay2026">{{Cite web|url=https://www.politico.com/f/?id=0000019e-1d50-d0fd-a3de-bf5d58340000|title=Zach Dembo Best-Positioned for General Election Victory in KY-6|first=Jim|last= Williams|work=[[Public Policy Polling]]|date=April 28, 2026|access-date=May 13, 2026|via=[[Politico]]}}</ref>{{efn-ua|name=Dembo|Poll sponsored by Dembo's campaign}}
+|April 24–25, 2026
+|675 (RV)
+|±&nbsp;3.8%
+|'''37%'''
+|'''37%'''
+|–
+|26%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Ralph Alvarado vs. Cherlynn Stevenson'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Ralph<br />Alvarado (R)
+! style="width:100px;"| Cherlynn<br />Stevenson (D)
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref name="PPPMay2026"/>{{efn-ua|name=Dembo}}
+|April 24–25, 2026
+|675 (RV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''37%'''
+|36%
+|27%
+|}
+
+'''Ryan Dotson vs. Zach Dembo'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Ryan<br />Dotson (R)
+! style="width:100px;"| Zach<br />Dembo (D)
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref name="PPPMay2026"/>{{efn-ua|name=Dembo}}
+|April 24–25, 2026
+|675 (RV)
+|±&nbsp;3.8%
+|33%
+|{{party shading/Democratic}}|'''38%'''
+|29%
+|}
+
+'''Ryan Dotson vs. Cherlynn Stevenson'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Ryan<br />Dotson (R)
+! style="width:100px;"| Cherlynn<br />Stevenson (D)
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref name="PPPMay2026"/>{{efn-ua|name=Dembo}}
+|April 24–25, 2026
+|675 (RV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''37%'''
+|36%
+|27%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin
+  |title      = 2026 Kentucky's 6th congressional district election
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Ralph Alvarado]]
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Zach Dembo
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link 
+  |party      = Kentucky Party
+  |candidate  = Pete Lynch
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Jay J. Bowman
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box write-in with party link
+  |votes      = 
+  |percentage = 
+  |change     = N/A
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0
+  |change     = N/A
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''
+{{notelist-ua}}
+
+==See also==
+*[[Elections in Kentucky]]
+*[[Political party strength in Kentucky]]
+*[[Kentucky Democratic Party]]
+*[[Kentucky Republican Party]]
+*[[Government of Kentucky]]
+*[[2026 United States Senate election in Kentucky]]
+*[[2026 United States elections]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+'''Official campaign websites for 1st district candidates'''
+*[https://jamescomer.com/ James Comer (R)]
+*[https://www.williamsforky.com/ John Williams (D)]
+
+'''Official campaign websites for 2nd district candidates'''
+*[https://brettguthrie.com/ Brett Guthrie (R)]
+*[https://meganwingfieldforcongress.com/ Megan Wingfield (D)]
+
+'''Official campaign websites for 3rd district candidates'''
+*[https://www.morganmcgarvey.com/ Morgan McGarvey (D)]
+*[https://mariaforuscongress.com/ Maria Rodriguez (R)]
+
+'''Official campaign websites for 4th district candidates'''
+*[https://www.edgallrein.com/ Ed Gallrein (R)]
+*[https://strangeforky.com/ Melissa Strange (D)]
+*[https://jeremy-todd.com/ Jeremy Todd (L)]
+
+'''Official campaign websites for 5th district candidates'''
+*[https://nedforcongress.com/ Ned Pillersdorf (D)]
+*[https://congressmanhalrogers.com/ Hal Rogers (R)]
+*[https://serranoforamerica.com/ Gerardo Serrano (I)]
+*[https://www.weinforky5.com/ Mikel Wein (I)]
+
+'''Official campaign websites for 6th district candidates'''
+*[https://alvaradoforcongress.com/ Ralph Alvarado (R)]
+*[https://www.bowman2026.com/ Jay Bowman (I)]
+*[https://zachdembo.com/ Zach Dembo (D)]
+*[https://petelynchforkentucky.com/ Pete Lynch (I)]
+*[https://www.robertquigleyforcongress.com/ Robert Quigley (I)]
+{{div col end}}
+
+{{2026 United States elections}}
+{{Elections in Kentucky footer}}
+
+[[Category:United States House of Representatives elections in Kentucky|2024]]
+[[Category:2026 elections in Kentucky|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Kentucky]]
+[[Category:Thomas Massie]]

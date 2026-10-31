@@ -1,0 +1,2720 @@
+{{short description|none}}
+{{Use mdy dates|date=November 2024}}
+{{use American English|date=November 2024}}{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Colorado House of Representatives election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Colorado
+| country = Colorado
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado
+| next_year = 2028
+| seats_for_election = All 8 Colorado seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = '''4'''
+| seats1 =
+| seat_change1 =
+| party2 = Republican Party (United States)
+| last_election2 = '''4'''
+| seats2 =
+| seat_change2 =
+| map_image = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Colorado results map.svg|280px]] |District results |[[File:2026 United States House of Representatives elections in Colorado results map by county.svg|280px]] |County results}}-->
+| map_caption =
+}}
+{{Elections in Colorado}}
+The '''2026 United States House of Representatives elections in Colorado''' will be held on November 3, 2026, to elect the eight [[U.S. representative]]s from the [[U.S. state|State]] of [[Colorado]], one from each of the state's [[Colorado's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 30, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Colorado's 1st congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 1
+| next_year = 2028
+| nominee1 = [[Melat Kiros]]
+| image1 = File:Melat Kiros Portrait (cropped).jpg
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| nominee2 = Christy Peterson
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 1st congressional district election results map by county.svg|270px]]
+| County results}}-->
+| map_caption = 
+| title = U.S. representative
+| before_election = [[Diana DeGette]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+| image2 = 3x4.svg
+}}
+{{Main|2026 Colorado's 1st congressional district election}}
+{{see also|Colorado's 1st congressional district}}
+The 1st district includes almost all of [[Denver]], as well as the enclaves of [[Glendale, Colorado|Glendale]] and [[Holly Hills, Colorado|Holly Hills]]. The incumbent is Democrat [[Diana DeGette]], who was re-elected with 76.6% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Nominee====
+* [[Melat Kiros]], graduate student and former attorney<ref>{{cite web|url=https://www.coloradopolitics.com/elections/2026/denver-democrat-diana-degette-draws-primary-challenge-call-for-new-generation-from-melat-kiros/article_fa6c7d97-e15d-4a61-823b-f483222ccbea.html|title=Denver Democrat Diana DeGette draws primary challenge, call for 'new generation' from Melat Kiros|last=Luning|first=Ernest|date=July 9, 2025|access-date=July 9, 2025|website=[[The Colorado Statesman]]}}</ref><ref name=":1" />
+
+==== Eliminated in primary ====
+* [[Diana DeGette]], incumbent U.S. representative<ref name="Incumbents">{{cite news |last1=Luning |first1=Ernest |title=Fields for Colorado's top 2026 statewide, congressional races begin to take shape |url=https://www.coloradopolitics.com/columnists/fields-for-colorados-top-2026-statewide-congressional-races-begin-to-take-shape--trail-mix/article_ad28c448-5791-49a9-a7bd-ef5202a269f8.html |access-date=May 9, 2025 |work=[[Colorado Politics]] |date=May 9, 2025 |language=en |quote=Every incumbent member of Congress from Colorado who is up for election next year is seeking another term}}</ref><ref name=":1">{{Cite web |last=Luning |first=Ernest |date=2026-03-28 |title=Denver Democrat Diana DeGette trails challenger Melat Kiros at assembly as both qualify for primary |url=https://www.coloradopolitics.com/2026/03/28/denver-democrat-diana-degette-trails-challenger-melat-kiros-at-assembly-as-both-qualify-for-primary/ |access-date=2026-03-29 |website=Colorado Politics |language=en-US}}</ref>
+* [[Wanda James]], member of the [[University of Colorado Board of Regents]] from the 1st district (2023–present)<ref>{{cite news |last1=Kim |first1=Caitlyn |title=CU Regent Wanda James to launch congressional bid, challenging Colorado's longest-serving congresswoman |url=https://www.cpr.org/2025/09/17/cu-regent-wanda-james-enters-1st-congressional-district-race/ |access-date=September 17, 2025 |work=[[Colorado Public Radio]] |date=September 17, 2025 |language=en}}</ref>
+
+====Withdrawn====
+* Carter Hanson, substitute teacher<ref>{{#invoke:cite|news |last1=Metzger |first1=Hannah |title=Meet the Gen Z Candidates Challenging Colorado's Longest-Serving Congressmember |url=https://www.westword.com/news/gen-z-candidates-challenge-longest-serving-colorado-congress-25259491/ |access-date=August 13, 2025 |work=[[Westword]] |date=August 12, 2025 |language=en |quote=But two political newcomers are hoping to end her record-breaking reign: 28-year-old Melat Kiros and 27-year-old Carter Hanson are running against DeGette in the Democratic Party primary}}</ref>
+* Olivia Miller<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO01265/1896038/ |date=2025-10-30 |access-date=2025-10-30}}</ref>
+* Christopher Oldfield<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924180 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO01315/1924180/ |access-date=2025-12-04 |website=docquery.fec.gov}}</ref>
+* Santiago Palomino, teacher<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO01307/1916152/ |date=2025-09-19 |access-date=2025-10-30}}</ref>
+* Tiffany Rodgers, medical office manager<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO01257/1882492/ |date=2025-03-25 |access-date=2025-04-16}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Diana DeGette
+|colwidth=45em
+|list=
+;U.S. representatives
+* [[Greg Casar]], [[TX-35]] (2023–present)<ref name="EndTrack"/>
+* [[Jason Crow]], [[Colorado's 6th congressional district|CO-6]] (2019–present)<ref name=CO-delegation>{{Cite web |last=Vakil |first=Caroline |date=June 30, 2026 |title=DeGette loses reelection bid to DSA challenger in major upset for Denver-based House seat |url=https://thehill.com/homenews/campaign/5945886-diana-degette-loses-relelection-bid/ |website=The Hill}}</ref>
+* [[Maxwell Frost]], [[FL-10]] (2023–present)<ref name="EndTrack"/>
+* [[Pramila Jayapal]], [[WA-07]] (2017–present)<ref name="EndTrack"/>
+* [[Joe Neguse]], [[CO-02]] (2019–present)<ref name=CO-delegation/>
+* [[Brittany Pettersen]], [[Colorado's 7th congressional district|CO-7]] (2023–present)<ref name=CO-delegation/>
+
+;Labor unions
+* [[American Federation of Government Employees]]<ref>{{cite web|url=https://www.afge.org/publication/largest-federal-employee-union-endorses-5-colorado-lawmakers-for-reelection-to-congress/ |title=Largest Federal Employee Union Endorses 5 Colorado Lawmakers for Reelection to Congress |website=AFGE |last1=Kaufman |first1=Tim |date=June 16, 2026 |accessdate=September 2, 2026}}</ref>
+* Colorado [[AFL-CIO]]<ref name=co01pol>{{cite web|last=Luning|first=Ernest|title=Bernie Sanders endorses DeGette challenger Melat Kiros in Colorado's 1st CD Democratic primary|url=https://www.coloradopolitics.com/2026/06/19/bernie-sanders-endorses-degette-challenger-melat-kiros-in-colorados-1st-cd-democratic-primary/|date=June 19, 2026|access-date=June 23, 2026}}</ref>
+* [[SEIU]] Colorado<ref>{{cite web|title=Endorsements|url=https://seiucolorado.org/endorsements/|website=SEIU Colorado |access-date=31 May 2026 |language=en }}</ref>
+
+;Organizations
+*[[Advocates for Trans Equality]]<ref>{{cite web|title=Endorsements |url=https://transequality.org/elections/endorsements|access-date=June 18, 2026 |work=Advocates for Trans Equality}}</ref>
+* [[CHC BOLD PAC]]<ref name=co01pol/>
+* [[Congressional Progressive Caucus]] PAC<ref name=co01pol/>
+* [[Feminist Majority Foundation|Feminist Majority PAC]]<ref name="Fem">{{Cite web|url=https://feministmajoritypac.org/endorsements/2026/|title=2026|website=feministmajoritypac.org}}</ref>
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="Humane">{{cite web |title=Endorsements {{!}} Humane World Action Fund |url=https://humaneaction.org/endorsements|website=humaneaction.org|language=en}}</ref>
+* [[J Street]]<ref>{{cite web |title=Diana DeGette |url=https://jstreetpac.org/candidate/diana-degette/ |website=JStreetPAC |access-date=5 December 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref name="JACPA"/>
+*[[League of Conservation Voters]] Action Fund<ref name="LCV Slate">{{cite web |title=LCV Action Fund Endorses New Slate of Candidates for U.S. House of Representatives and Senate|url=https://www.lcv.org/media-center/lcv-action-fund-endorses-new-slate-of-candidates-for-u-s-house-of-representatives-and-senate/|publisher=League of Conservation Voters |date=June 4, 2026}}</ref>
+* [[National Organization for Women]]<ref name=co01pol/>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+* [[Population Connection]]<ref name=PCon/>
+* [[Reproductive Freedom for All]]<ref name="RFFA">{{cite web |title=Elections |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260609070637/https://reproductivefreedomforall.org/elections |archive-date=June 9, 2026 |access-date=October 25, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Wanda James
+|list=
+;Executive branch officials
+* [[Ken Salazar]], former [[United States Ambassador to Mexico|ambassador to Mexico]] (2021–2025)<ref name=denverpost-co1>{{cite web |title=Diana DeGette has served 15 terms in Congress, but has she been effective? Denver voters will decide in primary. |url=https://www.denverpost.com/2026/05/31/diana-degette-primary-challengers-congress/|website=The Denver Post |access-date=31 May 2026|date=31 May 2026|last=Wenzler|first=Elliott}}</ref>
+
+;State legislators
+* [[Terrance Carroll]], former [[List of speakers of the Colorado House of Representatives|speaker of the Colorado House]] (2009–2011) from [[Colorado's 7th House of Representatives district|HD-07]] (2003–2011)<ref>{{cite web|last=Hernandez|first=Esteban |title=Wanda James downplays spoiler role in 1st District primary|url=https://www.axios.com/local/denver/2026/04/22/wanda-james-1st-congressional-district|website=Axios Denver|access-date=27 June 2026|date=22 April 2026}}</ref>
+
+;Local officials
+* [[Wellington Webb]], former [[List of mayors of Denver|mayor of Denver]] (1991–2003)<ref name=denverpost-co1/>
+}}
+
+{{Endorsements box
+|title=Melat Kiros
+|colwidth=45em
+|list=
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref name=co01pol/>
+
+;State legislators
+* [[Iman Jodeh]], [[Colorado's 29th Senate district|SD-29]] (2025–present)<ref name=tracker/>
+* [[Cathy Kipp]], president pro tempore of the [[Colorado State Senate]] (2026-present) from the [[Colorado's 14th Senate district|SD-14]] (2025–present)<ref name=tracker>{{cite web |title=Endorsements tracker|url=https://www.localcandidates.org/politicians/melat-kiros/endorsements}}</ref>
+* [[Javier Mabrey]], [[Colorado's 1st House of Representatives district|HD-01]] (2023–present)<ref name=denverpost-co1/>
+* [[Kenny Nguyen (politician)|Kenny Nguyen]], [[Colorado's 33rd House of Representatives district|HD-33]] (2026–present)<ref name=tracker/> 
+*[[Chris Rabb]], [[Pennsylvania]]'s [[Pennsylvania House of Representatives, District 200|HD-200]] (2017–present) and [[2026 United States House of Representatives elections in Pennsylvania#District 3|2026]] Democratic nominee for [[PA-03]]<ref name="Rabb">{{cite web|url=https://www.inquirer.com/politics/pennsylvania/chris-rabb-endorsements-progressive-congress-midterms-third-district-20260601.html|title=Chris Rabb's campaign was a massive win for Philly progressives. Now, he wants to replicate it across the country.|last=Janesch|first=Sam|date=June 1, 2026|access-date=June 1, 2026|website=[[The Philadelphia Inquirer]]}}</ref>
+* [[Brianna Titone]], [[Colorado's 29th House of Representatives district|HD-29]] (2019–present)<ref name=tracker/> 
+<!--*[[Claire Valdez]], [[New York (state)|New York]]'s [[New York's 37th State Assembly district|AD-37]] (2025–present) and [[2026 United States House of Representatives elections in New York#District 7|2026]] Democratic nominee for {{ushr|NY|7|NY-7}}<ref>{{cite tweet|user=claireforny|number=2071228282075267166|title=All out for @MelatKirosCO! |access-date=July 1, 2026}}</ref>-->
+*[[Yara Zokaie]], [[Colorado's 52nd House of Representatives district|HD-52]] (2025–present)<ref>{{cite web |last1=Paul |first1=Jesse |last2=Slevin |first2=Colleen |title=Progressive leaders criticize Melat Kiros for declining to call deadly Boulder firebombing antisemitic |url=https://coloradosun.com/2026/06/27/melat-kiros-boulder-firebombing-comments/ |website=The Colorado Sun |access-date=28 June 2026 |date=27 June 2026}}</ref>
+<!--;Individuals
+*[[Darializa Avila Chevalier]], community organizer and [[2026 United States House of Representatives elections in New York#District 13|2026]] Democratic nominee for {{ushr|NY|13|NY-13}}<ref>{{cite tweet|user=DarializaforNY|number=2070995791003398231|title=Denver, if you want what we've been winning in New York*, you've gotta come out and support @MelatKirosCO now!|access-date=July 1, 2026}}</ref>
+*[[Adam Hamawy]], surgeon and [[2026 United States House of Representatives elections in New Jersey#District 12|2026]] Democratic nominee for {{ushr|NJ|12|NJ-12}}<ref>{{cite tweet|user=HamawyForNJ|number=2069896570317750623|title=I am thrilled to announce my endorsement of @MelatKirosCO!|access-date=July 1, 2026}}</ref>-->
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web|url=https://educationvotes.nea.org/plan-your-vote/our-recommended-candidates/|title=Our Recommended Candidates|publisher=Education Votes|access-date=2026-10-27}}</ref>
+* [[UFCW]] Local 7<ref name=ufcw>{{Cite web|title=Our 2026 Endorsed Candidates|url=https://www.ufcw7.org/2026-political-endorsements|access-date=2026-05-31 |website=UFCW 7 |language=en-US}}</ref>
+
+;Organizations
+* [[American Priorities]]<ref>{{Cite news |last=Slevin |first=Colleen |last2=Paul |first2=Jesse |date=June 26, 2026 |title=Melat Kiros may be on the verge of unseating Diana DeGette. Here’s how that came to be. |url=https://coloradosun.com/2026/06/26/melat-kiros-diana-degette-race-colorado/ |access-date=June 30, 2026 |work=[[The Colorado Sun]]}}</ref>
+* [[A New Policy]] PAC<ref>{{Cite web|title=Melat Kiros|url=https://platform.anewpolicypac.org/candidates/melat-kiros|access-date=2026-06-18 |website=A New Policy PAC|language=en-US}}</ref>
+* [[Democratic Socialists of America]]<ref name=co01pol/>
+* Denver [[Democratic Socialists of America]]<ref>{{Cite web |last=Luning |first=Ernest |date=2026-03-28 |title=Denver Democrat Diana DeGette trails challenger Melat Kiros at assembly as both qualify for primary |url=https://www.coloradopolitics.com/2026/03/28/denver-democrat-diana-degette-trails-challenger-melat-kiros-at-assembly-as-both-qualify-for-primary/ |access-date=2026-04-06 |website=[[The Colorado Statesman|Colorado Politics]] |language=en-US}}</ref>
+* [[Jewish Voice for Peace]] Action<ref>{{cite web |last1=DeMare |first1=Kiara |title=Left-wing mega-streamer Hasan Piker coming to Denver for Kiros and Gonzales event |url=https://denverite.com/2026/06/14/hasan-piker-melat-kiros-julie-gonzales/ |website=Denverite |access-date=15 June 2026 |language=en |date=14 June 2026}}</ref>
+* [[Justice Democrats]]<ref>{{cite web |last1=Marquez |first1=Alexandra |title=Justice Democrats backs a sixth House primary challenger, this time against Rep. Diana DeGette |url=https://www.nbcnews.com/politics/2026-election/justice-democrats-backs-sixth-house-primary-challenger-diana-degette-rcna247241 |access-date=December 4, 2025 |work=[[NBC News]] |date=December 4, 2025}}</ref>
+* [[New American Leaders]] Action Fund<ref name=nalaf>{{cite web |title=New American Leaders Action Fund Surpasses its Record Number of Endorsed Candidates with 75 so far in 2026|url=https://thenewamericansmag.com/new-american-leaders-action-fund-surpasses-its-record-number-of-endorsed-candidates-with-75-so-far-in-2026/|access-date=May 22, 2025 |work=New Americas Magazine |date=May 6, 2026}}</ref>
+* [[Our Revolution]]<ref>{{cite web|title=Bold Progressive Slate in Colorado|url=https://ourrevolution.com/bold-progressive-slate-in-colorado/|website=Our Revolution |access-date=16 April 2026}}</ref>
+* [[PAL PAC]]<ref>{{Cite web |url=https://pal.vote/candidates|title=Candidates|access-date=June 22, 2026|website=PAL PAC}}</ref>
+* [[Peace Action]]<ref name = "KirosBallotpedia"/>
+* [[Sunrise Movement]]<ref>{{Cite web |last=Washington |first=Jessica |date=2026-03-27 |title=Sunrise Movement Pushes Anti-War Candidates, Endorsing Melat Kiros in Denver |url=https://theintercept.com/2026/03/27/sunrise-movement-war-denver-melat-kiros/ |access-date=2026-03-30 |website=The Intercept |language=en-US}}</ref>
+* [[Track AIPAC]]<ref name = "KirosBallotpedia">{{Cite web |title=Melat Kiros |url=https://ballotpedia.org/Melat_Kiros |access-date=2026-04-06 |website=Ballotpedia |language=en}}</ref>
+*[[Track AIPAC#Activities|Track Oil PACs]]<ref>{{cite web|url=https://www.trackerpac.com/oil-pac-tracker|title=Endorsements|access-date=July 6, 2026}}</ref>
+
+;Political parties
+*Colorado [[Working Families Party]]<ref>{{cite web|title=Colorado Working Families Party Announces 2026 Primary Early Endorsements |url=https://workingfamilies.org/state/colorado/|publisher=Working Families Party |access-date=28 May 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Diana DeGette (D)
+|$1,424,135
+|$1,234,561
+|$459,044
+|-
+|{{party shading/Democratic}}|Wanda James (D)
+|$291,478
+|$265,717
+|$25,761
+|-
+|{{party shading/Democratic}}|Melat Kiros (D)
+|$660,193
+|$571,771
+|$88,422
+|-
+|{{party shading/Democratic}}|''Santiago Palomino (D)''
+|$6,637
+|$593
+|$2,810
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Colorado 1st |url=https://www.fec.gov/data/elections/house/CO/01/2026/ |website=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 CO-01 Democratic primary election results by precinct.svg|250px|thumb|Democratic primary results by precinct{{efn|[[Arapahoe County, Colorado|Arapahoe County]] precinct results unavailable as of July 18, 2026; they are shaded by county-wide vote.}}
+{{collapsible list
+| title = {{legend|#7996E2|Kiros}}|{{legend|#A5B0FF|40–50%}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|{{legend|#584CDE|70–80%}}|{{legend|#3933E5|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|DeGette}}|{{legend|#7DDDDD|40–50%}}|{{legend|#51C2C2|50–60%}}|{{legend|#2AACAC|60–70%}}|{{legend|#009696|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}|{{legend|#D2B1D9|40–50%}}
+}}
+]]
+
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Melat Kiros]]
+| party = Democratic Party (United States)
+| votes = 83,855
+| percentage = 53.2
+}}
+{{Election box candidate with party link no change
+| candidate = [[Diana DeGette]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 62,715
+| percentage = 39.8
+}}
+{{Election box candidate with party link no change
+| candidate = [[Wanda James]]
+| party = Democratic Party (United States)
+| votes = 11,075
+| percentage = 7.0
+}}
+{{Election box total no change
+| votes = 157,645
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+* Christy Peterson, office manager<ref>{{Cite web |date=2026-04-09 |title=Christy Peterson is the Republican candidate for Congress in solid-blue Denver |url=https://denverite.com/2026/04/09/denver-congress-republican-candidate-christy-peterson/ |access-date=2026-04-12 |website=Denverite |language=en}}</ref>
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Christy Peterson
+| party = Republican Party (United States)
+| votes = 15,010
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 15,010
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Filed paperwork====
+* Shimon Blau, medical doctor<ref>{{Cite web |title=Independent candidate files signatures for CO-1 challenge |url=https://denverite.com/2026/07/09/independent-shimon-blau-files-signatures-co-1-race/ |access-date=July 10, 2026|date=July 9, 2026|first1=Kyle|last1=Harris|first2=Kiara|last2=DeMare|website=Denverite.com}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ">{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=April 26, 2026 |website=[[The Economist]] |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Melat Kiros (D)
+|width=50em
+|list=
+;U.S. representatives
+*[[Greg Casar]], {{ushr|TX|35|TX-35}} (2023–present) and chair of the [[Congressional Progressive Caucus]]<ref name="CPC">{{cite web|title=Congressional Progressive Caucus PAC Endorses Melat Kiros for CO-01|url=https://weareprogressives.org/3561-2/|website=Progressive Caucus|date=July 30, 2026|access-date=August 11, 2026}}</ref>
+*[[Maxwell Frost]], {{ushr|FL|10|FL-10}} (2023–present)<ref name="CPC"/>
+*[[Pramila Jayapal]], {{ushr|WA|7|WA-7}} (2017–present)<ref name="CPC"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite press release |title=Largest Federal Employee Union Endorses 4 Candidates for Election to Congress Representing Colorado |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-4-candidates-for-election-to-congress-representing-colorado |publisher=AFGE |access-date=October 10, 2026 |date=October 7, 2026}}</ref>
+*[[SEIU]] Colorado<ref name="SEIU">{{cite web |title=Endorsements |url=https://seiucolorado.org/endorsements/#federal |website=SEIU Colorado |access-date=October 10, 2026}}</ref>
+
+;Organizations
+*[[Congressional Progressive Caucus]] PAC<ref name="CPC"/>
+*[[End Citizens United]]<ref>{{cite press release |title=End Citizens United Endorses Melat Kiros in Colorado’s 1st Congressional District |url=https://www.endcitizensunited.org/news/end-citizens-united-endorses-melat-kiros-in-colorados-1st-congressional-district |publisher=[[End Citizens United]] |access-date=October 10, 2026 |date=September 23, 2026}}</ref>
+* [[Progressive Democrats of America]]<ref>{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements |archive-url=https://web.archive.org/web/20260830221133/https://pdamerica.org/endorsements |website=[[Progressive Democrats of America]] |access-date=20 October 2026 |archive-date=30 August 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Melat Kiros
+|$1,285,740
+|$1,188,771
+|$96,969
+|-
+|{{party shading/Republican}}| Christy Peterson
+|$7,185
+|$1,540
+|$5,645
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="CO">{{cite web |title=2026 Election United States House - Colorado |url=https://www.fec.gov/data/elections/house/CO/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 17, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Shimon Blau
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Chad Humphrey
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Melat Kiros]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Unity Party of America
+  |candidate  = Critter Milton
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Christy Peterson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Colorado's 2nd congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Joe Neguse, official portrait, 116th Congress (cropped).jpg
+| nominee1 = [[Joe Neguse]] 
+| party1 = Democratic Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Kelley Dennison
+| party2 = Republican Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 2nd congressional district election results map by county.svg|200px]]
+| County results}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Joe Neguse]]
+| before_party = Democratic Party (United States)
+| after_election =
+| after_party =
+}}
+{{see also|Colorado's 2nd congressional district}}
+The 2nd district is located in north-central Colorado, including the northwestern Denver suburbs, such as [[Boulder, Colorado|Boulder]] and [[Fort Collins, Colorado|Fort Collins]]. The incumbent is Democrat [[Joe Neguse]], who was re-elected with 68.4% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+* [[Joe Neguse]], incumbent U.S. Representative<ref name="Incumbents"/>
+'''Withdrawn'''
+* Cinque Mason<ref name="dozens">{{cite news |last1=Solender |first1=Andrew |title=Scoop: Dozens of Dem candidates won't commit to backing Jeffries |url=https://www.axios.com/2025/10/16/hakeem-jeffries-speaker-leader-democrats-primary |access-date=October 16, 2025 |date=October 16, 2025 |website=[[Axios (website)|Axios]] |archive-url=https://web.archive.org/web/20251016075142/https://www.axios.com/2025/10/16/hakeem-jeffries-speaker-leader-democrats-primary |archive-date=October 16, 2025 |url-status=live}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Joe Neguse
+|list=
+;U.S. representatives
+* [[Gabby Giffords]], former [[AZ-08]] (2007–2012)<ref name="EndTrack"/>
+* [[Seth Moulton]], [[MA-06]] (2015–present)<ref>{{cite web |title=Candidates|url=https://serveamericapac.com/candidates|website=Serve America}}</ref>
+;Organizations
+* [[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 7, 2026}}</ref>
+* [[Feminist Majority Foundation|Feminist Majority PAC]]<ref name="Fem"/>
+* [[Giffords]]<ref>{{Cite web |title=Joe Neguse |url=http://giffords.org/candidates/joe-neguse-3/ |access-date=June 20, 2026 |website=GIFFORDS |language=en-US}}</ref>
+* [[Humane World for Animals|Humane World Action Fund]]<ref name="Humane"/>
+* [[Jewish Democratic Council of America]]<ref name=JDem/>
+* [[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+* [[J Street]]<ref>{{cite web |title=Joe Neguse |url=https://jstreetpac.org/candidate/joe-neguse/ |website=J Street PAC |access-date=24 November 2025}}</ref>
+* [[League of Conservation Voters]] Action Fund<ref>{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+* [[Population Connection]]<ref name=PCon>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=24 November 2025}}</ref>
+* [[Progressive Democrats of America]]<ref name="PDA">{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements |archive-url=https://web.archive.org/web/20260227001236/https://pdamerica.org/endorsements |website=[[Progressive Democrats of America]] |access-date=20 October 2026 |archive-date=27 February 2026}}</ref>
+* [[Reproductive Freedom for All]]<ref name="RFFA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Joe Neguse (D)
+|$2,585,391
+|$1,603,820
+|$2,972,469
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Colorado 2nd |url=https://www.fec.gov/data/elections/house/CO/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Joe Neguse]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 136,146
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 136,146
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+* Kelley Dennison, business owner<ref name=":3" /> and licensed massage therapist <ref name="Coloradoan">{{cite web|url=https://www.coloradoan.com/story/news/politics/elections/2026/10/01/kelley-dennison-running-for-election-to-2nd-congressional-district-colorado/91803377007/|last=Powell|first=Rebecca|title=Colorado election: Q&A with candidate Kelley Dennison|website=The Coloradoan|date=October 1, 2026}}</ref>
+
+====Eliminated in primary====
+* Christina Blunt, business owner<ref name=":3">{{Cite web |last=Heaney |first=Briana |last2=Kim · |first2=Caitlyn |date=2026-04-11 |title=Gubernatorial candidates Scott Bottoms, Victor Marx win slots on GOP primary ballot at state assembly |url=https://www.cpr.org/2026/04/11/colorado-gop-assembly-results-governor/ |access-date=2026-04-12 |website=Colorado Public Radio |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Kelley Dennison
+|list=
+;Individuals
+* [[2026 Colorado House of Representatives election#Incumbents and candidates|Daniel Frick]], Republican nominee for [[Colorado's 53rd House of Representatives district|HD-53]] in 2026<ref>{{cite news|url=https://rockymountainvoice.com/2026/10/14/whats-on-your-2026-colorado-ballot-all-nine-federal-races/|title=What’s on your 2026 Colorado ballot: All nine federal races|work=Rocky Mountain Voice|date=14 October 2026}}</ref>
+}}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Kelley Dennison
+| party = Republican Party (United States)
+| votes = 21,584
+| percentage = 57.9
+}}
+{{Election box candidate with party link no change
+| candidate = Christina Blunt
+| party = Republican Party (United States)
+| votes = 15,666
+| percentage = 42.1
+}}
+{{Election box total no change
+| votes = 37,250
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+* Gaylon Kent, writer<ref>{{cite news|url=https://www.cpr.org/2026/09/25/vg-2026-2nd-congressional-district-third-party-voter-guide/|title=2nd Congressional District third-party candidates|work=CPR News|date=25 September 2026|last=Haskell|first=Havalin}}</ref><ref>{{cite news|url=https://www.denverpost.com/2026/10/03/colorado-u-s-house-district-2-candidate-qa/|title=Colorado U.S. House District 2 candidate Q&A|work=Denver Post|date=3 October 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Joe Neguse (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Joe Neguse (D)
+|$3,268,169
+|$2,038,811
+|$3,220,255
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="CO"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Joe Neguse]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Kelley Dennison
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Gaylon Kent
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Colorado's 3rd congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = RepJeffHurd (cropped).jpg
+| nominee1 = [[Jeff Hurd]]
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = Dwayne Romero.JPG
+| nominee2 = Dwayne Romero
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 3rd congressional district election results map by county.svg|250px]]
+| County results}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jeff Hurd]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+{{see also|Colorado's 3rd congressional district}}
+The 3rd district encompasses the [[Colorado Western Slope]], including the cities of [[Montrose, Colorado|Montrose]], [[Pueblo, Colorado|Pueblo]], and [[Grand Junction, Colorado|Grand Junction]]. The incumbent is Republican [[Jeff Hurd]], who was elected with 50.8% of the vote in 2024.<ref name="HPVT"/>
+
+[[Donald Trump]] initially backed Hurd for re-election but rescinded his endorsement in February 2026, calling him a "[[Republican in name only|RINO]],"<ref name=pull/> and instead endorsed challenger Hope Scheppelman, a former vice chair of the [[Colorado Republican Party]].<ref name=pull/> The following month, Trump reversed course and re-endorsed Hurd after Scheppelman met with him and agreed to withdraw.<ref name="Hurd21"/> In a statement, Scheppelman urged supporters to "hold Hurd's feet to the fire" and said she would consider a 2028 primary challenge if he did not "correct his naive voting record."<ref>{{cite web |last1=Deal |first1=Nathan |title=Scheppelman drops out of CD3 race as Trump re-endorses Hurd |url=https://www.gjsentinel.com/breaking/scheppelman-drops-out-of-cd3-race-as-trump-re-endorses-hurd/article_e55b5ad9-111c-459d-80e3-f9e421e7f567.html |website=The Grand Junction Daily Sentinel |access-date=20 March 2026 |language=en |date=20 March 2026}}</ref>
+
+===Republican primary===
+====Nominee====
+* [[Jeff Hurd]], incumbent U.S. representative<ref name="Incumbents" />
+
+====Eliminated in primary====
+* [[Ron Hanks]], former [[Colorado House of Representatives|state representative]] from the 60th district (2021–2023), nominee for {{ushr|CA|1}} in [[2010 United States House of Representatives elections in California#District 1|2010]], candidate for [[United States Senate|U.S. Senate]] in [[2022 United States Senate election in Colorado|2022]], and candidate for this district in [[2024 United States House of Representatives elections in Colorado#District 3|2024]]<ref>{{Cite web |last=Luning |first=Ernest |date=2026-04-09 |title=Republican Ron Hanks plans 'grassroots' primary challenge to US Rep. Jeff Hurd in Colorado's 3rd CD |url=https://www.coloradopolitics.com/2026/04/09/republican-ron-hanks-plans-grassroots-primary-challenge-to-us-rep-jeff-hurd-in-colorados-3rd-cd/ |access-date=2026-04-12 |website=Colorado Politics |language=en-US}}</ref>
+
+====Withdrawn====
+* Jason Bias, former president of the Colorado Mesa University chapter of Turning Point USA ''(running for [[2026 Colorado House of Representatives election|Colorado House HD-54]])''<ref>{{Cite web |date=2026-03-27 |title=GOP Candidate Promises To Bring Bias Back To The State Capitol |url=https://www.coloradopols.com/diary/221271/gop-candidate-promises-to-bring-bias-back-to-the-state-capitol |access-date=2026-03-30 |website=Colorado Pols |language=en-US}}</ref><ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO03204/1769063/ |date=2024-04-09 |access-date=2025-04-16}}</ref>
+* Hope Scheppelman, former vice chair of the [[Colorado Republican Party]]<ref>{{cite news |last1=Toomer |first1=Lindsey |title=Former Colorado GOP vice chair challenges Jeff Hurd in 2026 race for Congress |url=https://coloradonewsline.com/briefs/hope-scheppelman-colorado-gop-challenges-jeff-hurd/ |access-date=June 10, 2025 |work=[[Colorado Newsline]] |date=June 10, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Jeff Hurd
+| list =
+;Executive branch officials
+* [[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Hurd21">{{cite web |last1=Kim |first1=Caitlyn |title=Trump changes directions, endorses Hurd for 3rd Congressional District |url=https://www.cpr.org/2026/03/20/trump-endorses-hurd-3rd-congressional-district/ |website=Colorado Public Radio |access-date=20 March 2026 |language=en |date=20 March 2026}}</ref><ref>{{cite web |last1=Luning |first1=Ernest |title=Donald Trump endorses Republican Jeff Hurd's bid for reelection in Colorado's 3rd CD |url=https://www.coloradopolitics.com/2025/10/28/donald-trump-endorses-republican-jeff-hurds-bid-for-reelection-in-colorados-3rd-cd/ |access-date=November 8, 2025 |work=[[Colorado Politics]] |date=October 28, 2025}}</ref>{{efn|Trump endorsed Hurd in October 2025, before rescinding the endorsement and backing Scheppelman in February 2026. The following month, Trump announced he was re-endorsing Hurd after Scheppelman announced her withdrawal from the race.<ref name="Hurd21"/>
+}}
+;Organizations
+* [[AIPAC]]<ref name="AIPAC"/>
+}}
+{{Endorsements box
+| title = Hope Scheppelman ''(withdrawn)''
+| list =
+;Executive branch officials
+* [[Michael Flynn]], former [[United States National Security Advisor|national security advisor]] (2017)<ref name="Flynn">{{cite web|url=https://www.gjsentinel.com/news/western_colorado/hurd-challenger-scheppelman-touts-poll-showing-close-race-endorsement-from-michael-flynn/article_cc263af1-aa78-4897-a52c-180cac2e485f.html|title=Hurd challenger Scheppelman touts poll showing close race, endorsement from Michael Flynn|last=Deal|first=Nathan|date=January 9, 2026|access-date=January 9, 2026|website=[[The Daily Sentinel (Grand Junction, Colorado)|The Daily Sentinel]]}}</ref>
+* <s>[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)</s> ''(previously endorsed Hurd; later re-endorsed Hurd)''<ref name=pull>{{cite web |last1=Brams |first1=Sophie |title=Trump pulls endorsement of Hurd over tariffs vote |url=https://thehill.com/homenews/campaign/5749448-hurd-loses-trump-backing/ |access-date=February 21, 2026 |work=[[The Hill (newspaper)|The Hill]] |date=February 21, 2026}}</ref><ref name="Hurd21"/>
+
+;U.S. representatives
+* [[Tom Tancredo]], former [[Colorado's 6th congressional district|CO-06]] (1999–2009)<ref>{{cite web |last1=Luning |first1=Ernest |title=Tancredo endorses Jeff Hurd challenger Hope Scheppelman in Colorado's CD3 GOP primary |url=https://www.coloradopolitics.com/2025/08/30/tancredo-endorses-jeff-hurd-challenger-hope-scheppelman-in-colorados-cd3-gop-primary/ |access-date=October 9, 2025 |work=[[Colorado Politics]] |date=August 30, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ron Hanks (R)
+|$20,846
+|$10,735
+|$10,111
+|-
+|{{party shading/Republican}}|Jeff Hurd (R)
+|$3,278,037
+|$1,678,549
+|$1,608,623
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Colorado 3rd |url=https://www.fec.gov/data/elections/house/CO/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Polling====
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Jeff<br />Hurd
+! style="width:75px;"| Hope<br />Scheppelman
+! Undecided
+|-
+|style="text-align:left;"|Pulse Opinion Research (R)<ref name="Flynn"/>{{efn-ua|Poll sponsored by Scheppelman's campaign}}
+|December 2025
+|576 (LV)
+|–
+|{{party shading/Republican}}|'''36%'''
+|27%
+|{{party shading/Undecided}}|'''37%'''
+|}
+{{hidden end}}
+
+====Results====
+[[File:2026 Colorado's 3rd congressional district Republican primary election results by county map.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Hurd}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Jeff Hurd]] (incumbent)
+| party = Republican Party (United States)
+| votes = 62,536
+| percentage = 66.4
+}}
+{{Election box candidate with party link no change
+| candidate = [[Ron Hanks]]
+| party = Republican Party (United States)
+| votes = 31,715
+| percentage = 33.6
+}}
+{{Election box total no change
+| votes = 94,251
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* Dwayne Romero, real estate company CEO and U.S. Army officer<ref>{{cite news |title=Dwayne Romero to run in Democratic primary for Congressional seat |url=https://www.aspendailynews.com/news/dwayne-romero-to-run-in-democratic-primary-for-congressional-seat/article_2d47ee7d-1908-4508-94e8-232efcebc702.html |access-date=March 3, 2026 |work=[[Aspen Daily News]] |date=March 3, 2026}}</ref>
+
+====Eliminated in primary====
+* Alex Kelloff, ski company founder<ref>{{cite news |last1=Stark-Ragsdale |first1=Skyler |title=Armada Skis co-founder Alex Kelloff to run for U.S. Congress |url=https://www.aspentimes.com/news/armada-skis-co-founder-alex-kelloff-to-run-for-u-s-congress/ |access-date=April 30, 2025 |work=[[The Aspen Times]] |date=April 30, 2025}}</ref>
+
+====Withdrawn====
+* Kyle Doster, barista<ref>{{Cite web |title=FEC Form 2 for Report FEC-1893669 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO03220/1893669/ |access-date=2025-10-09 |website=docquery.fec.gov}}</ref>
+
+====Declined====
+* [[Adam Frisch]], former [[Aspen, Colorado|Aspen]] city councilor and nominee for this district in [[2022 United States House of Representatives elections in Colorado#District 3|2022]] and [[2024 United States House of Representatives elections in Colorado#District 3|2024]]<ref>{{cite tweet|user=kadiagoba|number=2026421658915864685|title=Adam Frisch, a Democrat who came close to defeating Reps. Lauren Boebert and Jeff Hurd in Colorado's 3rd congressional district tells me he will not run for the seat this cylce.|access-date=February 24, 2026}}</ref> ''(endorsed Romero)''
+
+====Endorsements====
+{{Endorsements box
+| title = Alex Kelloff
+| list =
+;U.S. representatives
+* [[John Salazar]], former {{ushr|CO|3|CO-03}} (2005–2011)<ref>{{cite web |last1=Stark-Ragsdale |first1=Skyler |title=Old Snowmass' U.S. Congressional candidate discusses running points |url=https://www.postindependent.com/news/old-snowmass-u-s-congressional-candidate-discusses-running-points/ |access-date=October 9, 2025 |work=[[Post Independent]] |date=July 24, 2025}}</ref>
+
+;State legislators
+*2 [[Colorado Senate|state senators]]{{Efn|
+* [[Dylan Roberts]], [[Colorado's 8th Senate district|SD-08]] (2023–present)<ref name="Kickstart">{{cite web |last1=McCrindle |first1=Alex |title=Kelloff kickstarts campaign to flip CD3 |url=https://www.gunnisontimes.com/articles/kelloff-kickstarts-campaign-to-flip-cd3/ |access-date=October 9, 2025 |work=[[Gunnison Country Times]] |date=September 17, 2025}}</ref>
+* [[Gail Schwartz]], former [[Colorado's 5th Senate district|SD-05]] (2007–2015)<ref name="Kickstart"/>}}
+*4 state representatives{{Efn|
+* [[Matthew Martinez (Colorado politician)|Matthew Martinez]], [[Colorado House of Representatives|HD-62]] (2023–present)<ref name="Part2">{{cite web |last1=Stark-Ragsdale |first1=Skyler |title=Part 2: Kelloff discusses healthcare, foreign policy |url=https://www.aspentimes.com/news/part-2-kelloff-discusses-healthcare-foreign-policy/ |access-date=October 9, 2025 |website=[[AspenTimes.com]] |date=July 27, 2025}}</ref>
+* [[Diane Mitsch Bush]], former HD-26 (2013–2017)<ref name="Kickstart"/>
+* [[Katie Stewart (politician)|Katie Stewart]], HD-59 (2025–present)<ref name="Kickstart"/>
+* [[Elizabeth Velasco]], HD-57 (2023–present)<ref name="Part2"/>}}
+}}
+{{Endorsements box
+| title = Dwayne Romero
+| list =
+;U.S. senators
+*[[John Hickenlooper]], [[Colorado]] (2021–present)<ref name=touted>{{cite news |last1=Dequinel |first1=Karen |title=CD3 Democratic candidates differ more on background than policy |url=https://www.aspendailynews.com/news/cd3-democratic-candidates-differ-more-on-background-than-policy/article_4fd342e2-084f-4452-8186-5b7ea4f066f5.html |access-date=June 13, 2026 |work=[[Aspen Daily News]] |date=June 9, 2026 |quote=Romero touted endorsements he’s received from U.S. Rep. Jason Crow and U.S. Sen. John Hickenlooper}}</ref>
+
+;U.S. representatives
+*[[Jason Crow]], [[CO-06]] (2019–present)<ref name=touted/>
+
+;Local officials
+* [[Adam Frisch]], former [[Aspen, Colorado|Aspen]] city councilor and nominee for this district in [[2022 United States House of Representatives elections in Colorado#District 3|2022]] and [[2024 United States House of Representatives elections in Colorado#District 3|2024]]<ref>{{cite news |last1=Deal |first1=Nathan |title=Aspen's Dwayne Romero running for CD3 as Democrat |url=https://www.gjsentinel.com/news/western_colorado/aspens-dwayne-romero-running-for-cd3-as-democrat/article_4d882aa1-ff68-4e5c-85d6-ccb9edeedef9.html |access-date=March 3, 2026 |work=[[The Grand Junction Daily Sentinel]] |date=March 3, 2026 |quote=Romero has the support of the Democratic candidate in the district in the last two elections, Adam Frisch}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Alex Kelloff (D)
+|$1,212,070
+|$968,897
+|$243,173
+|-
+|{{party shading/Democratic}}|Dwayne Romero (D)
+|$688,821
+|$317,324
+|$371,497
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+[[File:2026 Colorado's 3rd congressional district Democratic primary election results by county map.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Romero}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Kelloff}}
+|{{legend|#51C2C2|50–60%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Dwayne Romero
+| party = Democratic Party (United States)
+| votes = 47,848
+| percentage = 54.8
+}}
+{{Election box candidate with party link no change
+| candidate = Alex Kelloff
+| party = Democratic Party (United States)
+| votes = 39,394
+| percentage = 45.2
+}}
+{{Election box total no change
+| votes = 87,242
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Filed paperwork====
+* Heather Barton<ref>{{Cite web |title=FEC Form 2 for Report FEC-1913496 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO03246/1913496/ |access-date=2025-10-30 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Tossup}}
+|October 27, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|R}}
+|August 13, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Likely|R}}
+|March 12, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Likely|R}}
+|April 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Lean|R}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Dwayne Romero (D)
+|list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC 3rd">{{cite web|url=https://dccc.org/dccc-announces-six-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Six New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=October 5, 2026|access-date=October 5, 2026}}</ref>
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-seven-new-battleground-candidates/|title=Blue Dog PAC Endorses Seven New Battleground Candidates|date=October 14, 2026|access-date=October 15, 2026}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*[[National Education Association]]<ref name="NEA" />
+*[[SEIU]] Colorado<ref name="SEIU"/>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC 3rd"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Jeff Hurd (R)
+|$4,168,636
+|$3,940,004
+|$237,768
+|-
+|{{party shading/Democratic}}| Dwayne Romero (D)
+|$1,701,091
+|$1,504,967
+|$196,124
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="CO"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jeff<br />Hurd (R)
+! style="width:100px;"| Dwayne<br />Romero (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Democratic Congressional Campaign Committee]]<ref>{{cite web |last1=Kim |first1=Caitlyn |last2=Hesse |first2=Tom |title=Blue wave on the Western Slope? Dems say internal numbers show toss up in 3rd Congressional District |url=https://www.cpr.org/2026/10/23/could-democrats-make-gains-3rd-congressional-district/ |publisher=[[Colorado Public Radio]] |access-date=October 24, 2026 |date=October 23, 2026}}</ref>
+|October 20–21, 2026
+|402 (LV)
+|±&nbsp;4.9%
+|46%
+|{{party shading/Democratic}}|'''47%'''
+|–
+|8%
+|-
+|style="text-align:left;"|Keating Research (D)<ref>{{cite web |last1=Paul |first1=Jesse |title=Inbox: A Keating Research poll commissioner by Democrat Dwayne Romero's campaign in Colorado's 3rd Congressional District shows him down 1 percentage point to Republican U.S. Rep. Jeff Hurd with 9% of voters undecided. #copolitics |url=https://x.com/JesseAPaul/status/2082838404526682513 |publisher=[[Twitter]] |access-date=July 31, 2026 |date=July 30, 2026}}</ref>{{efn-ua|Poll sponsored by Romero's campaign}}
+|July 21–23, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''46%'''
+|45%
+|1%{{Efn|"Other candidate" with 1%}}
+|9%
+|}
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Jeff Hurd vs. Alex Kelloff'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jeff<br />Hurd (R)
+! style="width:100px;"| Alex<br />Kelloff (D)
+! Undecided
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026">{{cite web|url=https://punchbowl.news/wp-content/uploads/CFA_CO-CD-3_Benchmark_Analysis_v1.0_260320.pdf|title=Colorado Congressional District 3|work=Ragnar Research Partners|date=April 29, 2026|access-date=April 29, 2026|via=''[[Punchbowl News]]''}}</ref>{{efn-ua|name=CFA|Poll commissioned by Conservatives For America, an organization linked to the [[Republican Study Committee]]}}
+|March 10–12, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''46%'''
+|41%
+|13%
+|-
+|style="text-align:left;"|Expedition Strategies (D)<ref>{{cite web |title=CO-03 SOR Memo |url=https://www.politico.com/f/?id=0000019b-dcc2-d22e-a1db-dff7de8e0000 |work=Expedition Strategies |date=15 January 2026 |access-date=22 January 2026}}</ref>{{efn-ua|name=Kelloff1|Poll sponsored by Kelloff's campaign}}
+|January 8–12, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''48%'''
+|39%
+|12%
+|}
+
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApr2026"/>{{efn-ua|name=CFA}}
+|March 10–12, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''47%'''
+|37%
+|16%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Jeff Hurd]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Dwayne Romero
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Colorado's 4th congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = Lauren Boebert 117th U.S Congress (cropped2).jpg
+| nominee1 = [[Lauren Boebert]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Eileen H. Laubacher (3) (cropped).jpg
+| nominee2 = [[Eileen Laubacher]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 4th congressional district election results map by county.svg|150px]]
+| County results}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Lauren Boebert]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Colorado's 4th congressional district}}
+The 4th district encompasses the rural [[Eastern Plains]] and the southern Denver exurbs, including [[Castle Rock, Colorado|Castle Rock]] and [[Parker, Colorado|Parker]]. The incumbent is Republican [[Lauren Boebert]], who was elected to the 4th district with 53.6% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+* [[Lauren Boebert]], incumbent U.S. representative<ref name="Incumbents"/><ref name=":3" />
+
+====Endorsements====
+{{Endorsements box
+|title=Lauren Boebert
+|list=
+'''Executive branch officials'''
+* [[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Luning |first1=Ernest |title=Donald Trump endorses Republican Lauren Boebert's 2026 reelection bid in Colorado's deep red 4th CD |url=https://www.coloradopolitics.com/elections/2026/donald-trump-endorses-republican-lauren-boeberts-2026-reelection-bid-in-colorados-deep-red-4th-cd/article_2c9c1325-536e-4ee6-93bc-cc1a2fdf2d96.html |access-date=July 24, 2025 |work=[[Colorado Politics]] |date=July 24, 2025 |language=en}}</ref>
+
+;Organizations
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-lauren-boebert-for-co-04/|title=Freedom Caucus Fund Endorses Lauren Boebert for CO-04|date=June 20, 2026|access-date=September 15, 2026}}</ref>
+* [[Maggie's List]]<ref>{{cite web |url=https://maggieslist.org/momentum-builds-maggies-list-adds-8-to-growing-2026-endorsement-list/ |title=Momentum Builds: Maggie's List Adds 8 to Growing 2026 Endorsement List |website=maggieslist.org |date=March 23, 2026 |access-date=March 25, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Lauren Boebert (R)
+|$950,100
+|$898,346
+|$210,898
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Colorado 4th |url=https://www.fec.gov/data/elections/house/CO/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Lauren Boebert]] (incumbent)
+| party = Republican Party (United States)
+| votes = 92,651
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 92,651
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* [[Eileen Laubacher]], retired [[United States Navy]] [[rear admiral]] and former [[U.S. National Security Council]] director<ref name=shape>{{cite news |work=[[Colorado Politics]] |author=Luning, Ernest |access-date=June 2, 2025 |date=May 9, 2025 |title=Fields for Colorado's top 2026 statewide, congressional races begin to take shape |url=https://www.coloradopolitics.com/columnists/fields-for-colorados-top-2026-statewide-congressional-races-begin-to-take-shape--trail-mix/article_ad28c448-5791-49a9-a7bd-ef5202a269f8.html}}</ref>
+
+====Withdrawn====
+* Trisha Calvarese, communications professional and nominee for this district in the 2024 [[2024 Colorado's 4th congressional district special election|special]] and [[2024 United States House of Representatives elections in Colorado#District 4|regular]] elections<ref>{{cite tweet|user=trisha4colorado|number=2039138151651045422|title=I've made the difficult decision to suspend my campaign to represent Colorado's 4th Congressional District. Congratulations to Eileen Laubacher and her team. I hope this carries through to a win in November.|access-date=April 1, 2026}}</ref>
+* Kurt Maddox, retail worker<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO04194/1878729/ |date=2025-02-26 |access-date=2025-04-16}}</ref>
+* John Padora, engineer and candidate for this district in the 2024 [[2024 Colorado's 4th congressional district special election|special]] and [[2024 United States House of Representatives elections in Colorado#District 4|regular]] elections<ref>{{Cite web |title=Thank you! I'll let this video speak for itself. Today, my campaign for Congress comes to an end. To everyone who stood with us-who gave... |website=[[Facebook]] |url=https://www.facebook.com/PadoraForCO/videos/thank-youill-let-this-video-speak-for-itselftoday-my-campaign-for-congress-comes/1917675448954457/ |date=2026-03-23 |access-date=2026-03-25}}</ref>
+* Jenna Preston, clinical psychologist<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO04228/1903801/ |date=2025-07-16 |access-date=2025-10-30}}</ref>
+
+====Campaign====
+On March 2, 2026, Trisha Calvarese filed a lawsuit in [[Colorado district courts#Districts|Denver District Court]] against a member of the [[Colorado Democratic Party]], alleging the party violated state election law by allowing fellow candidate [[Eileen Laubacher]] to participate in the Democratic caucus and assembly process.<ref name="Caucus">{{cite web |last1=Toomer |first1=Lindsey |title=Judge declines to bar Democrat in Colorado race to challenge Rep. Boebert |url=https://coloradonewsline.com/briefs/judge-declines-to-bar-laubacher/ |website=Colorado Newsline |access-date=8 March 2026}}</ref> Calvarese's campaign argued that Laubacher is a "lifelong Republican," noting she registered as a Democrat only in March 2025.<ref name="Caucus"/> The following day, a judge denied a request for a temporary restraining order that would have blocked Laubacher's participation. Calvarese ultimately dropped out of the race on April 1, 2026.<ref name="Caucus"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Eileen Laubacher
+|list=
+;U.S. representatives
+* [[Jason Crow]], [[Colorado's 6th congressional district|CO-6]] (2019–present)<ref name="EndTrack"/>
+* [[Brittany Pettersen]], [[Colorado's 7th congressional district|CO-7]] (2023–present)<ref name="EndTrack"/>
+* [[Ed Perlmutter]], former [[CO-07]] (2007–2023)<ref name="EndTrack"/>
+* [[Max Rose]], former [[NY-11]] (2019–2021)<ref name="EndTrack"/>
+
+;Individuals
+* Trisha Calvarese, communications professional, [[2024 United States House of Representatives elections in Colorado#General election 4|2024 U.S. house]] nominee and former candidate for this seat<ref>{{Cite web |title=Dem Drops Out of Race to Unseat Rep. Boebert |url=https://nationaltoday.com/us/co/denver/news/2026/04/02/dem-drops-out-of-race-to-unseat-rep-boebert |access-date=May 28, 2026}}</ref>
+
+;Organizations
+* [[VoteVets.org|VoteVets]]<ref name="VV731">{{cite news |last1=Manchester |first1=Julia |title=Democratic veterans group backs Colorado Dems running in GOP House districts |url=https://thehill.com/homenews/campaign/5428537-votevets-backs-killin-laubacher/ |access-date=July 31, 2025 |work=[[The Hill (newspaper)|The Hill]] |date=July 31, 2025}}</ref>
+}}
+{{Endorsements box
+|title=Trisha Calvarese ''(withdrawn)''
+|list=
+;Executive branch officials
+* [[Betsy Markey]], former  [[Colorado's 4th congressional district|CO-4]] (2009–2011) and former [[United States Department of Homeland Security|assistant secretary of homeland security for intergovernmental affairs]] (2011–2013)<ref name=Gazette>{{cite web |title=Democrat Trisha Calvarese endorsed by Betsy Markey in Colorado's 4th Congressional District primary |url=https://gazette.com/2025/07/29/democrat-trisha-calvarese-endorsed-by-betsy-markey-in-colorados-4th-congressional-district-primary-0f2d29e2-1222-5763-82c9-a6e021e934f4/ |website=[[Colorado Springs Gazette]] |date=July 29, 2025 }}</ref>
+
+;State legislators
+* [[Robert Rodriguez (politician)|Robert Rodriguez]], [[majority leader]] of the [[Colorado Senate]] (2023–present) from [[Colorado's 32nd Senate district|SD-32]] (2019–present)<ref name=Gazette/>
+* [[Jessie Danielson]], [[Colorado's 22nd Senate district|SD-22]] (2023–present) and former [[speaker pro tempore]] of the [[Colorado House of Representatives]] (2017–2019)<ref name=Gazette/>
+* [[Polly Baca]], former [[Colorado's 25th Senate district|SD-25]] (1979–1987)<ref name=Gazette/>
+* [[Sheila Lieder]], [[Colorado's 28th House of Representatives district|HD-28]] (2023–present)<ref name=Gazette/>
+}}
+{{Endorsements box
+|title=John Padora ''(withdrawn)''
+|list=
+;Organizations
+* [[Track AIPAC]]<ref name=TrackAIPAC>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+* [[Progressive Democrats of America]]<ref name="PDA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Eileen Laubacher (D)
+|$9,952,096
+|$6,619,992
+|$3,332,104
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Eileen Laubacher]]
+| party = Democratic Party (United States)
+| votes = 72,483
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 72,483
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Filed paperwork====
+* Douglas Mangeris, construction superintendent and firearms dealer<ref>{{Cite web |title=Statement of Organization |url=https://docquery.fec.gov/cgi-bin/forms/C00916635/1912007/ |date=2025-08-19 |access-date=2025-10-30}}</ref>
+
+===Independents===
+====Declared====
+* Tim Veldhuizen, businessman<ref>{{cite news |last1=Rowley |first1=Jocelyn |title=Loveland businessman Tim Veldhuizen launches independent bid for Congress |url=https://www.reporterherald.com/2026/01/18/loveland-businessman-tim-veldhuizen-launches-independent-bid-for-congress/ |access-date=January 30, 2026 |work=[[Reporter-Herald]] |date=January 18, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Tim Weldhuizen (I)
+|$13,295
+|$9,781
+|$3,514
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Filed paperwork====
+* Wayne Thornton<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO04210/1892129/ |date=2025-05-14 |access-date=2025-10-30}}</ref>
+
+===General election===
+On September 17, 2026, an ethics complaint was filed against Boebert accusing her for having sexual affairs with three of her staffers, two females, and one male, while also accusing her for paying roughly $200,000 to prevent to complaint from being filed. It was submitted to the [[United States House Committee on Ethics|House Ethics Committee]], but an investigation has yet to be launched.<ref>{{Cite journal |last=Maulbetsch|first=Erik|date=2026-09-18|title=Complaint Filed With House Ethics Committee Alleges Boebert Slept With Three of Her Congressional Staffers|url=https://coloradotimesrecorder.com/2026/09/complaint-filed-with-house-ethics-committee-alleges-boebert-slept-with-three-of-her-congressional-staffers/81792/|language=en-US|publisher=Colorado Times Recorder|journal=Colorado Times Recorder}}</ref> Boebert has denied the allegations.<ref>{{Cite web |last=Gupta|first=Sehjal|date=2026-09-20|title=Lauren Boebert affair row: Florida Rep. breaks silence amid $200,000 hush money claim; ‘utterly false’|url=https://www.hindustantimes.com/world-news/us-news/lauren-boebert-affair-row-florida-rep-breaks-silence-amid-200-000-hush-money-claim-utterly-false-101789858733749.html|access-date=2026-09-20|website=Hindustan Times|language=en}}</ref>
+
+====Predictions====
+{|class="wikitable"style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref name="Cook Initial"/>
+|{{USRaceRating|Lean|R}}
+|October 23, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+|{{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+|align=left|''[[The Economist]]''<ref name="Econ"/>
+|{{USRaceRating|Likely|R}}
+|May 6, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref name="IE Initial"/>
+|{{USRaceRating|Likely|R}}
+|October 29, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Initial" />
+|{{USRaceRating|Lean|R}}
+|October 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Eileen Laubacher (D)
+|list=
+;U.S. representatives
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog"/>
+
+;Statewide officials
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref>{{Cite web|last=Davis|first=Sarah|date=August 6, 2026|title=Sherrill unveils first set of midterm endorsements |url=https://thehill.com/homenews/campaign/6013472-nj-gov-backs-national-security-candidates/|work=[[The Hill (newspaper)|The Hill]]|access-date=August 7, 2026}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Lauren Boebert (R)
+|$1,226,253
+|$1,111,236
+|$274,162
+|-
+|{{party shading/Democratic}}| Eileen Laubacher (D)
+|$13,700,426
+|$11,854,138
+|$1,846,288
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;" |Lauren<br />Boebert (R)
+! style="width:100px;" |Eileen<br />Laubacher (D)
+! style="width:100px;" |Douglas<br />Mangeris (L)
+! Undecided
+|-
+|style="text-align:left;" |Impact Research (D)<ref>{{cite web|url=https://drive.google.com/file/d/12RT0LvE5BSSi6z_bud_At7MFBAH7p2FL/view|title=Battleground Congressional Survey Sept 2026: CO-04|access-date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by the Invest in Tomorrow Coalition PAC, which opposes Boebert}}
+|September 21–24, 2026
+|403 (LV)
+|±&nbsp;4.8%
+|{{party shading/Republican}}|'''45%'''
+|40%
+|9%
+|6%
+|}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Lauren Boebert]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Eileen Laubacher]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Colorado's 5th congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = Jeff Crank 119th Congress (cropped).jpg
+| nominee1 = [[Jeff Crank]]
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Jessica Killin
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 5th congressional district election results map by county.svg|200px]]
+| County results}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jeff Crank]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+{{see also|Colorado's 5th congressional district}}
+The 5th district is centered on [[El Paso County, Colorado|El Paso County]] and [[Colorado Springs]] including its suburbs, [[Cimarron Hills, Colorado|Cimarron Hills]] and [[Fort Carson, Colorado|Fort Carson]]. The incumbent is Republican [[Jeff Crank]], who was elected with 54.7% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+* [[Jeff Crank]], incumbent U.S. representative<ref name=":2">{{Cite web |title=2026 Unofficial Primary Election Candidate List |url=https://www.sos.state.co.us/pubs/elections/vote/primaryCandidates.html |access-date=2026-04-29 |website=www.sos.state.co.us}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jeff Crank
+|list=
+'''Executive branch officials'''
+* [[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web |last=Luning |first=Ernest |date=2025-08-20 |title=Donald Trump endorses Colorado Republican Jeff Crank's bid for reelection |url=https://www.coloradopolitics.com/2025/08/20/donald-trump-endorses-colorado-republican-jeff-cranks-bid-for-reelection/ |access-date=2025-08-22 |website=[[Colorado Politics]] |language=en-US}}</ref>
+;Organizations
+* [[AIPAC]]<ref name="AIPAC"/>
+* [[Americans for Prosperity]]<ref>{{cite web |url=https://afpaction.com/endorsements/ |title=Endorsements |publisher=AFP Action |access-date=March 13, 2026 |archive-url= |archive-date=}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jeff Crank (R)
+|$1,998,949
+|$771,384
+|$1,294,119
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Colorado 5th |url=https://www.fec.gov/data/elections/house/CO/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Jeff Crank]] (incumbent)
+| party = Republican Party (United States)
+| votes = 76,547
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 76,547
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* Jessica Killin, former chief of staff to Second Gentleman [[Doug Emhoff]]<ref name=":2" />
+====Eliminated in primary====
+* Joe Reagan, former director of outreach for [[Wreaths Across America]] and candidate for this district in [[2024 United States House of Representatives elections in Colorado#District 5|2024]]<ref name=":2" />
+
+====Eliminated at convention====
+* Zurit Horowitz, occupational therapist<ref name=Assembly>{{#invoke:cite|news |title=Army veterans Jessica Killin, Joe Reagan qualify for Democratic primary ballot in Colorado's 5th CD |url=https://www.coloradopolitics.com/2026/03/15/army-veterans-jessica-killin-joe-reagan-qualify-for-democratic-primary-ballot-in-colorados-5th-cd/ |access-date=March 19, 2026 |work=Colorado Politics |date=March 18, 2023 |language=en}}</ref>
+* Justice Lord<ref name=Assembly/>
+
+====Withdrawn====
+* Matt Cavanaugh, author and nonprofit executive ''(previously ran as an independent)''<ref>{{Cite web |last=Luning |first=Ernest |date=2026-03-18 |title=Democrat Matt Cavanaugh ends campaign in Colorado's 5th CD, says petition firm came up short |url=https://www.coloradopolitics.com/2026/03/18/democrat-matt-cavanaugh-ends-campaign-in-colorados-5th-cd-says-petition-firm-came-up-short/ |access-date=2026-03-19 |website=Colorado Politics |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jessica Killin
+|list=
+;U.S. senators
+* [[Michael Bennet]], [[Colorado]] (2009–present)<ref name=racksup>{{cite web |last1=Luning |first1=Ernest |title=Crank challenger Jessica Killin racks up endorsements from all of Colorado's congressional Democrats |url=https://www.coloradopolitics.com/2025/12/19/crank-challenger-jessica-killin-racks-up-endorsements-from-all-of-colorados-congressional-democrats/ |website=Colorado Politics |date=December 19, 2025 |access-date=1 January 2026}}</ref>
+* [[John Hickenlooper]], [[Colorado]] (2021–present)<ref name=racksup/>
+;U.S. representatives
+* [[Diana DeGette]], [[Colorado's 1st congressional district|CO-1]] (1997–present)<ref name=racksup/>
+* [[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-eight-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Eight New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=May 4, 2026|access-date=May 4, 2026}}</ref>
+* [[Joe Neguse]], [[Colorado's 2nd congressional district|CO-2]] (2019–present)<ref name=racksup/>
+* [[Jason Crow]], [[Colorado's 6th congressional district|CO-6]] (2019–present)<ref name=racksup/>
+* [[Brittany Pettersen]], [[Colorado's 7th congressional district|CO-7]] (2023–present)<ref name=racksup/>
+* [[Lois Frankel]], {{ushr|FL|22|FL-22}} (2013–present)<ref name="EndTrack"/>
+* [[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="NewDems">{{#invoke:cite|web|url=https://newdemactionfund.com/press-releases/2026/4/17/new-dems-endorse-six-candidates-in-colorado-north-carolina-illinois-michigan-tennessee-and-texas|title= New Dems Endorse Six Candidates in Colorado, North Carolina, Illinois, Michigan, Tennessee, and Texas |date=April 17, 2026}}</ref>
+* [[Max Rose]], former [[NY-11]] (2019–2021)<ref name="EndTrack"/>
+
+;Organizations
+* [[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+* [[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+* [[Elect Democratic Women]]<ref>{{cite news |title=Candidates |url=https://electdemocraticwomen.org/candidates |access-date=20 November 2025 |work=Elect Democratic Women}}</ref>
+* [[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-bold-women-leaders-in-ky-06-ia-02-and-co-05-congressional-districts/ |title=EMILYs List Endorses Bold Women Leaders In KY-06, IA-02, and CO-05 Congressional Districts |website=emilyslist.org |date=December 3, 2025 |access-date=December 3, 2025}}</ref>
+* [[League of Conservation Voters]] Action Fund<ref name="LCV Slate"/>
+* [[Jewish Democratic Council of America]]<ref name=JDem/>
+* [[New Democrat Coalition#Campaign arm|New Democrat Coalition Action Fund]]<ref name="NewDems" />
+* [[VoteVets.org|VoteVets]]<ref name="VV731"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jessica Killin (D)
+|$2,742,278
+|$1,366,706
+|$1,375,572
+|-
+|{{party shading/Democratic}}|Joe Reagan (D)
+|$277,575
+|$252,488
+|$32,555
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jessica Killin
+| party = Democratic Party (United States)
+| votes = 45,511
+| percentage = 61.2
+}}
+{{Election box candidate with party link no change
+| candidate = Joe Reagan
+| party = Democratic Party (United States)
+| votes = 28,864
+| percentage = 38.8
+}}
+{{Election box total no change
+| votes = 74,375
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent and third party candidates===
+====Declared====
+*Mark Elworth, businessman (Libertarian)<ref>{{Cite web |last=Freed |first=Judah |date=2024-04-01 |title=Colorado Libertarians Select Potential Spoiler Candidates at 2024 State Convention |url=https://coloradotimesrecorder.com/2024/04/colorado-libertarians-select-potential-spoiler-candidates-at-2024-state-convention/60968/ |language=en-US}}</ref>
+
+====Filed paperwork====
+* Steven Fuller, small business owner (Independent)<ref>{{Cite web |title=FEC Form 2 for Report FEC-1931160 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO05365/1931160 |access-date=2026-01-07 |website=docquery.fec.gov}}</ref>
+* Roy Matthewson, retired army lieutenant colonel (Independent)<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO05282/1879224/ |date=2025-03-04 |access-date=2025-04-16}}</ref>
+
+====Withdrawn====
+* Matt Cavanaugh, author and nonprofit executive ''(ran as a Democrat)''<ref name=Cavanaugh>{{#invoke:cite| news |last1=Luning |first1=Ernest |title=Independent Crank challenger Matt Cavanaugh joins Democratic primary in Colorado's 5th CD |url=https://gazette.com/2026/01/02/independent-crank-challenger-matt-cavanaugh-joins-democratic-primary-in-colorados-5th-cd/ |access-date=January 2, 2026 |work=[[The Denver Gazette]] |date=January 2, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Roy Matthewson (I)
+|$200
+|$145
+|$108
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Tossup}}
+|October 30, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tossup}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Tossup}}
+|October 27, 2026
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Likely|R}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box|top|title=Jessica Killin (D)}}
+;Statewide officials
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref>{{Cite web|last=Davis|first=Sarah|date=August 6, 2026|title=Sherrill unveils first set of midterm endorsements |url=https://thehill.com/homenews/campaign/6013472-nj-gov-backs-national-security-candidates/|work=[[The Hill (newspaper)|The Hill]]|access-date=August 7, 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+*[[SEIU]] Colorado<ref name="SEIU"/>
+
+;Organizations
+* [[Giffords]]<ref>{{Cite web |title=Jessica Killin |url=http://giffords.org/candidates/jessica-killin/ |access-date=July 30, 2026 |website=giffords.org |language=en-US}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Slate of Key U.S. House Challengers Ahead of the 2026 Midterm Elections |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-key-u-s-house-challengers-ahead-of-the-2026-midterm-elections |date=July 7, 2026 |access-date=October 25, 2026}}</ref>
+{{Endorsements box|bottom}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Jeff Crank (R)
+|$2,872,434
+|$2,396,152
+|$542,836
+|-
+|{{party shading/Democratic}}| Jessica Killin (D)
+|$5,593,463
+|$5,085,735
+|$507,728
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jeff<br />Crank (R)
+! style="width:100px;"| Jessica<br />Killin (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW @HouseMajPAC  poll in #CO05🚨  🔵Jessica Killin: 47% 🔴Jeff Crank: 47%  2024 Recall: Trump+7  PPP, October 19-20, 577 Likely Voters |url=https://x.com/cjwarnke/status/2113764039218397211 |publisher=[[Twitter]] |access-date=October 25, 2026 |date=October 23, 2026}}</ref>{{Efn-ua|Poll sponsored by the House Majority PAC, which is focused on electing Democrats to the U.S. House of Representatives}}
+|October 19–20, 2026
+|577 (LV)
+|–
+|'''47%'''
+|'''47%'''
+|–
+|6%
+|-
+|rowspan="2" style="text-align:left;"|[[Global Strategy Group]] (D)<ref name=GSGCD510.26>{{cite web |last1=Baumann |first1=Andrew |last2=Allen |first2=Lida |title=Jessica Killin Pulls into Slight Lead Over Jeff Crank in CO-05 |url=https://drive.google.com/file/d/1iF5NKlbiwGQmlEOEd8AaZz_Pe2vu8-De/view |publisher=[[Global Strategy Group]] |access-date=October 23, 2026 |date=October 20, 2026 |via=[[Google Drive]]}}</ref>{{efn-ua|name=Killin}}
+|rowspan="2"|October 14–18, 2026
+|rowspan="2"|500 (LV)
+|rowspan="2"|±&nbsp;4.4%
+|38%
+|{{party shading/Democratic}}|'''43%'''
+|7%{{Efn|Christopher Mitchell ([[American Constitution Party (Colorado)|ACP]]) with 4%; Mark Elworth (L) with 3%}}
+|11%
+|-
+|44%
+|{{party shading/Democratic}}|'''46%'''
+|–
+|10%
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{Cite web|url=https://globalstrategygroup.app.box.com/s/wgtme5bsi1p29l1d919u3kjk7id35jfk|title=Jessica Killin Tied with Jeff Crank in CO-05, Takes the Lead After Balanced Profiles|first1=Andrew|last1=Baumann|first2=Lida|last2=Allen|website=[[Global Strategy Group]]|date=July 24, 2026|access-date=July 30, 2026}}</ref>{{efn-ua|name=Killin}}
+|July 16–21, 2026
+|450 (LV)
+|±&nbsp;4.6%
+|{{party shading/Republican}}|'''45%'''
+|44%
+|–
+|11%
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{Cite web|url=https://www.denvergazette.com/2025/11/05/jeff-crank-challenger-jessica-killins-internal-poll-shows-toss-up-race-in-colorados-5th-cd/|title=Jeff Crank challenger Jessica Killin's internal poll shows toss-up race in Colorado's 5th CD|first1=Ernest|last1=Luning|website=[[The Denver Gazette]]|date=November 5, 2025|access-date=November 6, 2025}}</ref>{{efn-ua|name=Killin|Poll sponsored by Killin's campaign}}
+|October 30 – November 3, 2025
+|450 (LV)
+|±&nbsp;4.6%
+|{{party shading/Republican}}|'''43%'''
+|40%
+|5%{{efn|Matt Cavanaugh (I) with 5%}}
+|12%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref name=GSGCD510.26/>{{efn-ua|name=Killin}}
+|October 14–18, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|'''44%'''
+|'''44%'''
+|12%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 5th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Jeff Crank]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Jessica Killin
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Colorado's 6th congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Jason Crow (D-CO), 119th Congress (cropped).jpg
+| nominee1 = [[Jason Crow]] 
+| party1 = Democratic Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Jason Clark
+| party2 = Republican Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 6th congressional district election results map by county.svg|250px]]
+| County results}}-->
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jason Crow]]
+| before_party = Democratic Party (United States)
+| after_election =
+| after_party =
+}}
+{{see also|Colorado's 6th congressional district}}
+The 6th district takes in much of the eastern [[Denver metropolitan area]], as well as parts of the southern and northern area. The incumbent is Democrat [[Jason Crow]], who was re-elected with 59% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+* [[Jason Crow]], incumbent U.S. representative<ref name=":2" />
+
+====Withdrawn====
+* Travis Dishon<ref>{{Cite web |title=FEC Form 2 for Report FEC-1930857 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO06124/1930857 |access-date=2026-01-06 |website=docquery.fec.gov}}</ref>
+* Dylan Shelby, retail sales specialist and activist<ref>{{Cite web |title=2026 Election United States House - Colorado - District 06 |url=https://www.fec.gov/data/elections/house/CO/06/2026/ |access-date=2025-06-17 |website=FEC.gov |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jason Crow
+|list=
+;Organizations
+* [[Giffords]]<ref>{{Cite web |title=Jason Crow |url=http://giffords.org/candidates/jason-crow-3/ |access-date=June 20, 2026 |website=giffords.org |language=en-US}}</ref>
+* [[Humane World for Animals|Humane World Action Fund]]<ref name="Humane"/>
+* [[J Street]]<ref>{{cite web |title=Jason Crow |url=https://jstreetpac.org/candidate/jason-crow/ |website=JStreetPAC |access-date=5 December 2025}}</ref>
+* [[Jewish Democratic Council of America]]<ref name=JDem/>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+* [[Population Connection]]<ref name=PCon/>
+* [[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jason Crow (D)
+|$2,941,727
+|$2,176,021
+|$2,514,000
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Colorado 6th |url=https://www.fec.gov/data/elections/house/CO/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Jason Crow]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 94,207
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 94,207
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+* Jason Clark, small business owner and financial advisor<ref>{{Cite web |title=Unofficial Election Results |url=https://results.enr.clarityelections.com/CO/126592/web.345435/#/summary |access-date=2026-03-19 |website=Colorado Secrerary of State}}</ref>
+====Withdrawn====
+* Mel Tewahade, financial planner, business executive, and documentary filmmaker<ref>{{Cite web |title=FEC Form 2 for Report FEC-1954391 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO06157/1954391 |access-date=2026-03-19 |website=docquery.fec.gov}}</ref><ref name=":2" /> (original nominee)
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mel Tewahade (R)
+|$39,765
+|$30,829
+|$8,936
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jason Clark
+| party = Republican Party (United States)
+| votes = 38,437
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 38,437
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Filed paperwork====
+* Edwardo Quinonez<ref>{{Cite web |title=FEC Form 2 for Report FEC-1931282 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO06132/1931282 |access-date=2026-01-07 |website=docquery.fec.gov}}</ref>
+* Samir Witta<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924989 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO06116/1924989 |access-date=2026-03-13 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Samir Witta (I)
+|$100
+|$36,746
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Jason Crow (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Jason Crow (D)
+|$3,848,529
+|$2,712,743
+|$2,884,079
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 6th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jason Crow]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Jason Clark
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Colorado's 7th congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Brittany Pettersen 118th Congress (cropped).jpg
+| nominee1 = [[Brittany Pettersen]]
+| party1 = Democratic Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Tim Bennett
+| party2 = Republican Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 7th congressional district election results map by county.svg|150px]]
+| County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Brittany Pettersen]]
+| before_party = Democratic Party (United States)
+| after_election =
+| after_party =
+}}
+{{see also|Colorado's 7th congressional district}}
+The 7th district encompasses central Colorado, with a small part extending into the western Denver metropolitan area. The incumbent is Democrat [[Brittany Pettersen]], who was elected with 55.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+* [[Brittany Pettersen]], incumbent U.S. Representative<ref name=":2" />
+
+==== Endorsements ====
+{{Endorsements box
+|title=Brittany Pettersen
+|list=
+;Organizations
+* [[AIPAC]]<ref name="AIPAC"/>
+* [[Giffords]]<ref>{{Cite web |title=Brittany Pettersen |url=http://giffords.org/candidates/brittany-pettersen-2/ |access-date=June 20, 2026 |website=giffords.org |language=en-US}}</ref>
+* [[Humane World for Animals|Humane World Action Fund]]<ref name="Humane"/>
+* [[Jewish Democratic Council of America]]<ref name=JDem>{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=24 November 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+* [[J Street]]<ref>{{cite web |title=Brittany Pettersen |url=https://jstreetpac.org/candidate/brittany-pettersen/ |website=J Street PAC |access-date=24 November 2025}}</ref>
+* [[League of Conservation Voters]]<ref name="LCVFeb">{{cite web |title=LCV Action Fund Announces New Round of Endorsements for U.S. House of Representatives |url=https://www.lcv.org/media-center/lcv-action-fund-announces-new-round-of-endorsements-for-u-s-house-of-representatives/ |website=League of Conservation Voters |access-date=6 February 2026}}</ref>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+* [[Vote Mama]]<ref name="votemama">{{Cite web |title=Vote Mama PAC {{!}} Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-06-13 |website=Vote Mama PAC |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Brittany Pettersen (D)
+|$1,698,739
+|$1,274,437
+|$985,234
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Colorado 7th |url=https://www.fec.gov/data/elections/house/CO/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Brittany Pettersen]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 113,707
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 113,707
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+* Tim Bennett, U.S. Army veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1934305 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO07122/1934305 |access-date=2026-01-22 |website=docquery.fec.gov}}</ref><ref name=":2" />
+====Withdrawn====
+* Amanda Capobianco, chief executive officer<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO01240/1875304/ |date=2025-02-07 |access-date=2025-10-30}}</ref><ref name=":4">{{Cite web |last=Woodruff |first=Chase |date=2026-04-13 |title=Last-minute far-right challenger makes Colorado GOP primary ballot against Rep. Hurd |url=https://coloradonewsline.com/2026/04/13/challenger-colorado-gop-primary-ballot-hurd/ |access-date=2026-04-14 |website=Colorado Newsline |language=en-US}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Timothy Bennett (R)
+|$53,462
+|$52,112
+|$1,350
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Tim Bennett
+| party = Republican Party (United States)
+| votes = 58,806
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 58,806
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Filed paperwork====
+* Joe Krzeczkowski, technology executive<ref>{{Cite web |title=FEC Form 2 for Report FEC-1952773 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO07130/1952773 |access-date=2026-03-12 |website=docquery.fec.gov}}</ref>
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Joe Krzeczkowski (I)
+|$1,331
+|$331
+|$1000
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=October 27, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Safe|D}}
+|April 10, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Brittany Pettersen (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Brittany Pettersen (D)
+|$2,216,223
+|$1,583,684
+|$1,193,472
+|-
+|{{party shading/Republican}}| Tim Bennett (R)
+|$102,124
+|$90,416
+|$11,708
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 7th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Brittany Pettersen]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Tim Bennett
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Colorado's 8th congressional district election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Colorado#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Colorado#District 8
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Gabe Evans official photo, 119th Congress (cropped).jpg
+| nominee1 = [[Gabe Evans]] 
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Manny Rutinel at 2024 YIMBY Denver Legislative Kickoff (head crop).jpg
+| nominee2 = [[Manny Rutinel]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = <!-- Please keep this map hidden until election day {{Switcher
+| [[File:2026 Colorado's 8th congressional district election results map by county.svg|180px]]
+| County results}}-->
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Gabe Evans]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Colorado's 8th congressional district}}
+The 8th district includes the northern [[Front Range urban corridor|Front Range cities]] and surrounding Denver communities, including [[Thornton, Colorado|Thornton]], [[Brighton, Colorado|Brighton]], [[Johnstown, Colorado|Johnstown]], and [[Greeley, Colorado|Greeley]]. The incumbent is Republican [[Gabe Evans]], who flipped the district and was elected with 49.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Gabe Evans]], incumbent U.S. representative<ref name=":2" />
+
+====Endorsements====
+{{Endorsements box
+|title=Gabe Evans
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Luning |first1=Ernest |title=Donald Trump endorses Republican Gabe Evans in Colorado's tossup 8th Congressional District |url=https://www.coloradopolitics.com/elections/2026/donald-trump-endorses-republican-gabe-evans-in-colorados-tossup-8th-congressional-district/article_4b5aa753-3dd8-4910-b3d0-a1ca419d2919.html |access-date=April 29, 2025 |work=[[Colorado Politics]] |date=April 28, 2025 |language=en}}</ref>
+
+;U.S. representatives
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="EndTrack"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Americans for Prosperity]]<ref>{{cite web |url=https://afpaction.com/endorsements/ |title=Endorsements |publisher=AFP Action |access-date=March 13, 2026 |archive-url= |archive-date=}}</ref>
+*[[ClearPath Foundation]]<ref name="ClearPath1">{{cite web |title=2026 GOP Clean Energy Leaders |url=https://clearpathactionfund.org/ |website=ClearPath Action Fund |access-date=28 January 2026}}</ref>
+*[[Log Cabin Republicans]]<ref name="LCR">{{cite web |title=Log Cabin Republicans PAC Announces Second Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-second-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=8 August 2026 |date=April 14, 2026}}</ref>
+*[[Republican Jewish Coalition]]<ref name="RJC1">{{cite web |title=RJC endorses 16 congressional incumbents, including 4 Jews |url=https://www.sdjewishworld.com/2026/03/12/rjc-endorses-16-congressional-incumbents-including-4-jews/ |website=San Diego Jewish World |access-date=13 March 2026 |date=12 March 2026}}</ref>
+
+;Newspapers
+*''[[The Gazette (Colorado Springs)|The Denver Gazette]]''<ref>{{cite web |title=ENDORSEMENT: Gabe Evans has won constituents’ confidence in CD-8 |url=https://www.denvergazette.com/2026/06/05/endorsement-gabe-evans-has-won-constituents-confidence-in-cd-8/ |website=Denver Gazette |access-date=June 5, 2026 |date=June 5, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Gabe Evans (R)
+|$4,889,696
+|$1,548,371
+|$3,416,318
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Colorado 8th |url=https://www.fec.gov/data/elections/house/CO/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Gabe Evans]] (incumbent)
+| party = Republican Party (United States)
+| votes = 48,012
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 48,012
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*[[Manny Rutinel]], former [[Colorado House of Representatives|state representative]] from the [[Colorado's 32nd House of Representatives district|32nd district]] (2023–2026)<ref name=":2" />
+
+====Eliminated in primary====
+*[[Shannon Bird]], former [[Colorado House of Representatives|state representative]] from the [[Colorado's 29th House of Representatives district|29th district]] (2019–2026)<ref name=":2" />
+
+====Withdrawn====
+* Denis Abrate<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6CO08039/1889998/}}April 22, 2025</ref>
+* Amie Baca-Oehlert, former president of the [[Colorado Education Association]]<ref>{{Cite web |last=Luning |first=Ernest |date=2025-10-31 |title=Democrat Amie Baca-Oehlert ends campaign to challenge Republican Gabe Evans in Colorado's 8th CD |url=https://www.coloradopolitics.com/2025/10/31/democrat-amie-baca-oehlert-ends-campaign-to-challenge-republican-gabe-evans-in-colorados-8th-cd |access-date=2025-11-01 |website=Colorado Politics |language=en}}</ref> ''(endorsed Rutinel)''<ref>{{Cite news |last=punchbowlnews |date=2026-02-25 |title=2/25/26☀️ AM: |url=https://punchbowl.news/archive/22526-am/ |archive-url=https://web.archive.org/web/20260228104722/https://punchbowl.news/archive/22526-am/ |archive-date=2026-02-28 |access-date=2026-04-03 |work=Punchbowl News |language=en-US}}</ref>
+* [[Yadira Caraveo]], former U.S. representative (2023–2025)<ref>{{Cite web |last=Frank |first=John |date=2025-09-12 |title=Yadira Caraveo ends bid for Colorado's 8th District |url=https://www.axios.com/local/denver/2025/09/12/yadira-caraveo-ends-campaign-colorado-8th-district |access-date=2025-09-12 |website=[[Axios (website)|Axios]] |language=en}}</ref>
+* Daniel Hassler, small business owner<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924044 |url=https://docquery.fec.gov/cgi-bin/forms/H6CO08120/1924044/ |access-date=2025-11-04 |website=docquery.fec.gov}}</ref>
+* Larry Johnson, attorney and perennial candidate<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H4CO08026/1912986/}}August 25, 2025</ref>
+* Evan Munsing, Marine Corps veteran and business leader ''(remained on ballot)''<ref>{{Cite web |last=Dolven |first=Taylor |date=2026-05-27 |title=Marine veteran Evan Munsing drops out of 8th Congressional District race |url=https://coloradosun.com/2026/05/27/marine-veteran-evan-munsing-drops-out-of-eighth-congressional-district-race/ |access-date=2026-05-27 |website=The Colorado Sun |language=en-US}}</ref>
+* John Szemler, management software consultant<ref name="sights">{{cite news |last1=Kim |first1=Caitlyn |title=House Democrats officially set their sights on Gabe Evans' seat |url=https://www.cpr.org/2025/04/08/democrats-set-sites-on-republican-gabe-evans-seat/ |access-date=April 8, 2025 |work=[[Colorado Public Radio]] |date=April 8, 2025 |language=en}}</ref>
+* [[Dave Young (Colorado politician)|Dave Young]], [[Colorado State Treasurer]] (2019–present)<ref>{{cite news |last1=Paul |first1=Jesse |title=Colorado Treasurer Dave Young ends campaign in 8th Congressional District |url=https://coloradosun.com/2025/12/19/dave-young-exits-democratic-primary-8th-congressional-district/ |access-date=December 19, 2025 |work=[[The Colorado Sun]] |date=December 19, 2025 |language=en}}</ref>
+
+====Declined====
+* Julie Duran Mullica, [[Adams County, Colorado|Adams County]] commissioner ''(endorsed Bird)''<ref name=":0">{{Cite news |author1=Nir, David |author2=Singer, Jeff |title=Morning Digest: The five races to watch tonight in Pennsylvania's primaries |url=https://www.the-downballot.com/i/163965717/co |access-date=2025-05-20 |website=The Downballot |language=en}}</ref>
+* [[Kyle Mullica]], [[Colorado Senate|state senator]] from the [[Colorado's 24th Senate district|24th district]] (2023–present) ''(endorsed Bird)''<ref name=":0" />
+* [[Joe Salazar]], former [[Colorado House of Representatives|state representative]] from the [[Colorado's 31st House of Representatives district|31st district]] (2013–2019) and candidate for [[Colorado Attorney General|attorney general]] in [[2018 Colorado Attorney General election|2018]]<ref name = may>{{cite news |work=[[The Colorado Sun]] |access-date=November 18, 2024 |author=Paul, Jesse |date=November 18, 2024 |url=https://coloradosun.com/2024/11/18/gabe-evans-2026-opponents-colorado-8th-district/ |title=Which Democrats may challenge Republican Gabe Evans in Colorado's 8th Congressional District come 2026?}}</ref> ''(endorsed Baca-Oehlert)''<ref name="Amie1" />
+
+====Endorsements====
+{{endorsements box
+|title=Shannon Bird
+|list=
+;Executive branch officials
+* [[Betsy Markey]], former [[United States Department of Homeland Security|assistant secretary of homeland security for intergovernmental affairs]] (2011–2013)<ref name="EndTrack"/>
+
+;U.S. representatives
+* [[Greg Stanton]], [[AZ-04]] (2019–present)<ref name="EndTrack"/>
+* [[Ed Perlmutter]], former [[CO-07]] (2007–2023)<ref name="EndTrack"/>
+* [[David Skaggs]], former [[CO-02]] (1987–1999)<ref name="EndTrack"/>
+
+;Statewide officials
+* [[Roy Romer]], former [[governor of Colorado]] (1987–1999)<ref name="EndTrack"/>
+* Elliot Hood, [[regent of the University of Colorado]] from the at-large district (2025–present)<ref name="Bird1" />
+
+;State legislators
+* [[Steve Fenberg]], former president of the [[Colorado Senate]] (2022–2025) from [[Colorado's 18th Senate district|SD-18]] (2017–2025)<ref name="Bird1">{{cite web |last1=Luning |first1=Ernest |title=State lawmaker Shannon Bird joins Democratic primary to take on Gabe Evans in Colorado's 8th CD |url=https://www.coloradopolitics.com/elections/2026/state-lawmaker-shannon-bird-joins-democratic-primary-to-take-on-gabe-evans-in-colorados-8th/article_18e8ff58-7266-4f3f-b7b1-11025a7e8eca.html |website=[[Colorado Politics]] |access-date=5 June 2025 |language=en |date=20 May 2025}}</ref>
+* [[Julie McCluskie]], speaker of the [[Colorado House of Representatives]] (2023–present) from HD-13 (2019–present)<ref name="Bird1" />
+* [[Kyle Mullica]], [[Colorado's 24th Senate district|SD-24]] (2023–present)<ref name=":0" />
+
+;Local officials
+* [[Yemi Mobolade]], mayor of [[Colorado Springs, Colorado|Colorado Springs]] (2023–present) ''(Independent)''<ref name="EndTrack"/>
+
+;Organizations
+* [[Blue Dog Coalition|Blue Dog PAC]]<ref>{{cite web|url=https://www.cpr.org/2026/04/21/8th-congressional-district-up-for-grabs/|title=These three Dems hope to take back Colorado’s swingiest district|last=Kim|first=Caitlyn|date=April 21, 2026|access-date=April 22, 2026|website=[[Colorado Public Radio]]}}</ref>
+* [[Democratic Majority for Israel]]<ref>{{cite news |last1=Schneider |first1=Elena |title=Pro-Israel group wades into Democratic House primaries |url=https://www.politico.com/news/2026/02/19/pro-israel-dmfi-endorsements-democrats-house-primaries-00787254 |access-date=February 19, 2026 |work=[[Politico]] |date=February 19, 2026 |language=en}}</ref>
+* [[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=24 November 2025}}</ref>
+* [[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-state-rep-shannon-bird-for-colorados-8th-congressional-district/ |title=EMILYs List Endorses State Rep. Shannon Bird for Colorado's 8th Congressional District |website=emilyslist.org |date=November 20, 2025 |access-date=November 20, 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref name="JACPA"/>
+* [[New Democrat Coalition|NewDem Action Fund]]<ref>{{Cite web |last1=Altimari |first1=Daniela|last2=McIntire|first2=Mary Ellen|title=At the Races: Belaboring the point |url=https://rollcall.com/2026/03/26/at-the-races-belaboring-the-point/|access-date=2026-04-16 |website=Roll Call|language=en|date=March 26, 2026}}</ref>
+* [[WelcomePAC]]<ref>{{Cite web |last=Pope |first=Lauren Harper |title=The Jamie Ager, Shannon Bird, Christina Bohannan, and Sarah Trone Garriott Endorsements |url=https://www.welcomestack.org/p/the-jamie-ager-shannon-bird-christina |access-date=2026-02-19 |website=www.welcomestack.org |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Manny Rutinel
+|list=
+;Executive branch officials
+* [[Ken Salazar]], former [[United States Ambassador to Mexico|ambassador to Mexico]] (2021–2025)<ref name="EndTrack"/>
+* [[Martin O'Malley]], former [[Social Security Administration]] commissioner (2023–2024)<ref name="EndTrack"/>
+* [[Federico Peña]], former [[United States Secretary of Energy|secretary of energy]] (1997–1998)<ref name="EndTrack"/>
+
+;U.S. senators
+* [[Cory Booker]], [[New Jersey]] (2013–present)<ref name="EndTrack"/>
+* [[Gary Hart]], former [[Colorado]] Senator (1975–1987)<ref>{{cite news |last1=Altimari |first1=Daniela |title=Former Rep. Yadira Caraveo announces House comeback bid in Colorado |url=https://rollcall.com/2025/04/15/yadira-caraveo-colorado-midterm-election/ |access-date=9 June 2025 |work=[[Roll Call]] |date=15 April 2025}}</ref>
+
+;U.S. representatives
+* [[Adriano Espaillat]], [[New York's 13th congressional district|NY-13]] (2017–present)<ref>{{cite web |title=U.S. Rep. Adriano Espaillat Endorses State Rep. Manny Rutinel for Colorado's 8th Congressional District – El Semanario |url=https://www.elsemanarioonline.com/u-s-rep-adriano-espaillat-endorses-state-rep-manny-rutinel-for-colorados-8th-congressional-district/ |publisher=The Weekly Issue/ El Semanario |access-date=19 November 2025 |date=August 14, 2025}}</ref>
+*[[Teresa Leger Fernández]], [[New Mexico's 3rd congressional district|NM-03]] (2021–present)<ref name="EndTrack"/>
+* [[Robert Garcia (California congressman)|Robert Garcia]], [[CA-42]] (2023–present)<ref name="EndTrack"/>
+* [[Rob Menendez]], [[NJ-08]] (2023–present)<ref name="EndTrack"/>
+* [[Emily Randall]], [[Washington's 6th congressional district|WA-06]] (2025–present)<ref name="EndTrack">{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 January 2026 |language=en |date=7 January 2026}}</ref>
+
+;State legislators
+* [[Jennifer Bacon]], [[Colorado House of Representatives|HD-07]] (2021–present)<ref name="Rutinel1">{{cite web |last1=Luning |first1=Ernest |title=Democratic state lawmaker Manny Rutinel launches bid to challenge Gabe Evans in Colorado's 8th CD |url=https://www.coloradopolitics.com/elections/democratic-state-lawmaker-manny-rutinel-launches-bid-to-challenge-gabe-evans-in-colorados-8th-cd/article_585bfab4-dcf1-11ef-bb61-7bedbcbcb97a.html |website=[[Colorado Politics]] |access-date=5 June 2025 |language=en |date=27 January 2025}}</ref>
+* [[Adrienne Benavidez]], former [[Colorado House of Representatives|HD-32]] (2017–2023)<ref name="Rutinel1" />
+* [[Andrew Boesenecker]], [[Colorado House of Representatives|HD-53]] (2021–present)<ref name="Rutinel1" />
+* [[Junie Joseph]], [[Colorado House of Representatives|HD-10]] (2023–present)<ref name="Rutinel1" />
+
+;Labor unions
+* [[UFCW]] Local 7<ref name=ufcw/>
+*[[SEIU]] Colorado<ref>{{cite web|title=SEIU Colorado Backs Manny Rutinel for Colorado’s 8th Congressional District |url=https://coloradowins.org/seiu-colorado-backs-manny-rutinel-for-colorados-8th-congressional-district/|website=COWINS |access-date=22 May 2026 |language=en |date=28 April 2026}}</ref>
+
+;Organizations
+* [[314 Action]] Fund<ref>{{cite web |title=314 Action Fund Endorses Manny Rutinel to Flip Colorado's Eighth Congressional District |url=https://314action.org/2025/10/09/314-action-fund-endorses-manny-rutinel-to-flip-colorados-eighth-congressional-district/ |website=[[314 Action]] |date=October 9, 2025 |access-date=October 16, 2025}}</ref>
+* [[Congressional Hispanic Caucus]] BOLD PAC<ref>{{cite web |last1=Altimari |first1=Daniela |title=At the Races: Goodbye, Madam Speaker. Hello, Mayor Mamdani. |url=https://rollcall.com/2025/11/06/at-the-races-mamdani-democrats-elections/ |website=Roll Call |access-date=12 November 2025 |date=6 November 2025}}</ref>
+* [[Latino Victory Fund]]<ref>{{cite news |last1=Altimari |first1=Daniela |title=Latino Victory Fund backs 4 new House Democratic candidates |url=https://rollcall.com/2025/10/15/latino-victory-fund-endorsements-midterm-elections/ |access-date=October 15, 2025 |work=[[Roll Call]] |date=October 15, 2025}}</ref>
+* [[New American Leaders]] Action Fund<ref name=nalaf/>
+}}
+{{Endorsements box
+|title=Amie Baca-Oehlert ''(withdrawn)''
+|list=
+;State legislators
+* Judy Solano, former [[Colorado House of Representatives|HD-31]] (2005–2013)<ref name="Amie1">{{cite web |last1=Kim |first1=Caitlyn |last2=Brundin |first2=Jenny |title=Former head of Colorado teachers' union announces run for Congress |url=https://www.cpr.org/2025/06/05/amie-baca-oehlert-running-for-8th-congressional-district-seat/ |website=[[Colorado Public Radio]] |access-date=5 June 2025 |language=en |date=5 June 2025}}</ref>
+* [[Joe Salazar]], former [[Colorado House of Representatives|HD-31]] (2013–2019)<ref name="Amie1" />
+
+;Labor unions
+* [[Colorado Education Association]]<ref name="Ed1">{{cite web |last1=Morris |first1=Bethany |last2=Vick |first2=Kevin |last3=Pringle |first3=Becky |title=CEA, NEA Announce Endorsement of Amie Baca-Oehlert for CD8 |url=https://coloradoea.org/news-updates/cea-nea-announce-endorsement-of-amie-baca-oehlert-for-cd8/ |website=CEA |access-date=23 July 2025 |date=17 June 2025}}</ref>
+* [[National Education Association]]<ref name="Ed1" />
+
+;Political parties
+* [[Working Families Party]]<ref>{{Cite web |title= Working Families Party Endorses Amie Baca-Oehlert in CO-8|url=https://workingfamilies.org/2025/07/working-families-party-endorses-amie-baca-oehlert-in-co-8/ |website=[[Working Families Party]] |access-date=15 July 2025 |date=15 July 2025}}</ref>
+}}
+{{Endorsements box
+|title=Evan Munsing ''(withdrawn)''
+|list=
+;U.S. representatives
+* [[Seth Moulton]], [[MA-06]] (2015–present)<ref name="EndTrack"/>
+;Organizations
+* [[VoteVets.org|VoteVets]]<ref>{{cite web|url=https://votevets.org/press-releases/votevets-pac-endorses-in-three-key-house-races-where-veteran-candidates-can-provide-crucial-flips|title=VoteVets PAC Endorses In Three Key House Races Where Veteran Candidates Can Provide Crucial Flips|date=October 14, 2025|access-date=October 15, 2025}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 10, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Shannon Bird (D)
+|$2,196,077
+|$1,905,409
+|$290,667.97
+|-
+|{{party shading/Democratic}}|Manny Rutinel (D)
+|$4,131,903
+|$3,222,376
+|$909,527
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Polling====
+{|- style="vertical-align:bottom" class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br>{{nowrap|of error}}
+! style="width:60px;"| Amie<br>{{nowrap|Baca-Oehlert}}
+! style="width:60px;"| Shannon<br>Bird
+! style="width:60px;"| Yadira<br>Caraveo
+! style="width:60px;"| Evan<br>Munsing
+! style="width:60px;"| Manny<br>Rutinel
+! style="width:60px;"| Dave<br>Young
+! Undecided
+|-
+|style="text-align:left;" |GBAO (D)<ref name="GBAOJune2026">{{cite web|url=https://punchbowl.news/wp-content/uploads/PF-CO-08-Tracking-Survey-Memo-061626-final.pdf|title=Manny Rutinel Surges in CO-8 Democratic Primary|work=GBAO|date=June 16, 2026|access-date=June 18, 2026|via=''[[Punchbowl News]]''}}</ref>{{efn-ua|name=Latino|Poll sponsored by [[Latino Victory]], which supports Rutinel}}
+|June 11–14, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|–
+|31%
+|–
+|5%
+|{{party shading/Democratic}}|'''44%'''
+|–
+|20%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 27, 2026
+| colspan="9"| Munsing withdraws from the race
+|-
+|style="text-align:left;" |GBAO (D)<ref name="GBAOJune2026"/>{{efn-ua|name=Latino}}
+|April 22–26, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|–
+|{{party shading/Democratic}}|'''32%'''
+|–
+|5%
+|31%
+|–
+|{{party shading/Undecided}}|'''32%'''
+|-
+|style="text-align:left;" |Normington Petts (D)<ref name="PettsApr2026">{{cite web|url=https://www.politico.com/f/?id=0000019d-dc54-d210-a3ff-fe7c83c50000|title=Poll Results in CO-08 Democratic Primary Election|first=Jill|last=Normington|work=Normington Petts|date=April 28, 2026|access-date=April 30, 2026|via=''[[Politico]]''}}</ref>{{efn-ua|name=Bird|Poll sponsored by Bird's campaign}}
+|April 20–22, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|–
+|{{party shading/Democratic}}|'''25%'''
+|–
+|6%
+|24%
+|–
+|{{party shading/Undecided}}|'''45%'''
+|-
+|style="text-align:left;" |Normington Petts (D)<ref name="PettsApr2026"/>{{efn-ua|name=Bird}}
+|February 19–23, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|–
+|19%
+|–
+|4%
+|{{party shading/Democratic}}|'''20%'''
+|–
+|{{party shading/Undecided}}|'''57%'''
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | December 19, 2025
+| colspan="9"| Young withdraws from the race
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | October 31, 2025
+| colspan="9"| Baca-Oehlert withdraws from the race
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | September 12, 2025
+| colspan="9"| Caraveo withdraws from the race
+|-
+|style="text-align:left;" rowspan="2"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Luning |first1=Ernest |title=Poll shows former incumbent Yadira Caraveo holds wide lead in Colorado's 8th CD Democratic primary |url=https://www.coloradopolitics.com/colorado-in-dc/poll-shows-former-incumbent-yadira-caraveo-holds-wide-lead-in-colorados-8th-cd-democratic-primary/article_8dd105f7-96dd-4d74-b537-59e7934f3a2e.html |publisher=Colorado Politics |access-date=2 June 2025 |date=29 May 2025}}</ref>{{efn-ua|Poll sponsored by Caraveo's campaign}}
+|rowspan="2"|May 19–20, 2025
+|rowspan="2"|467 (RV)
+|rowspan="2"|±&nbsp;4.5%
+|4%
+|5%
+|{{party shading/Democratic}}|'''36%'''
+|–
+|8%
+|8%
+|{{party shading/Undecided}}|'''39%'''
+|-
+|–
+|–
+|{{party shading/Democratic}}|'''51%'''
+|–
+|21%
+|–
+|28%
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Colorado's 8th Congressional District, results by county.svg|thumb|220px|Results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Rutinel}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Manny Rutinel]]
+| party = Democratic Party (United States)
+| votes = 50,435
+| percentage = 62.8
+}}
+{{Election box candidate with party link no change
+| candidate = [[Shannon Bird]]
+| party = Democratic Party (United States)
+| votes = 26,122
+| percentage = 32.5
+}}
+{{Election box candidate with party link no change
+| candidate = Evan Munsing ''(withdrawn)''
+| party = Democratic Party (United States)
+| votes = 3,717
+| percentage = 4.6
+}}
+{{Election box total no change
+| votes = 80,274
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D|Flip}}
+|September 25, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|D|Flip}}
+|October 23, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tilt|D|Flip}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial" />
+| {{USRaceRating|Lean|D|Flip}}
+|October 20, 2026
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Tossup}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Gabe Evans (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-gabe-evans-for-colorados-eighth-district|title=U.S. Chamber Endorses Rep. Gabe Evans for Colorado’s Eighth District|date=August 27, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Manny Rutinel (D)
+|list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC 8th">{{cite web|url=https://dccc.org/manny-rutinel-added-to-dcccs-coveted-red-to-blue-program/|title=Manny Rutinel Added to DCCC’s Coveted ‘Red to Blue’ Program|date=July 9, 2026|access-date=July 9, 2026}}</ref>
+
+;Individuals
+*[[Matthew Yglesias]], journalist<ref>{{Cite web|url=https://www.slowboring.com/p/the-midterm-candidates-who-deserve|title=The midterm candidates who deserve your money|date=July 13, 2026|access-date=September 22, 2026|last=Yglesias|first=Matthew|website=Slow Boring}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE"/>
+*[[National Education Association]]<ref name="NEA" />
+
+;Organizations
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC 8th"/>
+*[[End Citizens United]]<ref>{{#invoke:cite|web|title=End Citizens United Endorses Manny Rutinel in Colorado’s 8th Congressional District |url=https://www.endcitizensunited.org/news/end-citizens-united-endorses-manny-rutinel-in-colorados-8th-congressional-district? |publisher=End Citizens United |access-date=July 7, 2026 |date=July 7, 2026}}</ref>
+*[[Giffords]]<ref>{{Cite web |title=Manny Rutinel |url=http://giffords.org/candidates/manny-rutinel/ |access-date=July 30, 2026 |website=giffords.org |language=en-US}}</ref>
+*[[J Street]]<ref>{{cite web |title=Manny Rutinel |url=https://jstreetpac.org/candidate/manny-rutinel/ |website=J Street PAC |access-date=August 8, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name=JDem/>
+*[[League of Conservation Voters]]<ref>{{cite web |title=LCV Action Fund Announces New Endorsements for U.S. House of Representatives |url=https://www.lcv.org/media-center/lcv-action-fund-announces-new-endorsements-for-u-s-house-of-representatives/ |website=lcv.org |access-date=July 16, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Slate of Challengers Key to Flipping the House This November |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-challengers-key-to-flipping-the-house-this-november |date=August 27, 2026 |access-date=October 25, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026S
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Gabe Evans (R)
+|$7,248,106
+|$5,994,909
+|$1,328,189
+|-
+|{{party shading/Democratic}}| Manny Rutinel (D)
+|$9,459,070
+|$8,456,428
+|$1,002,642
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Colorado |url=https://www.fec.gov/data/elections/house/CO/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 29, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Gabe<br />Evans (R)
+! style="width:100px;"| Manny<br />Rutinel (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|McLaughlin and Associates (R)<ref name=M&A9.26>{{cite web|url=https://coloradosun.com/2026/09/23/gabe-evans-manny-rutinel-poll/|title=8th Congressional District race is essentially tied, poll shows, with warning signs for both Gabe Evans and Manny Rutinel|first=Jesse|last=Paul|work=[[The Colorado Sun]]|date=September 23, 2026|access-date=September 23, 2026}}</ref>{{efn-ua|name=EAC|Poll sponsored by Enhancing American Competitiveness, a conservative political nonprofit that supports Evans}}
+|September 16–17, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''48%'''
+|46%
+|–
+|6%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|McLaughlin and Associates (R)<ref name=M&A9.26/>{{efn-ua|name=EAC}}
+|September 16–17, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|'''47%'''
+|'''47%'''
+|6%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Colorado's 8th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Gabe Evans]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Manny Rutinel]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+== See also ==
+* [[2026 Colorado elections]]
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+* [https://blauforcongress.com/ Shimon Blau (I)]
+* [https://liberty4the1st.com/ Chad Humphrey (L)]
+* [https://www.kirosforco.com/ Melat Kiros (D)]
+* [https://christyforamerica.us/ Christy Peterson (R)]
+
+;Official campaign websites for 2nd district candidates
+* [https://kelleyforco.com/ Kelley Dennison (R)]
+* [https://joeforcolorado.com/ Joe Neguse (D)]
+
+;Official campaign websites for 3rd district candidates
+* [https://www.ruhero.com/ Clifton Brown (I)]
+* [https://jeffhurdforcolorado.com/ Jeff Hurd (R)]
+* [https://romeroforcolorado.com/ Dwayne Romero (D)]
+
+;Official campaign websites for 4th district candidates
+* [https://laurenforcolorado.com/ Lauren Boebert (R)]
+* [https://www.eileenforcolorado.com/ Eileen Laubacher (D)]
+* [https://mangeris4thepeople2026.vote/ Douglas Mangeris (L)]
+* [https://tim4co.com/ Tim Veldhuizen (I)]
+
+;Official campaign websites for 5th district candidates
+* [https://jeffcrankforcongress.com/ Jeff Crank (R)]
+* [https://www.stevenfuller.net/ Steven Fuller (I)]
+* [https://www.killinforcolorado.com/ Jessica Killin (D)]
+
+;Official campaign websites for 6th district candidates
+* [https://jasoncrowforcongress.com/ Jason Crow (D)]
+* [https://www.mcmahonforcongress.com/ Patty McMahon (L)]
+* [https://www.voteforedwardoquinonez.org/ Edwardo Quinonez (I)]
+* [https://votemeredithryan.com/ Meredith Ryan (U)]
+* [https://melforcolorado.com/ Mel Tewahade (R)]
+* [https://www.wittaforcongress.com/ Samir Witta (I)]
+
+;Official campaign websites for 7th district candidates
+* [https://timbennettforcongress.com/ Tim Bennett (R)]
+* [https://votejoek.com/ Joe Krzeczkowski (I)]
+* [https://brittanypettersen.com/ Brittany Pettersen (D)]
+* [https://dankilo.com/ Dan Sallis (L)]
+
+;Official campaign websites for 8th district candidates
+* [https://electgabeevans.com/ Gabe Evans (R)]
+* [https://www.mannyforcolorado.com/ Manny Rutinel (D)]
+* [https://davewood4colorado.com/ Dave Wood (L)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Colorado|2026]]
+[[Category:2026 elections in Colorado|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Colorado]]

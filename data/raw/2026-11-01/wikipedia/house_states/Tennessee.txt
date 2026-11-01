@@ -1,0 +1,2398 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{distinguish|2026 Tennessee House of Representatives election}}
+{{Use mdy dates|date=December 2024}}
+{{use American English|date=December 2024}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Tennessee
+| country = Tennessee
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee
+| next_year = 2028
+| seats_for_election = All 9 Tennessee seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''8'''
+| seats1 = '''8'''
+| party2 = Democratic Party (United States)
+| last_election2 = 1
+| seats2 = 1
+| seat_change1 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{ElectionsTN}}
+[[File:Tennessee Congressional Districts, 120th Congress.svg|thumb|District lines to be used from the 2026 elections, per HB 7003 signed by the [[Governor of Tennessee]] on May 7, 2026<ref>{{Cite web |title=Tennessee |url=https://redistricting.lls.edu/state/tennessee/ |access-date=2025-11-01 |website=All About Redistricting |language=en}}</ref>
+<br />{{maplink|from1=Tennessee's 1st congressional district (2027–).map|from2=Tennessee's 2nd congressional district (2027–).map|from3=Tennessee's 3rd congressional district (2027–).map|from4=Tennessee's 4th congressional district (2027–).map|from5=Tennessee's 5th congressional district (2027–).map|from6=Tennessee's 6th congressional district (2027–).map|from7=Tennessee's 7th congressional district (2027–).map|from8=Tennessee's 8th congressional district (2027–).map|from9=Tennessee's 9th congressional district (2027–).map|text=Interactive map version}}]]
+The '''2026 United States House of Representatives elections in Tennessee''' will be held on November 3, 2026, to elect the nine [[U.S. representative]]s from the [[U.S. state|State]] of [[Tennessee]], one from all nine of the state's [[Tennessee congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. Primary elections took place on August 6, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+
+==Redistricting==
+===Background===
+On May 6, 2026, Tennessee Republicans released a newly proposed congressional map that would draw out Rep. [[Steve Cohen (politician)|Steve Cohen]] (D-TN) of Memphis, shifting the state's delegation from an 8–1 Republican majority to a 9–0 Republican majority. The map passed both chambers and was signed into law by [[Governor of Tennessee|governor]] [[Bill Lee (Tennessee politician)|Bill Lee]] on May 7.<ref>{{Cite web|date=May 7, 2026 |title=Tennessee's governor signs into law a new US House map that carves up a majority-Black district in Memphis
+ |url=https://www.kare11.com/article/syndication/associatedpress/tennessees-governor-signs-into-law-a-new-us-house-map-that-carves-up-a-majority-black-district-in-memphis/616-e31187fc-5c28-4368-9a64-7845a3857b1f|website= Kare 11|access-date=7 May 2026}}</ref> The enactment of the new map extended the congressional filing deadline to May 15.<ref>{{cite web |title=How to Run for the United States House of Representatives |url=https://sos-prod.tnsosgovfiles.com/s3fs-public/document/US%20House%202026%20-%20Special%20Qualifying%20Period.pdf |website=[[Tennessee Secretary of State]] |access-date=7 May 2026}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{see also|Tennessee's 1st congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 1st congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 1
+| next_year = 2028
+| image1 = Diana Harshbarger official photo (cropped).jpg
+| nominee1 = [[Diana Harshbarger]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kristi Burke
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Diana Harshbarger]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 1st congressional district (since 2027) (new version).svg|thumb|Tennessee's 1st congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 1st congressional district (2027–).map|text=Interactive map version}}]]
+The 1st district is based in northeast Tennessee, encompassing all of [[Carter County, Tennessee|Carter]], [[Cocke County, Tennessee|Cocke]], [[Greene County, Tennessee|Greene]], [[Hamblen County, Tennessee|Hamblen]], [[Hancock County, Tennessee|Hancock]], [[Hawkins County, Tennessee|Hawkins]], [[Johnson County, Tennessee|Johnson]], [[Sullivan County, Tennessee|Sullivan]], [[Unicoi County, Tennessee|Unicoi]], and [[Washington County, Tennessee|Washington]] counties and parts of [[Jefferson County, Tennessee|Jefferson]] and [[Sevier County, Tennessee|Sevier]] counties, and includes the [[Tri-Cities, Tennessee|Tri-Cities]] region. The incumbent is Republican [[Diana Harshbarger]], who was re-elected with 78.1% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Diana Harshbarger]], incumbent U.S. representative<ref name="These">{{cite web |last3=Luetkemeyer |first3=Em |last2=González |first2=Oriana |last1=Rogerson |first1=Riley |title=These House Republicans Won't Commit to Running in 2026 |url=https://www.notus.org/congress/republicans-retirement-watch |access-date=December 18, 2025 |work=[[NOTUS (website)|NOTUS]] |date=December 18, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Diana Harshbarger
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Lee |first1=Murry |title=Trump endorses Diana Harshbarger for re-election |url=https://www.wjhl.com/news/your-local-election-hq/trump-endorses-diana-harshbarger-for-re-election/ |access-date=December 18, 2025 |work=[[WJHL]] |date=November 4, 2025 |archive-url=https://web.archive.org/web/20251219141517/https://www.wjhl.com/news/your-local-election-hq/trump-endorses-diana-harshbarger-for-re-election/ |archive-date=December 19, 2025 |url-status=dead}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=September 15, 2026}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-diana-harshbarger-for-tn-01/|title=Freedom Caucus Fund Endorses Diana Harshbarger for TN-01|date=July 15, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Diana Harshbarger (R)
+|$945,558
+|$591,911
+|$1,804,416
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Tennessee 1st |url=https://www.fec.gov/data/elections/house/TN/01/2026 |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 1, 2026}}</ref> </small>
+|}
+
+===Results===
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Diana Harshbarger]] (incumbent)
+| party = Republican Party (United States)
+| votes = 75,036
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 75,036
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Kristi Burke, artist and YouTuber<ref>{{cite web |title=Burke to contest Harshbarger for First Congressional District seat |url=https://johnsoncitypress.com/news/360479/burke-to-contest-harshbarger-for-first-congressional-district-seat/ |website=Johnson City Press |access-date=28 January 2026 |language=en}}</ref>
+====Eliminated in primary====
+*Herman Garcia, small business owner<ref>{{cite news |title=Garcia announces run for U.S. House in Tennessee's 1st District |url=https://elizabethton.com/2026/02/11/garcia-announces-run-for-u-s-house-in-tennessees-1st-district/ |access-date=February 14, 2026 |work=Elizabethton Star |date=February 11, 2026}}</ref>
+*David Kerr, Marine Corps veteran<ref>{{cite news |title=Kerr announces bid for Congress in 1st District |url=https://elizabethton.com/2026/01/23/kerr-announces-bid-for-congress-in-1st-district/ |access-date=January 23, 2026 |work=Elizabethton Star |date=January 23, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 17, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kristi Burke (D)
+|$101,983.51
+|$87,877.31
+|$14,106.20
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+===Results===
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 1st Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Burke}}|{{legend|#678cd7|60–70%}}|{{legend|#4170cd|70–80%}}|{{legend|#3358a2|80–90%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Kristi Burke
+| party = Democratic Party (United States)
+| votes = 12,395
+| percentage = 76.6
+}}
+{{Election box candidate with party link no change
+| candidate = David Kerr
+| party = Democratic Party (United States)
+| votes = 1,925
+| percentage = 11.9
+}}
+{{Election box candidate with party link no change
+| candidate = Herman Garcia
+| party = Democratic Party (United States)
+| votes = 1,856
+| percentage = 11.5
+}}
+{{Election box total no change
+| votes = 16,176
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*Joshua Ray Ashburn<ref name="May15Candidates">{{cite web |title=Candidates for United States House of Representatives as of May 15, 2026 |url=https://sos-prod.tnsosgovfiles.com/s3fs-public/document/USHouseCandidates_2026-05-15.pdf |website=Tennessee Secretary of State |access-date=15 May 2026}}</ref>
+*Richard G. Baker<ref name="May15Candidates"/>
+*Billy Cody<ref name="May15Candidates"/>
+*Chris Campbell<ref name="May15Candidates"/>
+*Tyler Brice Mitchell McClain<ref name="May15Candidates"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Kristi Burke (D)
+| list =
+;Labor unions
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO">{{cite web |last1=Phillips |first1=Allie |title=TN AFL-CIO Announces 2026 General Election Endorsements |url=https://tnaflcio.org/news/tn-afl-cio-announces-2026-general-election-endorsements |website=Tennessee AFL-CIO |access-date=October 21, 2026 |date=August 18, 2026}}</ref>
+
+;Organizations
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsed Candidates |website=Track AIPAC |url=https://www.trackaipac.com/endorsements |archive-url=https://web.archive.org/web/20261022224626/https://www.trackaipac.com/endorsements |access-date=23 October 2026 |archive-date=22 October 2026}}</ref>
+}}
+
+==District 2==
+{{see also|Tennessee's 2nd congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 2nd congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 2
+| next_year = 2028
+| image1 = Rep Tim Burchett, 119th Congress (cropped).jpg
+| nominee1 = [[Tim Burchett]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Michaela Barnett
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Tim Burchett]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 2nd congressional district (since 2027) (new version).svg|thumb|Tennessee's 2nd congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 2nd congressional district (2027–).map|text=Interactive map version}}]]
+The 2nd district is located in eastern Tennessee, anchored by [[Knoxville, TN|Knoxville]]. The incumbent is Republican [[Tim Burchett]], who was re-elected with 69.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Tim Burchett]], incumbent U.S. representative<ref name="These"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Tim Burchett
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Tim Burchett |url=https://ballotpedia.org/Tim_Burchett  |website=Ballotpedia |access-date=24 June 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tim Burchett (R)
+|$1,161,955
+|$956,393
+|$933,753
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Tennessee 2nd |url=https://www.fec.gov/data/elections/house/TN/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Tim Burchett]] (incumbent)
+| party = Republican Party (United States)
+| votes = 86,194
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 86,194
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Michaela Barnett, political organizer<ref>{{cite news |last1=Feinberg |first1=Allie |title=Three candidates file paperwork to challenge U.S. Rep Tim Burchett in 2026 |url=https://www.knoxnews.com/story/news/politics/elections/2025/09/24/democrat-michaela-barnett-launches-campaign-against-rep-tim-burchett/86314482007/ |access-date=September 23, 2025 |work=[[Knoxville News Sentinel]] |date=September 23, 2025}}</ref> and small business owner<ref>{{cite web |title=About KnoxFill |url=https://www.knoxfill.com/about?srsltid=AfmBOoozTkOsjyj2tzC3ROjrP7aBOWPdXlRCTrIqUlr9HzLVn4N2Qps5 |website=KnoxFill |access-date=12 August 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Michaela Barnett (D)
+|$190,931
+|$159,963
+|$30,968
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Michaela Barnett
+| party = Democratic Party (United States)
+| votes = 38,892
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 38,892
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*Bruce Fine<ref name="May15Candidates"/>
+*Adam Heimerman<ref name="May15Candidates"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Michaela Barnett (D)
+| list =
+;Labor unions
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO"/>
+
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web | title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260901205734/https://nwpc.org/endorsed-candidates |access-date=23 October 2026 |archive-date=1 September 2026}}</ref>
+}}
+
+==District 3==
+{{see also|Tennessee's 3rd congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 3rd congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 3
+| next_year = 2028
+| image1 = File:Rep Chuck Fleischmann, 119th Congress (cropped).jpg
+| nominee1 = [[Chuck Fleischmann]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Anna Golladay
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Chuck Fleischmann]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 3rd congressional district (since 2027) (new version).svg|thumb|Tennessee's 3rd congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 3rd congressional district (2027–).map|text=Interactive map version}}]]
+The 3rd district encompasses most of the [[Chattanooga metropolitan area|Chattanooga metro]] in eastern Tennessee, along with several suburban and rural areas near [[Knoxville, Tennessee|Knoxville]] and the Tri-Cities. The incumbent is Republican [[Chuck Fleischmann]], who was re-elected with 67.5% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Chuck Fleischmann]], incumbent U.S. representative<ref name="ElectTN03">{{#invoke:cite|news |last1=Gilliland |first1=Lew |title=Trump endorses Fleischmann for reelection in 2026 |url=https://www.timesfreepress.com/news/2025/nov/03/trump-endorses-fleischmann-for-reelection-in-2026/ |access-date=November 7, 2025 |work=[[Chattanooga Times Free Press]] |date=November 3, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Chuck Fleischmann
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="ElectTN03"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Chuck Fleischmann (R)
+|$2,319,124
+|$737,753
+|$4,838,423
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Tennessee 3rd |url=https://www.fec.gov/data/elections/house/TN/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 16, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Chuck Fleischmann]] (incumbent)
+| party = Republican Party (United States)
+| votes = 76,463
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 76,463
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Anna Golladay, small business owner<ref>{{cite news |last1=Rayner |first1=Ruby |title=Democrat Anna Golladay will challenge Chuck Fleischmann for Congress in 2026 |url=https://www.timesfreepress.com/news/2026/feb/07/democrat-anna-golladay-will-challenge-chuck/ |access-date=February 8, 2026 |work=[[Chattanooga Times Free Press]] |date=February 7, 2026}}</ref>
+====Eliminated in primary====
+*Bryan Martin<ref name="May15Candidates"/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 17 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Anna Golladay (D)
+|$55,554.79
+|$28,351.80
+|$33,870.46
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 3rd Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Golladay}}|{{legend|#678cd7|60–70%}}|{{legend|#4170cd|70–80%}}|{{legend|#3358a2|80–90%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Anna Golladay
+| party = Democratic Party (United States)
+| votes = 27,735
+| percentage = 79.6
+}}
+{{Election box candidate with party link no change
+| candidate = Bryan Martin
+| party = Democratic Party (United States)
+| votes = 7,120
+| percentage = 20.4
+}}
+{{Election box total no change
+| votes = 34,855
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*Dean Arnold<ref name="May15Candidates"/>
+*Jean Howard-Hill<ref name="May15Candidates"/>
+*Rodney Joe King<ref name="May15Candidates"/>
+*Donnie Lynn Ownby<ref name="May15Candidates"/>
+*Edward John Roland<ref name="May15Candidates"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+==District 4==
+{{see also|Tennessee's 4th congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 4th congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Rep Scott DesJarlais, 118th Congress (cropped).jpg
+| nominee1 = [[Scott DesJarlais]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Victoria Broderick
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Scott DesJarlais]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 4th congressional district (since 2027) (new version).svg|thumb|Tennessee's 4th congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 4th congressional district (2027–).map|text=Interactive map version}}]]
+The 4th district encompasses the southern part of [[Middle Tennessee]], including [[Murfreesboro, Tennessee|Murfreesboro]] and [[Lynchburg, Tennessee|Lynchburg]]. The incumbent is Republican [[Scott DesJarlais]], who was re-elected with 70.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Scott DesJarlais]], incumbent U.S. representative<ref name="TNSOS"/>
+
+====Eliminated in primary====
+*Tom Davis, army veteran and candidate for this district in [[2024 United States House of Representatives elections in Tennessee#District 4|2024]]<ref name="TNSOS">{{cite web |title=Candidate Lists {{!}} Tennessee Secretary of State |url=https://sos.tn.gov/elections/2026-candidate-lists |website=sos.tn.gov |publisher=Tennessee Secretary of State |access-date=March 18, 2026}}</ref>
+*Joshua James, [[Rutherford County, Tennessee|Rutherford County]] commissioner and candidate for this seat in [[2024 United States House of Representatives elections in Tennessee#District 4|2024]]<ref name="May15Candidates"/>
+*Harold "Rocky" Jones, U.S. Air Force veteran and volunteer firefighter<ref name="TNSOS"/>
+
+==== Disqualified ====
+* Robert Arnold, former sheriff of [[Rutherford County, Tennessee|Rutherford County]] (2010–2017)<ref>{{Cite web |last=Broden |first=Scott |title=Convicted former Sheriff Robert Arnold announces campaign for Congress to replace DesJarlais |url=https://www.dnj.com/story/news/2025/10/14/former-convicted-rutherford-sheriff-robert-arnold-to-run-for-congress/86676031007/ |archive-url=https://web.archive.org/web/20260909032255/https://www.dnj.com/story/news/2025/10/14/former-convicted-rutherford-sheriff-robert-arnold-to-run-for-congress/86676031007/ |archive-date=2026-09-09 |access-date=2026-09-09 |website=The Daily News Journal |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Scott DesJarlais
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Scott DesJarlais |url=https://ballotpedia.org/Scott_DesJarlais |website=Ballotpedia |access-date=24 June 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-scott-desjarlais-for-tn-04/|title=Freedom Caucus Fund Endorses Scott DesJarlais for TN-04|date=July 28, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 17, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tom Davis (R)
+|$17,964.94
+|$16,779.85
+|$3,398.73
+|-
+|{{party shading/Republican}}|Scott DesJarlais (R)
+|$536,842.93
+|$407,735.16
+|$495,126.13
+|-
+|{{party shading/Republican}}|Joshua James (R)
+|$3,612.51
+|$3,051.52
+|$560.99
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Tennessee 4th |url=https://www.fec.gov/data/elections/house/TN/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 3, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Congressional Republican Primary Election in Tennessee's 4th Congressional District, results by county.svg|thumb|200x200px|Republican primary results by county:{{collapsible list
+| title = {{legend|#ed8783|DesJarlais}}|{{legend|#ed8783|50–60%}}|{{legend|#e55651|60–70%}}||{{legend|#d02923|70–80%}}
+}}]]
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Scott DesJarlais]] (incumbent)
+| party = Republican Party (United States)
+| votes = 39,503
+| percentage = 65.9
+}}
+{{Election box candidate with party link no change
+| candidate = Tom Davis
+| party = Republican Party (United States)
+| votes = 9,781
+| percentage = 16.3
+}}
+{{Election box candidate with party link no change
+| candidate = Harold "Rocky" Jones
+| party = Republican Party (United States)
+| votes = 6,065
+| percentage = 10.1
+}}
+{{Election box candidate with party link no change
+| candidate = Joshua James
+| party = Republican Party (United States)
+| votes = 4,598
+| percentage = 7.7
+}}
+{{Election box total no change
+| votes = 59,947
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Victoria Broderick, telemarketer<ref>{{#invoke:cite|news |last1=Carter |first1=Terri |title='No Kings' protest reaches into Franklin County |url=https://www.heraldchronicle.com/news/local/no-kings-protest-reaches-into-franklin-county/article_471820f3-25aa-4f5a-8f8d-327181f4dcb9.html |access-date=November 22, 2025 |work=Herald Chronicle |date=June 18, 2025 |quote=Victoria Broderick, who plans to run against incumbent U.S. Rep. Scott DesJarlais, R-Tennessee, in the 2026 election...}}</ref>
+====Eliminated in primary====
+*Mike Cortese, [[Metropolitan Council of Nashville and Davidson County|Nashville Metro councilmember]]<ref name="May15Candidates"/>
+*Cliff Huffman, retired nurse practitioner<ref name="May15Candidates"/>
+*Tim Lanier, carpenter<ref name="May15Candidates"/>
+*Joyce E. Neal, professor<ref name="May15Candidates"/>
+
+==== Disqualified ====
+*Patrick Larson<ref name="May15Candidates"/>
+*Jacob Anders, author and historian<ref>{{Cite web |title=Jacob Anders |url=https://ballotpedia.org/Jacob_Anders |access-date=2026-09-09 |website=Ballotpedia |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Victoria Broderick
+|list=
+;Organizations
+*[[Center for Freethought Equality]]<ref>{{cite web |title=2026 Endorsements CFE Members |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=4 December 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 17, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Victoria Broderick (D)
+|$42,165
+|$45,914
+|$3,943
+|-
+|{{party shading/Democratic}}|Mike Cortese (D)
+|$741,733.20
+|$619,475.47
+|$122,257.73
+|-
+|{{party shading/Democratic}}|Tim Lanier (D)
+|$13,593.99
+|$10,613.95
+|$2,980.04
+|-
+|{{party shading/Democratic}}|Joyce Neal (D)
+|$8,310.00
+|$7,396.28
+|$768.80
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 4th Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Broderick}}|{{legend|#dee8fb|30–40%}}|{{legend|#b4c7ec|40–50%}}
+}}{{collapsible list
+| title = {{legend|#d79346|Cortese}}|{{legend|#fcf0e2|20–30%}}|{{legend|#f9e1c6|30–40%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Victoria Broderick
+| party = Democratic Party (United States)
+| votes = 12,432
+| percentage = 37.9
+}}
+{{Election box candidate with party link no change
+| candidate = Mike Cortese
+| party = Democratic Party (United States)
+| votes = 9,226
+| percentage = 28.1
+}}
+{{Election box candidate with party link no change
+| candidate = Joyce Neal
+| party = Democratic Party (United States)
+| votes = 7,230
+| percentage = 22.0
+}}
+{{Election box candidate with party link no change
+| candidate = Tim Lanier
+| party = Democratic Party (United States)
+| votes = 2,458
+| percentage = 7.5
+}}
+{{Election box candidate with party link no change
+| candidate = Cliff Huffman
+| party = Democratic Party (United States)
+| votes = 1,480
+| percentage = 4.5
+}}
+{{Election box total no change
+| votes = 32,826
+| percentage = 100.0
+}}
+{{Election box end}}
+
+=== Independent candidates ===
+==== Declared ====
+*Jacob Anders, author and historian<ref name="May15Candidates"/>
+*Clay Faircloth, pastor<ref name="May15Candidates"/>
+
+==== Endorsements ====
+{{Endorsements box|title=Jacob Anders|list=
+;Political parties
+* [[Green Party of the United States|Green Party]]<ref>{{cite web |title=Green Party |url=https://www.gpelections.org/races/jacob-anders-runs-for-u-s-house-of-representatives-2026/|website=GP Elections Database|access-date=23 September 2026}}</ref>
+* [[Transhumanist Party|Transhumanist Party]]<ref>{{cite web |title=Transhumanist Party |url=https://www.youtube.com/watch?v=pP0t5eej4uo|website=Youtube|access-date=2 August 2026}}</ref>
+* [[Unity Party of America|Unity Party]]<ref>{{cite web |title=Unity Party of America |url=https://unitypartyamerica.us/|website=Unity Party of America|access-date=3 August 2026}}</ref>
+* [[Forward Party (United States)|Forward Party]] of Tennessee<ref>{{cite web |title=Endorsements by Forward Party of Tennessee |url=https://ballotpedia.org/Endorsements_by_Forward_Party_of_Tennessee |website=Ballotpedia |access-date=9 July 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 17, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Jacob Anders (I)
+|$27,150.00
+|$383.88
+|$26,766.12
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Victoria Broderick (D)
+| list =
+;Labor unions
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO"/>
+
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+==District 5==
+{{see also|Tennessee's 5th congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 5th congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = 3x4.svg
+| nominee1 = [[Charlie Hatcher]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Mayor Chaz Molder (cropped).jpg
+| nominee2 = Chaz Molder
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Andy Ogles]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 5th congressional district (since 2027) (new version).svg|thumb|Tennessee's 5th congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 5th congressional district (2027–).map|text=Interactive map version}}]]
+The 5th district comprises a southern portion of [[Davidson County, Tennessee|Davidson County]]; portions of [[Wilson County, Tennessee|Wilson]] and [[Williamson County, Tennessee|Williamson Counties]]; and the entirety of [[Maury County, Tennessee|Maury]], [[Lewis County, Tennessee|Lewis]], and [[Marshall County, Tennessee|Marshall Counties]]. The incumbent is Republican [[Andy Ogles]], who was re-elected with 56.9% of the vote in 2024.<ref name="HPVT"/> Ogles was challenged by Tennessee Agricultural Commissioner Charlie Hatcher. Hatcher won the primary with 53% of the vote, defeating Ogles.
+
+===Republican primary===
+==== Nominee ====
+*[[Charlie Hatcher]], former [[Tennessee Department of Agriculture|Tennessee Commissioner of Agriculture]] (2019–2025)<ref>{{cite web|url=https://www.williamsonherald.com/communities/charlie-hatcher-announces-candidacy-for-congress/article_3ce2548a-4183-42cd-822b-33a038f1e9ea.html|title=Charlie Hatcher announces candidacy for Congress|last=Joyce|first=Matt|date=October 15, 2025|access-date=October 16, 2025|website=[[Williamson Herald]]}}</ref>
+
+====Eliminated in primary====
+*[[Andy Ogles]], incumbent U.S. representative<ref name="TNSOS"/>
+
+====Disqualified====
+*Patrick Smith<ref>{{cite web |last1=McFarlin |first1=Shannon |title= Congressional candidate Patrick Smith disqualified from ballot by state Republican Party|url= https://www.radionwtn.com/2026/05/18/congressional-candidate-patrick-smith-disqualified-from-ballot-by-state-republican-party/ |website=RadioNWTN |access-date=6 July 2026 |language=en |date=18 May 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Andy Ogles
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Rau |first1=Nate |title=President Trump endorses TN Rep. Andy Ogles |url=https://www.axios.com/local/nashville/2025/10/27/president-trump-endorses-rep-andy-ogles |website=Axios |access-date=6 January 2026 |language=en |date=27 October 2025}}</ref>
+
+;U.S. senators
+*[[Marsha Blackburn]], [[Tennessee]] (2019–present)<ref name="Endorse">{{cite web |last1=Stockard |first1=Sam |title=Candidates bank on endorsements as primary draws near |url=https://tennesseelookout.com/2026/07/28/candidates-bank-on-endorsements-as-primary-draws-near/ |website=Tennessee Lookout |access-date=28 July 2026 |date=July 28, 2026}}</ref>
+*[[Bill Hagerty]], [[Tennessee]] (2021–present)<ref name="Endorse" />
+
+;U.S. representatives
+*[[Mike Johnson]], [[Speaker of the U.S. House of Representatives|speaker of the House]] (2023–present) from [[LA-04]] (2017–present)<ref name="Endorse" />
+*[[Steve Scalise]], [[United States House of Representatives|majority leader of the House]] (2023–present) from [[LA-02]] (2008–present)<ref name="Scene">{{cite web |last1=Masters |first1=Matt |title=Endorsements Roll in Ahead of Election Day |url=https://www.nashvillescene.com/news/pithinthewind/tennessee-endorsements-2026-elections/article_e5a7838f-d3c1-57f5-857b-1eaef2ada405.html |website=Nashville Scene |access-date=6 August 2026 |date=August 5, 2026}}</ref>
+
+;State legislators
+*[[Gino Bulso]], [[Tennessee House of Representatives|state representative]] from the 61st district (2023–present)<ref name="Scene" />
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-scott-desjarlais-for-tn-04/|title=Freedom Caucus Fund Endorses Scott DesJarlais for TN-04|date=July 10, 2026|access-date=July 28, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Charlie Hatcher
+|list=
+;Executive branch officials
+*[[Sonny Perdue]], [[U.S. Secretary of Agriculture]] (2017–2021) and [[governor of Georgia]] (2003–2011)<ref>{{cite web |last1=Masters |first1=Hamilton |title=Former U.S. Ag. Secretary Sonny Perdue Stumps for Hatcher Ahead of Early Voting
+|url=https://www.williamsonscene.com/news/charlie-hatcher-sonny-perdue-tn/article_719150a2-0c7d-4c40-884f-ad45044d8abe.html |website=Williamson Scene|access-date=16 July 2026 |language=en |date=13 July 2026}}</ref>
+
+;Statewide officials
+*[[Bill Haslam]], former [[governor of Tennessee]] (2011-2019), mayor of [[Knoxville]] (2003-2011) and owner of [[Nashville Predators]]<ref>{{cite news |last1=Adams |first1=Liam |title=Former Gov. Haslam endorses Hatcher over Ogles in congressional primary |url=https://www.tennessean.com/story/news/politics/elections/2026/07/16/ogles-hatcher-haslam-endorsement-congress-election/90946847007 |access-date=17 July 2026 |work=The Tennesseean |date=16 July 2026}}</ref>
+*[[Bill Lee (Tennessee politician)|Bill Lee]], [[governor of Tennessee]] (2019–present)<ref>{{cite news |last1=Jones|first1=Vivian |title=Former Gov. Haslam endorses Hatcher over Ogles in congressional primary |url=https://www.tennessean.com/story/news/politics/elections/2026/08/04/lee-endorses-hatcher-ogles-congress-5th-district/91173526007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116848p119550c119550e1165xxv116848d--51--b--51--&gca-ft=176&gca-ds=sophi |access-date=4 August 2026 |work=The Tennesseean |date=4 August 2026}}</ref>
+
+;U.S. representatives
+*[[Zach Wamp]], former [[TN-03]] (1995–2011)<ref>{{cite web |last1=Jones|first1=Vivian |title=Former U.S. Rep. Zach Wamp endorses Charlie Hatcher for Congress in TN-5
+|url=https://www.tennessean.com/story/news/politics/elections/2026/05/29/charlie-hatcher-zach-wamp-endorsement-andy-ogles-congress-challenge/90304092007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z1121xxp119750l003850c119750e1121xxv006999d--50--b--50--&gca-ft=155&gca-ds=sophi |website=[[The Tennessean|Tennessean]]|access-date=16 July 2026 |language=en |date=29 May 2026}}</ref>
+
+;State legislators
+*[[John Stevens (Tennessee politician)|John Stevens]], [[Tennessee Senate|state senator]] from the [[Tennessee's 24th Senate district|24th district]] (2013–present)<ref name="Endorse" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 17, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Charlie Hatcher (R)
+|$719,503
+|$614,682
+|$104,821
+|-
+|{{party shading/Republican}}|Andy Ogles (R)
+|$613,135
+|$617,407
+|$57,649
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Tennessee 5th |url=https://www.fec.gov/data/elections/house/TN/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 16, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:75px;"| Charlie<br />Hatcher
+! style="width:75px;"| Andy<br />Ogles
+! Undecided
+|-
+|style="text-align:left;"|Tusk Strategies<ref>{{cite web|last1=Solender|first1=Andrew|last2=Rau|first2=Nate|title=Scoop: GOP Rep. Ogles faces 11th-hour cash barrage in primary|url=https://www.axios.com/2026/07/30/republican-primary-andy-ogles-super-pac|website=Axios|access-date=July 30, 2026}}</ref>{{efn-ua|Commissioned by Invest in Tomorrow Coalition, an anti-Ogles super PAC}}
+|July 26–28, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|33%
+|{{party shading/Republican}}|'''37%'''
+|30%
+|}
+
+====Results====
+[[File:2026 Congressional Republican Primary Election in Tennessee's 5th Congressional District, results by county.svg|thumb|200x200px|Republican primary results by county:{{collapsible list
+| title = {{legend|#53bfbf|Hatcher}}|{{legend|#81d0d0|50–60%}}|{{legend|#53bfbf|60–70%}}
+}}{{collapsible list
+| title = {{legend|#e55651|Ogles}}|{{legend|#ed8783|50–60%}}|{{legend|#e55651|60–70%}}|
+}}]]
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Charlie Hatcher]]
+| party = Republican Party (United States)
+| votes = 36,546
+| percentage = 53.2
+}}
+{{Election box candidate with party link no change
+| candidate = [[Andy Ogles]] (incumbent)
+| party = Republican Party (United States)
+| votes = 32,096
+| percentage = 46.8
+}}
+{{Election box total no change
+| votes = 68,642
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+==== Nominee ====
+*Chaz Molder, mayor of [[Columbia, Tennessee|Columbia]] (2018–present)<ref>{{cite news |last1=Powell |first1=Jay |title=Columbia mayor Chaz Molder 'building a new coalition,' seeks 5th District seat against Ogles in 2026 |url=https://www.columbiadailyherald.com/story/news/2025/09/04/columbia-mayor-chaz-molder-to-run-for-u-s-5th-congressional-district/85928290007/ |access-date=September 4, 2025 |work=[[Daily Herald (Columbia, Tennessee)|The Daily Herald]] |date=September 4, 2025}}</ref>
+
+==== Eliminated in primary ====
+*Yolanda Cooper-Sutton, [[Memphis City Council]]member<ref name="May15Candidates"/>
+*DeVante R. Hill<ref name="May15Candidates"/>
+*Rachel Hurley, writer<ref name="May15Candidates"/>
+*Carrie Ann Iacomini, former educator<ref name="May15Candidates"/>
+
+==== Withdrawn ====
+*Mike Cortese, [[Metropolitan Council of Nashville and Davidson County|Nashville Metro council]]member ''(running in the fourth district)''<ref name="CorteseTN05">{{cite news |last1=Hornbostel |first1=Austin |title=This Nashville council member wants Rep. Andy Ogles' seat in Congress |url=https://www.tennessean.com/story/news/politics/elections/2025/07/10/nashville-council-mike-cortese-andy-ogles/84538101007/ |access-date=July 10, 2025 |work=[[The Tennessean]] |date=July 10, 2025}}</ref>
+*Joyce Neal, adjunct professor ''(running in the fourth district)''<ref name="CorteseTN05"/>
+*James Torino, healthcare executive ''(running in the ninth district)''<ref name="CorteseTN05"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Chaz Molder
+|list=
+;U.S. representatives
+*[[Steve Cohen (politician)|Steve Cohen]], [[TN-09]] (2007–present)<ref>{{Cite web |title=Cohen endorses candidates for redrawn congressional districts |url=https://www.actionnews5.com/2026/05/21/cohen-endorses-candidates-redrawn-congressional-districts/ |access-date=May 25, 2026}}</ref>
+*[[Jim Cooper]], former [[TN-05]] (1983–1995, 2003–2023)<ref>{{cite web |last1=Jones |first1=Vivian |title=Former US Rep. Jim Cooper backs Chaz Molder in Ogles challenge |website=The Tennesseean |url=https://www.tennessean.com/story/news/politics/2026/02/09/former-us-rep-jim-cooper-backs-chaz-molder-in-ogles-challenge/88584480007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116831p119450c119450v116831d--51--b--51--&gca-ft=186&gca-ds=sophi |date=9 February 2026}}</ref>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC 5th">{{cite web|url=https://dccc.org/dccc-announces-first-round-of-candidates-named-to-coveted-2026-red-to-blue-program/|title=DCCC Announces First Round of Candidates Named to Coveted 2026 'Red to Blue' Program|date=February 23, 2026|access-date=February 23, 2026}}</ref>
+*[[John Tanner (Tennessee politician)|John Tanner]], former [[TN-08]] (1989–2011)<ref name="Scene" />
+
+;Statewide officials
+*[[Phil Bredesen]], former [[Governor of Tennessee|governor of Tennessee]] (2003–2011)<ref>{{Cite web |last=AOL |date=2026-05-14 |title=Molder relaunches TN-5 Congress bid, says voters 'deserve a choice' - AOL |url=https://www.aol.com/articles/molder-relaunches-tn-5-congress-220606000.html |access-date=2026-08-05 |website=AOL.com |language=en-US}}</ref>
+
+;State legislators
+*[[Raumesh Akbari]], [[Tennessee Senate|state senator]] from the [[Tennessee's 29th Senate district|29th district]] (2019–present)<ref>{{Cite web |date=2026-05-23 |title=Local leader endorses Chaz Molder |url=https://www.yahoo.com/news/videos/local-leader-endorses-chaz-molder-001850789.html |access-date=2026-05-25 |website=Yahoo News |language=en-US}}</ref>
+
+;Organizations
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC 5th"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Mike Cortese (D)
+|$533,689
+|$383,404
+|$150,285
+|-
+| {{party shading/Democratic}} |Chaz Molder (D)
+|$1,825,648
+|$551,473
+|$1,274,175
+|-
+| {{party shading/Democratic}} |Joyce Neal (D)
+|$6,615
+|$3,217
+|$1,543
+|-
+| {{party shading/Democratic}} |James Torino (D)
+|$117,034
+|$17,349
+|$99,685
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 5th Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Molder}}|{{legend|#eef3fd|20–30%}}|{{legend|#dee8fb|30–40%}}|{{legend|#b4c7ec|40–50%}}|{{legend|#8da9e2|50–60%}}|{{legend|#4170cd|70–80%}}|
+}}{{collapsible list
+| title = {{legend|#d79346|Cooper-Sutton}}|{{legend|#f9e1c6|30–40%}}|{{legend|#e8ba85|40–50%}}|{{legend|#d79346|50–60%}}
+}}{{collapsible list
+| title = {{legend|#87be51|Hurley}}|{{legend|#ddf0ca|30–40%}}
+}}{{collapsible list
+| title = {{legend|#c0a32f|Hill}}|{{legend|#f0e6be|30–40%}}
+}}{{collapsible list
+| title = {{legend|#c88fe4|Tie}}|{{legend|#f2dffc|30–40%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Chaz Molder
+| party = Democratic Party (United States)
+| votes = 17,730
+| percentage = 40.5
+}}
+{{Election box candidate with party link no change
+| candidate = Yolanda Cooper-Sutton
+| party = Democratic Party (United States)
+| votes = 14,362
+| percentage = 32.8
+}}
+{{Election box candidate with party link no change
+| candidate = Rachel Hurley
+| party = Democratic Party (United States)
+| votes = 4,857
+| percentage = 11.1
+}}
+{{Election box candidate with party link no change
+| candidate = DeVante R. Hill
+| party = Democratic Party (United States)
+| votes = 4,324
+| percentage = 9.9
+}}
+{{Election box candidate with party link no change
+| candidate = Carrie Ann Iacomini
+| party = Democratic Party (United States)
+| votes = 2,491
+| percentage = 5.7
+}}
+{{Election box total no change
+| votes = 43,764
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*James A. Johnson<ref name="May15Candidates"/>
+*Micheál (Me-Haul) O'Leary<ref name="May15Candidates"/>
+
+==== Withdrawn ====
+*Lowell Andre Reynolds, music producer and audio engineer ''(running in the seventh district)''<ref name="CorteseTN05"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|May 8, 2026
+|-
+| align=left | [[Inside Elections]]<ref>{{Cite web |title=Tennessee Elections |url=https://insideelections.com/state/tennessee |access-date=December 5, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|May 8, 2026
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Charlie Hatcher (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web|url=https://tennesseelookout.com/2026/08/07/after-ogles-primary-defeat-trump-flips-endorsement-to-hatcher-for-tennessees-5th-district/|title=After Ogles’ primary defeat, Trump flips endorsement to Hatcher for Tennessee’s 5th District|last=Stephenson|first=Cassandra|date=August 7, 2026|access-date=September 15, 2026|website=[[States Newsroom|Tennessee Lookout]]}}</ref>
+}}
+{{Endorsements box
+|title=Chaz Molder (D)
+|list=
+;U.S. representatives
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-four-new-candidates-ready-to-win-tough-seats/|title=Blue Dog PAC Endorses Four New Candidates Ready to Win Tough Seats|date=September 16, 2026|access-date=September 17, 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=October 31, 2026}}</ref>
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO"/>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Majority for Israel]]<ref>{{cite news |last1=Pellish |first1=Aaron |title=The 2028 redistricting fight is already kicking off |url=https://www.politico.com/newsletters/weekly-score/2026/09/14/the-2028-redistricting-fight-is-already-kicking-off-01073884 |access-date=September 14, 2026 |work=[[Politico]] |date=September 14, 2026 |language=en}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Charlie<br />Hatcher (R)
+! style="width:100px;"| Chaz<br />Molder (D)
+! Undecided
+|-
+| style="text-align: left;"|Impact Research (D)<ref>{{cite web |last1=Jones |first1=Vivian |title=New Molder campaign poll shows Hatcher with narrow 5-point lead |url=https://www.tennessean.com/story/news/politics/elections/2026/10/07/poll-molder-hatcher-congress-election/92135891007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z118443p119350c119350e1189xxv118443&gca-ft=42&gca-ds=sophi |publisher=[[The Tennessean]] |access-date=October 8, 2026 |date=October 8, 2026}}</ref>{{efn-ua|name=Molder}}
+|September 28 – October 1, 2026
+|552 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''46%'''
+|41%
+|11%
+|-
+| style="text-align: left;"|Impact Research (D)<ref>{{cite web |last1=Bado |first1=Kirk |title=Exclusive: A New Look at Tennessee’s Lone Competitive Race |url=https://www.nationaljournal.com/s/732752/exclusive-a-new-look-at-tennessees-lone-competitive-race/?unlock=L9D7IO7PXNI40OWK |publisher=[[National Journal]] |access-date=August 31, 2026 |date=August 31, 2026}}</ref>{{efn-ua|name=Molder}}
+|August 19–24, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''48%'''
+|40%
+|12%
+|}
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Andy Ogles vs. Chaz Molder'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Andy<br />Ogles (R)
+! style="width:100px;"| Chaz<br />Molder (D)
+! Undecided
+|-
+| style="text-align: left;"|Impact Research (D)<ref>{{cite web|url=https://www.nationaljournal.com/s/732074/exclusive-internal-poll-gives-dems-hope-in-tn-05/?unlock=WPL7HCG2TH9QWY2X|title=Exclusive: Internal Poll Gives Dems Hope in TN-05|first=Kirk A.|last1=Bado|website=[[National Journal]]|date=June 17, 2026|access-date=June 17, 2026}}</ref>{{efn-ua|name=Molder|Poll sponsored by Molder's campaign}}
+|May 11–13, 2026
+|558 (LV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''47%'''
+|41%
+|12%
+|}
+{{hidden end}}
+
+==District 6==
+{{see also|Tennessee's 6th congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 6th congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = 
+| nominee1 = [[Johnny Garrett (politician)|Johnny Garrett]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = Mike Croley
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[John Rose (Tennessee politician)|John Rose]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 6th congressional district (since 2027) (new version).svg|thumb|Tennessee's 6th congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 6th congressional district (2027–).map|text=Interactive map version}}]]
+The 6th district encompasses the eastern portions and suburbs of [[Nashville]] and extends across northern [[Middle Tennessee]]. It includes the cities of [[Hendersonville, Tennessee|Hendersonville]] and [[Gallatin, Tennessee|Gallatin]], as well as the eastern portion of [[Lebanon, Tennessee|Lebanon]]. The district continues eastward across the [[Cumberland Plateau]], including the regional centers of [[Cookeville, Tennessee|Cookeville]] and [[Crossville, Tennessee|Crossville]], and reaches as far as [[Scott County, Tennessee|Scott County]], where [[East Tennessee]] begins.
+
+The incumbent is Republican [[John Rose (Tennessee politician)|John Rose]], who was re-elected with 68.0% of the vote in 2024;<ref name="HPVT" /> he is retiring to run for governor.<ref name=":0" />
+
+===Republican primary===
+====Nominee====
+*[[Johnny Garrett (politician)|Johnny Garrett]], [[Tennessee House of Representatives|state representative]] from the 45th district (2019–present)<ref>{{cite news |last1=Rau |first1=Nate |title=State Rep. Johnny Garrett announces bid for Congress |url=https://www.axios.com/local/nashville/2025/07/08/state-rep-johnny-garrett-announces-bid-for-congress |access-date=July 8, 2025 |work=Axios |date=8 July 2025 |language=en}}</ref>
+====Eliminated in primary====
+*Natisha Brooks, educator and candidate for [[mayor of Nashville]] in [[2023 Nashville mayoral election|2023]]<ref name="TNSOS"/>
+*Jon Henry<ref name="TNSOS"/>
+*[[Van Hilleary]], chief of staff to incumbent [[John Rose (Tennessee politician)|John Rose]], former U.S. representative from the 4th district (1995–2003), nominee for [[Governor of Tennessee|governor]] in [[2002 Tennessee gubernatorial election|2002]], and candidate for [[United States Senate|U.S. Senate]] in [[2006 United States Senate election in Tennessee|2006]]<ref>{{cite web|url=https://tennesseelookout.com/2025/07/12/former-tennessee-congressman-hilleary-announces-run-for-6th-congressional-district/|title=Former Tennessee congressman Hilleary announces run for 6th Congressional District|last=McCall|first=J. Holly|date=July 12, 2025|access-date=July 14, 2025|website=[[States Newsroom|Tennessee Lookout]]}}</ref>
+
+====Declined====
+*[[John Rose (Tennessee politician)|John Rose]], incumbent U.S. representative ''([[2026 Tennessee gubernatorial election|ran for governor]])''<ref name=":0">{{cite news |last1=Jones |first1=Vivian |title=US Rep. John Rose launches 2026 bid for Tennessee governor |url=https://www.tennessean.com/story/news/politics/2025/03/20/john-rose-launches-2026-campaign-tennessee-governor/82544003007/ |access-date=March 20, 2025 |work=[[The Tennessean]] |date=March 20, 2025}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Johnny Garrett|list=
+;U.S. representatives
+*[[Tom Emmer]], [[United States House of Representatives|House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="Scalise" />
+*[[Steve Scalise]], [[United States House of Representatives|House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="Scalise">{{cite web |last1=Blubaugh |first1=Anna |title=Hilleary, Garrett Leading Republicans in Race to Succeed John Rose in Tennessee's 6th Congressional District |url=https://nashvillebanner.com/2026/07/14/hilleary-garrett-leading-republicans-in-race-to-succeed-john-rose-in-tennessees-6th-congressional-district/ |website=Nashville Banner |access-date=28 July 2026 |date=July 14, 2026}}</ref>
+*[[Jason Smith (American politician)|Jason Smith]], [[MO-08]] (2013–present)<ref name="VoteHub" />
+
+;Local officials
+*[[Kane (wrestler)|Glenn Jacobs]], [[Knox County, Tennessee|Knox County]] mayor (2018–present)<ref>{{Cite web |last=Housler |first=Kaitlin |date=2025-07-16 |title=Knox County Mayor Glenn Jacobs Endorses Johnny Garrett in TN-06 U.S. House Race |url=https://tennesseestar.com/news/knox-county-mayor-glenn-jacobs-endorses-johnny-garrett-in-tn-06-u-s-house-race/khousler/2025/07/16/ |access-date=2025-10-08 |website=Tennessee Star |language=en-US}}</ref>
+
+;Individuals
+*[[Riley Gaines]], conservative activist and former college athlete<ref name="Scalise" />
+}}
+
+{{Endorsements box|title=John Henry|list=
+;Executive branch officials
+*[[Michael Flynn]], former [[national security advisor]] (2017)<ref name="Flynn">{{cite web |last1=Stockard |first1=Sam |title=Former congressman squares off with state House member in 6th District GOP primary |url=https://tennesseelookout.com/2026/06/24/former-congressman-squares-off-with-state-house-member-in-6th-district-gop-primary/ |website=Tennessee Lookout |access-date=28 July 2026 |date=June 24, 2026}}</ref>
+}}
+
+{{Endorsements box|title=Van Hilleary|list=
+;U.S. representatives
+*[[Robert Aderholt]], [[AL-04]] (1997–present)<ref name="VoteHub">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=28 July 2026}}</ref>
+*[[Brett Guthrie]], [[KY-02]] (2009–present)<ref name="VoteHub" />
+*[[Trent Kelly]], [[Mississippi's 1st congressional district|MS-01]] (2015–present)<ref name="VoteHub" />
+*[[Mike Rogers (Alabama politician)|Mike Rogers]], [[AL-03]] (2003–present)<ref name="VoteHub" />
+*[[Joe Wilson]], [[South Carolina's 2nd congressional district|SC-02]] (2001–present)<ref name="VoteHub" />
+
+;State legislators
+*[[Paul Bailey (politician)|Paul Bailey]], [[Tennessee Senate|state senator]] from the [[Tennessee's 15th Senate district|15th district]] (2015–present)<ref name="Scalise" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Johnny Garrett (R)
+|$2,314,281
+|$1,533,848
+|$780,433
+|-
+|{{party shading/Republican}}|Jon Henry (R)
+|$67,166
+|$17,827
+|$99,749
+|-
+|{{party shading/Republican}}|Van Hilleary (R)
+|$1,502,905
+|$550,719
+|$952,186
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Tennessee 6th |url=https://www.fec.gov/data/elections/house/TN/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 17, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Congressional Republican Primary Election in Tennessee's 6th Congressional District, results by county.svg|thumb|200x200px|Republican primary results by county:{{collapsible list
+| title = {{legend|#ed8783|Garrett}}|{{legend|#fbdedd|30–40%}}|{{legend|#f1b4b2|40–50%}}|{{legend|#ed8783|50–60%}}|{{legend|#e55651|60–70%}}|
+}}{{collapsible list
+| title = {{legend|#81d0d0|Hilleary}}|{{legend|#daf5f5|30–40%}}|{{legend|#81d0d0|50–60%}}
+}}{{collapsible list
+| title = {{legend|#87be51|Henry}}|{{legend|#63a61f|60–70%}}
+}}]]
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Johnny Garrett (politician)|Johnny Garrett]]
+| party = Republican Party (United States)
+| votes = 37,388
+| percentage = 43.6
+}}
+{{Election box candidate with party link no change
+| candidate = [[Van Hilleary]]
+| party = Republican Party (United States)
+| votes = 25,490
+| percentage = 29.7
+}}
+{{Election box candidate with party link no change
+| candidate = Jon Henry
+| party = Republican Party (United States)
+| votes = 16,792
+| percentage = 19.6
+}}
+{{Election box candidate with party link no change
+| candidate = Natisha Brooks
+| party = Republican Party (United States)
+| votes = 6,016
+| percentage = 7.0
+}}
+{{Election box total no change
+| votes = 85,686
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Mike Croley, former park ranger<ref name=fields>{{cite web|url=https://tennesseelookout.com/2025/07/08/whos-running-for-tennessees-6th-and-7th-u-s-house-seats/|title=Game on: Fields fill for Tennessee's open 6th and 7th U.S. House seats; a Democrat in District 5|last=Friedman|first=Adam|date=July 8, 2025|access-date=September 12, 2025|website=[[States Newsroom|Tennessee Lookout]]}}</ref>
+====Eliminated in primary====
+*Lore Bergman, community organizer and nominee for this district in [[2024 United States House of Representatives elections in Tennessee#District 6|2024]]<ref name="TNSOS"/>
+*Christopher Martin Finley<ref name="May15Candidates"/>
+*Miriam Leibowitz<ref name="May15Candidates"/>
+*Chaney Mosley, agriculture professor at [[Middle Tennessee State University]]<ref>{{cite news |author=Brent Carl Fleshman |title=6th Congressional District candidate speaks in Cookeville |url=https://www.herald-citizen.com/news/6th-congressional-district-candidate-speaks-in-cookeville/article_c6d25d7e-de58-5bac-8307-d13f0b6869ce.html |access-date=February 4, 2026 |work=[[Herald-Citizen]] |date=January 16, 2026}}</ref>
+
+====Not on ballot====
+*[[Megan Barry]], former [[List of mayors of Nashville, Tennessee|mayor]] of [[Nashville, Tennessee|Nashville]] (2015–2018) and nominee for [[Tennessee's 7th congressional district]] in [[2024 United States House of Representatives elections in Tennessee#District 7|2024]]<ref>{{Cite web |last=Rau |first=Nate |date=2026-05-12 |title=Former Nashville Mayor Megan Barry pulls papers to run for Congress |url=https://www.axios.com/local/nashville/2026/05/13/former-mayor-megan-barry-might-run-congress |access-date=2026-05-13 |website=Axios |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Mike Croley (D)
+|$14,730
+|$8,462
+|$6,328
+|-
+|{{party shading/Democratic}}|Chaney Mosley (D)
+|$52,595
+|$9,870
+|$42,725
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 6th Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Croley}}|{{legend|#eef3fd|20–30%}}|{{legend|#dee8fb|30–40%}}|{{legend|#b4c7ec|40–50%}}|{{legend|#8da9e2|50–60%}}
+}}{{collapsible list
+| title = {{legend|#d79346|Mosley}}|{{legend|#f9e1c6|30–40%}}
+}}{{collapsible list
+| title = {{legend|#87be51|Bergman}}|{{legend|#eef8e4|20–30%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mike Croley
+| party = Democratic Party (United States)
+| votes = 11,604
+| percentage = 28.9
+}}
+{{Election box candidate with party link no change
+| candidate = Chaney Mosley
+| party = Democratic Party (United States)
+| votes = 9,633
+| percentage = 24.0
+}}
+{{Election box candidate with party link no change
+| candidate = Lore Bergman
+| party = Democratic Party (United States)
+| votes = 9,224
+| percentage = 23.0
+}}
+{{Election box candidate with party link no change
+| candidate = Miriam Leibowitz
+| party = Democratic Party (United States)
+| votes = 6,840
+| percentage = 17.0
+}}
+{{Election box candidate with party link no change
+| candidate = Christopher Martin Finley
+| party = Democratic Party (United States)
+| votes = 2,856
+| percentage = 7.1
+}}
+{{Election box total no change
+| votes = 40,157
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*Chris Monday, graphic designer, Republican candidate for this seat in [[United States House of Representatives elections in Tennessee, 2018#District 6|2018]] and independent candidate for this seat in [[United States House of Representatives elections in Tennessee, 2020#District 6|2020]]<ref name="TNSOS"/>
+*Angus Purdy<ref name="May15Candidates"/>
+
+====Withdrawn====
+*Andrew Koontz, real estate agent ''(running in the seventh district)''<ref name="TNSOS"/>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Andrew Koontz (I)
+|$5,100
+|$130
+|$4,970
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Mike Croley (D)
+| list =
+;Labor unions
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+==District 7==
+{{see also|Tennessee's 7th congressional district}}
+{{Infobox election
+| election_name = 2026 Tennessee's 7th congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2025 Tennessee's 7th congressional district special election
+| previous_year = 2025 (special)
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Rep Matt Van Epps, 119th Congress (cropped).jpg
+| nominee1 = [[Matt Van Epps]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Darden Copeland
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Matt Van Epps]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 7th congressional district (since 2027) (new version).svg|thumb|Tennessee's 7th congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 7th congressional district (2027–).map|text=Interactive map version}}]]
+The 7th district is centered in [[Middle Tennessee]], anchored by significant portions of [[Nashville]] and its western suburbs. The district includes most of [[Franklin, Tennessee|Franklin]] as well as the western half of [[Williamson County, Tennessee|Williamson County]], along with nearby communities such as [[Ashland City, Tennessee|Ashland City]], [[Pleasant View, Tennessee|Pleasant View]], [[Dickson, Tennessee|Dickson]], [[Springfield, Tennessee|Springfield]], and part of [[White House, Tennessee|White House]].
+
+To the northwest, the district prominently includes [[Clarksville, Tennessee|Clarksville]], one of the state's largest cities anchored by [[Fort Campbell]].
+
+Beyond that the district stretches southward to the [[Alabama]] border, encompassing a large swath of predominantly rural counties.
+
+The incumbent is Republican [[Matt Van Epps]], who won a [[2025 Tennessee's 7th congressional district special election|special election]] following the resignation of Republican [[Mark Green (Tennessee politician)|Mark Green]] with 53.9% of the vote.
+
+===Republican primary===
+====Nominee====
+*[[Matt Van Epps]], incumbent U.S. representative<ref name="TNSOS"/>
+
+====Disqualified====
+*Brant Hall<ref name="May15Candidates"/>
+
+==== Endorsements ====
+{{Endorsements box|title=Matt Van Epps|list=;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Matt Van Epps |url=https://ballotpedia.org/Matt_Van_Epps |website=Ballotpedia |access-date=24 June 2026}}</ref>}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Matt Van Epps (R)
+|$1,982,057
+|$1,846,902
+|$135,155
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Tennessee 7th |url=https://www.fec.gov/data/elections/house/TN/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Matt Van Epps]] (incumbent)
+| party = Republican Party (United States)
+| votes = 60,043
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 60,043
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Darden Copeland, consultant and candidate for this district in [[2025 Tennessee's 7th congressional district special election|2025]]<ref name="May15Candidates"/>
+====Eliminated in primary====
+*[[Vincent B. Dixie|Vincent Dixie]], [[Tennessee House of Representatives|state representative]] from the 54th district (2019–present) and candidate for this district in [[2025 Tennessee's 7th congressional district special election|2025]] ''(previously withdrew)''<ref>{{cite news |title=March 12: Tennessee Lawmakers' Per Diem; Vincent Dixie Stands Pat |url=https://nashvillebanner.com/2026/03/12/tennessee-lawmakers-per-diem-vincent-dixie-school-voucher/ |access-date=March 18, 2026 |work=Nashville Banner |date=March 12, 2026}}</ref>
+*Saletta Holloway, former member of the [[Metropolitan Council of Nashville and Davidson County]]<ref name="May15Candidates"/>
+*Joshua Warren Sales, teacher<ref name="TNSOS"/>
+
+====Declined====
+*[[Aftyn Behn]], [[Tennessee House of Representatives|state representative]] from the 51st district (2023–present) and nominee for this district in [[2025 Tennessee's 7th congressional district special election|2025]] ''([[2026 Tennessee House of Representatives election#District 51|running for re-election]])''<ref>{{Cite web |last=Broderick |first=Kelly |date=2026-01-12 |title=Rep. Aftyn Behn announces she will not seek TN-07 nomination |url=https://www.newschannel5.com/news/state/tennessee/davidson-county/rep-aftyn-behn-announces-she-will-not-seek-tn-07-nomination |access-date=2026-01-12 |website=News Channel 5 Nashville (WTVF) |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Vincent Dixie (D)
+|$177,458
+|$176,124
+|$1,333
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 7th Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Copeland}}|{{legend|#dee8fb|30–40%}}|{{legend|#b4c7ec|40–50%}}|{{legend|#8da9e2|50–60%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Darden Copeland
+| party = Democratic Party (United States)
+| votes = 16,646
+| percentage = 39.9
+}}
+{{Election box candidate with party link no change
+| candidate = [[Vincent B. Dixie|Vincent Dixie]]
+| party = Democratic Party (United States)
+| votes = 11,387
+| percentage = 27.3
+}}
+{{Election box candidate with party link no change
+| candidate = Saletta Holloway
+| party = Democratic Party (United States)
+| votes = 9,985
+| percentage = 23.9
+}}
+{{Election box candidate with party link no change
+| candidate = Joshua Warren Sales
+| party = Democratic Party (United States)
+| votes = 3,745
+| percentage = 9.0
+}}
+{{Election box total no change
+| votes = 41,763
+| percentage = 100.0
+}}
+{{Election box end}}
+
+=== Independent candidates ===
+==== Declared====
+*Andrew J. Koontz<ref name="May15Candidates"/>
+*Lowell Reynolds<ref name="May15Candidates"/>
+
+====Did not file====
+* Terri Christie, boat captain and candidate in the [[2025 Tennessee's 7th congressional district special election|2025 special election]]<ref>{{Cite web |last=Joslin |first=Stacey Shrader |date=2026-01-23 |title=Candidates Line Up for U.S. House Seat |url=https://www.tba.org/?pg=Articles&blAction=showEntry&blogEntry=137423 |access-date=2026-03-18 |website=www.tba.org}}</ref>
+* Jonathan Thorp, commercial helicopter pilot and candidate in the [[2025 Tennessee's 7th congressional district special election|2025 special election]]<ref>{{Cite web |title=Jonathan Thorp (Tennessee) |url=https://ballotpedia.org/Jonathan_Thorp_(Tennessee) |access-date=2026-03-18 |website=Ballotpedia |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Jonathan Thorp (I)
+|$20,099
+|$26,337
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|December 3, 2025
+|}
+
+==District 8==
+{{see also|Tennessee's 8th congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 8th congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 8
+| next_year = 2028
+| image1 = Rep. David Kustoff, official portrait, 2023 (head crop).jpg
+| nominee1 = [[David Kustoff]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Heidi Kuhn
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[David Kustoff]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 8th congressional district (since 2027) (new version).svg|thumb|Tennessee's 8th congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 8th congressional district (2027–).map|text=Interactive map version}}]]
+The 8th district encompasses rural [[West Tennessee]] as well as taking in the eastern suburbs of [[Memphis, TN|Memphis]], including [[Bartlett, TN|Bartlett]], [[Lakeland, TN|Lakeland]], [[Germantown, TN|Germantown]], and [[Collierville, TN|Collierville]], as well as the cities of [[Jackson, Tennessee|Jackson]], [[Paris, Tennessee|Paris]], and [[Dyersburg, Tennessee|Dyersburg]]. The incumbent is Republican [[David Kustoff]], who was re-elected with 72.3% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[David Kustoff]], incumbent U.S. representative<ref name="TNSOS"/>
+
+====Endorsements====
+{{Endorsements box
+|title=David Kustoff
+|list=
+;Executive branch officials 
+* [[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=David Kustoff |url=https://ballotpedia.org/David_Kustoff |website=Ballotpedia |access-date=24 June 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Republican Jewish Coalition]]<ref name="RJC1">{{cite web |title=RJC endorses 16 congressional incumbents, including 4 Jews |url=https://www.sdjewishworld.com/2026/03/12/rjc-endorses-16-congressional-incumbents-including-4-jews/ |website=San Diego Jewish World |access-date=13 March 2026 |date=12 March 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|David Kustoff (R)
+|$1,813,311
+|$1,041,265
+|$2,831,507
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Tennessee 8th |url=https://www.fec.gov/data/elections/house/TN/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 1, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[David Kustoff]] (incumbent)
+| party = Republican Party (United States)
+| votes = 65,431
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 65,431
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Heidi Kuhn, Shelby County Criminal Court clerk<ref name="May15Candidates"/>
+====Eliminated in primary====
+*Dewey Gordon Bryan<ref name="TNSOS"/>
+*Jordan D. Hinders<ref name="May15Candidates"/>
+*Leonard Perkins, retired [[USAF]] air traffic controller<ref>{{cite news |title=Leonard Perkins announces candidacy for US House district 8 seat |url=https://www.wbbjtv.com/2026/01/09/leonard-perkins-announces-candidacy-for-us-house-district-8-seat/ |access-date=January 9, 2026 |work=[[WBBJ-TV]] |date=January 9, 2026 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Heidi Kuhn
+|list=
+;U.S. Representatives
+*[[Steve Cohen (politician)|Steve Cohen]], [[TN-09]] (2007–present)<ref>{{Cite web |title=Heidi Kuhn wins Democratic nomination for District 8 congressional seat |url=https://www.wsmv.com/2026/08/07/heidi-kuhn-wins-democratic-nomination-district-8-congressional-seat |website=WSMV |date=6 August 2026 |access-date=23 October 2026}}</ref>
+}}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 8th Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Kuhn}}|{{legend|#dee8fb|30–40%}}|{{legend|#b4c7ec|40–50%}}|{{legend|#8da9e2|50–60%}}
+}}{{collapsible list
+| title = {{legend|#d79346|Bryan}}|{{legend|#e8ba85|40–50%}}
+}}{{collapsible list
+| title = {{legend|#87be51|Perkins}}|{{legend|#b1d68d|40–50%}}|{{legend|#87be51|50–60%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Heidi Kuhn
+| party = Democratic Party (United States)
+| votes = 23,787
+| percentage = 52.0
+}}
+{{Election box candidate with party link no change
+| candidate = Dewey Gordon Bryan
+| party = Democratic Party (United States)
+| votes = 9,611
+| percentage = 21.0
+}}
+{{Election box candidate with party link no change
+| candidate = Leonard Perkins
+| party = Democratic Party (United States)
+| votes = 7,719
+| percentage = 16.9
+}}
+{{Election box candidate with party link no change
+| candidate = Jordan D. Hinders
+| party = Democratic Party (United States)
+| votes = 4,671
+| percentage = 10.2
+}}
+{{Election box total no change
+| votes = 45,788
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*Adam D. Austill<ref name="May15Candidates"/>
+*Wendell "Wells" Blankenship<ref name="May15Candidates"/>
+*Antonio Futch<ref name="May15Candidates"/>
+*Pamela Jeanine "P." Moses<ref name="May15Candidates"/>
+*Horace Taylor<ref>{{Cite web |title=FEC Form 2 for Report FEC-1956880 |url=https://docquery.fec.gov/cgi-bin/forms/H6TN08342/1956880 |access-date=2026-03-31 |website=docquery.fec.gov}}</ref>
+*Henry J. Ward  II<ref name="May15Candidates"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|August 14, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Heidi Kuhn (D)
+| list =
+;Labor unions
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO"/>
+
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+==District 9==
+{{see also|Tennessee's 9th congressional district}}{{Infobox election
+| election_name = 2026 Tennessee's 9th congressional district election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Tennessee#District 9
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Tennessee#District 9
+| next_year = 2028
+| image_size = x150px
+| image1 = Justin J Pearson August 2023.jpg
+| nominee1 = [[Justin J. Pearson]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Brent Taylor (Tennessee politician).jpg
+| nominee2 = [[Brent Taylor (Tennessee politician)|Brent Taylor]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Steve Cohen (politician)|Steve Cohen]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+[[File:Tennessee's 9th congressional district (since 2027) (new version).svg|thumb|Tennessee's 9th congressional district boundary from the 2026 elections<br>{{maplink|from=Tennessee's 9th congressional district (2027–).map|text=Interactive map version}}]]
+The 9th district is based in [[Memphis, Tennessee|Memphis]], as well as a portion of [[Tipton County, Tennessee|Tipton County]]. The incumbent is Democrat [[Steve Cohen (politician)|Steve Cohen]], who was re-elected with 71.3% of the vote in 2024.<ref name="HPVT"/> He initially ran for re-election but withdrew his candidacy in May 2026 due to the Tennessee redistricting.<ref name=Cohen>{{cite news |last1=Finton |first1=Lucas |last2=Schermele |first2=Zachary |title=Rep. Steve Cohen of Memphis, after 19 years in Congress, ends reelection bid |url=https://www.knoxnews.com/story/news/politics/2026/05/15/memphis-tn-congressman-steve-cohen-ends-reelection-bid/90094389007/ |work=[[Knoxville News Sentinel]] |date=May 15, 2026 |access-date=May 15, 2026}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Justin J. Pearson|Justin Pearson]], [[Tennessee House of Representatives|state representative]] from the [[Tennessee House of Representatives 86th district|86th district]] (2023, 2023–present)<ref>{{cite news |last1=Friedman |first1=Adam |title=Memphis state Rep. Justin Pearson to challenge U.S. Rep. Steve Cohen in 2026 Democratic primary |url=https://tennesseelookout.com/2025/10/08/memphis-state-rep-justin-pearson-to-challenge-u-s-rep-steve-cohen-in-2026-democratic-primary/ |access-date=October 8, 2025 |work=Tennessee Lookout |date=October 8, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+*M. LaTroy Alexandria-Williams, community activist<ref name="May15Candidates"/>
+*[[London Lamar]], [[Tennessee Senate|state senator]] from the 33rd district (2022–present)<ref name="May15Candidates" />
+*Jim Torino, healthcare executive<ref name="May15Candidates"/>
+
+====Withdrawn====
+*[[Steve Cohen (politician)|Steve Cohen]], incumbent U.S. representative<ref name=Cohen/> ''(endorsed Lamar)''<ref name = "InterceptPeason"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Justin J. Pearson
+|colwidth=60
+|list=
+;U.S. Senators
+*[[Ed Markey]], [[Massachusetts]] (2013–present)<ref name="VoteHub" />
+*[[Bernie Sanders]], [[Vermont]] (2007–present)<ref name = "InterceptPeason">{{Cite web |last=Lacy |first=Akela |date=2026-06-16 |title=Bernie Sanders Backs Justin J. Pearson, House Candidate at the Heart of Tennessee Voting Rights Fight |url=https://theintercept.com/2026/06/16/justin-pearson-sanders-tennessee-house-redistricting/ |access-date=2026-06-24 |website=The Intercept |language=en-US}}</ref>
+
+;U.S. Representatives
+*[[Maxwell Frost]], [[FL-10]] (2023–present)<ref>{{cite web|url=https://www.votejustinj.com/endorsements| title=Endorsements|date=August 30, 2026}}</ref>
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name = "InterceptPeason"/>
+*[[Summer Lee]], [[Pennsylvania's 12th congressional district|PA-12]] (2023–present)<ref name = "InterceptPeason"/>
+*[[Alexandria Ocasio-Cortez]], [[New York's 14th congressional district|NY-14]] (2019–present)<ref>{{cite web |last1=Lacy |first1=Akela |title=Alexandria Ocasio-Cortez Wades Into Tennessee Primary, Endorsing Justin J. Pearson |url=https://theintercept.com/2026/06/25/aoc-endorses-justin-pearson-tennessee-congress/ |website=[[The Intercept]] |access-date=28 June 2026 |date=25 June 2026}}</ref>
+*[[Ilhan Omar]], [[MN-05]] (2019–present)<ref name="VoteHub" />
+*[[Ayanna Pressley]], [[MA-07]] (2019–present)<ref name = "InterceptPeason"/>
+*[[Delia Ramirez]], [[IL-03]] (2023–present)<ref name = "InterceptPeason"/>
+*[[Rashida Tlaib]], [[Michigan's 12th congressional district|MI-12]] (2019–present)<ref name = "InterceptPeason"/>
+*[[Maxine Waters]], [[CA-43]] (1991–present)<ref>{{cite web|url=https://www.votejustinj.com/endorsements| title=Endorsements|date=August 30, 2026}}</ref>
+
+;State legislators
+*[[Aftyn Behn]], [[Tennessee House of Representatives|state representative]] from the 51st district (2023–present)<ref name="HOUSE (DEMS) DIVIDED">{{cite news |last1=Taylor |first1=Sarah Grace |title=May 15: Justin Pearson's New Opponent; Megan Barry Changes Her Mind|url=https://nashvillebanner.com/2026/05/15/justin-pearson-london-lamar-redistricting-maps-tennessee-titans/|access-date=May 15, 2026|work=[[Nashville Banner]] |date=May 15, 2026 |language=en}}</ref>
+*[[Shaundelle Brooks]], [[Tennessee House of Representatives|state representative]] from the 60th district (2025–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Vincent Dixie]], [[Tennessee House of Representatives|state representative]] from the 24th district (2019–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Bob Freeman (politician)|Bob Freeman]], [[Tennessee House of Representatives|state representative]] from the 56th district (2019–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Ronnie Glynn]], [[Tennessee House of Representatives|state representative]] from the 67th district (2023–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Yusuf Hakeem]], [[Tennessee House of Representatives|state representative]] from the 28th district (2019–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Torrey Harris]], [[Tennessee House of Representatives|state representative]] from the 91st district (2021–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Gloria Johnson (politician)|Gloria Johnson]], [[Tennessee House of Representatives|state representative]] from the 90th district (2013–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Sam McKenzie]], [[Tennessee House of Representatives|state representative]] from the 15th district (2021–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Jason Powell]], [[Tennessee House of Representatives|state representative]] from the 53rd district (2013–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+*[[Joe Towns]], [[Tennessee House of Representatives|state representative]] from the 84th district (1995–present)<ref name="HOUSE (DEMS) DIVIDED"/>
+
+;Party officials
+*[[David Hogg]], former vice chair of the [[Democratic National Committee]] (2025)<ref name=launches>{{cite news |last1=Bowman |first1=Bridget |title='Tennessee Three' legislator Justin Pearson launches primary challenge against longtime House Democrat |url=https://www.nbcnews.com/politics/2026-election/tennessee-three-legislator-justin-pearson-launches-primary-challenge-l-rcna235918 |access-date=October 8, 2025 |work=[[NBC News]] |date=October 8, 2025 |language=en}}</ref>
+
+;Individuals
+*[[Ms. Rachel]], [[YouTuber]] and children's educator<ref>{{Cite news |last=Corbett |first=Jessica |date=July 31, 2026 |title=Ms. Rachel Signals Support for El-Sayed, Jackson, McKinney, and Other Candidates Who 'Care About All Kids' |url=https://www.commondreams.org/news/progressives-running-for-congress-2026 |work=[[Common Dreams]] |access-date=August 1, 2026 |language=en}}</ref>
+
+;Organizations
+*[[Brady Campaign|Brady PAC]]<ref>{{Cite web|url=https://bradypac.org/brady-pac-backs-six-house-candidates-ready-to-make-communities-safer-and-congress-stronger/|title=Brady PAC Backs Six House Candidates Ready to Make Communities Safer and Congress Stronger|date=June 23, 2026|access-date=July 7, 2026|website=Brady PAC}}</ref>
+*[[Quentin James|The Collective PAC]]<ref>{{cite web |title=Our Candidates |url=https://collectivepac.org/candidates/}}</ref>
+*[[Food and Water Watch|Food and Water Action]]<ref name="JJPenvirogroups">{{cite press release |title=National Enviro Groups Endorse Tenn. Data Center Fighter and Voting Rights Champion Justin Pearson |url=https://www.foodandwateraction.org/press/national-enviro-groups-endorse-tenn-data-center-fighter-and-voting-rights-champion-justin-pearson/ |publisher=[[Food and Water Watch|Food and Water Action]] |access-date=October 7, 2026 |date=July 30, 2026}}</ref>
+*[[Friends of the Earth Action]]<ref name="JJPenvirogroups"/>
+*[[Indivisible (organization)|Indivisible]]<ref name = "InterceptPeason"/>
+*[[Jane Fonda Climate PAC]]<ref name="JJPenvirogroups"/>
+*[[Justice Democrats]]<ref name=launches/>
+*[[David Hogg|Leaders We Deserve]]<ref>{{Cite news |last1= Moore |first1=Elena  |last2=Fowler |first2=Stephen |date=2026-03-05 |title=A run for their money: Young candidates rival older incumbents in midterm fundraising |url=https://www.npr.org/2026/03/05/nx-s1-5736533/midterms-fundraising-democrats |access-date=2026-06-24 |work=NPR |language=en}}</ref>
+*[[MoveOn]]<ref name = "InterceptPeason"/>
+*[[Our Revolution]]<ref>{{cite web |title=Justin J. Pearson for Congress in Tennessee's 9th District|url=https://ourrevolution.com/justin-j-pearson-for-congress-in-tennessees-9th-district/|website=Our Revolution |language=en|access-date=May 28, 2026}}</ref>
+*[[PAL PAC]]<ref name = "InterceptPeason"/>
+*[[Progressive Democrats of America]]<ref>{{cite web |title=Endorsements |website=[[Progressive Democrats of America]] |url=https://pdamerica.org/endorsements |archive-url=https://web.archive.org/web/20260804122230/https://pdamerica.org/endorsements |access-date=21 October 2026 |archive-date=4 August 2026}}</ref>
+*[[Sunrise Movement]]<ref>{{cite web|url=https://subscriber.politicopro.com/article/eenews/2026/01/22/sunrise-eyes-dem-incumbent-knockouts-in-michigan-tennessee-00741977|title=Sunrise eyes Dem incumbent knockouts in Michigan, Tennessee|last=Bravender|first=Robin|date=January 22, 2026|access-date=January 25, 2026|website=[[Politico]]}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsed Candidates |website=Track AIPAC |url=https://www.trackaipac.com/endorsements |archive-url=https://web.archive.org/web/20260804140908/https://www.trackaipac.com/endorsements |access-date=23 October 2026 |archive-date=4 August 2026}}</ref>
+*[[Working Families Party]]<ref name = "InterceptPeason"/>
+
+;Labor Unions
+*[[Association of Flight Attendants|Association of Flight Attendants-CWA]]<ref>{{cite web|url=https://www.votejustinj.com/endorsements| title=Endorsements|date=August 30, 2026}}</ref>
+*[[Service Employees International Union|SEIU Local 205]]<ref>{{cite web|url=https://www.votejustinj.com/endorsements| title=Endorsements|date=August 30, 2026}}</ref>
+*[[American Federation of State, County, and Municipal Employees|AFSCME Local 1733]]<ref>{{cite web|url=https://www.votejustinj.com/endorsements| title=Endorsements|date=August 30, 2026}}</ref>
+*[[Communication Workers of America|United Campus Workers of Tennessee - CWA Local 3821]]<ref>{{cite web|url=https://www.votejustinj.com/endorsements| title=Endorsements|date=August 30, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=London Lamar
+|list=
+;U.S. representatives
+*[[Steve Cohen (politician)|Steve Cohen]], [[TN-09]] (2007–present)<ref>{{Cite web |title=Cohen endorses candidates for redrawn congressional districts |url=https://www.actionnews5.com/2026/05/21/cohen-endorses-candidates-redrawn-congressional-districts/ |website=Action News 5 |access-date=May 25, 2026}}</ref>
+*[[Janelle Bynum]], [[OR-05]] (2025–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[LaMonica McIver]], [[NJ-10]] (2024–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[Emilia Sykes]], [[OH-13]] (2023–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[Harold Ford Sr.]], [[TN-09]] (1975–1997)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[John Tanner (Tennessee politician)|John Tanner]], [[TN-08]] (1989–2011)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+
+;State Legislators
+*[[Raumesh Akbari]], Tennessee Senator, District 29 (2019–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[Brenda Gilmore]], Former Tennessee Senator, District 19 (2019–2023)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[Johnny Shaw]], Tennessee House District 80 (2001–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+*[[Larry Miller (Tennessee politician)|Larry Miller]], Tennessee House District 88 (1993–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+
+;Local officials
+*[[Paul Young (Tennessee politician)|Paul Young]], mayor of [[Memphis, Tennessee|Memphis]] (2024–present)<ref name="Endorse" />
+*[[Lee Harris (politician)|Lee Harris]], Mayor of [[Shelby County, Tennessee|Shelby County]] (2018–present)<ref>{{Cite web |title=London Lamar Endorsements|url=https://www.instagram.com/p/DbsxjyqxR85/ |website=Instagram |access-date=October 29, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Steve Cohen ''(withdrawn)''
+|list=
+;State legislators
+*<s>[[London Lamar]], [[Tennessee Senate|state senator]] from the [[Tennessee's 33rd Senate district|33rd district]] (2022–present)</s> ''(entered race in May 2026)''<ref>{{cite news |last1=Cochrane |first1=Emily |title=One of the Democrats' Generational Battles: He's 76, His Opponent Is 31|url=https://www.nytimes.com/2026/04/01/us/politics/democrats-age-memphis-house-primary.html|access-date=April 16, 2026|work=[[The New York Times]] |date=April 1, 2026 |language=en}}</ref>
+
+;Organizations
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[J Street]]<ref>{{cite web|title=Steve Cohen |url=https://jstreetpac.org/candidate/steve-cohen/ |publisher=J Street PAC |access-date=April 24, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="jdemjan">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=2 January 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+Candidates in ''italics'' withdrew before the primary election took place.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 25, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|London Lamar (D)
+|$76,320
+|$68,714
+|$7,606
+|-
+|{{party shading/Democratic}}|Justin Pearson (D)
+|$2,344,947
+|$1,500,214
+|$844,733
+|-
+|{{party shading/Democratic}}|Jim Torino (D)
+|$119,549
+|$71,020
+|$48,529
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9">{{cite web |title=2026 Election United States House - Tennessee 9th |url=https://www.fec.gov/data/elections/house/TN/09/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 30, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:75px;"| Steve<br />Cohen
+! style="width:75px;"| Justin<br />Pearson
+! Undecided
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref>{{Cite tweet|user=daveweigel|first=David|last=Weigel|number=2032113245012607313|title=New poll of #TN09 shared w me by @justicedems: Steve Cohen (inc): 45%, Justin Pearson: 44%. 1/30-2/3, 354 likely primary voters. Numbers are before messaging (when pollsters read bad info about one candidate and good info about the other)|access-date=March 12, 2026}}</ref>{{efn-ua|Poll sponsored by the [[Justice Democrats]], which supports Pearson}}
+|January 30 – February 3, 2026
+|354 (LV)
+|5.2%
+|{{party shading/Democratic}}|'''45%'''
+|44%
+|11%
+|}
+
+====Results====
+[[File:2026 Congressional Democratic Primary Election in Tennessee's 9th Congressional District, results by county.svg|thumb|200x200px|Democratic primary results by county:{{collapsible list
+| title = {{legend|#8da9e2|Pearson}}|{{legend|#b4c7ec|40–50%}}|{{legend|#8da9e2|50–60%}}|{{legend|#678cd7|60–70%}}|{{legend|#4170cd|70–80%}}
+}}]]
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Justin J. Pearson|Justin Pearson]]
+| party = Democratic Party (United States)
+| votes = 32,097
+| percentage = 65.7
+}}
+{{Election box candidate with party link no change
+| candidate = [[London Lamar]]
+| party = Democratic Party (United States)
+| votes = 11,876
+| percentage = 24.3
+}}
+{{Election box candidate with party link no change
+| candidate = M. LaTroy Alexandria-Williams
+| party = Democratic Party (United States)
+| votes = 3,319
+| percentage = 6.8
+}}
+{{Election box candidate with party link no change
+| candidate = Jim Torino
+| party = Democratic Party (United States)
+| votes = 1,531
+| percentage = 3.1
+}}
+{{Election box total no change
+| votes = 48,823
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*[[Brent Taylor (Tennessee politician)|Brent Taylor]], [[Tennessee Senate|state senator]] from the [[Tennessee's 31st Senate district|31st district]] (2023–present) and candidate for the 7th district in [[2002 United States House of Representatives elections in Tennessee#District 7|2002]]<ref>{{cite web|title=State Sen. Brent Taylor announces run for 9th Congressional District
+|url=https://www.fox13memphis.com/news/state-sen-brent-taylor-announces-run-for-9th-congressional-district/article_eb4646f2-e692-4f10-8444-1cc8098754f4.html|website=Fox13|access-date=May 7, 2026}}</ref>
+
+====Eliminated in primary====
+*Charlotte Bergmann, former member of the [[Tennessee Republican Party]] State Executive Committee and perennial candidate<ref name="TNSOS"/>
+*[[Todd Warner]], [[Tennessee House of Representatives|state representative]] from the [[Tennessee House of Representatives 92nd district|92nd district]] (2022–present)<ref>{{cite web |last1=Stockard |first1=Sam |title=Tennessee's new 9th District draws Republican race |url=https://tennesseelookout.com/2026/05/12/tennessees-new-9th-district-draws-republican-race/ |publisher=[[Tennessee Lookout]] |access-date=May 14, 2026 |date=May 12, 2026}}</ref>
+*Jeremy Thompson, restaurant owner<ref name="May15Candidates"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Brent Taylor
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web| last=Jarrett| first=Kim| date=July 13, 2026|title=Candidates in Georgia, Tennessee U.S. House races get Trump endorsements| url=https://www.thecentersquare.com/georgia/article_2cd019f9-e7ee-49a9-8ae2-6ea729b361c0.html}}
+</ref>
+
+;U.S. senators
+*[[Marsha Blackburn]], [[Tennessee]] (2019–present)<ref name="JCP">{{cite web|last=Jarrett|first=Kim|date=May 7, 2026|title=Taylor says he will run in new 9th Congressional District
+|url=https://johnsoncitypress.com/news/372379/taylor-says-he-will-run-in-new-9th-congressional-district/|website=Johnson City Press|access-date=May 7, 2026}}</ref>
+*[[Bill Hagerty]], [[Tennessee]] (2021–present)<ref name="JCP"/>
+
+;U.S. representatives
+*[[Stephen Fincher]], former [[TN-08]] (2011–2017)<ref name="VoteHub" />
+*[[Chuck Fleischmann]], [[TN-03]] (2011–present)<ref name="Endorse" />
+*[[Diana Harshbarger]], [[TN-01]] (2019–present)<ref name="Endorse" />
+*[[August Pfluger]], [[TX-11]] (2021–present)<ref name="VoteHub" />
+*[[Steve Scalise]], [[United States House of Representatives|House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="Endorse" />
+*[[Matt Van Epps]], [[TN-07]] (2025–present)<ref name="Endorse" />
+
+;Statewide officials
+*[[Randy McNally]], [[lieutenant governor of Tennessee]] (2017–present) and [[Tennessee Senate|state senator]] from the [[Tennessee's 5th Senate district|5th district]] (1987–present)<ref name="Endorse" />
+
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-sen-brent-taylor-for-tennessees-ninth-district|title=U.S. Chamber Endorses Sen. Brent Taylor for Tennessee’s Ninth District|date=August 4, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Todd Warner
+|list=
+;State legislators
+*[[Jody Barrett]], [[Tennessee House of Representatives|state representative]] from district 69 (2023–present)<ref name="Endorse" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 25, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Charlotte Bergmann (R)
+|$63,481
+|$53,734
+|$11,747
+|-
+|{{party shading/Republican}}|Brent Taylor (R)
+|$1,549,482
+|$1,132,104
+|$417,377
+|-
+|{{party shading/Republican}}|Jeremy Thompson (R)
+|$228,564
+|$186,735
+|$41,829
+|-
+|{{party shading/Republican}}|Todd Warner (R)
+|$639,617
+|$468,526
+|$171,090
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+====Results====
+[[File:2026 Congressional Republican Primary Election in Tennessee's 9th Congressional District, results by county.svg|thumb|200x200px|Republican primary results by county:{{collapsible list
+| title = {{legend|#ed8783|Taylor}}|{{legend|#fbdedd|30–40%}}|{{legend|#f1b4b2|40–50%}}|{{legend|#ed8783|50–60%}}|{{legend|#d02923|70–80%}}|
+}}{{collapsible list
+| title = {{legend|#81d0d0|Thompson}}|{{legend|#1eafaf|60–70%}}
+}}{{collapsible list
+| title = {{legend|#87be51|Warner}}|{{legend|#ddf0ca|30–40%}}
+}}]]
+{{Election box begin no change
+| title = Republican primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Brent Taylor (Tennessee politician)|Brent Taylor]]
+| party = Republican Party (United States)
+| votes = 31,057
+| percentage = 46.0
+}}
+{{Election box candidate with party link no change
+| candidate = [[Todd Warner]]
+| party = Republican Party (United States)
+| votes = 17,776
+| percentage = 26.3
+}}
+{{Election box candidate with party link no change
+| candidate = Jeremy Thompson
+| party = Republican Party (United States)
+| votes = 13,481
+| percentage = 20.0
+}}
+{{Election box candidate with party link no change
+| candidate = Charlotte Bergmann
+| party = Republican Party (United States)
+| votes = 5,153
+| percentage = 7.6
+}}
+{{Election box total no change
+| votes = 67,467
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independent candidates===
+====Declared====
+*Dennis Clark<ref name="May15Candidates"/>
+*Michelle Davis Head<ref name="May15Candidates"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|R|Flip}}
+|September 8, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R|Flip}}
+|May 8, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Likely|R|Flip}}
+|October 29, 2026
+|-
+| align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= August 14, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R|Flip}}
+|May 7, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Justin J. Pearson (D)
+|colwidth=
+|list=
+;Executive branch officials
+*[[Kamala Harris]], former [[vice president of the United States]] (2021–2025)<ref>{{cite web |last1=Griffin |first1=Ashley |title=Kamala Harris endorses Justin Pearson for congress in Memphis-area race |url=https://fox17.com/news/nation-world/amala-harris-endorses-justin-pearson-tennessee-9th-congress |website=WZTV |access-date=August 31, 2026 |language=en |date=August 31, 2026}}</ref>
+
+;U.S. senators
+*[[Chris Murphy]], [[Connecticut]] (2013–present)<ref>{{cite web |last1=Gaynor |first1=Gerren Keith |title=Sen. Chris Murphy joins Justin J. Pearson on campaign trail as Democrats target Tennessee seat |url=https://thegrio.com/2026/10/15/exclusive-chris-murphy-joins-justin-j-pearson-on-campaign-trail-as-democrats-target-tennessee-seat/ |website=[[TheGrio]] |access-date=October 21, 2026 |date=October 15, 2026}}</ref>
+
+;U.S. representatives
+*[[Greg Casar]], {{ushr|TX|35|TX-35}} (2023–present) and chair of the [[Congressional Progressive Caucus]]<ref name="CPC">{{cite web|url=https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-justin-j-pearson-for-tn-09/|title=Congressional Progressive Caucus PAC Endorses Justin J. Pearson for TN-09|date=September 17, 2026|access-date=September 18, 2026}}</ref>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC 9th">{{cite web|url=https://dccc.org/dccc-announces-six-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Six New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=October 5, 2026|access-date=October 5, 2026}}</ref>
+*[[Maxwell Frost]], {{ushr|FL|10|FL-10}} (2023–present)<ref name="CPC"/>
+*[[Pramila Jayapal]], {{ushr|WA|7|WA-7}} (2017–present)<ref name="CPC"/>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+*[[National Nurses United]]<ref>{{cite press release |title=National Nurses United endorses Justin Pearson for Tennessee’s 9th District |url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-justin-pearson-for-tennessees-9th-district |publisher=National Nurses United |access-date=October 2, 2026 |date=September 22, 2026}}</ref>
+*Tennessee [[AFL-CIO]]<ref name="AFLCIO"/>
+
+;Organizations
+*[[A New Policy]] PAC<ref>{{cite web |title=Endorsed Candidates |url=https://platform.anewpolicypac.org/endorsed |website=A New Policy PAC |access-date=October 21, 2026}}</ref>
+*[[Congressional Progressive Caucus]] PAC<ref name="CPC"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC 9th"/>
+*[[End Citizens United]]<ref>{{cite press release |title=ECU Endorses State Representative Justin J. Pearson for Tennessee's 9th Congressional District |url=https://www.endcitizensunited.org/news/ecu-endorses-state-representative-justin-j-pearson-for-tennessees-9th-congressional-district |publisher=End Citizens United |access-date=October 2, 2026 |date=September 23, 2026}}</ref>
+*[[Gen-Z for Change]]<ref>{{cite web |title=Endorsements |url=https://genzforchange.org/endorsements |website=Gen-Z for Change |access-date=October 21, 2026}}</ref>
+*[[Progressive Victory]]<ref>{{cite web |title=Endorsements for 2026 |website= [[Progressive Victory]] |url=https://www.progressivevictory.win/endorsements |access-date=21 October 2026}}</ref>
+*[[Third Act Movement|Third Act]] Tennessee<ref>{{cite press release |title=Third Act Tennessee proudly endorses Justin J. Pearson for U.S. Congress |url=https://thirdact.org/tennessee/2026/09/03/third-act-tennessee-proudly-endorses-justin-j-pearson-for-u-s-congress/ |publisher=Third Act |access-date=October 2, 2026 |date=September 3, 2026}}</ref>
+*[[Voters of Tomorrow]]<ref>{{cite web |last1=Gaynor |first1=Gerren Keith |title=Exclusive: Major youth voting group backs 3 progressive Black candidates ahead of election day |url=https://thegrio.com/2026/10/05/exclusive-voters-of-tomorrow-endorsements-black-candidates/ |website=[[TheGrio]] |access-date=October 8, 2026 |date=October 5, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=5 |Campaign finance reports as of October 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+!Loans
+|-
+|{{party shading/Democratic}}|Justin Pearson (D)
+|$3,642,697
+|$2,473,452
+|$1,169,245
+|$0
+|-
+|{{party shading/Republican}}|Brent Taylor (R)
+|$2,694,179
+|$1,872,414
+|$821,765
+|$1,542,523
+|-
+! colspan="5" |<small>Source: [[Federal Election Commission]]<ref name="FEC9" /></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Justin<br />Pearson (D)
+! style="width:75px;"| Brent<br />Taylor (R)
+! Undecided
+|-
+|style="text-align:left;"|Hart Research Associates (D)<ref>{{Cite tweet|user=thetnholler|number=2097837614275453287|title=From TN Rise PAC - NEW POLL: @Justinjpearson in Dead Heat in District Trump won by over 20 points|access-date=September 10, 2026}}</ref>{{Efn-ua|Poll sponsored by Tennessee Rise PAC & Three Star PAC}}
+|September 1–3, 2026
+|400 (LV)
+|–
+|44%
+|{{party shading/Republican}}|'''48%'''
+|8%
+|}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==See also==
+*[[Elections in Tennessee]]
+*[[Political party strength in Tennessee]]
+*[[Tennessee Democratic Party]]
+*[[Tennessee Republican Party]]
+*[[Government of Tennessee]]
+*[[2026 United States Senate election in Tennessee]]
+*[[2026 Tennessee gubernatorial election]]
+*[[2026 Tennessee elections]]
+*[[2026 United States elections]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+*[https://www.votekristiburke.com/ Kristi Burke (D)]
+*[https://www.votediana.com/ Diana Harshbarger (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.michaelafortennessee.com/ Michaela Barnett (D)]
+*[https://www.burchettforcongress.com/ Tim Burchett (R)]
+*[https://fineforcongresstn.com/ Bruce Fine (I)]
+
+;Official campaign websites for 3rd district candidates
+*[https://www.chuckforcongress.com/ Chuck Fleischmann (R)]
+*[https://annagolladay.com/ Anna Golladay (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://jacobanders.org/ Jacob Anders (I)]
+*[https://www.victoria4tennessee.org/ Victoria Broderick (D)]
+*[https://scottdesjarlais.com/ Scott DesJarlais (R)]
+
+;Official campaign websites for 5th district candidates
+*[https://charliehatcher.com/ Charlie Hatcher (R)]
+*[https://chazmolder.com/ Chaz Molder (D)]
+*[https://oleary4congress.com/ Micheál O'Leary (I)]
+
+;Official campaign websites for 6th district candidates
+*[https://www.mikefortn6.com/ Mike Croley (D)]
+*[https://johnnygarrettforcongress.com/ Johnny Garrett (R)]
+*[https://cmondayforliberty.com/ Chris Monday (I)]
+
+;Official campaign websites for 7th district candidates
+*[https://www.dardenforcongress.com/ Darden Copeland (D)]
+*[https://loareyno.wordpress.com/ Lowell Reynolds (I)]
+*[https://www.mattfortn.com/ Matt Van Epps (R)]
+
+;Official campaign websites for 8th district candidates
+*[https://www.kuhnforcongress.com/ Heidi Kuhn (D)]
+*[https://www.kustoffforcongress.com/ David Kustoff (R)]
+*[https://www.pamelamoses.com/ Pamela Moses (I)]
+
+;Official campaign websites for 9th district candidates
+*[https://www.votejustinj.com/ Justin J. Pearson (D)]
+*[https://brenttaylorforcongress.com/ Brent Taylor (R)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Tennessee|2024]]
+[[Category:2026 elections in Tennessee|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Tennessee]]

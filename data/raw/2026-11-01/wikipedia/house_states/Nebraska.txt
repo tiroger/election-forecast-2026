@@ -1,0 +1,1173 @@
+{{short description|none}}
+{{Use mdy dates|date=November 2024}}
+{{use American English|date=November 2024}}{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Nebraska Legislature election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Nebraska
+| country = Nebraska
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nebraska
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nebraska
+| next_year = 2028
+| seats_for_election = All 3 Nebraska seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''3'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Democratic Party (United States)
+| last_election2 = 0
+| seats2 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{Elections in Nebraska}}
+The '''2026 United States House of Representatives elections in Nebraska''' will be held on November 3, 2026, to elect the three [[U.S. representatives]] from the [[U.S. state|state]] of [[Nebraska]], one from each of the state's [[Nebraska's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. [[Primary elections]] took place on May 12, 2026.<ref>{{Cite web|date=May 9, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website=[[National Conference of State Legislatures]]|access-date=August 8, 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Republican
+! style="width:100px;" |Democratic
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Concord Public Opinion Partners (D)<ref>{{cite web |title=Nebraska Statewide General Election Findings |url=https://concordpublicopinionpartners.org/polls/nebraska-ge-2026 |publisher=Concord Public Opinion Partners |access-date=October 26, 2026 |date=October 18, 2026}}</ref>{{Efn-ua|Poll sponsored by Education Reform Now Advocacy}}
+|October 15–18, 2026
+|500 (LV)
+|±&nbsp;4.38%
+|{{party shading/Republican}}|'''45%'''
+|43%
+|6%{{Efn|"Someone else" with 6%}}
+|7%
+|}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Nebraska's 1st congressional district election
+| country = Nebraska
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nebraska#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nebraska#District 1
+| next_year = 2028
+| image1 = Mike Flood, official portrait (118th Congress) (cropped).jpg
+| nominee1 = [[Mike Flood (politician)|Mike Flood]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Christopher Backemyer DOS (cropped).jpg
+| nominee2 = Chris Backemeyer
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mike Flood (politician)|Mike Flood]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nebraska's 1st congressional district}}
+The 1st district is located in eastern Nebraska surrounding [[Omaha, Nebraska|Omaha]] and its suburbs, taking in [[Lincoln, Nebraska|Lincoln]], [[Bellevue, Nebraska|Bellevue]], [[Fremont, Nebraska|Fremont]], and [[Norfolk, Nebraska|Norfolk]]. The incumbent is Republican [[Mike Flood (politician)|Mike Flood]], who was re-elected with 60.1% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Mike Flood (politician)|Mike Flood]], incumbent U.S. representative (2022–present)<ref>{{cite news |last1=Vlaanderen |first1=Kathryn |title=Mike Flood announces his reelection campaign for Nebraska’s First Congressional District |url=https://www.ktiv.com/2026/02/15/mike-flood-announces-his-reelection-campaign-nebraskas-first-congressional-district/ |access-date=February 16, 2026 |work=[[KTIV]] |date=February 15, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Mike Flood
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Reelect2">{{cite web |last1=Fischer |first1=Mark |title=President Donald Trump endorses two Nebraska congressmen for re-election |url=https://www.klkntv.com/president-donald-trump-endorses-two-nebraska-congressmen-for-re-election/ |access-date=November 6, 2025 |work=[[KLKN]] |date=November 3, 2025}}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 14, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mike Flood (R)
+|$1,561,367
+|$579,558
+|$1,202,590
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Nebraska 1st |url=https://www.fec.gov/data/elections/house/NE/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results<ref name=primaryresults>{{cite web |title=Unofficial Results: Primary Election – May 12, 2026 |url=https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST |publisher=[[Secretary of State of Nebraska]] |access-date=13 May 2026}}</ref>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Mike Flood (politician)|Mike Flood]] (incumbent)|votes=53,094|percentage=100.0}}
+{{Election box total no change|votes=53,094|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Chris Backemeyer, former deputy [[United States Assistant Secretary of State|assistant secretary of state]]<ref>{{cite web |last1=Stanton |first1=Tom |title=Lincoln Man Running For First Congressional District Seat |url=https://klin.com/2025/11/06/548094/ |access-date=November 6, 2025 |work=[[KLIN]] |date=November 6, 2025}}</ref>
+=====Eliminated in primary=====
+*Eric Moyer, renewable energy developer<ref>{{Cite web |date=2025-08-07 |title=Political newcomer enters race for Mike Flood's seat |url=https://www.1011now.com/2025/08/07/political-newcomer-enters-race-mike-floods-seat/ |access-date=2025-08-10 |website=[[KOLN]] |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Chris Backemeyer (D)
+|$157,269
+|$32,078
+|$125,190
+|-
+|{{party shading/Democratic}}|Eric Moyer (D)
+|$20,882
+|$16,809
+|$5,017
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+[[File:2026 Nebraska's 1st congressional district Democratic primary election results by county.svg|thumb|200px|County results{{collapsible list
+| title = {{legend|#7996E2|Backemeyer}}|{{legend|#7996E2|Backemeyer—50–60%}}|{{legend|#6674DE|Backemeyer—60–70%}}
+}}{{collapsible list
+| title = {{legend|#51C2C2|Moyer}}|{{legend|#51C2C2|Moyer—50–60%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Chris Backemeyer|votes=26,523|percentage=57.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Eric Moyer|votes=19,508|percentage=42.4}}
+{{Election box total no change|votes=46,031|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Candidates====
+=====Nominee=====
+*Nik Sandman, retired farmer<ref>{{cite news |last1=Hayworth |first1=Bret |title=As filing period ends, Nebraska Republican incumbents Ricketts, Pillen face combined 9 opponents |url=https://www.kwit.org/podcast/spm-news/2026-03-04/as-filing-period-ends-nebraska-republican-incumbents-ricketts-pillen-face-combined-9-opponents |access-date=March 10, 2026 |work=[[Siouxland Public Media]] |date=March 4, 2026 |quote=Republican incumbent Mike Flood will take on the winner of two Democratic candidates, Eric Moyer and Chris Backemeyer, and Libertarian Nick Sandman.}}</ref>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Libertarian Party (United States)|candidate=Nik Sandman|votes=479|percentage=100.0}}
+{{Election box total no change|votes=479|percentage=100.0}}
+{{Election box end}}
+
+=== America First Party ===
+
+==== Nominee ====
+
+* Daniel Hartong<ref>{{Cite web |last=Olberding |first=Matt |last2=Media |first2=News director Nebraska Public |title=Newly formed America First Party announces five candidates for Nebraska elections |url=https://nebraskapublicmedia.org/en/news/news-articles/newly-formed-america-first-party-announces-five-candidates-for-nebraska-elections/ |access-date=2026-09-01 |website=Nebraska Public Media |language=en}}</ref>
+
+===Independents===
+====Candidates====
+=====Withdrawn=====
+*Austin Ahlman, investigative reporter for ''[[The Intercept]]''<ref>{{cite news |last1=Olberding |first1=Matt |title=Austin Ahlman, independent candidate for Nebraska's 1st District, suspending campaign |url=https://nebraskapublicmedia.org/en/news/news-articles/austin-ahlman-independent-candidate-for-nebraskas-1st-district-suspending-campaign/ |access-date=July 19, 2026 |work=[[Nebraska Public Media]] |date=July 19, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Austin Ahlman ''(withdrawn)''
+| list =
+;Organizations
+*[[Track AIPAC]]<ref name="TrackAIPAC">{{cite web |title=Candidates Endorsed By Citizens Against AIPAC Corruption |url=https://www.trackaipac.com/endorsements|website=Track AIPAC |access-date=23 June 2026}}</ref>
+}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|R}}
+|October 16, 2026
+|-
+| align=left | [[Inside Elections]]<ref name=IE/>
+| {{USRaceRating|Likely|R}}
+|October 15, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-05-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Likely|R}}
+|October 20, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Chris Backemeyer (D)
+|list=
+;U.S. representatives
+*[[Greg Stanton]], {{ushr|AZ|4|AZ-04}} (2019–present)<ref name="New Dems">{{cite web|url=https://www.newdemactionfund.com/news/new-dems-endorse-seven-more-candidates-in-key-red-to-blue-seats?source=dfba9884-cc51-4c60-b5ac-1e7c74296073|title=New Dems Endorse Seven More Candidates in Key Red-to-Blue Seats|date=September 29, 2026|access-date=October 2, 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=October 31, 2026}}</ref>
+
+;Organizations
+*[[J Street]]<ref>{{cite web |title=Chris Backemeyer |url=https://jstreetpac.org/candidate/chris-backemeyer/ |website=J Street PAC |access-date=August 24, 2026}}</ref>
+*[[New Democrat Coalition#Campaign arm|NewDem Action Fund]]<ref name="New Dems"/>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Mike<br />Flood (R)
+! style="width:100px;"| Chris<br />Backemeyer (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW from @washingtonsun🚨 |url=https://x.com/cjwarnke/status/2112877284684341727 |publisher=[[Twitter]] |access-date=October 22, 2026 |date=October 21, 2026}}</ref>{{efn-ua|name=HMP| Poll sponsored by the [[House Majority PAC]], which is focused on electing Democrats to the U.S. House of Representatives}}
+|October 19–20, 2026
+|536 (LV)
+|–
+|{{party shading/Republican}}|'''46%'''
+|45%
+|–
+|9%
+|-
+|style="text-align:left;" rowspan="2"|[[Global Strategy Group]] (D)<ref>{{cite web |title=Global Strategy Group on Behalf of Fight for Nebraska |url=https://s3.documentcloud.org/documents/28652094/ne-01-global-strategy-group-for-retire-career-politicians-sept-2026.pdf |publisher=[[Global Strategy Group]] |access-date=September 17, 2026}}</ref>{{Efn-ua|Poll sponsored by Fight for Nebraska PAC}}
+|rowspan="2"|August 31 – September 3, 2026
+|rowspan="2"|600 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|42%
+|{{party shading/Democratic}}|'''43%'''
+|7%{{efn|"Third party" with 7%}}
+|7%
+|-
+|45%
+|{{party shading/Democratic}}|'''49%'''
+|–
+|6%
+|-
+|style="text-align:left;" rowspan="2"|Tavern Research (D)<ref name="TavernMay2026">{{Cite web|url=https://242750075.fs1.hubspotusercontent-na2.net/hubfs/242750075/NE-01%20General%20Election%20-%20Toplines.pdf|title=NE-01 General Toplines|work=Tavern Research|access-date=May 21, 2026}}</ref>
+|rowspan="2"|May 16–19, 2026
+|rowspan="2"|1,079 (LV)
+|rowspan="2"|±&nbsp;3.9%
+|{{party shading/Republican}}|'''41%'''
+|33%
+|9%{{efn|Austin Ahlman (I) with 9%}}
+|17%
+|-
+|{{party shading/Republican}}|'''45%'''
+|43%
+|–
+|12%
+|-
+|style="text-align:left;" |Zenith Research (D)<ref name="ZenithMay2026">{{Cite tweet|user=admcrlsn|first=Adam|last=Carlson|number=2054957013252145421|title=In 2024, Trump won NE-01 by 13 pts & Dan Osborn won it by 1 pt. Race raters view at least 7 redder seats as more competitive than NE-01. Why? Because a Democrat can't win there. But a new poll from @ZenithPolls finds that a populist independent candidate — Austin Ahlman — can|access-date=May 14, 2026}}</ref>
+|May 8–11, 2026
+|371 (LV)
+|±&nbsp;5.1%
+|{{party shading/Republican}}|'''45%'''
+|38%
+|–
+|17%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+;Mike Flood (R) vs. Austin Ahlman (I)
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Mike<br />Flood (R)
+! style="width:100px;"| Austin<br />Ahlman (I)
+! Undecided
+|-
+|style="text-align:left;" |Tavern Research (D)<ref name="TavernMay2026"/>
+|May 16–19, 2026
+|1,079 (LV)
+|±&nbsp;3.9%
+|{{party shading/Republican}}|'''41%'''
+|36%
+|23%
+|-
+|style="text-align:left;" |Zenith Research (D)<ref name="ZenithMay2026"/>
+|May 8–11, 2026
+|371 (LV)
+|±&nbsp;5.1%
+|{{party shading/Republican}}|'''44%'''
+|36%
+|20%
+|}
+{{hidden end}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mike Flood (R)
+|$2,770,861.42
+|$2,131,738.08
+|$859,905.11
+|-
+|{{party shading/Democratic}}|Chris Backemeyer (D)
+|$1,154,612.70
+|$799,446.75
+|$355,165.95
+|-
+|{{party shading/Libertarian}}|Nik Sandman (L)
+|$0
+|$0
+|$0
+|-
+|style="background:#8897b5"|Daniel Hartong (AF)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Nebraska |url=https://www.fec.gov/data/elections/house/NE/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 13, 2026}}</ref></small>
+|}
+
+==== Debate ====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Nebraska's 1st congressional district debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Mike Flood (politician)|Mike Flood]]
+! scope="col" | Chris Backemeyer
+|-
+!1<ref>{{cite web |title=Flood, Backemeyer to debate next week in Lincoln |url=https://norfolkdailynews.com/news/flood-backemeyer-to-debate-next-week-in-lincoln/article_c89ce60b-6f25-42e4-92df-351d5cd467ee.html |publisher=[[Norfolk Daily News]] |access-date=September 17, 2026 |date=September 14, 2026 |url-access=subscription}}</ref>
+| style="white-space:nowrap;" | Sep. 23, 2026
+| style="white-space:nowrap;" | [[Nebraska Public Media]]<br>[[Omaha World-Herald]]<br>[[Rural Radio Network]]
+| style="white-space:nowrap;" | Jackie Ourada<br>Aaron Sanderford
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=HxW789G0OYg YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+{{Election box begin|title=2026 Nebraska's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Mike Flood (politician)|Mike Flood]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Chris Backemeyer 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Nik Sandman 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link
+  |party      = America First Party (Nebraska)
+  |candidate  = Daniel Hartong
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Nebraska's 2nd congressional district election
+| country = Nebraska
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nebraska#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nebraska#District 2
+| next_year = 2028
+| image1 = 
+| nominee1 = Brinker Harding 
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = Denise Powell
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Don Bacon]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nebraska's 2nd congressional district}}
+The 2nd district covers the [[Omaha metropolitan area]], including all of [[Douglas County, Nebraska|Douglas County]], home to the city of [[Omaha, Nebraska|Omaha]], [[Saunders County, Nebraska|Saunders County]], and parts of western [[Sarpy County, Nebraska|Sarpy County]], including [[Gretna, Nebraska|Gretna]] and [[Springfield, Nebraska|Springfield]]. The incumbent is Republican [[Don Bacon]], who was re-elected with 50.9% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> On June 30, 2025, Bacon announced he would not seek re-election.<ref name="nd"/> Bacon is one of only three Republicans in the 119th Congress to represent a district that was carried by Democrat Kamala Harris in the 2024 presidential election, making this race a key Democratic target.<ref>{{Cite web |last=Kondik |first=Kyle |title=The 2024 Crossover House Seats: Overall Number Remains Low with Few Harris-District Republicans |url=https://centerforpolitics.org/crystalball/the-2024-crossover-house-seats-overall-number-remains-low-with-few-harris-district-republicans/ |date=January 16, 2025 |access-date=January 18, 2025 |language=en-US}}</ref>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Brinker Harding, [[Omaha City Council|Omaha city council]]or from the 6th district (2017–present)<ref name="Brinker">{{cite news |last1=Salinas |first1=Juan II |title=Omaha City Council VP Brinker Harding jumps into Nebraska 2nd District U.S. House race |url=https://nebraskaexaminer.com/2025/07/01/omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-u-s-house-race/ |access-date=July 1, 2025 |work=Nebraska Examiner |date=July 1, 2025}}</ref>
+
+=====Withdrawn=====
+*[[Brett Lindstrom]], former [[Nebraska Legislature|state senator]] from the 18th district (2015–2023), candidate for this district in [[2012 United States House of Representatives elections in Nebraska#District 2|2012]], and candidate for [[List of governors of Nebraska|governor]] in [[2022 Nebraska gubernatorial election|2022]] (''[[2026 Nebraska gubernatorial election|ran for governor as an independent]]'')<ref name="Lindstrom">{{cite news |last1=Salinas |first1=Juan II |title=Former State Sen. Brett Lindstrom out of Nebraska’s 2nd District GOP race |url=https://nebraskaexaminer.com/2026/01/30/former-state-sen-brett-lindstrom-out-of-nebraskas-2nd-district-gop-race/ |access-date=January 30, 2026 |work=Nebraska Examiner |date=January 30, 2026}}</ref>
+
+===== Declined =====
+*[[Don Bacon]], incumbent U.S. representative<ref name="nd">{{cite news |work=[[The Hill (newspaper)|The Hill]] |access-date=June 30, 2025 |date=June 30, 2025 |url=https://thehill.com/homenews/campaign/5376897-don-bacon-retires-nebraska-congress/ |author=Manchester, Julia |title=Don Bacon won't seek reelection in competitive Nebraska district}}</ref> (''endorsed Harding'')
+*Chris Chappelear, former chair of the Nebraska [[Young Republicans|Federation of Young Republicans]]<ref name="allred"/>
+*Aaron Hanson, [[Douglas County, Nebraska|Douglas County]] sheriff<ref name="allred"/>
+*Aimee Melton, [[Omaha City Council|Omaha city council]]or from the 7th district (2013–present) ''(endorsed Harding)''<ref name="allred">{{cite news |work=The Downballot |date=July 2, 2025 |access-date=July 2, 2025 |url=https://www.the-downballot.com/i/167310644/ne |author1=Nir, David |author2=Singer, Jeff |title=Morning Digest: Colin Allred is back for a second Senate bid}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Brinker Harding
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TB">{{cite web |last1=Whedon |first1=Ben |title=Trump makes string of endorsements in key House races |url=https://justthenews.com/politics-policy/trump-makes-string-endorsements-key-house-races |website=Just The News |access-date=2026-04-14 |language=en |date=April 14, 2026}}</ref>
+
+;U.S. senators
+*[[Deb Fischer]], [[Nebraska]] (2013–present)<ref name="Brinker"/>
+*[[Pete Ricketts]], [[Nebraska]] (2023–present)<ref name="Brinker2"/>
+
+;U.S. representatives
+* [[Don Bacon]], {{ushr|NE|2|NE-02}} (2017–present)<ref name="NPM1">{{cite web |last1=Wade |first1=Jessica |title=Democrat Denise Powell leads 2025 fundraising in crowded 2nd District race |url=https://nebraskapublicmedia.org/en/news/news-articles/democrat-denise-powell-leads-2025-fundraising-in-crowded-2nd-district-race/ |website=Nebraska Public Media |access-date=2026-02-06 |language=en |date=February 3, 2026}}</ref>
+*[[Hal Daub]], former {{ushr|NE|2|NE-02}} (1981–1989)<ref name="Brinker"/>
+* [[Mike Flood (politician)|Mike Flood]], {{ushr|NE|1|NE-01}} (2022–present)<ref name="Brinker2">{{cite web |last1=Harding |first1=Brinker |title=Endorsements |url=https://www.brinkerharding.com/endorsements |website=Brinker Harding |access-date=2026-02-16 |language=en |date=February 16, 2026}}</ref>
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://www.nrcc.org/2026/04/27/nrcc-announces-addition-of-8-candidates-to-maga-majority-program-as-gop-expands-2026-map/|title=NRCC Announces Addition of 8 Candidates to 'MAGA Majority' Program as GOP Expands 2026 Map|date=April 27, 2026|access-date=May 4, 2026}}</ref>
+*[[Adrian Smith (politician)|Adrian Smith]], {{ushr|NE|3|NE-03}} (2007–present)<ref name="Brinker2"/>
+
+;Statewide officials
+*[[Dave Heineman]], former [[List of governors of Nebraska|governor of Nebraska]] (2005–2015)<ref name="Brinker"/>
+* [[Mike Hilgers]], [[Nebraska Attorney General|attorney general of Nebraska]] (2023–present)<ref name="NPM1"/>
+* [[Bob Evnen]], [[Nebraska Secretary of State|secretary of state of Nebraska]] (2019–present)<ref name="Brinker2"/>
+* [[Jim Pillen]], [[governor of Nebraska]] (2023–present)<ref name="NPM1"/>
+* [[Joey Spellerberg]], [[Nebraska Treasurer|treasurer of Nebraska]] (2025–present)<ref name="Brinker2"/>
+
+;State legislators
+*[[Kathleen Kauth (politician)|Kathleen Kauth]], [[Nebraska Legislature|state senator]] from the 31st district (2022–present)<ref name="Brinker"/>
+*[[Rita Sanders]], [[Nebraska Legislature|state senator]] from the 45th district (2021–present)<ref name="Brinker2"/>
+
+;Organizations
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+}}
+{{Endorsements box
+|title=Brett Lindstrom ''(withdrawn)''
+|list=
+;State legislators
+*[[Christy Armendariz]], [[Nebraska Legislature|state senator]] from the 18th district<ref name="Lindstrom"/>
+*[[Tom Brewer (politician)|Tom Brewer]], former [[Nebraska Legislature|state senator]] from the 43rd district<ref name="Lindstrom"/>
+*[[Rita Sanders]], [[Nebraska Legislature|state senator]] from the 45th district<ref name="Lindstrom"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Brinker Harding (R)
+|$1,270,418
+|$621,732
+|$648,686
+|-
+|{{party shading/Republican}}|''Brett Lindstrom (R)''
+|$374,138
+|$224,322
+|$149,815
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Nebraska 2nd |url=https://www.fec.gov/data/elections/house/NE/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Brinker Harding|votes=39,689|percentage=100.0}}
+{{Election box total no change|votes=39,689|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Denise Powell, candidate training group co-founder<ref name="dp">{{cite news |last1=Salinas |first1=Juan II |title=Denise Powell launches bid in Nebraska's 2nd Congressional District |url=https://nebraskaexaminer.com/2025/05/01/denise-powell-launches-bid-in-nebraskas-2nd-congressional-district/ |access-date=May 1, 2025 |work=[[Nebraska Examiner]] |date=May 1, 2025}}</ref>
+=====Eliminated in primary=====
+*Van Argyrakis, attorney and perennial candidate<ref name="dp"/>
+*Kishla Askins, former deputy assistant secretary at the [[Department of Veterans Affairs|U.S. Department of Veterans Affairs]] (2022–2024)<ref>{{Cite web |last=Salinas II |first=Juan |date=2025-07-15 |title=Retired Navy veteran Kishla Askins joins Nebraska 2nd District U.S. House race |url=https://nebraskaexaminer.com/2025/07/15/retired-navy-veteran-kishla-askins-joins-crowded-nebraska-2nd-district-u-s-house-race/ |access-date=2025-07-15 |website=[[Nebraska Examiner]] |language=en-US}}</ref>
+*[[John Cavanaugh (politician)|John Cavanaugh]], [[Nebraska Legislature|state senator]] from the 9th district (2021–present) and son of former U.S. Representative [[John J. Cavanaugh III]]<ref name="Cavanaugh">{{cite news |last1=Salinas |first1=Juan |title=State Sen. John Cavanaugh running for Congress in Nebraska's 2nd District |url=https://nebraskaexaminer.com/2025/06/04/state-sen-john-cavanaugh-running-for-congress-in-nebraskas-2nd-district/ |access-date=June 4, 2025 |work=[[Nebraska Examiner]] |date=June 4, 2025 |language=en}}</ref>
+*[[Crystal Rhoades]], [[Douglas County, Nebraska|Douglas County]] District court clerk (2023–present) and former [[Nebraska Public Service Commission]]er (2015–2023)<ref>{{cite news |last1=Salinas |first1=Juan II |title=Crystal Rhoades jumps into crowded Nebraska 2nd District field |url=https://nebraskaexaminer.com/2025/07/21/douglas-county-district-court-clerk-jumps-into-nebraska-2nd-district-field/ |access-date=July 21, 2025 |work=[[Nebraska Examiner]] |date=July 21, 2025}}</ref>
+*Melanie Williams, candidate for [[Nebraska Legislature|state legislature]] in [[2020 Nebraska Legislature election#District 31|2020]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1950009 |url=https://docquery.fec.gov/cgi-bin/forms/H6NE02265/1950009 |access-date=2026-02-23 |website=docquery.fec.gov}}</ref>
+
+=====Withdrawn=====
+*Mark Johnston, ophthalmologist<ref>{{Cite web |last=Salinas II |first=Juan |date=2025-07-31 |title=Mark Johnston withdraws from Democratic field in Nebraska's 2nd District |url=https://nebraskaexaminer.com/2025/07/30/mark-johnston-withdraws-from-democratic-field-in-nebraskas-2nd-district/ |access-date=2025-07-31 |website=[[Nebraska Examiner]] |language=en-US}}</ref>
+*James Leuschen, former policy director for [[House Majority Leader]] [[Steny Hoyer]] ''(remained on ballot)''<ref>{{Cite web |last=Salinas II |first=Juan |date=2026-03-30 |title=Then there were six: Leuschen drops out of NE-02 U.S. House Dem primary |url=https://nebraskaexaminer.com/briefs/then-there-were-six-leuschen-drops-out-of-ne-02-u-s-house-dem-primary/ |access-date=2026-04-01 |website=Nebraska Examiner |language=en-US}}</ref>
+
+===== Declined =====
+*[[Tony Vargas]], former [[Nebraska Legislature|state senator]] and nominee for this district in [[2022 United States House of Representatives elections in Nebraska#District 2|2022]] and [[2024 United States House of Representatives elections in Nebraska#District 2|2024]] ''(endorsed Powell,<ref name="Vargas"/> running for [[Douglas County, Nebraska|Douglas County]] treasurer)''<ref>{{cite news |work=[[Nebraska Examiner]] |access-date=March 2, 2025 |url=https://nebraskaexaminer.com/2025/08/22/former-nebraska-lawmaker-tony-vargas-launches-bid-for-douglas-county-treasurer/ |date=August 22, 2025 |author=Gonzalez, Cindy |title=Former Nebraska lawmaker Tony Vargas launches bid for Douglas County treasurer}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Kishla Askins
+|colwidth=
+|list=
+;Organizations
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=March 19, 2026|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[VoteVets.org|VoteVets]]<ref>{{cite web |title=VoteVets PAC Endorses Kishla Askins in NE-02 |url=https://votevets.org/press-releases/votevets-pac-endorses-kishla-askins-in-ne-02 |website=VoteVets |access-date=2025-11-23 |date=2025-11-18}}</ref>
+}}
+{{Endorsements box
+|title=John Cavanaugh
+|colwidth=
+|list=
+;U.S. senators
+*[[Bob Kerrey]], [[Nebraska]] (1989–2001)<ref name="KerreyNelson">{{cite news |last1=Salinas |first1=Juan II |title=State Sen. John Cavanaugh's 2nd District bid endorsed by former US senators, others |url=https://nebraskaexaminer.com/briefs/state-sen-john-cavanaughs-2nd-district-bid-endorsed-by-former-u-s-senators-others/ |access-date=June 24, 2025 |work=[[Nebraska Examiner]] |date=June 23, 2025}}</ref>
+*[[Ben Nelson]], [[Nebraska]] (2001–2013)<ref name="KerreyNelson"/>
+;U.S. representatives
+*[[Maxwell Frost]], [[FL-10]] (2023–present)<ref name="EndTrack"/>
+*[[Pramila Jayapal]], [[WA-07]] (2017–present)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=2026-02-18 |language=en |date=2026-01-08}}</ref>
+* [[Ro Khanna]], {{ushr|CA|17|CA-17}} (2017–present)<ref>{{Cite web |last=Lehrich |first=Jesse |date=2025-12-05 |title=the new politics of endorsements |url=https://nobodyslistening.org/p/the-new-politics-of-endorsements |website=Nobody's Listening}}</ref>
+*[[Jamie Raskin]], [[MD-08]] (2017–present)<ref name="EndTrack"/>
+;State legislators
+* [[Danielle Conrad]], [[Nebraska Legislature|state senator]] from the 46th district) (2023–present)<ref name="KerreyNelson"/>
+* [[George Dungan]], [[Nebraska Legislature|state senator]] from the 26th district (2023–present)<ref name="Flatwater">{{cite web |last1=Cordes |first1=Henry J. |title=Blue dot gamble? Dem insiders weigh chance that winning Congress could lose Legislature |url=https://flatwaterfreepress.org/blue-dot-gamble-dem-insiders-weigh-chance-that-winning-congress-could-lose-legislature/ |website=Flatwater Free Press |access-date=9 May 2026 |date=6 May 2026}}</ref>
+* [[Ashlei Spivey]], [[Nebraska Legislature|state senator]] from the 13th district (2025–present)<ref name="KerreyNelson"/>
+* 4 other state senators<ref name="KerreyNelson"/>
+
+;Labor unions
+*[[Brotherhood of Locomotive Engineers and Trainmen]] Nebraska Legislative Board<ref name="Local">{{cite web |title=Nebraska State Sen. John Cavanaugh picks up local union endorsements • Nebraska Examiner |url=https://nebraskaexaminer.com/briefs/nebraska-state-sen-john-cavanaugh-picks-up-local-union-endorsements/ |website=Nebraska Examiner |access-date=2025-11-23}}</ref>
+*[[International Brotherhood of Electrical Workers]] Locals 1521, 1483 and 763<ref name="Local"/>
+
+;Organizations
+*[[Congressional Progressive Caucus]] PAC<ref>{{cite web|url=https://prospect.org/2025/11/13/key-nebraska-house-primary-features-establishment-progressive-and-outsider-moderate/|title=Key Nebraska House Primary Features an Establishment Progressive and an Outsider Moderate|last=Ahlman|first=Austin|date=November 13, 2025|access-date=November 15, 2025|website=[[The American Prospect]]}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses State Senator John Cavanaugh for Nebraska’s 2nd Congressional District |url=https://www.endcitizensunited.org/end-citizens-united-endorses-state-senator-john-cavanaugh-for-nebraskas-2nd-congressional-district |website=endcitizensunited.org |date=March 2, 2026 |access-date=March 2, 2026}}</ref>
+*[[J Street PAC]]<ref>{{Cite web |title=JStreet Candidates |url=https://jstreetpac.org/candidate/john-cavanaugh/}}</ref>
+*[[National Committee to Preserve Social Security and Medicare]]<ref>{{cite web |title=Our PAC has just endorsed Democrat John Cavanaugh for Congress in Nebraska's 2nd district race --- which promises to be one of the most hotly contested. Electing John Cavanaugh will help build a pro-senior majority in the next Congress! |url=https://www.facebook.com/NationalCommittee/photos/our-pac-has-just-endorsed-democrat-john-cavanaugh-for-congress-in-nebraskas-2nd-/1239362048235087/ |website=National Committee to Preserve Social Security and Medicare on Facebook |access-date=2025-11-23 |language=en}}</ref>
+*[[Sierra Club]]<ref>{{cite web |title=Sierra Club Endorses John Cavanaugh for Congress |url=https://cleantechnica.com/2026/03/02/sierra-club-endorses-john-cavanaugh-for-congress/ |website=Clean Technica |access-date=2026-03-04 |date=2026-03-03}}</ref>
+}}
+{{Endorsements box
+|title=Denise Powell
+|colwidth=
+|list=
+;U.S. representatives
+*[[Annie Kuster]], former [[New Hampshire's 2nd congressional district|NH-02]] (2013–2025)<ref name="neb01">{{cite web|url=https://nebraska.tv/news/local/nebraska-congressional-candidate-denise-powell-raises-740000-in-campaign|title=Nebraska congressional candidate Denise Powell raises $740,000 in campaign|date=October 7, 2025|access-date=November 7, 2025}}</ref>
+*[[Emily Randall]], [[Washington's 6th congressional district|WA-06]] (2025-present)<ref name="EndTrack"/>
+*[[Andrea Salinas]], [[Oregon's 6th congressional district|OR-06]] (2003–present)<ref name="EndTrack"/>
+*[[Linda Sánchez]], [[California's 38th congressional district|CA-38]] (2003–present)<ref name="EndTrack"/>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="EndTrack"/>
+*[[Norma Torres]], [[California's 35th congressional district|CA-35]] (2003–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Dunixi Guereca]], [[Nebraska Legislature|state senator]] from the 7th district (2025–present)<ref name="Powell-Leg-Endorse1">{{cite web |last1=Salinas II |first1=Juan |title=Nebraska U.S. Rep. Don Bacon and national Republicans scoff at Dem candidates for 2026 |url=https://nebraskaexaminer.com/2025/05/01/nebraska-u-s-rep-don-bacon-and-national-republicans-scoff-at-dem-candidates-for-2026/ |website=[[Nebraska Examiner]] |access-date=2025-05-23 |date=2025-05-01}}</ref>
+*[[Margo Juarez]], [[Nebraska Legislature|state senator]] from the 5th district (2025–present)<ref name="Powell-Leg-Endorse1"/>
+*[[Tony Vargas]], former [[Nebraska Legislature|state senator]] from the 7th district (2017–2025)<ref name="Vargas">{{cite web |last1=Salinas II |first1=Juan |title=Former State Sen. Tony Vargas endorses Denise Powell in Nebraska's 2nd District |url=https://nebraskaexaminer.com/briefs/former-state-sen-tony-vargas-endorses-denise-powell-in-nebraskas-2nd-congressional-district/ |website=[[Nebraska Examiner]] |access-date=2025-06-05 |date=2025-06-05}}</ref>
+
+;Local officials
+*[[Leirion Gaylor Baird]], [[Mayor of Lincoln, Nebraska|mayor of Lincoln]] (2019–present)<ref name="neb01"/>
+
+;Organizations
+*[[Congressional Hispanic Caucus#CHC BOLD PAC|Congressional Hispanic Caucus BOLD PAC]]<ref>{{cite web |last1=Soellner |first1=Mica |last2=Cohen |first2=Max |last3=Sherman |first3=Jake |title=Emmer raises $6.5 million in Q2 |url=https://punchbowl.news/article/house/emmer-q2/ |website=Punchbowl News |access-date=2025-07-10 |date=July 10, 2025 |quote=Also: BOLD PAC is endorsing two Democratic challengers in Nebraska and Pennsylvania.}}</ref>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=2026-01-08}}</ref>
+*[[EMILY's List]]<ref>{{cite web |title=EMILYs List Endorses Denise Powell for Nebraska's 2nd Congressional District |url=https://emilyslist.org/news/emilys-list-endorses-denise-powell-for-nebraskas-2nd-congressional-district/ |website=[[Emily's List]] |access-date=2025-10-31 |date=2025-10-30}}</ref>
+*[[Latino Victory]] Fund<ref>{{cite web |last1=Pichardo |first1=Katharine |title=Latino Victory Fund Announces Endorsement of "Red to Blue" Congressional Candidates Poised to Make HERstory as First Latinas in Arizona, Nebraska and Pennsylvania |url=https://latinovictory.org/latino-victory-fund-announces-endorsement-of-red-to-blue-congressional-candidates-poised-to-make-herstory-as-first-latinas-in-arizona-nebraska-and-pennsylvania/ |website=Latino Victory |access-date=2025-07-31 |date=2025-07-31}}</ref>
+*[[New Democrat Coalition|NewDem Action Fund]]<ref>{{Cite web |last1=Altimari |first1=Daniela|last2=McIntire|first2=Mary Ellen|title=At the Races: Belaboring the point |url=https://rollcall.com/2026/03/26/at-the-races-belaboring-the-point/|access-date=2026-04-16 |website=Roll Call|language=en|date=March 26, 2026}}</ref>
+*[[PODER PAC]]<ref>{{cite web |last1=Duran |first1=Ingrid |last2=Pino |first2=Catherine |title=PODER PAC ENDORSES DENISE POWELL FOR CONGRESS IN NE-02 |url=https://www.poderpac.com/_files/ugd/c838c1_536725a6508a4f88bbdb221b7d528eb1.pdf |publisher=PODER PAC |access-date=May 22, 2025 |date=May 22, 2025}}</ref>
+*[[Vote Mama]]<ref>{{Cite web |title=VoteMama Candidates |url=https://www.votemamapac.org/candidates}}</ref>
+}}
+{{Endorsements box
+|title=Crystal Rhoades
+|list=
+;Local officials
+*[[John Ewing Jr.]], [[mayor of Omaha]] (2025–present)<ref>{{cite news |last1=Salinas |first1=Juan II |title=Omaha mayor endorses Crystal Rhoades in NE-02 Dem U.S. House primary |url=https://nebraskaexaminer.com/2025/09/08/omaha-mayor-endorses-crystal-rhoades-in-ne-02-dem-u-s-house-primary/ |access-date=September 8, 2025 |work=Nebraska Examiner |date=September 8, 2025}}</ref>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;State legislators
+*[[Megan Hunt (politician)|Megan Hunt]], [[Nebraska Legislature|state senator]] from the 8th district (2019–present) ''(Independent)''<ref name="Flatwater" />
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kishla Askins (D)
+|$583,723
+|$445,682
+|$138,042
+|-
+|{{party shading/Democratic}}|John Cavanaugh (D)
+|$1,140,783
+|$981,801
+|$158,983
+|-
+|{{party shading/Democratic}}|''Mark Johnston (D)''
+|$10,146
+|$9,298
+|$847
+|-
+| {{party shading/Democratic}} |James Leuschen (D)
+|$389,591
+|$219,849
+|$169,742
+|-
+| {{party shading/Democratic}} |Denise Powell (D)
+|$1,617,997
+|$1,294,016
+|$323,981
+|-
+| {{party shading/Democratic}} |Crystal Rhoades (D)
+|$172,768
+|$144,759
+|$28,010
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:70px;"| Kishla<br>Askins
+! style="width:70px;"| John<br>Cavanaugh
+! style="width:70px;"| Denise<br>Powell
+! style="width:70px;"| Crystal<br>Rhoades
+! Other
+! Undecided
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web|url=https://www.politico.com/f/?id=0000019b-d940-dcbd-afbb-d97bf2c10000|title=John Cavanaugh Expands Lead in New Survey of Likely Democratic Primary Voters in NE-02|date=January 14, 2026|access-date=January 20, 2026|work=GBAO|via=''[[Politico]]''}}</ref>{{efn-ua|name=Cavanaugh|Poll sponsored by Cavanaugh's campaign}}
+|January 8–12, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|4%
+|{{party shading/Democratic}}|'''43%'''
+|10%
+|15%
+|3%{{efn|Leuschen with 3%}}
+|24%
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Seattle's mayor hopes to be the first to win reelection in two decades |url=https://www.the-downballot.com/i/169614416/ne |publisher=The Downballot |access-date=2025-07-30 |date=2025-07-30}}</ref>{{efn-ua|name=Cavanaugh}}
+|July 21–23, 2025
+|400 (LV)
+|±&nbsp;4.4%
+|4%
+|{{party shading/Democratic}}|'''36%'''
+|9%
+|15%
+|5%{{efn|Johnston with 5%}}
+|29%
+|}
+
+====Results====
+[[File:2026 Nebraska's 2nd congressional district Democratic primary election results by county.svg|thumb|County results{{collapsible list
+| title = {{legend|#A5B0FF|Powell}}|{{legend|#BDD3FF|Powell—30–40%}}|{{legend|#A5B0FF|Powell—40–50%}}
+}}]]
+{{Election box begin no change|title=Democratic primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Denise Powell|votes=22,516|percentage=38.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[John Cavanaugh (politician)|John Cavanaugh]]|votes=21,115|percentage=36.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Crystal Rhoades]]|votes=8,180|percentage=14.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Kishla Askins|votes=3,499|percentage=6.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Melanie Williams|votes=2,222|percentage=3.8}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=James Leuschen ''(withdrawn)''|votes=320|percentage=0.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Van Argyrakis|votes=152|percentage=0.3}}
+{{Election box total no change|votes=58,004|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Candidates====
+=====Nominee=====
+*Eric Foreman<ref>{{cite news |last1=Anderson |first1=Jake |title=2026 Nebraska Primary Election: Races, registration and important dates |url=https://www.ketv.com/article/election-day-2026-nebraska-primary/69904983 |access-date=March 10, 2026 |work=[[KETV]] |date=January 29, 2026}}</ref>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Libertarian Party (United States)|candidate=Eric Foreman|votes=388|percentage=100.0}}
+{{Election box total no change|votes=388|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Candidates====
+=====Declined=====
+*[[Megan Hunt (politician)|Megan Hunt]], [[Nebraska Legislature|state senator]] from the 8th district (2019–present)<ref>{{cite tweet |author=Megan Hunt |title=The Nebraska Legislature has taken ten years off my life, made me so cynical I don't recognize myself, and shown me how shockingly cruel and evil average people can be. I will not be renewing my subscription nor upgrading to the congressional candidate package lol |user=NebraskaMegan |number=1894905549919264959 |access-date=2025-02-27}}</ref>
+*[[Dan Osborn]], former president of [[Bakery, Confectionery, Tobacco Workers and Grain Millers International Union]] Local 50G and candidate for U.S. Senate in [[2024 United States Senate election in Nebraska|2024]] ''(running for [[2026 United States Senate election in Nebraska|U.S. Senate]])''<ref>{{cite news |last1=Vakil |first1=Caroline |title=Dan Osborn launches independent Senate bid against Ricketts in Nebraska |url=https://thehill.com/homenews/campaign/5389147-dan-osborn-independent-senate-bid-nebraska/ |access-date=July 8, 2025 |work=[[The Hill (newspaper)|The Hill]] |date=July 8, 2025 |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|D|Flip}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=June 30, 2025}}</ref>
+| {{USRaceRating|Likely|D|Flip}}
+|October 9, 2026
+|-
+| align=left | [[Inside Elections]]<ref name=IE>{{cite web |title=House Ratings |url=https://insideelections.com/ratings/house |publisher=Inside Elections |access-date=March 10, 2025}}</ref>
+| {{USRaceRating|Lean|D|Flip}}
+|October 15, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Likely|D|Flip}}
+|October 8, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Brinker Harding (R)
+|list=
+;U.S. representatives
+* [[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from {{ushr|LA|4|LA-04}} (2017–present)<ref name="WrenBurns"/>
+}}
+
+{{Endorsements box
+|title=Denise Powell (D)
+|list=
+;Executive branch officials
+* [[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref name="WrenBurns">{{cite news |last1=Wren |first1=Adam |last2=Burns |first2=Dasha |title=Where the Democratic civil war goes next |url=https://www.politico.com/newsletters/playbook/2026/07/14/where-the-democratic-civil-war-goes-next-00995888 |access-date=14 July 2026 |work=[[POLITICO]] |date=14 July 2026}}</ref>
+;Labor unions
+* [[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Nebraska’s Denise Powell for Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-nebraskas-denise-powell-for-congress/ |website=AFGE |access-date=August 20, 2026 |language=en |date=August 20, 2026}}</ref>
+* [[National Education Association]]<ref name="NEA" />
+;Organizations
+* [[End Citizens United]]<ref>{{Cite web |title=End Citizens United Endorses Denise Powell in Nebraska’s 2nd Congressional District|url=https://www.endcitizensunited.org/news/end-citizens-united-endorses-denise-powell-in-nebraskas-2nd-congressional-district|access-date=July 30, 2026 |publisher=End Citizens United |language=en-US}}</ref>
+* [[Giffords]]<ref>{{cite web |title=Denise Powell |url=https://giffords.org/candidates/denise-powell/ |website=giffords.org |date=July 30, 2026}}</ref>
+* [[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+* [[Planned Parenthood|Planned Parenthood Action Fund]]<ref>{{cite news |title=Planned Parenthood Action Fund Endorses a Pro-Reproductive Rights House Majority |website=Planned Parenthood Action Fund |url=https://www.plannedparenthoodaction.org/pressroom/planned-parenthood-action-fund-endorses-a-pro-reproductive-rights-house-majority |publisher=Planned Parenthood |date=September 14, 2026 |access-date=October 25, 2026}}</ref>
+* [[Reproductive Freedom for All]]<ref>{{cite web|title=Endorsements|website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260715045339/https://reproductivefreedomforall.org/elections |archive-date=July 15, 2026 |access-date=October 25, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Brinker Harding (R)
+|$2,850,577
+|$2,537,204
+|$313,373
+|-
+|{{party shading/Democratic}}|Denise Powell (D)
+|$5,093,104
+|$4,612,631
+|$480,473
+|-
+|{{party shading/Libertarian}}|Eric Foreman (L)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Brinker<br/>Harding (R)
+! style="width:100px;"| Denise<br/>Powell (D)
+! Other
+! Undecided
+|-
+| style="text-align: left;" |National Public Affairs<ref>{{cite web |title=Nebraska 2026 General Election Survey Results |url=https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_100926.pdf |publisher=National Public Affairs |access-date=October 13, 2026 |date=October 12, 2026}}</ref>
+|October 2–5, 2026
+|800 (LV)
+|±&nbsp;5.0%
+|38%
+|{{party shading/Democratic}}|'''50%'''{{Efn|name=lean|Including voters who lean towards a given candidate}}
+|6%{{Efn|Eric Foreman (L) with 6%}}
+|6%
+|-
+| style="text-align: left;" |[[SurveyUSA]]<ref>{{Cite web|url=https://results.surveyusa.com/client/PollReport.aspx?g=d94236a7-5861-4b7f-9d81-d5a81ab786cc|title=Independent Candidate Dan Osborn Has Advantage in Nebraska's US Senate Contest, Even as Incumbent GOP Governor Poised to Win 2nd Term:|work=[[SurveyUSA]]|date=September 14, 2026|access-date=September 14, 2026}}</ref>{{efn-ua|Poll sponsored by Grant Forbes, LLC.}}
+|September 8–13, 2026
+|182 (LV)
+|±&nbsp;12.2%
+|42%
+|{{party shading/Democratic}}|'''46%'''
+|4%{{Efn|"Another candidate" with 4%}}
+|9%
+|}
+
+====Results====
+{{Election box begin|title=2026 Nebraska's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Brinker Harding 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Denise Powell 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Eric Foreman 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Nebraska's 3rd congressional district election
+| country = Nebraska
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Nebraska#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Nebraska#District 3
+| next_year = 2028
+| image1 = File:Adrian Smith portrait (118th Congress).jpg
+| nominee1 = [[Adrian Smith (politician)|Adrian Smith]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Becky Stille 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 200px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Adrian Smith (politician)|Adrian Smith]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Nebraska's 3rd congressional district}}
+The 3rd district covers most of the rural central and western part of the state, and includes [[Grand Island, Nebraska|Grand Island]], [[Kearney, Nebraska|Kearney]], [[Hastings, Nebraska|Hastings]], [[North Platte, Nebraska|North Platte]], [[Alliance, Nebraska|Alliance]], and [[Scottsbluff, Nebraska|Scottsbluff]]. The incumbent is Republican [[Adrian Smith (politician)|Adrian Smith]], who was re-elected with 80.4% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Adrian Smith (politician)|Adrian Smith]], incumbent U.S. representative<ref>{{cite news |last1=Beach |first1=Brian |title=First independent candidate enters Nebraska’s 3rd District Congressional race |url=https://nebraskapublicmedia.org/en/news/news-articles/first-independent-candidate-enters-nebraskas-3rd-district-congressional-race/ |access-date=December 10, 2025 |work=[[Nebraska Public Media]] |date=November 18, 2025 |quote=Smith has announced he will be seeking an 11th term.}}</ref>
+=====Eliminated in primary=====
+*David Huebner, farmer and restaurant owner<ref>{{cite news |last1=Von Kampen |first1=Todd |title=North Platte's David Huebner will oppose Rep. Smith in '26 |url=https://omaha.com/news/state-regional/government-politics/article_12a1757a-3b64-5e0e-9161-47fa2c51bede.html |access-date=June 5, 2025 |work=[[Omaha World-Herald]] |date=June 5, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Adrian Smith
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Reelect2"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|David Huebner (R)
+|$25,235
+|$19,186
+|$6,049
+|-
+|{{party shading/Republican}}|Adrian Smith (R)
+|$1,132,841
+|$720,316
+|$1,340,757
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Nebraska 3rd |url=https://www.fec.gov/data/elections/house/NE/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Nebraska's 3rd congressional district Republican primary election results by county.svg|thumb|280px|County results{{collapsible list
+| title = {{legend|#E27F7F|Smith}}|{{legend|#E27F7F|Smith—50–60%}}|{{legend|#D75D5D|Smith—60–70%}}|{{legend|#D72F30|Smith—70–80%}}|{{legend|#C21B18|Smith—80–90%}}
+}}{{collapsible list
+| title = {{legend|#FF9A50|Huebner}}|{{legend|#FF9A50|Huebner—50–60%}}|{{legend|#EE8E50|Huebner—60–70%}}|{{legend|#D69850|Huebner—70–80%}}
+}}]]
+{{Election box begin no change|title=Republican primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Adrian Smith (politician)|Adrian Smith]] (incumbent)|votes=60,549|percentage=64.7}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=David Huebner|votes=33,020|percentage=35.3}}
+{{Election box total no change|votes=93,569|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*Becky Stille, agriculture processing quality manager<ref name=mulling>{{cite news |last1=Salinas |first1=Juan II |title=Former Air Force attorney mulling indy bid against Nebraska U.S. Rep. Adrian Smith |url=https://nebraskaexaminer.com/briefs/air-force-attorney-mulling-indy-bid-against-nebraska-u-s-rep-adrian-smith/ |access-date=August 25, 2025 |work=[[Nebraska Examiner]] |date=August 25, 2025 |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Becky Stille (D)
+|$41,579
+|$28,790
+|$12,788
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=Becky Stille|votes=18,113|percentage=100.0}}
+{{Election box total no change|votes=18,113|percentage=100.0}}
+{{Election box end}}
+
+===Legal Marijuana Now primary===
+====Candidates====
+=====Nominee=====
+*David Else, farmer, Democratic nominee for this district in [[2022 United States House of Representatives elections in Nebraska#District 3|2022]] and candidate in [[2024 United States House of Representatives elections in Nebraska#District 3|2024]]<ref>{{cite news |last1=Evans |first1=Jordan Willow |title=Nebraska Legal Marijuana NOW Party to Hold Contested U.S. Senate Primary |url=https://independentpoliticalreport.com/2026/03/nebraska-legal-marijuana-now-party-to-hold-contested-u-s-senate-primary/ |access-date=March 10, 2026 |work=[[Independent Political Report]] |date=March 3, 2026}}</ref>
+
+====Results====
+{{Election box begin no change|title=Legal Marijuana Now primary results<ref name=primaryresults/>}}
+{{Election box winning candidate with party link no change|party=Legal Marijuana Now Party|candidate=David Else|votes=191|percentage=100.0}}
+{{Election box total no change|votes=191|percentage=100.0}}
+{{Election box end}}
+
+=== Nebraska Working People Party ===
+
+====Candidates====
+=====Nominee=====
+*Macey Budke, behavioral health practice manager ''(formerly ran as independent)''<ref>{{cite news |title=Macey Budke of North Platte enters race for House of Representatives |url=https://northplattebulletin.com/macey-budke-of-north-platte-enters-race-for-house-of-representatives/ |access-date=February 16, 2026 |work=North Platte Bulletin |date=February 10, 2026}}</ref><ref>{{Cite web |last=Olberding |first=Matt |title=Newly formed America First Party announces five candidates for Nebraska elections |url=https://nebraskapublicmedia.org/en/news/news-articles/newly-formed-america-first-party-announces-five-candidates-for-nebraska-elections/ |access-date=2026-09-03 |website=Nebraska Public Media |language=en}}</ref>
+
+===Independents===
+====Candidates====
+=====Declared=====
+*Mark Cohen, former [[U.S. Air Force]] attorney ''(Independent)''<ref>{{cite web |title=Cohen announces run for Third District in U.S. House |url=https://www.hastingstribune.com/cohen-announces-run-for-third-district-in-u-s-house/article_0f8d5467-a1fa-4e77-9d49-d2a8d412d9f0.html |access-date=November 13, 2025 |work=[[Hastings Tribune]] |date=November 13, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Mark Cohen (I)
+|$11,767
+|$14,330
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Safe|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name=IE/>
+| {{USRaceRating|Safe|R}}
+|March 10, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Safe|R}}
+|April 10, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Adrian Smith (R)
+|$1,777,413
+|$1,682,292
+|$1,023,354
+|-
+|{{party shading/Democratic}}|Becky Stille (D)
+|$55,101
+|$40,267
+|$14,833
+|-
+|{{party shading/Legal Marijuana Now}}|David Else (LMN)
+|$0
+|$0
+|$0
+|-
+|style="background:#9adce3"|Macey Budke (NWP)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Independent}}|Mark Cohen (I)
+|$33,064
+|$30,616
+|$5,974
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Nebraska's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Adrian Smith 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Becky Stille 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Legal Marijuana Now Party
+  |candidate  = David Else 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link
+  |party      = Nebraska Working People Party
+  |candidate  = Macey Budke 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Independent politician
+  |candidate  = Mark Cohen 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://backnebraska.com/ Chris Backemeyer (D)]
+*[https://mikefloodfornebraska.com/ Mike Flood (R)]
+*[https://picknikforcongress.com/ Nik Sandman (L)]
+
+;Official campaign websites for 2nd district candidates
+*[https://foremantakebackourhouse.com/ Eric Foreman (L)]
+*[https://www.brinkerharding.com/ Brinker Harding (R)]
+*[https://deniseforcongress.org/ Denise Powell (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://budkeforcongress.com/ Macey Budke (NWP)]
+*[https://www.markfornebraska.org/ Mark Cohen (I)]
+*[https://dave-else-for-congress.square.site/ David Else (LMN)]
+*[https://joinadrian.com/ Adrian Smith (R)]
+*[https://www.beckystille2026.com/ Becky Stille (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Nebraska|2026]]
+[[Category:2026 elections in Nebraska|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Nebraska]]

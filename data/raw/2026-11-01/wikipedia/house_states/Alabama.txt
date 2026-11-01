@@ -1,0 +1,2005 @@
+{{Short description|none}}
+{{Use mdy dates|date=December 2024}}
+{{use American English|date=December 2024}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Alabama
+| country = Alabama
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama
+| next_year = 2028
+| seats_for_election = All 7 Alabama seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''5'''
+| seats1 = '''5'''
+| party2 = Democratic Party (United States)
+| last_election2 = 2
+| seats2 = 2
+| seat_change1 = 
+| seat_change2 = 
+| map = <!-- Please keep this map hidden until election day. {{switcher
+| [[file:2026 United States House of Representatives elections in Alabama results map by county.svg|270px]]
+| County results}}-->
+| map_caption = 
+}}
+{{ElectionsAL}}
+The '''2026 United States House of Representatives elections in Alabama''' will be held on November 3, 2026, to elect the seven [[U.S. representative]]s from the [[U.S. state|state]] of [[Alabama]], one from all seven of the state's [[Alabama's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections were held on May 19, and in races where no candidate received over 50% in a primary, runoff elections took place on June 16. Special primary elections were held on August 11 in districts that were affected by the new congressional map following redistricting in May.
+
+This election will take place alongside races for [[2026 United States Senate election in Alabama|U.S. Senate]], [[2026 Alabama gubernatorial election|governor]], [[2026 Alabama Senate election|state senate]], [[2026 Alabama House of Representatives election|state house]], and [[2026 Alabama elections|numerous other state and local offices]].
+
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Redistricting and special primaries==
+[[File:Alabama Congressional Districts, 120th Congress.svg|thumb|District lines passed by the [[Alabama Legislature]] in May 2026 after ''[[Louisiana v. Callais]]'' for the 2026 elections<ref name="LLS">{{Cite web |title=Alabama |url=https://redistricting.lls.edu/state/alabama/ |access-date=2026-06-19 |website=All About Redistricting |language=en}}</ref><br>({{maplink|from=Alabama's 1st congressional district (2027–).map|from2=Alabama's 2nd congressional district (2027–).map|from3=Alabama's 3rd congressional district (2027–).map|from4=Alabama's 4th congressional district (2027–).map|from5=Alabama's 5th congressional district (2027–).map|from6=Alabama's 6th congressional district (2027–).map|from7=Alabama's 7th congressional district (2027–).map|text=Interactive map version}})]]
+Following a ruling by the [[Supreme Court of the United States]] that narrowed section 2 of the [[Voting Rights Act of 1965|Voting Rights Act]], [[Kay Ivey]] called state legislators in for a special session to allow for redrawing of Alabama's congressional map. In the session, a bill was passed to allow for the state to redraw the map if a previous ruling that had blocked the state from redrawing mid-decade following a previous lawsuit was lifted. The Supreme Court lifted that restriction on May 11, 2026, clearing the way for the state to redistrict.<ref>{{cite web |last1=Quinn |first1=Melissa |title=Supreme Court clears path for Alabama to redraw congressional map |url=https://www.cbsnews.com/news/supreme-court-clears-path-alabama-redraw-congressional-map/ |website=CBS News |access-date=12 May 2026 |date=May 11, 2026}}</ref> On May 12, Ivey scheduled special primary elections to be held in the 1st, 2nd, 6th, and 7th congressional districts on August 11, with no possible runoff election.<ref>{{cite web |title=2026 Special Primary Writ of Election |url=https://governor.alabama.gov/newsroom/2026/05/2026-special-primary-writ-of-election/ |website=The Office of Alabama Governor |access-date=12 May 2026 |date=May 12, 2026}}</ref> May 19 primary elections will still be held in the affected district, but the results will be nullified following the special primary.<ref>{{cite web |last1=Cason |first1=Mike |title=Gov. Kay Ivey calls second Alabama primary election in wake of Supreme Court ruling |url=https://www.al.com/politics/2026/05/gov-kay-ivey-calls-second-alabama-primary-election-in-wake-of-supreme-court-ruling.html |website=AL.com |access-date=12 May 2026 |date=May 12, 2026}}</ref>
+
+A panel of federal judges blocked the new map on May 26. Soon after, the state appealed the ruling up to the Supreme Court,<ref>{{cite web |last1=Ashcraft |first1=Carter |title=Federal judges block Alabama congressional map ahead of special primaries |url=https://yellowhammernews.com/federal-judges-block-alabama-congressional-map-ahead-of-special-primaries/ |website=Yellowhammer News |access-date=26 May 2026 |date=May 26, 2026}}</ref> which on June 2 overturned the panel's decision, permitting Alabama to use the new map.<ref>{{cite web |last1=Barrett |first1=Anna |title=Supreme Court allows Alabama to use 2023 congressional map in August special primary |url=https://alabamareflector.com/2026/06/02/supreme-court-allows-alabama-to-use-2023-congressional-map-in-august-special-primary/ |website=Alabama Reflector |access-date=11 June 2026 |date=June 2, 2026}}</ref>
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Alabama's 1st congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 1
+| next_year = 2028
+| image1 = File:Rep. Jerry Carl official photo (cropped).jpg
+| nominee1 = [[Jerry Carl]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Clyde Jones 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Barry Moore (American politician)|Barry Moore]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 1st congressional district}}
+[[File:Alabama's 1st congressional district (since 2027) (new version).svg|thumb|Alabama's 1st congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 1st congressional district (2027–).map|text=Interactive map version}}]]
+In the original court-ordered map, this district encompassed the entirety of [[Baldwin County, Alabama|Baldwin]], [[Coffee County, Alabama|Coffee]], [[Covington County, Alabama|Covington]], [[Dale County, Alabama|Dale]], and [[Escambia County, Alabama|Escambia]] counties, including the cities of [[Bay Minette, Alabama|Bay Minette]], [[Daphne, Alabama|Daphne]], [[Enterprise, Alabama|Enterprise]], [[Ozark, Alabama|Ozark]] and majority white sections of [[Mobile, Alabama|Mobile]]. The incumbent is Republican [[Barry Moore (American politician)|Barry Moore]], who was elected with 78.4% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=March 9, 2025 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+In the legislature-approved redistricted map, the 1st district was redrawn to only include the southwestern part of the state near the Gulf of Mexico, encompassing all of both Mobile and Baldwin counties, as well as Escambia and Covington counties. Southeastern parts of the state in the Wiregrass Region were redrawn from the 1st district into the 2nd district.<ref name=arise>https://alarise.org/blog-posts/what-you-need-to-know-about-alabamas-aug-11-special-primary-election/</ref>
+
+===Nonbinding Republican primary===
+====Nominee====
+*[[Jerry Carl]], former [[United States House of Representatives|U.S. representative]] (2021–2025)<ref>{{cite news |last1=Marie Fogel |first1=Apryl |title=Jerry Carl announces congressional run 'to advance President Trump's America First agenda' |url=https://1819news.com/news/item/jerry-carl-announces-congressional-run-to-advance-president-trumps-america-first-agenda |access-date=August 18, 2025 |work=[[1819 News]] |date=August 18, 2025}}</ref>
+
+====Eliminated in primary====
+*Jimmy Dees, police detective<ref>{{cite web |last1=Taylor |first1=Caleb |title=Green Beret veteran Joshua McKee raises $293K for CD-1 race in last quarter of 2025 |url=https://1819news.com/news/item/green-beret-veteran-joshua-mckee-raises-293k-for-cd-1-race-in-last-quarter-of-2025 |website=1819 News |access-date=17 January 2026 |date=January 16, 2026 |quote=Jimmy Dees have also qualified to run for the Republican nomination for the seat}}</ref>
+*[[Rhett Marques]], [[Alabama House of Representatives|state representative]] from the 91st district (2018–present)<ref>{{cite web |last1=Sell |first1=Mary |title=Marques launches bid for Congress in AL-1 |url=https://aldailynews.com/marques-launches-bid-for-congress-in-al-1/ |website=Alabama Daily News |access-date=21 August 2025 |date=August 21, 2025}}</ref>
+*Joshua McKee, retired [[DARPA]] contractor<ref>{{cite web |last1=Thomas |first1=Erica |title=Military veteran Joshua McKee running to replace Barry Moore |url=https://1819news.com/news/item/military-veteran-joshua-mckee-running-to-replace-barry-moore |website=1819 News |access-date=November 3, 2025 |date=August 24, 2025}}</ref>
+*John Mills, former pilot and perennial candidate<ref name="RQualified">{{cite web |title=Qualified 2026 Republican Candidates |url=https://algop.org/qualified-2026-republican-candidates/ |website=Alabama Republican Party |access-date=24 January 2026}}</ref>
+*James Richardson<ref name="RQualified"/>
+*Austin Sidwell, small business executive<ref>{{cite web |last1=Wooten |first1=Mary Claire |title=Sidwell joins growing Republican field for 1st Congressional District |url=https://www.alreporter.com/2025/10/30/sidwell-joins-growing-republican-field-for-1st-congressional-district/ |website=Alabama Political Reporter |access-date=30 October 2025 |date=October 30, 2025}}</ref>
+
+====Declined====
+*[[Barry Moore (American politician)|Barry Moore]], incumbent U.S. representative (''[[2026 United States Senate election in Alabama|running for U.S. senate]]'')<ref>{{Cite web |date=2025-08-12 |title=Barry Moore announces run for Senate in Alabama |url=https://www.politico.com/news/2025/08/12/barry-moore-alabama-senate-00504786 |access-date=2025-08-12 |website=[[Politico]] |author=Markus, Nichole}}</ref>
+*Heather Moore, political strategist and wife of incumbent [[Barry Moore (American politician)|Barry Moore]]<ref>{{Cite web|url=https://1819news.com/news/item/a-spiritual-battle-barry-moore-discusses-faith-trump-americas-future-heather-moore-addresses-potential-2026-run|title='A spiritual battle': Barry Moore discusses faith, Trump, America’s future; Heather Moore addresses potential 2026 run|last=Bontrager|first=Josh|website=1819 News|date=August 21, 2025|access-date=January 20, 2026|quote=Heather Moore, who recently topped a poll for Congressional District 1, said she does not feel called to the race.}}</ref>
+*Paul Prine, former [[Mobile, Alabama|Mobile]] chief of police and candidate for [[List of mayors of Mobile, Alabama|mayor of Mobile]] in [[2025 Mobile mayoral election|2025]]<ref>{{cite news |work=[[AL.com]] |access-date=October 23, 2025 |date=October 20, 2025 |url=https://www.al.com/news/2025/10/former-mobile-police-chief-weighs-political-run-in-2026-ill-be-upsetting-the-balance.html |author=Sharp, John |title=Former Mobile police chief weighs political run in 2026: 'I'll be upsetting the balance'}}</ref> ''(ran for Mobile County sheriff)''<ref>{{cite web |last1=Thomas |first1=Erica |title=Former Mobile Police chief Paul Prine announces run for sheriff 2026 |url=https://1819news.com/news/item/former-mobile-police-chief-paul-prine-announces-run-for-sheriff-2026 |website=1819 News |access-date=11 November 2025 |date=November 10, 2025}}</ref>
+* [[Rick Rehm]], [[Alabama House of Representatives|state representative]] from the 85th district (2022–present) ''([[2026 Alabama House of Representatives election|running for reelection]])''<ref>{{Cite news |url=https://www.troymessenger.com/news/democrats-republicans-have-flurry-of-activity-after-election-qualifying-opens-53e12b9f |title=Democrats, Republicans have flurry of activity after election qualifying opens |first=Huck |last=Treadwell |website=The Troy Messenger |date=January 12, 2026 |accessdate=May 17, 2026 |url-access=subscription}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jerry Carl
+|list=
+;Organizations
+*[[Alabama Farmers Federation]]<ref>{{cite web |last1=Taylor |first1=Caleb |title=ALFA endorses Jerry Carl in Congressional District 1 Republican primary |url=https://1819news.com/news/item/alfa-endorses-jerry-carl-in-congressional-district-1-republican-primary |website=[[1819 News]] |access-date=9 October 2025 |date=October 9, 2025}}</ref>
+}}
+{{Endorsements box
+|title=Rhett Marques
+| colwidth=60
+|list=
+;U.S. senators
+*[[Katie Britt]], [[Alabama]] (2023–present)<ref name="fight1">{{cite web |last1=Everett |first1=Grayson |title=Katie Britt maxes out donation to Rhett Marques for Congress: 'A strong conservative fighter' |url=https://yellowhammernews.com/katie-britt-maxes-out-donation-to-rhett-marques-for-congress-a-strong-conservative-fighter/ |website=[[Yellowhammer News]] |access-date=21 August 2025 |date=August 21, 2025}}</ref>
+
+;Statewide officials
+*[[Will Ainsworth]], [[lieutenant governor of Alabama]] (2019–present)<ref name="ains1">{{cite web |last1=Monger |first1=Craig |title=Ainsworth endorses 'MAGA, Trump Republican' Rhett Marques in AL-1 race |url=https://1819news.com/news/item/ainsworth-endorses-maga-trump-republican-rhett-marques-in-al-1-race |website=1819 News |access-date=28 April 2026 |date=April 28, 2026}}</ref>
+
+;State legislators
+*[[Donnie Chesteen]], [[Alabama Senate|state senator]] from the 29th district (2018–present)<ref>{{cite web |last1=Everett |first1=Grayson |title=State Sen. Donnie Chesteen endorses Rhett Marques for Alabama's 1st Congressional District: 'Man of integrity' |url=https://yellowhammernews.com/state-sen-donnie-chesteen-endorses-rhett-marques-for-alabamas-1st-congressional-district-man-of-integrity/ |website=[[Yellowhammer News]] |access-date=3 October 2025 |date=October 3, 2025}}</ref>
+*[[Nathaniel Ledbetter]], speaker of the [[Alabama House of Representatives]] (2023–present) from the 24th district (2015–present)<ref name="Ledbetter">{{cite web |last1=Taylor |first1=Caleb |title=House Speaker Nathaniel Ledbetter, 31 Republican House members endorse Rhett Marques for Congress |url=https://1819news.com/news/item/house-speaker-nathaniel-ledbetter-31-republican-house-members-endorse-rhett-marques-for-congress |website=[[1819 News]] |access-date=13 September 2025 |date=September 10, 2025}}</ref>
+*30 other current [[Alabama House of Representatives|state representatives]]{{efn|
+*[[Russell Bedsole]], [[Alabama House of Representatives|state representative]] from the 49th district (2020–present)<ref name="Ledbetter"/>
+*[[Chris Blackshear]], [[Alabama House of Representatives|state representative]] from the 80th district (2016–present)<ref name="Ledbetter"/>
+*[[Mack Butler]], [[Alabama House of Representatives|state representative]] from the 28th district (2022–present)<ref name="Ledbetter"/>
+*[[Jim Carns]], [[Alabama House of Representatives|state representative]] from the 48th district (1990–2006, 2012–present)<ref name="Ledbetter"/>
+*[[Steve Clouse]], [[Alabama House of Representatives|state representative]] from the 93rd district (1994–present)<ref name="Ledbetter"/>
+*[[Danny Crawford (politician)|Danny Crawford]], [[Alabama House of Representatives|state representative]] from the [[Alabama's 5th House of Representatives district|5th district]] (2016–present)<ref name="Ledbetter"/>
+*[[David Faulkner (politician)|David Faulkner]], [[Alabama House of Representatives|state representative]] from the 46th district (2014–present)<ref name="Ledbetter"/>
+*[[Danny Garrett]], [[Alabama House of Representatives|state representative]] from the 44th district (2014–present)<ref name="Ledbetter"/>
+*[[Jim Hill (Alabama politician)|Jim Hill]], [[Alabama House of Representatives|state representative]] from the 50th district (2014–present)<ref name="Ledbetter"/>
+*[[Leigh Hulsey]], [[Alabama House of Representatives|state representative]] from the 15th district (2022–present)<ref name="Ledbetter"/>
+*[[Reed Ingram]], [[Alabama House of Representatives|state representative]] from the 75th district (2014–present)<ref name="Ledbetter"/>
+*[[Jamie Kiel]], [[Alabama House of Representatives|state representative]] from the 18th district (2018–present)<ref name="Ledbetter"/>
+*[[Bill Lamb (politician)|Bill Lamb]], [[Alabama House of Representatives|state representative]] from the 62nd district (2022–present)<ref name="Ledbetter"/>
+*[[Paul Lee (politician)|Paul Lee]], [[Alabama House of Representatives|state representative]] from the 86th district (2010–present)<ref name="Ledbetter"/>
+*[[Craig Lipscomb]], [[Alabama House of Representatives|state representative]] from the 30th district (2018–present)<ref name="Ledbetter"/>
+*[[James Lomax]], [[Alabama House of Representatives|state representative]] from the 20th district (2022–present)<ref name="Ledbetter"/>
+*[[Ed Oliver (politician)|Ed Oliver]], [[Alabama House of Representatives|state representative]] from the 81st district (2018–present)<ref name="Ledbetter"/>
+*[[Marcus Paramore]], [[Alabama House of Representatives|state representative]] from the 89th district (2022–present)<ref name="Ledbetter"/>
+*[[Rick Rehm]], [[Alabama House of Representatives|state representative]] from the 85th district (2022–present)<ref name="Ledbetter"/>
+*[[Chad Robertson]], [[Alabama House of Representatives|state representative]] from the 40th district (2022–present)<ref name="Ledbetter"/>
+*[[Chris Sells]], [[Alabama House of Representatives|state representative]] from the 90th district (2014–present)<ref name="Ledbetter"/>
+*[[Ginny Shaver]], [[Alabama House of Representatives|state representative]] from the 39th district (2018–present)<ref name="Ledbetter"/>
+*[[Mike Shaw (Alabama politician)|Mike Shaw]], [[Alabama House of Representatives|state representative]] from the 47th district (2022–present)<ref name="Ledbetter"/>
+*[[Ivan Smith (politician)|Van Smith]], [[Alabama House of Representatives|state representative]] from the 42nd district (2019–present)<ref name="Ledbetter"/>
+*[[Jeff Sorrells]], [[Alabama House of Representatives|state representative]] from the 87th district (2018–present)<ref name="Ledbetter"/>
+*[[David Standridge]], [[Alabama House of Representatives|state representative]] from the 34th district (2012–present)<ref name="Ledbetter"/>
+*[[Jerry Starnes]], [[Alabama House of Representatives|state representative]] from the 88th district (2022–present)<ref name="Ledbetter"/>
+*[[Kerry Underwood|Bubba Underwood]], [[Alabama House of Representatives|state representative]] from the [[Alabama's 3rd House of Representatives district|3rd district]] (2022–present)<ref name="Ledbetter"/>
+*[[Ritchie Whorton]], [[Alabama House of Representatives|state representative]] from the 22nd district (2014–present)<ref name="Ledbetter"/>
+*[[Randy Wood (politician)|Randy Wood]], [[Alabama House of Representatives|state representative]] from the 36th district (2002–present)<ref name="Ledbetter"/>
+}}
+
+;Organizations
+*Petroleum Marketers Association of Alabama<ref>{{cite web |last1=Everett |first1=Grayson |title=Rhett Marques picks up endorsement from Petroleum & Convenience Marketers of Alabama |url=https://yellowhammernews.com/rhett-marques-picks-up-endorsement-from-petroleum-convenience-marketers-of-alabama/ |website=[[Yellowhammer News]] |access-date=13 September 2025 |date=September 12, 2025}}</ref>
+*[[Manufacture Alabama]]<ref>{{cite web |last1=Taylor |first1=Caleb |title=Manufacture Alabama endorses Rhett Marques in Congressional District 1 race |url=https://1819news.com/news/item/manufacture-alabama-endorses-rhett-marques-in-congressional-district-1-race |website=1819 News |access-date=7 November 2025 |date=November 6, 2025}}</ref>
+}}
+{{Endorsements box
+| title = Joshua McKee
+| list =
+;U.S. representatives
+*[[Rich McCormick]], [[GA-07]] (2023–present)<ref>{{cite web |last1=Eichholz |first1=Jack |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 January 2026 |language=en |date=7 January 2026}}</ref>
+
+;Organizations
+*[[Alabama Cannabis Coalition]]<ref>{{cite web |title=The Alabama Cannabis Coalition is proud and very excited to publicly announce our endorsement of Joshua McKee, candidate for US Congress, District 1. |url=https://www.facebook.com/groups/2875398089405861/permalink/4153250304953960/ |website=Facebook |publisher=Alabama Cannabis Coalition |access-date=26 August 2025}}</ref>
+}}
+
+====Debates and forums====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Alabama's 1st congressional district election debates and forums
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+! scope="col" | <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+|-
+! scope="col" | Carl
+! scope="col" | Dees
+! scope="col" | Marques
+! scope="col" | McKee
+! scope="col" | Mills
+! scope="col" | Richardson
+! scope="col" | Sidwell
+|-
+!1<ref>{{cite web |last1=Thomas |first1=Erica |title=Alabama CD-1 candidates face off in Fairhope |url=https://1819news.com/news/item/alabama-cd-1-candidates-face-off-in-fairhope |website=[[1819 News]] |access-date=10 October 2025 |date=October 9, 2025}}</ref>
+| style="white-space:nowrap;" | October 9, 2025
+| style="white-space:nowrap;" | Eastern Shore<br>Republican Women
+| style="white-space:nowrap;" | Jeannie
+| style="white-space:nowrap;" | N/A
+| {{D-P|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-P|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-A|'''A'''}}
+| {{D-A|'''A'''}}
+| {{D-A|'''A'''}}
+|-
+!2<ref>{{cite web |last1=Thomas |first1=Erica |title=Watch: GOP CD-1 candidates weigh in on U.S. Supreme Court redistricting ruling |url=https://1819news.com/news/item/watch-gop-cd-1-candidates-weigh-in-on-u-s-supreme-court-redistricting-ruling |website=1819 News |access-date=30 April 2026 |date=April 30, 2026}}</ref>
+| style="white-space:nowrap;" | April 29, 2026
+| style="white-space:nowrap;" | Baldwin County<br>Republican Party
+| style="white-space:nowrap;" | Ken Curtis<br>Jeff Poor
+| style="white-space:nowrap;" | [https://rumble.com/v796sxw-congressional-district-1-forum.html Rumble]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jerry Carl (R)
+|$722,874
+|$358,488
+|$433,677
+|-
+|{{party shading/Republican}}|Rhett Marques (R)
+|$1,078,197
+|$252,283
+|$825,914
+|-
+|{{party shading/Republican}}|Josh McKee (R)
+|$462,054{{efn|$171,397 of this total was self-funded by McKee.}}
+|$294,869
+|$167,184
+|-
+|{{party shading/Republican}}|John Mills (R)
+|$14,162{{efn|$12,500 of this total was self-funded by Mills.}}
+|$15,191
+|$1,029
+|-
+|{{party shading/Republican}}|James Richardson (R)
+|$6,921
+|$6,786
+|$134
+|-
+|{{party shading/Republican}}|Austin Sidwell (R)
+|$162,551{{efn|$124,000 of this total was self-funded by Sidwell.}}
+|$126,445
+|$36,107
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Alabama 1st |url=https://www.fec.gov/data/elections/house/AL/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:75px;"| Jerry<br />Carl
+! style="width:75px;"| Rhett<br />Marques
+! style="width:75px;"| Joshua<br />McKee
+! Other
+! Undecided
+|-
+|style="text-align:left;"|PI Polling<ref>{{cite web |last1=Yaffee |first1=Michael |title=Jerry Carl, Rhett Marques are neck-and-neck according to new poll |url=https://yellowhammernews.com/jerry-carl-rhett-marques-are-neck-and-neck-according-to-new-poll/ |website=Yellowhammer News |access-date=27 April 2026 |date=April 27, 2026}}</ref>{{efn-ua|name=ADN}}
+|April 20–22, 2026
+|502 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''20%'''
+|{{party shading/Republican}}|'''22%'''
+|6%
+|5%
+|{{party shading/Undecided}}|'''47%'''
+|-
+|style="text-align:left;"|PI Polling<ref>{{cite web |last1=Knowles |first1=Sawyer |title=Poll: Carl leads, Marques close behind in AL-1 Republican primary |url=https://yellowhammernews.com/poll-carl-leads-marques-close-behind-in-al-1-republican-primary/ |website=Yellowhammer News |access-date=10 April 2026 |date=April 9, 2026}}</ref>{{efn-ua|name=ADN|Poll commissioned by ''Alabama Daily News''}}
+|March 31 – April 2, 2026
+|505 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''23%'''
+|{{party shading/Republican}}|'''19%'''
+|–
+|8%
+|{{party shading/Undecided}}|'''50%'''
+|-
+|style="text-align:left;"|The Alabama Poll<ref>{{cite web |last1=Lowry |first1=Michael |title=Michael Lowry: Numbers show the race changing in AL-1 |url=https://aldailynews.com/the-race-has-changed-in-al-1-the-numbers-prove-it/ |website=Alabama Daily News |access-date=19 March 2026 |date=18 March 2026}}</ref>{{Efn-ua|Poll commissioned by an unspecified client<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Nevada's top Republican is trying to thwart far-right throwbacks |url=https://www.the-downballot.com/i/191427388/poll-pile |publisher=The Downballot |access-date=19 March 2026 |date=19 March 2026}}</ref>}}
+|March 5–8, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''28%'''
+|{{party shading/Republican}}|'''19%'''
+|9%
+|–
+|{{party shading/Undecided}}|'''44%'''
+|-
+|style="text-align:left;"|AM Research Group (R)<ref>{{Cite web|url=https://1819news.com/news/item/jerry-carl-maintains-dominant-lead-in-cd-1-race-poll|title=Jerry Carl maintains dominant lead in CD-1 race: poll|first1=Jeff|last1=Poor|website=[[1819 News]]|date=February 4, 2026|access-date=February 5, 2026}}</ref>{{efn-ua|name=Carl}}
+|January 31 – February 2, 2026
+|– (LV)
+|±&nbsp;6.1%
+|{{party shading/Republican}}|'''43%'''
+|{{party shading/Republican}}|'''7%'''
+|2%
+|4%{{efn|Jimmy Dees with 2%; John Mills and Austin Sidwell with 1%; James Richardson with 0%}}
+|{{party shading/Undecided}}|'''44%'''
+|-
+|style="text-align:left;"|The Alabama Poll<ref>{{cite web |last1=Taylor |first1=Caleb |title=Alabama Poll: Jerry Carl leading Rhett Marques 25%-9% in CD-1 race |url=https://1819news.com/news/item/alabama-poll-jerry-carl-leading-rhett-marques-25-9-in-cd-1-race |website=1819 News |access-date=6 February 2026 |date=February 6, 2026}}</ref>
+|January 23, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''25%'''
+|{{party shading/Republican}}|'''9%'''
+|{{party shading/Republican}}|'''9%'''
+|–
+|{{party shading/Undecided}}|'''57%'''
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{cite web |last1=Poor |first1=Jeff |title=Poll: Carl has early lead over Marques, McKee in AL-1 GOP primary |url=https://1819news.com/news/item/poll-carl-has-early-lead-over-marques-mckee-in-al-1-gop-primary |website=[[1819 News]] |access-date=2 September 2025 |date=September 2, 2025}}</ref>{{efn-ua|name=Carl|Poll sponsored by Carl's campaign}}
+|August 21–22, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''29%'''
+|{{party shading/Republican}}|'''5%'''
+|2%
+|–
+|{{party shading/Undecided}}|'''64%'''
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Jerry<br />Carl
+! style="width:75px;"| Rhett<br />Marques
+! style="width:75px;"| Heather<br />Moore
+! Undecided
+|-
+|style="text-align:left;"|ALPolitics<ref>{{cite web |last1=Woodson |first1=Michael |title=Heather Moore Leads in Early Polling for Alabama's First District as Speculation Grows |url=https://alpolitics.com/just-for-fun-heather-moore-leads-in-early-polling-for-alabamas-first-district/ |website=ALPolitics |access-date=8 August 2025 |date=August 8, 2025}}</ref>
+|July 29–31, 2025
+|612 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''28%'''
+|13%
+|{{party shading/Republican}}|'''39%'''
+|20%
+|}
+
+{{hidden end}}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="Primary">{{cite web |title=Unofficial Election Night Results |url=https://www2.alabamavotes.gov/electionNight/statewideResultsByContest.aspx?ecode=1001290 |website=Secretary of State of Alabama |access-date=20 May 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Jerry Carl]]
+ | votes=32,714
+ | percentage=40.3}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Rhett Marques]]
+ | votes=25,235
+ | percentage=31.1}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Joshua McKee
+ | votes=7,336
+ | percentage=9.0}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Austin Sidwell
+ | votes=5,829
+ | percentage=7.2}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=James (Jimmy) Dees
+ | votes=4,194
+ | percentage=5.2}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=John Mills
+ | votes=3,049
+ | percentage=3.8}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=James Richardson
+ | votes=2,848
+ | percentage=3.5}}
+{{Election box total no change
+ | votes=81,205
+ | percentage=100.0}}
+{{Election box end}}
+
+===Nonbinding Democratic primary===
+====Nominee====
+*Clyde Jones, community organizer<ref>{{cite web |title=Democrat Clyde Jones announces bid for Alabama's First Congressional seat |url=https://www.alreporter.com/2025/10/20/democrat-clyde-jones-announces-bid-for-alabamas-first-congressional-seat/ |website=Alabama Political Reporter |access-date=20 October 2025 |date=October 20, 2025}}</ref>
+
+==== Did not qualify ====
+*Tom Holmes, nonprofit executive and nominee for this district in [[2024 United States House of Representatives elections in Alabama#District 1|2024]]<ref>{{cite news |last1=Sharp |first1=John |title=He lost by 57% spread last year. Now Tom Holmes is first to announce for 2026 congressional race |url=https://www.al.com/news/2025/06/he-lost-by-57-spread-last-year-now-tom-holmes-is-first-to-announce-for-2026-congressional-race.html |access-date=June 2, 2025 |work=[[The Birmingham News]] |date=June 2, 2025 |language=en}}</ref>
+*Kimberly Thomas, sales manager<ref>{{cite web |last1=Koplowitz |first1=Howard |title=Washington leaders throw money behind GOP opponents running for open Alabama US House seat |url=https://www.al.com/politics/2025/10/washington-leaders-throw-money-behind-gop-opponents-running-for-open-alabama-us-house-seat.html |website=AL.com |access-date=19 November 2025 |date=October 16, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Clyde Jones (D)
+|$23,788
+|$11,495
+|$12,293
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===Special Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Jerry Carl]], former [[United States House of Representatives|U.S. representative]] (2021–2025) and nominee in the May primary election<ref name="CandidateSwitches">{{cite web |last1=Thomas |first1=Erica |title=Dees staying in CD-1, Richardson likely to shift to CD-2, Mills undecided in redistricting shakeup |url=https://1819news.com/news/item/dees-staying-in-cd-1-richardson-likely-to-shift-to-cd-2-mills-undecided-in-redistricting-shakeup |website=1819 News |access-date=13 May 2026 |date=May 13, 2026}}</ref>
+=====Eliminated in primary=====
+*Lucas Burger, real estate agent<ref name="1819List"/>
+*John Mills, former pilot, perennial candidate, and candidate in the May primary election<ref name="1819List"/>
+*Austin Sidwell, small business executive and candidate in the May primary election<ref name="CandidateSwitches"/>
+
+=====Withdrawn=====
+*Jimmy Dees, police detective and candidate in the May primary election<ref name="CandidateSwitches"/><ref>{{Cite news|url=https://1819news.com/news/item/special-primary-election-for-cd-2-widens-with-rhett-marques-qualifying|title=Special primary election for CD-2 widens with Rhett Marques qualifying|first=Erica|last=Thomas|website=1819 News|date=May 21, 2026|accessdate=June 8, 2026|quote=Jimmy Dees, who ran for CD-1 as a moderate Republican and received 5% of the votes, will not qualify for the special primary election.}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jerry Carl
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TrumpSpecialPrimary">{{cite web |last1=Taylor |first1=Caleb |title=Donald Trump endorses Jerry Carl, Rhett Marques in special Republican congressional primaries |url=https://1819news.com/news/item/donald-trump-endorses-jerry-carl-rhett-marques-in-special-republican-congressional-primaries |website=1819 News |access-date=22 June 2026 |date=June 22, 2026}}</ref>
+
+;U.S. senators
+*[[Katie Britt]], [[Alabama]] (2023–present)<ref name="Yahoo623" />
+
+;U.S. representatives
+*[[Tom Emmer]], [[Party Leaders of the United States House of Representatives|House majority whip]] (2023–present) from [[Minnesota's 6th congressional district|MN-06]] (2015–present)<ref name="Yahoo623" />
+*[[Mike Johnson]], [[speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[Louisiana's 4th congressional district|LA-04]] (2017–present)<ref name="Yahoo623" />
+*[[Lisa McClain]], [[Michigan's 9th congressional district|MI-09]] (2021–present)<ref name="Yahoo623" />
+*[[Steve Scalise]], [[Party Leaders of the United States House of Representatives|House majority leader]] (2023–present) from [[Louisiana's 1st congressional district|LA-01]] (2008–present)<ref name="Yahoo623" />
+}}
+
+====Results====
+{{Election box begin no change
+ | title=Special Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Jerry Carl]]
+ | votes=23,338
+ | percentage=74.7}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Austin Sidwell
+ | votes=5,508
+ | percentage=17.6}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=John Mills
+ | votes=1,818
+ | percentage=5.8}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Lucas Burger
+ | votes=581
+ | percentage=1.9}}
+{{Election box total no change
+ | votes=31,245
+ | percentage=100.0}}
+{{Election box end}}
+
+===Special Democratic primary===
+====Candidates====
+=====Nominee=====
+*Clyde Jones, community organizer and nominee in the May primary election<ref name="1819List">{{cite web |last1=Fogel |first1=Apryl Marie |title=Full list of candidates for August congressional special primary elections districts 1, 2, 6 and 7 |url=https://1819news.com/news/item/full-list-of-candidates-for-august-congressional-special-primary-elections-districts-1-2-6-and-7?utm_source=trending&utm_medium=widget&utm_campaign=trending_news |website=1819 News |access-date=24 May 2026 |date=May 24, 2026}}</ref>
+
+=====Declined=====
+*[[Shomari Figures]], incumbent U.S. representative from the 2nd district ''([[#District 2|running for reelection in the 2nd district]])''<ref>{{Cite news|url=https://aldailynews.com/figures-fights-to-keep-his-seat-as-he-considers-his-political-future/|title=Figures fights to keep his seat as he considers his political future|last=Angle|first=Alex|website=Alabama Daily News|date=May 15, 2026|accessdate=June 8, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=August 8, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |access-date= August 8, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|June 30, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 10, 2025
+|-
+| align="left"|[[The Economist]]<ref name="sf1">{{Cite web |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/}}</ref>{{efn|name="likely"|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely" for the purposes of this page. As well, "tossup" is labeled "uncertain", but for the purposes of this page it will be labelled "tossup".}}
+|{{USRaceRating|Safe|R}}
+|May 7, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 20, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+| title = Jerry Carl (R)
+| list =
+;Organizations
+*[[NRA Political Victory Fund]]<ref name="NRAPVF">{{cite web |title=Alabama |url=https://www.nrapvf.org/grades/Alabama/ |website=[[National Rifle Association Political Victory Fund]] |access-date=13 September 2026}}</ref>
+}}
+{{Endorsements box
+| title = Clyde Jones (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFL-CIO">{{Cite Facebook |user=AlaAFLCIO |postid=pfbid092HiHzWUPKV8t2D3R5rqd8fUdXjPyHkxScA4XaQk7cj17vyNBvAUMvWf944FqqC7l |title=Alabama AFL-CIO Endorsed Candidates |date=2026-08-06 |access-date=2026-10-27}}</ref>
+}}
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 1st congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Jerry Carl]]
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Clyde Jones
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Alabama's 2nd congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 2
+| next_year = 2028
+| image1 = Figures Shomari 119th Congress 2 (cropped).jpg
+| nominee1 = [[Shomari Figures]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Rhett Marques (cropped).png
+| nominee2 = [[Rhett Marques]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Shomari Figures]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 2nd congressional district}}
+[[File:Alabama's 2nd congressional district (since 2027) (new version).svg|thumb|Alabama's 2nd congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 2nd congressional district (2027–).map|text=Interactive map version}}]]
+In the original court-ordered map, the 2nd district encompassed all of [[Montgomery County, Alabama|Montgomery County]] and the capital city of [[Montgomery, Alabama|Montgomery]], as well as majority Black sections of the [[Wiregrass (region)|Wiregrass Region]] and the city of Mobile. It also included the entirety of [[Butler County, Alabama|Butler]], [[Macon County, Alabama|Macon]], [[Monroe County, Alabama|Monroe]], [[Pike County, Alabama|Pike]], and [[Russell County, Alabama|Russell]] counties. The incumbent is Democrat [[Shomari Figures]], who was elected with 54.6% of the vote in 2024.<ref name="HPVT"/>
+
+In the legislature-approved redistricted map, the 2nd district was redrawn to include southeastern parts of the state in the Wiregrass Region that previously belonged to the 1st district, including Coffee County. It maintains Montgomery County but no longer stretches to majority Black areas of Mobile County.<ref name=arise/>
+
+===Nonbinding Democratic primary===
+====Nominee====
+*[[Shomari Figures]], incumbent U.S. representative<ref name="FiguresSewell">{{cite web |last1=Harrison |first1=Claire |title=Full slate of Democratic candidates for U.S. Congress officially qualify, talk issues |url=https://aldailynews.com/democrats-put-up-first-full-slate-of-candidates-for-us-congress-since-2018/ |website=Alabama Daily News |access-date=8 January 2026 |date=January 8, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Shomari Figures
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=AFGE Endorses 4 Alabama Lawmakers Ahead of Statewide Primary |url=https://www.afge.org/publication/afge-endorses-4-alabama-lawmakers-ahead-of-statewide-primary/ |website=[[American Federation of Government Employees]] |access-date=7 September 2026 |date=May 8, 2026}}</ref>
+
+;Organizations
+*[[Alabama Realtors PAC]]<ref name="ALRealtors">{{cite web |title=2026 ARPAC Endorsements |url=https://www.alabamarealtors.com/public-policy/2026-endorsements |website=Alabama Association of Realtors |access-date=9 April 2026}}</ref>
+*[[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref name="lcv.org">{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC">{{cite web |title=SPLC Action Fund Endorses Congressional Black Caucus Candidates for Reelection |url=https://www.splcactionfund.org/news/congressional-black-caucus-reelection-endorsement/ |website=SPLC Action Fund |access-date=27 April 2026 |date=April 27, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Shomari Figures (D)
+|$792,769
+|$497,820
+|$315,558
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Alabama 2nd |url=https://www.fec.gov/data/elections/house/AL/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+===Nonbinding Republican primary===
+====Nominee====
+*Hampton Harris, attorney, small business owner and candidate for this seat in [[2024 United States House of Representatives elections in Alabama#District 2|2024]]<ref>{{cite web |last1=Baker |first1=Trent |title=Republican Hampton Harris announces candidacy for Alabama's second congressional district |url=https://1819news.com/news/item/republican-hampton-harris-announces-candidacy-for-alabamas-second-congressional-district |access-date=January 13, 2026 |work=[[1819 News]] |date=January 13, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Hampton Harris (R)
+|$209,054{{efn|$205,510 of this total was self-funded by Harris.}}
+|$5,008
+|$204,046
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2" /></small>
+|}
+
+===Special Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Shomari Figures]], incumbent U.S. representative<ref name="1819List"/>
+
+===Special Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Rhett Marques]], [[Alabama House of Representatives|state representative]] from the 91st district (2018–present) and candidate for the 1st district in the May primary<ref name="CandidateSwitches"/>
+=====Eliminated in primary=====
+*Hampton Harris, small business owner and nominee in the May primary election<ref>{{cite web |last1=Monger |first1=Craig |title=Hampton Harris reaffirms spot as only current GOP candidate for CD-2 after map shakeup |url=https://1819news.com/news/item/hampton-harris-reaffirms-spot-as-only-current-gop-candidate-for-al-2-after-map-shakeup?utm_source=trending&utm_medium=widget&utm_campaign=trending_news |website=1819 News |access-date=13 May 2026 |date=May 13, 2026}}</ref>
+*Christian Horn, candidate for the 7th district in [[2024 United States House of Representatives elections in Alabama#District 7|2024]], and candidate for secretary of state in [[2022 Alabama Secretary of State election|2022]] and [[2026 Alabama Secretary of State election|2026]]<ref name="1819List"/>
+*David Matthews, former [[United States Department of Agriculture]] official<ref>{{cite web |last1=Jobin |first1=Alex |title=David Matthews launches GOP bid for Alabama's 2nd District |url=https://www.alreporter.com/2026/05/25/david-matthews-launches-gop-bid-for-alabamas-2nd-district/ |website=Alabama Political Reporter |access-date=25 May 2026 |date=May 25, 2026}}</ref>
+*Joshua McKee, retired [[DARPA]] contractor and candidate for the 1st district in the May primary election<ref name="CandidateSwitches"/>
+* James Richardson, candidate for the 1st district in the May primary<ref>{{Cite news |url=https://aldailynews.com/al-1-race-set-for-potential-shakeup-marques-to-switch-to-al-2/ |title=AL-1 race set for potential shakeup; Marques to switch to AL-2 |first=Alex |last=Angle |website=Alabama Daily News |date=May 13, 2026 |accessdate=May 17, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Hampton Harris
+|list=
+;State legislators
+*[[Dick Brewbaker]], former state senator from the 25th district (2010–2018)<ref>{{cite web |last1=Shipley |first1=Austen |title='Refused to sit back and give the Democrats another free ride': Brewbaker endorses Hampton Harris in CD-2 special election |url=https://1819news.com/news/item/refused-to-sit-back-and-give-the-democrats-another-free-ride-brewbaker-endorses-hampton-harris-in-cd-2-special-election |website=1819 News |access-date=21 May 2026 |date=May 21, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Rhett Marques
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TrumpSpecialPrimary"/>
+
+;U.S. senators
+*[[Katie Britt]], [[Alabama]] (2023–present)<ref name="fight1"/>
+
+;U.S. representatives
+*[[Tom Emmer]], [[Party Leaders of the United States House of Representatives|House majority whip]] (2023–present) from [[Minnesota's 6th congressional district|MN-06]] (2015–present)<ref name="Yahoo623" />
+*[[Mike Johnson]], [[speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[Louisiana's 4th congressional district|LA-04]] (2017–present)<ref name="Yahoo623">{{cite web |last1=Sharp |first1=John |title=Britt, Johnson join Trump in issuing congressional endorsements |url=https://www.yahoo.com/news/politics/articles/britt-johnson-join-trump-issuing-151918527.html |website=Yahoo News |access-date=7 September 2026 |date=June 23, 2026}}</ref>
+*[[Lisa McClain]], [[Michigan's 9th congressional district|MI-09]] (2021–present)<ref name="Yahoo623" />
+*[[Steve Scalise]], [[Party Leaders of the United States House of Representatives|House majority leader]] (2023–present) from [[Louisiana's 1st congressional district|LA-01]] (2008–present)<ref name="Yahoo623" />
+
+;Statewide officials
+*[[Will Ainsworth]], [[lieutenant governor of Alabama]] (2019–present)<ref name="ains1"/>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"| Hampton<br />Harris
+! style="width:60px;"| Christian<br />Horn
+! style="width:60px;"| David<br />Matthews
+! style="width:60px;"| Rhett<br />Marques
+! style="width:60px;"| Joshua<br />McKee
+! style="width:60px;"| James<br />Richardson
+! Undecided
+|-
+|style="text-align:left;"|Peak Insights (R)<ref>{{cite web |last1=Knowles |first1=Sawyer |title=First AL-02 special primary poll shows Marques out front as voter awareness lags far behind |url=https://yellowhammernews.com/first-al-02-special-primary-poll-shows-marques-out-front-as-voter-awareness-lags-far-behind/ |publisher=[[Yellowhammer News]] |access-date=June 15, 2026 |date=June 15, 2026}}</ref>
+|June 8–9, 2026
+|400 (LV)
+|±&nbsp;5.0%
+|4%
+|1%
+|4%
+|{{party shading/Republican}}|'''30%'''
+|10%
+|2%
+|{{party shading/Undecided}}|'''49%'''
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Special Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Rhett Marques]]
+ | votes=16,425
+ | percentage=50.0}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Hampton Harris
+ | votes=7,109
+ | percentage=21.7}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=David Matthews
+ | votes=5,723
+ | percentage=17.4}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Joshua McKee
+ | votes=1,539
+ | percentage=4.7}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=James Richardson
+ | votes=1,078
+ | percentage=3.3}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Christian Horn
+ | votes=961
+ | percentage=2.9}}
+{{Election box total no change
+ | votes=32,835
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Lean|R|Flip}}
+|October 30, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|R|Flip}}
+|October 23, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Tilt|R|Flip}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Tossup}}
+|October 27, 2026
+|-
+| align="left"|[[The Economist]]<ref name="sf1"/>{{efn|name="likely"}}
+| {{US political race rating|Likely|R|Flip}}
+|October 27, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Likely|R|Flip}}
+|August 20, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box
+| title = Shomari Figures (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFL-CIO" />
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=October 29, 2026}}</ref>
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA">{{cite web|url=https://umwa.org/policy-politics/compac-endorsements/alabama/|title=Alabama|publisher=United Mine Workers of America|access-date=October 29, 2026}}</ref>
+
+;Organizations
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Who We're Endorsing |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20260909074117/https://reproductivefreedomforall.org/elections |archive-date=9 September 2026 |access-date=24 October 2026}}</ref>
+}}
+{{Endorsements box
+| title = Rhett Marques (R)
+| list =
+;Organizations
+*[[NRA Political Victory Fund]]<ref name="NRAPVF" />
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Shomari Figures (D)
+|$2,706,098
+|$1,531,518
+|$1,197,689
+|-
+|{{party shading/Republican}}|Rhett Marques (R)
+|$1,716,374
+|$1,538,317
+|$178,057
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2" /></small>
+|}
+
+====Polling====
+'''Shomari Figures vs. Rhett Marques'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Shomari<br />Figures (D)
+! style="width:100px;"| Rhett<br />Marques (R)
+! Undecided
+|-
+|style="text-align:left;"| Tulchin Research (D)<ref>{{cite web|url=https://www.thehousemajoritypac.com/news/hmp-poll-shomari-figures-tied-with-rhett-marques-in-al-02|title=HMP Poll: Shomari Figures TIED With Rhett Marques in AL-02 |website=House Majority PAC |date=September 9, 2026|access-date=September 12, 2026}}</ref>{{efn-ua|name=HMP|Poll sponsored by the House Majority PAC, which supports Democratic candidates.}}
+|August 24–31, 2026
+|–
+|–
+|'''47%'''
+|'''47%'''
+|6%
+|-
+|style="text-align:left;"|[[Democratic Congressional Campaign Committee| DCCC]] (D)<ref>{{cite web|url=https://dccc.org/wp-content/uploads/2026/08/DCCC-Polling-Memo-Rep.-Shomari-Figures-in-Toss-Up-Race-in-AL-02.pdf|title=DCCC Polling Memo: Rep. Shomari Figures in Toss Up Race in AL-02 |website=[[Democratic Congressional Campaign Committee|DCCC]]|date=August 12, 2026|access-date=August 14, 2026}}</ref>{{efn-ua|name=Figures|Poll conducted by Figures's campaign.}}
+|July 29–30, 2026
+|421 (LV)
+|±&nbsp;4.8%
+|'''46%'''
+|'''46%'''
+|8%
+|-
+|style="text-align:left;"|Impact Research (D)<ref>{{cite web|url=https://hub.nationaljournal.com/serving-maine-up-on-a-golden-platner|title=Serving Maine Up on a Golden Platner|website=[[National Journal]]|date=July 7, 2026|access-date=July 7, 2026}}</ref>{{efn-ua|name=DCCC|Poll sponsored by the [[Democratic Congressional Campaign Committee|DCCC]]}}
+|June 22–25, 2026
+|400 (LV)
+|–
+|44%
+|{{party shading/Republican}}|'''45%'''
+|11%
+|}
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 2nd congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=[[Shomari Figures]] (incumbent)
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Rhett Marques]]
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Alabama's 3rd congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 3
+| next_year = 2028
+| image1 = Mike Rogers 119th Congress.jpg
+| nominee1 = [[Mike Rogers (Alabama politician)|Mike Rogers]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Lee McInnis
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mike Rogers (Alabama politician)|Mike Rogers]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 3rd congressional district}}
+[[File:Alabama's 3rd congressional district (since 2027) (new version).svg|thumb|Alabama's 3rd congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 3rd congressional district (2027–).map|text=Interactive map version}}]]
+The 3rd district is based in eastern Alabama, taking in [[Anniston, Alabama|Anniston]], [[Auburn, Alabama|Auburn]], [[Gadsden, Alabama|Gadsden]], and [[Talladega, Alabama|Talladega]]. The incumbent is Republican [[Mike Rogers (Alabama politician)|Mike Rogers]], who was re-elected unopposed in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Mike Rogers (Alabama politician)|Mike Rogers]], incumbent U.S. representative<ref>{{cite web |last1=Everett |first1=Grayson |title=Mike Rogers officially running in 2026 – with President Trump's full backing |url=https://yellowhammernews.com/mike-rogers-officially-running-in-2026-with-president-trumps-full-backing/ |website=Yellowhammer News |access-date=5 January 2026 |date=January 5, 2026}}</ref>
+
+====Eliminated in primary====
+*Terri LaPoint, author<ref>{{Cite web|url=https://www.alabamagazette.com/story/2025/03/21/news/terri-lapoint-is-challenging-mike-rogers-in-cd3/5880.html|title=Terri LaPoint is challenging Mike Rogers in CD3|last=Moseley|first=Brandon|website=The Alabama Gazette|date=March 21, 2025|access-date=May 21, 2025}}</ref>
+
+==== Did not qualify ====
+*Draic Coakley, mechanic<ref>{{Cite web|url=https://www.alabamagazette.com/story/2025/04/01/news/draic-coakley-is-launching-his-campaign-for-congress/6188.html|title=Draic Coakley is launching his campaign for Congress|last=Moseley|first=Brandon|website=The Alabama Gazette|date=April 1, 2025|access-date=May 21, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Terri LaPoint
+| list =
+;Individuals
+*[[Cathy O'Brien (conspiracy theorist)|Cathy O'Brien]], author and conspiracy theorist<ref>{{cite web |title=Terri LaPoint Endorsed by Jennifer Guskin, Cathy O'Brien |url=https://alpolitics.com/terri-lapoint-endorsed-by-jennifer-guskin-cathy-obrien/ |website=ALPolitics.com |access-date=21 March 2026 |date=March 20, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Mike Rogers
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="ForReelect">{{cite web |last1=Taylor |first1=Daniel |title='He will never let you down!' — Trump endorses Aderholt, Strong, Palmer, Rogers for reelection |url=https://1819news.com/news/item/he-will-never-let-you-down-trump-endorses-aderholt-strong-palmer-rogers-for-reelection |access-date=November 3, 2025 |work=[[1819 News]] |date=November 3, 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 25, 2026}}</ref>
+*[[Alabama Realtors PAC]]<ref name="ALRealtors"/>
+*[[NRA Political Victory Fund]]<ref name="NRA">{{cite web |last1=Fogel |first1=Apryl Marie |title=NRA PAC makes primary endorsements; Passes on several key races |url=https://1819news.com/news/item/nra-pac-makes-primary-endorsements-passes-on-several-key-races |website=1819 News |access-date=29 April 2026 |date=April 29, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Terri LaPoint (R)
+|$13,778
+|$11,541
+|$2,237
+|-
+|{{party shading/Republican}}|Mike Rogers (R)
+|$1,759,770
+|$1,053,117
+|$2,628,988
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Alabama 3rd |url=https://www.fec.gov/data/elections/house/AL/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Mike Rogers (Alabama politician)|Mike Rogers]] (incumbent)
+ | votes=63,144
+ | percentage=83.2}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Terri LaPoint
+ | votes=12,769
+ | percentage=16.8}}
+{{Election box total no change
+ | votes=75,913
+ | percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Lee McInnis, retired [[Defense Intelligence Agency]] employee<ref>{{#invoke:cite|web|url=https://www.waka.com/2025/09/17/campaign-2026-lee-mcinnis-enters-third-district-u-s-house-race/|work=[[WAKA]]|title=CAMPAIGN 2026: Lee McInnis enters Third District U.S. House race|date=September 17, 2025|access-date=September 20, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Lee McInnis (D)
+|$27,685
+|$12,862
+|$9,461
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| align="left"|[[The Economist]]<ref name="sf1"/>{{efn|name="likely"}}
+|{{USRaceRating|Safe|R}}
+|May 7, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Lee McInnis (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFL-CIO" />
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA" />
+}}
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 3rd congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Mike Rogers (Alabama politician)|Mike Rogers]] (incumbent)
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Lee McInnis
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Alabama's 4th congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 4
+| next_year = 2028
+| image1 = Robert Aderholt official photo (cropped).jpg
+| nominee1 = [[Robert Aderholt]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Amanda Pusczek
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Robert Aderholt]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 4th congressional district}}
+[[File:Alabama's 4th congressional district (since 2027) (new version).svg|thumb|Alabama's 4th congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 4th congressional district (2027–).map|text=Interactive map version}}]]
+The 4th district is located in rural north-central Alabama, including [[Blount County, Alabama|Blount]], [[Colbert County, Alabama|Colbert]], [[Cullman County, Alabama|Cullman]], [[Fayette County, Alabama|Fayette]], and [[Marion County, Alabama|Marion]] counties, as well as half of [[Lauderdale County, Alabama|Lauderdale]] and [[Tuscaloosa County, Alabama|Tuscaloosa]] counties. The incumbent is Republican [[Robert Aderholt]], who was re-elected unopposed in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Robert Aderholt]], incumbent U.S. representative<ref>{{cite web |last1=Walter |first1=Wesley |title=Alabama candidates begin filing for 2026 races |url=https://www.alreporter.com/2026/01/06/alabama-candidates-begin-filing-for-2026-races/ |website=Alabama Political Reporter |access-date=6 January 2026 |date=January 6, 2026}}</ref>
+
+====Eliminated in primary====
+*Tommy Barnes, [[Colbert County, Alabama|Colbert County]] commissioner<ref>{{cite web |last1=Taylor |first1=Caleb |title=Colbert County Commissioner Tommy Barnes primarying Robert Aderholt in 2026 |url=https://1819news.com/news/item/colbert-county-commissioner-tommy-barnes-primarying-robert-aderholt-in-2026 |website=[[1819 News]] |access-date=14 August 2025 |date=August 14, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Robert Aderholt
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="ForReelect"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Alabama Realtors PAC]]<ref name="ALRealtors"/>
+*[[NRA Political Victory Fund]]<ref name="NRA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Robert Aderholt (R)
+|$803,634
+|$931,868
+|$838,663
+|-
+|{{party shading/Republican}}|Tommy Barnes (R)
+|$57,033
+|$22,034
+|$34,999
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Alabama 4th |url=https://www.fec.gov/data/elections/house/AL/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Robert Aderholt]] (incumbent)
+ | votes=72,169
+ | percentage=77.6}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Tommy Barnes
+ | votes=20,824
+ | percentage=22.4}}
+{{Election box total no change
+ | votes=92,993
+ | percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Amanda Pusczek, registered nurse<ref name="ALDailyAugList">{{cite web |last1=Sell |first1=Mary |title=Carl in for Congress; 9 now running for U.S. Senate |url=https://aldailynews.com/carl-in-for-congress-9-now-running-for-u-s-senate/ |website=Alabama Daily News |access-date=20 August 2025 |date=August 19, 2025}}</ref>
+
+====Eliminated in primary====
+*Shane Weaver, business development manager<ref>{{cite web |last1=McKenney |first1=Susan |title=Democrats to host 4 candidates |url=https://www.advertisergleam.com/news/democrats-to-host-4-candidates/article_bb6568c2-6947-460f-a64a-fb53ad37cf63.html |website=The Advertiser Gleam |access-date=3 October 2025 |date=September 28, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Amanda Pusczek
+| list =
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=25 July 2026 |access-date=24 October 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Amanda Pusczek (D)
+|$13,528
+|$11,866
+|$115
+|-
+|{{party shading/Democratic}}|Shane Weaver (D)
+|$7,150{{efn|$1,977 of this total was self-funded by Weaver.}}
+|$5,029
+|$2,121
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Democratic primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Amanda N. Pusczek
+ | votes=9,648
+ | percentage=62.8}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Shane Weaver
+ | votes=5,719
+ | percentage=37.2}}
+{{Election box total no change
+ | votes=15,367
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| align="left"|[[The Economist]]<ref name="sf1"/>{{efn|name="likely"}}
+|{{USRaceRating|Safe|R}}
+|May 7, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Amanda Pusczek (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFL-CIO" />
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA" />
+}}
+
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 4th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Robert Aderholt]] (incumbent)
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Amanda Pusczek
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Alabama's 5th congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 5
+| next_year = 2028
+| image1 = Dale Strong official House portrait (cropped).jpg
+| nominee1 = [[Dale Strong]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Andrew Sneed
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Dale Strong]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 5th congressional district}}
+[[File:Alabama's 5th congressional district (since 2027) (new version).svg|thumb|Alabama's 5th congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 5th congressional district (2027–).map|text=Interactive map version}}]]
+The 5th district is based in northern Alabama, including the city of [[Huntsville, Alabama|Huntsville]], as well as [[Athens, Alabama|Athens]], [[Decatur, Alabama|Decatur]], [[Madison, Alabama|Madison]], and [[Scottsboro, Alabama|Scottsboro]], as well as half of [[Lauderdale County, Alabama|Lauderdale County]]. The incumbent is Republican [[Dale Strong]], who was re-elected unopposed in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Dale Strong]], incumbent U.S. representative<ref>{{cite news |last1=Vincent |first1=JJ |title=Dale Strong to run for re-election in 2026, will not seek Tuberville's open Senate seat |url=https://www.rocketcitynow.com/article/news/local/rep-dale-strong-says-reelection-not-seek-senate-seat/525-51c0a0fe-47e8-48a0-b53d-69c0f7f760f7 |access-date=May 28, 2025 |work=[[WZDX]] |date=May 28, 2025}}</ref>
+
+====Declined====
+*[[Mo Brooks]], former U.S. representative (2011–2023) and candidate for [[United States Senate|U.S. Senate]] in [[2017 United States Senate special election in Alabama|2017]] and [[2022 United States Senate election in Alabama|2022]] ''([[2026 Alabama House of Representatives election|ran for state house]])''<ref>{{cite web |last1=Taylor |first1=Daniel |title=Mo Brooks officially not running for office in 2026 — 'Family time is far more enjoyable' |url=https://1819news.com/news/item/mo-brooks-officially-not-running-for-office-in-2026-family-time-is-far-more-enjoyable |website=1819 News |access-date=16 January 2026 |date=January 16, 2026}}</ref><ref>{{cite web |last1=Everett |first1=Grayson |title=Mo Brooks now running against State Rep. James Lomax in HD20 – Lomax unloads on 'do-nothing' career politician 'crawling back' |url=https://yellowhammernews.com/mo-brooks-now-running-against-state-rep-james-lomax-in-hd20-lomax-unloads-on-do-nothing-career-politician-crawling-back/ |website=Yellowhammer News |access-date=25 January 2026 |date=January 23, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Dale Strong
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="ForReelect"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Alabama Realtors PAC]]<ref name="ALRealtors"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Dale Strong (R)
+|$1,233,056
+|$580,029
+|$1,282,004
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Alabama 5th |url=https://www.fec.gov/data/elections/house/AL/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+*Andrew Sneed, mechanical contractor<ref>{{cite web |last1=Smith |first1=Kayla |title=Democrat launches campaign opposing North Alabama Congressman Dale Strong |url=https://whnt.com/news/huntsville/democrat-launches-campaign-opposing-north-alabama-congressman-dale-strong/ |website=[[WHNT-TV]] |access-date=18 August 2025 |date=August 13, 2025}}</ref>
+
+====Eliminated in runoff====
+*Candice Duvieilh, tech product analyst<ref>{{cite web |last1=Chitwood |first1=Bill |title=Candice Duvieilh: Why I'm the Right Candidate to Represent Alabama's 5th Congressional District |url=https://alpolitics.com/candice-duvieilh-why-im-the-right-candidate-to-represent-alabamas-5th-congressional-district/ |website=AL Politics |access-date=18 August 2025 |date=August 18, 2025}}</ref>
+
+====Eliminated in primary====
+*Jeremy Devito, procurement agent<ref name="ALCD5A">{{Cite web|url=https://jcsentinel.com/news/article_7de91ab0-8e1a-4f01-a7ca-3a4cd5a4bb22.html|title=Jackson County Democrats hear from potential challengers of Dale Strong|last=Hightower|first=Katie|website=Jackson County Sentinel|date=May 21, 2025|access-date=May 22, 2025}}</ref>
+
+====Withdrawn====
+*Greg Howard, podcaster<ref name="ALCD5A"/>
+
+====Endorsements====
+{{Endorsements box
+| title = Candice Duvieilh
+| list =
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+{{Endorsements box
+| title = Andrew Sneed
+| list =
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+;Organizations
+*[[Alabama Democratic Conference]]<ref>{{Cite news|url=https://www.alreporter.com/2026/06/08/adc-endorses-sneed-in-5th-district-democratic-runoff/|title=ADC endorses Sneed in 5th District Democratic runoff|website=Alabama Political Reporter|date=June 8, 2026|accessdate=June 8, 2026}}</ref>
+;Individuals
+*[[Uzo Aduba]], actress<ref>{{cite web |author=Jonece Starr Dunigan |title=This Emmy Award-winning actress backs a North Alabama congressional candidate |url=https://www.al.com/news/huntsville/2025/12/this-emmy-award-winning-actress-backs-a-north-alabama-congressional-candidate.html |access-date=December 3, 2025 |work=[[AL.com]] |date=December 3, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jeremy Devito (D)
+|$32,285
+|$22,415
+|$4,139
+|-
+|{{party shading/Democratic}}|Candice Duvieilh (D)
+|$28,047
+|$21,086
+|$6,961
+|-
+|{{party shading/Democratic}}|Andrew Sneed (D)
+|$453,186
+|$218,948
+|$234,238
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Democratic primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Andrew Sneed
+ | votes=19,301
+ | percentage=42.0}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Candace Dollar Duvieilh
+ | votes=16,388
+ | percentage=35.7}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Jeremy Devito
+ | votes=10,265
+ | percentage=22.3}}
+{{Election box total no change
+ | votes=45,954
+ | percentage=100.0}}
+{{Election box end}}
+
+====Runoff results====
+{{Election box begin no change
+ | title=Democratic primary runoff results}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Andrew Sneed
+ | votes=16,688
+ | percentage=78.4}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Candace Dollar Duvieilh
+ | votes=4,607
+ | percentage=21.6}}
+{{Election box total no change
+ | votes=21,295
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+| align="left"|[[The Economist]]<ref name="sf1"/>{{efn|name="likely"}}
+|{{USRaceRating|Safe|R}}
+|May 7, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Dale Strong (R)
+| list =
+;Organizations
+*[[NRA Political Victory Fund]]<ref name="NRAPVF" />
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-dale-strong-for-alabamas-fifth-district|title=U.S. Chamber Endorses Rep. Dale Strong for Alabama’s Fifth District|date=August 31, 2026|access-date=September 15, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Andrew Sneed (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFL-CIO" />
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA" />
+}}
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 5th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Dale Strong]] (incumbent)
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Andrew Sneed
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Alabama's 6th congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 6
+| next_year = 2028
+| image1 = Gary Palmer - 2018 (cropped).jpg
+| nominee1 = [[Gary Palmer]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = Maurice Mercer
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Gary Palmer]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 6th congressional district}}
+[[File:Alabama's 6th congressional district (since 2027) (new version).svg|thumb|Alabama's 6th congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 6th congressional district (2027–).map|text=Interactive map version}}]]
+The 6th district encompasses the central part of the state near [[Birmingham metropolitan area, Alabama|Greater Birmingham]], taking in the northeastern parts of the city of [[Birmingham, Alabama|Birmingham]] and [[Jefferson County, Alabama|Jefferson County]], as well as the surrounding suburbs. The incumbent is Republican [[Gary Palmer (politician)|Gary Palmer]], who was re-elected with 70.3% of the vote in 2024.<ref name="HPVT"/>
+
+In the legislature-approved redistricted map, the only change to the 6th district was that half of Elmore County was ceded to the 2nd district.<ref name=arise/>
+
+===Nonbinding Republican primary===
+====Nominee====
+*[[Gary Palmer (politician)|Gary Palmer]], incumbent U.S. representative<ref>{{cite news |last1=Poor |first1=Jeff |title=Gary Palmer to seek seventh term in 2026: Report |url=https://1819news.com/news/item/gary-palmer-to-seek-seventh-term-in-2026-report |access-date=March 20, 2025 |work=[[1819 News]] |date=March 20, 2025}}</ref>
+
+====Eliminated in primary====
+*Case Dixon, physical therapist assistant<ref>{{Cite news|url=https://www.al.com/politics/2025/06/25-year-old-husband-father-challenging-six-term-alabama-congressman-in-gop-primary.html|title=25-year-old husband, father challenging six-term Alabama congressman in GOP primary|last=Cason|first=Mike|work=[[AL.com]]|date=June 3, 2025|access-date=June 7, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Case Dixon
+| list =
+;Organizations
+*[[National Federation of Republican Assemblies|Alabama Republican Assembly]]<ref>{{cite web|url=https://www.alreporter.com/2026/02/25/alabama-republican-assembly-endorses-case-dixon-in-cd6/|title=Alabama Republican Assembly endorses Case Dixon in CD6|last=Jobin|first=Alex|date=February 25, 2026|access-date=April 26, 2026|website=[[Alabama Political Reporter]]}}</ref>
+*[[Republican Liberty Caucus]]<ref>{{cite web|url=https://www.alreporter.com/2026/03/10/republican-liberty-caucus-endorses-case-dixon-in-cd6/|title=Republican Liberty Caucus endorses Case Dixon in CD6|last=Jobin|first=Alex|date=March 10, 2026|access-date=April 26, 2026|website=[[Alabama Political Reporter]]}}</ref>
+}}
+
+{{Endorsements box
+| title = Gary Palmer
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref name="ForReelect"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Alabama Realtors PAC]]<ref name="ALRealtors"/>
+*[[NRA Political Victory Fund]]<ref name="NRA"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Case Dixon (R)
+|$18,878{{efn|$8,600 of this total was self-funded by Dixon.}}
+|$15,040
+|$3,838
+|-
+|{{party shading/Republican}}|Gary Palmer (R)
+|$708,577
+|$494,035
+|$367,781
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Alabama 6th |url=https://www.fec.gov/data/elections/house/AL/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Gary Palmer (politician)|Gary Palmer]] (incumbent)
+ | votes=59,078
+ | percentage=80.8}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Case Dixon
+ | votes=14,054
+ | percentage=19.2}}
+{{Election box total no change
+ | votes=73,132
+ | percentage=100.0}}
+{{Election box end}}
+
+===Nonbinding Democratic primary===
+====Nominee====
+*Keith Pilkington, nurse<ref name="ALDailyAugList"/>
+
+====Withdrawn====
+*Elizabeth Anderson, businesswoman and nominee for this district in [[2024 United States House of Representatives elections in Alabama#District 6|2024]]<ref>{{Cite web|url=https://www.facebook.com/voteforelizabethanderson/posts/pfbid05BPwCquuTRpPUNH6Ez66xbEVCBw9qr9QjNcbm8a29NgMrwTymcZrVuj8cbsYDxafl|title=Elizabeth Anderson for Congress's Post|last=Anderson|first=Elizabeth|work=Elizabeth Anderson for Congress|publisher=Facebook|date=January 6, 2026|access-date=February 8, 2026|quote=I wanted to share a personal update.  I have made the difficult decision not to run this year.  As many of you know, I had planned to and made preparations to do so.  But over the past few months, my commitments as a business owner and mom have increased significantly, and I am not able to take on a campaign this year.}}</ref>
+
+===Special Republican primary===
+====Nominee====
+*[[Gary Palmer]], incumbent U.S. representative<ref>{{cite web |title=Special Congressional Election Qualified Candidates |url=https://algop.org/special-congressional-election-qualified-candidates/ |website=Alabama Republican Party |access-date=21 May 2026}}</ref>
+====Eliminated in primary====
+*Case Dixon, physical therapist assistant and candidate in the May primary election<ref>{{cite web |last1=Fogel |first1=Apryl Marie |title=Dixon, Palmer qualify for CD-6 special primary election |url=https://1819news.com/news/item/dixon-palmer-qualify-for-cd-06-special-primary-election |website=1819 News |access-date=22 May 2026 |date=May 22, 2026}}</ref>
+
+====Results====
+{{Election box begin no change
+ | title=Special Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Gary Palmer]] (incumbent)
+ | votes=24,497
+ | percentage=87.0}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Case Dixon
+ | votes=3,672
+ | percentage=13.0}}
+{{Election box total no change
+ | votes=28,169
+ | percentage=100.0}}
+{{Election box end}}
+
+===Special Democratic primary===
+====Nominee====
+*Maurice Mercer, former [[Pelham, Alabama|Pelham]] City Council president<ref name="ALReflectorQ"/>
+
+====Eliminated in primary====
+*Jacob Bouma-Sims, community organizer<ref name="ALReflectorQ">{{cite web |last1=Tinker |first1=Andrea |title=As litigation continues, 21 candidates qualify for August Alabama congressional primaries |url=https://alabamareflector.com/2026/05/22/as-litigation-continues-21-candidates-qualify-for-august-alabama-congressional-primaries/ |website=Alabama Reflector |access-date=23 May 2026 |date=May 22, 2026}}</ref>
+*Ashtyn Kennedy, substitute teacher<ref name="ALReflectorQ"/>
+*Keith Pilkington, nurse and nominee in the May primary election<ref>{{cite web |title=August 11 Special Primary Election Candidates |url=https://aldemocrats.org/august-11-special-primary-election-candidates |website=Alabama Democrats |access-date=21 May 2026}}</ref>
+
+{{Endorsements box
+| title = Ashtyn Kennedy
+| list =
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+====Results====
+{{Election box begin no change
+ | title=Special Democratic primary results}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Maurice Mercer
+ | votes=5,405
+ | percentage=64.2}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Ashtyn Kenendy
+ | votes=1,796
+ | percentage=21.3}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Keith Pilkington
+ | votes=612
+ | percentage=7.3}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Jacob Bouma-Sims
+ | votes=607
+ | percentage=7.2}}
+{{Election box total no change
+ | votes=8,420
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ">{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=April 26, 2026 |website=[[The Economist]] |language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|April 24, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|R|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Maurice Mercer (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref>{{Cite Facebook |user=AlaAFLCIO |postid=pfbid02w1kUUzKtJ9czK1PdKR7UExzG9CPxjqcBtGtZPd7PKKMhr1auhjcsYkaiTDvonjQWl |title=Alabama AFL-CIO - Maurice Mercer Endorsement |date=2026-08-18 |access-date=2026-10-27}}</ref>
+}}
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 6th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Gary Palmer]] (incumbent)
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Maurice Mercer
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Alabama's 7th congressional district election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Alabama#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Alabama#District 7
+| next_year = 2028
+| image1 = Terri Sewell official photo.jpg
+| nominee1 = [[Terri Sewell]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Ammie Akin
+| party2 = Republican Party (United States)
+| popoular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Terri Sewell]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Alabama's 7th congressional district}}
+[[File:Alabama's 7th congressional district (since 2027) (new version).svg|thumb|Alabama's 7th congressional district boundary from the 2026 elections<br>{{maplink|from=Alabama's 7th congressional district (2027–).map|text=Interactive map version}}]]
+The 7th district encompasses the west-central part of the state in the [[Black Belt (region of Alabama)|Black Belt]], including the cities of [[Demopolis, Alabama|Demopolis]], [[Greensboro, Alabama|Greensboro]], and [[Selma, Alabama|Selma]], as well as taking in majority-black areas of [[Birmingham, Alabama|Birmingham]] and [[Tuscaloosa, Alabama|Tuscaloosa]]. The incumbent is Democrat [[Terri Sewell]], who was re-elected with 63.7% of the vote in 2024.<ref name="HPVT"/>
+
+In the legislature-approved redistricted map, the 7th district gained Monroe and Conecuh counties from the 1st district, while ceding Lowndes County to the 2nd district.<ref name=arise/>
+
+===Nonbinding Democratic primary===
+====Nominee====
+*[[Terri Sewell]], incumbent U.S. representative<ref name="FiguresSewell"/>
+
+====Endorsements====
+{{Endorsements box
+| title = Terri Sewell
+| list =
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+
+;Organizations
+*[[Alabama Realtors PAC]]<ref name="ALRealtors"/>
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Terri Sewell (D)
+|$1,514,475
+|$1,339,437
+|$3,650,598
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Alabama 7th |url=https://www.fec.gov/data/elections/house/AL/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 20, 2026}}</ref></small>
+|}
+
+===Special Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Terri Sewell]], incumbent U.S. representative<ref>{{cite web |last1=Smith |first1=Ruth Serven |title=Black Democrat facing two Alabama primary elections in one year vows to fight for House seat |url=https://www.al.com/politics/2026/05/black-democrat-facing-two-alabama-primary-elections-in-one-year-vows-to-fight-for-house-seat.html |website=AL.com |access-date=14 May 2026 |date=May 14, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Terri Sewell
+| list =
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-terri-sewell-for-alabamas-seventh-district|title=U.S. Chamber Endorses Rep. Terri Sewell for Alabama’s Seventh District|date=August 11, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+===Special Republican primary===
+====Candidates====
+=====Nominee=====
+*Ammie Akin, educator<ref name="1819List"/>
+
+=====Eliminated in primary=====
+*David Perry, nominee for the [[Alabama State Board of Education|state board of education]]'s 5th district in [[2024 Alabama State Board of Education election#District 5|2024]]<ref name="1819List"/>
+
+====Results====
+{{Election box begin no change
+ | title=Special Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Ammie Akin
+ | votes=9,316
+ | percentage=73.4}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=David Perry
+ | votes=3,381
+ | percentage=26.6}}
+{{Election box total no change
+ | votes=12,697
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+|April 24, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title = Terri Sewell (D)
+| list =
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFL-CIO" />
+*[[National Education Association]]<ref name="NEA" />
+*[[United Mine Workers of America]] COMPAC<ref name="UMWA" />
+}}
+
+====Results====
+{{Election box begin no change
+ | title=2026 Alabama's 7th congressional district election
+}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=[[Terri Sewell]] (incumbent)
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Ammie Akin
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+<references>
+
+<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |language=en-US |access-date=August 8, 2025}}</ref>
+
+</references>
+
+== External links ==
+;Official campaign websites for 1st district candidates
+* [https://jerrycarlforcongress.com/ Jerry Carl (R)]
+* [https://clydeforcongress.com/ Clyde Jones (D)]
+
+;Official campaign websites for 2nd district candidates
+* [https://www.figuresforcongress.com/ Shomari Figures (D)]
+*  [https://rhettforalabama.com/ Rhett Marques (R)]
+
+;Official campaign websites for 3rd district candidates
+* [https://leemcinnis4alabama.com/ Lee McInnis (D)]
+* [https://www.mikerogersforcongress.com/ Mike Rogers (R)]
+
+;Official campaign websites for 4th district candidates
+* [https://aderholtforcongress.org/ Robert Aderholt (R)]
+* [https://citizensforapusczek.com/ Amanda Pusczek (D)]
+
+;Official campaign websites for 5th district candidates
+* [https://www.sneedforcongress.com/ Andrew Sneed (D)]
+* [https://www.dalestrongforcongress.com/ Dale Strong (R)]
+
+;Official campaign websites for 6th district candidates
+* [https://www.mauricemercer.com/ Maurice Mercer (D)]
+* [https://palmerforalabama.com/ Gary Palmer (R)]
+
+;Official campaign websites for 7th district candidates
+* [https://www.akinforcongress.com/ Ammie Akin (R)]
+* [https://sewellforcongress.com/ Terri Sewell (D)]
+
+{{2026 United States elections}}
+{{Elections in Alabama footer}}
+
+[[Category:2026 elections in Alabama|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Alabama]]
+[[Category:United States House of Representatives elections in Alabama]]

@@ -1,0 +1,1 @@
+[{"component": "Nationwide (shared by every race)", "sd_points": 3.0}, {"component": "Region (Northeast, Midwest, South, West)", "sd_points": 1.5}, {"component": "State (shared by races in a state)", "sd_points": 2.8}, {"component": "Race-level floor", "sd_points": 0.8}, {"component": "One poll (shrinks with more polls)", "sd_points": 8.5}]

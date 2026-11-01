@@ -1,0 +1,1022 @@
+{{short description|none}}
+{{Use mdy dates|date=March 2025}}
+{{use American English|date=March 2025}}
+
+{{for|related races|2026 United States House of Representatives elections}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Mississippi
+| country = Mississippi
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Mississippi
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Mississippi
+| next_year = 2028
+| seats_for_election = All 4 Mississippi seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''3'''
+| seats1 = '''3'''
+| party2 = Democratic Party (United States)
+| last_election2 = 1
+| seats2 = 1
+| seat_change1 = 
+| seat_change2 = 
+| map_image = <!-- Please keep these maps hidden until election day. {{switcher |[[File:2026 United States House of Representatives elections in Mississippi results map.svg|175px]] |District results |[[File:2026 United States House of Representatives elections in Mississippi results map by county.svg|175px]] |County results}}-->
+| map_caption =
+}}
+{{ElectionsMS}}
+The '''2026 United States House of Representatives elections in Mississippi''' will be held on November 3, 2026 to elect the four [[U.S. representative]]s from the [[U.S. state|state]] of [[Mississippi]], one from all four of the state's [[Mississippi congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on March 10, 2026, and in races where no candidate received over 50% in a primary, runoff elections took place on April 7, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>{{Update inline|date=July 2026}}
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Republican 
+! style="width:100px;" |Democratic 
+! Undecided
+|-
+|style="text-align:left;"|Data for Progress (D)<ref>{{cite web |title=Data for Progress August poll |url=https://www.filesforprogress.org/datasets/2026/8/dfp_ms_ge26_aug2026_crosstabs.pdf |publisher=Data for Progress |access-date=August 28, 2026}}</ref>{{efn-ua|Poll sponsored by Way to Lead PAC, which supports Democrats}}
+|August 5–15, 2026
+|1,018 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''52%'''
+|42%
+|6%
+|}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Mississippi's 1st congressional district
+| country = Mississippi
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Mississippi#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Mississippi#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Trent Kelly, Official Portrait, 115th Congress (cropped).jpg
+| nominee1 = [[Trent Kelly]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Cliff Johnson
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. representative
+| before_election = [[Trent Kelly]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party =
+}}
+{{see also|Mississippi's 1st congressional district}}
+The 1st district takes in the northeastern area of the state, including [[Columbus, Mississippi|Columbus]], [[Oxford, Mississippi|Oxford]], [[Southaven, Mississippi|Southaven]], and [[Tupelo, Mississippi|Tupelo]]. The incumbent is Republican [[Trent Kelly]], who was re-elected with 69.8% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Trent Kelly]], incumbent U.S. representative<ref name="OleMiss2">{{cite web |last1=Corder |first1=Frank |title=Ole Miss professor joins growing Democrat field in Mississippi's 1st Congressional District |url=https://www.enterprise-tocsin.com/ole-miss-professor-joins-growing-democrat-field-mississippis-1st-congressional-district-68e54b5343f4b |access-date=October 28, 2025 |work=[[Magnolia Tribune]] |publisher=[[The Enterprise-Tocsin]] |date=October 7, 2025 |quote=The incumbent Republican is seeking his sixth full two-year term.}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Trent Kelly|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name=EndTrack>{{cite web|url=https://votehub.com/2026-endorsements|title=2026 Endorsement Tracker|date=January 8, 2026 |access-date=January 27, 2026}}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 12, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Trent Kelly (R)
+|$663,954
+|$534,837
+|$737,975
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Mississippi 1st |url=https://www.fec.gov/data/elections/house/MS/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Trent Kelly]] (incumbent)
+| party = Republican Party (United States)
+| votes = 35,490
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 35,490
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Cliff Johnson, director of the MacArthur Justice Center at the [[University of Mississippi School of Law]]<ref>{{cite web |last1=Harrison |first1=Heather |title=Democrat Cliff Johnson Vows to Fight for Vulnerable Mississippians in Run for Congress Against Trent Kelly |url=https://www.mississippifreepress.org/democrat-cliff-johnson-vows-to-fight-for-vulnerable-mississippians-in-run-for-congress-against-trent-kelly/ |access-date=October 2, 2025 |work=[[Mississippi Free Press]] |date=October 2, 2025}}</ref>
+
+====Eliminated in primary====
+*[[Kelvin Buck]], former mayor of [[Holly Springs, Mississippi|Holly Springs]] (2013–2021) and former [[Mississippi House of Representatives|state representative]] from the 5th district (2004–2013)<ref name=":1">{{cite web |last1=Corder |first1=Frank |title=Congressional midterms taking shape in Mississippi |url=https://magnoliatribune.com/2025/09/19/congressional-midterms-taking-shape-in-mississippi/ |access-date=September 24, 2025 |work=Magnolia Tribune |date=September 19, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Cliff Johnson|list=
+;U.S. representatives
+*[[Bennie Thompson]], [[Mississippi's 2nd congressional district|MS-02]] (1993–present)<ref name=EndTrack/>
+
+;State legislators
+*[[Theresa Gillespie Isom]], state senator from the [[Mississippi State Senate|2nd district]] (2025–present)<ref name="desoto251127">{{cite web |title=Cliff Johnson receives endorsements from key Mississippi Democrats |url=https://desotocountynews.com/mississippi-news/cliff-johnson-receives-endorsements-from-key-mississippi-democrats |access-date=November 27, 2025}}</ref>
+
+;Labor unions
+*Mississippi [[AFL-CIO]]<ref name="AFLCIO">{{cite web |title=AFL-CIO Mississippi |url=https://bluevoterguide.org/endorser-org/Mississippi_AFL-CIO/MS/2205 |website=Blue Voter Guide |access-date=9 August 2026}}</ref>
+
+;Organizations
+*[[Indivisible movement|Indivisible]] DeSoto<ref>{{cite web |last1=Bakken |first1=Bob |title=Indivisible DeSoto MS activist group endorses Colom, Johnson ahead of primaries |url=https://desotocountynews.com/mississippi-news/indivisible-desoto-ms-activist-group-endorses-colom-johnson-ahead-of-primaries/ |website=Desoto County News |access-date=5 March 2026 |date=5 January 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kelvin Buck (D){{Efn|As last reported on December 31, 2025}}
+|$29,190
+|$15,675
+|$13,514
+|-
+|{{party shading/Democratic}}|Cliff Johnson (D)
+|$304,590
+|$239,300
+|$65,290
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+[[File:2026 Mississippi's 1st congressional district Democratic primary election results map by county.svg|thumb|200px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Johnson}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Buck}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Cliff Johnson
+| party = Democratic Party (United States)
+| votes = 18,051
+| percentage = 63.4
+}}
+{{Election box candidate with party link no change
+| candidate = [[Kelvin Buck]]
+| party = Democratic Party (United States)
+| votes = 10,426
+| percentage = 36.6
+}}
+{{Election box total no change
+| votes = 28,477
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Declared====
+*Johnny Baucom, health and safety technician<ref>{{cite news |last1=Anhuci |first1=Bea |title=Meet US Congress candidates running in Mississippi primary election |url=https://www.clarionledger.com/story/news/politics/elections/2026/02/26/us-congress-election-2026-mississippi-candidates/88840574007/ |access-date=March 2, 2026 |work=[[The Clarion-Ledger]] |date=February 26, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Trent Kelly (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-trent-kelly-for-mississippis-first-district|title=U.S. Chamber Endorses Rep. Trent Kelly for Mississippi’s First District|date=August 19, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Trent Kelly (R)
+|$1,004,204
+|$749,398
+|$863,664
+|-
+|{{party shading/Democratic}}| Cliff Johnson (D)
+|$551,243
+|$401,598
+|$149,644
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Mississippi |url=https://www.fec.gov/data/elections/house/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Mississippi's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Trent Kelly (politician)|Trent Kelly]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Cliff Johnson 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Mississippi's 2nd congressional district
+| country = Mississippi
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Mississippi#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Mississippi#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Bennie Thompson 118th Congress (cropped).jpeg
+| nominee1 = [[Bennie Thompson]]
+| party1 = Democratic Party (United States)
+| popular_vote1 =
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Ron Eller
+| party2 = Republican Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Bennie Thompson]]
+| before_party = Democratic Party (United States)
+| after_election =
+| after_party = 
+}}
+{{see also|Mississippi's 2nd congressional district}}
+The 2nd district encompasses the [[Mississippi Delta]], taking in most of [[Jackson, Mississippi|Jackson]], the riverfront cities of [[Greenville, Mississippi|Greenville]], [[Natchez, Mississippi|Natchez]] and [[Vicksburg, Mississippi|Vicksburg]], and the interior market cities of [[Clarksdale, Mississippi|Clarksdale]], [[Greenwood, Mississippi|Greenwood]] and [[Clinton, Mississippi|Clinton]]. The incumbent is Democrat [[Bennie Thompson]], who was re-elected with 62.0% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Bennie Thompson]], incumbent U.S. representative<ref>{{cite news |last1=Solender |first1=Andrew |title=Scoop: House Democrats' oldest members mostly running again despite youth revolt |url=https://www.axios.com/2025/05/15/house-democrats-age-members-reelection-biden |access-date=May 14, 2025 |work=[[Axios (website)|Axios]] |date=May 14, 2025 |language=en}}</ref>
+====Eliminated in primary====
+*Evan Turnage, antitrust lawyer<ref>{{cite web |last1=Hill |first1=Don |title=Evan Turnage enters Democratic primary for Mississippi’s 2nd District |url=https://www.vicksburgpost.com/news/evan-turnage-enters-democratic-primary-for-mississippis-2nd-district-576f202d |access-date=December 17, 2025 |work=[[The Vicksburg Post]] |date=December 17, 2025}}</ref>
+*Pertis Herman Williams III, logistics professional<ref>{{Cite web |last=Vance |first=Taylor |date=2025-12-29 |title=Democratic and Republican candidates running for Congress in 2026 |url=https://mississippitoday.org/2025/12/29/democratic-and-republican-candidates-running-for-congress-in-2026/ |access-date=2026-01-05 |website=Mississippi Today |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Bennie Thompson
+|list=
+;Local officials
+*[[John Horhn]], mayor of [[Jackson, Mississippi|Jackson]] (2025–present) and former [[Mississippi Senate|state senator]] from the 26th district (1993–2025)<ref name="Horhn">{{cite web |last1=Goldberg |first1=Michael |title=Democratic challenger targets Bennie Thompson’s long tenure in ad ahead of March primary |url=https://www.newsfromthestates.com/article/democratic-challenger-targets-bennie-thompsons-long-tenure-ad-ahead-march-primary |website=News From The States |access-date=9 August 2026 |date=February 17, 2026}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Endorses Rep. Bennie Thompson for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-rep-bennie-thompson-for-reelection-to-congress/ |website=AFGE |access-date=9 August 2026 |date=March 4, 2026}}</ref>
+
+;Organizations
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Bennie Thompson (D)
+|$497,949
+|$579,555
+|$1,544,559
+|-
+|{{party shading/Democratic}}|Evan Turnage (D)
+|$204,403
+|$164,697
+|$39,705
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Mississippi 2nd |url=https://www.fec.gov/data/elections/house/MS/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Mississippi's 2nd congressional district Democratic primary election results map by county.svg|thumb|150px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Thompson}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+|{{legend|#0d0596|90–100%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Bennie Thompson]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 64,334
+| percentage = 86.4
+}}
+{{Election box candidate with party link no change
+| candidate = Evan Turnage
+| party = Democratic Party (United States)
+| votes = 9,249
+| percentage = 12.4
+}}
+{{Election box candidate with party link no change
+| candidate = Pertis Herman Williams III
+| party = Democratic Party (United States)
+| votes = 917
+| percentage = 1.2
+}}
+{{Election box total no change
+| votes = 74,500
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Ron Eller, physician assistant and nominee for this district in [[2024 United States House of Representatives elections in Mississippi#District 2|2024]]<ref name=":0">{{Cite web |last=Staff |first=WLOX |date=2025-12-27 |title=MS candidates file for federal election qualification |url=https://www.wtok.com/2025/12/27/ms-candidates-file-federal-election-qualification/ |access-date=2026-01-12 |website=WTOK |language=en}}</ref>
+
+====Eliminated in primary====
+*Kevin Wilson, president of the [[Adams County, Mississippi|Adams County]] Board of Supervisors<ref>{{cite web |last1=Griffey |first1=Jan |title=Adams County Supervisor Kevin Wilson running for Congress in Mississippi’s 2nd District |url=https://www.natchezdemocrat.com/news/adams-county-supervisor-kevin-wilson-running-for-congress-in-mississippis-2nd-district-cad52903 |access-date=December 14, 2025 |work=[[The Natchez Democrat]] |date=December 13, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ron Eller (R)
+|$21,612
+|$21,318
+|$37,023
+|-
+|{{party shading/Republican}}|Kevin Wilson (R){{Efn|As last reported on December 31, 2025}}
+|$55,676
+|$39,678
+|$15,997
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+[[File:2026 Mississippi's 2nd congressional district Republican primary election results map by county.svg|thumb|150px|Results by county
+{{collapsible list
+| title = {{legend|#e27f7f|Eller}}
+|{{legend|#e27f7f|50–60%}}
+|{{legend|#d75d5d|60–70%}}
+|{{legend|#d72f30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Wilson}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+|{{legend|#D69850|70–80%}}
+|{{legend|#B98A35|80–90%}}
+|{{legend|#9D7700|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Ron Eller
+| party = Republican Party (United States)
+| votes = 12,881
+| percentage = 51.1
+}}
+{{Election box candidate with party link no change
+| candidate = Kevin Wilson
+| party = Republican Party (United States)
+| votes = 12,337
+| percentage = 48.9
+}}
+{{Election box total no change
+| votes = 25,218
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*Bennie Foster, mentorship coach<ref name=":0" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Ron Eller (R)
+|list=
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCR4">{{cite web |title=Log Cabin Republicans PAC Announces Fourth Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-fourth-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=8 August 2026 |date=August 4, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Bennie Thompson (D)
+|list=
+;Organizations
+*[[Southern Poverty Law Center]] Action Fund<ref name="SPLC">{{cite web |last1=Corder |first1=Frank |title=Thompson endorsed by SPLC Action Fund |url=https://www.columbianprogress.com/thompson-endorsed-splc-action-fund-69f0e01fdf45c |website=Columbian Progress |access-date=9 August 2026 |date=April 28, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Bennie Thompson (D)
+|$770,970
+|$947,613
+|$1,449,521
+|-
+|{{party shading/Republican}}| Ron Eller (R)
+|$45,389
+|$46,245
+|$35,873
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Mississippi |url=https://www.fec.gov/data/elections/house/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Mississippi's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Bennie Thompson]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Ron Eller 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Mississippi's 3rd congressional district
+| country = Mississippi
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Mississippi#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Mississippi#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = Michael Guest, official portrait, 116th Congress (cropped 2).jpg
+| nominee1 = [[Michael Guest (politician)|Michael Guest]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Michael Chiaradio
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. representative
+| before_election = [[Michael Guest (politician)|Michael Guest]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party =
+}}
+{{see also|Mississippi's 3rd congressional district}}
+The 3rd district is located in eastern and southwestern Mississippi, taking in [[Meridian, Mississippi|Meridian]], [[Starkville, Mississippi|Starkville]], [[Pearl, Mississippi|Pearl]], [[Brookhaven, Mississippi|Brookhaven]], and most of the wealthier portions of [[Jackson, Mississippi|Jackson]], including the portion of the city located in [[Rankin County, Mississippi|Rankin County]]. The incumbent is Republican [[Michael Guest (politician)|Michael Guest]], who was re-elected unopposed in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Michael Guest (politician)|Michael Guest]], incumbent U.S. representative<ref name="MSinc">{{cite news |last1=Vance |first1=Taylor |title=Field grows for Mississippi congressional midterm elections |url=https://www.yazooherald.net/field-grows-mississippi-congressional-midterm-elections-68e71096582dd |access-date=11 October 2025 |work=Mississippi Today |publisher=The Yazoo Herald |date=October 8, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Michael Guest|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name=EndTrack/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michael Guest (R)
+|$624,846
+|$320,543
+|$815,649
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Mississippi 3rd |url=https://www.fec.gov/data/elections/house/MS/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Michael Guest (politician)|Michael Guest]] (incumbent)
+| party = Republican Party (United States)
+| votes = 44,553
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 44,553
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Michael Chiaradio, regenerative farmer<ref>{{cite web |last1=Corder |first1=Frank |title=Congressman Guest draws Democrat challenger in 3rd District midterm race |url=https://magnoliatribune.com/2025/09/24/congressman-guest-draws-democrat-challenger-in-3rd-district-midterm-race/ |access-date=September 24, 2025 |work=Magnolia Tribune |date=September 24, 2025}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Michael Chiaradio (D)
+|$78,784
+|$68,463
+|$10,321
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = Michael Chiaradio
+| party = Democratic Party (United States)
+| votes = 25,902
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 25,902
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Declared====
+*Erik Kiehle, property manager<ref>{{cite web |title=Candidate Qualifying List|url=https://sos.ms.gov/content/CandidateQualifying/default.aspx |website=sos.ms.gov/content/CandidateQualifying/default.aspx|publisher=Mississippi Secretary of State|access-date=January 16, 2026}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Michael Guest (R)
+|$822,760
+|$371,591
+|$962,515
+|-
+|{{party shading/Democratic}}| Michael Chiaradio (D)
+|$155,399
+|$132,190
+|$23,208
+|-
+|{{party shading/Libertarian}}| Erik Kiehle (L)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Mississippi |url=https://www.fec.gov/data/elections/house/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Mississippi's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Michael Guest (politician)|Michael Guest]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Michael Chiaradio 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Erik Kiehle 
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Mississippi's 4th congressional district
+| country = Mississippi
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Mississippi#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Mississippi#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Rep. Mike Ezell official photo (cropped).jpg
+| nominee1 = [[Mike Ezell]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = Rep. Jeffrey Hulum III (cropped).jpg
+| nominee2 = [[Jeffrey Hulum III]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 =
+| map_image = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mike Ezell]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party =
+}}
+{{see also|Mississippi's 4th congressional district}}
+The 4th district encompasses the [[Mississippi Gulf Coast]], including [[Gulfport, Mississippi|Gulfport]], [[Biloxi, Mississippi|Biloxi]], [[Hattiesburg, Mississippi|Hattiesburg]], [[Bay St. Louis, Mississippi|Bay St. Louis]], [[Laurel, Mississippi|Laurel]], and [[Pascagoula, Mississippi|Pascagoula]]. The incumbent is Republican [[Mike Ezell]], who was elected with 73.9% of the vote in 2022.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+* [[Mike Ezell]], incumbent U.S. representative<ref name="EzellWalters">{{cite news |last1=Corder |first1=Frank |title=Ezell draws GOP challenger in 4th Congressional District |url=https://magnoliatribune.com/2025/09/29/ezell-draws-gop-challenger-in-4th-congressional-district/ |access-date=September 29, 2025 |work=Magnolia Tribune |date=September 29, 2025}}</ref>
+====Eliminated in primary====
+* Sawyer Walters, former congressional staffer<ref name="EzellWalters" />
+
+====Endorsements====
+{{Endorsements box
+| title = Mike Ezell
+| list =
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Corder |first1=Frank |title=Trump endorses Ezell's midterm re-election bid |url=https://magnoliatribune.com/2025/10/27/trump-endorses-ezells-midterm-re-election-bid/ |access-date=October 28, 2025 |work=[[Magnolia Tribune]] |date=October 27, 2025}}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mike Ezell (R)
+|$711,271
+|$754,494
+|$108,241
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Mississippi 4th |url=https://www.fec.gov/data/elections/house/MS/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+[[File:2026 Mississippi's 4th congressional district Republican primary election results map by county.svg|thumb|160px|Results by county
+{{collapsible list
+| title = {{legend|#e27f7f|Ezell}}
+|{{legend|#c21b18|80–90%}}
+|{{legend|#a80000|90–100%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Mike Ezell]] (incumbent)
+| party = Republican Party (United States)
+| votes = 39,564
+| percentage = 84.1
+}}
+{{Election box candidate with party link no change
+| candidate = Sawyer Walters
+| party = Republican Party (United States)
+| votes = 7,484
+| percentage = 15.9
+}}
+{{Election box total no change
+| votes = 47,048
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+==== Nominee ====
+*[[Jeffrey Hulum III]], [[Mississippi House of Representatives|state representative]] from the 119th district (2022–present)<ref>{{cite news |title=State Rep. Jeffrey Hulum III announces run for congress |url=https://www.wxxv25.com/state-rep-jeffrey-hulum-iii-announces-run-for-congress/ |access-date=December 16, 2025 |work=[[WXXV]] |date=December 16, 2025}}</ref>
+
+==== Eliminated in primary ====
+*Paul Blackman, [[U.S. Navy]] veteran<ref>{{cite web |last1=Vance |first1=Taylor |title=Trump endorses Rep. Mike Ezell for reelection in 2026 |url=https://mississippitoday.org/2025/10/27/trump-endorses-rep-mike-ezell-for-reelection-in-2026/ |access-date=October 28, 2025 |work=[[Mississippi Today]] |date=October 27, 2025 |quote=Paul James Blackman, a political newcomer, announced he was running as a Democrat for the seat.}}</ref>
+*Ryan Grover, marketing consultant, graphic designer, and nominee for [[Lieutenant Governor of Mississippi|lieutenant governor]] in [[2023 Mississippi lieutenant gubernatorial election|2023]]<ref name=":0" />
+
+====Results====
+[[File:2026 Mississippi's 4th congressional district Democratic primary election results map by county.svg|thumb|160px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Hulum}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#584cde|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Blackman}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary results}}
+{{Election box winning candidate with party link no change
+| candidate = [[Jeffrey Hulum III]]
+| party = Democratic Party (United States)
+| votes = 11,046
+| percentage = 57.7
+}}
+{{Election box candidate with party link no change
+| candidate = Paul Blackman
+| party = Democratic Party (United States)
+| votes = 5,309
+| percentage = 27.7
+}}
+{{Election box candidate with party link no change
+| candidate = Ryan Grover
+| party = Democratic Party (United States)
+| votes = 2,799
+| percentage = 14.6
+}}
+{{Election box total no change
+| votes = 19,154
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Third-party candidates===
+====Declared====
+*Carl Boyanton, produce store owner and Republican candidate for this district in [[2020 United States House of Representatives elections in Mississippi#District 4|2020]], [[2022 United States House of Representatives elections in Mississippi#District 4|2022]] and [[2024 United States House of Representatives elections in Mississippi#District 4|2024]] (Independent)<ref name=":0" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=March 27, 2025}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Mike Ezell (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-mike-ezell-for-mississippis-fourth-district|title=U.S. Chamber Endorses Rep. Mike Ezell for Mississippi’s Fourth District|date=August 10, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Mike Ezell (R)
+|$990,105
+|$1,018,211
+|$123,359
+|-
+|{{party shading/Democratic}}| Jeffrey Hulum III (D)
+|$29,045
+|$22,863
+|$6,534
+|-
+|{{party shading/Independent}}| Carl Boyanton (I)
+|$43,526
+|$1,681
+|$41,844
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - Mississippi |url=https://www.fec.gov/data/elections/house/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 Mississippi's 4th congressional district election}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Mike Ezell]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Jeffrey Hulum III]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent Party (United States)|candidate=Carl Boyanton|votes=|percentage=|change=}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==See also==
+*[[Elections in Mississippi]]
+*[[Political party strength in Mississippi]]
+*[[Mississippi Democratic Party]]
+*[[Mississippi Republican Party]]
+*[[Government of Mississippi]]
+*[[2026 United States Senate election in Mississippi]]
+*[[2026 United States House of Representatives elections]]
+*[[2026 United States elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.cliffjohnsonforcongress.com/ Cliff Johnson (D)]
+*[https://kellyformississippi.com/ Trent Kelly (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.voteroneller.com/ Ron Eller (R)]
+*[https://www.electbenniefoster.com/ Bennie Foster (I)]
+*[https://benniethompson.com/ Bennie Thompson (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://michaelachiaradio.com/ Michael Chiaradio (D)]
+*[https://michaelguest.ms/ Michael Guest (R)]
+*[https://kiehle4congress.us/ Erik Kiehle (L)]
+
+;Official campaign websites for 4th district candidates
+*[https://carl4congress.com/ Carl Boyanton (I)]
+*[https://www.mikeezell.ms/ Mike Ezell (R)]
+*[https://www.jeffreyhulumiiiforcongress.com/ Jeffrey Hulum III (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Mississippi|2026]]
+[[Category:2026 elections in Mississippi|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Mississippi]]

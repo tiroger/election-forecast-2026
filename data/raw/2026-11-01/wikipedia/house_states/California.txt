@@ -1,0 +1,777 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Use mdy dates|date=September 2026}}
+{{use American English|date=November 2024}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in California
+| country = California
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in California
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in California
+| next_year = 2028
+| seats_for_election = All 52 California seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = '''43'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Republican Party (United States)
+| last_election2 = 9
+| seats2 = 
+| seat_change2 = 
+| map = <!-- Please keep this map hidden until election day. {{switcher
+| [[file:2026 United States House of Representatives elections in California results map by county.svg|290px]]
+| County results}}-->
+| map_caption = 
+| party3 = Independent politician
+| last_election3 = 0
+| seats_before3 = 1
+| seats_before2 = 8
+| seats_before1 = '''43'''
+}}
+{{Elections in California}}
+[[File:California Congressional Districts, 120th Congress (upon Approval of Prop 50 (2025)) (new version).svg|270px|thumb|right|Passed map under [[2025 California Proposition 50|California Proposition 50]] (effective 2027–2033 starting with the 2026 elections)<br/>{{maplink|from1=California's 1st congressional district (2027–).map|from2=California's 2nd congressional district (2027–).map|from3=California's 3rd congressional district (2027–).map|from4=California's 4th congressional district (2027–).map|from5=California's 5th congressional district (2027–).map|from6=California's 6th congressional district (2027–).map|from7=California's 7th congressional district (2027–).map|from8=California's 8th congressional district (2027–).map|from9=California's 9th congressional district (2027–).map|from10=California's 10th congressional district (2027–).map|from11=California's 11th congressional district (2027–).map|from12=California's 12th congressional district (2027–).map|from13=California's 13th congressional district (2027–).map|from14=California's 14th congressional district (2027–).map|from15=California's 15th congressional district (2027–).map|from16=California's 16th congressional district (2027–).map|from17=California's 17th congressional district (2027–).map|from18=California's 18th congressional district (2027–).map|from19=California's 19th congressional district (2027–).map|from20=California's 20th congressional district (2027–).map|from21=California's 21st congressional district (2027–).map|from22=California's 22nd congressional district (2027–).map|from23=California's 23rd congressional district (2027–).map|from24=California's 24th congressional district (2027–).map|from25=California's 25th congressional district (2027–).map|from26=California's 26th congressional district (2027–).map|from27=California's 27th congressional district (2027–).map|from28=California's 28th congressional district (2027–).map|from29=California's 29th congressional district (2027–).map|from30=California's 30th congressional district (2027–).map|from31=California's 31st congressional district (2027–).map|from32=California's 32nd congressional district (2027–).map|from33=California's 33rd congressional district (2027–).map|from34=California's 34th congressional district (2027–).map|from35=California's 35th congressional district (2027–).map|from36=California's 36th congressional district (2027–).map|from37=California's 37th congressional district (2027–).map|from38=California's 38th congressional district (2027–).map|from39=California's 39th congressional district (2027–).map|from40=California's 40th congressional district (2027–).map|from41=California's 41st congressional district (2027–).map|from42=California's 42nd congressional district (2027–).map|from43=California's 43rd congressional district (2027–).map|from44=California's 44th congressional district (2027–).map|from45=California's 45th congressional district (2027–).map|from46=California's 46th congressional district (2027–).map|from47=California's 47th congressional district (2027–).map|from48=California's 48th congressional district (2027–).map|from49=California's 49th congressional district (2027–).map|from50=California's 50th congressional district (2027–).map|from51=California's 51st congressional district (2027–).map|from52=California's 52nd congressional district (2027–).map|text=Interactive map version}}]]
+
+The '''2026 United States House of Representatives elections in California''' will be held on November 3, 2026, to elect the 52 [[U.S. representative]]s from the [[U.S. state|state]] of [[California]], one from each of the state's [[California's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The passage of [[2025 California Proposition 50|Proposition 50 in 2025]] significantly altered many districts. The primary elections took place on June 2, 2026.<ref>{{#invoke:cite|web|title=2026 California Primary |url=https://www.sos.ca.gov/elections/upcoming-elections/primary-election-june-2-2026 |access-date=September 24, 2025 |publisher=California Secretary of State}}</ref>
+
+==Redistricting==
+===Background===
+In November 2025, votes decisively approved a [[2025 California Proposition 50|constitutional amendment]] to allow for mid-decade redistricting and to instate a map that would have likely given Democrats 5 additional seats in the [[United States House of Representatives|House of Representatives]].<ref>{{cite web|url=https://elections.cdn.sos.ca.gov/sov/2025-special/sov/complete-sov.pdf|title=STATEMENT OF VOTE NOVEMBER 4, 2025, STATEWIDE SPECIAL ELECTION|website=[[California Secretary of State]]}}</ref> The map defined in Proposition 50 is a Democratic [[Gerrymandering in the United States|gerrymander]] intended to offset the [[2025 Texas redistricting|gerrymander by Texas Republicans]], both of which are part of the broader [[2025–2026 United States redistricting]] effort. It redraws several congressional districts to incorporate larger shares of urban and suburban Democratic voters, increasing Democratic registration advantages in competitive districts and converting several Republican-leaning seats into Democratic-leaning ones.<ref name="PoliticoLaunch">{{cite web |last1=White |first1=Jeremy |last2=Schultheis |first2=Emily |title='We can't stand back' — Gavin Newsom launches California gerrymander campaign |url=https://www.politico.com/news/2025/08/14/newsom-democrats-launch-california-redistricting-campaign-00509930 |website=Politico |date=August 14, 2025 |access-date=14 August 2025}}</ref> Republicans have responded to Proposition 50 with legislation, their own propositions, and litigation. Republicans challenged the proposition in court both before the election, as well as after it was passed by the voters, but their legal efforts were exhausted when the [[Supreme Court of the United States]] refused to hear the appeal.
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Overview==
+{{Table alignment}}
+{| class="wikitable col2left" style="font-size: 95%; text-align:right;"
+|-
+! colspan="7" | United States House of Representatives elections in California, 2026<br/>primary election — June 2, 2026
+|-
+! colspan=2 width=15em | Party
+! width=5em | Votes
+! width=5em | Percentage
+! width=5em | Candidates
+! width=5em | Advancing to general
+! width=5em | Seats contesting
+|-
+! style="color:inherit;background:{{party color|Democratic Party (US)}}; width:3px;"|
+| width=140px | [[Democratic Party (United States)|Democratic]]
+| 5,633,898
+| 63.83
+| 154
+| 59
+| 51
+|-
+! style="color:inherit;background:{{party color|Republican Party (US)}}; width:3px;"|
+| width=140px | [[Republican Party (United States)|Republican]]
+| 3,036,585
+| 34.40
+| 96
+| 44
+| 43
+|-
+! style="color:inherit;background:{{party color|No party preference}}; width:3px;"|
+| width=140px | [[No party preference]]
+| 136,016
+| 1.54
+| 32
+| 1
+| 1
+|-
+! style="color:inherit;background:{{party color|Peace and Freedom Party}}; width:3px;"|
+| width=140px | [[Peace and Freedom Party|Peace and Freedom]]
+| 8,764
+| 0.10
+| 2
+| 0
+| 0
+|-
+! style="color:inherit;background:{{party color|Libertarian Party (US)}}; width:3px;" |
+| width=140px | [[Libertarian Party (United States)|Libertarian]]
+| 8,725
+| 0.10
+| 4
+| 0
+| 0
+|-
+! style="color:inherit;background:{{party color|Green Party (US)}}; width:3px;"|
+| width=140px | [[Green Party (United States)|Green]]
+| 2,352
+| 0.03
+| 1
+| 0
+| 0
+|-
+|- style="color:inherit;background:#eee;"
+! colspan="2" align="center"| Total
+| 8,826,340
+| 100.00
+| 289
+| 104
+| —
+|}
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+!Margin<br />of error
+! style="width:100px;" |Democratic
+! style="width:100px;" |Republican
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref>{{cite web |title=Dems Remain in Charge in California Governor and US House Races; Lead for Proposition 39 Narrows, But Support for Proposition 40 Drops |url=https://results.surveyusa.com/client/PollReport.aspx?g=b118a915-559d-4669-b870-8a3eae933903 |website=[[SurveyUSA]] |access-date=October 28, 2026 |date=October 26, 2026}}</ref>{{efn-ua|name=KGTV}}
+|October 19–24, 2026
+|799 (LV)
+|±&nbsp;5.3%
+|{{party shading/Democratic}}|'''58%'''
+|32%
+|11%
+|-
+|style="text-align:left;"|M3 Strategies<ref>{{cite web |title=M3 Strategies 489 likely California voters  October 21 to 23, 2026 MOE = 4.4 % |url=https://x.com/m3strat/status/2115170176630948047 |publisher=[[Twitter]] |access-date=October 28, 2026 |date=October 27, 2026}}</ref>
+|October 21–23, 2026
+|489 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''61%'''
+|38%
+|1%
+|-
+|style="text-align: left;" |[[SurveyUSA]]<ref>{{cite web |title=Little Drama in California's Gubernatorial Election, Generic Congressional Ballot; Propositions 39 and 40 Show Yes Leading No By 8-10 Points: |url=https://results.surveyusa.com/client/PollReport.aspx?g=aa444494-3077-4ad2-a8ef-df17241474c5 |publisher=[[SurveyUSA]] |access-date=September 24, 2026 |date=September 21, 2026}}</ref>{{Efn-ua|name=KGTV|Poll sponsored by [[KGTV]] and ''[[The San Diego Union-Tribune]]''}}
+|September 15–20, 2026
+|742 (LV)
+|±&nbsp;4.6%
+| {{party shading/Democratic}} |'''58%'''
+|33%
+|10%
+|}
+
+==Districts 1–26==
+{{main|2026 United States House of Representatives elections in California (districts 1–26)}}
+
+{|class="wikitable sortable"
+|-
+!colspan=2 |District
+!colspan=4 |Incumbent
+!rowspan=2 class="unsortable" |Candidates
+|- style="vertical-align:bottom"
+!Location
+![[Cook Partisan Voting Index|2026<br>PVI]]
+!Member
+!Party
+!First<br>elected
+!Status
+|-
+!{{ushr|CA|1|X}}
+|{{shading PVI|D|7}}
+|{{sortname|James|Gallagher|dab=California politician}}
+|style="background-color:#FFB6B6" |Republican
+|[[2026 California's 1st congressional district special election|2026 {{small|(special)}}]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}[[James Gallagher (California politician)|James Gallagher]] (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Mike McGuire (politician)|Mike McGuire]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|2|X}}
+|{{shading PVI|D|13}}
+|{{sortname|Jared|Huffman}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|Incumbent advanced to general
+|{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Jared Huffman]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Robin Littau (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|3|X}}
+|{{shading PVI|D|6}}
+|{{sortname|Ami|Bera}}<br>{{small|Redistricted from the {{ushr|CA|6|C}}}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|Incumbent advanced to general
+|{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Ami Bera]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Robb Tucker (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|4|X}}
+|{{shading PVI|D|8}}
+|{{sortname|Mike|Thompson}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[1998 United States House of Representatives elections in California|1998]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}Eric Jones (Democratic)
+*{{Party stripe|Democratic Party (US)}}[[Mike Thompson]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|5|X}}
+|{{shading PVI|R|10}}
+|{{sortname|Tom|McClintock}}
+|style="background-color:#FFB6B6" |Republican
+|[[2008 United States House of Representatives elections in California|2008]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}Michael Masuda (Democratic)
+*{{Party stripe|Republican Party (US)}}[[Tom McClintock]] (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|6|X}}
+|{{shading PVI|D|5}}
+|{{sortname|Kevin|Kiley|dab=politician}}<br>{{small|Redistricted from the {{ushr|CA|3|C}}}}
+|{{Party shading/Independent}} |Independent
+|[[2022 United States House of Representatives elections in California|2022]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Independent}}[[Kevin Kiley (politician)|Kevin Kiley]] (Independent)
+*{{Party stripe|Democratic Party (US)}}[[Richard Pan]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|7|X}}
+|{{shading PVI|D|7}}
+|{{sortname|Doris|Matsui}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2005 California's 5th congressional district special election|2005 {{small|(special)}}]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Doris Matsui]] (Democratic)
+*{{Party stripe|Democratic Party (US)}}[[Mai Vang]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|8|X}}
+|{{shading PVI|D|19}}
+|{{sortname|John|Garamendi}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2009 California's 10th congressional district special election|2009 {{small|(special)}}]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[John Garamendi]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Rudy Recile (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|9|X}}
+|{{shading PVI|D|8}}
+|{{sortname|Josh|Harder}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2018 California's 10th congressional district election|2018]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Josh Harder]] (Democratic)
+*{{Party stripe|Republican Party (US)}}John McBride (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|10|X}}
+|{{shading PVI|D|18}}
+|{{sortname|Mark|DeSaulnier}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2014 United States House of Representatives elections in California|2014]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Mark DeSaulnier]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Jeff Frese (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|11|X}}
+|{{shading PVI|D|36}}
+|{{sortname|Nancy|Pelosi}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[1987 California's 5th congressional district special election|1987 {{small|(special)}}]]
+|{{Party shading/Democratic/Hold}} |Incumbent retiring.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Connie Chan (politician)|Connie Chan]] (Democratic)
+*{{Party stripe|Democratic Party (US)}}[[Scott Wiener]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|12|X}}
+|{{shading PVI|D|39}}
+|{{sortname|Lateefah|Simon}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 United States House of Representatives elections in California|2024]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}Jamie Joyce (Democratic)
+*{{Party stripe|Democratic Party (US)}}[[Lateefah Simon]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|13|X}}
+|{{shading PVI|D|2}}
+|{{sortname|Adam|Gray}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 United States House of Representatives elections in California|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Adam Gray]] (Democratic)
+*{{Party stripe|Republican Party (US)}}[[Kevin Lincoln (politician)|Kevin Lincoln]] (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|14|X}}
+|{{shading PVI|D|19}}
+|{{sortname|Aisha|Wahab}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2026 California's 14th congressional district special election|2026 {{small|(special)}}]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}Melissa Hernandez (Democratic)
+*{{Party stripe|Democratic Party (US)}}[[Aisha Wahab]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|15|X}}
+|{{shading PVI|D|26}}
+|{{sortname|Kevin|Mullin}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2022 United States House of Representatives elections in California|2022]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Charles Hoelter (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Kevin Mullin]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|16|X}}
+|{{shading PVI|D|25}}
+|{{sortname|Sam|Liccardo}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 California's 16th congressional district election|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Sam Liccardo]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Peter Soulé (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|17|X}}
+|{{shading PVI|D|21}}
+|{{sortname|Ro|Khanna}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2016 United States House of Representatives elections in California|2016]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Ro Khanna]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Ritesh Tandon (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|18|X}}
+|{{shading PVI|D|16}}
+|{{sortname|Zoe|Lofgren}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[1994 United States House of Representatives elections in California|1994]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Shane Lewis (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Zoe Lofgren]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|19|X}}
+|{{shading PVI|D|18}}
+|{{sortname|Jimmy|Panetta}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2016 United States House of Representatives elections in California|2016]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Jimmy Panetta]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Peter Coe Verbica (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|20|X}}
+|{{shading PVI|R|16}}
+|{{sortname|Vince|Fong}}
+|style="background-color:#FFB6B6" |Republican
+|[[2024 California's 20th congressional district special election|2024 {{small|(special)}}]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}[[Vince Fong]] (Republican)
+*{{Party stripe|Democratic Party (US)}}Sandra Van Scotter (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|21|X}}
+|{{shading PVI|D|5}}
+|{{sortname|Jim|Costa}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2004 United States House of Representatives elections in California|2004]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Jim Costa]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Kyle Kirkland (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|22|X}}
+|{{shading PVI|D|1}}
+|{{sortname|David|Valadao}}
+|style="background-color:#FFB6B6" |Republican
+|[[2012 United States House of Representatives elections in California|2012]]<br>2018 {{small|(lost)}}<br>[[2020 United States House of Representatives elections in California|2020]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}[[David Valadao]] (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Randy Villegas]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|23|X}}
+|{{shading PVI|R|9}}
+|{{sortname|Jay|Obernolte}}
+|style="background-color:#FFB6B6" |Republican
+|[[2020 United States House of Representatives elections in California|2020]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}Tessa Lynn Hodge (Democratic)
+*{{Party stripe|Republican Party (US)}}[[Jay Obernolte]] (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|24|X}}
+|{{shading PVI|D|13}}
+|{{sortname|Salud|Carbajal}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2016 United States House of Representatives elections in California|2016]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Salud Carbajal]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Bob Smith (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|25|X}}
+|{{shading PVI|D|4}}
+|{{sortname|Raul|Ruiz|dab=politician}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Joe Males (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Raul Ruiz (politician)|Raul Ruiz]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|26|X}}
+|{{shading PVI|D|9}}
+|{{sortname|Julia|Brownley}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|style="background:#DDDDDD" |Incumbent retiring
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Sam Gallucci (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Jacqui Irwin]] (Democratic)
+{{endplainlist}}
+|}
+
+==Districts 27–52==
+{{main|2026 United States House of Representatives elections in California (districts 27–52)}}
+
+{|class="wikitable sortable"
+|-
+!colspan=2 |District
+!colspan=4 |Incumbent
+!rowspan=2 class="unsortable" |Candidates
+|- style="vertical-align:bottom"
+!Location
+![[Cook Partisan Voting Index|2026<br>PVI]]
+!Member
+!Party
+!First<br>elected
+!Status
+|-
+!{{ushr|CA|27|X}}
+|{{shading PVI|D|6}}
+|{{sortname|George T.|Whitesides}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 United States House of Representatives elections in California|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Jason Gibbs (Republican)
+*{{Party stripe|Democratic Party (US)}}[[George T. Whitesides |George Whitesides]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|28|X}}
+|{{shading PVI|D|14}}
+|{{sortname|Judy|Chu}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2009 California's 32nd congressional district special election|2009 {{small|(special)}}]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Judy Chu]] (Democratic)
+*{{Party stripe|Republican Party (US)}}April Verlato (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|29|X}}
+|{{shading PVI|D|19}}
+|{{sortname|Luz|Rivas}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 United States House of Representatives elections in California|2024]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}Angelica Dueñas (Democratic)
+*{{Party stripe|Democratic Party (US)}}[[Luz Rivas]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|30|X}}
+|{{shading PVI|D|21}}
+|{{sortname|Laura|Friedman}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 California's 30th congressional district election|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Laura Friedman]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Scott Meyers (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|31|X}}
+|{{shading PVI|D|8}}
+|{{sortname|Gil|Cisneros}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2018 United States House of Representatives elections in California|2018]]<br>2020 {{small|(lost)}}<br>[[2024 United States House of Representatives elections in California|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Eric Ching (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Gil Cisneros]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|32|X}}
+|{{shading PVI|D|14}}
+|{{sortname|Brad|Sherman}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[1996 United States House of Representatives elections in California|1996]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Brad Sherman]] (Democratic)
+*{{Party stripe|Republican Party (US)}}[[Larry A. Thompson|Larry Thompson]] (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|33|X}}
+|{{shading PVI|D|7}}
+|{{sortname|Pete|Aguilar}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2014 United States House of Representatives elections in California|2014]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Pete Aguilar]] (Democratic)
+*{{Party stripe|Republican Party (US)}}Stephanie Vargas (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|34|X}}
+|{{shading PVI|D|28}}
+|{{sortname|Jimmy|Gomez}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2017 California's 34th congressional district special election|2017 {{small|(special)}}]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Jimmy Gomez]] (Democratic)
+*{{Party stripe|Democratic Party (US)}}Angela Gonzales-Torres (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|35|X}}
+|{{shading PVI|D|6}}
+|{{sortname|Norma|Torres}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2014 United States House of Representatives elections in California|2014]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Mike Cargile (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Norma Torres]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|36|X}}
+|{{shading PVI|D|21}}
+|{{sortname|Ted|Lieu}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2014 United States House of Representatives elections in California|2014]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Houston Brignano (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Ted Lieu]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|37|X}}
+|{{shading PVI|D|33}}
+|{{sortname|Sydney|Kamlager-Dove}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2022 United States House of Representatives elections in California|2022]]
+|{{Party shading/Democratic/Hold}} |Incumbent advanced to general.<br />Democratic hold.
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Sydney Kamlager-Dove]] (Democratic)
+*{{Party stripe|Democratic Party (US)}}Samantha Mota (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|38|X}}
+|{{shading PVI|D|8}}
+|colspan=3 |None {{small|(new seat)}}
+|New representative to be elected
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Pedro Casas (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Hilda Solis]] (Democratic) 
+{{endplainlist}}
+|-
+!{{ushr|CA|39|X}}
+|{{shading PVI|D|7}}
+|{{sortname|Mark|Takano}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Steve Manos (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Mark Takano]] (Democratic)
+{{endplainlist}}
+|-
+!rowspan=2 |{{ushr|CA|40|X}}
+|rowspan=2 {{shading PVI|R|6}}
+|{{sortname|Young|Kim}}
+|style="background-color:#FFB6B6" |Republican
+|[[2020 United States House of Representatives elections in California|2020]]
+|{{Party shading/Republican/Hold}} |Incumbent advanced to general.<br />Republican hold.
+|rowspan=2 |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}[[Ken Calvert]] (Republican)
+*{{Party stripe|Republican Party (US)}}[[Young Kim]] (Republican)
+{{endplainlist}}
+|-
+|{{sortname|Ken|Calvert}}<br>{{small|Redistricted from the {{ushr|CA|41|C}}}}
+|style="color:black;background-color:#FFB6B6" |Republican
+|[[1992 United States House of Representatives elections in California|1992]]
+|{{Party shading/Republican/Hold}} |Incumbent advanced to general.<br />Republican hold.
+|-
+!{{ushr|CA|41|X}}
+|{{shading PVI|D|9}}
+|{{sortname|Linda|Sánchez}}<br>{{small|Redistricted from the {{ushr|CA|38|C}}}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2002 United States House of Representatives elections in California|2002]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Mitch Clemmons (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Linda Sánchez]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|42|X}}
+|{{shading PVI|D|8}}
+|{{sortname|Robert|Garcia|dab=California congressman}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2022 United States House of Representatives elections in California|2022]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Brian Burley (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Robert Garcia (California congressman)|Robert Garcia]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|43|X}}
+|{{shading PVI|D|27}}
+|{{sortname|Maxine|Waters}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[1990 United States House of Representatives elections in California|1990]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Cristian Morales (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Maxine Waters]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|44|X}}
+|{{shading PVI|D|20}}
+|{{sortname|Nanette|Barragán}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2016 United States House of Representatives elections in California|2016]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Genevieve Angel (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Nanette Barragán]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|45|X}}
+|{{shading PVI|D|3}}
+|{{sortname|Derek|Tran}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 California's 45th congressional district election|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Derek Tran]] (Democratic)
+*{{Party stripe|Republican Party (US)}}[[Chuong Vo]] (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|46|X}}
+|{{shading PVI|D|10}}
+|{{sortname|Lou|Correa}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2016 United States House of Representatives elections in California|2016]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Democratic Party (US)}}[[Lou Correa]] (Democratic)
+*{{Party stripe|Republican Party (US)}}David Pan (Republican)
+{{endplainlist}}
+|-
+!{{ushr|CA|47|X}}
+|{{shading PVI|D|6}}
+|{{sortname|Dave|Min}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2024 California's 47th congressional district election|2024]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Jenny Le Roux (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Dave Min]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|48|X}}
+|{{shading PVI|D|2}}
+|{{sortname|Darrell|Issa}}
+|style="background-color:#FFB6B6" |Republican
+|[[2000 United States House of Representatives elections in California|2000]]<br>2018 {{small|(retired)}}<br>[[2020 United States House of Representatives elections in California|2020]]
+|style="background:#DDDDDD" |Incumbent retiring
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}[[Jim Desmond]] (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Marni von Wilpert]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|49|X}}
+|{{shading PVI|D|7}}
+|{{sortname|Mike|Levin}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2018 United States House of Representatives elections in California|2018]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Armen Kurdian (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Mike Levin]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|50|X}}
+|{{shading PVI|D|10}}
+|{{sortname|Scott|Peters|dab=politician}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Steve Cohen (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Scott Peters (politician)|Scott Peters]] (Democratic)
+{{endplainlist}}
+|-
+!{{ushr|CA|51|X}}
+|{{shading PVI|D|10}}
+|{{sortname|Sara|Jacobs}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2020 United States House of Representatives elections in California|2020]]
+|Incumbent advanced to general
+|nowrap |{{plainlist}}
+*{{Party stripe|Republican Party (US)}}Ricardo Cabrera (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Sara Jacobs]] (Democratic) 
+{{endplainlist}}
+|-
+!{{ushr|CA|52|X}}
+|{{shading PVI|D|11}}
+|{{sortname|Juan|Vargas}}
+|style="color:black;background-color:#B0CEFF" |Democratic
+|[[2012 United States House of Representatives elections in California|2012]]
+|Incumbent advanced to general
+|nowrap |{{Plainlist}}
+*{{Party stripe|Republican Party (US)}}Jeff Belle (Republican)
+*{{Party stripe|Democratic Party (US)}}[[Juan Vargas]] (Democratic) 
+{{endplainlist}}
+|}
+
+==Notes==
+{{notelist}}
+{{notelist-ua}}
+
+==References==
+<references />
+
+==External links==
+California Secretary of State
+* [https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/primary-election-june-2-2026 Primary Election - June 2, 2026]
+* [https://www.sos.ca.gov/elections/upcoming-elections/general-election-november-3-2026 General Election - November 3, 2026]
+
+{{2026 United States elections}}
+{{Elections in California footer}}
+
+[[Category:United States House of Representatives elections in California|2026]]
+[[Category:2026 elections in California|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|California]]

@@ -1,0 +1,2050 @@
+{{Short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 South Carolina House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name      = 2026 United House of Representatives elections in South Carolina
+| country            = South Carolina
+| type               = legislative
+| ongoing            = yes
+| previous_election  = 2024 United States House of Representatives elections in South Carolina
+| previous_year      = 2024
+| next_election      = 2028 United States House of Representatives elections in South Carolina
+| next_year          = 2028
+| seats_for_election = All 7 South Carolina seats to the [[United States House of Representatives]]
+| election_date      = November 3, 2026
+| party1             = Republican Party (United States)
+| last_election1     = '''6'''
+| seats1             =
+| seat_change1       =
+| party2             = Democratic Party (United States)
+| last_election2     = 1
+| seats2             =
+| seat_change2       =
+| map_image          =
+| map_caption        =
+}}
+
+{{Elections in South Carolina}}
+
+The '''2026 United States House of Representatives elections in South Carolina ''' will be held on November 3, 2026, to elect the seven [[U.S. representative]]s from the [[U.S. state|state]] of [[South Carolina]], one from each of the state's [[South Carolina's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on June 9, and in races where no candidate received over 50% in a primary, runoff elections took place on June 23.<ref>{{cite web |title=Alabama Election Cycle Calendar |url=https://www.sos.alabama.gov/sites/default/files/2025-06/Alabama%20Election%20Chart%202026-2036%206.12.2025.pdf |website=Alabama Secretary of State |access-date=21 March 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==Failed redistricting attempt==
+===Background===
+In June 2025, the [[South Carolina Supreme Court]] heard arguments in ''[[League of Women Voters of South Carolina v. Alexander|League of Women Voters v. Alexander]]'', as to whether the congressional maps are an unlawful partisan gerrymander in violation of the [[Constitution of South Carolina|state's constitution]].<ref name="gm">{{cite web |last=Moore |first=Perrin |date=June 23, 2025 |title=ACLU gerrymandering case headed for oral arguments with SC Supreme Court Tuesday |url=https://abcnews4.com/news/local/aclu-gerrymandering-case-headed-for-oral-arguments-with-sc-supreme-court-tuesday-wciv-abc-news-4-charleston-sc-south-carolina-league-of-women-voters-of-south-carolina-v-alexander-nancy-mace-james-jim-clyburn-sc01-sc06-district-1-district-6-congress |access-date=August 30, 2025 |work=[[WCIV]]}}</ref> In September 2025, the court ruled that partisan gerrymandering is not in violation of the state's constitution, repeatedly referencing the 2019 SCOTUS case ''[[Rucho v. Common Cause]]'', leaving the current map in place.<ref name=":0"/>{{pb}}{{pb}}Following the U.S. Supreme Court's decision in ''[[Louisiana v. Callais]]'', Governor [[Henry McMaster]] called a special legislative session in May 2026 to consider redistricting and the state house approved a new map that would redraw the state's sole majority-minority district. However, the state senate ultimately voted against advancing the map after it became clear that passage would occur after the start of early voting in the state's primary election.<ref>{{cite web |last1=Timm |first1=Jane |last2=Dixon |first2=Matt |date=May 26, 2026 |title=South Carolina's Trump-backed redistricting push fails in the state Senate amid GOP opposition |url=https://www.nbcnews.com/politics/2026-election/south-carolinas-redistricting-effort-fails-state-senate-gop-opposition-rcna346962 |access-date=May 31, 2026 |work=[[NBC News]]}}</ref>
+
+==Statewide polling==
+=== Statewide congressional polls ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+!Poll source
+!Date(s)<br />administered
+!Sample<br />size{{efn|name="Key"}}
+!Margin<br />of error
+! style="width:100px;" |Republican
+! style="width:100px;" |Democratic
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[The New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: October 2026 Times/Siena Poll of the Likely Electorate in South Carolina |url=https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html |publisher=[[The New York Times]] |access-date=October 29, 2026 |date=October 28, 2026}}</ref>
+|October 19–26, 2026
+|707 (LV)
+|±&nbsp;4.3%
+| {{Party shading/Republican}} |'''50%'''
+|41%
+|1%{{Efn|"The third-party candidate" with 1%}}
+|7%
+|}
+
+==District 1==
+{{see also|South Carolina's 1st congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 1st congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 1
+| next_year = 2028
+| image1 = 3x4.svg
+| nominee1 = Jenny Costa Honeycutt
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = VADM Nancy S. Lacore (2) (cropped).jpg
+| nominee2 = [[Nancy Lacore]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Nancy Mace]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 1st district straddles the Atlantic coast of the state, and includes most of [[Charleston, South Carolina|Charleston]]. The incumbent is Republican [[Nancy Mace]], who was re-elected with 58.2% of the vote in 2024.<ref name=":0">{{Cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=2025-06-24 |website=Cook Political Report |language=en}}</ref> Mace announced her run for [[governor of South Carolina]] in [[2026 South Carolina gubernatorial election|2026]], but she was eliminated in the primary.<ref name="MaceNC">{{cite web|last = Shuler|first = Hallie|title = Nancy Mace announces bid for SC Governor|url = https://www.yahoo.com/news/articles/nancy-mace-announces-bid-sc-030344580.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHjagETzAeUtB8099Bmd1b96KIY0q17w6pxmUuC-fe1O5M5mge3jghnA6fJtsfKcxv7shfPa9X-tpcUpTXxyGoHUzLJJBgc7M4EASn_uuEAocXi5B30QYZRIn8P5_oRBwD9SNhVWBMbUevfLK4TZyNaoOGdeYCSjuFQFbugeidqR|website = [[Yahoo]]|date = August 4, 2025|access-date = August 4, 2025}}</ref>
+
+===Republican primary===
+====Nominee====
+* Jenny Costa Honeycutt, [[Charleston County, South Carolina|Charleston County]] councilor<ref>{{Cite web |last=Reagan |first=Nick |date=2025-11-21 |title=We the Palmetto: Meet the candidate: Jenny Costa Honeycutt (for SC-1) |url=https://www.live5news.com/2025/11/21/we-palmetto-meet-candidate-jenna-costa-honeycutt-sc-1/ |access-date=2026-03-30 |website=www.live5news.com |language=en}}</ref>
+
+====Eliminated in runoff====
+* [[Mark Smith (South Carolina politician)|Mark Smith]], [[South Carolina House of Representatives|state representative]] from the 99th district (2020–present)<ref>{{Cite web |last=Quinn |first=Abigail |date=2025-08-14 |title=Rep. Mark Smith enters race for South Carolina's First Congressional District |url=https://abcnews4.com/news/local/rep-mark-smith-enters-race-for-south-carolinas-first-congressional-district-wciv-ab-c-news-4-2025-immigration-trump-administration-jobs-border-security-campaign-announcement-event |access-date=2025-08-15 |website=[[WCIV]] |language=en}}</ref>
+
+====Eliminated in primary====
+* Dan Brown, car dealer<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6SC01292/1919424/}} October 14, 2025</ref><ref>{{Cite web |last=Ashford |first=Adrian |date=2026-01-12 |title=14 candidates are running to replace Rep. Nancy Mace in Congress • SC Daily Gazette |url=https://scdailygazette.com/2026/01/12/14-candidates-are-running-to-replace-rep-nancy-mace-in-congress/ |access-date=2026-03-30 |website=SC Daily Gazette |language=en-US}}</ref>
+* Jay Byars, [[Dorchester County, South Carolina|Dorchester County]] councilor<ref>{{cite news |last1=Moore |first1=Perrin |title=Dorchester County Councilman Jay Byars announces run for US House |url=https://abcnews4.com/news/local/dorchester-county-councilman-jay-byars-announces-run-for-us-house-wciv-abc-news-4-charleston-sc-south-carolina-nancy-mace-congress |access-date=September 17, 2025 |work=[[WCIV]] |date=September 17, 2025 |language=en}}</ref>
+* Logan Cunningham, [[Beaufort County, South Carolina|Beaufort County]] councilor (2021–present) and candidate for this district in [[2020 United States House of Representatives elections in South Carolina#District 1|2020]]<ref>{{cite news |last1=Appleby |first1=Chloe |title=Beaufort County councilman Cunningham announces entry into race for Mace's seat |url=https://www.islandpacket.com/news/politics-government/article312855660.html |access-date=November 10, 2025 |work=[[The Island Packet]] |date=November 10, 2025}}</ref>
+* Tyler Dykes, convicted participant in the [[January 6 United States Capitol attack]]<ref>{{Cite web |last=Deanne |first=Emily |date=2026-02-16 |title=Jan. 6 participant runs for South Carolina's 1st Congressional District |url=https://abcnews4.com/news/local/jan-6-participant-runs-for-south-carolinas-1st-congressional-district |access-date=2026-02-17 |website=WCIV |language=en}}</ref>
+* Kendal Ludden, attorney<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24120&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+* Sam McCown, physician<ref>{{Cite web |last=Moore |first=Perrin |date=2025-09-09 |title=Republican physician announces run for Lowcountry's US House seat |url=https://wpde.com/newsletter-daily/republican-physician-announces-run-for-lowcountrys-us-house-seat-wciv-abc-news-4-charleston-sc-south-carolina-sam-mccown |access-date=2025-09-09 |website=[[WPDE-TV]] |language=en}}</ref>
+* Alex Pelbath, commercial pilot<ref>{{Cite web |last=Byrd |first=Caitlin|date=2025-08-25 |title=Air Force pilot who flew final flight out of Afghanistan enters SC congressional race |url=https://www.postandcourier.com/politics/air-force-pilot-who-flew-final-flight-out-of-afghanistan-enters-sc-congressional-race/article_75fa063a-42c8-4e15-aeef-e221e8bea607.html |work=[[The Post and Courier]] |access-date=2025-08-25 |language=en-US}}</ref>
+* Cindy Wagers Riley<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24176&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+
+====Withdrawn====
+* Jack Ellison<ref>{{Cite web |date=2026-03-25 |title=Jack Ellison Ends Congressional Campaign, Pledges Continued Service to District One |url=https://holycitysinner.com/api/content/d3eef2e8-2878-11f1-a1bd-1248ae80e59d/ |access-date=2026-03-30 |website=Holy City Sinner |language=en-us}}</ref>
+* [[Mark Sanford]], former [[governor of South Carolina]] (2003–2011), U.S. representative for this seat (1995–2001, 2013–2019), and candidate for [[President of the United States|president]] in [[2020 United States presidential election|2020]] (''remained on ballot)''<ref>{{Cite web |last=Byrd |first=Caitlin |date=2026-04-29 |title=Mark Sanford suspending congressional bid. Will launch advocacy targeting national debt instead. |url=https://www.postandcourier.com/politics/mark-sanford-ends-campaign-house-republican-primary/article_99b007b3-1c7d-4e19-a4e9-28022814af04.html |access-date=2026-04-30 |website=Post and Courier |language=en}}</ref>
+
+====Declined====
+* [[Nancy Mace]], incumbent U.S. representative ''([[2026 South Carolina gubernatorial election|ran for governor]])''<ref name="MaceNC"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Tyler Dykes
+|width=50em
+|list=
+;Organizations
+* [[Michael Rectenwald#Anti-Zionist America PAC|Anti-Zionist America PAC]]<ref>{{cite web|url=https://www.aza-pac.com/our-candidates|title=AZA - Our Candidates|access-date=13 May 2026}}</ref>
+}}
+{{Endorsements box
+|title=Alex Pelbath
+|width=50em
+|list=
+;Organizations
+* [[With Honor Fund]]<ref>{{Cite web |title=Endorsed Candidates |url=https://withhonorfundiii.org/endorsements/ |access-date=December 2, 2025 |website=With Honor Fund III |language=en-US}}</ref>
+}}
+{{Endorsements box
+|title=Mark Smith
+|width=50em
+|list=
+;U.S. senators
+* [[Rick Santorum]], former [[Pennsylvania]] (1995–2007)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=25 January 2026 |language=en |date=8 January 2026}}</ref>
+
+;U.S. representatives
+* [[Henry Brown (South Carolina politician)|Henry Brown]], former [[South Carolina's 1st congressional district|SC-01]] (2001–2011)<ref name="EndTrack"/>
+* [[Thomas F. Hartnett]], former [[South Carolina's 1st congressional district|SC-01]] (1981–1987)<ref name="EndTrack"/>
+
+;State legislators
+* [[Davey Hiott]], majority leader of the [[South Carolina House of Representatives]] (2022–present) from the 4th district (2004–present)<ref name="EndTrack"/>
+* [[Murrell Smith Jr.|Murrell Smith]], [[speaker of the South Carolina House of Representatives]] (2022–present) from the 67th district (2000–present)<ref name="EndTrack"/>
+}}
+
+====Fundraising====
+Italics indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 20, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jay Byars (R)
+|$220,656
+|$191,732
+|$28,924
+|-
+|{{party shading/Republican}}|Logan Cunningham (R)
+|$29,454
+|$21,873
+|$7,580
+|-
+|{{party shading/Republican}}|Tyler Dykes (R)
+|$24,946
+|$23,331
+|$0
+|-
+|{{party shading/Republican}}|Jenny Costa Honeycutt (R)
+|$345,658
+|$217,239
+|$128,419
+|-
+|{{party shading/Republican}}|Sam McCown (R)
+|$1,579,846
+|$840,877
+|$738,969
+|-
+|{{party shading/Republican}}|Alex Pelbath (R)
+|$419,252
+|$276,795
+|$142,458
+|-
+|{{party shading/Republican}}|Mark Smith (R)
+|$750,711
+|$538,686
+|$212,025
+|-
+|{{party shading/Republican}}|''Marshall Sanford'' (R)
+|$192,470
+|$22,431
+|$1,493,542
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - South Carolina 1st |url=https://www.fec.gov/data/elections/house/SC/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"| Logan<br />Cunningham
+! style="width:60px;"| {{nowrap|Jenny Costa}}<br />Honeycutt
+! style="width:60px;"| Sam<br />McCown
+! style="width:60px;"| Alex<br />Pelbath
+! style="width:60px;"| Mark<br />Smith
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref>{{Cite web|url=https://www.jennycostahoneycutt.com/pollingmemo|title=Honeycutt leads current CD 1|first=Trevor K.|last=Smith|work=Pulse Decision Science|date=May 21, 2026|access-date=June 3, 2026}}</ref>{{efn-ua|name=Honeycutt|Poll sponsored by Honeycutt's campaign}}
+|May 16–19, 2026
+|418 (LV)
+|±&nbsp;4.8%
+|7%
+|{{party shading/Republican}}|'''20%'''
+|6%
+|6%
+|{{party shading/Republican}}|'''16%'''
+|8%
+|{{party shading/Undecided}}|'''37%'''
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results }}
+{{Election box winning candidate with party link no change
+| candidate = Jenny Costa Honeycutt
+| party = Republican Party (United States)
+| votes = 14,822
+| percentage = 22.1
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Mark Smith (South Carolina politician)|Mark Smith]]
+| party = Republican Party (United States)
+| votes = 12,074
+| percentage = 18.0
+}}
+{{Election box candidate with party link no change
+| candidate = Sam McCown
+| party = Republican Party (United States)
+| votes = 10,508
+| percentage = 15.7
+}}
+{{Election box candidate with party link no change
+| candidate = [[Mark Sanford]] ''(withdrawn)''
+| party = Republican Party (United States)
+| votes = 8,107
+| percentage = 12.1
+}}
+{{Election box candidate with party link no change
+| candidate = Alex Pelbath
+| party = Republican Party (United States)
+| votes = 7,288
+| percentage = 10.9
+}}
+{{Election box candidate with party link no change
+| candidate = Logan Cunningham
+| party = Republican Party (United States)
+| votes = 4,480
+| percentage = 6.7
+}}
+{{Election box candidate with party link no change
+| candidate = Jay Byars
+| party = Republican Party (United States)
+| votes = 4,265
+| percentage = 6.4
+}}
+{{Election box candidate with party link no change
+| candidate = Dan Brown
+| party = Republican Party (United States)
+| votes = 2,924
+| percentage = 4.4
+}}
+{{Election box candidate with party link no change
+| candidate = Cindy Wagers Riley
+| party = Republican Party (United States)
+| votes = 1,233
+| percentage = 1.8
+}}
+{{Election box candidate with party link no change
+| candidate = Tyler Dykes
+| party = Republican Party (United States)
+| votes = 943
+| percentage = 1.4
+}}
+{{Election box candidate with party link no change
+| candidate = Kendal Ludden
+| party = Republican Party (United States)
+| votes = 466
+| percentage = 0.7
+}}
+{{Election box total no change
+| votes = 67,110
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff====
+=====Polling=====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| {{nowrap|Jenny Costa}}<br />Honeycutt
+! style="width:75px;"| Mark<br />Smith
+! Undecided
+|-
+|style="text-align:left;"|Meeting Street Insights (R)<ref>{{Cite tweet|last1=Foldi |first1=Matthew |title=#SC01 NEWS: @JennyHoneycutt  in a great position ahead of the runoff, per new poll from @WinningForWomen Action Fund |user=MatthewFoldi|number=2064790091340697728 |access-date=June 12, 2026}}</ref>{{Efn-ua|Poll sponsored by Winning for Women, which supports Honeycutt}}
+|June 4–6, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''35%'''
+|28%
+|{{party shading/Undecided}}|'''37%'''
+|}
+
+=====Results=====
+{{Election box begin no change |title = Republican primary runoff results }}
+{{Election box winning candidate with party link no change
+| candidate = Jenny Costa Honeycutt
+| party = Republican Party (United States)
+| votes = 24,035
+| percentage = 53.7
+}}
+{{Election box candidate with party link no change
+| candidate = [[Mark Smith (South Carolina politician)|Mark Smith]]
+| party = Republican Party (United States)
+| votes = 20,724
+| percentage = 46.3
+}}
+{{Election box total no change
+| votes = 44,759
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* [[Nancy Lacore]], former chief of the [[U.S. Navy Reserve]] (2024–2025)<ref>{{cite news |last1=Thompson |first1=Marissa |title=Navy veteran announces run to represent SC's First Congressional District |url=https://www.live5news.com/2026/01/20/navy-veteran-announces-run-represent-scs-first-congressional-district/ |access-date=January 20, 2026 |work=[[WCSC-TV]] |date=January 20, 2026 |language=en}}</ref>
+
+====Eliminated in runoff====
+* Mac Deford, former [[Hilton Head Island]] general counsel and candidate for this district in [[2024 United States House of Representatives elections in South Carolina#District 1|2024]]<ref>{{cite news |last1=Kayanja |first1=Ian |title=Mac Deford, Coast Guard vet, lawyer, announces run for SC's 1st Congressional District |url=https://abcnews4.com/news/local/mac-deford-coast-guard-vet-lawyer-announces-run-for-scs-1st-congressional-district-south-carolina-congress-wciv-abc-news-4-8-4-2025 |access-date=August 5, 2025 |work=[[WCIU-TV|WCIV]] |date=August 5, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+* Francina Dantzler, educator<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24358&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+* Max Diaz, aircraft mechanic<ref name="SC01">{{cite news |last1=Deanne |first1=Emily |title='Servant leader,' Mark Smith aims to continue to serve with a bid for Congress |url=https://abcnews4.com/news/local/servant-leader-mark-smith-aims-to-continue-to-serve-with-a-bid-for-congress-politics-south-carolina-1st-congressional-district-wciv-abc-news-4-10-13-2025 |access-date=October 13, 2025 |work=ABC4News |date=October 18, 2025 |language=en}}</ref>
+* [[Ben Frasier]], businessman and perennial candidate<ref>{{Cite web |title=Statement of Candidacy |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:295d3b1d-dd2a-49b6-8aca-ae3d77ccac42}} September 17, 2025</ref>
+* Matt Fulmer, waiter<ref>{{Cite web |title=FEC Form 2 for Report FEC-1920461 |url=https://docquery.fec.gov/cgi-bin/forms/H6SC01300/1920461/ |access-date=2025-10-15 |website=docquery.fec.gov}}</ref>
+* Mayra Rivera-Vazquez, former second vice chair of the [[South Carolina Democratic Party]]<ref>{{cite news |last1=Brams |first1=Sophie |title=Former South Carolina Democrats second vice chair joins race for 1st Congressional District |url=https://www.counton2.com/news/your-local-election-hq/former-south-carolina-democrats-second-vice-chair-joins-race-for-1st-congressional-district/ |access-date=September 3, 2025 |work=[[WCBD-TV]] |date=September 3, 2025}}</ref>
+
+====Withdrawn====
+* KJ Atwood, business owner (''running for [[2026 South Carolina House of Representatives election|state house]]'')<ref>{{cite news |last1=Thompson |first1=Marissa |title=Mount Pleasant father, small-business owner announces run for Congress |url=https://www.live5news.com/2026/02/03/mount-pleasant-father-small-business-owner-announces-run-congress/ |access-date=February 3, 2026 |work=[[WCSC-TV]] |date=February 3, 2026 |language=en}}</ref><ref>{{Cite web |last=Moore |first=Perrin |date=2026-03-09 |title=US House candidate KJ Atwood pivots to run 'closer to home' in State House District 110 |url=https://abcnews4.com/news/local/us-house-candidate-kj-atwood-pivots-to-run-closer-to-home-in-state-house-district-110 |access-date=2026-03-23 |website=WCIV |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box|
+|title=Max Diaz
+|width=50em
+|list=
+;Organizations
+* [[Progressive Victory]] ''(co-endorsement with Fulmer)''<ref name="PV">{{cite web|title=Endorsements for 2026|url=https://www.progressivevictory.win/endorsements|publisher=Progressive Victory|access-date=June 2, 2026}}</ref>
+}}
+{{Endorsements box|
+|title=Matt Fulmer
+|width=50em
+|list=
+;Organizations
+* [[Progressive Victory]] ''(co-endorsement with Diaz)''<ref name="PV"/>
+}}
+{{Endorsements box|
+|title=Nancy Lacore
+|width=50em
+|list=
+;Local officials
+* Will Haynie, mayor of [[Mount Pleasant, South Carolina|Mount Pleasant]] (2017–present) ''(Republican)''<ref>{{Cite web |last=Russell |first=Colin |date=2026-04-08 |title=Cross-party endorsement: GOP Mayor Haynie supports Democrat Lacore for SC-01 |url=https://abcnews4.com/news/local/cross-party-endorsement-gop-mayor-haynie-supports-democrat-lacore-for-sc-01-cross-party-congress-town-charleston-lowcountry-support-politics-government-news-south-carolina |access-date=2026-05-28 |website=WCIV |language=en}}</ref>
+* [[John Tecklenburg]], mayor of [[Charleston, South Carolina|Charleston]] (2016–2023)<ref>{{Cite web |title=Lowcountry Leaders Endorse Rear Admiral Nancy Lacore for SC-01 |url=https://www.nancylacore.com/media/nancy-lacore-lowcountry-endorsements-sc-01 |access-date=2026-05-28 |language=en-US}}</ref>
+
+;Organizations
+* [[Emily's List]]<ref>{{cite web |title=Nancy Lacore |url=https://emilyslist.org/candidate/nancy-lacore/ |website=Emily's List |access-date=20 January 2026}}</ref>
+* [[VoteVets]]<ref>{{cite web |url=https://votevets.org/press-releases/votevets-pac-endorses-nancy-lacore-for-congress-in-sc-01 |title=VoteVets PAC Endorses Nancy Lacore for Congress in SC-01 |website=votevets.org |date=January 28, 2026 |access-date=January 28, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Nancy Lacore (D)
+|$1,029,275
+|$451,260
+|$578,014
+|-
+|{{party shading/Democratic}}|Mac Deford (D)
+|$393,994
+|$253,436
+|$140,558
+|-
+|{{party shading/Democratic}}|Mayra Rivera-Vazquez (D)
+|$117,676
+|$87,581
+|$31,791
+|-
+|{{party shading/Democratic}}|KJ Atwood (D)
+|$19,483
+|$18,670
+|$813
+|-
+|{{party shading/Democratic}}|Matthew Fulmer (D)
+|$8,200
+|$7,037
+|$1,173
+|-
+|{{party shading/Democratic}}|Max Diaz (D)
+|$5,200
+|$4,748
+|$366
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results }}
+{{Election box winning candidate with party link no change
+| candidate = [[Nancy Lacore]]
+| party = Democratic Party (United States)
+| votes = 20,643
+| percentage = 36.5
+}}
+{{Election box winning candidate with party link no change
+| candidate = Mac Deford
+| party = Democratic Party (United States)
+| votes = 16,348
+| percentage = 28.9
+}}
+{{Election box candidate with party link no change
+| candidate = Francina Dantzler
+| party = Democratic Party (United States)
+| votes = 5,425
+| percentage = 9.6
+}}
+{{Election box candidate with party link no change
+| candidate = Mayra Rivera-Vazquez
+| party = Democratic Party (United States)
+| votes = 5,411
+| percentage = 9.6
+}}
+{{Election box candidate with party link no change
+| candidate = [[Ben Frasier]]
+| party = Democratic Party (United States)
+| votes = 5,369
+| percentage = 9.5
+}}
+{{Election box candidate with party link no change
+| candidate = Matt Fulmer
+| party = Democratic Party (United States)
+| votes = 2,266
+| percentage = 4.0
+}}
+{{Election box candidate with party link no change
+| candidate = Max Diaz
+| party = Democratic Party (United States)
+| votes = 1,117
+| percentage = 2.0
+}}
+{{Election box total no change
+| votes = 56,579
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff====
+
+=====Results=====
+{{Election box begin no change |title = Democratic primary runoff results }}
+{{Election box winning candidate with party link no change
+| candidate = [[Nancy Lacore]]
+| party = Democratic Party (United States)
+| votes = 12,825
+| percentage = 52.1
+}}
+{{Election box candidate with party link no change
+| candidate = Mac Deford
+| party = Democratic Party (United States)
+| votes = 11,773
+| percentage = 47.9
+}}
+{{Election box total no change
+| votes = 24,598
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+* Bill Reeside, nuclear engineer<ref>{{Cite web |date=2026-03-23 |title=Libertarian Bill Reeside Files for U.S. Congress in South Carolina's 1st District |url=https://luckydognews.com/api/content/11d94674-26c8-11f1-884e-1248ae80e59d/ |access-date=2026-03-30 |website=Lucky Dog Publishing |language=en-us}}</ref>
+
+===Alliance primary===
+====Nominee====
+* Margo Ellis, comedian<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24069&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Lean|R}}
+|September 25, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=June 25, 2025}}</ref>
+| {{USRaceRating|Tossup}}
+|October 30, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Tilt|R}}
+|October 29, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= June 25, 2025|language=en-US}}</ref>
+| {{USRaceRating|Lean|R}}
+|October 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title=Jenny Costa Honeycutt (R)
+| list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Kayanja |first1=Ian |title=Trump breaks silence, endorses Jenny Costa Honeycutt in SC's 1st Congressional District |url=https://abcnews4.com/news/local/trump-breaks-silence-endorses-jenny-costa-honeycutt-in-scs-1st-congressional-district-nancy-lacore-south-carlina-democrat-republican-politics |website=ABC 4 News |access-date=August 11, 2026 |date=July 14, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Nancy Lacore (D)
+| list=
+;U.S. senators
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="kelly_lacore">{{cite web |last1=Fields |first1=Ashleigh |title=Kelly endorses vice admiral ousted by Hegseth running for Congress |url=https://thehill.com/homenews/campaign/5950677-kelly-endorses-lacore-congress/ |website=[[The Hill (newspaper)|The Hill]] |access-date=2026-07-02 |date=2026-07-01}}</ref>
+
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web |title=DCCC Announces Five New Candidates to Coveted 2026 ‘Red to Blue’ Program |url=https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program-2/ |website=DCCC |date=August 20, 2026}}</ref>
+*[[Adam Gray]], [[California's 13th congressional district|CA-13]] (2025–present)<ref name="Blue Dog">{{cite web|url=https://bluedogdems.com/blue-dog-pac-endorses-seven-new-battleground-candidates/|title=Blue Dog PAC Endorses Seven New Battleground Candidates|date=October 14, 2026|access-date=October 15, 2026}}</ref>
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="New Dems">{{cite web|url=https://www.newdemactionfund.com/news/new-dems-endorse-seven-more-candidates-in-key-red-to-blue-seats?source=dfba9884-cc51-4c60-b5ac-1e7c74296073|title=New Dems Endorse Seven More Candidates in Key Red-to-Blue Seats|date=September 29, 2026|access-date=October 2, 2026}}</ref>
+
+;Statewide officials
+*[[Mikie Sherrill]], [[governor of New Jersey]] (2026–present)<ref>{{Cite web |title=Sherrill unveils first set of midterm endorsements |url=https://thehill.com/homenews/campaign/6013472-nj-gov-backs-national-security-candidates/ |access-date=August 7, 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=October 31, 2026}}</ref>
+
+;Organizations
+*[[Blue Dog Coalition|Blue Dog]] PAC<ref name="Blue Dog"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[New Democrat Coalition#Campaign arm|NewDem Action Fund]]<ref name="New Dems"/>
+
+;Newspapers
+*''[[The Post and Courier]]''<ref>{{cite web|url=https://www.postandcourier.com/opinion/editorials/nancy-lacore-endorsement-congress/article_7b5e5cc0-3350-4d92-a962-176f23f221e2.html|title=Editorial: Lacore for the SC’s 1st Congressional District|date=October 22, 2026|access-date=October 22, 2026|website=[[The Post and Courier]]}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Jenny Costa Honeycutt (R)
+|$1,291,996
+|$980,478
+|$311,518
+|-
+|{{party shading/Democratic}}| Nancy Lacore (D)
+|$4,865,630
+|$4,690,325
+|$175,304
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States House - South Carolina |url=https://www.fec.gov/data/elections/house/SC/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=June 23, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| {{nowrap|Jenny Costa}}<br />Honeycutt (R)
+! style="width:100px;"| Nancy<br />Lacore (D)
+! style="width:100px;"| Bill<br />Reeside Jr. (L)
+! Other
+! Undecided
+|-
+|style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{cite web |last1=Warnke |first1=CJ |title=🚨NEW @HouseMajPAC  poll in #SC01🚨  🔵Nancy Lacore: 47% 🔴Jenny Costa Honeycutt: 45%  2024 Recall: Trump+13  PPP, 10/21-/10/22, 770 Likely Voters |url=https://x.com/cjwarnke/status/2113636550357528714 |publisher=[[Twitter]] |access-date=October 24, 2026 |date=October 23, 2026}}</ref>{{Efn-ua|name=HMP}}
+|October 21–22, 2026
+|770 (LV)
+|–
+|45%
+|{{party shading/Democratic}}|'''47%'''
+|–
+|colspan="2"|8%
+|-
+|style="text-align:left;" |GQR (D)<ref>{{cite web |last1=Solender |first1=Andrew |title=Dem-aligned GQR poll of #SC01 circulating among groups and viewed by me: |url=https://x.com/AndrewSolender/status/2108617190245306670 |publisher=[[Twitter]] |access-date=October 13, 2026 |date=October 9, 2026}}</ref>
+|September 30 – October 4, 2026
+|400 (LV)
+|–
+|45%
+|{{party shading/Democratic}}|'''48%'''
+|–
+|colspan="2"|7%
+|-
+|style="text-align:left;" |co/efficient (R)<ref>{{cite web|title=South Carolina's 1st Congressional District 2026 General Election |url=https://coefficient.org/our-work/south-carolina-1st-congressional-district-oct-2026/ |website=co/efficient |date=October 1, 2026 |access-date=October 3, 2026}}</ref>{{Efn-ua|Poll sponsored by Thank You For Your Attention To This Matter PAC, which supports Honeycutt<ref>{{cite web |title=NEW: 2026 South Carolina 1st Congressional District Poll |url=https://x.com/coefficientpoll/status/2106116052870402454 |publisher=[[Twitter]] |access-date=October 5, 2026 |date=October 2, 2026}}</ref>}}
+|September 30 – October 1, 2026
+|837 (LV)
+|±&nbsp;3.37%
+|{{party shading/Republican}}|'''46%'''
+|40%
+|4%
+|—
+|9%
+|-
+|style="text-align:left;" |[[Public Policy Polling]] (D)<ref name="PPPSept2026">{{cite tweet|user=zachblackburn23|number=2100002534383358350|title=The Bench has new polling in MT-01, NC-11, NY-21, and SC-01, all Trump-won districts that Dems are hoping to flip|access-date=September 15, 2026}}</ref>{{efn-ua|name="Bench"|Poll sponsored by The Bench, which supports Lacore}}
+|September 9–10, 2026
+|536 (RV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''41%'''
+|40%
+|—
+|—
+|19%
+|-
+|style="text-align:left;" rowspan="2"|GQR (D)<ref>{{cite web |title=HMP Poll: Nancy Lacore Has a Clear Path to Victory in SC-01 |url=https://www.thehousemajoritypac.com/news/hmp-poll-nancy-lacore-has-a-clear-path-to-victory-in-sc-01 |website=House Majority PAC |date=July 31, 2026 |access-date=July 31, 2026}}</ref>{{Efn-ua|name=HMP|Poll sponsored by House Majority PAC, which is focused on electing Democrats to the U.S. House of Representatives}}
+|rowspan="2"|July 15–22, 2026
+|rowspan="2"|400 (LV)
+|rowspan="2"|—
+|{{party shading/Republican}}|'''50%'''
+|48%
+|—
+|—
+|2%
+|-
+|{{party shading/Republican}}|'''43%'''
+|41%
+|5%
+|2%{{efn|Margo Ellis and "Another candidate" with 1%}}
+|9%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Mark Smith vs. Mac Deford'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Mark<br />Smith (R)
+! style="width:100px;"| Mac<br />Deford (D)
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |title=New Polling Shows SC-01 Is Fully Competitive in 2026 |url=https://www.documentcloud.org/documents/26379733-sc-01-ppp-for-mac-deford-dec-2025/ |publisher=Mac Deford for Congress |access-date=18 December 2025 |date=9 December 2025 |via=[[DocumentCloud]]}}</ref>{{Efn-ua|Poll sponsored by Deford's campaign}}
+|December 5–6, 2025
+|645 (LV)
+|±&nbsp;3.9%
+|{{party shading/Republican}}|'''39%'''
+|36%
+|25%
+|}
+
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;" |[[Public Policy Polling]] (D)<ref name="PPPSept2026"/>{{efn-ua|name="Bench"}}
+|September 9–10, 2026
+|536 (RV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''48%'''
+|42%
+|10%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Jenny Costa Honeycutt
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Nancy Lacore]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Libertarian Party (United States)
+  |candidate  = Bill Reeside Jr.
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Alliance Party (United States)
+  |candidate  = Margo Ellis
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+
+{{Election box end}}
+
+==District 2==
+{{see also|South Carolina's 2nd congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 2nd congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 2
+| next_year = 2028
+| image1 = File:Joe Wilson official congressional photo (alt crop).jpg
+| nominee1 = [[Joe Wilson]]
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Zyon Khalifa
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image =
+| map_size = 300px
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Joe Wilson]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+The 2nd district is located in central South Carolina and spans from [[Columbia, South Carolina|Columbia]] to the South Carolina side of the [[Augusta, Georgia metropolitan area]], including [[North Augusta, SC|North Augusta]]. The incumbent is Republican [[Joe Wilson]], who was re-elected with 59.5% of the vote in 2024.<ref name=":0" />
+
+=== Republican primary ===
+==== Nominee ====
+* [[Joe Wilson]], incumbent U.S. representative<ref>{{cite news |last1=Rogerson |first1=Riley |last2=González |first2=Oriana |last3=Luetkemeyer |first3=Em |title=What Utah Reps. Blake Moore, Mike Kennedy, Celeste Maloy and Burgess Owens said about running in 2026 |url=https://www.sltrib.com/news/politics/2025/12/19/reps-burgess-owens-blake-moore-say/ |access-date=December 19, 2025 |work=The Salt Lake Tribune |date=December 19, 2025}}</ref>
+
+==== Eliminated in primary ====
+* Sam Gibbons, Marine veteran<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24410&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref><ref>{{Cite web |last=STAFF |first=WACH |date=2026-03-30 |title=Marine veteran takes on Rep. Joe Wilson, pledges to stop U.S. troops in Iran |url=https://wach.com/news/local/marine-veteran-takes-on-rep-joe-wilson-pledges-to-stop-us-troops-in-iran-samuel-luther-gibbons-jr-joe-wilson-president-trump-reform-party-national-committee-no-kings |access-date=2026-03-30 |website=WACH |language=en}}</ref>
+* Hamp Redmond, building contractor<ref>{{Cite web |date=August 15, 2025 |title=FEC Form 2 |url=https://docquery.fec.gov/pdf/821/202508070300509821/202508070300509821.pdf |access-date=August 15, 2025 |website=Docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Joe Wilson
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web|url=https://truthsocial.com/@realDonaldTrump/posts/115487528401379340|title=Congressman Joe Wilson, who has been with us from the very beginning, is a Tremendous Champion of South Carolina’s 2nd Congressional District!|date=November 3, 2025|access-date=September 15, 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Hamp Redmond (R)
+|$13,549
+|$11,869
+|$1,704
+|-
+|{{party shading/Republican}}|Joe Wilson (R)
+|$669,269
+|$419,825
+|$293,956
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - South Carolina 2nd |url=https://www.fec.gov/data/elections/house/SC/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results }}
+{{Election box winning candidate with party link no change
+| candidate = [[Joe Wilson]] (incumbent)
+| party = Republican Party (United States)
+| votes = 46,588
+| percentage = 74.2
+}}
+{{Election box candidate with party link no change
+| candidate = Hamp Redmond
+| party = Republican Party (United States)
+| votes = 8,731
+| percentage = 13.9
+}}
+{{Election box candidate with party link no change
+| candidate = Sam Gibbons
+| party = Republican Party (United States)
+| votes = 7,440
+| percentage = 11.9
+}}
+{{Election box total no change
+| votes = 62,759
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* Zyon Khalifa, attorney and air force veteran<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24437&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+
+====Eliminated in runoff====
+* David Robinson, businessman, father of [[Disappearance of Daniel Robinson|Daniel Robinson]], and nominee for this district in [[2024 United States House of Representatives elections in South Carolina#District 2|2024]]<ref>{{Cite web |title=FEC Form 2 Statement of Candidacy filing FEC-1891682|url=https://docquery.fec.gov/cgi-bin/forms/H4SC02089/1891682/}}</ref>
+
+====Eliminated in primary====
+* Roger Pruitt, attorney<ref>{{Cite web |last=Chornobroff |first=Shaun |date=June 18, 2025 |title=Air Force veteran, attorney, SC State professor announces congressional bid |url=https://scdailygazette.com/briefs/air-force-veteran-attorney-sc-state-professor-announces-congressional-bid/ |access-date=2025-06-25 |work=SC Daily Gazette |language=en-US}}</ref>
+* Daniel Shrief, Army veteran and insurance adjuster<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=23639&electionId=22596&searchType=Default |access-date=March 30, 2026 |website=South Carolina Election Commission}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Roger Pruitt (D)
+|$24,019
+|$22,830
+|$1,188
+|-
+|{{party shading/Democratic}}|David Robinson (D)
+|$4,348
+|$5,146
+|$1,688
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results }}
+{{Election box winning candidate with party link no change
+| candidate = David Robinson
+| party = Democratic Party (United States)
+| votes = 24,063
+| percentage = 41.0
+}}
+{{Election box winning candidate with party link no change
+| candidate = Zyon Khalifa
+| party = Democratic Party (United States)
+| votes = 19,992
+| percentage = 34.1
+}}
+{{Election box candidate with party link no change
+| candidate = Roger Pruitt
+| party = Democratic Party (United States)
+| votes = 11,706
+| percentage = 20.0
+}}
+{{Election box candidate with party link no change
+| candidate = Daniel Shrief
+| party = Democratic Party (United States)
+| votes = 2,888
+| percentage = 4.9
+}}
+{{Election box total no change
+| votes = 58,649
+| percentage = 100.0
+}}
+{{Election box end}}
+
+====Runoff====
+=====Results=====
+{{Election box begin no change |title = Democratic primary runoff results }}
+{{Election box winning candidate with party link no change
+| candidate = Zyon Khalifa
+| party = Democratic Party (United States)
+| votes = 3,069
+| percentage = 53.8
+}}
+{{Election box candidate with party link no change
+| candidate = David Robinson
+| party = Democratic Party (United States)
+| votes = 2,636
+| percentage = 46.2
+}}
+{{Election box total no change
+| votes = 5,705
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Workers primary===
+====Nominee====
+* Dayna Alane Smith<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24375&electionId=22596&searchType=Default |website=South Carolina Elections Commission}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|June 25, 2025
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 3, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Joe Wilson (R)
+|$762,822
+|$601,446
+|$205,889
+|-
+|{{party shading/Democratic}}| Zyon Khalifa (D)
+|$6,220
+|$7,056
+|$-836
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Joe Wilson]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Zyon Khalifa
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 3==
+{{see also|South Carolina's 3rd congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 3rd congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 3
+| next_year = 2028
+| image1 = File:Rep. Sheri Biggs official photo, 119th Congress (cropped).jpg
+| nominee1 = [[Sheri Biggs]] 
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Eunice Lehmacher
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image =
+| map_size = 300px
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Sheri Biggs]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+The 3rd district takes in the [[Piedmont (plateau)|Piedmont]] area in northwestern South Carolina, including [[Anderson, South Carolina|Anderson]] and [[Greenwood, South Carolina|Greenwood]]. Incumbent Republican [[Sheri Biggs]], who was elected with 71.7% of the vote in 2024,<ref name=":0" /> is running for re-election.<ref name="Sherri0"/>
+
+===Republican primary===
+====Nominee====
+* [[Sheri Biggs]], incumbent U.S. representative<ref name="Sherri0">{{cite web |title=Decision 2026: Trump-Endorsed Congresswoman, Lieutenant Colonel in Air National Guard, Sheri Biggs Formally Announces Run for Second Term in Office |url=https://myclintonnews.com/stories/decision-2026-trump-endorsed-congresswoman-lieutenant-colonel-in-air-national-guard-sheri-biggs,147647 |website=The Clinton Chronicle |access-date=20 March 2026 |language=en |date=20 March 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Sheri Biggs
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Sherri0"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-sheri-biggs-for-sc-03/|title=Freedom Caucus Fund Endorses Sheri Biggs for SC-03|date=June 2, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Sheri Biggs (R)
+|$400,543
+|$293,577
+|$211,051
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - South Carolina 3rd |url=https://www.fec.gov/data/elections/house/SC/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+* Eunice Lehmacher, social worker and nominee for [[South Carolina House of Representatives|state representative]] in [[2020 South Carolina House of Representatives election#District 3|2020]] and [[2024 South Carolina House of Representatives election#District 3|2024]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1935858 |url=https://docquery.fec.gov/cgi-bin/forms/H6SC03090/1935858 |access-date=2026-01-28 |website=docquery.fec.gov}}</ref><ref>{{cite news |last1=Carpentier |first1=Bella |title=Healthcare professional Eunice Lehmacher runs to unseat Sheri Biggs |url=https://www.greenvilleonline.com/story/news/politics/2026/03/06/rep-sheri-biggs-faces-democratic-challenger-district-3-seat/89022278007/ |access-date=March 9, 2026 |work=[[Greenville News]] |date=March 6, 2026}}</ref>
+====Eliminated in primary====
+* Ernest Mackins, educator and nominee for state representative in [[2022 South Carolina House of Representatives election#District 8|2022]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1956492 |url=https://docquery.fec.gov/cgi-bin/forms/H6SC03108/1956492 |access-date=2026-03-27 |website=docquery.fec.gov}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Eunice Lehmacher (D)
+|$19,123
+|$8,537
+|$10,586
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results }}
+{{Election box winning candidate with party link no change
+| candidate = Eunice Lehmacher
+| party = Democratic Party (United States)
+| votes = 16,730
+| percentage = 53.4
+}}
+{{Election box candidate with party link no change
+| candidate = Ernest Mackins
+| party = Democratic Party (United States)
+| votes = 14,612
+| percentage = 46.6
+}}
+{{Election box total no change
+| votes = 31,342
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+Brian Corriea, Navy veteran<ref>{{Cite web |last=matkinson@postandcourier.com |first=Macon Atkinson |date=2026-03-30 |title=Who's running for elected office in Greenville SC area in 2026 midterm elections |url=https://www.postandcourier.com/greenville/politics/greenville-sc-politics-local-races/article_87507731-3d08-49ae-9ea6-828f6b25e09e.html |access-date=2026-03-30 |website=Post and Courier |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|June 25, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Sheri Biggs (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-sheri-biggs-for-south-carolinas-third-district|title=U.S. Chamber Endorses Rep. Sheri Biggs for South Carolina’s Third District|date=September 1, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Eunice Lehmacher (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260901205734/https://nwpc.org/endorsed-candidates |archive-date=1 September 2026 |access-date=24 October 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Sheri Biggs (R)
+|$418,427
+|$348,018
+|$174,495
+|-
+|{{party shading/Democratic}}| Eunice Lehmacher (D)
+|$30,047
+|$15,254
+|$14,792
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 3rd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Sheri Biggs]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Eunice Lehmacher
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 4==
+{{see also|South Carolina's 4th congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 4th congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 4
+| next_year = 2028
+| image1 = William Timmons, official portrait, 116th Congress (cropped).jpg
+| nominee1 = [[William Timmons]]
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Courtney McClain
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image =
+| map_size = 300px
+| map_caption =
+| title = U.S. Representative
+| before_election = [[William Timmons]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+The 4th district is located in [[Upstate South Carolina]], taking in [[Greenville, South Carolina|Greenville]] and [[Spartanburg, SC|Spartanburg]]. The incumbent is Republican [[William Timmons]], who was re-elected with 59.7% of the vote in 2024.<ref name=":0" />
+
+===Republican primary===
+====Nominee====
+* [[William Timmons]], incumbent U.S. representative<ref name="Atchley">{{cite news |last1=Atkinson |first1=Macon |title=GOP Greenville businessman to primary Trump-backed William Timmons for Congress |url=https://www.postandcourier.com/greenville/news/william-timmons-primary-congress-atchley-greenville/article_d88a8898-c901-48fa-b979-cfd3a221c91c.html |access-date=January 22, 2026 |work=[[The Post and Courier]] |date=January 22, 2026 |language=en}}</ref>
+====Eliminated in primary====
+* David Atchley, consulting firm owner<ref name="Atchley" />
+* Robert Lee, mechanical engineer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1945441 |url=https://docquery.fec.gov/cgi-bin/forms/H6SC04205/1945441 |access-date=2026-02-09 |website=docquery.fec.gov}}</ref><ref name=":1">{{Cite web |last=Ashford |first=Adrian |date=2026-03-26 |title=Republican Robert E. Lee and 25-year-old Democrat file to challenge Rep. Timmons in Upstate • SC Daily Gazette |url=https://scdailygazette.com/2026/03/26/republican-robert-e-lee-and-25-year-old-democrat-file-to-challenge-rep-timmons-in-upstate/ |access-date=2026-03-30 |website=SC Daily Gazette |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=William Timmons
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web|url=https://www.greenvilleonline.com/story/news/politics/2026/06/04/rep-william-timmons-david-atchley-robert-lee-gop-congressional-primary/90393089007/|title=Atchley, Lee, Timmons offer competing visions in 4th District primary|last=Maultsby|first=Baker|date=June 4, 2026|access-date=September 15, 2026|website=[[The Greenville News]]}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|David  Atchley (R)
+|$139,427
+|$88,729
+|$50,697
+|-
+|{{party shading/Republican}}|William Timmons (R)
+|$829,479
+|$559,761
+|$289,832
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - South Carolina 4th |url=https://www.fec.gov/data/elections/house/SC/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Republican primary results }}
+{{Election box winning candidate with party link no change
+| candidate = [[William Timmons]] (incumbent)
+| party = Republican Party (United States)
+| votes = 47,895
+| percentage = 65.8
+}}
+{{Election box candidate with party link no change
+| candidate = David Atchley
+| party = Republican Party (United States)
+| votes = 14,188
+| percentage = 19.5
+}}
+{{Election box candidate with party link no change
+| candidate = Robert Lee
+| party = Republican Party (United States)
+| votes = 10,663
+| percentage = 14.7
+}}
+{{Election box total no change
+| votes = 72,746
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* Courtney McClain, political organizer<ref name=":1" />
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Courtney McClain (D)
+|$17,509
+|$20,040
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+===Libertarian primary===
+==== Nominee ====
+* Jessica Ethridge, nominee for [[Lieutenant Governor of South Carolina|lieutenant governor]] in [[2022 South Carolina gubernatorial election|2022]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1935779 |url=https://docquery.fec.gov/cgi-bin/forms/H6SC04197/1935779 |access-date=2026-01-28 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|June 25, 2025
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Courtney McClain (D)
+|list=
+;Political parties
+*South Carolina [[Working Families Party]]<ref>{{Cite web |url=https://workingfamilies.org/candidates/ |title=Our 2026 Candidates |website=[[Working Families Party]] |access-date=3 August 2026}}</ref>
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| William Timmons (R)
+|$1,431,549
+|$790,311
+|$661,353
+|-
+|{{party shading/Democratic}}| Courtney McClain (D)
+|$17,510
+|$20,040
+|$-2,531
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 4th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[William Timmons]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Courtney McClain
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 5==
+{{see also|South Carolina's 5th congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 5th congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 5
+| next_year = 2028
+| image1 =
+| nominee1 = [[Wes Climer]] 
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 =
+| nominee2 = Mallory Dittmer
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image =
+| map_size = 300px
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Ralph Norman]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+The 5th district is located in northern South Carolina and encompasses the southern suburbs and exurbs of [[Charlotte, North Carolina|Charlotte]], including [[Rock Hill, South Carolina|Rock Hill]]. The incumbent is Republican [[Ralph Norman]], who was re-elected with 63.5% of the vote in 2024.<ref name=":0" /> On July 25, 2025, Norman filed to run for [[governor of South Carolina]] in [[2026 South Carolina gubernatorial election|2026]].<ref name="NormanSC" />
+
+===Republican primary===
+====Nominee====
+* [[Wes Climer]], [[South Carolina Senate|state senator]] from the 15th district (2016–present)<ref>{{Cite web |last1=Alsup |first1=Blake |last2=Reynolds |first2=Nick |date=2025-07-31 |title=Rock Hill state Sen. Wes Climer announces bid to succeed Ralph Norman in Congress |url=https://www.postandcourier.com/politics/rock-hill-wes-climer-congress-ralph-norman/article_c77985d4-da92-4d2d-be4a-a3688b58d552.html |access-date=2025-08-04 |website=Post and Courier |language=en}}</ref>
+
+====Withdrawn====
+* Bill Bledsoe, veterinarian and perennial candidate<ref>{{cite web |title=FEC Disclosure Form 3 for Bill Bledsoe For Congress |url=https://docquery.fec.gov/cgi-bin/forms/C00914721/1950260/ |website=docquery.fec.gov |access-date=March 7, 2026}}</ref>
+
+====Declined====
+* [[Ralph Norman]], incumbent U.S. representative ''([[2026 South Carolina gubernatorial election|ran for governor]],<ref name="NormanSC">{{cite news |last1=Kinnard |first1=Meg |title=Rep. Ralph Norman, among House's most conservative, set to enter South Carolina governor's race |url=https://apnews.com/article/ralph-norman-election-2026-governor-south-carolina-a3175ade72b18813d47c9bdf6f4e568b |access-date=July 25, 2025 |work=[[Associated Press]] |date=July 25, 2025 |language=en}}</ref> [[2026 United States Senate election in South Carolina#Special Republican primary|later ran for U.S. Senate]], endorsed Climer<ref name="ClimerNorman"/>)''
+
+====Endorsements====
+{{Endorsements box
+|title=Wes Climer
+|width=50em
+|list=
+;U.S. representatives
+* [[Ralph Norman]], [[United States House of Representatives|U.S. representative]] from [[South Carolina's 5th congressional district]]  (2017−present)<ref name="ClimerNorman">{{cite web|url=https://www.wistv.com/2025/08/21/us-rep-ralph-norman-endorses-sc-state-sen-wes-climer-succeed-him-congress/|title=US Rep. Ralph Norman endorses SC state Sen. Wes Climer to succeed him in Congress|date=August 21, 2025|access-date=August 22, 2025|website=[[WIS (TV)|WIS]]}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Bill Bledsoe (R)''
+|$50,003
+|$50,000
+|$8
+|-
+|{{party shading/Republican}}|Wes Climer (R)
+|$757,622
+|$237,201
+|$520,421
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - South Carolina 5th |url=https://www.fec.gov/data/elections/house/SC/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+* Mallory Dittmer, branding consultant<ref>{{cite news |last1=Johnson |first1=Dejon |title=Mallory Dittmer announces bid for South Carolina's 5th Congressional District seat |url=https://wach.com/news/local/mallory-dittmer-announces-bid-for-south-carolinas-5th-congressional-district-seat |access-date=September 30, 2025 |work=[[WACH]] |date=September 30, 2025 |language=en}}</ref>
+====Eliminated in primary====
+* Andrew Clough, airline worker<ref>{{cite news |last1=O'Neill |first1=Nora |title=Race for SC's 5th Congressional District heats up with new candidates |url=https://www.heraldonline.com/news/local/article312353321.html |access-date=October 3, 2025 |work=Rock Hill Herald |date=October 2, 2025 |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Mallory Dittmer (D)
+|$80,511
+|$34,860
+|$45,651
+|-
+|{{party shading/Democratic}}|Alex Harper (D)
+|$23,136
+|$22,538
+|$598
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results }}
+{{Election box winning candidate with party link no change
+| candidate = Mallory Dittmer
+| party = Democratic Party (United States)
+| votes = 25,428
+| percentage = 55.8
+}}
+{{Election box candidate with party link no change
+| candidate = Andrew Clough
+| party = Democratic Party (United States)
+| votes = 20,138
+| percentage = 44.2
+}}
+{{Election box total no change
+| votes = 45,566
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Forward Party primary===
+====Nominee====
+* Andy Kaplan, healthcare executive<ref>{{Cite web |last=mhensley@postandcourier.com |first=Matthew Hensley |date=2026-03-30 |title=See who's running for office in Spartanburg County in the 2026 midterm elections |url=https://www.postandcourier.com/spartanburg/politics/spartanburg-county-candidates-sc-election-midterms/article_c281c06a-3dbb-4cae-b568-0d8e99f120f4.html |access-date=2026-03-30 |website=Post and Courier |language=en}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Likely|R}}
+|October 30, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|June 25, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Wes Climer (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web |title=U.S. Chamber Endorses Candidate Wes Climer for South Carolina’s Fifth Congressional District |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-wes-climer-for-south-carolinas-fifth-congressional-district |website=U.S. Chamber of Commerce |access-date=12 August 2026 |date=July 15, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Mallory Dittmer (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Wes Climer (R)
+|$790,548
+|$271,164
+|$519,835
+|-
+|{{party shading/Democratic}}| Mallory Dittmer (D)
+|$116,655
+|$54,706
+|$61,950
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 5th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Wes Climer]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = Mallory Dittmer
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 6==
+{{see also|South Carolina's 6th congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 6th congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 6
+| next_year = 2028
+| image1 = Jim Clyburn official portrait 116th Congress (cropped).jpg
+| nominee1 = [[Jim Clyburn]]
+| party1 = Democratic Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = John Peterson
+| party2 = Republican Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image =
+| map_size = 300px
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Jim Clyburn]]
+| before_party = Democratic Party (United States)
+| after_election =
+| after_party =
+}}
+The 6th district runs through the [[Black Belt (geological formation)|Black Belt]] and takes in [[Columbia, South Carolina|Columbia]] and [[North Charleston, South Carolina|North Charleston]]. The incumbent is Democrat [[Jim Clyburn]], who was re-elected with 59.5% of the vote in 2024.<ref name=":0" />
+
+===Democratic primary===
+====Nominee====
+* [[Jim Clyburn]], incumbent U.S. representative<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=fdjPoLzFfBQ |title=Watch Live: Clyburn Makes Announcement In South Carolina |date=2026-03-12 |last=The Hill |access-date=2026-03-12 |via=YouTube}}</ref>
+====Eliminated in primary====
+* Frederick Goodwin, maintenance technician<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24495&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jim Clyburn
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Rep. Jim Clyburn for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-rep-jim-clyburn-for-reelection-to-congress/ |website=AFGE |access-date=May 27, 2026 |date=May 27, 2026}}</ref>
+;Organizations
+* [[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jim Clyburn (D)
+|$2,600,366
+|$1,206,725
+|$1,405,768
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - South Carolina 6th |url=https://www.fec.gov/data/elections/house/SC/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title = Democratic primary results }}
+{{Election box winning candidate with party link no change
+| candidate = [[Jim Clyburn]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 75,411
+| percentage = 90.3
+}}
+{{Election box candidate with party link no change
+| candidate = Frederick Goodwin
+| party = Democratic Party (United States)
+| votes = 8,145
+| percentage = 9.7
+}}
+{{Election box total no change
+| votes = 83,556
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+* John Peterson, president of the Deer Park 1B precinct in the [[Charleston County, South Carolina|Charleston County]] Republican Party<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24206&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+====Eliminated in primary====
+* Maurice Washington, former chair of the [[Charleston County, South Carolina|Charleston County]] Republican Party<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24462&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+
+====Results====
+{{Election box begin no change |title = Republican primary results }}
+{{Election box winning candidate with party link no change
+| candidate = John Peterson
+| party = Republican Party (United States)
+| votes = 22,169
+| percentage = 74.0
+}}
+{{Election box candidate with party link no change
+| candidate = Maurice Washington
+| party = Republican Party (United States)
+| votes = 7,781
+| percentage = 26.0
+}}
+{{Election box total no change
+| votes = 29,950
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Alliance primary===
+====Nominee====
+* Joseph Oddo, consultant<ref>{{Cite web |title=Candidate Detail |url=https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=24207&electionId=22596&searchType=Default |website=South Carolina Election Commission}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 25, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|June 25, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Jim Clyburn (D)
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA" />
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=Jim Clyburn |url=https://giffords.org/candidates/jim-clyburn-2/ |website=Giffords |access-date=September 3, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Jim Clyburn (D)
+|$881,796
+|$1,282,169
+|$1,438,754
+|-
+|{{party shading/Republican}}| John Peterson (R)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 6th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jim Clyburn]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = John Peterson
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 7==
+{{see also|South Carolina's 7th congressional district}}
+{{Infobox election
+| election_name = 2026 South Carolina's 7th congressional district election
+| country = South Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in South Carolina#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in South Carolina#District 7
+| next_year = 2028
+| image1 = Russell Fry 119th Congress (cropped).jpg
+| nominee1 = [[Russell Fry]] 
+| party1 = Republican Party (United States)
+| popular_vote1 =
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = John Vincent 
+| party2 = Democratic Party (United States)
+| popular_vote2 =
+| percentage2 =
+| map_image =
+| map_size = 300px
+| map_caption =
+| title = U.S. Representative
+| before_election = [[Russell Fry]]
+| before_party = Republican Party (United States)
+| after_election =
+| after_party =
+}}
+The 7th district is located in northeastern South Carolina, taking in [[Myrtle Beach, SC|Myrtle Beach]] and [[Florence, SC|Florence]]. The incumbent is Republican [[Russell Fry]], who was re-elected with 64.9% of the vote in 2024.<ref name=":0" />
+
+===Republican primary===
+====Nominee====
+* [[Russell Fry]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849880 |url=https://docquery.fec.gov/cgi-bin/forms/H2SC07280/1849880/ |access-date=2025-08-29 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Russell Fry
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Russell Fry (R)
+|$1,438,660
+|$1,011,930
+|$987,912
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - South Carolina 7th |url=https://www.fec.gov/data/elections/house/SC/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 7, 2026}}</ref></small>
+|}
+
+===Democratic primary===
+====Nominee====
+* John Vincent, retiree<ref>{{Cite web |last=Chornobroff |first=Shaun |date=2025-04-17 |title=Navy veteran hopes to be first Democrat this century to represent Grand Strand, Pee Dee in Congress |url=https://scdailygazette.com/2025/04/17/navy-veteran-hopes-to-be-first-democrat-to-win-grand-strand-and-pee-dee-congressional-seat/ |access-date=2025-06-24 |website=[[SC Daily Gazette]] |language=en-US}}</ref>
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|John Vincent (D)
+|$211,640
+|$157,291
+|$54,349
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+===Independents===
+====Filed paperwork====
+* Carter Gibson-Grossmann<ref>{{Cite web |title=FEC Form 2 Statement of Candidacy filing FEC-1957760|url=https://docquery.fec.gov/pdf/014/202604049856980014/202604049856980014.pdf}}</ref>
+* Jaquelyn Graham<ref>{{Cite web |title=FEC Form 2 Statement of Candidacy filing FEC-1875522|url=https://docquery.fec.gov/cgi-bin/forms/H6SC07026/1875522/}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|June 25, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|June 25, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Russell Fry (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-russell-fry-for-south-carolinas-seventh-district|title=U.S. Chamber Endorses Rep. Russell Fry for South Carolina's Seventh District|date=September 14, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Russell Fry (R)
+|$1,584,042
+|$1,187,907
+|$957,318
+|-
+|{{party shading/Democratic}}| John Vincent (D)
+|$234,953
+|$208,271
+|$26,682
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px"| Russell<br />Fry (R)
+! style="width:100px" |John<br />Vincent (D)
+! Undecided
+|-
+|style="text-align:left;"|Blueprint Polling (D)<ref>{{Cite web|url=https://holycitysinner.com/politics/new-poll-vincent-and-fry-in-statistical-dead-heat-in-south-c/|title=New Poll: Vincent and Fry in Statistical Dead Heat in South Carolina's 7th District|website=Holy City Sinner|date=August 4, 2026|access-date=August 6, 2026}}</ref>{{efn-ua|name=Vincent|Poll sponsored by Vincent's campaign}}
+|July 27–28, 2026
+|557 (LV)
+|—
+|{{party shading/Republican}}|'''41%'''
+|37%
+|22%
+|}
+
+====Results====
+{{Election box begin|title=2026 South Carolina's 7th congressional district election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Russell Fry]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = John Vincent
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==See also==
+* [[2026 South Carolina elections]]
+* [[2026 United States House of Representatives elections]]
+* [[2026 South Carolina House of Representatives election]]
+
+==Notes==
+{{reflist|group=lower-alpha}}
+{{reflist|group=upper-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+
+* [https://margo-ellis.com/ Margo Ellis (A)]
+* [https://www.jennycostahoneycutt.com/ Jenny Costa Honeycutt (R)]
+* [https://www.nancylacore.com/ Nancy Lacore (D)]
+* [https://www.reesideforcongress.com/ Bill Reeside (L)]
+
+;Official campaign websites for 2nd district candidates
+* [https://www.khalifaforcongress.com/ Zyon Khalifa (D)]
+* [https://www.joemeansjobs.com/ Joe Wilson (R)]
+
+;Official campaign websites for 3rd district candidates
+* [https://www.sheribiggs.com/ Sheri Biggs (R)]
+* [https://www.brianforliberty.com/ Brian Corriea (L)]
+* [https://www.euniceforsc.com/ Eunice Lehmacher (D)]
+
+;Official campaign websites for 4th district candidates
+* [https://www.jessica4sc.com/ Jessica Ethridge (L)]
+* [https://www.mcclainforsc.com/ Courtney McClain (D)]
+* [https://votetimmons.com/ William Timmons (R)]
+
+;Official campaign websites for 5th district candidates
+* [https://wesclimer.com/ Wes Climer (R)]
+* [https://www.dittmerforcongress.com/ Mallory Dittmer (D)]
+* [https://www.andykaplan4congress.com/ Andy Kaplan (F)]
+
+;Official campaign websites for 6th district candidates
+* [https://clyburnforcongress.com/ Jim Clyburn (D)]
+* [https://sites.google.com/view/cartergibsongrossmannforsc7/home Carter Gibson-Grossmann (I)]
+* [https://www.johnpeterson.org/ John Peterson (R)]
+
+;Official campaign websites for 7th district candidates
+* [https://russellfrysc.com/ Russell Fry (R)]
+* [https://www.vincent4congress.org/ John Vincent (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in South Carolina|2026]]
+[[Category:2026 United States House of Representatives elections|South Carolina]]
+[[Category:2026 elections in South Carolina|United States House of Representatives]]

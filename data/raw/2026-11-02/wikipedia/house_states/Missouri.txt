@@ -1,0 +1,1876 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{distinguish|2026 Missouri House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Missouri
+| country = Missouri
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri
+| next_year = 2028
+| seats_for_election = All 8 Missouri seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Republican Party (United States)
+| last_election1 = '''6'''
+| seats1 = '''6'''
+| party2 = Democratic Party (United States)
+| last_election2 = 2
+| seats2 = 2
+| seat_change1 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{ElectionsMO}}
+The '''2026 United States House of Representatives elections in Missouri''' will be held on November 3, 2026, to elect the eight [[U.S. representative]]s from the [[U.S. state|state]] of [[Missouri]], one from each of the state's eight [[Missouri's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. Primary elections took place on August 4, 2026.
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+== Background ==
+{{Main|2026 Missouri Proposition A}}
+{{Excerpt|2026 Missouri Proposition A}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Missouri's 1st congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Wesley Bell, official portrait (119th Congress) (cropped).jpg
+| nominee1 = [[Wesley Bell]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Paul Berry
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Wesley Bell]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Missouri's 1st congressional district}}
+[[File:Missouri's 1st congressional district (since 2027) (new version).svg|thumb|270px|Missouri's 1st congressional district boundary used in the primaries of the 2026 elections<br/>{{maplink|from=Missouri's 1st congressional district (2027–).map|text=Interactive map version}}]]
+[[File:Missouri's 1st congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 1st congressional district boundary used in the general elections for the 2026 elections<br/>{{maplink|from=Missouri's 1st congressional district (2023–).map|text=Interactive map version}}]]
+The 1st district encompasses the city of [[St. Louis]] and much of northern [[St Louis County, Missouri|St. Louis County]], including [[Florissant, Missouri|Florissant]] and [[University City, Missouri|University City]]. The incumbent is Democrat [[Wesley Bell]], who was elected with 75.9% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Wesley Bell]], incumbent U.S. representative<ref name="Cori">{{cite news |last1=Palermo |first1=Gregg |title=Former Rep. Cori Bush still weighing 2026 plans |url=https://spectrumlocalnews.com/mo/st-louis/news/2025/06/20/cori-bush-2026-pplans |access-date=June 20, 2025 |work=[[Spectrum News]] |date=June 20, 2025 |language=en}}</ref>
+
+=====Eliminated in primary=====
+*[[Cori Bush]], former U.S. representative (2021–2025)<ref>{{cite news |last1=Gladney |first1=Nick |title=Cori Bush announces bid to reclaim Missouri congressional seat |url=https://fox2now.com/news/missouri/cori-bush-announces-bid-to-reclaim-missouri-congressional-seat/ |access-date=October 3, 2025 |work=[[KTVI]] |date=October 3, 2025 |archive-url=https://web.archive.org/web/20251026041403/https://fox2now.com/news/missouri/cori-bush-announces-bid-to-reclaim-missouri-congressional-seat/ |archive-date=October 26, 2025 |url-status=dead}}</ref>
+*Carl Harris, business owner<ref name="ts">{{cite news |last1=Gooch |first1=Bonita |title=Missouri Congressional Races Take Shape - The Community Voice |url=https://www.communityvoiceks.com/2026/03/02/cleaver-files-uncertain-district-map-missouri/ |access-date=March 11, 2026 |work=communityvoiceks.com |date=March 2, 2026 |quote=Also in the race are Alissa Murphy who ran as a write in candidate for U.S. Senate in 2024 and Carl E. Harris Sr. also ran for office before unsuccessfully.}}</ref><ref name="cf">{{Cite web |title=Candidate Filing List |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%201&ElectionCode=750006905 |access-date=March 31, 2026 |website=Missouri Secretary of State}}</ref>
+*Carl E. Henderson<ref name="cf"/>
+*Alissa Murphy, sales director<ref>{{Cite web |title=FEC Form 2 for Report FEC-1954026 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO01311/1954026 |access-date=2026-03-18 |website=docquery.fec.gov}}</ref><ref name="cf"/><ref name="ts"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Wesley Bell
+|columns=yes
+|list=
+;U.S. representatives
+*[[Pete Aguilar]], [[California's 33rd congressional district|CA-33]] (2015–present)<ref name="EarnsBacking"/>
+*[[Katherine Clark]], [[House minority whip]] (2023–present) from [[MA-05]] (2013–present)<ref name="EarnsBacking"/>
+*[[Emanuel Cleaver]], [[MO-05]] (2005–present)<ref name="CleaverBell">{{cite web |last1=Holleman |first1=Joe Holleman |title=In visit to St. Louis, Nancy Pelosi, Emanuel Cleaver back Wesley Bell and slam GOP |url=https://www.stltoday.com/news/local/column/joe-holleman/article_07263a00-e214-4131-9e9b-e964c8ea0804.html |website=St. Louis Post Dispatch |access-date=31 July 2026 |language=en |date=25 July 2026}}</ref>
+*[[Hakeem Jeffries]], [[House minority leader]] (2023–present) from [[NY-08]] (2013–present)<ref name="EarnsBacking">{{cite web |last1=Holleman |first1=Joe |title=Wesley Bell earns reelection backing from U.S. House leadership |url=https://www.stltoday.com/news/local/column/joe-holleman/article_35884ec7-35b1-412f-9437-4f2bc89ed917.html |website=STLtoday |access-date=22 May 2026 |language=en |date=8 April 2026}}</ref>
+*[[Nancy Pelosi]], former [[Speaker of the United States House of Representatives|speaker of the House]] (2007–2011, 2019–2023) from [[California's 11th congressional district|CA-11]] (1987–present)<ref name="PelosiBell">{{cite web |title=Nancy Pelosi backs Wesley Bell in St. Louis congressional primary rematch |url=https://fox2now.com/news/missouri/nancy-pelosi-backs-wesley-bell-in-st-louis-congressional-primary-rematch/ |website=FOX2now |access-date=31 July 2026}}</ref>
+
+;Labor unions
+* [[American Federation of Government Employees]]<ref name="AFGEBellCleaver">{{cite web |title=Largest Federal Employee Union Endorses Missouri Reps. Bell, Cleaver for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-missouri-reps-bell-cleaver-for-reelection-to-congress |website=AFGE |access-date=22 July 2026 |language=en |date=20 July 2026}}</ref>
+* Missouri [[AFL-CIO]]<ref name="AFLCIO">{{cite web|title= Missouri AFL-CIO 2026 PRIMARY Endorsements |url=https://moaflcio.org/news/missouri-afl-cio-2026-primary-endorsements|website=Missouri AFL-CIO}}</ref>
+*Missouri and Kansas [[LIUNA|Laborers District Council]]<ref name="MKLDC1">{{cite web |title=Endorsements |url=https://www.mkldc.org/endorsements/ |website=Missouri Kansas Laborers' District Council |access-date=2 August 2026}}</ref>
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes}}</ref>
+*[[United Auto Workers]]<ref name="STLUAW">{{cite web |last1=Holleman |first1=Joe |title=Recent endorsements for Wesley Bell and Cori Bush show Democratic split |url=https://www.stltoday.com/news/local/column/joe-holleman/article_7461d38b-9aee-4043-a622-51a08266a949.html |website=St. Louis Today |access-date=22 July 2026 |language=en |date=8 July 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web |title=AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured/ |website=AIPAC PAC |access-date=12 February 2026}}</ref>
+*[[Congressional Black Caucus]]<ref>{{cite web |last1=Holleman |first1=Joe |title=Wesley Bell secures endorsement of Congressional Black Caucus |url=https://www.stltoday.com/news/local/column/joe-holleman/article_b602fd2c-0281-4513-a44e-eadfb89ef1d1.html |website=Post-Dispatch |access-date=10 February 2026 |language=en |date=9 February 2026}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[Humane World for Animals|Humane World Action Fund]]<ref>{{cite web |title=Endorsements |url=https://humaneaction.org/endorsements?state=Missouri |website=Humane World Action Fund |access-date=31 July 2026 |language=en}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=28 October 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[League of Conservation Voters]]<ref name="LCV 4-25">{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref>{{cite news |last1=Holleman |first1=Joe |title=Planned Parenthood shifts support, endorses Wesley Bell in reelection race vs. Cori Bush |url=https://www.stltoday.com/news/local/column/joe-holleman/article_29c0b609-e75e-42f5-974d-a2ac202bdac9.html |access-date=March 25, 2026 |work=[[STLtoday.com]] |date=March 24, 2026}}</ref>
+
+;Newspapers
+*''[[St. Louis Post-Dispatch]]''<ref name="StDisp">{{cite web |title=Primary election endorsement: Wesley Bell has earned a Democratic re-nomination in 1st District |url=https://www.stltoday.com/opinion/editorial/article_e193431a-9031-4464-a034-af8e9f5d0b87.html |website=St. Louis Post-Dispatch |access-date=31 July 2026 |language=en |date=14 July 2026}}</ref>
+*''[[The St. Louis American]]''<ref name="StAm">{{cite web |title=Our endorsements for Tuesday's ballot |url=https://www.stlamerican.com/news/political-eye/our-endorsements-for-tuesdays-ballot/ |website=St. Louis American |access-date=31 July 2026 |date=30 July 2026}}</ref>
+}}
+{{Endorsements box
+|title=Cori Bush
+|columns=yes
+|list=
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref name="SemaforBush"/>
+;U.S. representatives
+*[[Jamaal Bowman]], former [[NY-16]] (2021–2025)<ref name="SemaforBush">{{cite web |last1=Wu |first1=Nicholas |title=Exclusive: Bernie Sanders endorses Cori Bush's comeback bid |url=https://www.semafor.com/article/06/16/2026/bernie-sanders-endorses-cori-bushs-comeback-bid |website=Semafor |access-date=22 June 2026 |language=en}}</ref>
+*[[Ayanna Pressley]], [[Massachusetts's 7th congressional district|MA-07]] (2019–present)<ref>{{cite news |last1=Daniels |first1=Cheyanne |title=Pressley breaks with Jeffries over Missouri primary race |url=https://www.politico.com/news/2026/08/04/congress/pressley-breaks-with-jeffries-01024024 |access-date=4 August 2026 |work=[[Politico]] |date=4 August 2026}}</ref>
+*[[Rashida Tlaib]], [[Michigan's 12th congressional district|MI-12]] (2019–present)<ref name="SemaforBush"/>
+
+;Local officials
+*[[Rasheen Aldridge Jr.]], [[St. Louis Board of Aldermen|St. Louis alderman]] from the [[Ward 14, St. Louis City|14th ward]] (2023–present)<ref name="Rasheen1">{{cite web |last1=Rivas |first1=Rebecca |last2=Spoerre |first2=Anna |title=Cori Bush targets Wesley Bell's Israel stance in St. Louis congressional rematch |url=https://missouriindependent.com/2026/07/14/cori-bush-targets-wesley-bells-israel-stance-in-st-louis-congressional-rematch/ |website=Missouri Independent |access-date=22 July 2026 |date=14 July 2026}}</ref>
+
+;Individuals
+*[[Jenifer Lewis]], actress and singer<ref>{{Cite web|url=https://www.stltoday.com/news/local/column/joe-holleman/article_0ced0919-005f-428e-8d0a-6c85764dbe31.html|title=Hollywood star Jenifer Lewis casts support to Cori Bush in U.S. House race|date=June 1, 2026|access-date=June 14, 2026|last=Holleman|first=Joe|website=St. Louis Post-Dispatch}}</ref>
+*[[Ms. Rachel]], [[YouTuber]] and children's educator<ref>{{Cite news |last=Corbett |first=Jessica |date=July 31, 2026 |title=Ms. Rachel Signals Support for El-Sayed, Jackson, McKinney, and Other Candidates Who 'Care About All Kids' |url=https://www.commondreams.org/news/progressives-running-for-congress-2026 |work=[[Common Dreams]] |access-date=August 1, 2026 |language=en}}</ref>
+*[[Hasan Piker]], political commentator<ref>{{Cite web|url=https://theintercept.com/2026/05/08/hasan-piker-cori-bush-wesley-bell-missouri-primary/|title=Hasan Piker is the Democrats' New Man on the Trail, Whether They Like It or Not|date=May 8, 2026|access-date=May 13, 2026|last=O'Shea|first=Devin|website=[[The Intercept]]}}</ref>
+
+;Labor unions
+*[[National Nurses United]]<ref>{{cite web |title=National Nurses United endorses Cori Bush for Missouri's 1st District |url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-cori-bush-for-missouris-1st-district |website=NNU |access-date=23 January 2026 |language=en |date=22 January 2026}}</ref>
+*[[UNITE HERE]] Local 74<ref>{{cite web|title= Congresswoman Cori Bush Endorsed By Puerto Rican Organization Boricuas Unidos En La Diáspora|url=https://blackstarnews.com/congresswoman-cori-bush-endorsed-by-puerto-rican-organization-boricuas-unidos-en-la-diaspora/|website=Black Star News|date=May 22, 2026}}</ref>
+
+;Organizations
+*[[A New Policy|A New Policy PAC]]<ref>{{cite web |title=A New Policy PAC Endorses Cori Bush|url=https://www.anewpolicypac.org/news/a-new-policy-pac-endorses-cori-bush|date=July 28, 2026|access-date=July 29, 2026|website=A New Policy PAC}}</ref>
+*[[Center for Biological Diversity]]<ref name=environmental>{{cite web |title=National Environmental Groups Endorse Cori Bush for Congress in Missouri's 1st District|url=https://oilchangeaction.org/national-environmental-groups-endorse-cori-bush-for-congress/|website=Oil Change Action|date=July 23, 2026|access-date=July 28, 2026}}</ref>
+*[[Council on American–Islamic Relations|CAIR]] Action<ref>{{Cite web |title=Missouri |url=https://cairaction.org/missouri/ |access-date=2026-02-24 |website=CAIR Action |language=en-US}}</ref>
+*[[Democratic Socialists of America]]<ref name="STLUAW"/>
+*[[Friends of the Earth]]<ref name=environmental/>
+*[[Jewish Voice for Peace]]<ref>{{cite web |title=JVP Action Endorsements 2026 |url=https://www.jewishvoiceforpeace.org/resource/jvp-action-endorsements-2026/|website=Jewish Voices for Peace Action|access-date=July 28, 2026}}</ref>
+*[[Justice Democrats]]<ref>{{cite web |last2=Mutnick |first2=Ally |last1=Weiss |first1=Laura |title=Justice Democrats endorse Cori Bush in rematch against Wesley Bell |url=https://punchbowl.news/article/campaigns/bush-endorsement-justice-dems/ |access-date=October 23, 2025 |work=[[Punchbowl News]] |date=October 23, 2025}}</ref>
+*[[MoveOn]]<ref>{{cite web |url=https://front.moveon.org/endorsements/candidates/cori-bush/ |title=Cori Bush}}</ref>
+*[[Our Revolution]]<ref>{{cite web |title='Taking On AIPAC Again,' Cori Bush Launches Campaign to Win Back House Seat |url=https://www.commondreams.org/news/cori-bush-running-for-congress |website=Common Dreams |language=en}}</ref>
+*[[PAL PAC]]<ref>{{cite web |title=Endorsements |url=https://www.palpac.org/endorsements |website=PAL PAC |access-date=February 25, 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web |title=Meet Our 2026 Candidates |url=https://www.peaceaction.org/endorsements/ |website=Peace Action |access-date=23 November 2025 |language=en-EN}}</ref>
+*[[Progressive Democrats of America]]<ref name="PDA">{{#invoke:cite|web|title=ENDORSEMENTS|url=https://pdamerica.org/endorsements/|publisher=[[Progressive Democrats of America]]|access-date=March 24, 2026|archive-url=https://web.archive.org/web/20260227001236/https://pdamerica.org/endorsements/|archive-date=February 27, 2026}}</ref>
+*[[Progressive Victory]]<ref>{{cite tweet|user=ProgressiveVic|number=2012955213066359212|title=ENDORSEMENT ALERT! Here is our first 18 endorsements for this year's 2026 midterms.|access-date=January 18, 2026}}</ref>
+*St. Louis [[Democratic Socialists of America]]<ref>{{cite web |title=Saint Louis DSA is proud to endorse Cori Bush for US Congress! |url=https://www.instagram.com/p/DQCwwKJDgwI/ |website=STDSA on Instagram |access-date=28 October 2025}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |url=https://www.trackaipac.com/endorsements |title=TrackAIPAC Endorsements |access-date=December 2, 2025}}</ref>
+*[[US Campaign for Palestinian Rights]] Action<ref>{{cite web |title=USCPR Action endorses nine bold progressives in first slate|url=https://www.uscpraction.org/statementsandletters/uscpr-action-endorses-first-slate|website=US Campaign for Palestinian Rights Action |access-date=21 May 2026|date=14 May 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Wesley Bell (D)
+|$3,561,711
+|$2,901,538
+|$1,094,094
+|-
+|{{party shading/Democratic}}|Cori Bush (D)
+|$1,306,727
+|$1,206,974
+|$97,762
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Missouri 1st |url=https://www.fec.gov/data/elections/house/MO/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;" |Wesley<br />Bell
+! style="width:75px;" |Cori<br />Bush
+! Undecided
+|-
+| style="text-align:left;" |HIT Strategies (D)<ref>{{Cite tweet|user=DropSiteNews|number=2044157672514011561|title=⚡️📊 New Poll Shows Cori Bush Tied With Incumbent Wesley Bell in Missouri Primary|access-date=June 5, 2026}}</ref>{{efn-ua|name=Bush|Poll sponsored by Bush's campaign}}
+|February 19–23, 2026
+|401 (LV)
+|±&nbsp;5.4%
+|{{party shading/Democratic}} |'''44%'''
+|40%
+|17%
+|}
+
+====Forums====
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|+ 2026 Missouri's 1st congressional district Democratic primary forums
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" | Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+|-
+! scope="col" | [[Wesley Bell]]
+! scope="col" | [[Cori Bush]]
+! scope="col" | Carl Harris
+! scope="col" | Carl E. Henderson
+! scope="col" | Alissa Murphy
+|-
+! 1
+| style="white-space:nowrap;" | Apr. 30, 2026<ref name="MO1forum">{{cite web
+ |title=MO-01 Candidate Forum (2026): Cori Bush & Wesley Bell Campaign
+ |url=https://www.youtube.com/watch?v=9N8klnUNCno
+ |website=YouTube
+ |publisher=6th Ward Democrats
+ |date=May 3, 2026
+ |access-date=July 25, 2026
+}}</ref>
+| Democratic Wards<br>3, 5, 6, 7, and 8
+| Ben Murray<br>Inez Bordeaux
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=9N8klnUNCno YouTube]
+| style="background:#FFFFDD;" | '''A'''{{efn|Bell was unable to attend because of a scheduling conflict. A campaign surrogate read an opening statement on his behalf by phone.<ref name="MO1forum" />}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|-
+! 2
+| style="white-space:nowrap;" | Jul. 24, 2026<ref name="MO1STLPR">{{cite web
+ |title=Congressman Wesley Bell and former Congresswoman Cori Bush clashed repeatedly in a joint appearance
+ |url=https://www.youtube.com/watch?v=K_LUfrAVn1Y
+ |website=YouTube
+ |publisher=[[St. Louis Public Radio]]
+ |date=July 24, 2026
+ |access-date=July 25, 2026
+}}</ref>
+| [[St. Louis Public Radio|STLPR]]
+| Jason Rosenbaum
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=K_LUfrAVn1Y YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|}
+
+==== Results ====
+[[File:2026 Congressional Democratic Primary Election in Missouri's 1st Congressional District, results by county.svg|thumb|180px|Democratic primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Bell}}
+| {{legend|#6674DE|60–70%}}
+| {{legend|#A5B0FF|40–50%}}
+}}
+]]
+
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Wesley Bell]] (incumbent)|party=Democratic Party (United States)|votes=83,853|percentage=59.2}}
+{{Election box candidate with party link no change|candidate=[[Cori Bush]] |party=Democratic Party (United States)|votes=52,299|percentage=36.9}}
+{{Election box candidate with party link no change|candidate=Alissa Murphy|party=Democratic Party (United States)|votes=3,261|percentage=2.3}}
+{{Election box candidate with party link no change|candidate=Carl Harris|party=Democratic Party (United States)|votes=1,570|percentage=1.1}}
+{{Election box candidate with party link no change|candidate=Carl E. Henderson|party=Democratic Party (United States)|votes=728|percentage=0.5}}
+{{Election box total no change|votes=141,711|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*Paul Berry, bail bondsman and perennial candidate<ref name="cf"/>
+
+=====Eliminated in primary=====
+*Andrew Jones, utility executive and perennial candidate<ref name="cf"/>
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=Paul Berry|party=Republican Party (United States)|votes=7,042|percentage=53.4}}
+{{Election box candidate with party link no change|candidate=Andrew Jones|party=Republican Party (United States)|votes=6,136|percentage=46.6}}
+{{Election box total no change|votes=13,178|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+* Tom Schmitz, vice chair of the [[Libertarian Party of Missouri]] for Ward 4<ref name="cf"/>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Tom Schmitz|party=Libertarian Party (United States)|votes=428|percentage=100.0}}
+{{Election box total no change|votes=428|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |access-date=July 15, 2025 |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Missouri's 2nd congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Ann Wagner portrait (118th Congress).jpg
+| nominee1 = [[Ann Wagner]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Fred Wellman, August 2025.png
+| nominee2 = Fred Wellman
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Ann Wagner]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Missouri's 2nd congressional district}}
+[[File:Missouri's 2nd congressional district (since 2027) (new version).svg|thumb|270px|Missouri's 2nd congressional district boundary used in the primaries of the 2026 elections<br/>{{maplink|from=Missouri's 2nd congressional district (2027–).map|text=Interactive map version}}]]
+[[File:Missouri's 2nd congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 2nd congressional district boundary used in the general elections for the 2026 elections<br/>{{maplink|from=Missouri's 2nd congressional district (2023–).map|text=Interactive map version}}]]
+The 2nd district is anchored by the southern and western suburbs of [[St. Louis, Missouri|St. Louis County]], including [[Wildwood, Missouri|Wildwood]], [[Chesterfield, Missouri|Chesterfield]], [[Ballwin, Missouri|Ballwin]] and [[Kirkwood, Missouri|Kirkwood]], as well as [[Franklin County, Missouri|Franklin County]] and others. The incumbent is Republican [[Ann Wagner]], who was re-elected with 54.5% of the vote in 2024.<ref name="HPVT"/><ref name="da">{{Cite web |first=Nathaniel |last=Rakich |title=A Detailed Analysis of Missouri's New Congressional Map |url=https://www.insideelections.com/news/article/a-detailed-analysis-of-missouris-new-congressional-map |date=September 29, 2025|access-date=2025-10-06 |website=www.insideelections.com |language=en}}</ref>
+
+===Republican primary===
+====Nominee====
+*[[Ann Wagner]], incumbent U.S. representative<ref name="wagner">{{cite news |last1=Suntrup |first1=Jack |title=Ann Wagner says she's running again in 2026 after Bill Eigel declares interest in job |url=https://www.stltoday.com/news/local/government-politics/ann-wagner-says-she-s-running-again-in-2026-after-bill-eigel-declares-interest-in/article_cee94e5c-80da-11ef-96b5-87449612a283.html |access-date=February 22, 2025 |work=[[St. Louis Post-Dispatch]] |date=October 2, 2024 |language=en}}</ref>
+
+====Eliminated in primary====
+*Matthew Grant, lawyer<ref>{{cite news |title=Nine vying for bid to win 2nd Congressional District seat |url=https://www.myleaderpaper.com/news/elections/nine-vying-for-bid-to-win-2nd-congressional-district-seat/article_6b1fdae3-172f-49f8-95ed-33266abbcbb6.html |access-date=July 27, 2026 |work=Leader Publications |date=July 15, 2026}}</ref>
+*Peter Pfeifer, entrepreneur<ref name="fi"/>
+*Elizabeth Sparks-Holmes<ref name="fi">{{Cite web |title=Candidate Filing List |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%202&ElectionCode=750006905 |access-date=March 31, 2026 |website=Missouri Secretary of State}}</ref>
+*Brandon Wilkinson, truck driver<ref name="fi"/>
+'''Not on ballot'''
+
+* Ryan Sheridan, nurse<ref>{{cite news |title=Ryan Sheridan Launches Campaign for Congress in Missouri's 2nd District |url=https://www.wjhl.com/business/press-releases/ein-presswire/831969599/ryan-sheridan-launches-campaign-for-congress-in-missouris-2nd-district/ |access-date=September 10, 2025 |work=[[WJHL]] |date=July 18, 2025 |language=en}}</ref>
+
+====Withdrawn====
+*[[Bill Eigel]], former [[Missouri Senate|state senator]] from the 23rd district (2017–2025) and candidate for governor in [[2024 Missouri gubernatorial election|2024]]<ref name="wagner"/> ''(running for [[St. Charles County]] Executive)''<ref>{{Cite web |last=Louis |first=Gregg Palermo St |title=Eigel to run for St. Charles Co. Executive in 2026 |url=https://spectrumlocalnews.com/mo/st-louis/news/2025/02/03/eigel-running-for-county-executive |access-date=2025-12-17 |website=spectrumlocalnews.com |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Ann Wagner
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=President Donald Trump Endorses Congresswoman Ann Wagner for Re-Election in Missouri's Second Congressional District: "She Will Not Let You Down" |url=https://themissouritimes.com/press-release-president-donald-trump-endorses-congresswoman-ann-wagner-for-re-election-in-missouris-second-congressional-district-she-will-not-let-you-down/ |website=The Missouri Times |access-date=26 November 2025 |language=en |date=22 July 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*Missouri [[Fraternal Order of Police]]<ref name="FOP">{{cite web |last1=Kroesen |first1=Jake |title=FOP Rolls Out 2026 Endorsements |url=https://themissouritimes.com/fop-rolls-out-2026-endorsements/ |website=Missouri Times |access-date=4 August 2026 |date=June 19, 2026}}</ref>
+*[[Log Cabin Republicans]]<ref name="LCRs">{{cite web |title=22 Republicans endorsed by LGBT organization: Full list of names |url=https://www.newsweek.com/22-republicans-endorsed-by-lgbt-organization-full-list-of-names-11460976 |website=Newsweek |access-date=4 February 2026 |language=en |date=3 February 2026}}</ref>
+*[[Maggie's List]]<ref>{{cite web |url=https://maggieslist.org/maggies-list-endorses-five-more-conservative-women-for-2026/ |title=Maggie's List Endorses Five More Conservative Women for 2026 |website=maggieslist.org |date=March 16, 2026 |access-date=March 25, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ryan Sheridan (R)
+|$120,290
+|$120,290
+|$0
+|-
+|{{party shading/Republican}}|Ann Wagner (R)
+|$3,528,094
+|$2,411,927
+|$4,227,396
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Missouri 2nd |url=https://www.fec.gov/data/elections/house/MO/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Ann Wagner]] (incumbent)|party=Republican Party (United States)|votes=63,668|percentage=73.8}}
+{{Election box candidate with party link no change|candidate=Peter Pfeifer|party=Republican Party (United States)|votes=6,854|percentage=8.0}}
+{{Election box candidate with party link no change|candidate=Brandon Wilkinson|party=Republican Party (United States)|votes=6,052|percentage=7.0}}
+{{Election box candidate with party link no change|candidate=Matthew Grant|party=Republican Party (United States)|votes=5,550|percentage=6.4}}
+{{Election box candidate with party link no change|candidate=Elizabeth Sparks-Holmes|party=Republican Party (United States)|votes=4,095|percentage=4.8}}
+{{Election box total no change|votes=86,219|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Fred Wellman, podcast host<ref>{{Cite web |last1=Holleman |first1=Joe |title=U.S. Rep. Ann Wagner draws another opponent in 2026 election |url=https://www.stltoday.com/news/local/column/joe-holleman/article_a877553a-9547-48dd-8767-d9efa2336c2d.html |access-date=October 1, 2025 |website=[[St. Louis Post-Dispatch]] |date=October 1, 2025}}</ref>
+
+====Eliminated in primary====
+*Tim Bilash, physician<ref>{{#invoke:cite|news |last1=Palermo |first1=Gregg |title=National Democrats say they're still recruiting for the race against Rep. Ann Wagner |url=https://spectrumlocalnews.com/mo/st-louis/news/2025/10/15/congressional-politics-missouri-2nd-district |access-date=October 15, 2025 |work=[[Spectrum News]] |date=October 15, 2025 |language=en}}</ref>
+*Joan VonDras, retired teacher<ref>{{cite web |last1=Holleman |first1=Joe |title=Another Democrat files to unseat U.S. Rep. Ann Wagner |url=https://www.stltoday.com/news/local/column/joe-holleman/article_f158b7c4-52dd-4fe7-80c5-7b6aecf09413.html |access-date=December 3, 2025 |work=[[STLtoday.com]] |date=December 1, 2025}}</ref>
+
+==== Withdrawn or disqualified ====
+* Nick Vivio, epidemiologist at [[Columbia University]]<ref>{{cite web |last1=Fenske |first1=Sarah |title=Nick Vivio is raising money to challenge Ann Wagner—and eliminate medical debt |url=https://www.stlmag.com/news/nick-vivio-congress-medical-debt/ |access-date=November 23, 2025 |work=[[St. Louis Magazine]] |date=November 7, 2025}}</ref><ref>{{Cite web |title=SOS, Missouri - Elections: Offices Filed in Candidate Filing |url=https://s1.sos.mo.gov/candidatesonweb/displaycandidatesplacement.aspx |access-date=2026-08-04 |website=s1.sos.mo.gov}}</ref>
+
+====Declined====
+*[[Doug Beck]], minority leader of the [[Missouri Senate]]<ref>{{Cite web |title=Missouri Senate minority leader expects challenging 2026 after contentious end this year |url=https://www.stlpr.org/podcast/politically-speaking/2025-06-30/missouri-senate-minority-leader-expects-challenging-2026-after-contentious-end-this-year |access-date=July 5, 2025 |date=June 30, 2025 |website=[[KWMU]] |author1=Rosenbaum, Jason |author2=Kellogg, Sarah |language=en}}</ref> 
+*[[Adam Wainwright]], commentator for ''[[MLB on Fox]]'' and former [[St. Louis Cardinals]] baseball player<ref>{{cite news |last1=Goold |first1=Derrick |title=Congressman Adam Wainwright? Ex-Cardinals pitcher says 'not now' despite poll |url=https://www.stltoday.com/sports/professional/mlb/cardinals/article_07cfa567-7311-4942-b3f7-ae4eb50280d7.html |access-date=June 13, 2025 |work=[[St. Louis Post-Dispatch]] |date=June 11, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Fred Wellman
+| list =
+;U.S. representatives
+*[[Eric Swalwell]], former [[California's 14th congressional district|CA-14]] (2013–2026)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=20 January 2026 |language=en |date=8 January 2026}}</ref>
+*[[Eugene Vindman]], [[VA-07]] (2025–present)<ref name="EndTrack"/>
+*[[Jared Huffman]], [[CA-02]] (2013–present)<ref name="EndTrack"/>
+;Organizations
+*[[VoteVets]]<ref>{{cite web |url=https://votevets.org/press-releases/votevets-endorses-fred-wellman-for-missouris-second-congressional-district |title=VoteVets Endorses Fred Wellman for Missouri's Second Congressional District |website=votevets.org |date=December 10, 2025 |access-date=December 19, 2025}}</ref>
+;Labor unions
+* Missouri [[AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Tim Bilash (D)
+|$3,562
+|$3,733
+|$129
+|-
+|{{party shading/Democratic}}|Chuck Summers (D)
+|$16,948
+|$10,718
+|$73
+|-
+|{{party shading/Democratic}}|Nick Vivio (D)
+|$133,080
+|$111,962
+|$21,118
+|-
+|{{party shading/Democratic}}|Joan VonDras (D)
+|$321,990
+|$96,247
+|$225,742
+|-
+|{{party shading/Democratic}}|Fred Wellman (D)
+|$808,789
+|$562,187
+|$246,602
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Fred Wellman|party=Democratic Party (United States)|votes=39,345|percentage=45.9}}
+{{Election box candidate with party link no change|candidate=Joan VonDras|party=Democratic Party (United States)|votes=36,942|percentage=43.0}}
+{{Election box candidate with party link no change|candidate=Tim Bilash|party=Democratic Party (United States)|votes=9,562|percentage=11.1}}
+{{Election box total no change|votes=85,849|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+* Brandon Coulter Daugherty<ref name="fi"/>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Brandon Coulter Daugherty|party=Libertarian Party (United States)|votes=843|percentage=100.0}}
+{{Election box total no change|votes=843|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Lean|R}}
+|October 26, 2026
+|-
+| align="left" | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Likely|R}}
+|September 11, 2026
+|-
+| align="left" | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Tossup}}
+|October 27, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Fred Wellman (D)
+|list=
+;Organizations
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Endorsements |website=Reproductive Freedom for All |url=https://reproductivefreedomforall.org/elections |archive-url=https://web.archive.org/web/20261009122033/https://reproductivefreedomforall.org/elections |archive-date=October 9, 2026 |access-date=October 25, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ann Wagner (R)
+|$4,189,876
+|$5,669,709
+|$1,631,397
+|-
+|{{party shading/Democratic}}|Fred Wellman (D)
+|$2,178,965
+|$1,938,247
+|$240,718
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Ann<br/>Wagner (R)
+! style="width:100px;"| Fred<br/>Wellman (D)
+! Undecided
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{cite web|url=https://pollvault.substack.com/p/levee-math|title=Levee Math|date=October 21, 2026|access-date=October 22, 2026}}</ref>{{efn-ua|Poll sponsored by [[RealClearPolitics|Poll Vault]]}}
+|October 12–14, 2026
+|401 (LV)
+|–
+|46%
+|{{party shading/Democratic}}|'''51%'''
+|3%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Maxwell |first1=Mark |title=New poll in MO-2.  Trump +7 in 2024. Practically tied today.  Wellman 46% Wagner 45%  Why? 10% of Trump voters go Wellman. 6% of Harris voters go Wagner.  Who shows up? "Very excited" voters: Wellman 53-43.  Public Policy Polling, Oct. 19-20, 631 voters |url=https://x.com/MarkMaxwellTV/status/2112721483617464784 |publisher=[[Twitter]] |access-date=October 22, 2026 |date=October 20, 2026}}</ref>{{Efn-ua|Poll sponsored by House Majority PAC, which is focused on electing Democrats to the U.S. House of Representatives}}
+|October 19–20, 2026
+|631 (LV)
+|{{sdash}}
+|45%
+| {{party shading/Democratic}} |'''46%'''
+|10%
+|-
+|style="text-align:left;"|Remington Research Group (R)<ref name=RemingtonCD2>{{Cite tweet|user=MarkMaxwellTV|number=2103501820840534440|title= NEW POLL in MO-2 |access-date=September 28, 2026}}</ref>
+|September 14–15, 2026
+|565 (LV)
+|{{sdash}}
+|{{party shading/Republican}} |'''43%'''
+|42%
+|15%
+|-
+|style="text-align:left;"|FM3 Research (D)<ref name=FM3>{{Cite web|url=https://themissouritimes.com/wp-content/uploads/2026/06/220-7670-Wellman-MO-02-Summary-Memo.pdf|title=Missouri 2nd Congressional District Survey Results|work=FM3 Research|date=June 4, 2026|access-date=June 4, 2026}}</ref> 
+|May 26–31, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}} |'''44%'''
+|41%
+|15%
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Ann Wagner vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Ann<br/>Wagner (R)
+! style="width:100px;"| Generic<br/>Democrat
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{Cite tweet|number=1928100781569257786|first=James|last=Downs|user=jamesd0wns|title=Leaked PPP poll from a Dem org with some details on #MO02, a seat Democrats are targeting this cycle. Rep. Ann Wagner (R) 32% approve 49% disapprove. Head to head Wagner 46% Generic Dem 47%. May 21–22; 584 voters}}</ref> 
+|May 21–22, 2025
+|584 (V)
+|±&nbsp;4.0%
+|46%
+|{{party shading/Democratic}} |'''47%'''
+|7%
+|}
+
+'''Generic Republican vs. generic Democrat'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br/>Republican
+! style="width:100px;"| Generic<br/>Democrat
+! Undecided
+|-
+|style="text-align:left;"|Remington Research Group (R)<ref name=RemingtonCD2/>
+|September 14–15, 2026
+|565 (LV)
+|{{sdash}}
+|46%
+|{{party shading/Democratic}} |'''47%'''
+|7%
+|-
+|style="text-align:left;"|FM3 Research (D)<ref name=FM3/>
+|May 26–31, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}} |'''48%'''
+|44%
+|8%
+|}
+{{hidden end}}
+
+==District 3==
+{{Infobox election
+| election_name = 2026 Missouri's 3rd congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Onder Bob 119th Congress (cropped).jpg
+| nominee1 = [[Bob Onder]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Bethany Mann
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Bob Onder]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{main|Missouri's 3rd congressional district}}
+[[File:Missouri's 3rd congressional district (since 2027) (new version).svg|thumb|270px|Missouri's 3rd congressional district boundary used in the primaries of the 2026 elections<br/>{{maplink|from=Missouri's 3rd congressional district (2027–).map|text=Interactive map version}}]]
+[[File:Missouri's 3rd congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 3rd congressional district boundary used in the general elections for the 2026 elections<br/>{{maplink|from=Missouri's 3rd congressional district (2023–).map|text=Interactive map version}}]]
+The third district encompasses most of [[St. Charles County, Missouri|St. Charles County]] and extends as far west as to include most of [[Columbia, Missouri|Columbia]] and as far north as to include [[Mexico, Missouri|Mexico]] and a section of [[Hannibal, Missouri|Hannibal]]. The incumbent is Republican [[Bob Onder]], who was elected with 61.3% of the vote in 2024.<ref name="HPVT"/><ref name="da"/>
+
+===Republican primary===
+====Nominee====
+*[[Bob Onder]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848483 |url=https://docquery.fec.gov/cgi-bin/forms/H4MO03221/1848483/ |access-date=2025-10-03 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*John G. Fraser, accountant and former advisor to local government<ref>{{Cite web |title=John G Fraser (Republican, Missouri) Candidate Profile|url=https://ivoterguide.com/candidate/91214/race/27227/election/1415 |access-date=2026-07-23|website=ivoterguide.com}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Bob Onder
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web | title=Democrats look to flip Missouri's 3rd District as Republican challenger targets Onder's voting record - ABC17NEWS | url=https://abc17news.com/politics/your-voice-your-vote/2026/07/24/democrats-look-to-flip-missouris-3rd-district-as-republican-challenger-targets-onders-voting-record/ | access-date=2026-08-01 | website=abc17news.com}}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[National Right to Life Committee|Missouri Right to Life]]<ref>{{Cite web| title=Missouri right to life state and federal political action committees (MRL pacs) release August 4, 2026 primary election endorsements | url=https://missourilifepac.org/wp-content/uploads/2026/06/Press-Release_June-15_2026-Endorsement-List-1.pdf | archive-url=https://web.archive.org/web/20260616132757/https://missourilifepac.org/wp-content/uploads/2026/06/Press-Release_June-15_2026-Endorsement-List-1.pdf | archive-date=2026-06-16}}</ref>
+}}
+
+{{Endorsements box
+|title=John G. Fraser
+|list=
+;Organizations
+*[[St. Louis Post-Dispatch|St. Louis Post-Dispatch Editorial Board]]<ref>{{cite news |author=<!--Staff writer(s)/no by-line.--> |title=Primary Election Endorsement: Fraser is a better GOP choice than Onder in 3rd District |url=https://www.stltoday.com/opinion/editorial/article_a546068b-7117-42cc-b160-2f9d21253eaa.html |work=St. Louis Post-Dispatch |date=2026-07-16 |access-date=2026-07-22}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}} |John G. Fraser (R)
+|$17,196
+|$13,413
+|$3,783
+|-
+|{{party shading/Republican}} |Bob Onder (R)
+|$950,350
+|$629,335
+|$471,459
+|-
+!colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Missouri 3rd |url=https://www.fec.gov/data/elections/house/MO/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 25, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Bob Onder]] (incumbent)|party=Republican Party (United States)|votes=66,784|percentage=66.3}}
+{{Election box candidate with party link no change|candidate=John G. Fraser|party=Republican Party (United States)|votes=33,915|percentage=33.7}}
+{{Election box total no change|votes=100,699|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Bethany Mann, technology specialist and nominee for this district in [[2022 United States House of Representatives elections in Missouri#District 3|2022]] and [[2024 United States House of Representatives elections in Missouri#District 3|2024]]<ref>{{Cite web |title=MANN, BETHANY FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1867043|url=https://docquery.fec.gov/cgi-bin/forms/H4MO02090/1867043/}}</ref><ref>{{cite news |last1=Busselman |first1=Payton |title=Rally at Missouri capitol protests redrawing state's congressional lines |url=https://www.kbia.org/missouri-news-network/2025-08-18/hands-on-rally-at-missouri-capitol-protests-redrawing-states-congressional-lines |access-date=November 23, 2025 |work=[[KOMU 8]] |publisher=[[KBIA]] |date=August 18, 2025 |quote=Bethany Mann, a Democrat for Missouri Congressional District 3...}}</ref>
+
+====Eliminated in primary====
+*Tommy Holstein, videographer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1956740 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO03416/1956740 |access-date=2026-03-30 |website=docquery.fec.gov}}</ref>
+
+====Withdrawn====
+*Mike Conner, corrections officer<ref>{{cite news |last1=Dunlap |first1=Charles |title=These candidates are running for Boone County, state, federal offices |url=https://www.columbiatribune.com/story/news/politics/elections/2026/02/27/candidates-file-for-elected-office-boone-county-mo/88878114007/ |access-date=March 11, 2026 |work=[[Columbia Daily Tribune]] |date=February 27, 2026}}</ref>
+*Alexander Thurmon<ref>{{cite web |url=https://thepolitibase.com/candidate/thurmon-alexander/ |title=Alexander Thurmon |website=thepolitibase.com |publisher=[[The Politibase]] |access-date=July 23, 2026}}</ref>
+*Paul Wilson, dentist anesthesiologist<ref>{{Cite web |title=FEC Form 2 for Report FEC-1945417 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO03382/1945417 |access-date=2026-02-08 |website=docquery.fec.gov}}</ref> (''remained on ballot'')
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}} |Tommy Holstein (D)
+|$10,095
+|$7,625
+|$2,470
+|-
+|{{party shading/Democratic}} |Bethany Mann (D)
+|$43,339
+|$44,990
+|$2,776
+|-
+|{{party shading/Democratic}} |''Paul Wilson (D)''
+|$4,162
+|$4,453
+|$0
+|-
+!colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Bethany Mann|party=Democratic Party (United States)|votes=39,358|percentage=69.1}}
+{{Election box candidate with party link no change|candidate=Tommy Holstein|party=Democratic Party (United States)|votes=10,067|percentage=17.7}}
+{{Election box candidate with party link no change|candidate=Paul Wilson ''(withdrawn)''|party=Democratic Party (United States)|votes=7,539|percentage=13.2}}
+{{Election box total no change|votes=56,964|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+* Jim Higgins, computer systems analyst and perennial candidate<ref>{{Cite web |title=Candidate Filing List |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%203&ElectionCode=750006905 |access-date=April 1, 2026 |website=Missouri Secretary of State}}</ref>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Jim Higgins|party=Libertarian Party (United States)|votes=1,049|percentage=100.0}}
+{{Election box total no change|votes=1,049|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|October 1, 2026
+|-
+| align="left" | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align="left" | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Bethany Mann (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Missouri AFL-CIO]]<ref name="AFLCIOGeneral">{{cite news |title=Missouri AFL-CIO 2026 General Election Endorsements |website=Missouri AFL-CIO |url=https://moaflcio.org/news/2026-endorsements |archive-url=https://web.archive.org/web/20260930130552/https://moaflcio.org/news/2026-endorsements |archive-date=September 30, 2026 |access-date=October 27, 2026}}</ref>
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260901205734/https://nwpc.org/endorsed-candidates/|archive-date=September 1, 2026 |access-date=October 27, 2026}}</ref>
+}}
+
+==District 4==
+{{Infobox election
+| election_name = 2026 Missouri's 4th congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Mark Alford official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Mark Alford]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Jordan Herrera
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Mark Alford]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{main|Missouri's 4th congressional district}}
+[[File:Missouri's 4th congressional district (since 2027) (new version).svg|thumb|270px|Missouri's 4th congressional district boundary used in the primaries of the 2026 elections<br/>{{maplink|from=Missouri's 4th congressional district (2027–).map|text=Interactive map version}}]]
+[[File:Missouri's 4th congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 4th congressional district boundary used in the general elections for the 2026 elections<br/>{{maplink|from=Missouri's 4th congressional district (2023–).map|text=Interactive map version}}]]
+The 4th District as used in the primary includes a sliver of [[downtown Kansas City]] between the Kansas-Missouri border and [[Troost Avenue]], historically the dividing line between the city's white and Black neighborhoods, as well as suburbs such as [[Lee's Summit, Missouri|Lee's Summit]] and [[Grandview, Missouri|Grandview]] in southern [[Jackson County, Missouri|Jackson County]], and rural counties as far south as the [[Springfield metropolitan area, Missouri|Springfield area]] and as far east as the [[Lake of the Ozarks]].
+
+The 4th district as used in the general election is based in predominantly rural west-central Missouri, taking in [[Columbia, Missouri|Columbia]], [[Sedalia, Missouri|Sedalia]], [[Warrensburg, Missouri|Warrensburg]], and [[Lebanon, Missouri|Lebanon]].
+
+The incumbent is Republican [[Mark Alford]], who was re-elected with 71.1% of the vote in 2024.<ref name="HPVT"/><ref name="da"/>
+
+===Republican primary===
+====Nominee====
+*[[Mark Alford]], incumbent U.S. representative<ref>{{cite news |title=Congressman Mark Alford announces he will run for re-election in new 4th Congressional District |url=https://www.kshb.com/news/local-news/congressman-mark-alford-announces-he-will-run-for-re-election-in-new-4th-congressional-district |access-date=October 1, 2025 |work=[[KSHB-TV]] |date=September 29, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+*Heather Shelton<ref name="wr">{{Cite web |last=Shire |first=Kowthar |date=2026-03-31 |title=Who's running for Congress in Kansas City's redrawn districts? Here's a guide to 2026 candidates |url=https://www.kcur.org/politics-elections-and-government/2026-03-31/kansas-city-congressional-district-candidates-2026 |access-date=2026-03-31 |website=KCUR - Kansas City news and NPR |language=en}}</ref>
+*Scott Vera<ref name="wr"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Mark Alford
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="KCSAlford">{{cite web |last1=Harvel |first1=Jack |title=A crowded Democratic primary and Republican newcomers seek to oust Alford |url=https://www.kansascity.com/news/politics-government/article316594740.html |website=The Kansas City Star |access-date=4 August 2026 |date=July 28, 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*Missouri [[Fraternal Order of Police]]<ref name="FOP" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}} |Mark Alford (R)
+|$1,370,433
+|$808,792
+|$779,509
+|-
+!colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Missouri 4th |url=https://www.fec.gov/data/elections/house/MO/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Mark Alford]] (incumbent)|party=Republican Party (United States)|votes=72,386|percentage=77.7}}
+{{Election box candidate with party link no change|candidate=Heather Shelton|party=Republican Party (United States)|votes=15,935|percentage=17.1}}
+{{Election box candidate with party link no change|candidate=Scott Vera|party=Republican Party (United States)|votes=4,893|percentage=5.2}}
+{{Election box total no change|votes=93,214|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+* Jordan Herrera, attorney<ref name="gray"/>
+
+====Eliminated in primary====
+* Jeanette Cass, farmer and community advocate<ref name="wr"/>
+* Hartzell Gray, radio host and [[Kansas City Tenants Union]] organizer<ref name="Statement of Candidacy">{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6MO05247/1923475/}} October 23, 2025</ref>
+* Randy Miller, broadcaster<ref name="wr"/>
+* G Rick, entrepreneur<ref name="wr"/>
+* Ashleigh Rogers, interior designer<ref name="wr"/>
+* Wayne Russell<ref name="wr"/>
+
+====Withdrawn====
+*Ricky Dana, web designer<ref>{{cite web |title=FEC Disclosure Form 3 for COMMITTEE TO ELECT RICKY DANA FOR HOUSE MISSOURI-4 |url=https://docquery.fec.gov/cgi-bin/forms/C00907311/1950505/ |website=docquery.fec.gov |access-date=March 2, 2026}}</ref>
+* Danny Province, teacher and entrepreneur<ref>{{cite web |title=Danny Province |url=https://ballotpedia.org/Danny_Province |website=ballotpedia.org |access-date=July 23, 2026}}</ref>
+
+====Declined====
+*[[Jolie Justus]], former minority leader of the [[Missouri Senate]] (2013–2015) from the [[Missouri's 10th Senate district|10th district]] (2007–2015) and candidate for [[Mayor of Kansas City, Missouri|mayor of Kansas City]] in [[2019 Kansas City mayoral election|2019]]<ref name="EyeingMap">{{cite web |last1=Kelly |first1=Matthew |title=Eyeing gerrymandered map, national Democrats seek to recruit Missouri candidates |url=https://www.kansascity.com/news/politics-government/article312083527.html |access-date=September 18, 2025 |publisher=[[Kansas City Star]] |date=September 12, 2025}}</ref>
+*[[Quinton Lucas]], [[Mayor of Kansas City, Missouri|mayor of Kansas City]] (2019–present)<ref>{{cite web |last1=Godding |first1=Chloe |title=Kansas City Mayor Quinton Lucas says he will not run for congressional seat in 2026 |url=https://www.kmbc.com/article/kansas-city-mayor-quinton-lucas-not-running-for-congress/70884703 |publisher=[[KMBC-TV]] |access-date=March 31, 2026 |date=March 30, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jeanette Cass
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref name="NWPCPrimary">{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=July 25, 2026 |access-date=October 27, 2026}}</ref>
+
+}}
+
+{{Endorsements box
+|title=Hartzell Gray
+|list=
+;U.S. representatives
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name="KCSAlford" />
+
+;State legislators
+*[[Nina Turner]], former [[Ohio]] [[Ohio Senate|state senator]] (2008–2014)<ref name="KCSAlford" />
+
+;Organizations
+*[[Progressive Victory]]<ref name="Progressive Victory">{{cite web | title=Endorsements for 2026 | url=https://www.progressivevictory.win/endorsements |website=Progressive Victory}}</ref>
+*[[Progressive Democrats of America]]<ref name="PDA"/>
+*[[Track AIPAC]]<ref>{{cite web |url=https://www.trackaipac.com/endorsements |title=TrackAIPAC Endorsements |access-date=February 20, 2026}}</ref>
+*Kansas City [[Democratic Socialists of America]]<ref>{{Cite web | title=DSA Election Night 2026 - Results | url=https://2026.electoral.dsausa.org/ | access-date=2026-08-01 | website=2026.electoral.dsausa.org}}</ref>
+}}
+
+{{Endorsements box
+|title=Jordan Herrera
+|list=
+;Labor unions
+* Missouri [[AFL-CIO]]<ref name="AFLCIO"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |''Ricky Dana (D)''
+|$578
+|$578
+|$0
+|-
+| {{party shading/Democratic}} |Hartzell Gray (D)
+|$250,118
+|$205,149
+|$44,969
+|-
+| {{party shading/Democratic}} |Jordan Herrera (D)
+|$39,762
+|$22,674
+|$3,125
+|-
+| {{party shading/Democratic}} |Danny Province (D)
+|$25,150
+|$22,297
+|$3,991
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Jordan Herrera|party=Democratic Party (United States)|votes=19,971|percentage=30.5}}
+{{Election box candidate with party link no change|candidate=Hartzell Gray|party=Democratic Party (United States)|votes=18,192|percentage=27.7}}
+{{Election box candidate with party link no change|candidate=Jeanette Cass|party=Democratic Party (United States)|votes=9,620|percentage=14.7}}
+{{Election box candidate with party link no change|candidate=Ashleigh Rogers|party=Democratic Party (United States)|votes=9,043|percentage=13.8}}
+{{Election box candidate with party link no change|candidate=Randy Miller|party=Democratic Party (United States)|votes=4,889|percentage=7.5}}
+{{Election box candidate with party link no change|candidate=Wayne Russell|party=Democratic Party (United States)|votes=3,228|percentage=4.9}}
+{{Election box candidate with party link no change|candidate=G Rick|party=Democratic Party (United States)|votes=627|percentage=0.9}}
+{{Election box total no change|votes=65,570|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+* Thomas Holbrook, document imaging specialist<ref name="wr"/>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Thomas Holbrook|party=Libertarian Party (United States)|votes=907|percentage=100.0}}
+{{Election box total no change|votes=907|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align="left" | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align="left" | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+==District 5==
+{{Infobox election
+| election_name = 2026 Missouri's 5th congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = Emanuel Cleaver 118th Congress.jpg
+| nominee1 = [[Emanuel Cleaver]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Rick Brattin]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Emanuel Cleaver]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{main|Missouri's 5th congressional district}}
+[[File:Missouri's 5th congressional district (since 2027) (new version).svg|thumb|270px|Missouri's 5th congressional district boundary used in the primaries of the 2026 elections<br/>{{maplink|from=Missouri's 5th congressional district (2027–).map|text=Interactive map version}}]]
+[[File:Missouri's 5th congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 5th congressional district boundary used in the general elections for the 2026 elections<br/>{{maplink|from=Missouri's 5th congressional district (2023–).map|text=Interactive map version}}]]
+The 5th District as used in the primary includes a section of Kansas City, suburban neighborhoods such as [[Independence, Missouri|Independence]] in eastern Jackson County and rural stretches of western and [[Mid-Missouri]] extending as far as the outskirts of [[Columbia, Missouri|Columbia]] and [[Jefferson City, Missouri|Jefferson City]].
+
+The 5th district as used in the general election primarily consists of the inner ring of the [[Kansas City, Missouri|Kansas City]] metropolitan area, including nearly all of Kansas City south of the [[Missouri River]].
+
+The incumbent is Democrat [[Emanuel Cleaver]], who was re-elected with 60.2% of the vote in 2024.<ref name="HPVT"/><ref name="da"/>
+
+===Democratic primary===
+====Nominee====
+*[[Emanuel Cleaver]], incumbent U.S. representative<ref>{{cite web |date=July 25, 2025 |access-date=July 25, 2025 |title=Morning Digest: Tony Evers announces he won't run for a third term |url=https://www.the-downballot.com/i/169179952/fl-redistricting-mo-redistricting |work=The Downballot |author1=Nir, David |author2=Singer, Jeff}}</ref>
+
+====Withdrawn====
+*Hartzell Gray, radio host and [[Kansas City Tenants Union]] organizer<ref name="gray">{{Cite web |last=Bayless |first=Kacen |date=August 14, 2025 |title=He's a popular KC media personality & activist. Now he's running for Congress |url=https://www.kansascity.com/news/politics-government/article311704259.html |access-date=August 20, 2025 |website=[[The Kansas City Star]]}}</ref> ''(filed for candidacy in [[Missouri's 4th congressional district]] after redistricting)''<ref name="Statement of Candidacy"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Emanuel Cleaver
+|list=
+;Labor unions
+* [[American Federation of Government Employees]]<ref name="AFGEBellCleaver"/>
+* Missouri [[AFL-CIO]]<ref name="AFLCIO"/>
+*[[National Education Association]]<ref name="NEA"/>
+
+;Organizations
+*[[J Street]]<ref>{{cite web |title=Emanuel Cleaver |url=https://jstreetpac.org/candidate/emanuel-cleaver/ |website=J Street PAC |access-date=18 April 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Emanuel Cleaver (D)
+|$1,298,255
+|$1,044,827
+|$1,143,055
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Missouri 5th |url=https://www.fec.gov/data/elections/house/MO/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 30, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Emanuel Cleaver]] (incumbent)|party=Democratic Party (United States)|votes=55,237|percentage=100.0}}
+{{Election box total no change|votes=55,237|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*[[Rick Brattin]], [[Missouri Senate|state senator]] from the [[Missouri's 31st Senate district|31st district]] (2021–present) and candidate for the 4th district in [[2022 United States House of Representatives elections in Missouri#District 4|2022]]<ref name="City">{{cite news |last2=Harvel |first2=Jack |last1=Bayless |first1=Kacen |title=GOP carved up Kansas City district. But who's running to unseat Cleaver? |url=https://www.kansascity.com/news/politics-government/article314749453.html |access-date=February 20, 2026 |work=[[Kansas City Star]] |date=February 19, 2026}}</ref><ref>{{cite web |last1=Keller |first1=Rudi |title=Field expands in Missouri's gerrymandered 5th District as Brattin joins GOP primary |url=https://www.newsfromthestates.com/article/field-expands-missouris-gerrymandered-5th-district-brattin-joins-gop-primary%C2%A0 |access-date=February 26, 2026 |work=[[NewsFromTheStates.com]] |date=February 26, 2026}}</ref>
+
+====Eliminated in primary====
+*Micah Beebe, investment specialist<ref name="wr"/>
+*Taylor Burks, former [[Boone County, Missouri|Boone County]] clerk, candidate for the 4th district in [[2022 United States House of Representatives elections in Missouri#District 4|2022]]<ref>{{cite news |last1=Kroesen |first1=Jake |title=Taylor Burks Launches Bid for Missouri's 5th Congressional District |url=https://themissouritimes.com/taylor-burks-launches-bid-for-missouris-5th-congressional-district/ |access-date=February 20, 2026 |work=[[The Missouri Times]] |date=February 19, 2026}}</ref>
+*Brett Hueffmeier, attorney<ref>{{Cite web | title=Kansas City Republican creates committee to campaign for redrawn Fifth Congressional District - ABC17NEWS | url=https://abc17news.com/politics/2025/12/30/kansas-city-republican-creates-committee-to-campaign-for-redrawn-fifth-congressional-district/ | access-date=2026-08-01 | website=abc17news.com}}</ref>
+*Berton A. Knox, perennial candidate<ref name="wr"/>
+*Brad Patty, [[U.S. Army]] veteran<ref>{{Cite web |title=FEC Form 2 for Report FEC-1950154 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO05304/1950154 |access-date=2026-02-23 |website=docquery.fec.gov}}</ref>
+
+====Withdrawn====
+*Sean Smith, [[Jackson County, Missouri|Jackson County]] legislator and nominee for this district in [[2024 United States House of Representatives elections in Missouri#District 5|2024]] ''([[2026 Missouri House of Representatives election|running for state house]])''<ref>{{cite web|url=https://fox4kc.com/news/jackson-county-legislator-sean-smith-withdraws-from-congressional-race/|title=Jackson County Legislator Sean Smith withdraws from congressional race|last=Eyermann|first=Delaney|date=March 31, 2026|access-date=March 31, 2026|website=[[WDAF-TV]]}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Rick Brattin
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>https://www.kmbc.com/article/trump-endorses-rick-brattin-missouri-5th-congressional-district/73338459</ref>
+;Statewide officials
+* [[Mike Kehoe]], [[governor of Missouri]] (2025–present)<ref>{{cite web |last1=Kroesen |first1=Jake |title=Kehoe Backs Brattin in CD 5 Bid |url=https://themissouritimes.com/kehoe-backs-brattin-in-cd-5-bid |website=The Missouri Times |access-date=22 June 2026 |date=15 June 2026}}</ref>
+*[[Vivek Malek]], [[State Treasurer of Missouri|treasurer of Missouri]] (2022–present)<ref>{{cite web |last1=Hanshaw |first1=Annelise |title=Herzog didn't join defense of Vivek Malek's oversight of Missouri voucher program |url=https://www.webstercountycitizen.com/news/state/article_9e3cc6ad-dc0f-5c23-9c2a-58a74c3a778e.html |website=Webster County Citizen |access-date=22 June 2026 |language=en |date=1 June 2026}}</ref>
+
+;U.S. representatives
+*[[Eric Burlison]], [[MO-7]] (2023–present)<ref name="EndTrack"/>
+*[[Bob Onder]], [[MO-3]] (2025–present)<ref name="EndTrack"/>
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-2]] (1995–2001)<ref name="EndTrack"/>
+
+;Organizations
+*[[Club for Growth]]<ref>{{cite web |last1=Mitola |first1=Will |title=Club for Growth PAC Endorses Rick Brattin in MO-05 Race |url=https://www.clubforgrowth.org/club-for-growth-pac-endorses-rick-brattin-in-mo-05-race/ |website=Club for Growth |access-date=22 June 2026 |date=2 April 2026}}</ref>
+*[[National Right to Life Committee|Missouri Right to Life]]<ref>{{cite web |title=Endorsements |url=https://missourilifepac.org/wp-content/uploads/2026/06/Press-Release_June-15_2026-Endorsement-List-1.pdf |website=Missouri Right to Life PAC |access-date=22 June 2026}}</ref>
+}}{{Endorsements box
+|title=Taylor Burks
+|list=
+;U.S. representatives
+*[[Steve Scalise]], [[House Majority Leader]] (2023–present) and [[LA-01]] (2008–present)<ref name="Scalise X">{{Cite web | title=Steve Scalise on X: "A fifth-generation Missourian, grandson of a cattle farmer, and Navy combat veteran, Taylor Burks knows what it means to serve. In Congress, the people of Missouri's 5th District can trust @taylorwburks to secure our elections, restore fiscal responsibility, and protect the American Dream. He has my complete and total endorsement." / X | url=https://x.com/SteveScaliseGOP/status/2077102087146733731?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet | access-date=2026-08-01 | website=x.com}}</ref>
+*[[August Pfluger]], [[TX-11]] (2021–present)<ref name="EndTrack"/>
+*[[Blaine Luetkemeyer]], former [[MO-09]] and [[MO-03]] (2009–2025)<ref name="Missouri Times">{{Cite web | title=Press Release: BURKS CAMPAIGN SURPASSES $1 MILLION CASH ON HAND, ADDS NEW GRASSROOTS ENDORSEMENTS ACROSS MISSOURI - The Missouri Times | url=https://themissouritimes.com/press-release-burks-campaign-surpasses-1-million-cash-on-hand-adds-new-grassroots-endorsements-across-missouri | access-date=2026-08-01 | website=themissouritimes.com}}</ref>
+*[[Vicky Hartzler]], former [[MO-04]] (2011–2023)<ref name="Missouri Times"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Rick Brattin (R)
+|$312,664
+|$104,166
+|$208,498
+|-
+|{{party shading/Republican}} |Taylor Burks (R)
+|$1,147,927
+|$200,749
+|$947,177
+|-
+|{{party shading/Republican}} |Brett Hueffmeier (R)
+|$324,718
+|$224,222
+|$100,496
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Rick Brattin]]|party=Republican Party (United States)|votes=34,885|percentage=45.0}}
+{{Election box candidate with party link no change|candidate=Taylor Burks|party=Republican Party (United States)|votes=20,455|percentage=26.3}}
+{{Election box candidate with party link no change|candidate=Brad Patty|party=Republican Party (United States)|votes=8,055|percentage=10.4}}
+{{Election box candidate with party link no change|candidate=Brett Hueffmeier|party=Republican Party (United States)|votes=7,686|percentage=9.9}}
+{{Election box candidate with party link no change|candidate=Micah Beebe|party=Republican Party (United States)|votes=4,880|percentage=6.3}}
+{{Election box candidate with party link no change|candidate=Berton A. Knox|party=Republican Party (United States)|votes=1,610|percentage=2.1}}
+{{Election box total no change|votes=77,571|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+
+* Randall "Randy" Langkraehr, business owner<ref name="wr"/>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Randall "Randy" Langkraehr|party=Libertarian Party (United States)|votes=903|percentage=100.0}}
+{{Election box total no change|votes=903|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|October 1, 2026
+|-
+| align="left" | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|September 11, 2026
+|-
+| align="left" | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|September 10, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|September 10, 2026
+|-
+|}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Emanuel Cleaver (D)
+|$1,766,864
+|$1,773,543
+|$882,948
+|-
+| {{party shading/Republican}} |Rick Brattin (R)
+|$457,467
+|$457,108
+|$359
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+==District 6==
+{{Infobox election
+| election_name = 2026 Missouri's 6th congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Chris Stigall 2017 (headshot).jpg
+| nominee1 = [[Chris Stigall]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Josh Smead
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Sam Graves]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{main|Missouri's 6th congressional district}}
+[[File:Missouri's 6th congressional district (since 2027) (new version).svg|thumb|270px|Missouri's 6th congressional district boundary used in the primaries of the 2026 elections<br/>{{maplink|from=Missouri's 6th congressional district (2027–).map|text=Interactive map version}}]]
+[[File:Missouri's 6th congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 6th congressional district boundary used in the general elections for the 2026 elections<br/>{{maplink|from=Missouri's 6th congressional district (2023–).map|text=Interactive map version}}]]
+The 6th district encompasses rural northern Missouri, [[St. Joseph, Missouri|St. Joseph]] and all of the [[Kansas City metropolitan area|Kansas City area]] in the state north of the [[Missouri River]]. The incumbent is Republican [[Sam Graves]], who was re-elected with 70.7% of the vote in 2024.<ref name="HPVT"/><ref name="da"/>
+
+===Republican primary===
+====Nominee====
+*[[Chris Stigall]], radio show host<ref name="Igniting">{{cite web|url=https://www.newsfromthestates.com/article/missouri-us-rep-sam-graves-retire-igniting-race-open-gop-seat|title=Missouri U.S. Rep. Sam Graves to retire, igniting race for open GOP seat|last=Hancock|first=Jason|date=March 27, 2026|access-date=March 27, 2026|website=News from the States}}</ref>
+
+====Eliminated in primary====
+*James Ingram, business owner<ref>{{cite web|url=https://fox4kc.com/news/kansas-city-councilman-addresses-rumors-regarding-potential-run-for-congress/|title=Kansas City councilman addresses rumors regarding potential run for Congress|last=Ketz|first=Jonathan|date=March 25, 2026|access-date=March 27, 2026|website=[[WDAF-TV]]}}</ref>
+*Cody J. Oshel, pastor<ref name="fl">{{Cite web |title=Candidate Filing List |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%206&ElectionCode=750006905 |access-date=March 31, 2026 |website=Missouri Secretary of State}}</ref>
+*Nathanael Schultz, business owner<ref name="fl"/>
+*Nathan Willett, [[Kansas City, Missouri|Kansas City]] councilmember<ref>{{Cite web |url=https://www.kansascity.com/news/politics-government/article315236473.html |title=After Sam Graves' exit, Kansas City councilman files to run for Congress |date=March 30, 2026 |access-date=March 30, 2026 |website=[[The Kansas City Star]]}}</ref>
+
+====Withdrawn====
+*[[Sam Graves]], incumbent U.S. representative<ref>{{cite web |last=Beavers |first=Olivia |date=March 27, 2026 |title=Powerful House Republican Joins Retirement Wave |url=https://www.wsj.com/politics/elections/powerful-house-republican-joins-retirement-wave-5558870c |access-date=March 27, 2026 |website=[[Wall Street Journal]] |language=en}}</ref>
+
+====Declined====
+*[[Mazzie Christensen]], [[Missouri House of Representatives|state representative]] from the 2nd district (2023–present)<ref name="Igniting"/><ref>{{Cite web |date=2026-03-31 |title=Christensen withdraws as Griffin files for Missouri House seat |url=https://www.kttn.com/christensen-withdraws-as-griffin-files-for-missouri-house-seat/ |access-date=2026-03-31 |website=KTTN-FM 92.3 and KGOZ -FM 101.7 |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Chris Stigall
+|list=
+;U.S. representatives
+*[[Sam Graves]], [[MO-6]] (2001–present)<ref name="EndTrack"/>
+;Statewide officials
+*[[Catherine Hanaway]], [[Missouri Attorney General|attorney general of Missouri]] (2025–present)<ref name="EndTrack"/>
+}}
+{{Endorsements box
+|title=Nathan Willett
+|list=
+;Organizations
+*Missouri [[American Farm Bureau Federation|Farm Bureau]]<ref>{{cite web|last=Osmon|first=Caleb|date=June 28, 2026|title=Nathan Willett speaks here after Farm Bureau endorsement|url=https://www.bethanyclipper.com/2026/06/28/nathan-willett-speaks-here-after-farm-bureau-endorsement/|website=Bethany Republican-Clipper|access-date=June 30, 2026}}</ref>
+*Missouri [[Fraternal Order of Police]]<ref name="FOP" />
+}}
+{{Endorsements box
+|title=Sam Graves ''(withdrawn)''
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |James Ingram (R)
+|$24,600
+|$17,961
+|$6,639
+|-
+| {{party shading/Republican}} |Cody Oshel (R)
+|$7,351
+|$1,825
+|$8,026
+|-
+| {{party shading/Republican}} |Nathanael Schultz (R)
+|$170,507
+|$24,913
+|$145,595
+|-
+| {{party shading/Republican}} |Chris Stigall (R)
+|$599,336
+|$433,386
+|$166,050
+|-
+| {{party shading/Republican}} |Nathan Willett (R)
+|$575,569
+|$436,244
+|$139,325
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Missouri 6th |url=https://www.fec.gov/data/elections/house/MO/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=Aug 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Chris Stigall]]|party=Republican Party (United States)|votes=43,307|percentage=44.1}}
+{{Election box candidate with party link no change|candidate=Nathan Willett|party=Republican Party (United States)|votes=33,664|percentage=34.3}}
+{{Election box candidate with party link no change|candidate=Jim Ingram|party=Republican Party (United States)|votes=8,841|percentage=9.0}}
+{{Election box candidate with party link no change|candidate=Nathanael Schultz|party=Republican Party (United States)|votes=8,494|percentage=8.7}}
+{{Election box candidate with party link no change|candidate=Cody J. Oshel|party=Republican Party (United States)|votes=3,828|percentage=3.9}}
+{{Election box total no change|votes=98,134|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Josh Smead, architect<ref>{{cite news |author=S Jason Cole |title="No Kings" Rally Draws Over 200 in Excelsior Springs |url=https://excelsiorcitizen.com/no-kings-rally-draws-over-200-in-excelsior-springs/ |access-date=November 23, 2025 |work=[[Excelsior Citizen]] |date=October 18, 2025 |quote=Among those in attendance was Josh Smead, a Democratic candidate for Missouri's 6th Congressional District...}}</ref>
+
+====Eliminated in primary====
+*Matt Levine, [[transportation security officer]]<ref>{{Cite web |title=FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1894168|url=https://docquery.fec.gov/cgi-bin/forms/H6MO06278/1894168/}}</ref>
+*Scot Pondelick, U.S. Army veteran and combat [[Explosive Ordnance Disposal]] (EOD) Specialist<ref>{{cite news |title=New Candidates Files For Missouri House District 2 |url=https://www.northwestmoinfo.com/local-news/new-candidates-files-for-missouri-house-district-2/ |access-date=March 25, 2026 |work=Northwest MO Info |date=March 24, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Matt Levine (D)
+|$53,226
+|$46,659
+|$6,566
+|-
+|{{party shading/Democratic}}|Scot Pondelick (D)
+|$49,224
+|$38,886
+|$10,338
+|-
+|{{party shading/Democratic}}|Josh Smead (D)
+|$72,101
+|$55,155
+|$16,947
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Josh Smead|party=Democratic Party (United States)|votes=25,513|percentage=47.7}}
+{{Election box candidate with party link no change|candidate=Matt Levine|party=Democratic Party (United States)|votes=16,173|percentage=30.2}}
+{{Election box candidate with party link no change|candidate=Scot Pondelick|party=Democratic Party (United States)|votes=11,847|percentage=22.1}}
+{{Election box total no change|votes=53,533|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+
+* Andy Maidment, retired Army officer and IT security professional<ref>{{Cite web |last=Sloan |first=Nick |date=2026-03-31 |title=Dozens file for Congress in Kansas City-area districts ahead of deadline |url=https://www.kmbc.com/article/missouri-us-house-candidates-2026-districts-4-5-6/70888991 |access-date=2026-03-31 |website=KMBC |language=en}}</ref>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Andy Maidment|party=Libertarian Party (United States)|votes=968|percentage=100.0}}
+{{Election box total no change|votes=968|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Josh Smead (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Missouri AFL-CIO]]<ref name="AFLCIOGeneral"/>
+}}
+
+==District 7==
+{{Infobox election
+| election_name = 2026 Missouri's 7th congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = Eric Burlison portrait 118th (cropped).jpg
+| nominee1 = [[Eric Burlison]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Missi Hesketh
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Eric Burlison]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{main|Missouri's 7th congressional district}}
+[[File:Missouri's 7th congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 7th congressional district boundary from the 2022 elections<br/>{{maplink|from=Missouri's 7th congressional district (2023–).map|text=Interactive map version}}]]
+The 7th district is located in southwestern Missouri, taking in [[Springfield, Missouri|Springfield]], [[Joplin, Missouri|Joplin]], [[Branson, Missouri|Branson]], and [[Nixa, Missouri|Nixa]]. The incumbent is Republican [[Eric Burlison]], who was re-elected with 71.6% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Eric Burlison]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848590 |url=https://docquery.fec.gov/cgi-bin/forms/H2MO07143/1848590/ |access-date=2025-10-03 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*John Casey, construction worker<ref>{{Cite web |title=FEC Form 2 for Report FEC-1926990 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO07326/1926990 |access-date=2025-11-27 |website=docquery.fec.gov}}</ref>
+*Grayson Hunt, branch finance manager<ref>{{Cite web |title=FEC Form 2 for Report FEC-1924790 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO07318/1924790/ |access-date=2025-11-23 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Eric Burlison
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-andy-ogles-for-tn-05-2/|title=Freedom Caucus Fund Endorses Eric Burlsion for MO-07|date=June 29, 2026|access-date=September 15, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Eric Burlison (R)
+|$1,111,828
+|$855,278
+|$857,937
+|-
+|{{party shading/Republican}}|Grayson Hunt (R)
+|$7,748
+|$7,748
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Missouri 7th |url=https://www.fec.gov/data/elections/house/MO/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Eric Burlison]] (incumbent)|party=Republican Party (United States)|votes=76,418|percentage=73.8}}
+{{Election box candidate with party link no change|candidate=Grayson Hunt|party=Republican Party (United States)|votes=13,665|percentage=13.2}}
+{{Election box candidate with party link no change|candidate=John Casey|party=Republican Party (United States)|votes=13,484|percentage=13.0}}
+{{Election box total no change|votes=103,567|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Missi Hesketh, former mayor of [[Forsyth, Missouri|Forsyth]] and nominee for this district in [[2024 United States House of Representatives elections in Missouri#District 7|2024]]<ref>{{Cite web |title=FEC FORM 2 STATEMENT OF CANDIDACY|url=https://acrobat.adobe.com/id/urn:aaid:sc:US:8885e012-0c78-48ac-8dd9-df5e8af5bb99}}</ref><ref>{{cite web |last1=Becker |first1=Shannon |title=NO KINGS is a response to "President Trump's $100 million taxpayer-funded parade and his administration's assault on democracy and working people" |url=https://www.koamnewsnow.com/news/joplin-news-first/no-kings-is-a-response-to-president-trump-s-100-million-taxpayer-funded-parade-and/article_0311512c-d573-44ab-b23e-a9382ee617ef.html |access-date=November 18, 2025 |work=[[KOAM]] |date=June 13, 2025 |quote=...and Missi Hesketh (candidate for Congress, MO-07) are coming alongside this largest single-day mobilization since President Trump returned to office.}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Missi Hesketh
+|list=
+;Organizations
+*[[Center for Freethought Equality]]<ref>{{cite web |title=2026 Endorsements CFE Members |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=4 December 2025}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPCPrimary"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Missi Hesketh (D)
+|$50,540
+|$19,734
+|$35,943
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Missi Hesketh|party=Democratic Party (United States)|votes=33,606|percentage=100.0}}
+{{Election box total no change|votes=33,606|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+
+* Kevin Craig, [[Christian anarchism|Christian anarchist]]<ref>{{Cite web |title=Candidate Filing Listing |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%207&ElectionCode=750006905 |access-date=March 31, 2026 |website=Missouri Secretary of State}}</ref>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Kevin Craig|party=Libertarian Party (United States)|votes=905|percentage=100.0}}
+{{Election box total no change|votes=905|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Missi Hesketh (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Missouri AFL-CIO]]<ref name="AFLCIOGeneral"/>
+;Organizations
+*[[Track AIPAC]]<ref>{{cite web |title=Candidates Endorsed by Citizens Against AIPAC Corruption |website=Track AIPAC |publisher=Citizens Against AIPAC Corruption |url=https://www.trackaipac.com/endorsements |archive-url=https://web.archive.org/web/20261027163135/https://www.trackaipac.com/endorsements |archive-date=October 27, 2026 |access-date=October 27, 2026}}</ref>
+}}
+
+==District 8==
+{{Infobox election
+| election_name = 2026 Missouri's 8th congressional district election
+| country = Missouri
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Missouri#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Missouri#District 8
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Rep Jason Smith - 2024 (cropped).jpeg
+| nominee1 = [[Jason Smith (American politician)|Jason Smith]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Christopher Riechard
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jason Smith (American politician)|Jason Smith]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{main|Missouri's 8th congressional district}}
+[[File:Missouri's 8th congressional district (since 2023) (new version).svg|thumb|270px|Missouri's 8th congressional district boundary from the 2022 elections<br/>{{maplink|from=Missouri's 8th congressional district (2023–).map|text=Interactive map version}}]]
+The 8th district is the most rural district of Missouri, taking in rural southeastern Missouri, including the [[Missouri Bootheel]], as well as the cities of [[Cape Girardeau, MO|Cape Girardeau]] and [[Poplar Bluff, MO|Poplar Bluff]]. The incumbent is Republican [[Jason Smith (American politician)|Jason Smith]], who was re-elected with 76.2% of the vote in 2024.<ref name="HPVT"/>
+
+===Republican primary===
+====Nominee====
+*[[Jason Smith (American politician)|Jason Smith]], incumbent U.S. representative<ref>{{cite news |title=U.S. Rep. Smith announces reelection campaign |url=https://www.wpsdlocal6.com/news/u-s-rep-smith-announces-reelection-campaign/article_772fa41f-d607-42d9-847b-3c31ac769089.html |access-date=March 5, 2026 |work=[[WPSD]] |date=March 4, 2026}}</ref>
+
+====Eliminated in primary====
+*Gordon Heslop, retired educator and candidate for [[Texas's 32nd congressional district]] in [[2026 United States House of Representatives elections in Texas#District 32|2026]]<ref>{{Cite web |title=Candidate Filing List |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%208&ElectionCode=750006905 |access-date=April 1, 2026 |website=Missouri Secretary of State}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jason Smith
+|list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*Missouri [[Fraternal Order of Police]]<ref name="FOP" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jason Smith (R)
+|$5,264,183
+|$3,269,224
+|$5,012,103
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Missouri 8th |url=https://www.fec.gov/data/elections/house/MO/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=Aug 2, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Jason Smith (American politician)|Jason Smith]] (incumbent)|party=Republican Party (United States)|votes=94,514|percentage=86.0}}
+{{Election box candidate with party link no change|candidate=Gordon Heslop|party=Republican Party (United States)|votes=15,372|percentage=14.0}}
+{{Election box total no change|votes=109,886|percentage=100.0}}
+{{Election box end}}
+
+===Democratic primary===
+====Nominee====
+*Christopher Reichard, construction worker<ref>{{Cite web |title=FEC Form 2 for Report FEC-1931603 |url=https://docquery.fec.gov/cgi-bin/forms/H6MO08183/1931603 |access-date=2026-01-09 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+*[[Frank Barnitz]], former [[Missouri Senate|state senator]] from the [[Missouri's 16th Senate district|16th district]] (2005–2011)<ref>{{cite news |last1=Sheeley |first1=Andrew |title=Barnitz seeking Missouri's Eighth Congressional District seat |url=https://www.phelpscountyfocus.com/news/article_cf1bd98f-3577-51cc-b8d6-ca359bcad508.html |access-date=January 23, 2026 |work=[[Phelps County Focus]] |date=January 23, 2026}}</ref>
+
+====Disqualified====
+* Clayton Harbison, tree service contractor<ref>{{#invoke:cite| news |author=Moeryae Sunshine Smith |title=Photo gallery: "No Kings" protest held at Freedom Corner in Cape Girardeau |url=https://www.semissourian.com/elections/photo-gallery-no-kings-protest-held-at-freedom-corner-in-cape-girardeau-d125bf2d |access-date=December 11, 2025 |work=[[Southeast Missourian]] |date=October 20, 2025 |url-access=subscription |quote=Clayton Harbison of Arcadia, Mo., a Democratic candidate for Missouri's 8th Congressional District, attends the event...}}</ref><ref>{{Cite web |title=Clayton Harbison |url=https://ballotpedia.org/Clayton_Harbison |access-date=2026-07-25 |website=Ballotpedia |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Frank Barnitz (D)
+|$82,534
+|$62,734
+|$19,800
+|-
+|{{party shading/Democratic}}|Clayton Harbison (D)
+|$4,251
+|$2,017
+|$1,768
+|-
+|{{party shading/Democratic}}|Christopher Reichard (D)
+|$5,674
+|$3,732
+|$1,942
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=Christopher Reichard|party=Democratic Party (United States)|votes=15,344|percentage=54.1}}
+{{Election box candidate with party link no change|candidate=[[Frank Barnitz]]|party=Democratic Party (United States)|votes=13,003|percentage=45.9}}
+{{Election box total no change|votes=28,347|percentage=100.0}}
+{{Election box end}}
+
+===Libertarian primary===
+====Nominee====
+
+* Rebecca Sharpe Lombard, Ward 6 treasurer for the [[Libertarian Party of Missouri]]<ref>{{Cite web |title=Candidate Filing List |url=https://s1.sos.mo.gov/CandidatesOnWeb/DisplayCandidatesPlacement.aspx?OfficeCode=20%20CN%208&ElectionCode=750006905 |access-date= |website=Missouri Secretary of State|date=March 31, 2026|url-status=live}}</ref>
+
+====Results====
+{{Election box begin no change|title=Libertarian primary results}}
+{{Election box winning candidate with party link no change|candidate=Rebecca Sharpe Lombard|party=Libertarian Party (United States)|votes=728|percentage=100.0}}
+{{Election box total no change|votes=728|percentage=100.0}}
+{{Election box end}}
+
+=== General election ===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|R}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|R}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|R}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|R}}
+|July 15, 2025
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Christopher Reichard (D)
+|list=
+;Labor unions
+*[[AFL-CIO|Missouri AFL-CIO]]<ref name="AFLCIOGeneral"/>
+}}
+
+==Notes==
+{{Notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{div col start|colwidth=60}}
+;Official campaign websites for 1st district candidates
+*[https://www.bell4mo.com/ Wesley Bell (D)]
+*[https://www.momadmaga.com/ Paul Berry (R)]
+*[https://www.tomschmitzforliberty.com/ Tom Schmitz (L)]
+
+;Official campaign websites for 2nd district candidates
+*[https://bcd4mo.com/ Brandon Daugherty (L)]
+*[https://annwagner.com/ Ann Wagner (R)]
+*[https://www.wellmanformo.com/ Fred Wellman (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://bethanymannforcongress.com/ Bethany Mann (D)]
+*[https://www.bobondermo.com/ Bob Onder (R)]
+
+;Official campaign websites for 4th district candidates
+*[https://alfordforcongress.com/ Mark Alford (R)]
+*[https://jordanjherrera.com/ Jordan Herrera (D)]
+
+;Official campaign websites for 5th district candidates
+*[https://rickbrattin.com/ Rick Brattin (R)]
+*[http://www.cleaverforcongress.com/ Emanuel Cleaver (D)]
+
+;Official campaign websites for 6th district candidates
+*[https://www.maidmentformissouri.com/ Andy Maidment (L)]
+*[https://votesmead.com/ Josh Smead (D)]
+*[https://www.stigallforcongress.com/ Chris Stigall (R)]
+
+;Official campaign websites for 7th district candidates
+*[https://www.ericburlisonforcongress.com/ Eric Burlison (R)]
+*[https://www.kevincraig.us/ Kevin Craig (L)]
+*[https://missiheskethforcongress.com/ Missi Hesketh (D)]
+
+;Official campaign websites for 8th district candidates
+*[https://www.reichardforrep.com/ Chris Reichard (D)]
+*[https://electjasonsmith.com/ Jason Smith (R)]
+{{div col end}}
+
+{{2026 United States elections}}
+
+[[Category:2026 elections in Missouri|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Missouri]]
+[[Category:United States House of Representatives elections in Missouri]]

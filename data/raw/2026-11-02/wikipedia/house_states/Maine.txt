@@ -1,0 +1,1174 @@
+{{short description|none}}
+{{Use mdy dates|date=November 2024}}
+{{use American English|date=November 2024}}{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Maine House of Representatives election}}{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Maine
+| country = Maine
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maine
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maine
+| next_year = 2028
+| seats_for_election = Both Maine seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = '''2'''
+| seats1 = 
+| seat_change1 = 
+| party2 = Republican Party (United States)
+| last_election2 = 0
+| seats2 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{Elections in Maine}}
+The '''2026 United States House of Representatives elections in Maine''' will be held on November 3, 2026, to elect the two [[U.S. representative]]s from the [[U.S. state|State]] of [[Maine]], one from each of the state's [[Maine's congressional districts|congressional districts]]. These elections will coincide with a [[United States Senate|U.S. Senate]] [[2026 United States Senate election in Maine|election]], a [[2026 Maine gubernatorial election|gubernatorial election]], and various other state, county and local elections. The primary elections took place on June 9, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref> Both the primaries and general election will be conducted with [[Instant runoff voting|ranked-choice voting]].
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Maine's 1st congressional district election
+| country = Maine
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maine#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maine#District 1
+| next_year = 2028
+| image1 = CPingree Portrait 202203 (cropped) (cropped).jpg
+| nominee1 = [[Chellie Pingree]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Ronald Russell
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Chellie Pingree]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maine's 1st congressional district}}
+The 1st district comprises coastal and southern Maine, including [[Portland, Maine|Portland]], the largest city in Maine. The incumbent is Democrat [[Chellie Pingree]], who was first elected in [[2008 United States House of Representatives elections in Maine|2008]]. She was most recently re-elected in [[2024 United States House of Representatives elections in Maine|2024]] with 58.1% of the vote<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref> and is seeking re-election to a tenth term.<ref name="sc"/> State representative [[Tiffany Roberts (politician)|Tiffany Roberts]] had announced a challenge to Pingree in the Democratic primary, accusing Pingree of being insufficiently bipartisan, however she was unable to collect enough signatures to qualify for the primary ballot.<ref>{{Cite web |last=Miller |first=Kevin |date=2025-09-15 |title=Democratic state lawmaker says she might challenge Rep. Pingree |url=https://www.mainepublic.org/politics/2025-09-15/democratic-state-lawmaker-says-she-might-challenge-rep-pingree |access-date=2025-10-06 |website=Maine Public |language=en}}</ref><ref>{{Cite web |last=Kobin |first=Billy |date=2025-11-05 |title=Maine lawmaker files to challenge Chellie Pingree in 2026 Democratic primary |url=https://www.bangordailynews.com/2025/11/04/politics/elections/tiffany-roberts-maine-lawmaker-challenge-chellie-pingree-2026-democratic-primary/ |access-date=2025-11-05 |website=Bangor Daily News |language=en-US}}</ref>
+
+Republicans Joshua Pietrowicz and Ronald Russell have filed FEC paperwork to run for the 1st district primary election.<ref>{{Cite web |last=Billings |first=Randy |date=2025-09-15 |title=South Berwick lawmaker may primary Chellie Pingree in Maine's 1st District |url=https://www.pressherald.com/2025/09/15/south-berwick-lawmaker-may-primary-chellie-pingree-in-maines-1st-district/ |access-date=2025-09-15 |website=[[Portland Press Herald]] |language=en-US}}</ref>
+
+===Democratic primary===
+==== Candidates ====
+=====Nominee=====
+*[[Chellie Pingree]], incumbent U.S. representative (2009–present)<ref name="sc">{{cite news |last1=Ohm |first1=Rachel |title=Who will Maine Democrats run against Susan Collins? |url=https://www.pressherald.com/2025/05/27/who-will-maine-democrats-run-against-susan-collins/ |access-date=May 27, 2025 |work=[[Portland Press Herald]] |date=May 27, 2025 |quote=A spokesperson for Pingree said that she is planning to run for reelection to her current seat next year.}}</ref><ref name="pb">{{Cite web |last=Reed |first=Russ |date=2026-03-16 |title=Here's who qualified to appear on Maine 2026 primary ballot |url=https://www.wmtw.com/article/maine-candidates-on-2026-primary-ballot/70763044 |access-date=2026-03-17 |website=WMTW |language=en}}</ref>
+
+===== Failed to qualify =====
+*[[Tiffany Roberts (politician)|Tiffany Roberts]], [[Maine House of Representatives|state representative]] from the 149th district (2018–present)<ref>{{cite web |title=State Rep. Tiffany Roberts to challenge Congresswoman Pingree in primary |url=https://wgme.com/news/local/state-rep-tiffany-roberts-to-challenge-congresswoman-pingree-in-primary-maine-democratic-party-democrats |website=WGME |access-date=November 6, 2025 |date=November 6, 2025}}</ref><ref>{{Cite web |date=2026-03-16 |title=State Rep. Tiffany Roberts won't qualify for Congressional ballot |url=https://www.newscentermaine.com/article/news/local/state-rep-tiffany-roberts-wont-qualify-for-congressional-ballot-south-berwick-maine/97-f7ba28b0-ca75-4cd5-8d5b-bf894bcc3b75 |access-date=2026-03-16 |website=newscentermaine.com |publisher=[[WCSH]] |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Chellie Pingree
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=NEA Education Votes |access-date=27 October 2026}}</ref>
+;Organizations
+*[[J Street]]<ref>{{cite web |title=Chellie Pingree |url=https://jstreetpac.org/candidate/chellie-pingree/ |website=JStreetPAC |access-date=5 December 2025}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref>{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Sierra Club]]<ref>{{cite web |title=Sierra Club Endorsements: 2026 Elections |website=Sierra Club |url=https://www.sierraclubindependentaction.org/endorsements |access-date=September 16, 2026 |archive-url=https://web.archive.org/web/20260601182609/https://www.sierraclubindependentaction.org/endorsements
+|archive-date=June 1, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Chellie Pingree (D)
+|$336,692
+|$328,654
+|$423,716
+|-
+|{{party shading/Democratic}}|Tiffany Roberts (D)
+|$20,051
+|$14,981
+|$5,071
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Maine 1st |url=https://www.fec.gov/data/elections/house/ME/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 14, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change |title=Democratic primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[Chellie Pingree]] (incumbent)
+  |votes      = 128,257
+  |percentage = 100.0
+}}{{Election box total no change
+| votes = 128,257
+| percentage = 100.0
+}}
+{{Election box end}}
+
+=== Republican primary ===
+==== Candidates ====
+===== Nominee =====
+*Ronald Russell, defense contractor and nominee for this district in [[2024 United States House of Representatives elections in Maine#District 1|2024]]<ref>{{cite web |last1=Bartow |first1=Adam |title=No longer challenging Pingree: Maine police chief drops bid for CD1 |url=https://www.wmtw.com/article/not-challenging-pingree-maine-eric-small-drops-bid-cd1/69380301 |website=WMTW |access-date=13 November 2025 |language=en |date=11 November 2025}}</ref><ref name="pb"/>
+
+===== Eliminated in primary =====
+*Joshua Pietrowicz, sales consultant and candidate for state representative in [[2022 Maine House of Representatives election#District 34|2022]]<ref>{{Cite web |title=FEC Form 2 for Report FEC-1929545 |url=https://docquery.fec.gov/cgi-bin/forms/H6ME01298/1929545 |access-date=2025-12-19 |website=docquery.fec.gov}}</ref><ref name="pb"/>
+
+===== Withdrawn =====
+*Joshua Duprey<ref>{{Cite web |title=FEC Form 2 for Report FEC-1892159 |url=https://docquery.fec.gov/cgi-bin/forms/H6ME01264/1892159/ |access-date=2025-07-12 |website=docquery.fec.gov}}</ref>
+*Andrew Piantidosi, tech professional and candidate for this district in [[2024 United States House of Representatives elections in Maine#District 1|2024]]<ref name="db">{{Cite web |last=Bartow |first=Adam |date=2025-11-11 |title=No longer challenging Pingree: Maine police chief drops bid for CD1 |url=https://www.wmtw.com/article/not-challenging-pingree-maine-eric-small-drops-bid-cd1/69380301 |access-date=2025-11-19 |website=WMTW |language=en}}</ref>
+*Eric Small, [[Sanford, Maine|Sanford]] police chief ''([[2026 Maine House of Representatives election|running for state house]]; endorsed Russell)''<ref name="db"/>
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Joshua Pietrowicz (R)
+|$500
+|$0
+|$500
+|-
+|{{party shading/Republican}}|Ronald Russell (R)
+|$11,051
+|$21,833
+|$3,438
+|-
+|{{party shading/Republican}}|''Eric Small (R)''
+|$12,514
+|$12,514
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>{{nowrap|of error}}
+! style="width:75px;" | Joshua<br/>Pietrowicz
+! style="width:75px;" | Ronald<br/>Russell
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHMay2026">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1959&context=survey_center_polls|title=Platner Leads Collins in Maine Senate Race|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=May 27, 2026|access-date=May 27, 2026}}</ref>
+|May 21–25, 2026
+|209 (LV)
+|±&nbsp;6.8%
+|7%
+|{{party shading/Republican}}|'''24%'''
+|2%{{efn|name="AC2"|"Another candidate" with 2%}}
+|{{party shading/Undecided}}|'''68%'''
+|}
+
+==== Results ====
+{{Election box begin no change |title=Republican primary results<ref>{{Cite web |url=https://apnews.com/projects/elections-2026/maine-primary-results-us-house/#1 |title=Maine U.S. House primary results |author=<!-- not stated --> |date=Jun 11, 2026 |website=[[Associated Press]] |access-date=Jun 11, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Ronald Russell
+  |votes      = 27,059
+  |percentage = 53.5
+}}{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Joshua Pietrowicz
+  |votes      = 23,485
+  |percentage = 46.5
+}}{{Election box total no change
+| votes = 50,544
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|November 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|November 5, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |access-date=2025-11-05 |website=Sabato's Crystal Ball |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|November 5, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 20, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title= Chellie Pingree (D)
+| list=
+;Labor unions
+*Maine [[AFL-CIO]]<ref name=AFL-CIO>{{cite web |title=Maine AFL-CIO Endorsements for 2026 General Election |url=https://maineaflcio.org/news/endorsements |access-date=September 16, 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Chellie Pingree (D)
+|$429,634
+|$422,200
+|$423,112
+|-
+|{{party shading/Republican}}| Ronald Russell (R)
+|$75,680
+|$69,878
+|$20,023
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Maine |url=https://www.fec.gov/data/elections/house/ME/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 3, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Chellie<br/>Pingree (D)
+! style="width:100px;"| Ronald<br/>Russell (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2026">{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2006&context=survey_center_polls |title=Jackson and Collins Remain Close in Maine Senate Race, Pingree Leads Charles for Governor |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|679 (LV)
+|±&nbsp;3.8%
+|{{party shading/Democratic}}|'''57%'''
+|35%
+|4%{{efn|"Another candidate" with 4%}}
+|5%
+|}
+
+====Results====
+{{Election box begin|title=2026 Maine's 1st congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Chellie Pingree]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = Ronald Russell
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Maine's 2nd congressional district election
+| country = Maine
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Maine#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Maine#District 2
+| next_year = 2028
+| image1 = Matt Dunlap (cropped headshot).jpg
+| nominee1 = [[Matthew Dunlap]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Paul LePage (32997047882) (cropped).jpg
+| nominee2 = [[Paul LePage]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jared Golden]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Maine's 2nd congressional district}}
+The 2nd district comprises central and northern Maine and is one of the most rural districts in the United States. It is the largest district by area east of the [[Mississippi River]]. Some of the most notable cities in the district include [[Lewiston, Maine|Lewiston]] and [[Bangor, Maine|Bangor]], the second and third largest cities in Maine, as well as the state capital [[Augusta, Maine|Augusta]]. The incumbent is Democrat [[Jared Golden]], who was first elected in [[2018 United States House of Representatives elections in Maine|2018]] when he narrowly defeated incumbent Republican [[Bruce Poliquin]]. He was most recently re-elected in [[2024 United States House of Representatives elections in Maine|2024]] with 50.3% of the vote<ref name="HPVT"/> and was one of 17 Democratic members of Congress representing districts that [[Donald Trump]] carried in [[2024 United States presidential election|2024]]. The district voted for Trump by 9.5 percentage points in 2024 while re-electing Golden by less than one percent, making it Trump's widest margin of victory in any of the 13 districts that voted for him while simultaneously electing a Democrat to Congress on the same ballot. Because of this, it is seen as one of the Republican Party's top [[2025-2026 United States redistricting|non-redistricted]] pickup opportunities. Golden initially sought re-election to a fifth term but withdrew in November 2025.
+
+[[Maine State Auditor]] [[Matthew Dunlap]] entered the Democratic primary as a challenger to Golden,<ref>{{Cite web |date=2025-10-06 |title=Rep. Jared Golden gets a primary from the left |url=https://www.politico.com/live-updates/2025/10/06/congress/golden-gets-a-primary-00594620 |access-date=2026-03-16 |website=POLITICO |language=en}}</ref> and has the support of [[Mike Michaud]], who represented this district from 2003 to 2015.<ref>{{Cite web |author=Billings, Randy|date=2025-10-21 |title=Former US Rep. Mike Michaud backs Jared Golden’s primary challenger |url=https://www.pressherald.com/2025/10/21/former-u-s-rep-mike-michaud-backs-jared-goldens-primary-challenger/ |access-date=2026-03-16 |website=The Portland Press Herald |language=en-US}}</ref> Jordan Wood, a Lewiston native and former chief of staff to former [[California]] U.S. Representative [[Katie Porter]], initially ran for Maine’s U.S. Senate seat in [[2026 United States Senate election in Maine|2026]] but announced that he was switching to the 2nd district race following Golden's withdrawal.<ref name="jw"/> [[Joe Baldacci]], younger brother of former [[Governor of Maine|Maine governor]] and former representative for the district [[John Baldacci]], entered the race on January 12, 2026.<ref name="d2"/> Baldacci previously ran for the seat in [[2016 United States House of Representatives elections in Maine#District 2|2016]] but withdrew before the primary.<ref>{{Cite web |last=Sharon |first=Susan |date=2016-02-05 |title=Joe Baldacci Drops Out of Congressional Race |url=https://www.mainepublic.org/politics/2016-02-05/joe-baldacci-drops-out-of-congressional-race |access-date=2026-01-04 |website=Maine Public |language=en}}</ref> Paige Loud, a social worker, also ran as a Democrat.<ref name=Paige/><ref name="jg"/>
+
+On the Republican side, former Maine governor from 2011 to 2019 and Republican nominee in the [[2022 Maine gubernatorial election]] [[Paul LePage]] announced a campaign for the 2nd district in May 2025.<ref name="pl"/> Despite losing the 2022 election by about 13 percentage points, LePage nonetheless narrowly carried the 2nd congressional district by about two points over incumbent Democratic governor [[Janet Mills]].<ref>{{Cite web |date=November 30, 2022 |title=Maine Secretary of State: November 8, 2022 General Election- Non-Ranked Choice Offices |url=https://www.maine.gov/sos/cec/elec/results/2022/2022GeneralElectionNonRankedChoiceOffices.html |access-date=October 12, 2025 |archive-url=https://web.archive.org/web/20221208132342/https://www.maine.gov/sos/cec/elec/results/2022/2022GeneralElectionNonRankedChoiceOffices.html |archive-date=December 8, 2022 |url-status=dead}}</ref>
+
+LePage's residency has been criticized.  He has rented an apartment in Augusta from fellow Republican [[Shawn Moody]], but LePage's campaign declined to discuss if he would live there if elected.<ref>{{Cite web |last=Billy |first=Kobin |date=2016-03-26 |title=Paul LePage is using an Augusta apartment for his political comeback |url=https://www.pressherald.com/2026/03/26/paul-lepage-is-using-an-augusta-apartment-for-his-political-comeback/|access-date=2026-05-19 |website=pressherald.com |language=en}}</ref> 
+
+In the Democratic primary, no candidate received 50% of the vote, sending the election to a ranked-choice runoff.<ref>{{cite news |last1=Miller |first1=Kevin |title=2nd District Democratic primary seems bound for ranked-choice runoff in tight race |url=https://www.mainepublic.org/politics/2026-06-09/2nd-district-democratic-primary-seems-bound-for-ranked-choice-runoff-in-tight-race |access-date=15 June 2026 |work=Maine Public |date=10 June 2026 |language=en}}</ref> Dunlap defeated Baldacci in the final round, 52.5%–47.5%.
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Matthew Dunlap]], [[Maine State Auditor|state auditor of Maine]] (2021, 2022–present)<ref name="DunlapAnnounce">{{Cite web|url=https://www.politico.com/live-updates/2025/10/06/congress/golden-gets-a-primary-00594620|last=Howard|first=Andrew|date=2025-10-06|access-date=2025-10-06|title=Rep. Jared Golden gets a primary from the left|work=[[Politico]]}}</ref>
+
+=====Eliminated in primary=====
+*[[Joe Baldacci]], [[Maine Senate|state senator]] from the [[Maine's 9th State Senate district|9th district]] (2020–present) and brother of former governor and U.S. representative [[John Baldacci]]<ref name="d2">{{Cite web |last=Shepherd |first=Michael |date=2026-01-12 |title=Joe Baldacci launches Democratic run for Maine’s 2nd District |url=https://www.bangordailynews.com/2026/01/12/politics/elections/joe-baldacci-2nd-district/ |access-date=2026-01-12 |website=Bangor Daily News |language=en-US}}</ref>
+*Paige Loud, social worker<ref name=Paige>{{Cite web |date=2026-01-30 |title=Social worker Paige Loud enters race for Maine's 2nd Congressional District |url=https://wgme.com/news/local/social-worker-paige-loud-enters-race-for-maines-2nd-congressional-district |access-date=2026-03-16 |website=WGME |language=en}}</ref>
+*Jordan Wood, former chief of staff to U.S. representative [[Katie Porter]] ''([[2026 United States Senate election in Maine|previously ran for U.S. Senate]])''<ref name="jw">{{cite web |last1=Flisiuk |first1=Francis |title=Maine Senate candidate Jordan Wood switches to race for US House |url=https://www.wmtw.com/article/maine-senate-candidate-jordan-wood-switches-to-race-for-us-house/69405449 |access-date=November 12, 2025 |work=[[WMTW (TV)|WMTW]] |date=November 12, 2025}}</ref>
+
+=====Withdrawn=====
+*[[Jared Golden]], incumbent U.S. representative (2019–present)<ref>{{cite news |last1=Howard |first1=Andrew |title=Battleground Rep. Jared Golden will not seek reelection |url=https://www.politico.com/news/2025/11/05/jared-golden-retire-2026-election-00638182 |access-date=November 5, 2025 |work=[[Politico]] |date=November 5, 2025 |language=en}}</ref>
+*Louis Sigel, former secretary of the [[Kennebec County]] Democratic Committee<ref name="jg">{{cite web |title=Louis Sigel Registers As Democratic Primary Opponent to Jared Golden for Maine's 2nd CD |url=https://www.themainewire.com/2025/07/louis-sigel-registers-as-democratic-primary-opponent-to-jared-golden-for-maines-2nd-cd/ |access-date=October 11, 2025 |work=[[The Maine Wire]] |date=July 7, 2025}}</ref>
+
+=====Declined=====
+*[[Troy Jackson]], former [[President of the Maine Senate]] (2018–2024) and candidate for this district in [[2014 United States House of Representatives elections in Maine#District 2|2014]] ''([[2026 Maine gubernatorial election|unsuccessfully ran for governor]], [[2026 United States Senate election in Maine#Democratic nominating convention|then running for U.S. Senate]])''<ref name="JacksonWMTW">{{cite news |last1=Mundry |first1=Jackie |title=Candidate for Maine governor Jackson addresses CD-2 speculation |url=https://www.wmtw.com/article/democratic-candidate-governor-troy-jackson-cd-2/69534964 |access-date=November 25, 2025 |work=[[WMTW (TV)|WMTW]] |date=November 25, 2025 |language=en}}</ref>
+*[[Graham Platner]], [[Sullivan, Maine|Sullivan]] harbor master ''([[2026 United States Senate election in Maine#Platner’s withdrawal|ran for U.S. Senate, later withdrew]])''<ref>{{cite news |last1=Reed |first1=Russ |title=Platner staying in Senate race after Golden's decision to end House reelection bid |url=https://www.wmtw.com/article/maine-politics-platner-staying-in-senate-race-golden-decision/69366521 |access-date=November 10, 2025 |work=[[WMTW (TV)]] |date=November 10, 2025 |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title= Joe Baldacci
+| list=
+;U.S. representatives
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="DCCC">{{cite web|url=https://dccc.org/dccc-announces-eight-new-candidates-to-coveted-2026-red-to-blue-program/|title=DCCC Announces Eight New Candidates to Coveted 2026 ‘Red to Blue’ Program|date=May 4, 2026|access-date=May 4, 2026}}</ref>
+*[[Barney Frank]], former [[MA-04]] (1981–2013) ''(deceased)''<ref name="EndTrack"/>
+
+;State legislators
+*[[Amy Roeder]], [[Maine House of Representatives|state representative]] from the 23rd district (2020–present) ''(previously endorsed Dunlap)''<ref>{{Cite news|url=https://www.foxbangor.com/news/state-sen-joe-baldacci-launches-campaign-for-maines-2nd-congressional-district/article_b67e44b7-72f9-4920-8e7b-df6afa03eeb1.html/|title=State Sen. Joe Baldacci launches campaign for Maine's 2nd Congressional District|last=Blanchard|first=Grace|work=[[WFVX-LD]]|date=January 12, 2026|access-date=January 13, 2026}}</ref>
+
+;Organizations
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="DCCC"/>
+*[[Democratic Majority for Israel PAC]]<ref>{{Cite web|url=https://dmfipac.org/candidates/|work=DMFI|title=Democratic Majority for Israel: Our Candidates}}</ref>
+}}
+{{Endorsements box
+| title= Matthew Dunlap
+| list=
+;U.S. representatives
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref>{{Cite web |last=Herrington |first=Torrie |date=2026-04-01 |title=Ro Khanna Endorses Matt Dunlap in Competitive House Race in Maine |url=https://www.notus.org/campaigns/ro-khanna-endorses-matt-dunlap-in-competitive-house-race-in-maine |access-date=2026-04-01 |website=NOTUS |language=en-US}}</ref>
+*[[Mike Michaud]], former [[Maine's 2nd congressional district|ME-02]] (2003–2015)<ref name="Michaud">{{Cite web |last=Billings |first=Randy |date=2025-10-21 |title=Former U.S. Rep. Mike Michaud backs Jared Golden's primary challenger |url=https://www.pressherald.com/2025/10/21/former-u-s-rep-mike-michaud-backs-jared-goldens-primary-challenger/ |access-date=2025-10-21 |website=[[Portland Press Herald]] |language=en-US}}</ref>
+
+;State legislators
+*[[Kevin O'Connell (politician)|Kevin O'Connell]], former [[Maine House of Representatives|state representative]] from the 20th district (2020–2024)<ref>{{Cite news|url=https://www.bangordailynews.com/2025/05/14/politics/elections/mainstream-democrats-talking-about-dumping-jared-golden-joam40zk0w/|title=Democrats are openly talking about dumping Jared Golden|last=Kobin|first=Billy|work=[[Bangor Daily News]]|date=May 14, 2025|access-date=May 14, 2025}}</ref>
+*[[Charles P. Pray]], former [[President of the Maine Senate]] (1984–1992)<ref>{{Cite web |last=Hurowitz |first=Noah |date=2026-05-07 |title=Maine Dems to Vote on Condemning DCCC Interference in House Primary |url=https://theintercept.com/2026/05/07/maine-dccc-condemn-democrats-dunlap-baldacci-wood/ |access-date=2026-05-07 |website=The Intercept |language=en-US}}</ref>
+*[[Laura Supica]], [[Maine House of Representatives|state representative]] from the 22nd district (2020–present)<ref>{{cite web |last1=Mills |first1=Keenan |title=Maine congressional candidate Matthew Dunlap announces Women for Dunlap |url=https://www.wabi.tv/2025/12/08/maine-congressional-candidate-matthew-dunlap-announces-women-dunlap/ |access-date=December 9, 2025 |work=[[WABI-TV|WABI]] |date=December 8, 2025 |quote=Supica is the co-chair of the coalition.}}</ref>
+
+;Labor unions
+*[[National Nurses United]]<ref>{{Cite web |date=2026-04-02 |title=National Nurses United endorses Matt Dunlap for Maine’s 2nd District {{!}} National Nurses United |url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-matt-dunlap-for-maines-2nd-district |access-date=2026-04-02 |website=www.nationalnursesunited.org |language=en}}</ref>
+
+;Organizations
+*[[Our Revolution]]<ref>{{cite web |last1=Herrington |first1=Torrie |title=Matt Dunlap Notches Another Key Progressive Endorsement in Maine House Race |url=https://www.notus.org/campaigns/maine-matt-dunlap-our-revolution-progressive-endorsement-maine-house-race-2nd-district |website=NOTUS |access-date=14 April 2026 |date=14 April 2026}}</ref>
+}}
+{{Endorsements box
+| title= Paige Loud
+| list=
+;Organizations
+*[[College Democrats of America]]<ref>{{cite web|url=https://www.instagram.com/p/DXSM8EfFMUe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==|title=We're excited to announce the slate of candidates we are endorsing in the Pine Tree state!|date=April 18, 2026|access-date=May 6, 2026}}</ref>
+* [[Progressive Victory]]<ref name="PV">{{cite web|title=Endorsements for 2026|url=https://www.progressivevictory.win/endorsements|publisher=Progressive Victory|access-date=June 2, 2026}}</ref>
+}}
+{{Endorsements box
+| title= Jordan Wood
+| list=
+;U.S. representatives
+*[[Veronica Escobar]], [[Texas's 16th congressional district|TX-16]] (2019–present)<ref name="EndTrack"/>
+*[[Katie Porter]], former [[California's 47th congressional district|CA-47]] (2019–2025)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=8 February 2026 |language=en |date=8 January 2026}}</ref>
+*[[Eric Swalwell]], [[California's 14th congressional district|CA-14]] (2013–2026)<ref name="EndTrack"/> ''(endorsement rejected)''<ref>{{Cite web |date=2026-04-13 |title=Maine candidate will no longer accept endorsement from Eric Swalwell amid sexual assault allegations |url=https://www.pressherald.com/2026/04/13/maine-candidate-will-no-longer-accept-endorsement-from-eric-swalwell-amid-sexual-assault-allegations/ |access-date=2026-04-13 |website=The Portland Press Herald |language=en-US}}</ref>{{efn|Endorsement was rejected by Wood following allegations of sexual assault against Swalwell.}}
+*[[Joe Walsh (Illinois politician)|Joe Walsh]], former [[Illinois' 8th congressional district|IL-08]] (2011–2013){{efn|Walsh held office as a Republican, but joined the Democratic Party in 2025.}}<ref name="EndTrack"/>
+*[[Robert Garcia (California politician)|Robert Garcia]], [[California's 42nd congressional district|CA-42]] (2023–present)<ref name="EndTrack"/>
+*[[Raul Ruiz (politician)|Raul Ruiz]], [[California's 25th congressional district|CA-25]] (2013–present)<ref name="EndTrack"/>
+
+;Local officials
+*[[Carl Sheline]], [[List of mayors of Lewiston, Maine|mayor]] of [[Lewiston, Maine|Lewiston]] (2022–present)<ref>{{cite news |title=Maine needs 'new generation of leaders,' Jordan Wood tells Gardiner voters |url=https://spectrumlocalnews.com/me/maine/politics/2025/12/18/maine-needs--new-generation-of-leaders---jordan-wood-tells-gardiner-voters- |work=[[Spectrum News]] |date=18 December 2025 |access-date=11 February 2026}}</ref>
+
+;Organizations
+*[[Brady Campaign]]<ref>{{cite news |title=Defeat snatched from victory’s jaws |url=https://www.politico.com/newsletters/playbook/2026/05/20/defeat-snatched-from-victorys-jaws-00929260 |work=[[Politico]] |date=20 May 2026 |access-date=11 May 2026}}</ref>
+}}
+{{Endorsements box
+| title= Jared Golden ''(withdrawn)''
+| list=
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+*[[End Citizens United]]<ref name="ECUJune25">{{cite web |title=End Citizens United Endorses First Slate of Congressional Candidates |url=https://www.endcitizensunited.org/2026endorsements |website=End Citizens United |access-date=July 15, 2025 |date=July 9, 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web |title=CANDIDATES |url=https://www.jacpac.org/jac-candidates |website=JAC |access-date=19 November 2025 |language=en |archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates |archive-date=November 21, 2025 |url-status=dead}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite news |title=Reproductive Freedom for All Endorses Slate of U.S. House Frontline Members for the 2026 Midterm Election |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-slate-of-u-s-house-frontline-members-for-the-2026-midterm-election/ |access-date=May 8, 2025 |work=Reproductive Freedom for All |date=May 8, 2025}}</ref>
+*[[VoteVets.org|Vote Vets]]<ref>{{cite web |title=Endorsed Candidates |url=https://votevets.org/candidates |website=VoteVets |access-date=25 November 2025}}</ref>
+*[[WelcomePAC]]<ref>{{Cite web |last=Pope |first=Lauren Harper |date=2025-08-26 |title=The Jared Golden Endorsement |url=https://www.welcomestack.org/p/the-jared-golden-endorsement-427 |access-date=2025-09-16 |website=www.welcomestack.org |language=en}}</ref>
+}}
+
+{{Endorsements box
+| title= Declined to endorse
+| list=
+;U.S. representatives 
+*[[Jared Golden]], [[Maine's 2nd congressional district|ME-02]] (2018–present)<ref>{{Cite web |last=Horrington |first=Terri |date=2025-08-26 |title=Can a candidate to the left of Jared Golden win in Maine’s 2nd District? |url=https://themainemonitor.org/can-candidate-left-golden-win/ |access-date=2026-05-29 |website=www.themainemonitor.org|language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Matthew Dunlap (D)
+|$628,214
+|$383,959
+|$244,255
+|-
+|{{party shading/Democratic}}|Jordan Wood (D)
+|$5,134,288
+|$4,437,808
+|$696,480
+|-
+|{{party shading/Democratic}}|Joseph Baldacci (D)
+|$317,060
+|$168,120
+|$148,940
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Maine 2nd |url=https://www.fec.gov/data/elections/house/ME/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 27, 2026}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>{{nowrap|of error}}
+! style="width:65px;" |Joe<br/>Baldacci
+! style="width:65px;" |Matthew<br/>Dunlap
+! style="width:65px;" |Paige<br/>Loud
+! style="width:65px;" |Jordan<br/>Wood
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref>{{cite web |title=SurveyUSA Election Poll #27905 |url=https://www.surveyusa.com/client/PollReport.aspx?g=cd7e1ef3-e886-4373-b420-f91e2d97c946 |publisher=[[SurveyUSA]] |access-date=June 5, 2026 |date=June 4, 2026}}</ref>{{Efn-ua|Poll sponsored by the ''[[Bangor Daily News]]'' and [[FairVote]]}}
+|May 28 – June 3, 2026
+|190 (LV)
+|±&nbsp;8.1%
+|{{party shading/Democratic}} |'''27%'''
+|22%
+|11%
+|21%
+|19%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHMay2026"/>
+|May 21–25, 2026
+|244 (LV)
+|±&nbsp;6.3%
+|22%
+|17%
+|14%
+|{{party shading/Democratic}} |'''23%'''
+|{{party shading/Undecided}} |'''25%'''{{efn|"Another candidate" with 0%}}
+|-
+|style="text-align:left"|Pan Atlantic Research (D)<ref>{{Cite web|url=https://drive.google.com/viewerng/viewer?url=https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/20260520%252069th%2520PAR%2520Omnibus%2520Poll%2520May%25202026.pdf|title=69th Omnibus Poll|work=Pan Atlantic Research|date=May 20, 2026|access-date=May 20, 2026}}</ref>
+|May 8–18, 2026
+|169 (LV)
+|–
+|{{party shading/Democratic}} |'''39%'''
+|17%
+|–
+|15%
+|29%
+|-
+|style="text-align:left" rowspan="2"|Tulchin Research (D)<ref name="DunlapInternal">{{cite tweet |number=2031717343965987235|user=dunlap4congress|first=Matt|last=Dunlap|title=Read our campaign's poll memo with full results here👇|date=March 11, 2026|access-date=March 11, 2026 |language=en}}</ref>{{Efn-ua|name=Dunlap|Poll commissioned by Dunlap's campaign}}
+|rowspan="2"|March 5–8, 2026
+|rowspan="2"|400 (LV)
+|rowspan="2"|±&nbsp;4.9%	
+|29%
+|{{party shading/Democratic}} |'''36%'''
+|3%
+|11%
+|21%
+|-
+|43%{{Efn-ua|name=Dunlap RCV|Final round in RCV simulation}}
+|{{party shading/Democratic}} |'''57%'''
+|–
+|–
+|–
+|-
+|style="text-align:left"|Pan Atlantic Research (D)<ref name="PARMar2026">{{cite web |title=68th Omnibus Poll|url=https://drive.google.com/viewerng/viewer?url=https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/20260304%252068th%2520Omnibus%2520Poll%2520March%25202026.pdf&wmode=opaque|work=Pan Atlantic Research|date=March 4, 2026|access-date=March 4, 2026 |language=en}}</ref>
+|February 13 – March 2, 2026
+|144 (LV)
+|–
+|{{party shading/Democratic}} |'''36%'''
+|14%
+|–
+|12%
+|{{party shading/Undecided}} |'''38%'''
+|-
+| style="text-align:left" |Pan Atlantic Research (D)<ref name="PARDec2025">{{cite web |date=11 December 2025 |title=Another Baldacci inches toward House run in Maine |url=https://punchbowl.news/article/campaigns/another-baldacci/ |first1=Ally |last1=Mutnick |access-date=11 December 2025 |work=Punchbowl News |language=en}}</ref>{{Efn-ua|name=Baldacci1|Poll commissioned by Baldacci's campaign.}}
+|November 29 – December 7, 2025
+|145 (LV)
+|±&nbsp;8.4%
+|{{party shading/Democratic}} |'''42%'''
+|10%
+|–
+|10%
+|38%
+|}
+
+==== Debate ====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Maine's 2nd congressional district Democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br/>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Joe Baldacci]]
+! scope="col" | [[Matthew Dunlap]]
+! scope="col" | Paige Loud
+! scope="col" | Jordan Wood
+|-
+!1
+| style="white-space:nowrap;" | Apr. 28, 2026
+| style="white-space:nowrap;" | [[WMTW (TV)]]
+| style="white-space:nowrap;" | Jon Chrisos
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=b5EkoUQxiNg YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | May 29, 2026
+| style="white-space:nowrap;" | [[Maine Public Broadcasting Network]]<br/>[[Portland Press Herald]]
+| style="white-space:nowrap;" | Jennifer Rooks
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=84gjPYENzlA YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+[[File:2026 ME-02 Democratic primary election first round results by town.svg|thumb|200px|First round results by town
+{{collapsible list
+| title = {{legend|#7996E2|Dunlap}}
+|{{legend|#DFEEFF|20–30%}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#0D0596|100%}}
+}}{{collapsible list
+| title = {{legend|#F1C92A|Baldacci}}
+|{{legend|#FFEEAA|30–40%}}
+|{{legend|#FFE680|40–50%}}
+|{{legend|#FFDC43|50–60%}}
+|{{legend|#F4C200|60–70%}}
+|{{legend|#DAAE00|70–80%}}
+|{{legend|#A58100|100%}}
+}}{{collapsible list
+| title = {{legend|#5FD35F|Wood}}
+|{{legend|#C0F0C0|20–30%}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+}}{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#EFE7F5|20–30%}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}]]
+{| class="wikitable"
+|+
+! colspan="11" |Democratic primary results<ref>{{Cite web |url=https://apnews.com/projects/elections-2026/maine-primary-results-us-house/#2 |title=Maine U.S. House primary results |author=<!-- not stated --> |date=Jun 11, 2026 |website=[[Associated Press]] |access-date=Jun 11, 2026}}</ref>
+|-
+! colspan="2" rowspan="2" |Party
+! rowspan="2" |Candidate
+! colspan="2" |Round 1
+!
+! colspan="2" |Round 2
+!
+! colspan="2" |Round 3
+|-
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+|- align=right
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|align=left|'''[[Democratic Party (United States)|Democratic]]'''
+|align=left|'''[[Matthew Dunlap]]'''
+|<!--RD1 votes-->22,933
+|29.1
+| '''+ 2,748'''
+|<!--RD2 votes-->25,681
+|33.4
+| '''+ 10,243'''
+|'''<!--RD3 votes-->35,924'''
+|'''52.5'''
+|- align="right"
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|align=left|[[Democratic Party (United States)|Democratic]]
+|align=left|[[Joe Baldacci]]
+|'''<!--RD1 votes-->24,966'''
+|'''31.7'''
+| + 957
+|'''<!--RD2 votes-->25,923'''
+|'''33.7'''
+| + 6,632
+|<!--RD3 votes-->32,555
+|47.5
+|- align=right
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|align=left|[[Democratic Party (United States)|Democratic]]
+|align=left|Jordan Wood
+|<!--RD1 votes-->22,712
+|28.8
+| + 2,665
+|<!--RD2 votes-->25,377
+|33.0
+|BGCOLOR=pink| - 25,377
+| colspan="2" bgcolor="lightgray" align="center" |''Eliminated''
+|- align=right
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|align=left|[[Democratic Party (United States)|Democratic]]
+|align=left|Paige Loud
+|<!--RD1 votes-->8,194
+|10.4
+|BGCOLOR=pink| - 8,194
+| colspan="5" bgcolor="lightgray" align="center" |''Eliminated''
+|- align="right"
+| colspan="3" align="right" | '''Continuing ballots'''
+|78,805
+|100.0
+|<br/>
+|76,981
+|97.7
+|<br/>
+|68,479
+|86.9
+|- align="right"
+| colspan="3" | Exhausted ballots
+| colspan="2" align="center" | –
+| + 1,824
+| align="center" | 1,824
+| 2.3
+| + 8,502
+| align="center" | 10,326
+| 13.1
+|- align="right"
+| colspan="3" align="right" | '''Total votes'''
+|78,805
+|100.0
+|<br/>
+|78,805
+|100.0
+|<br/>
+|78,805
+|100.0
+|}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Paul LePage]], former [[governor of Maine]] (2011–2019) and nominee for governor in [[2022 Maine gubernatorial election|2022]]<ref name="pl">{{cite news |last1=Cover |first1=Susan |title=Former Gov. Paul LePage launches bid for Maine's 2nd Congressional District |url=https://spectrumlocalnews.com/me/maine/politics/2025/05/05/former-gov--paul-lepage-launches-bid-for-maine-s-2nd-congressional-district- |access-date=May 5, 2025 |work=[[Spectrum News]] |date=May 5, 2025 |language=en}}</ref>
+
+=====Withdrawn=====
+*James Clark, businessman<ref>{{cite web |last1=Miller |first1=Kevin |title=Veteran and self-described 'non-politician' files for GOP nomination in 2nd Congressional District |url=https://www.mainepublic.org/politics/2025-11-27/veteran-and-self-described-non-politician-files-for-gop-nomination-in-2nd-congressional-district |access-date=November 29, 2025 |work=[[Maine Public]] |date=November 27, 2025}}</ref>
+*Gavin Solomon, businessman from New York<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6ME02163/1912904/}} August 22, 2025</ref>
+
+=====Declined=====
+*[[Austin Theriault]], former [[Maine House of Representatives|state representative]] from the 1st district (2022–2024) and nominee for this district in [[2024 United States House of Representatives elections in Maine#District 2|2024]] ''(endorsed LePage)''<ref name=theriault>{{cite news |access-date=June 27, 2025 |author=Stackhouse, Terry |date=May 20, 2025 |url=https://www.wmtw.com/article/austin-theriault-not-running-again-in-cd2-endorses-lepage/64823535 |work=[[WMTW (TV)|WMTW]] |title=Austin Theriault not running again in CD2, endorses LePage}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title= Paul LePage
+| list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="TrumpLePage">{{Cite web |last=Billings |first=Randy |date=2025-12-18 |title=Donald Trump backs former Maine Gov. Paul LePage for U.S. Congress |url=https://www.centralmaine.com/2025/12/18/donald-trump-backs-former-maine-gov-paul-lepage-for-u-s-congress/ |access-date=2025-12-19 |website=Centralmaine.com |language=en-US}}</ref>
+
+;U.S. representatives
+*[[Tom Emmer]], [[House majority whip]] (2023–present) from [[MN-06]] (2015–present)<ref name="EndTrack"/>
+*[[Richard Hudson (American politician)|Richard Hudson]], [[NC-09]] (2013–present)<ref name="NRCC">{{cite web|url=https://nrcc.org/2026/03/17/nrcc-introduces-maga-majority-to-expand-house-gop-majority-in-2026/|title=NRCC Introduces “MAGA Majority” to Expand House GOP Majority in 2026|date=March 17, 2026|access-date=May 4, 2026}}</ref>
+*[[Mike Johnson]], [[Speaker of the United States House of Representatives|speaker of the House]] (2023–present) from [[Louisiana's 4th congressional district|LA-04]] (2017–present)<ref>{{cite web |title=President Trump, House Speaker Mike Johnson endorses Paul LePage for Congress |url=https://www.msn.com/en-us/news/politics/president-trump-house-speaker-mike-johnson-endorses-paul-lepage-for-congress/ar-AA1SEErI?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1 |website=MSN |access-date=13 January 2026}}</ref>
+*[[Steve Scalise]], [[Majority Leader of the House of Representatives|House majority leader]] (2023–present) from [[LA-01]] (2008–present)<ref name="EndTrack"/>
+
+;State legislators
+*[[Austin Theriault]], former [[Maine House of Representatives|HD-01]] (2022–2024) and nominee for this district in [[2024 United States House of Representatives elections in Maine#District 2|2024]]<ref name=theriault/> 
+
+;Organizations
+*[[National Republican Congressional Committee|NRCC]] MAGA Majority<ref name="NRCC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|James Clark (R)
+|$600
+|$0
+|$550
+|-
+|{{party shading/Republican}}|Paul LePage (R)
+|$1,867,594
+|$532,074
+|$1,335,520
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Paul LePage]]
+  |votes      = 69,233
+  |percentage = 100.0
+}}{{Election box total no change
+| votes = 69,233
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Tossup}}
+|October 20, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Lean|R|Flip}}
+|October 9, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Lean|R|Flip}}
+|October 15, 2026
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Initial"/>
+| {{USRaceRating|Lean|R|Flip}}
+|September 29, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver"/>
+| {{USRaceRating|Tossup}}
+|October 22, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+| title= Matthew Dunlap (D)
+| list=
+;U.S. Senators
+*[[Angus King]], Maine (2013–present) ''(Independent)''<ref>{{cite news |last1=Kail |first1=Benjamin |title=Angus King endorses Matt Dunlap in his race against Paul LePage |url=https://www.bangordailynews.com/2026/10/27/politics/elections/angus-king-endorses-matt-dunlap-joam40zk0w/ |access-date=27 October 2026 |publisher=Bangor Daily News |date=October 27, 2026}}</ref>
+;U.S. representatives
+*[[Greg Casar]], {{ushr|TX|35|TX-35}} (2023–present) and chair of the [[Congressional Progressive Caucus]]<ref name="CPC">{{cite web|url=https://weareprogressives.org/#endorsements|title=PAC Endorsements|access-date=October 2, 2026}}</ref>
+*[[Suzan DelBene]], [[WA-01]] (2012–present)<ref name="rb">{{cite web |title=DCCC Announces Five New Candidates to Coveted 2026 'Red to Blue' Program |url=https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program-2/ |website=DCCC |date=August 20, 2026}}</ref>
+*[[Maxwell Frost]], {{ushr|FL|10|FL-10}} (2023–present)<ref name="CPC"/>
+*[[Pramila Jayapal]], {{ushr|WA|7|WA-7}} (2017–present)<ref name="CPC"/>
+
+;Statewide officials
+*[[Janet Mills]], [[governor of Maine]] (2019–present)<ref>{{cite news |title=Janet Mills says she voted for Troy Jackson for US Senate |url=https://www.sunjournal.com/2026/10/29/janet-mills-says-she-voted-for-troy-jackson-for-us-senate/ |access-date=October 29, 2026 |work=[[Sun Journal (Maine)|Sun Journal]] |date=October 29, 2026 |language=en|author=Billings, Randy}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite press release |title=Largest Federal Employee Union Endorses Maine’s Matt Dunlap for Election to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-maines-matt-dunlap-for-election-to-congress/ |publisher=AFGE |access-date=October 23, 2026 |date=October 23, 2026}}</ref>
+*Maine [[AFL-CIO]]<ref name=AFL-CIO></ref>
+*Maine Education Association<ref>{{cite web |title=Maine Education Association Announces Support for Matt Dunlap in Maine’S 2nd Congressional District |url=https://maineea.org/pressreleases/maine-education-association-announces-support-for-matt-dunlap-in-maines-2nd-congressional-district/ |website=Maine Education Association |date=August 20, 2026 |access-date=September 16, 2026}}</ref>
+*[[National Education Association]]<ref name="NEA" />
+*[[North Atlantic States Regional Council of Carpenters]]<ref>{{cite press release |title=Carpenters Endorse Dunlap and Pingree |url=https://www.nasrcc.org/carpenters-endorse-dunlap-and-pingree/ |publisher=North Atlantic States Regional Council of Carpenters |access-date=October 23, 2026 |date=July 30, 2026}}</ref>
+
+;Organizations
+*[[Congressional Progressive Caucus]] PAC<ref name="CPC"/>
+*[[Democratic Congressional Campaign Committee|DCCC]] Red to Blue<ref name="rb"/>
+*[[MoveOn]]<ref>{{cite web |title=MoveOn endorses Matt Dunlap |url=https://front.moveon.org/endorsements/candidates/matt-dunlap/ |website=MoveOn |access-date=October 23, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref>{{cite web |last1=Cover |first1=Susan |title=Planned Parenthood endorses Matt Dunlap in Maine 2nd CD race |url=https://spectrumlocalnews.com/me/maine/politics/2026/08/18/planned-parenthood-endorses-matt-dunlap-in-maine-2nd-cd-race |website=Spectrum Local News |access-date=August 19, 2026 |date=August 18, 2026}}</ref>
+*[[Sierra Club]]<ref>{{cite web |title=Sierra Club Endorsements: 2026 Elections |website=Sierra Club |url=https://www.sierraclubindependentaction.org/endorsements |access-date=September 16, 2026 |archive-url=https://web.archive.org/web/20221105075425/https://www.sierraclubindependentaction.org/endorsements |archive-date=November 5, 2022 |url-status=dead}}</ref>
+}}
+
+{{Endorsements box
+| title= Paul LePage (R)
+| list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web |title=U.S. Chamber Endorses Candidate Paul LePage for Maine’s Second Congressional District |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-paul-lepage-for-maines-second-congressional-district |website=U.S. Chamber of Commerce |access-date=1 September 2026 |language=en |date=13 August 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of October 14, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Matthew Dunlap (D)
+|$2,964,964
+|$2,520,996
+|$443,968
+|-
+|{{party shading/Republican}}| Paul LePage (R)
+|$3,299,130
+|$2,450,906
+|$848,224
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Matt<br/>Dunlap (D)
+! style="width:100px;"| Paul<br/>LePage (R)
+! Undecided
+|-
+|style="text-align:left"|Tulchin Research (D)<ref>{{cite web|url=https://static01.nyt.com/newsgraphics/documenttools/0cdb44a57dfd2687/fddf7303-full.pdf|title=Poll Finds Dunlap Leads LePage as Race Heads Into Final Stretch|date=October 16, 2026|access-date=October 17, 2026}}</ref>{{Efn-ua|name=Dunlap}}
+|October 12–14, 2026
+|500 (LV)
+|±&nbsp;4.38%
+|{{party shading/Democratic}}|'''50%'''
+|46%
+|4%
+|-
+|style="text-align:left"|Tulchin Research (D)<ref>{{cite web|url=https://static01.nyt.com/newsgraphics/documenttools/becbcf38fb98ac79/b81aab79-full.pdf|title=ME -2 Poll Results: Dunlap Holds Edge Over LePage as Race Heads Into Final Stretch|date=October 1, 2026|access-date=October 2, 2026}}</ref>{{Efn-ua|name=Dunlap}}
+|September 27–30, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''50%'''
+|48%
+|2%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2026"/>
+|September 17–21, 2026
+|627 (LV)
+|±&nbsp;3.9%
+|{{party shading/Democratic}}|'''51%'''
+|45%
+|5%
+|-
+|style="text-align:left;"|Impact Research (D)<ref name="HMP">{{Cite tweet|user=cjwarnke|number=2099903179022340565|title= 🚨NEW @HouseMajPAC poll in #ME02🚨|access-date=September 16, 2026}}</ref>{{Efn-ua|name=HMP|Poll sponsored by the House Majority PAC, which supports Democratic candidates}}
+|September 8–12, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|'''49%'''
+|'''49%'''
+|2%
+|-
+|style="text-align:left;"|DCCC Targeting Team (D)<ref>{{cite web |title=🚨 NEW POLLS: Dead Heat in ME-02 as Matt Dunlap Gains Momentum |url=https://dccc.org/%F0%9F%9A%A8-new-polls-dead-heat-in-me-02-as-matt-dunlap-gains-momentum/ |publisher=[[Democratic Congressional Campaign Committee|DCCC]] |access-date=September 23, 2026 |date=September 18, 2026}}</ref>
+|August 11–13, 2026
+|621 (LV)
+|±&nbsp;3.9%
+|48%
+|{{party shading/Republican}}|'''49%'''
+|3%
+|-
+|style="text-align:left"|Tulchin Research (D)<ref>{{Cite tweet|user=PatrickSvitek|first=Patrick|last=Svitek|number=2079151831998230855|title=New #ME02 poll from Democrat Matt Dunlap’s campaign: Matt Dunlap (D) 49, Paul LePage (R) 48, Undecided 3. (Tulchin Research; July 11-16; 600 LVs; +/-3.99%|access-date=July 20, 2026}}</ref>{{Efn-ua|name=Dunlap}}
+|July 11–16, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''49%'''
+|48%
+|3%
+|-
+|style="text-align:left"|co/efficient (R)<ref name="NRCCInternal"/>{{Efn-ua|name=NRCC}}
+|April 26–28, 2026
+|918 (LV)
+|±&nbsp;3.2%
+|40%
+|{{party shading/Republican}}|'''50%'''
+|10%
+|-
+|style="text-align:left"|[[University of New Hampshire]]<ref name="UNHFeb"/>
+|February 12–16, 2026
+|521 (LV)
+|–
+|46%
+|{{party shading/Republican}}|'''47%'''
+|6%
+|-
+|style="text-align:left;"|The Mellman Group (D)<ref name=Mellman/>{{Efn-ua|name=Golden}}
+|June 4–10, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|37%
+|{{Party shading/Republican}}|'''47%'''
+|16%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Joe Baldacci vs. Paul LePage'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>{{nowrap|of error}}
+! style="width:100px;" |Joe<br/>Baldacci (D)
+! style="width:100px;" |Paul<br/>LePage (R)
+! Other
+! Undecided
+|-
+|style="text-align:left"|Pan Atlantic Research (D)<ref>{{cite web |title=Maine Polling Memo – CD-2 Primary Favorability and General Election  Test Findings (May 2026)  |url=https://www.politico.com/f/?id=0000019e-852a-db8d-a5df-97eb332c0000 |website=[[Politico]]|access-date=June 2, 2026 |date=May 29, 2026}}</ref>{{Efn-ua|name=Baldacci1}}
+|May 8–18, 2026
+|418 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''49%'''
+|41%
+|–
+|10%
+|-
+|style="text-align:left"|co/efficient (R)<ref name="NRCCInternal">{{cite web |title=ME-02 General Election Survey |url=https://www.nrcc.org/wp-content/uploads/2026/05/NRCC-ME-02-Survey-Memo-1.pdf |work=[[National Republican Congressional Committee]]|access-date=May 8, 2026 |language=en |date=May 8, 2026}}</ref>{{Efn-ua|name=NRCC|Poll commissioned by the [[National Republican Congressional Committee]].}}
+|April 26–28, 2026
+|918 (LV)
+|±&nbsp;3.2%
+|40%
+|{{party shading/Republican}}|'''50%'''
+|–
+|10%
+|-
+|style="text-align:left"|[[University of New Hampshire]]<ref name="UNHFeb">{{cite web |title=In Maine Senate Race, Platner Leads Mills in Primary and Collins in General Election Matchup |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1929&context=survey_center_polls|first1=Sean P.|last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |work=[[University of New Hampshire]]|access-date=February 24, 2026 |language=en |date=February 24, 2026}}</ref>
+|February 12–16, 2026
+|520 (LV)
+|–
+|47%
+|{{party shading/Republican}}|'''48%'''
+|1%{{efn|"Another candidate" with 1%}}
+|5%
+|-
+| style="text-align:left" |Pan Atlantic Research (D)<ref name="PARDec2025"/>{{Efn-ua|name=Baldacci1}}
+|November 29 – December 7, 2025
+|387 (LV)
+|±&nbsp;5.1%
+|43%
+|{{party shading/Republican}}|'''44%'''
+|–
+|13%
+|}
+
+'''Jared Golden vs. Paul LePage'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br/>of error
+! style="width:100px;" | Jared<br/>Golden (D)
+! style="width:100px;" | Paul<br/>LePage (R)
+! Other
+! Undecided 
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1896&context=survey_center_polls|title=Early Look at Maine Primary Races: Platner Leads Mills, Collins Far Ahead of Unknown GOP Challengers|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=October 23, 2025|access-date=October 23, 2025}}</ref>
+|October 16–21, 2025
+|546 (LV)
+|–
+|44%
+|{{party shading/Republican}}|'''49%'''
+|3%
+|3%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1878&context=survey_center_polls|title=LePage & Golden Deadlocked in Early Snapshot of Possible Maine CD2 Matchup|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|work=
+[[University of New Hampshire]]|date=June 26, 2025|access-date=June 26, 2025}}</ref>
+|June 19–23, 2025
+|394 (V)
+|±&nbsp;4.9%
+|47%
+|{{Party shading/Republican}}|'''50%'''
+|2%
+|1%
+|-
+|style="text-align:left;"|The Mellman Group (D)<ref name=Mellman>{{cite web |last1=Roarty |first1=Alex |title=Jared Golden's Campaign Releases Poll They Say Shows He's the Only Democrat with a Chance in His District |url=https://www.notus.org/house/maine-jared-golden-maine-2nd-congressional-district-poll |publisher=[[NOTUS (website)|NOTUS]] |access-date=18 July 2025 |archive-url=https://archive.today/20250717111138/https://www.notus.org/house/maine-jared-golden-maine-2nd-congressional-district-poll |archive-date=17 July 2025 |date=17 July 2025 |url-status=live |url-access=subscription}}</ref>{{Efn-ua|name=Golden|Poll commissioned by Golden's campaign.}}
+|June 4–10, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|{{Party shading/Democratic}}|'''44%'''
+|43%
+|–
+|12%
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApril2025">{{cite news |last1=Roarty |first1=Alex |title=Jared Golden Trails Paul LePage in a New GOP Poll |url=https://www.notus.org/2026-election/jared-golden-paul-lepage-poll-maine-congressional-leadership-fund |access-date=May 21, 2025 |work=NOTUS |date=May 21, 2025}}</ref>{{efn-ua|name=clf|Poll commissioned by the [[Congressional Leadership Fund]].}}
+|April 13–15, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|43%
+|{{Party shading/Republican}}|'''48%'''
+|–
+|9%
+|}
+
+'''Jordan Wood vs. Paul LePage'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Jordan<br/>Wood (D)
+! style="width:100px;"| Paul<br/>LePage (R)
+! Other
+! Undecided
+|-
+|style="text-align:left"|Upswing Research (D)<ref name="WoodInternal">{{Cite tweet|number=2039771379147407390|user=PollTracker2024|date=April 2, 2026|title=Upswing Research poll 2/24-2/27 LV (released 3/31) US House 2026 Maine’s 2nd congressional district (Trump +10) (Initial ballot) 🟥Paul LePage 52% 🟦Jordan Wood 45% —— (Informed ballot) 🟥Paul LePage 50% 🟦Jordan Wood 47% (Jordan Wood internal)}}</ref>{{Efn-ua|Poll commissioned by Wood's campaign.}}
+|February 24–27, 2026
+|403 (LV)
+|± 4.9%
+|45%
+|{{party shading/Republican}}|'''52%'''
+|–
+|3%
+|-
+|style="text-align:left"|[[University of New Hampshire]]<ref name="UNHFeb"/>
+|February 12–16, 2026
+|521 (LV)
+|–
+|44%
+|{{party shading/Republican}}|'''48%'''
+|2%{{efn|name="AC2"}}
+|6%
+|}
+
+'''Generic Democrat vs. generic Republican'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Generic<br/>Democrat
+! style="width:100px;"| Generic<br/>Republican
+! Undecided
+|-
+|style="text-align:left;"|Impact Research (D)<ref name="HMP"/>{{Efn-ua|name=HMP}}
+|September 8–12, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|45%
+|{{Party shading/Republican}}|'''49%'''
+|6%
+|-
+|style="text-align:left"|co/efficient (R)<ref name="NRCCInternal"/>{{Efn-ua|name=NRCC}}
+|April 26–28, 2026
+|918 (LV)
+|±&nbsp;3.2%
+|41%
+|{{party shading/Republican}}|'''48%'''
+|11%
+|-
+|style="text-align:left;"|Ragnar Research Partners (R)<ref name="RRPApril2025"/>{{efn-ua|name=clf}}
+|April 13–15, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|38%
+|{{Party shading/Republican}}|'''47%'''
+|9%
+|}
+{{hidden end}}
+
+====Results====
+{{Election box begin|title=2026 Maine's 2nd congressional district election}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Matthew Dunlap]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Paul LePage]]
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br/>
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.chelliepingree.com/ Chellie Pingree (D)]
+*[https://ronrussellforcongress.com/ Ronald Russell (R)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.mattdunlapforuscongress.com/ Matt Dunlap (D)]
+*[https://www.lepageforcongress.com/ Paul LePage (R)]
+
+{{2026 United States elections}}
+{{Elections in Maine footer}}
+
+[[Category:United States House of Representatives elections in Maine|2026]]
+[[Category:2026 elections in Maine|United States House of Representatives]]
+[[Category:2026 United States House of Representatives elections|Maine]]

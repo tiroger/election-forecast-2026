@@ -1,0 +1,1210 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Connecticut House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name      = 2026 United House of Representatives elections in Connecticut
+| country            = Connecticut
+| type               = legislative
+| ongoing            = yes
+| previous_election  = 2024 United States House of Representatives elections in Connecticut
+| previous_year      = 2024
+| next_election      = 2028 United States House of Representatives elections in Connecticut
+| next_year          = 2028
+| seats_for_election = All 5 Connecticut seats to the [[United States House of Representatives]]
+| election_date      = November 3, 2026
+| party1             = Democratic Party (United States)
+| last_election1     = ''' 5'''
+| seats1             = 
+| seat_change1       = 
+| party2             = Republican Party (United States)
+| last_election2     = 0
+| seats2             = 
+| seat_change2       = 
+| map_image          = 
+| map_caption        = 
+}}
+{{Elections in Connecticut}}
+The '''2026 United States House of Representatives elections in Connecticut''' will be held on November 3, 2026, to elect the five [[U.S. representative]]s from the [[U.S. state|state]] of [[Connecticut]], one from each of the state's [[Connecticut's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on August 11, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}} {{Clear}}
+
+==District 1==
+{{see also|Connecticut's 1st congressional district}}
+{{Infobox election
+| election_name = 2026 Connecticut's 1st congressional district election
+| country = Connecticut
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Connecticut#District 1
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Connecticut#District 1
+| next_year = 2028
+| image_size = 150x150px
+| image1 = Luke Bronin (42831415392).jpg
+| nominee1 = [[Luke Bronin]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Amy Chai
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| title = U.S. Representative
+| before_election = [[John B. Larson|John Larson]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 1st district is located in the north-central part of the state and includes the capital city, [[Hartford]]. The incumbent is Democrat [[John B. Larson|John Larson]], who was re-elected with 63.1% of the vote in 2024.<ref name="HV">{{Cite web |title=2024 House Vote Tracker |url=https://www.cookpolitical.com/vote-tracker/2024/house |access-date=2025-06-13 |website=Cook Political Report |language=en}}</ref>
+
+Larson faced criticism due to his age; he would turn 80 during the next term. He faced several challengers in the Democratic primary, but repeatedly said he would run for re-election.<ref name="JackPerry">{{cite news |last1=Pazniokas |first1=Mark |title=U.S. Rep. John Larson's potential Democratic challengers up to 4 |url=https://ctmirror.org/2025/07/22/john-larson-luke-bronin-jillian-gilchrest-ruth-fortune-jack-perry/ |access-date=July 22, 2025 |work=[[CT Mirror]] |date=July 22, 2025}}</ref> The state Democratic party endorsed his most prominent opponent, former Hartford mayor [[Luke Bronin]], who ultimately defeated Larson in a landslide.<ref> {{Cite web |last=Monk |first=Ginny |last2=Hagen |first2=Lisa |date=2026-08-12 |title=Luke Bronin defeats Rep. John Larson in CT 1st District primary |url=https://ctmirror.org/2026/08/11/john-larson-luke-bronin-primary-election-results/ |access-date=2026-08-18 |website=CT Mirror |language=en-US}}</ref> Other candidates in the primary included Ruth Fortune, a member of the [[Hartford Public Schools (Connecticut)|Hartford Board of Education]], and [[Jillian Gilchrest]], a state representative.
+
+Bronin will face Republican Amy Chai in the general election.
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Luke Bronin]], former [[Mayor of Hartford, Connecticut|mayor of Hartford]] (2016–2024)<ref>{{cite news |last1=Putterman |first1=Alex |title=Former Hartford mayor Luke Bronin to run for Congress, challenging Larson |url=https://www.stamfordadvocate.com/politics/article/luke-bronin-john-larson-congress-primary-20791634.php |access-date=July 30, 2025 |work=[[Stamford Advocate]] |date=July 30, 2025}}</ref>
+=====Eliminated in primary=====
+*Ruth Fortune, member of the [[Hartford Public Schools (Connecticut)|Hartford Board of Education]]<ref>{{cite news |last1=Pazniokas |first1=Mark |title=CT US congressman in seat for decades might have a Democratic challenger |url=https://www.courant.com/2025/07/03/ct-us-congressman-in-seat-for-decades-might-have-a-democratic-challenger/ |access-date=July 3, 2025 |work=[[Hartford Courant]] |date=July 3, 2025}}</ref><ref>{{Cite web |last=Mirror |first=Lisa Hagen / CT |date=2026-06-23 |title=Ruth Fortune qualifies for a four-way primary in 1st Congressional District |url=https://www.ctpublic.org/news/2026-06-23/ruth-fortune-qualifies-for-a-four-way-primary-in-1st-congressional-district |access-date=2026-07-01 |website=Connecticut Public |language=en}}</ref>
+*[[Jillian Gilchrest]], [[Connecticut House of Representatives|state representative]] from the [[Connecticut's 18th House of Representatives district|18th district]] (2019–present)<ref>{{cite news |last1=Cerulli |first1=Mike |title=State Rep. Jillian Gilchrest announces bid for Connecticut's 1st Congressional District |url=https://www.wtnh.com/news/elections/state-rep-jillian-gilchrest-announces-bid-for-connecticuts-1st-congressional-district/ |access-date=August 26, 2025 |work=[[WTNH]] |date=August 26, 2025}}</ref>
+*[[John B. Larson|John Larson]], incumbent U.S. representative<ref name=oldest/>
+
+=====Withdrawn=====
+*Jack Perry, [[Southington, Connecticut|Southington]] town councilor<ref>{{cite news |last1=Johnson |first1=Brian |title=Perry drops out of Congressional race |url=https://www.bristolpress.com/news/perry-drops-out-of-congressional-race/article_207d2658-8c0d-47d9-b8cd-6e63296572c0.html |access-date=December 19, 2025 |work=The Bristol Press |date=December 16, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Luke Bronin
+|list=
+'''Executive branch officials'''
+* [[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref>{{cite web |last1=Davis |first1=Ebony |title=Buttigieg backs Luke Bronin in bid to unseat longtime Connecticut Democrat |url=https://www.ms.now/news/buttigieg-backs-luke-bronin-in-bid-to-unseat-longtime-connecticut-democrat |access-date=May 7, 2026 |work=[[MS NOW]] |date=May 7, 2026}}</ref>
+
+;State legislators
+*[[Julio Concepcion]], [[Connecticut's 4th House of Representatives district|HD-04]] (2018–present)<ref name="Tout42">{{cite web |last1=Keating |first1=Christopher |title=With convention Monday, CT Congressional candidates tout endorsements |url=https://www.courant.com/2026/05/11/with-convention-monday-ct-congressional-candidates-tout-endorsements/ |website=Hartford Courant |access-date=12 May 2026 |date=11 May 2026}}</ref>
+*[[Joshua M. Hall]], [[Connecticut's 7th House of Representatives district|HD-07]] (2017–present)<ref name="Tout42"/>
+*[[James Sánchez (politician)|James Sánchez]], [[Connecticut's 6th House of Representatives district|HD-06]] (2023–present)<ref name="Tout42"/>
+
+;Local officials
+*[[Arunan Arulampalam]], [[Mayor of Hartford, Connecticut|mayor of Hartford]] (2024–present)<ref>{{cite web|last=Brink|first=Jenn|url=https://www.wtnh.com/on-air/capitol-report/hartford-mayor-endorses-luke-bronin-for-congress/|title=Hartford Mayor Arunan Arulampalam endorses Luke Bronin for Connecticut's 1st Congressional District|work=[[WTNH]]|date=April 26, 2026|accessdate=April 21, 2026}}</ref>
+
+;Organizations
+*[[College Democrats of America|College Democrats of Connecticut]]<ref>{{cite web |title=Buttigieg endorses Bronin for Connecticut's First Congressional District |url=https://www.wtnh.com/news/elections/buttigieg-endorses-bronin-for-connecticuts-first-congressional-district/ |website=WTNH |access-date=8 May 2026}}</ref>
+*[[VoteVets]]<ref>{{cite web |title=VoteVets PAC Endorses Luke Bronin for Congress in CT-01 |url=https://votevets.org/press-releases/votevets-pac-endorses-luke-bronin-for-congress-in-ct-01 |website=Vote Vets |access-date=30 January 2026}}</ref>
+
+;Labor unions
+*[[American Federation of State, County and Municipal Employees]] Local 1716<ref name="Tracking"/>
+*[[International Association of Firefighters|Uniformed Professional Firefighters Association of Connecticut]]<ref name="Tracking"/>
+*[[United Brotherhood of Carpenters and Joiners of America]] Local 326<ref name="Tracking"/>
+
+;Political parties
+*[[Democratic Party of Connecticut]]<ref>{{cite web |last1=Strothers |first1=Zoe |title=Luke Bronin beats incumbent Democratic Rep. John Larson by 10 votes to secure party's endorsement |url=https://www.wfsb.com/2026/05/12/luke-bronin-beats-incumbent-democratic-rep-john-larson-by-10-votes-secure-partys-endorsement/ |website=WFSB |access-date=May 11, 2026 |date=May 11, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Ruth Fortune
+|list=
+;Organizations
+* [[New American Leaders]] Action Fund<ref>{{cite web |title=2026 Endorsed Candidates|url=https://www.nalaf.org/2026-endorsed-candidates|access-date=June 12, 2026 |website=New American Leaders Action Fund}}</ref>
+}}
+{{Endorsements box
+| title = John Larson
+| colwidth = 60
+| list =
+;U.S. senators
+*[[Richard Blumenthal]], [[Connecticut]] (2011–present)<ref name="Yahoo">{{cite web |title=Larson adds new high-profile endorsement in crowded congressional race |url=https://www.yahoo.com/news/articles/larson-adds-high-profile-endorsement-234000124.html |website=Yahoo News |access-date=13 November 2025 |date=2 November 2025}}</ref>
+*[[Chris Dodd]], former [[Connecticut]] (1981–2011)<ref name="PileUp">{{cite web |last1=Hagen |first1=Lisa |title=Endorsements pile up in CT's 1st District ahead of convention |url=https://ctmirror.org/2026/05/07/endorsements-pile-up-in-cts-1st-district-ahead-of-convention/ |website=CT Mirror |access-date=8 May 2026 |date=7 May 2026}}</ref>
+*[[Chris Murphy]], [[Connecticut]] (2013–present)<ref>{{cite web |author=Abigail Murillo Villacorta |title=U.S. Senator Murphy endorses Congressman Larson for re-election |url=https://www.wfsb.com/2025/10/13/us-senator-murphy-endorses-congressman-larson-re-election/ |access-date=October 14, 2025 |work=[[WFSB]] |date=October 13, 2025}}</ref>
+
+;U.S. representatives
+*[[Jim Clyburn]], [[South Carolina's 6th congressional district|SC-06]] (1993–present)<ref name="CourantDec"/>
+*[[Joe Courtney (politician)|Joe Courtney]], [[CT-02]] (2007–present)<ref name="CourantDec"/>
+*[[Rosa DeLauro]], [[CT-03]] (1991–present)<ref name="CourantDec">{{cite web |title=CT congressional race turns to battle of endorsements. See who is backing whom. |url=https://www.courant.com/2025/12/03/battle-of-endorsements-in-first-congressional-district-between-u-s-rep-larson-and-luke-bronin/ |website=Hartford Courant |access-date=4 December 2025 |archive-url=https://archive.today/20251203104121/https://www.courant.com/2025/12/03/battle-of-endorsements-in-first-congressional-district-between-u-s-rep-larson-and-luke-bronin/ |archive-date=December 3, 2025 |date=3 December 2025}}</ref>
+*[[Jahana Hayes]], [[CT-05]] (2019–present)<ref name="CourantDec"/>
+*[[Jim Himes]], [[CT-04]] (2009–present)<ref name="CourantDec"/>
+*[[Hakeem Jeffries]], [[House minority leader]] (2023–present) from [[NY-08]] (2013–present)<ref>{{cite news |last1=Cerulli |first1=Mike |title=House minority leader visits Connecticut to endorse Larson |url=https://www.wtnh.com/news/elections/house-minority-leader-visits-connecticut-to-endorse-larson/ |access-date=February 13, 2026 |work=[[WTNH]] |date=February 12, 2026}}</ref>
+*[[Barbara B. Kennelly]], former [[CT-01]] (1982–1999)<ref name="PileUp"/>
+*[[Jamie Raskin]], [[MD-08]] (2017–present)<ref>{{cite web |title= John Larson endorsed by Rep. Jamie Raskin, advocate for change |url= https://ctmirror.org/2026/04/13/john-larson-endorsed-by-jamie-raskin/ |website=CT Mirror |access-date=13 April 2026 |date=13 April 2026}}</ref>
+
+;Statewide officials
+*[[William Tong]], [[attorney general of Connecticut]] (2019–present)<ref name="Tong">{{cite web |last1=Pazniokas |first1=Mark |title=Tong endorses U.S. Rep. John Larson as ally in fight against Trump |url=https://ctmirror.org/2026/01/06/william-tong-endorses-john-larson-as-ally-in-fight-against-trump/ |website=CT Mirror |access-date=11 January 2026 |date=6 January 2026}}</ref>
+
+;State legislators
+*[[Saud Anwar]], [[Connecticut's 3rd State Senate district|SD-03]] (2019–present)<ref name="Tracking"/>
+*[[Patrick Biggins]], [[Connecticut's 11th House of Representatives district|HD-11]] (2025–present)<ref name="Tracking"/>
+*[[Jason Doucette]], [[Connecticut's 13th House of Representatives district|HD-13]] (2019–present)<ref name="Tracking"/>
+*[[Mary Fortier]], [[Connecticut's 79th House of Representatives district|HD-79]] (2023–present)<ref name="Tracking"/>
+*[[Henry Genga]], [[Connecticut's 10th House of Representatives district|HD-10]] (2006–present)<ref name="Tracking">{{cite web |title=Tracking endorsements in the CT 1st Congressional District Democratic primary |url=https://www.ctinsider.com/politics/article/ct-congress-primary-larson-bronin-gilchrest-21223029.php |website=Connecticut Insider |access-date=11 January 2026}}</ref>
+*[[Matt Lesser]], [[Connecticut's 9th State Senate district|SD-09]] (2019–present)<ref name="PileUp"/>
+*[[Geoff Luxenberg]], [[Connecticut's 12th House of Representatives district|HD-12]] (2011–2015, 2019–present)<ref name="Tracking"/>
+*[[MD Rahman]], [[Connecticut's 4th State Senate district|SD-04]] (2023–present)<ref name="CourantDec"/>
+*[[Jason Rojas]], [[Connecticut House of Representatives|House majority leader]] (2021–present) from [[Connecticut's 9th House of Representatives district|HD-09]] (2009–present)<ref name="CourantDec"/>
+*[[Gary Turco]], [[Connecticut's 27th House of Representatives district|HD-27]] (2019–present)<ref name="Tracking"/>
+ 
+;Labor unions
+*[[American Federation of Government Employees]] Locals 2138, 1674 & 1164<ref name="Tracking"/>
+*[[North America's Building Trades Unions|Connecticut Building Trades Council]]<ref>{{cite web |last1=Pazniokas |first1=Mark |title=Facing four challengers, John Larson opens reelection campaign |url=https://ctmirror.org/2025/09/12/rep-john-larson-opens-reelection-campaign/ |website=CT Mirror |access-date=13 November 2025 |date=12 September 2025}}</ref>
+*Connecticut [[International Association of Machinists and Aerospace Workers|State Council of Machinists]]<ref name="PlannedP"/>
+*[[Greater Hartford]] [[North America's Building Trades Unions|Building Trades]]<ref name="Tracking"/>
+*[[International Association of Machinists and Aerospace Workers|International Association of Machinists]]<ref name="PlannedP"/>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers]]<ref name="Tracking"/>
+*[[Laborers' International Union of North America]]<ref name="Tracking"/>
+*[[International Association of Machinists and Aerospace Workers|Machinists]] District 26<ref name="PlannedP"/>
+*[[National Association of Government Employees]] Local R1-109<ref name="Tracking"/>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|Sheet Metal Workers]] Local 40<ref name="Tracking"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 7, 2026}}</ref>
+*[[Alliance for Retired Americans]]<ref name="PlannedP"/>
+*[[J Street PAC]]<ref>{{cite web |title=John Larson |url=https://jstreetpac.org/candidate/john-larson/ |website=J Street PAC |access-date=24 November 2025}}</ref>
+*[[League of Conservation Voters]]<ref name="PlannedP"/>
+*[[Planned Parenthood Action Fund]]<ref name="PlannedP">{{cite web |title=U.S. Rep. Larson gets series of high-profile endorsements; Opponents say 'new energy needed' |url=https://www.courant.com/2026/03/24/u-s-rep-larson-gets-series-of-high-profile-endorsements-opponents-say-new-energy-needed/ |website=Hartford Courant |access-date=25 March 2026 |date=24 March 2026}}</ref>
+
+;Political parties
+*[[Working Families Party]]<ref name="PileUp"/>
+}}
+{{Endorsements box
+|title=Jillian Gilchrest
+|colwidth = 60
+|list=
+;State officials
+*[[Beth Bye]], commissioner of the Connecticut Office of Early Childhood (2019–present) and former [[Connecticut's 5th State Senate district|SD-05]] (2011–2019)<ref name="Tracking"/>
+
+;State legislators
+*[[Amy Morrin Bello]], [[Connecticut's 28th House of Representatives district|HD-28]] (2020–present)<ref name="Tracking"/>
+*[[Kai Belton]], [[Connecticut's 100th House of Representatives district|HD-100]] (2023–present)<ref name="Tracking"/>
+*[[Aimee Berger-Girvalo]], [[Connecticut's 111th House of Representatives district|HD-111]] (2021–present)<ref name="Tracking"/>
+*[[Robin Comey]], [[Connecticut's 102nd House of Representatives district|HD-102]] (2019–present)<ref name="Tracking"/>
+*[[Lucy Dathan]], [[Connecticut's 142nd House of Representatives district|HD-142]] (2019–present)<ref name="Tracking"/>
+*[[Eleni Kavros DeGraw]], [[Connecticut's 17th House of Representatives district|HD-17]] (2021–present)<ref name="Tracking"/>
+*[[Kate Farrar]], [[Connecticut's 20th House of Representatives district|HD-20]] (2021–present)<ref name="Tracking"/>
+*[[Jaime Foster]], [[Connecticut's 57th House of Representatives district|HD-57]] (2021–present)<ref name="Tracking"/>
+*[[Sujata Gadkar-Wilcox]], [[Connecticut's 22nd State Senate district|SD-22]] (2025–present)<ref name="Tracking"/>
+*[[Nick Gauthier]], [[Connecticut's 38th House of Representatives district|HD-38]] (2025–present)<ref name="Tracking"/>
+*[[Anne Meiman Hughes]], [[Connecticut's 135th House of Representatives district|HD-135]] (2019–present)<ref name="Tracking"/>
+*[[Sarah Keitt]], [[Connecticut's 134th House of Representatives district|HD-134]] (2023–present)<ref name="Tracking"/>
+*[[Jennifer Leeper]], [[Connecticut's 132nd House of Representatives district|HD-132]] (2021–present)<ref name="Tracking"/>
+*[[Ceci Maher]], [[Connecticut's 26th State Senate district|SD-26]] (2023–present)<ref name="Tracking"/>
+*[[Rebecca Martinez]], [[Connecticut's 22nd House of Representatives district|HD-22]] (2025–present)<ref name="Tracking"/>
+*[[Martha Marx]], [[Connecticut's 20th State Senate district|SD-20]] (2023–present)<ref name="Tracking"/>
+*[[Nick Menapace]], [[Connecticut's 37th House of Representatives district|HD-37]] (2025–present)<ref name="Tracking"/>
+*[[Kaitlyn Shake]], [[Connecticut's 120th House of Representatives district|HD-120]] (2025–present)<ref name="Tracking"/>
+*[[Laurie Sweet]], [[Connecticut's 91st House of Representatives district|HD-91]] (2025–present)<ref name="Tracking"/>
+*[[Mary Welander]], [[Connecticut's 114th House of Representatives district|HD-114]] (2021–present)<ref name="Tracking"/>
+
+;Organizations
+*[[Indivisible movement|Indivisible]] Connecticut<ref>{{cite web |title=Luke Bronin out-fundraises John Larson in congressional race in Q3, with Jillian Gilchrest behind |url=https://www.ctinsider.com/politics/article/bronin-larson-gilchrest-ct-congress-fundraise-race-21101843.php |website=Connecticut Insider |access-date=4 December 2025 |archive-url=https://archive.today/20251113172218/https://www.ctinsider.com/politics/article/bronin-larson-gilchrest-ct-congress-fundraise-race-21101843.php |archive-date=November 13, 2025 |quote=This week, she announced an endorsement from Indivisible Connecticut, a liberal advocacy group that has played a significant role in anti-Trump protests in recent months.}}</ref>
+*[[National Association of Social Workers]]<ref>{{cite web |title=2026 PACE Endorsements|url=https://www.socialworkers.org/Advocacy/Political-Action-for-Candidate-Election-PACE/Elections/2026-PACE-Endorsements|website=NASW |access-date=21 July 2026}}</ref>
+*[[Progressive Victory]]<ref name="PileUp"/>
+*[[Track AIPAC]]<ref name="Track"/>
+}}
+{{Endorsements box
+|title=Jack Perry ''(withdrawn)''
+|list=
+;Organizations
+*[[Track AIPAC]]<ref name=Track>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 22, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Luke Bronin (D)
+|$3,070,150
+|$2,469,256
+|$600,894
+|-
+|{{party shading/Democratic}}|Ruth Fortune (D)
+|$106,849
+|$85,466
+|$21,382
+|-
+|{{party shading/Democratic}}|Jillian Gilchrest (D)
+|$163,908
+|$129,364
+|$34,543
+|-
+|{{party shading/Democratic}}|John Larson (D)
+|$2,733,259
+|$2,172,086
+|$809,902
+|-
+|{{party shading/Democratic}}|''Jack Perry (D)''
+|$532,427
+|$532,427
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Connecticut 1st |url=https://www.fec.gov/data/elections/house/CT/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 18, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:70px;"| Luke<br />Bronin
+! style="width:70px;"| Ruth<br />Fortune
+! style="width:70px;"| Jillian<br />Gilchrest
+! style="width:70px;"| John<br />Larson
+! Undecided
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{cite web |title=New Polling in CT-01 |url=https://votevets.org/wp-content/uploads/2026/05/CT-01-Primary-Interested-Parties-Memo-F05.26.26.pdf |publisher=[[VoteVets.org|VoteVets]] |access-date=May 28, 2026 |date=May 26, 2026}}</ref>{{efn-ua|Poll sponsored by [[VoteVets.org|VoteVets]], which supports Bronin}}
+|May 18–21, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''38%'''
+|4%
+|10%
+|30%
+|18%
+|-
+|style="text-align:left;"|GQR (D)<ref>{{cite web |last1=Cerulli |first1=Mike |title=Rep. John Larson projects confidence with new poll |url=https://www.wtnh.com/news/elections/rep-john-larson-projects-confidence-with-new-poll/ |publisher=[[WTNH]] |date=March 27, 2026 |access-date=March 27, 2026}}</ref>{{efn-ua|name=Larson|Poll sponsored by Larson's campaign}}
+|January 27 – February 1, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|26%
+|–
+|9%
+|{{party shading/Democratic}}|'''49%'''
+|15%
+|}
+
+====Results====
+{{Switcher
+| [[File:2026 CT-01 Democratic primary election results by town.svg|thumb|200px|Results by municipality:
+{{collapsible list
+| title = {{legend|#7996E2|Bronin}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}{{collapsible list
+| title = {{legend|#F1C92A|Larson}}
+|{{legend|#FFE680|40–50%}}
+|{{legend|#FFDC43|50–60%}}
+}}]]
+| Results by municipality
+| [[File:2026 Connecticut's 1st congressional district Democratic primary results map by precinct.svg|thumb|200px|Results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|Bronin}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}{{collapsible list
+| title = {{legend|#F1C92A|Larson}}
+|{{legend|#FFE680|40–50%}}
+|{{legend|#FFDC43|50–60%}}
+}}]]
+| Results by precinct
+}}
+
+{{Election box begin no change |title=Democratic primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[Luke Bronin]]
+  |votes      = 29,219
+  |percentage = 53.6
+}}{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[John B. Larson|John Larson]] (incumbent)
+  |votes      = 18,221
+  |percentage = 33.4
+}}{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[Jillian Gilchrest]]
+  |votes      = 4,468
+  |percentage = 8.2
+}}{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Ruth Fortune
+  |votes      = 2,568
+  |percentage = 4.7
+}}{{Election box total no change
+  |votes      = 54,476
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Republican primary===
+====Candidates====
+===== Nominee =====
+*Amy Chai, doctor and [[Independent Party of Connecticut|Independent Party]] candidate for [[Connecticut's 3rd congressional district]] in [[2022 United States House of Representatives elections in Connecticut#District 3|2022]]<ref>{{#invoke:cite|news |last1=Lemanski |first1=Michael |title=West Hartford Lawmaker Announces Congressional Run |url=https://patch.com/connecticut/westhartford/west-hartford-lawmaker-announces-congressional-run/ |access-date=August 26, 2025 |work=[[Patch Media]] |date=August 26, 2025}}</ref>
+
+=====Filed paperwork=====
+*Gavin Solomon, businessman<ref>{{Cite web |title=SOLOMON, GAVIN - Candidate overview |url=https://docquery.fec.gov/cgi-bin/forms/H6CT01214/1912848/ |access-date=2025-10-30 |website=[[Federal Election Commission|FEC]] |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Amy Chai
+|list=
+;Organizations
+*Veterans for America First<ref>{{cite web |title=Endorsements |url=https://vfaf.us/endorsements |website=VETERANS FOR AMERICA FIRST |access-date=9 December 2025 |language=en}}</ref>
+
+;Political parties
+*[[Connecticut Republican Party]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Amy Chai (R)
+|$20,827
+|$16,227
+|344
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===Independents===
+==== Candidates ====
+=====Filed paperwork=====
+*Mark Stewart Greenstein, businessman, attorney, and perennial candidate
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=June 13, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= June 13, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|June 13, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ">{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=April 26, 2026 |website=[[The Economist]] |language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=	Luke Bronin (D)
+|list=
+;U.S. representatives
+*[[Greg Stanton]], [[Arizona's 4th congressional district|AZ-04]] (2019–present)<ref name="New Dems">{{cite web|url=https://www.newdemactionfund.com/news/new-dems-endorse-two-candidates-in-nh-ct?source=dfba9884-cc51-4c60-b5ac-1e7c74296073|title=New Dems Endorse Two Candidates In NH & CT|date=October 1, 2026|access-date=October 2, 2026}}</ref>
+
+;Organizations
+*[[J Street]]<ref>{{cite web |title=Luke Bronin |url=https://jstreetpac.org/candidate/luke-bronin/ |website=J Street PAC |access-date=16 October 2026}}</ref>
+*[[New Democrat Coalition#Campaign arm|NewDem Action Fund]]<ref name="New Dems"/>
+}}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Connecticut's 2nd congressional district election
+| country = Connecticut
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Connecticut#District 2
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Connecticut#District 2
+| next_year = 2028
+| image_size = 150x150px
+| image1 = Rep. Joe Courtney Portrait 2024 (cropped).jpg
+| nominee1 = [[Joe Courtney (politician)|Joe Courtney]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = George Austin
+| party2 = Republican Party (United States)
+| alliance2 = [[Independent Party of Connecticut|Independent]]
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Joe Courtney (politician)|Joe Courtney]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Connecticut's 2nd congressional district}}
+The 2nd district is located in the eastern part of the state and includes [[New London, Connecticut|New London]] and [[Groton, Connecticut|Groton]]. The incumbent is Democrat [[Joe Courtney (politician)|Joe Courtney]], who was re-elected with 57.1% of the vote in 2024.<ref name="HV"/>
+
+===Democratic primary===
+==== Candidates ====
+===== Nominee =====
+*[[Joe Courtney (politician)|Joe Courtney]], incumbent U.S. representative<ref>{{Cite web |last=Hughes |first=Paul |date=2026-05-12 |title=Hayes, Courtney, Himes, DeLauro all endorsed by CT Democrats for congressional runs |url=https://www.ctinsider.com/connecticut/article/u-s-house-democrats-endorsed-conventions-primary-22252549.php |access-date=2026-05-25 |website=CT Insider |language=en}}</ref>
+
+=====Withdrawn=====
+* Kyle Gauck, supply chain manager<ref>{{Cite web |title=East Hampton man to challenge Courtney for 2026 nomination |url=https://theday.com/news/764100/east-hampton-man-to-challenge-courtney-for-2026-nomination/ |access-date=July 10, 2025 |author=Hallenbeck, Brian |date=July 9, 2025 |website=[[The Day (New London)|The Day]] |language=en}}</ref><ref>{{Cite web |date=June 13, 2026 |title=UConn grad Gauck suspends campaign for US Congress |url=https://www.yahoo.com/news/politics/articles/uconn-grad-gauck-suspends-campaign-035900104.html |access-date=July 1, 2026 |website=Yahoo News |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Kyle Gauck ''(withdrawn)''
+|list=
+;Organizations
+*[[Progressive Victory]]<ref>{{#invoke:cite tweet||user=ProgressiveVic|number=2046322505392980200|title=ENDORSEMENT ALERT! Progressive Victory is proud to @KyleForCT2 for Congress in Connecticut's 2nd district! He brings a refreshing message of a positive future for a long-neglected corner of the state.|access-date=April 21, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Joe Courtney
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=NEA Education Votes |access-date=13 November 2025}}</ref>
+
+;Organizations
+*[[J Street PAC]]<ref>{{cite web |title=Joe Courtney |url=https://jstreetpac.org/candidate/joe-courtney/ |website=J Street PAC |access-date=24 November 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA Endorsed Candidates">{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=24 November 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+
+;Political parties
+*[[Democratic Party of Connecticut]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Joe Courtney (D)
+|$760,424
+|$508,302
+|$603,233
+|-
+|{{party shading/Democratic}}|Kyle Gauck (D)
+|$22,593
+|$21,011
+|$27
+|- 
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Connecticut 2nd |url=https://www.fec.gov/data/elections/house/CT/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 18, 2026}}</ref></small>
+|}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*George Austin, business owner<ref>{{Cite web |title=George Austin Is Running For Congress — And He's Making A Stop In Enfield |url=https://patch.com/connecticut/enfield/george-austin-running-congress-he-s-making-stop-enfield |website=Patch}}</ref>
+
+=====Withdrawn=====
+* [[Mike France (politician)|Mike France]], former [[Connecticut House of Representatives|state representative]] from the [[Connecticut's 42nd House of Representatives district|42nd district]] (2015–2023) and nominee for this district in [[2022 United States House of Representatives elections in Connecticut#District 2|2022]] and [[2024 United States House of Representatives elections in Connecticut#District 2|2024]] ''(Running for State Senate)''<ref name="Pazniokas">{{Cite web |last=Pazniokas |first=Mark |date=2026-05-16 |title=CT GOP opens convention, nominating down-ballot candidates |url=https://ctmirror.org/2026/05/15/ct-gop-opens-convention-fazio-mccaughey/ |access-date=2026-05-25 |website=CT Mirror |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=George Austin
+|list=
+;Political parties
+*[[Connecticut Republican Party]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|George Austin (R)
+|$283,997
+|$84,046
+|$199,950
+|- 
+|{{party shading/Republican}}|''Mike France (R)''
+|$70,790
+|$70,790
+|$0
+|- 
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+===Independents===
+==== Candidates ====
+=====Filed paperwork=====
+*Kyle Gauck, supply chain manager ''(previously ran in the Democratic primary)''
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|June 13, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br>of error
+! style="width:100px;"| Joe<br>Courtney (D)
+! style="width:100px;"| George<br>Austin (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|DM Strategies<ref>{{cite web |title=Connecticut's 2nd Congressional District |url=https://drive.google.com/file/d/1DCAIhBUbNlAs1nlAi8ixGADhRWejHXom/view |publisher=DM Strategies |access-date=October 25, 2026}}</ref>
+|October 16–19, 2026
+|279 (LV)
+|±&nbsp;5.9%
+|{{party shading/Democratic}}|'''52%'''
+|33%
+|1%{{Efn|"No answer" with 1%}}
+|13%
+|}
+
+==District 3==
+{{see also|Connecticut's 3rd congressional district}}
+{{Infobox election
+| election_name = 2026 Connecticut's 3rd congressional district election
+| country = Connecticut
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Connecticut#District 3
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Connecticut#District 3
+| next_year = 2028
+| image_size = 150x150px
+| image1 = Rosa DeLauro 118th Congress (cropped).jpeg
+| nominee1 = [[Rosa DeLauro]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Christopher Lancia
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Rosa DeLauro]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 3rd district is located in the south-central part of the state and includes [[New Haven, Connecticut|New Haven]]. The incumbent is Democrat [[Rosa DeLauro]], who was re-elected with 58.9% of the vote in 2024.<ref name="HV"/>
+
+===Democratic primary===
+====Candidates====
+
+===== Nominee =====
+*[[Rosa DeLauro]], incumbent U.S. representative<ref name=oldest>{{Cite web |last=Solender |first=Andrew |date=2025-05-15 |title=Scoop: House Democrats' oldest members mostly running again despite youth revolt |url=https://www.axios.com/2025/05/15/house-democrats-age-members-reelection-biden |access-date=2025-06-13 |website=Axios |language=en}}</ref>
+
+=====Eliminated at convention=====
+* Andrew Rice, molecular biologist and [[Democratic Socialists of America|DSA]] member ''(running as an independent)''<ref name=":1">{{#invoke:cite| news |last1=Bass |first1=Paul |title=2nd Democratic Challenger to DeLauro Emerges |url=https://www.newhavenindependent.org/2025/12/02/2nd-democratic-challenger-to-delauro-emerges/ |access-date=January 19, 2026 |work=[[WNPR]] |date=July 10, 2025 |language=en}}</ref><ref>{{Cite web |last=Haeg |first=Adele |date=June 18, 2026 |title=Rice Commits To Independent Run For Congress |url=https://www.newhavenindependent.org/2026/06/18/rice-commits-to-independent-run-for-congress/ |access-date=July 1, 2026 |website=New Haven Independent |language=en-US}}</ref>
+
+=====Withdrawn=====
+*Damjan DeNoble, attorney<ref>{{Cite web |last=Bass |first=Paul |date=2026-02-17 |title=DeLauro Challenger Ends Campaign |url=https://www.newhavenindependent.org/2026/02/17/delauro-challenger-ends-campaign/ |access-date=2026-02-19 |website=New Haven Independent |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Rosa DeLauro
+|list=
+;U.S. representatives
+*[[Gabby Giffords]], former [[AZ-08]] (2007–2012)<ref name="EndTrack">{{cite web |title=2026 Endorsement Tracker |url=https://votehub.com/2026-endorsements |website=VoteHub |access-date=31 January 2026 |language=en |date=8 January 2026}}</ref>
+
+;Labor unions
+*[[National Education Association]]<ref name="NEA"/>
+
+;Organizations
+*<s>[[AIPAC]]</s> ''(states on website "Congresswoman DeLauro has stated she is no longer taking money from AIPAC)" ''<ref name="AIPACThree">{{cite web |title=Thank You for Supporting Pro-Israel Incumbent Members of Congress |url=https://candidates.aipacpac.org/page/featured/ |website=AIPAC |access-date=15 September 2026}}</ref>
+*[[J Street PAC]]<ref>{{cite web |title=Rosa DeLauro |url=https://jstreetpac.org/candidate/rosa-delauro/ |website=J Street PAC |access-date=24 November 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]] Action Fund<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=13 November 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref name="NARAL">{{cite web |title=Endorsements |url=https://reproductivefreedomforall.org/elections/?state_tax=36&race=all |website=Reproductive Freedom for All |access-date=13 November 2025}}</ref>
+
+;Political parties
+*[[Democratic Party of Connecticut]]<ref name="PartyEnd" />
+}}
+
+{{Endorsements box
+|title=Andrew Rice
+|list=
+;Organizations
+*[[Track AIPAC]]<ref name="Track"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Rosa DeLauro (D)
+|$1,152,006
+|$1,028,036
+|$349,418
+|-
+|{{party shading/Democratic}}|''Damjan DeNoble (D)''
+|$11,468
+|$4,245
+|$55
+|-
+|{{party shading/Democratic}}|Andrew Rice (D)
+|$29,133
+|$119,151
+|$9,981
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Connecticut 3rd |url=https://www.fec.gov/data/elections/house/CT/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 18, 2026}}</ref></small>
+|}
+
+===Republican primary===
+====Candidates====
+===== Nominee =====
+*Christopher Lancia, law enforcement professional<ref>{{Cite web |last=Altimari |first=Daniela |date=2026-02-10 |title=As colleagues wind down their careers, Rosa DeLauro is staying put |url=https://rollcall.com/2026/02/10/as-colleagues-wind-down-their-careers-rosa-delauro-is-staying-put/ |access-date=2026-03-27 |website=Roll Call |language=en-US}}</ref>
+=====Eliminated at convention=====
+*Rafael Irizarry, nominee for [[Connecticut's 121st House of Representatives district]] in [[2024 Connecticut House of Representatives election#District 121|2024]]<ref name="Pazniokas"/>
+
+====Endorsements====
+{{Endorsements box
+|title=Christopher Lancia
+|list=
+;Political parties
+*[[Connecticut Republican Party]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Christopher Lancia (R)
+|$14,649
+|$4,446
+|$4,028
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3"/></small>
+|}
+
+===Independents===
+==== Candidates ====
+=====Declared=====
+*Thomas Egan, attorney<ref>{{cite web |last1=Bass |first1=Paul |title=DeLauro Challenger Targets Insurers |url=https://www.newhavenindependent.org/2026/09/15/delauro-challenger-targets-insurers/ |website=New Haven Independent |publisher=New Haven Independent |access-date=15 September 2026}}</ref>
+
+=====Filed Paperwork=====
+*Andrew Rice, biologist and democratic socialist activist ''(previously ran in the Democratic primary)''<ref name=":1" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|June 13, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+====Post-primary endorsements====
+{{Endorsements box
+|title=Rosa DeLauro (D)
+|list=
+;Organizations
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260901205734/https://nwpc.org/endorsed-candidates |archive-date=September 1, 2026 |access-date=October 24, 2026}}</ref>
+}}
+
+==District 4==
+{{See also|Connecticut's 4th congressional district}}
+{{Infobox election
+| election_name = 2026 Connecticut's 4th congressional district election
+| country = Connecticut
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Connecticut#District 4
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Connecticut#District 4
+| next_year = 2028
+| image_size = 150x150px
+| image1 = Jim Himes Official Portrait, 117th Congress (cropped).jpg
+| nominee1 = [[Jim Himes]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = MichaelGoldsteinCT.png
+| nominee2 = Michael Goldstein
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jim Himes]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 4th district is located in the south western part of the state and includes [[Bridgeport, Connecticut|Bridgeport]], [[Greenwich, Connecticut|Greenwich]], and [[Stamford, Connecticut|Stamford]]. The incumbent is Democrat [[Jim Himes]], who was re-elected with 61.1% of the vote in 2024.<ref name="HV"/>
+
+===Democratic primary===
+
+==== Candidates ====
+
+===== Nominee =====
+*[[Jim Himes]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1793373 |url=https://docquery.fec.gov/cgi-bin/forms/H8CT04172/1793373/ |access-date=2025-09-30 |website=docquery.fec.gov}}</ref>
+
+=====Eliminated at convention=====
+
+* Joseph Perez-Caputo, law student and community organizer ''(filed to run as an independent)''<ref>{{Cite web |date=2026-04-24 |title='I've been taking a ton of risk': Inside Jim Himes' mission to save a key spy authority |url=https://www.politico.com/news/2026/04/24/jim-himes-foreign-intelligence-surveillance-act-00890092 |access-date=2026-07-01 |website=POLITICO |language=en}}</ref><ref name=":2">{{Cite web |last=Hagen |first=Mark |last2=Pazniokas |first2=Lisa |date=May 12, 2026 |title=Luke Bronin beats John Larson in convention upset, faces primary |url=https://ctmirror.org/2026/05/11/luke-bronin-beats-john-larson-in-convention-upset-faces-primary/ |access-date=July 1, 2026 |website=CT Mirror |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jim Himes
+|list=
+;Organizations
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+
+;Political parties
+*[[Democratic Party of Connecticut]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jim Himes (D)
+|$1,379,560
+|$968,702
+|$2,517,676
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Connecticut 4th
+|url=https://www.fec.gov/data/elections/house/CT/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 18, 2026}}</ref></small>
+|}
+
+===Republican primary===
+====Nominee====
+*Michael Goldstein, member of the [[Greenwich, Connecticut|Greenwich]] Representative Town Meeting from the 10th district (2023–present), nominee for this district in [[2024 United States House of Representatives elections in Connecticut#District 4|2024]], and candidate in [[2020 United States House of Representatives elections in Connecticut#District 4|2020]] and [[2022 United States House of Representatives elections in Connecticut#District 4|2022]]<ref name="Pazniokas"/>
+
+====Eliminated in primary====
+*Daniel Miressi<ref name="Pazniokas"/>
+
+====Filed paperwork====
+*Luz Bueno<ref>{{Cite web |title=FEC Form 2 for Report FEC-1958805 |url=https://docquery.fec.gov/cgi-bin/forms/H6CT04176/1958805 |access-date=2026-04-18 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Michael Goldstein
+|list=
+;Political parties
+*[[Connecticut Republican Party]]<ref name="PartyEnd">{{cite web |title=Connecticut Primary Election 2026 Voter Guide |url=https://ctmirror.org/2026/07/27/ct-primary-election-2026-voter-guide/ |website=Connecticut Mirror |access-date=6 August 2026}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michael Goldstein (R)
+|$46,809
+|$5,767
+|$41,041
+|-
+|{{party shading/Republican}}|Daniel Miressi (R)
+|$10,721
+|$10,491
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Michael Goldstein
+  |votes      = 4,632
+  |percentage = 74.3
+}}{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Daniel Miressi
+  |votes      = 1,606
+  |percentage = 25.7
+}}{{Election box total no change
+  |votes      = 6,238
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Independents===
+==== Candidates ====
+=====Filed paperwork=====
+*Damon Lawrence Cerreta, cleaning service owner<ref>{{cite web|url=https://docquery.fec.gov/pdf/236/202503040300501236/202503040300501236.pdf|title=202503040300501236.pdf|website=[[Federal Election Commission]]|date=March 4, 2025|accessdate=July 11, 2025}}</ref>
+*Joseph Perez-Caputo, law student and community organizer<ref>{{cite web|url=https://docquery.fec.gov/cgi-bin/forms/H6CT04127/1894460/|title=FEC Form for Report FEC-1894460|website=[[Federal Election Commission]]|date=June 3, 2025|accessdate=July 11, 2025}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|May 29, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|June 13, 2025
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+==District 5==
+{{See also|Connecticut's 5th congressional district}}
+{{Infobox election
+| election_name = 2026 Connecticut's 5th congressional district election
+| country = Connecticut
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Connecticut#District 5
+| previous_year = 2024
+| election_date = 
+| next_election = 2028 United States House of Representatives elections in Connecticut#District 5
+| next_year = 2028
+| image_size = 150x150px
+| image1 = Jahana Hayes, official portrait, 116th Congress (cropped).jpg
+| nominee1 = [[Jahana Hayes]]
+| party1 = Democratic Party (United States)
+| alliance1 = Working Families Party
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Chris Shea
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jahana Hayes]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+The 5th district is located in the north western part of the state and includes [[Danbury, Connecticut|Danbury]] and [[Waterbury, Connecticut|Waterbury]]. The incumbent is Democrat [[Jahana Hayes]], who was re-elected with 53.4% of the vote in 2024.<ref name="HV"/>
+
+===Democratic primary===
+
+==== Candidates ====
+
+===== Nominee =====
+*[[Jahana Hayes]], incumbent U.S. representative<ref name="CrowdedCT5">{{cite news |last1=Klein |first1=Riley |title=Race for CT's 5th House District gets crowded with candidates |url=https://lakevillejournal.com/race-for-cts-5th-house-district-gets-crowded-with-candidates |access-date=February 4, 2026 |work=[[The Lakeville Journal]] |date=February 4, 2026}}</ref>
+
+=====Eliminated at convention=====
+*Winter Solomita<ref name="CrowdedCT5" /><ref name=":2" />
+*Jackson Taddeo-Waite, filmmaker ''(running as an independent)''<ref name="CrowdedCT5" /><ref name=":2" />
+
+====Endorsements====
+{{Endorsements box
+|title=Jahana Hayes
+|list=
+;Labor unions
+*[[National Education Association]]<ref name="NEA"/>
+
+;Organizations
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=24 November 2025}}</ref>
+*[[Emily's List]]<ref>{{cite web |title=Jahana Hayes |url=https://emilyslist.org/candidate/jahana-hayes/ |website=Emily's List |access-date=24 November 2025}}</ref>
+*[[Giffords]]<ref name="Giffords930">{{cite web |title=GIFFORDS PAC endorses key battleground champions running for reelection to Congress |url=https://giffords.org/press-release/2025/09/giffords-pac-endorses-key-battleground-champions-running-for-reelection-to-congress/ |website=GIFFORDS |access-date=September 30, 2025 |date=30 September 2025}}</ref>
+*[[J Street PAC]]<ref>{{cite web |title=Jahana Hayes |url=https://jstreetpac.org/candidate/jahana-hayes/ |website=J Street PAC |access-date=24 November 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDCA Endorsed Candidates"/>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=2025-2026 Endorsements |url=https://www.lcv.org/endorsements/ |website=League of Conservation Voters |access-date=13 November 2025}}</ref>
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=July 25, 2026 |access-date=October 24, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Reproductive Freedom for All]]<ref name="NARAL"/>
+
+;Political parties
+*[[Democratic Party of Connecticut]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jahana Hayes (D)
+|$1,290,077
+|$728,471
+|$1,084,158
+|-
+! colspan=4 | <small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Connecticut 5th
+|url=https://www.fec.gov/data/elections/house/CT/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 18, 2026}}</ref></small>
+|}
+
+===Republican primary===
+==== Nominee ====
+*Chris Shea, firefighter<ref>{{cite news |last1=Pazniokas |first1=Mark |title=Chris Shea joins GOP field for CT 5th Congressional District |url=https://ctmirror.org/2026/01/22/chris-shea-gop-ct-5th-congressional-district/ |access-date=January 22, 2026 |work=[[CT Mirror]] |date=January 22, 2026}}</ref>
+==== Eliminated in primary ====
+*Jonathan De Barros, nonprofit founder<ref>{{cite web |last2=Hughes |first2=Paul |last1=Dixon |first1=Ken |title=CT Republican congressional candidate's social media posts prompt police review |url=https://www.ctinsider.com/politics/article/ct-5th-district-videos-gop-jonathan-de-barros-21115708.php |access-date=January 22, 2026 |work=[[CT Insider]] |date=October 24, 2025}}</ref>
+
+==== Eliminated at convention ====
+*Michele Botelho, paralegal<ref>{{cite web |last1=Hilario |first1=Claudia S. |title=Botelho announces candidacy for Congress in 5th District |url=https://www.newbritainherald.com/news/botelho-announces-candidacy-for-congress-in-5th-district/article_da580c95-338c-460d-91f8-806d8cf091f2.html |access-date=October 15, 2025 |work=[[New Britain Herald]] |date=October 14, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Chris Shea
+|list=
+;U.S. representatives
+*[[Eli Crane]], [[AZ-02]] (2023–present)<ref name="EndTrack" />
+*[[Rob Simmons]], former [[CT-02]] (2001–2007)<ref name="EndTrack" />
+*[[Ryan Zinke]], [[Montana's 1st congressional district|MT-01]] (2015–2017, 2023–present)<ref name="EndTrack" />
+
+;State legislators
+*[[Stephen Harding (politician)|Stephen Harding]], minority leader of the [[Connecticut State Senate]] (2024–present) from [[Connecticut's 30th State Senate district|SD-30]] (2023–present)<ref name="EndTrack" />
+
+;Political parties
+*[[Connecticut Republican Party]]<ref name="PartyEnd" />
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Michele Botelho (R)
+|$56,496
+|$51,015
+|$0
+|-
+|{{party shading/Republican}}|Jonathan De Barros (R){{Efn|As last reported on March 31, 2026}}
+|$24,699
+|$17,455
+|$7,034
+|-
+|{{party shading/Republican}}|Chris Shea (R)
+|$311,675
+|$166,058
+|$145,616
+|-
+! colspan=4 | <small>Source: [[Federal Election Commission]]<ref name="FEC5"/></small>
+|}
+
+====Results====
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Chris Shea
+  |votes      = 10,261
+  |percentage = 81.0
+}}{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Jonathan De Barros
+  |votes      = 2,411
+  |percentage = 19.0
+}}{{Election box total no change
+  |votes      = 12,672
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Independents===
+==== Candidates ====
+=====Filed paperwork=====
+*Jonathan De Barros, nonprofit founder ''(previously ran in the Republican primary)''
+*Jackson Taddeo-Waite, filmmaker ''(previously ran in the Democratic primary)''<ref>{{Cite web |title=WAITE, JACKSON - Candidate overview |url=https://docquery.fec.gov/cgi-bin/forms/H6CT05215/1915870/ |access-date=2025-10-31 |website=[[Federal Election Commission|FEC]] |language=en-US}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+| {{USRaceRating|Safe|D}}
+|September 25, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial" />
+| {{USRaceRating|Solid|D}}
+|January 15, 2026
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|June 13, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball"/>
+| {{USRaceRating|Safe|D}}
+|July 30, 2026
+|-
+|align=left | [[The Economist]]<ref name="Econ"/>
+| {{USRaceRating|Safe|D}}
+| May 6, 2026
+|}
+
+==== Post-primary endorsements ====
+{{Endorsements box|title=Jahana Hayes|list=;Organizations
+*[[Democrats for Education Reform]]<ref>{{Cite web|url=https://dfer.org/candidates/|title=House Reform Champions|access-date=September 29, 2026|website=dfer.org}}</ref>}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:100px;"| Jahana<br>Hayes (D)
+! style="width:100px;"| Chris<br>Shea (R)
+! Undecided
+|-
+|style="text-align:left;"|OnMessage (R)<ref>{{cite web |last1=Shea |first1=Chris |title=NEW Poll shows CT-05 is the CLOSEST race in Connecticut!  And when voters hear about Chris’ background and Jahana Hayes radical record in Congress, her numbers plummet!  Our movement has brought together Republicans, Democrats, and Independents, because they’re sick of DC politicians only out for themselves.  Less than two weeks to go until Election Day, let’s win this! |url=https://x.com/SheaforCongress/status/2112915268317921680 |publisher=[[Twitter]] |access-date=October 25, 2026 |date=October 21, 2026}}</ref>{{Efn-ua|Poll conducted for Shea's campaign}}
+|September 29 – October 1, 2026
+|?
+|±&nbsp;5.9%
+|{{party shading/Democratic}}|'''51%'''
+|45%
+|4%
+|}
+
+==See also==
+*[[2026 Connecticut elections]]
+*[[2026 United States House of Representatives elections]]
+*[[2026 Connecticut House of Representatives election]]
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://broninforcongress.com/ Luke Bronin (D)]
+*[https://www.docchai2022.com/ Amy Chai (R)]
+*[https://stewartforliberty.com/ Mark Stewart Greenstein (I)]
+
+;Official campaign websites for 2nd district candidates
+*[https://votegeorgeforcongress.com/ George Austin (R)]
+*[https://joecourtney.com/ Joe Courtney (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://rosadelauro.com/ Rosa DeLauro (D)]
+*[https://lanciaforcongress2026.org/ Christopher Lancia (R)]
+*[https://www.riceforct.com/ Andrew Rice (I)]
+
+;Official campaign websites for 4th district candidates
+*[https://goldsteinforcongress.com/ Michael Goldstein (R)]
+*[https://www.himesforcongress.com/ Jim Himes (D)]
+*[https://www.creatingcommunityeverywhere-jpcforcongress.org/ Joseph Perez-Caputo (I)]
+
+;Official campaign websites for 5th district candidates
+*[https://jahanahayes.com/ Jahana Hayes (D)]
+*[https://chrissheaforcongress.com/ Chris Shea (R)]
+*[https://www.debarrosforcongress.org/ Jonathan De Barros (I)]
+
+{{Connecticut elections}}
+{{2026 United States elections}}
+
+[[Category:United States House of Representatives elections in Connecticut|2026]]
+[[Category:2026 United States House of Representatives elections|Connecticut]]
+[[Category:2026 elections in Connecticut|United States House of Representatives]]

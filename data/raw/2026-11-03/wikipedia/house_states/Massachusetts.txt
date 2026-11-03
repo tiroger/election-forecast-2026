@@ -1,0 +1,1847 @@
+{{short description|none}}
+{{Use mdy dates|date=December 2024}}
+{{use American English|date=December 2024}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Massachusetts House of Representatives election}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Massachusetts
+| country = Massachusetts
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts
+| next_year = 2028
+| seats_for_election = All 9 Massachusetts seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = '''9'''
+| seats1 = '''9'''
+| party2 = Republican Party (United States)
+| last_election2 = 0
+| seats2 = 0
+| seat_change1 = 
+| seat_change2 = 
+| map_image = 
+| map_caption = 
+}}
+{{ElectionsMA}}
+The '''2026 United States House of Representatives elections in Massachusetts''' will be held on November 3, 2026, to elect the nine [[U.S. representative]]s from the [[Commonwealth (U.S. state)|Commonwealth]] of [[Massachusetts]], one from all nine of the state's [[Massachusetts's congressional districts|congressional districts]]. The elections will coincide with [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate election in Massachusetts|elections]] to the [[United States Senate]], and various [[2026 Massachusetts elections|state and local elections in Massachusetts]]. Primary elections took place on September 1, 2026.<ref>{{cite news |last1=Shook |first1=Ashley |title=Massachusetts legislature approves 2026 primary election date |url=https://www.wwlp.com/news/massachusetts/massachusetts-legislature-approves-2026-primary-election-date/ |access-date=September 24, 2025 |work=[[WWLP]] |date=September 22, 2025 |language=en}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{see also|Massachusetts's 1st congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 1st congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Richard Neal portrait (118th Congress).jpg
+| nominee1 = [[Richard Neal]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Nadia Milleron]]
+| party2 = Independent
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Richard Neal]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party = 
+| map = 
+}}
+The 1st congressional district is in [[western Massachusetts]] and includes [[Springfield, Massachusetts|Springfield]] and [[Pittsfield, Massachusetts|Pittsfield]]. The incumbent is [[Richard Neal]], who was re-elected with 62.5% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=December 2, 2024 |website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Richard Neal]], incumbent U.S. representative<ref>{{cite news |last1=Solender |first1=Andrew |title=Scoop: House Democrats' oldest members mostly running again despite youth revolt |url=https://www.axios.com/2025/05/15/house-democrats-age-members-reelection-biden |access-date=May 14, 2025 |work=[[Axios (website)|Axios]] |date=May 14, 2025 |language=en}}</ref>
+
+====Eliminated in primary====
+* Jeromie Whalen, teacher<ref>{{Cite web |last=Garrity |first=Kelly |date=2025-08-20 |title=The teacher taking on Rep. Richard Neal |url=https://www.politico.com/newsletters/massachusetts-playbook/2025/08/20/the-teaching-taking-on-rep-richard-neal-00515792 |access-date=2025-08-20 |website=[[Politico]] |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Richard Neal
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Endorses 8 Massachusetts Incumbents for Reelection to Congress |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-8-massachusetts-incumbents-for-reelection-to-congress/ |website=AFGE |access-date=9 August 2026 |date=July 20, 2026}}</ref>
+*Massachusetts [[AFL-CIO]]<ref name="AFLCIO">{{cite web |title=Up to Date 2026 Endorsements |url=https://drive.google.com/file/d/1RUUISHEBaJm-LGy0LDc-xB8MK0O7OfGA/view |website=Massachusetts AFL-CIO |access-date=9 August 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+*[[Democratic Majority for Israel]]<ref name="DMFI">{{cite web |title=Endorsees |url=https://dmfipac.org/candidates/2026-endorsees/ |website=DMFI PAC |access-date=December 17, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDem"/>
+*[[J Street PAC]]<ref>{{cite web |title=Richard Neal |url=https://jstreetpac.org/candidate/richard-neal/ |website=J Street PAC |access-date=25 November 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+
+;State legislators
+*[[William "Smitty" Pignatelli]], former state representative (2003–2025)<ref>{{cite news |title=Why I'm supporting Congressman Neal |url=https://theberkshireedge.com/why-im-supporting-congressman-neal/ |work=The Berkshire Edge |date=August 25, 2026 |access-date=August 27, 2026}}</ref>
+
+;Newspapers
+*''[[The Berkshire Eagle]]''<ref>{{cite news |title=Our Opinion: Richard Neal for US House of Representatives in Massachusetts' 1st District |url=https://www.berkshireeagle.com/opinion/editorials/our-opinion-richard-neal-for-us-house-of-representatives-in-massachusetts-1st-district/article_bfbeff93-04ed-4ea1-9d41-dda13470b910.html |access-date=August 26, 2026 |work=[[The Berkshire Eagle]] |date=August 25, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Jeromie Whalen
+|list=
+;Labor unions
+* Massachusetts [[National Education Association|Teachers Association]]<ref name="MTA">{{cite web |title=***9/1/26 Primary - Public Education Endorsements*** |url=https://www.facebook.com/groups/mtagrassroots/posts/2450127792160736/ |website=MTA Grassroots |via=[[Facebook]] |date=August 4, 2026 |access-date=August 6, 2026}}</ref>
+
+;Organizations
+*[[College Democrats]] of Massachusetts<ref>{{Cite Instagram |user=macollegedems|postid= DWy9TzdjoD0|title=The College Democrats of Massachusetts are thrilled to endorse Jeromie Whalen for Congress (MA-01)!|date=2026-04-06 }}</ref>
+*Massachusetts [[Peace Action]]<ref>{{Cite web|url=https://masspeaceaction.org/news/peace-voter/elect-jeromie-whalen-to-congress/2026/06/03/|title=Elect Jeromie Whalen to Congress!|date=June 3, 2026|last=Ansara|first=Merri|access-date=June 22, 2026}}</ref>
+*[[Our Revolution]]<ref>{{Cite web |url=https://ourrevolution.com/jeromie-whalen-for-congress-in-massachusetts-1st-district/ |title=Jeromie Whalen for Congress in Massachusetts 1st District |website=[[Our Revolution]] |access-date=August 25, 2026}}</ref>
+*[[Peace Action]]<ref name=Peace/>
+*[[Progressive Democrats of America]]<ref name=PDA>{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements/ |website=Progressive Democrats of America |access-date=August 24, 2026}}</ref>
+*[[Progressive Victory]]<ref>{{Cite web |title=Endorsements for 2026 |url=https://www.progressivevictory.win/endorsements |website=Progressive Victory |access-date=June 23, 2026}}</ref>
+*[[Track AIPAC]]<ref name="TrackAIPAC">{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 12, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Richard Neal (D)
+|$2,462,685
+|$3,074,234
+|$3,276,321
+|-
+|{{party shading/Democratic}}|Jeromie Whalen (D)
+|$335,864
+|$296,488
+|$39,375
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Massachusetts 1st |url=https://www.fec.gov/data/elections/house/MA/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Massachusetts's 1st congressional district democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Richard Neal]]
+! scope="col" | Jeromie Whalen
+|-
+!1
+| style="white-space:nowrap;" | August 19, 2026
+| style="white-space:nowrap;" | [[WWLP-TV]]
+| style="white-space:nowrap;" | Patrick Berry
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=NvkMcc0-c8o]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+[[File:2026 Massachusetts's 1st congressional district Democratic primary election results by town map.svg|thumb|210px|Primary results by town:
+{{collapsible list
+| title = {{legend|#7996E2|Neal}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Whalen}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#009696|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#AE8BB1|50–60%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Richard Neal]] (incumbent)|votes=49,927|percentage=54.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jeromie Whalen|votes=42,488|percentage=45.9}}
+{{Election box write-in with party link no change|votes=126|percentage=0.1}}
+{{Election box total no change|votes=92,541|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*[[Nadia Milleron]], consumer advocate and candidate for this district in [[2024 United States House of Representatives elections in Massachusetts#District 1|2024]]<ref>{{Cite news |last=Buddie |first=Victoria |date=March 19, 2026 |title=Independent Milleron launches campaign with 'Medicare for all' |url=https://www.wwlp.com/news/local-news/hampden-county/independent-milleron-launches-campaign-with-medicare-for-all/ |access-date=March 25, 2026 |work=[[WWLP]]}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Nadia Milleron (I)
+|$26,918
+|$18,042
+|$22,026
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===General election===
+====Post-primary endorsements====
+{{Endorsements box
+|title=Nadia Milleron
+|list=
+;Individuals
+*[[Ralph Nader]], presidential candidate in [[1996 United States presidential election|1996]], [[2000 United States presidential election|2000]], [[2004 United States presidential election|2004]], and [[2008 United States presidential election|2008]] ''(candidate's uncle)''<ref>{{cite news |last1=Lissauer |first1=Talia |title=Ralph Nader blasts Rep. Richard Neal in letter backing niece’s challenge |url=https://www.berkshireeagle.com/localnews/ralph-nader-blasts-rep-richard-neal-in-letter-backing-nieces-challenge/5046684 |access-date=October 28, 2026 |work=[[The Berkshire Eagle]] |date=October 27, 2026}}</ref>
+
+}}
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 6, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=August 20, 2026 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=August 20, 2026 |website=[[Silver Bulletin]] |via=[[Substack]] |language=en}}</ref>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 2==
+{{see also|Massachusetts's 2nd congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 2nd congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Jim McGovern, official portrait, 116th Congress (cropped).jpg
+| nominee1 = '''[[Jim McGovern (American politician)|Jim McGovern]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jim McGovern (American politician)|Jim McGovern]]
+| before_party = Democratic Party (US)
+| after_election = [[Jim McGovern (American politician)|Jim McGovern]]
+| after_party = Democratic Party (United States)
+| map =
+}}
+The 2nd congressional district is in [[central Massachusetts]] and includes [[Worcester, Massachusetts|Worcester]]. The incumbent is Democrat [[Jim McGovern (American politician)|Jim McGovern]], who was re-elected with 68.6% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Jim McGovern (American politician)|Jim McGovern]], incumbent U.S. representative<ref>{{cite web |last1=Schwan |first1=Henry |title=McGovern announces he's running for a 16th term in Congress |url=https://www.telegram.com/story/news/politics/2026/04/30/rep-james-mcgovern-reelection-announcement/89874910007/ |access-date=April 30, 2026 |work=[[Worcester Telegram]] |date=April 30, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jim McGovern
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+*Massachusetts [[AFL-CIO]]<ref name="AFLCIO" />
+*Massachusetts [[National Education Association|Teachers Association]]<ref name="MTA"/>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="McGovernHW">{{cite web |title=Humane World Action Fund endorses Jim McGovern for MA-02 |url=https://humaneaction.org/press-release/2026/07/humane-world-action-fund-endorses-jim-mcgovern-ma-02 |website=Humane World Action Fund |access-date=9 August 2026 |date=July 15, 2026}}</ref>
+*[[J Street PAC]]<ref>https://jstreetpac.org/candidate/jim-mcgovern/</ref>
+*[[Peace Action]]<ref name=Peace/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Progressive Democrats of America]]<ref name=PDA/>
+*[[Sierra Club]]<ref name="Sierra Club">{{cite web |title=Sierra Club Endorsements: 2026 Elections |url=https://www.sierraclubindependentaction.org/endorsements |website=Sierra Club Independent Action |access-date=9 August 2026 |archive-url=https://web.archive.org/web/20260601182609/https://www.sierraclubindependentaction.org/endorsements |archive-date=June 1, 2026 |url-status=dead}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jim McGovern (D)
+|$515,774
+|$646,932
+|$263,006
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Massachusetts 2nd |url=https://www.fec.gov/data/elections/house/MA/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jim McGovern (American politician)|Jim McGovern]] (incumbent)|votes=80,813|percentage=99.6}}
+{{Election box write-in with party link no change|votes=324|percentage=0.4}}
+{{Election box total no change|votes=81,137|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 3==
+{{see also|Massachusetts's 3rd congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 3rd congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 3
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 3
+| next_year = 2028
+| image_size = x150px
+| image1 = Lori Trahan, official portrait, 116th Congress (cropped 2).jpg
+| nominee1 = [[Lori Trahan]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Gary Grossi
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Lori Trahan]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party = 
+| map =
+}}
+The 3rd congressional district is in northeastern and central Massachusetts and includes [[Lowell, Massachusetts|Lowell]] and [[Lawrence, Massachusetts|Lawrence]]. The incumbent is [[Lori Trahan]], who was re-elected uncontested in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Lori Trahan]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1849343 |url=https://docquery.fec.gov/cgi-bin/forms/H8MA03106/1849343/ |access-date=2025-09-20 |website=docquery.fec.gov}}</ref>
+====Endorsements====
+{{Endorsements box
+|title=Lori Trahan
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+
+;Organizations
+*[[J Street]]<ref>{{cite web|title=Lori Trahan |url=https://jstreetpac.org/candidate/lori-trahan/ |publisher=J Street PAC |access-date=April 24, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Lori Trahan (D)
+|$1,295,055
+|$1,067,021
+|$1,683,185
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3">{{cite web |title=2026 Election United States House - Massachusetts 3rd |url=https://www.fec.gov/data/elections/house/MA/03/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=March 1, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Lori Trahan]] (incumbent)|votes=69,670|percentage=99.2}}
+{{Election box write-in with party link no change|votes=527|percentage=0.8}}
+{{Election box total no change|votes=70,197|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Gary Grossi, retired [[U.S. Army]] colonel<ref>{{Cite web |title=FEC Form 2 for Report FEC-1950708 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA03100/1950708 |access-date=2026-02-26 |website=docquery.fec.gov}}</ref><ref>{{Cite news |last=Wade |first=Christian M. |date=March 12, 2026 |title=Grossing seeks GOP nod to challenge Trahan |url=https://www.eagletribune.com/news/boston/grossi-seeks-gop-nod-to-challenge-trahan/article_0dc4cdfc-83c2-4b6e-a47a-c93871ba5e26.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20260312121614/https://www.eagletribune.com/news/boston/grossi-seeks-gop-nod-to-challenge-trahan/article_0dc4cdfc-83c2-4b6e-a47a-c93871ba5e26.html |archive-date=March 12, 2026 |access-date=March 12, 2026 |work=[[The Eagle-Tribune]]}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Gary Grossi (R)
+|$4,550
+|$21
+|$4,529
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Gary Grossi|votes=22,068|percentage=99.0}}
+{{Election box write-in with party link no change|votes=218|percentage=1.0}}
+{{Election box total no change|votes=22,286|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*Dennis R. Conlon<ref name="Independent">{{cite web |title=2026 State Election Candidates |url=https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm |website=Secretary of the Commonwealth of Massachusetts}}</ref>
+
+====Did not qualify====
+*Kevin Ades, computer programmer<ref>{{Cite web |title=FEC Form 2 for Report FEC-1946524 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA03084/1946524 |access-date=2026-03-02 |website=docquery.fec.gov}}</ref>
+
+===General election===
+
+===== Fundraising =====
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Lori Trahan (D)
+|$1,295,055
+|$1,067,021
+|$1,683,185
+|-
+|{{party shading/Republican}}|Gary Grossi (R)
+|$4,347
+|$1,746
+|$6,600
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC3" /></small>
+|}
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 4==
+{{see also|Massachusetts's 4th congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 4th congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 4
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 4
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Jake Auchincloss 218th Congress Portrait Close Up(cropped).jpg
+| nominee1 = [[Jake Auchincloss]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Tom Stalcup
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jake Auchincloss]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party = 
+| map =
+}}
+
+The 4th district contains much of southeastern Massachusetts and includes [[Newton, Massachusetts|Newton]], [[Attleboro, Massachusetts|Attleboro]], and [[Fall River, Massachusetts|Fall River]]. The incumbent is [[Jake Auchincloss]], who was re-elected uncontested in 2024.<ref name="HPVT"/> Auchincloss is currently running for re-election, and ruled out [[2026 United States Senate election in Massachusetts|running for U.S. Senate in 2026]] despite speculation he might enter the contest.<ref>{{Cite web|title=Auchincloss rules out Markey challenge to focus on leading new national Democratic group - The Boston Globe|url=https://www.bostonglobe.com/2025/09/17/nation/auchincloss-markey-senate-massachusetts-election/|website=BostonGlobe.com|access-date=2026-01-31|language=en-US}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Jake Auchincloss]], incumbent U.S. representative<ref>{{cite news |work=[[WPRI-TV]] |access-date=January 18, 2025 |author=Nesi, Ted |url=https://www.wpri.com/top-stories/nesis-notes-jan-18-2/ |date=January 18, 2025 |title=Nesi's Notes: Jan. 18 |quote=When I asked about a potential run against Markey on Friday, [Auchincloss's] spokesperson Georgina Barros would only say: 'The congressman is running for reelection in 2026.'}}</ref>
+
+====Eliminated in primary====
+* Jason Poulos, AI researcher<ref>{{Cite web |last=Prior |first=Jack |date=2026-05-19 |title=Jason Poulos challenges Auchincloss in MA-4 primary, warns AI is displacing workers |url=https://www.figcitynews.com/2026/05/jason-poulos-challenges-auchincloss-in-ma-4-primary-warns-ai-is-displacing-workers/ |access-date=2026-06-15 |website=Fig City News |language=en-US}}</ref>
+
+====Withdrawn====
+*Ihssane Leckey, consulting firm CEO and candidate for this district in [[2020 United States House of Representatives elections in Massachusetts#District 4|2020]]<ref>{{Cite web |last=Singer |first=Jeff |date=2026-04-08 |title=Morning Digest: Liberals expand majority on Wisconsin Supreme Court |url=https://www.the-downballot.com/p/morning-digest-liberals-expand-majority |access-date=2026-04-08 |website=The Downballot |language=en}}</ref>
+*Chris Boyd, educator<ref>{{Cite web |title=FEC Form 2 for Report FEC-1928463 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA04116/1928463 |access-date=2025-12-15 |website=docquery.fec.gov}}</ref><ref>{{cite news |last1=Yarnall |first1=Nathan |title=Public School Teacher Chris Boyd Challenges Auchincloss For Newton-Area MA-4 Seat |url=https://bcheights.com/230248/metro/public-school-teacher-chris-boyd-challenges-auchincloss-for-newton-area-ma-four-seat/ |access-date=April 2, 2026 |work=[[The Heights (newspaper)|The Heights]] |date=March 27, 2026}}</ref>
+
+====Declined====
+*Jesse Mermell, former [[Brookline, Massachusetts|Brookline]] Board of Selectmen member and candidate for this district in [[2020 United States House of Representatives elections in Massachusetts#District 4|2020]]<ref name="MysteryPoll">{{cite news |last1=Nesi |first1=Ted |date=November 12, 2025 |title=Mystery poll spurs speculation about Auchincloss primary opponents in 2026 |url=https://www.wpri.com/news/elections/mystery-poll-spurs-speculation-about-auchincloss-primary-opponents-in-2026/ |access-date=November 12, 2025 |work=[[WPRI-TV]]}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Jake Auchincloss
+|colwidth=60
+|list=
+;State legislators
+*[[James Arena-DeRosa]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Middlesex district|8th Middlesex district]] (2023–present)<ref name="1/30 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/30/what-pressley-saw-in-minnesota-00756883|title=What Pressley saw in Minnesota|last=Garrity|first=Kelly|date=January 30, 2026|access-date=January 31, 2026|website=[[Politico]]}}</ref>
+*[[Cynthia Stone Creem]], majority leader of the [[Massachusetts Senate]] (2018–present) from the [[Massachusetts Senate's Norfolk and Middlesex district|Norfolk and Middlesex district]] (1999–present)<ref name="1/30 Playbook"/>
+*[[Paul Feeney]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's Bristol and Norfolk district|Bristol and Norfolk district]] (2017–present)<ref name="1/30 Playbook"/>
+*[[Lisa Field]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 3rd Bristol district|3rd Bristol district]] (2025–present)<ref name="1/30 Playbook"/>
+*[[Carole Fiola]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 6th Bristol district|6th Bristol district]] (2013–present)<ref name="1/30 Playbook"/>
+*[[Dennis Gallagher (Massachusetts politician)|Dennis Gallagher]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Plymouth district|8th Plymouth district]] (2025–present)<ref name="1/30 Playbook"/>
+*[[Jim Hawkins (politician)|Jim Hawkins]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 2nd Bristol district|2nd Bristol district]] (2018–present)<ref name="1/30 Playbook"/>
+*[[Brian Murray (politician)|Brian Murray]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 10th Worcester district|10th Worcester district]] (2017–present)<ref name="1/30 Playbook"/>
+*[[Steven Ouellette]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Bristol district|8th Bristol district]] (2025–present)<ref name="1/30 Playbook"/>
+*[[Alice Peisch]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 14th Norfolk district|14th Norfolk district]] (2003–present)<ref name="1/30 Playbook"/>
+*[[Ted Philips]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Norfolk district|8th Norfolk district]] (2021–present)<ref name="1/30 Playbook"/>
+*[[Becca Rausch]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's Norfolk, Worcester and Middlesex district|Norfolk, Worcester and Middlesex district]] (2019–present)<ref name="1/30 Playbook"/>
+*[[Michael Rodrigues (politician)|Michael Rodrigues]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 1st Bristol and Plymouth district|1st Bristol and Plymouth district]] (2011–present)<ref name="1/30 Playbook"/>
+*[[Jeffrey Roy]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 10th Norfolk district|10th Norfolk district]] (2013–present)<ref name="1/30 Playbook"/>
+*[[Amy Mah Sangiolo]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 11th Middlesex district|11th Middlesex district]] (2025–present)<ref name="1/30 Playbook"/>
+*[[Adam Scanlon]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 14th Bristol district|14th Bristol district]] (2021–present)<ref name="1/30 Playbook"/>
+*[[Greg Schwartz]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 12th Middlesex district|12th Middlesex district]] (2025–present)<ref name="1/30 Playbook"/>
+*[[Alan Silvia]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 7th Bristol district|7th Bristol district]] (2013–present)<ref name="1/30 Playbook"/>
+*[[Joshua Tarsky]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 13th Norfolk district|13th Norfolk district]] (2025–present)<ref name="1/30 Playbook"/>
+*[[Tommy Vitolo]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 15th Norfolk district|15th Norfolk district]] (2019–present)<ref name="1/30 Playbook"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+*Massachusetts [[AFL-CIO]]<ref name="AFLCIO" />
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Giffords]]<ref>{{cite web |title=Jake Auchincloss |url=https://giffords.org/candidates/jake-auchincloss-2/ |website=giffords.org |date=April 25, 2026}}</ref>
+*[[J Street]]<ref>{{cite web|title=Jake Auchincloss |url=https://jstreetpac.org/candidate/jake-auchincloss/ |publisher=J Street PAC |access-date=April 24, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDem">{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=13 November 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|website=jacpac.org|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Vote Vets]]<ref name="Vets">{{cite web |title=Endorsed Candidates |url=https://votevets.org/candidates |website=VoteVets |access-date=27 November 2025}}</ref>
+}}
+{{Endorsements box
+|title=Jason Poulos
+|list=
+;Labor unions
+*Massachusetts [[National Education Association|Teachers Association]]<ref name="MTA"/>
+
+;Organizations
+*[[Progressive Democrats of America]]<ref name=PDA/>
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 12, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jake Auchincloss (D)
+|$3,630,329
+|$1,271,790
+|$7,341,766
+|-
+|{{party shading/Democratic}}|''Chris Boyd (D)''
+|$2,945
+|$1,010
+|$1,935
+|-
+|{{party shading/Democratic}}|''Ihssane Leckey (D)''
+|$24,575
+|$12,125
+|$12,450
+|-
+|{{party shading/Democratic}}|Jason Poulos (D)
+|$68,414
+|$56,985
+|$11,430
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC4">{{cite web |title=2026 Election United States House - Massachusetts 4th |url=https://www.fec.gov/data/elections/house/MA/04/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 28, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br>of error
+! style="width:75px"| Jake<br />Auchincloss
+! style="width:75px"| Jason<br />Poulos
+! Undecided
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{Cite news |url=https://www.wpri.com/news/elections/auchincloss-poll-shows-big-lead-over-primary-challenger-poulos/ |title=Auchincloss poll shows big lead over primary challenger Poulos |last=Nesi |first=Ted |work=[[WPRI-TV|WPRI]] |date=July 14, 2026 |access-date=July 15, 2026}}</ref>{{efn-ua|name=Auchincloss|Poll sponsored by Auchincloss's campaign}}
+|June 25–29 2026
+|400 (LV)
+|{{sdash}}
+|{{party shading/Democratic}} |'''64%'''
+|17%
+|19%
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jake Auchincloss]] (incumbent)|votes=66,952|percentage=73.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jason Poulos|votes=24,524|percentage=26.8}}
+{{Election box write-in with party link no change|votes=144|percentage=0.1}}
+{{Election box total no change|votes=91,620|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Tom Stalcup, physicist and entrepreneur<ref>{{Cite web |title=FEC Form 2 for Report FEC-1956565 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA04140/1956565 |access-date=2026-03-28 |website=docquery.fec.gov}}</ref><ref>{{cite news |last1=Paiva |first1=Ken |title=Massachusetts scientist announces campaign to take on Congressman Jake Auchincloss with platform aimed at Big Pharma |url=https://fallriverreporter.com/massachusetts-scientist-announces-campaign-to-take-on-congressman-jake-auchincloss-with-platform-aimed-at-big-pharma/ |access-date=April 7, 2026 |work=[[Fall River Reporter]] |date=April 2, 2026}}</ref>
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Tom Stalcup|votes=21,905|percentage=99.4}}
+{{Election box write-in with party link no change|votes=125|percentage=0.6}}
+{{Election box total no change|votes=22,030|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Did not qualify====
+*Steve Chasse, recovery therapist<ref>{{Cite web |title=FEC Form 2 for Report FEC-1883468 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA04090/1883468/ |access-date=2025-10-03 |website=docquery.fec.gov}}</ref>
+*Matthew Cook<ref>{{Cite web |title=FEC Form 2 for Report FEC-1927785 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA04108/1927785 |access-date=2025-12-09 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{USRaceRating|Solid|D}}
+|August 20, 2026
+|}
+
+==District 5==
+{{see also|Massachusetts's 5th congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 5th congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 5
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 5
+| next_year = 2028
+| image_size = x150px
+| image1 = File:Katherine Clark, official portrait, 118th Congress (tight crop).jpg
+| nominee1 = [[Katherine Clark]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| map_size = 
+| map_caption = 
+| title = U.S. representative
+| before_election = [[Katherine Clark]]
+| before_party = Democratic Party (United States)
+| after_election = [[Katherine Clark]]
+| after_party = Democratic Party (United States)
+| map =
+}}
+The 5th district represents parts of eastern Massachusetts and includes [[Framingham, Massachusetts|Framingham]], [[Medford, Massachusetts|Medford]], and parts of [[Cambridge, Massachusetts|Cambridge]]. The incumbent is Democrat [[Katherine Clark]], who was re-elected uncontested in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Katherine Clark]], incumbent U.S. representative<ref>{{Cite web |title=FEC Form 2 for Report FEC-1848732 |url=https://docquery.fec.gov/cgi-bin/forms/H4MA05084/1848732/ |access-date=2025-09-20 |website=docquery.fec.gov}}</ref>
+
+====Eliminated in primary====
+* Jonathan Paz, former [[Waltham, Massachusetts|Waltham]] city councilor<ref name=":1">{{Cite web |last=Rios |first=Simón |date=2026-01-02 |title=Rep. Clark faces dual primary challenges from the left |url=https://www.wbur.org/news/2026/01/02/massachusetts-clark-congress-whip-challengers |access-date=2026-04-02 |website=www.wbur.org |language=en}}</ref>
+*Tarik Samman, researcher at [[Harvard Law]]<ref name=":1" />
+
+====Endorsements====
+{{Endorsements box
+|title=Katherine Clark
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+*Massachusetts [[AFL-CIO]]<ref name="AFLCIO" />
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[Christopher Street Project]]<ref>{{cite web |title=Our Endorsements |url=https://christopherstreetproject.org/champions/ |website=Christopher Street Project |access-date=21 January 2026}}</ref>
+*[[Human Rights Campaign]]<ref name=HRC>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDem"/>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA" />
+*[[J Street PAC]]<ref>{{cite web |title=Katherine Clark |url=https://jstreetpac.org/candidate/katherine-clark/ |website=J Street PAC |access-date=25 November 2025}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=On Earth Week, We're Endorsing Climate Champions to Take Back the House |url=https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/ |website=League of Conservation Voters |access-date=April 28, 2025 |date=April 25, 2025}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=13 November 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref name="NARAL">{{cite web |title=Endorsements |url=https://reproductivefreedomforall.org/elections/?state_tax=48&race=all |website=Reproductive Freedom for All |access-date=13 November 2025}}</ref>
+*[[Sierra Club]]<ref name="Sierra Club" />
+}}
+
+{{Endorsements box
+|title=Jonathan Paz
+|list=
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref>{{cite web |url=https://bluevoterguide.org/MA/candidate_Jonathan_Paz/319877 |title=Jonathan Paz |website=bluevoterguide.org |access-date=August 24, 2026}}</ref>
+*[[IfNotNow]] Boston<ref name="ChallengersGBH"/>
+*Massachusetts [[Peace Action]]<ref name="MAPeace">{{cite web |title=MAPA Endorses 2nd Round of Candidates and Ballot Questions |url=https://masspeaceaction.org/news/peace-voter/mapa-endorses-2nd-round-of-candidates-and-ballot-questions/2026/05/20/|website=Massachusetts Peace Action|access-date=May 24, 2026|date=May 20, 2026|last=Levine|first=Sam}}</ref>
+*[[Our Revolution]] Massachusetts<ref>{{cite web |title=Will the Progressive Electoral Wave Roll Through Massachusetts? |access-date=August 24, 2026 |date=August 4, 2026 |url=https://ourrevolutionma.com/2026-08-04-organizing-notes-88-will-the-progressive-electoral-wave-roll-through-massachusetts/ |work=Our Revolution Massachusetts}}</ref>
+*[[Progressive Democrats of America]]<ref name=PDA/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 12, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Katherine Clark (D)
+|$4,503,671
+|$3,781,770
+|$2,047,792
+|-
+|{{party shading/Democratic}}|Jonathan Paz (D)
+|$88,524
+|$81,579
+|$11,897
+|-
+|{{party shading/Democratic}}|Tarik Samman (D)
+|$43,812
+|$23,912
+|$19,900
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC5">{{cite web |title=2026 Election United States House - Massachusetts 5th |url=https://www.fec.gov/data/elections/house/MA/05/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 24, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Katherine Clark]] (incumbent)|votes=85,802|percentage=73.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jonathan Paz|votes=22,904|percentage=19.7}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Tarik Samman|votes=7,675|percentage=6.6}}
+{{Election box write-in with party link no change|votes=171|percentage=0.1}}
+{{Election box total no change|votes=116,552|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Filed paperwork====
+*Derek Fleming, small business owner<ref>{{Cite web |title=FEC Form 2 for Report FEC-1979471 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA05097/1979471 |access-date=2026-06-01 |website=docquery.fec.gov}}</ref>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 6==
+{{see also|Massachusetts's 6th congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 6th congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 6
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 6
+| next_year = 2028
+| image_size = x150px
+| image1 = Daniel Koh, White House Deputy Cabinet Secretary (cropped).jpg
+| nominee1 = [[Dan Koh]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Micah Jones
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Seth Moulton]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party = 
+| map =
+}}
+The 6th district represents northeastern Massachusetts and includes [[Salem, Massachusetts|Salem]], [[Peabody, Massachusetts|Peabody]], and [[Gloucester, Massachusetts|Gloucester]]. The incumbent is Democrat [[Seth Moulton]], who was re-elected uncontested in 2024.<ref name="HPVT"/>
+
+Moulton's comments on [[transgender]] individuals following the [[2024 United States presidential election]] drew condemnation from local and national Democrats, including [[Governor of Massachusetts|Governor]] [[Maura Healey]].<ref>{{cite web|url=https://www.cbsnews.com/boston/news/seth-moulton-trans-athletes-maura-healey-backlash/|title=Gov. Maura Healey says Rep. Seth Moulton was "playing politics" with trans athletes comment|last=Riley|first=Neal|date=November 13, 2024|access-date=November 27, 2024|website=[[CBS News]]}}</ref> Combined with his short-lived presidential campaign in the [[2020 Democratic Party presidential primaries|2020 Democratic primaries]] and unsuccessful attempt to oust [[Nancy Pelosi]] as [[Speaker of the United States House of Representatives|speaker]] in [[2019 Speaker of the United States House of Representatives election|2019]], Moulton was seen as vulnerable to a primary challenger.<ref name="Garrity 11/27">{{cite web|url=https://www.politico.com/news/2024/11/27/moulton-lgtbq-congress-democrats-00191867|title=Moulton could draw challengers|date=November 27, 2024|access-date=November 27, 2024|last=Garrity|first=Kelly|website=[[Politico]]}}</ref> On October 15, Moulton declared [[2026 United States Senate election in Massachusetts|his candidacy for U.S. Senate]] in the Democratic primary against incumbent Senator [[Ed Markey]].<ref name=":0" /> 
+
+===Democratic primary===
+====Nominee====
+*[[Dan Koh]], former deputy director of the [[White House Office of Intergovernmental Affairs]] (2022–2025), former [[Andover, Massachusetts|Andover]] [[Select board|selectman]] (2019–2021), and candidate for the 3rd district in [[2018 United States House of Representatives elections in Massachusetts#District 3|2018]]<ref name="Scramble"/>
+
+====Eliminated in primary====
+*Beth Andres-Beck, member of the [[Middleton, Massachusetts|Middleton]] Master Plan Committee<ref>{{Cite web |last=Blander |first=Leigh |date=2025-07-17 |title=Agender software engineer announces run against Moulton |work=Marblehead Current |url=https://marbleheadcurrent.org/2025/07/17/agender-software-engineer-announces-run-against-moulton/ |access-date=2025-07-17 |language=en-US}}</ref>
+*John Beccia, lawyer and business executive<ref>{{Cite web |title=John Beccia - Co-Founder and Chair {{!}} FS Vector Team |url=https://www.fsvector.com/team/john-beccia |access-date=2026-07-30 |website=www.fsvector.com |language=en}}</ref><ref>{{cite web|url=https://www.bostonglobe.com/2025/10/21/nation/seth-moulton-congressional-seat-john-beccia/|title=Financial technology industry veteran is latest to enter Democratic primary for Moulton's seat|last=Brodey|first=Sam|date=October 21, 2025|access-date=October 21, 2025|website=[[Boston Globe]]}}</ref>
+*[[Jamie Belsito]], [[Topsfield, Massachusetts|Topsfield]] Town Moderator (2023–present), former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 4th Essex district|4th Essex]] district (2021–2023), and candidate for this district in [[2020 United States House of Representatives elections in Massachusetts#District 6|2020]]<ref name="Scramble">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/10/16/the-down-ballot-scramble-is-on-00611037|title=The down-ballot scramble is on|last=Garrity|first=Kelly|date=October 16, 2025|access-date=October 16, 2025|website=[[Politico]]}}</ref>
+*[[Tram Nguyen]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 18th Essex district|18th Essex]] district (2019–present)<ref name="WFP Arrive">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/10/23/working-families-party-takes-root-in-bay-state-00619005|title=The Working Families Party arrives|last=Garrity|first=Kelly|date=October 23, 2025|access-date=October 23, 2025|website=[[Politico]]}}</ref>
+
+====Withdrawn====
+* Rachel Creemers, progressive activist<ref>{{Cite news |last=Micek |first=John L. |date=March 13, 2026 |title=Inside the high-stakes fight for a North Shore congressional seat and why it matters for Mass. |url=https://www.masslive.com/politics/2026/03/inside-the-high-stakes-fight-for-a-salem-congressional-seat-and-why-it-matters-for-mass.html |url-access=limited |access-date=March 13, 2026 |work=[[MassLive]]}}</ref><ref>{{Cite news |last=Harris |first=Sophia |date=May 4, 2026 |title=Rachel Creemers drops out of congressional race |url=https://itemlive.com/2026/05/04/rachel-creemers-drops-out-of-congressional-race/ |access-date=June 14, 2026 |work=[[The Daily Item (Lynn)|The Daily Item]]}}</ref>
+*Rick Jakious, former chief of staff to incumbent [[Seth Moulton]]<ref>{{Cite web |title=Former Seth Moulton staffer drops out of race to replace him in Sixth District |url=https://www.bostonglobe.com/2026/04/15/metro/rick-jakious-moulton-dropping-out-sixth-district/ |access-date=April 15, 2026 |website=[[The Boston Globe]] |date=April 15, 2026}}</ref>
+*Mariah Lancaster, veterinarian ''(remained on ballot; endorsed Nguyen)''<ref name="1/5 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/05/another-candidate-enters-the-ma-06-race-00710464?nname=massachusetts-playbook&nid=0000014f-704c-d54c-a1ff-fb6da68f0000&nrid=0000014c-2412-d9dd-a5ec-34be3e1e0004|title=Another candidate enters the MA-06 race|last=Garrity|first=Kelly|date=January 5, 2026|access-date=January 5, 2026|website=[[Politico]]}}</ref><ref name=LancasterOut>{{cite news |last1=Garrity |first1=Kelly |title=One Democrat drops out, endorses Tram Nguyen, in crowded 6th District primary |url=https://www.bostonglobe.com/2026/08/29/metro/nguyen-sixth-district-primary-lancaster/ |access-date=August 29, 2026 |work=[[The Boston Globe]] |date=August 29, 2026}}</ref>
+*Kevin Larivee, deputy general counsel at [[Massachusetts Executive Office of Health and Human Services]]<ref>{{Cite web |url= https://docquery.fec.gov/pdf/377/202505150300504377/202505150300504377.pdf |title=LARIVEE, KEVIN - candidate overview |website=[[Federal Election Commission]] |access-date=June 1, 2025}}</ref>
+
+====Declined====
+*[[Jenny Armini]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Essex district|8th Essex]] district (2023–present)<ref name="NotBeRunning"/>
+*[[Brendan Crighton]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 3rd Essex district|3rd Essex district]] (2018–present)<ref name="Scramble"/>
+*[[Kim Driscoll]], [[Lieutenant Governor of Massachusetts]] (2023–present) ''([[2026 Massachusetts gubernatorial election#Lieutenant governor|running for re-election]])''<ref name="Scramble"/>
+*[[Sally Kerans]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 13th Essex district|13th Essex]] district (1991–1997, 2021–present)<ref name="6th Sense">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/10/02/a-way-too-early-look-at-mass-s-maybe-open-congressional-seat-00591179|title=6th Sense|last=Garrity|first=Kelly|date=October 2, 2025|access-date=October 8, 2025|website=[[Politico]]}}</ref>
+*[[Thomas M. McGee|Thomas McGee]], chair of the [[Massachusetts Bay Transportation Authority]] Board of Directors (2024–present) and former [[List of mayors of Lynn, Massachusetts|mayor]] of [[Lynn, Massachusetts|Lynn]] (2018–2022)<ref>{{Cite web |last=Harris |first=Sophia |date=2025-10-28 |title=McGee will not run for Congress |url=https://itemlive.com/2025/10/27/former-lynn-mayor-mcghee-wont-run/ |access-date=2025-10-28 |website=Itemlive |language=en-US}}</ref>
+*[[Seth Moulton]], incumbent U.S. representative ''([[2026 United States Senate election in Massachusetts|ran for U.S. Senate]])''<ref name=":0">{{Cite web |title=Moulton launches challenge to Markey, arguing Democrats can no longer afford to 'follow same old playbook' - The Boston Globe |url=https://www.bostonglobe.com/2025/10/15/nation/seth-moulton-senate-ed-markey/ |access-date=2025-10-15 |website=BostonGlobe.com |language=en-US}}</ref>
+*[[Jared C. Nicholson|Jared Nicholson]], [[List of mayors of Lynn, Massachusetts|mayor]] of [[Lynn, Massachusetts|Lynn]] (2022–present)<ref name="NotBeRunning">{{cite web |last1=Manno |first1=Jackie |title=Nicholson won't run for Congress |url=https://itemlive.com/2025/10/21/mayor-nicholson-stays-in-lynn/ |access-date=October 21, 2025 |work=Itemlive |date=October 21, 2025}}</ref>
+*Dominick Pangallo, [[List of mayors of Salem, Massachusetts|mayor]] of [[Salem, Massachusetts|Salem]] (2023–present)<ref name="Garrity 11/27"/>
+
+====Endorsements====
+{{Endorsements box
+| title = Beth Andres-Beck
+| list =
+;Organizations
+*[[Advocates for Trans Equality]]<ref>{{cite news |last1=Sager |first1=Monica |title=Advocates for Trans Equality Backs Bethany Andres-Beck for Open 6th District Seat |url=https://swampscotttides.org/news/advocates-for-trans-equality-backs-bethany-andres-beck-for-open-6th-district-seat/ |access-date=June 2, 2026 |work=Swampscott Tides |date=June 2, 2026}}</ref>
+*[[Progressive Victory]]<ref>{{cite news |last1=Muldoon |first1=John P. |title=Progressive Victory endorses Andres-Beck for 6th Congressional |url=https://thelocalnews.news/2026/03/17/progressive-victory-endorses-andres-beck-for-6th-congressional/ |access-date=March 18, 2026 |work=The Local News (Ipswich/Rowley, Topsfield/Boxford) |date=March 17, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Jamie Belsito
+|list=
+;Statewide officials
+*[[Diana DiZoglio]], [[Massachusetts State Auditor|state auditor of Massachusetts]] (2023–present)<ref>{{cite web|last=Dumcius|first=Gintautas|title=Keller gets serious|url=https://massterlist.com/2026/03/16/keller-gets-serious/|date=March 16, 2026|website=MASSterList|access-date=March 16, 2026}}</ref><ref>{{cite news |last1=Muldoon |first1=John P. |title=Belsito picks up State Auditor's endorsement |url=https://thelocalnews.news/2026/03/16/belsito-picks-up-state-auditors-endorsement/ |access-date=March 16, 2026 |work=Ipswich Local News |date=March 16, 2026}}</ref>
+
+;Organizations
+*Massachusetts [[Peace Action]]<ref name="MAPeace"/>
+*[[Track AIPAC]] ''(co-endorsement with Nguyen)''<ref name="TrackAIPAC"/>
+}}
+{{Endorsements box
+|title=Dan Koh
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Joe Biden]], former [[president of the United States]] (2021–2025)<ref>{{cite web |last1=Lurey |first1=Amanda |title=President Biden endorses Koh for Congress |url=https://itemlive.com/2026/05/04/president-biden-endorses-koh-for-congress/ |access-date=May 4, 2026 |work=Itemlive |date=May 4, 2026}}</ref>
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref>{{cite web |last1=Deehan |first1=Mike |title=Scoop: Buttigieg gets behind Dan Koh for North Shore congressional seat |url=https://www.axios.com/local/boston/2026/02/23/pete-buttigieg-endorses-dan-koh-massachusetts-6th-congressional-district-2026-primary |website=Axios |access-date=24 February 2026 |language=en |date=23 February 2026}}</ref>
+*[[Miguel Cardona]], former [[United States Secretary of Education|secretary of education]] (2021–2025)<ref>{{cite web |title=Former Ed Secretary Miguel Cardona Daniel Koh '07, Harvard Grad Running for Congress {{!}} News {{!}} The Harvard Crimson |url=https://www.thecrimson.com/article/2025/12/5/cardona-endorsement-koh/ |website=The Harvard Crimson |access-date=5 December 2025}}</ref>
+*[[Stephanie Cutter]], former [[Senior Advisor to the President of the United States#List of advisors to the president|advisor to the President]] (2011)<ref name="12/4 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/04/a-new-housing-road-map-00676408|title=A new housing ROAD map|last=Garrity|first=Kelly|date=December 4, 2025|access-date=December 4, 2025|website=[[Politico]]}}</ref>
+*[[Jennifer Granholm]], former [[United States Secretary of Energy|secretary of energy]] (2021–2025)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/02/11/republicans-go-to-campaign-gimmick-00775555|title=Republicans' go-to campaign gimmick|last=Garrity|first=Kelly|date=February 11, 2026|access-date=February 15, 2026|website=[[Politico]]}}</ref>
+*[[Kamala Harris]], former [[vice president of the United States]] (2021–2025)<ref>{{cite web |last1=Pindell |first1=James |title=Kamala Harris endorses Koh for Moulton's Congressional seat |url=https://www.bostonglobe.com/2025/10/28/metro/kamala-harris-dan-koh/ |website=The Boston Globe |access-date=28 October 2025}}</ref>
+*[[Ron Klain]], former [[White House chief of staff]] (2021–2023)<ref name="12/4 Playbook"/>
+*[[Mitch Landrieu]], former [[Senior Advisor to the President of the United States|senior advisor to the President]] (2021–2024)<ref name="12/4 Playbook"/>
+*[[Denis McDonough]], former [[United States Secretary of Veterans Affairs|secretary of veterans affairs]] (2021–2025)<ref name="12/4 Playbook"/>
+*[[Jen O'Malley Dillon]], former [[White House Deputy Chief of Staff|White House deputy chief of staff]] (2021–2024)<ref name="1/5 Playbook"/>
+*[[Tom Perez]], former [[Senior Advisor to the President of the United States|senior advisor to the President]] (2023–2025)<ref name="12/4 Playbook"/>
+*[[Gina Raimondo]], former [[United States Commerce Secretary|secretary of commerce]] (2021–2025) and former [[governor of Rhode Island]] (2015–2021)<ref name="6/1 Scrum">{{cite news |last1=Garrity |first1=Kelly |title=The quiet parts get loud in Markey-Moulton Senate primary |url=https://www.bostonglobe.com/2026/06/01/newsletters/the-scrum-moulton-markey-senate-primary/ |access-date=June 1, 2026 |work=[[The Boston Globe]] |date=June 1, 2026}}</ref>
+*[[Annie Tomasini]], former [[White House Deputy Chief of Staff|White House deputy chief of staff]] (2024–2025)<ref name="12/4 Playbook"/>
+*[[Marty Walsh]], former [[United States Secretary of Labor|secretary of labor]] (2021–2023) and former [[mayor of Boston]] (2014–2021)<ref>{{cite web|url=https://andovermanews.com/marty-walsh-endorses-dan-koh-in-race-for-6th-congressional-district/|title=Marty Walsh Endorses Dan Koh In Race For 6th Congressional District|last=Copeland|first=Dave|date=December 28, 2025|access-date=January 6, 2026}}</ref>
+*[[Jeff Zients]], former [[White House chief of staff]] (2023–2025)<ref name="12/4 Playbook"/>
+
+;U.S. senators
+*[[Chris Coons]], [[Delaware]] (2011–present)<ref name="12/4 Playbook"/>
+*[[Andy Kim]], [[New Jersey]] (2024–present)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/08/the-primary-balancing-act-00680498|title=The primary balancing act|last=Garrity|first=Kelly|date=December 8, 2025|access-date=December 10, 2025|website=[[Politico]]}}</ref>
+
+;U.S. representatives
+*[[Gabe Amo]], [[Rhode Island's 1st congressional district|RI-01]] (2023–present)<ref name="12/4 Playbook"/>
+*[[Michael J. Harrington|Michael Harrington]], former [[Massachusetts's 6th congressional district|MA-06]] (1969–1979)<ref>{{cite news |last1=Harris |first1=Sophia |title=Harrington endorses Dan Koh for Congress |url=https://itemlive.com/2026/04/27/harrington-endorses-dan-koh-for-congress/ |access-date=August 29, 2026 |url-access=registration |work=[[The Daily Item (Lynn)|The Daily Item]] |date=April 27, 2026}}</ref>
+*[[John F. Tierney|John Tierney]], former [[Massachusetts's 6th congressional district|MA-06]] (1997–2015)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/12/warrens-wpopulist-warning-00721812|title=Warren plots a populist path forward|last=Garrity|first=Kelly|date=January 12, 2026|access-date=January 12, 2026|website=[[Politico]]}}</ref>
+
+;Statewide officials
+*[[Steven Grossman (politician)|Steven Grossman]], former [[Treasurer and Receiver-General of Massachusetts|treasurer and receiver-general of Massachusetts]] (2011–2015)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/02/03/veterans-pac-backs-moulton-for-senate-00761600|title=Veterans' PAC backs Moulton for Senate|last=Garrity|first=Kelly|date=February 3, 2026|access-date=February 3, 2026|website=[[Politico]]}}</ref>
+
+;Individuals
+*[[Shannon Watts]], founder of [[Moms Demand Action]]<ref>{{cite news |last1=Dumcius |first1=Gintautas |last2=Keller |first2=Jon |title=Keller: Mayor Wu's wise course correction |url=https://massterlist.com/p/keller-mayor-wu-s-wise-course-correction |access-date=March 23, 2026 |work=MASSterList |date=March 23, 2026}}</ref>
+
+;Labor unions
+*Massachusetts [[AFL–CIO]]<ref>{{cite web |last1=Sager |first1=Monica |title=Massachusetts AFL-CIO Endorses Markey for Senate, Koh for Congress |url=https://swampscotttides.org/news/massachusetts-afl-cio-endorses-markey-for-senate-koh-for-congress/ |publisher=Swampscott Tides |access-date=June 9, 2026 |date=June 8, 2026}}</ref>
+*[[American Federation of State, County, and Municipal Employees]] Council 93<ref>{{Cite news|url=https://massterlist.com/p/galvin-legislature-s-critique-of-ballot-questions-is-ignoring-state-constitution|title=Galvin: Legislature's critique of ballot questions is 'ignoring' state constitution|date=April 1, 2026|last=Dumcius|first=Gintautas|work=MASSterList|access-date=April 2, 2026}}</ref>
+*[[International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers|Boilermakers]] Local 29<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/02/18/new-hampshire-dems-wait-is-over-00785698|title=New Hampshire Dems' wait is over|last1=Garrity|last2=Kashinsky|first1=Kelly|first2=Lisa|date=February 18, 2026|access-date=February 18, 2026|website=[[Politico]]}}</ref>
+* [[International Brotherhood of Electrical Workers|Electrical Workers]] Local 2222<ref name=IBEW222/>
+*[[Laborers' International Union of North America|Building Wreckers]] Local 1421<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/10/29/wus-school-speech-00626799|title=Wu's school speech|last=Garrity|first=Kelly|date=October 30, 2025|access-date=October 30, 2025|website=[[Politico]]}}</ref>
+*[[International Association of Heat and Frost Insulators and Allied Workers|Heat and Frost Insulators]] Local 6<ref name="2/5 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/02/05/ma-06-gets-its-first-gop-contender-00766711|title=MA-06 gets its first GOP contender|last=Garrity|first=Kelly|date=February 5, 2026|access-date=February 5, 2026|website=[[Politico]]}}</ref>
+*[[International Brotherhood of Electrical Workers]] Locals 103 and 104<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/11/18/climate-fight-on-ice-00655854|title=Climate fight on ice|last=Garrity|first=Kelly|date=November 18, 2025|access-date=November 19, 2025|website=[[Politico]]}}</ref><ref name="1/27 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/27/beacon-hill-weighs-its-options-on-ice-00748803|title=Beacon Hill weighs its ICE options|last=Garrity|first=Kelly|date=January 27, 2026|access-date=January 27, 2026|website=[[Politico]]}}</ref>
+*[[International Union of Elevator Constructors]] Local 4<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/03/pressley-passes-on-a-senate-bid-00674156|title=Pressley passes on a Senate bid|last=Garrity|first=Kelly|date=December 3, 2025|access-date=December 3, 2025|website=[[Politico]]}}</ref>
+*[[International Union of Operating Engineers]] Local 4<ref name="WFP Arrive"/>
+*[[International Union of Painters and Allied Trades]] District Council 35<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/08/healey-admin-extends-some-shelter-stays-00715860|title=Healey admin extends some shelter stays|last=Garrity|first=Kelly|date=January 8, 2026|access-date=January 8, 2026|website=[[Politico]]}}</ref>
+*[[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers|Ironworkers]] Local 7<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/02/10/house-cracks-down-on-campaign-deepfakes-00772934|title=House cracks down on campaign deepfakes|last=Garrity|first=Kelly|date=February 10, 2026|access-date=February 10, 2026|website=[[Politico]]}}</ref>
+*[[Laborers' International Union of North America|Laborers]] Local 22<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/10/22/a-new-coaltion-for-the-ice-age-00617964|title=The shutdown drags on|last=Garrity|first=Kelly|date=October 22, 2025|access-date=October 22, 2025|website=[[Politico]]}}</ref>
+*[[National Association of Government Employees]] Local 5000<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/11/06/what-wu-should-do-next-00639347|title=What Wu should do next|last=Garrity|first=Kelly|date=November 6, 2025|access-date=November 8, 2025|website=[[Politico]]}}</ref>
+*[[Operative Plasterers' and Cement Masons' International Association]] Local 534<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/10/still-in-the-game-00684287|title=Still in the game|last=Garrity|first=Kelly|date=December 10, 2025|access-date=December 10, 2025|website=[[Politico]]}}</ref>
+*[[International Association of Fire Fighters|Professional Fire Fighters of Massachusetts]]<ref name="1/26 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/26/leaders-we-deserve-endorses-in-massachusetts-00746029|title=National PAC plays in Massachusetts|last=Garrity|first=Kelly|date=January 26, 2026|access-date=January 26, 2026|website=[[Politico]]}}</ref>
+*[[United Association|Plumbers and Gasfitters]] Local 12<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/09/wus-full-court-press-on-property-taxes-00682444|title=Wu's full court press on property taxes|last=Garrity|first=Kelly|date=December 9, 2025|access-date=December 10, 2025|website=[[Politico]]}}</ref>
+*[[United Union of Roofers, Waterproofers and Allied Workers|Roofers]] Local 33<ref name="11/4 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/11/04/what-to-watch-on-election-day-00634459|title=What to watch on Election Day|last=Garrity|first=Kelly|date=November 4, 2025|access-date=November 8, 2025|website=[[Politico]]}}</ref>
+*[[Sheet Metal Workers' International Association|Sheet Metal Workers]] Local 17<ref name="12/15 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/15/how-the-healthcare-fight-will-hit-home-00690442|title=How the healthcare fight will hit home|last=Garrity|first=Kelly|date=December 15, 2025|access-date=December 15, 2025|website=[[Politico]]}}</ref>
+*[[United Association|Sprinkler Fitters]] Local 550<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/02/17/dizoglio-is-running-it-back-00783480|title=DiZoglio is running it back|last=Garrity|first=Kelly|date=February 17, 2026|access-date=February 17, 2026|website=[[Politico]]}}</ref>
+*[[Laborers' International Union of North America|Tunnel Workers]] Local 88<ref>{{cite 
+web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/10/31/role-reversals-00631208|title=SNAP judgement|last=Garrity|first=Kelly|date=October 31, 2025|access-date=October 31, 2025|website=[[Politico]]}}</ref>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web |last1=Copeland |first1=Dave |title=End Citizens United Endorses Koh In MA-6 Race |url=https://andovermanews.com/end-citizens-united-endorses-koh-in-ma-6-race/ |website=Andover News |access-date=May 13, 2026 |date=May 13, 2026}}</ref>
+*[[Leading the Future]]<ref>{{Cite web |last=Goldstein |first=Luke |date=2026-08-31 |title=Vets for AI |url=https://prospect.org/2026/08/31/vets-for-ai-max-rose-votevets/ |access-date=2026-09-04 |website=The American Prospect |language=en-US}}</ref>
+}}
+{{Endorsements box
+|title=Tram Nguyen
+|list=
+;U.S. representatives
+*[[Ayanna Pressley]], [[Massachusetts's 7th congressional district|MA-07]] (2019–present)<ref name=PressleyTrahan>{{cite news|url=https://www.bostonglobe.com/2026/08/24/metro/tram-nguyen-pressley-trahan-endorsements-sixth-district/|title=Pressley, Trahan endorse Tram Nguyen in crowded 6th District primary, offering late boost in open congressional race|last=Huynh|first=Anjali|date=August 24, 2026|access-date=August 24, 2026|work=[[Boston Globe]]}}</ref>
+*[[Lori Trahan]], [[Massachusetts's 3rd congressional district|MA-03]] (2019–present)<ref name=PressleyTrahan/>
+
+;Statewide officials
+*[[Andrea Campbell]], [[attorney general of Massachusetts]] (2023–present)<ref>{{cite news |last1=Garrity |first1=Kelly |title=For thousands of Mass. voters, the parties are over |url=https://www.bostonglobe.com/2026/08/27/newsletters/massachusetts-voter-registration-data-independents-the-scrum/ |access-date=August 27, 2026 |work=[[The Boston Globe]] |date=August 27, 2026}}</ref>
+
+;State legislators
+*[[Manny Cruz]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 7th Essex district|7th Essex district]] (2023–present)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/11/12/dont-follow-the-leader-00647440|title=Don't follow the leader|last=Garrity|first=Kelly|date=November 12, 2025|access-date=November 25, 2025|website=[[Politico]]}}</ref>
+*[[Lydia Edwards]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 1st Suffolk and Middlesex district|1st Suffolk and Middlesex district]] (2022–present)<ref>{{cite news |last=Dumcius |first=Gintautas |title=Structural reboot on horizon for marijuana agency beset by infighting |url=https://massterlist.com/p/structural-reboot-on-horizon-for-marijuana-agency-beset-by-infighting |date=April 7, 2026 |access-date=April 8, 2026 |work=MASSterList}}</ref>
+*[[Ken Gordon (Massachusetts politician)|Ken Gordon]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 21st Middlesex district|21st Middlesex district]] (2013–present)<ref>{{cite news |last1=Muldoon |first1=John P. |title=State Rep. Ken Gordon Endorses Tram Nguyen for Congress |url=https://thelocalnews.news/2026/02/23/state-rep-ken-gordon-endorses-tram-nguyen-for-congress/ |access-date=February 23, 2026 |work=The Local News |date=February 23, 2026}}</ref>
+*[[Richard Haggerty]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 30th Middlesex district|30th Middlesex district]] (2019–present)<ref name="1/22 Playbook">{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2026/01/22/cheers-to-the-commonwealth-00740684|title=Cheers to the Commonwealth|last=Garrity|first=Kelly|date=January 22, 2026|access-date=January 22, 2026|website=[[Politico]]}}</ref>
+*[[Ron Mariano]], [[List of speakers of the Massachusetts House of Representatives|Speaker of the Massachusetts House of Representatives]] (2020–present) from the [[Massachusetts House of Representatives' 3rd Norfolk district|3rd Norfolk district]] (1991–present)<ref name="1/26 Playbook"/>
+*[[Dave Robertson (Massachusetts politician)|Dave Robertson]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 19th Middlesex district|19th Middlesex district]] (2019–present)<ref name="1/22 Playbook"/>
+*[[Dawne Shand]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 1st Essex district|1st Essex district]] (2023–present)<ref name="1/27 Playbook"/>
+
+;Individuals
+*Mariah Lancaster, veterinarian and former candidate for this seat<ref name=LancasterOut/>
+
+;Labor unions
+*[[Amalgamated Transit Union|Boston Carmen's Union]] Local 589<ref name="12/4 Playbook"/>
+*[[International Brotherhood of Electrical Workers]] Locals 1505, 2321, and 2325<ref>{{cite web |last1=Garrity |first1=Kelly |title=Question everything |url=https://www.politico.com/newsletters/massachusetts-playbook/2025/11/25/question-everything-00667973 |website=Politico |access-date=25 November 2025}}</ref><ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/11/19/legislature-hits-the-halfway-mark-00658660|title=Legislature hits the halfway mark|last=Garrity|first=Kelly|date=November 19, 2025|access-date=November 19, 2025|website=[[Politico]]}}</ref><ref name="12/4 Playbook"/>
+*[[Service Employees International Union|SEIU]] Massachusetts state council<ref>{{cite web |last1=Sager |first1=Monica |title=SEIU State Council Endorses Tram Nguyen for Massachusetts 6th District Congressional Race |url=https://swampscotttides.org/news/seiu-state-council-endorses-tram-nguyen-for-massachusetts-6th-district-congressional-race/ |publisher=Swampscott Tides |access-date=June 9, 2026 |date=June 8, 2026}}</ref>
+*[[United Auto Workers]]<ref name="6/8 scrum">{{cite news |last1=Garrity |first1=Kelly |title=Marty Walsh's labor relations, North Shore edition |url=https://www.bostonglobe.com/2026/06/08/newsletters/walsh-koh-labor-endorsements-sixth-district-the-scrum/ |access-date=June 11, 2026 |work=[[The Boston Globe]] |date=June 8, 2026}}</ref>
+
+;Organizations
+*[[Elect Democratic Women]]<ref>{{cite web |title=Elect Democratic Women Endorses Tram Nguyen for Massachusetts' 6th  Congressional District|url=https://electdemocraticwomen.org/elect-democratic-women-endorses-tram-nguyen-for-massachusetts-6th-congressional-district/|date=July 13, 2026|access-date=June 25, 2026 |website=Elect Democratic Women}}</ref>
+*[[New American Leaders]] Action Fund<ref>{{cite web |title=2026 Endorsed Candidates|url=https://www.nalaf.org/2026-endorsed-candidates|access-date=June 12, 2026 |website=New American Leaders Action Fund}}</ref>
+*[[People for the American Way]]<ref>{{cite web |title=Tram Nguyen Lands National Progressive Endorsement in Bid for Congress|last=Sager|first=Monica|url=https://swampscotttides.org/news/tram-nguyen-lands-national-progressive-endorsement-in-bid-for-congress/|access-date=June 21, 2026 |website=Swampscott Tides|date=May 28, 2026}}</ref>
+*[[Track AIPAC]] ''(co-endorsement with Belsito)''<ref name="TrackAIPAC"/>
+
+;Newspapers
+*''[[The Boston Globe]]''<ref>{{cite news |title=Tram Nguyen for Congress |url=https://www.bostonglobe.com/2026/08/25/opinion/congress-tram-nguyen-endorsement/ |access-date=August 27, 2026 |work=[[The Boston Globe]] |date=August 25, 2026}}</ref>
+}}
+{{Endorsements box
+| title = Mariah Lancaster ''(withdrawn, remained on ballot)''
+| list =
+;Labor unions
+*Massachusetts [[National Education Association|Teachers Association]]<ref name="6/8 scrum"/>
+
+;Organizations
+*[[Progressive Democrats of America]]<ref>{{cite news |last1=Lannan |first1=Katie |title=Two 20-something candidates for open seat know firsthand why young people leave |url=https://massterlist.com/p/two-20-something-candidates-for-open-seat-know-firsthand-why-young-people-leave |access-date=August 29, 2026 |work=MASSterList |date=August 28, 2026}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 12, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Beth Andres-Beck (D)
+|$367,392{{Efn|$149,133 of this total was self-funded by Andres-Beck}}
+|$353,214
+|$14,428
+|-
+|{{party shading/Democratic}}|John Beccia (D)
+|$4,513,050{{Efn|$3,043,664 of this total was self-funded by Beccia}}
+|$3,762,625
+|$750,426
+|-
+|{{party shading/Democratic}}|''Rick Jakious (D)''
+|$354,696{{Efn|$50,000 of this total was self-funded by Jakious}}
+|$346,863
+|$7,832
+|-
+|{{party shading/Democratic}}|Dan Koh (D)
+|$4,716,543{{Efn|$93,504 of this total was self-funded by Koh}}
+|$2,723,575
+|$1,994,307
+|-
+|{{party shading/Democratic}}|Tram Nguyen (D)
+|$894,451{{Efn|$0 of this total was self-funded by Nguyen}}
+|$705,439
+|$189,011
+|-
+|{{party shading/Democratic}}|''Mariah Lancaster (D)''
+|$348,466{{Efn|$0 of this total was self-funded by Lancaster}}
+|$292,795
+|$55,671
+|-
+|{{party shading/Democratic}}|Jamie Belsito (D)
+|$309,082{{Efn|$26,373 of this total was self-funded by Belsito}}
+|$260,731
+|$48,351
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6">{{cite web |title=2026 Election United States House - Massachusetts 6th |url=https://www.fec.gov/data/elections/house/MA/06/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px"| Beth<br />{{nowrap|Andres-Beck}}
+! style="width:60px"| John<br />Beccia
+! style="width:60px"| Jamie<br />Belsito
+! style="width:60px"| Dan<br />Koh
+! style="width:60px"| Mariah<br />Lancaster
+! style="width:60px"| Tram<br />Nguyen
+! Other
+! Undecided
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 29, 2026
+| colspan="11"| Mariah Lancaster withdraws, endorses Nguyen
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{cite web |last1=Garrity |first1=Kelly |title=Is an enemies-to-lovers arc coming for the GOP ticket? |url=https://www.bostonglobe.com/2026/08/25/newsletters/massachusetts-gop-ticket-minogue-oliver-the-scrum/ |publisher=[[The Boston Globe]] |access-date=August 28, 2026 |date=August 25, 2026 |url-status=live |url-access=subscription}}</ref><ref>{{cite web |title=NEW POLL: DAN KOH HOLDS COMMANDING 15 POINT LEAD IN MA-6 DEMOCRATIC PRIMARY |url=https://www.kohforcongress.com/news/new-poll-dan-koh-holds-commanding-15-point-lead-in-ma-6-democratic-primary |website=Dan Koh campaign website |date=August 25, 2026 |access-date=August 29, 2026}}</ref>{{efn-ua|name=Koh}}
+|August 20–23, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|1%
+|12%
+|8%
+|{{party shading/Democratic}} |'''35%'''
+|3%
+|20%
+|{{sdash}}
+|22%
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{cite web |last1=Garrity |first1=Kelly |title=Rare endorsement switcheroo shakes up Mass. Senate race |url=https://www.bostonglobe.com/2026/08/04/newsletters/massachusetts-senate-brownsberger-lander-endorsements-the-scrum/ |publisher=[[The Boston Globe]] |access-date=August 5, 2026 |date=August 4, 2026 |url-status=live |url-access=subscription}}</ref>{{efn-ua|name=Koh|Poll sponsored by Koh's campaign}}
+|July 30 – August 2, 2026
+|400 (LV)
+|{{sdash}}
+|4%
+|15%
+|6%
+|{{party shading/Democratic}} |'''34%'''
+|3%
+|14%
+|{{sdash}}
+|24%
+|-
+|style="text-align:left;"|Workbench Strategy (D)<ref>{{cite news|url=https://mailchi.mp/globe.com/the-scrum-wus-beacon-hill-power-play-could-come-with-a-price|title=Boston Globe: The Scrum|first=Kelly|last=Garrity|date=June 4, 2026|work=[[Boston Globe]]|access-date=June 4, 2026}}</ref>{{efn-ua|name=Nguyen|Poll sponsored by Nguyen's campaign}}
+|May 26–27, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|9%
+|6%
+|7%
+|18%
+|8%
+|{{party shading/Democratic}} |'''28%'''
+|colspan="2" {{sdash}}
+|-
+|style="text-align:left;"|Center for Strategic Politics (D)<ref>{{cite news|url=https://stratpolitics.org/2026/05/ma-6-democratic-primary-poll-may/|title=MA-6 Democratic Primary Poll (May)|date=May 17, 2026|work=Center for Strategic Politics|access-date=August 11, 2026}}</ref>{{efn-ua|name=Andres-Beck|Poll sponsored by Andres-Beck's campaign}}{{efn|Poll conducted after having people read "balanced biographies" of the candidates}}
+|May 10–15, 2026
+|487 (LV)
+|±&nbsp;4.43%
+|{{party shading/Democratic}} |'''14%'''
+|5%
+|{{party shading/Democratic}} |'''14%'''
+|9%
+|10%
+|13%
+|{{sdash}}
+|35%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | April 15, 2026
+| colspan="11"| Rick Jakious withdraws
+|-
+|style="text-align:left;"|Schoen Cooperman Research (D)<ref>{{cite news|url=https://andovermanews.com/first-campaign-polls-show-nearly-half-of-ma-6-democratic-primary-voters-undecided/|title=First Campaign Polls Show Nearly Half Of MA-6 Democratic Primary Voters Undecided|first=Dave|last=Copeland|date=May 18, 2026|work=Andover News|access-date=May 18, 2026}}</ref>{{efn-ua|name=Beccia|Poll sponsored by Beccia's campaign}}
+|March 20–24, 2026
+|450 (LV)
+|±&nbsp;4.6%
+|2%
+|10%
+|6%
+|10%
+|3%
+|{{party shading/Democratic}} |'''13%'''
+|3%{{efn|Rick Jakious with 3%}}
+|{{party shading/Undecided}} |'''46%'''
+|}
+
+==== Results ====
+[[File:2026 Massachusetts's 6th congressional district Democratic primary election results by town map.svg|thumb|210px|Primary results by town:
+{{collapsible list
+| title = {{legend|#7996E2|Koh}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Nguyen}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FFDD55|Beccia}}
+|{{legend|#FFEEAA|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Belsito}}
+|{{legend|#FF80B2|50–60%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Dan Koh]]|votes=47,835|percentage=40.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Tram Nguyen]]|votes=34,324|percentage=29.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=John Beccia|votes=14,215|percentage=12.2}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jamie Belsito]]|votes=11,268|percentage=9.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Mariah Lancaster ''(withdrawn)''|votes=4,725|percentage=4.0}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Beth Andres-Beck|votes=4,385|percentage=3.8}}
+{{Election box write-in with party link no change|votes=156|percentage=0.1}}
+{{Election box total no change|votes=116,908|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Micah Jones, attorney and [[United States Army|U.S. Army]] veteran<ref name="2/5 Playbook"/><ref>{{Cite web |last=Muldoon |first=John P. |date=2026-02-05 |title=Essex Republican jumps in race to replace Moulton |url=https://thelocalnews.news/2026/02/05/essex-republican-jumps-in-race-to-replace-moulton/ |access-date=2026-04-02 |website=The Local News (Ipswich/Rowley, Topsfield/Boxford) |language=en-US}}</ref>
+
+==== Endorsements ====
+{{Endorsements box|title=Micah Jones|list=;Statewide officials
+*[[Charlie Baker]], former [[Governor of Massachusetts|governor of Massachusetts]] (2015–2023)<ref name=BakerPolito>{{cite news|url=https://swampscotttides.org/news/meet-the-candidates-micah-jones-6th-congressional-district|title=Meet the Candidates: Micah Jones, 6th Congressional District|last=Sager|first=Monica|date=August 13, 2026|access-date=October 8, 2026|work=Marblehead Current}}</ref>
+*[[Karyn Polito]], former [[Lieutenant Governor of Massachusetts|lieutenant governor of Massachusetts]] (2015–2023)<ref name=BakerPolito/>}}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Micah Jones|votes=29,111|percentage=99.2}}
+{{Election box write-in with party link no change|votes=225|percentage=0.8}}
+{{Election box total no change|votes=29,336|percentage=100.0}}
+{{Election box end}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Micah Jones (R)
+|$400,168{{Efn|$0 of this total was self-funded by Jones}}
+|$149,312
+|$250,856
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC6" /></small>
+|}
+
+===General election===
+
+==== Post-primary endorsements ====
+{{Endorsements box
+|title=Dan Koh (D)
+|list=
+;U.S representatives
+*[[Jake Auchincloss]], [[Massachusetts's 4th congressional district|MA-04]] (2021–present)<ref>{{cite news|url=https://www.thereadingobserver.com/community-news/us-congressman-jake-anchincloss-ma-04-endorses-don-koh|title=U.S. Congressman Jake Anchincloss (MA-04) Endorses Don Koh|date=October 20, 2026|access-date=October 22, 2026|work=The Reading Observer}}</ref>
+*[[Katherine Clark]], [[Party leaders of the United States House of Representatives|House minority whip]] (2023-present) from [[Massachusetts's 5th congressional district|MA-05]] (2013–present)<ref>{{cite news|url=https://www.thereadingobserver.com/community-news/house-democratic-whip-katherine-clark-ma-05-endorses-dan-koh|title=House Democratic Whip Katherine Clark (MA-05) Endorses Dan Koh|date=October 14, 2026|access-date=October 15, 2026|work=The Reading Observer}}</ref>
+*[[Pramila Jayapal]], [[Washington's 7th congressional district|WA-07]] (2017–present)<ref>{{cite news|url=https://www.thereadingobserver.com/community-news/congresswoman-pramila-jayapal-wa-07-endorses-dan-koh|title=Congresswoman Pramila Jayapal (WA-07) Endorses Dan Koh|date=September 28, 2026|access-date=October 12, 2026|work=The Reading Observer}}</ref>
+*[[Jim McGovern (American politician)|Jim McGovern]], [[Massachusetts's 2nd congressional district|MA-02]] (1997–present)<ref>{{cite news|url=https://www.thereadingobserver.com/community-news/congressman-jim-mcgovern-ma-02-endorses-fan-koh|title=Congressman Jim McGovern (MA-02) Endorses Fan Koh|date=October 6, 2026|access-date=October 8, 2026|work=The Reading Observer}}</ref>
+*[[Ayanna Pressley]], [[Massachusetts's 7th congressional district|MA-07]] (2019–present)<ref>{{cite news|url=https://massterlist.com/p/plan-to-cap-ticket-prices-falls-flat-in-the-house-while-resellers-hint-at-a-legal-challenge|title=Plan to cap ticket prices falls flat in the House, while resellers hint at a legal challenge|last=Lannan|first=Katie|date=October 22, 2026|access-date=October 22, 2026|work=MASSterList}}</ref>
+*[[Lori Trahan]], [[Massachusetts's 3rd congressional district|MA-03]] (2019–present)<ref>{{cite news|url=https://www.thereadingobserver.com/community-news/congresswoman-lori-trahan-ma-03-endorses-dan-koh|title=Congresswoman Lori Trahan (MA-03) Endorses Dan Koh
+|last=Gregory|first=Taylor|date=October 6, 2026|access-date=October 7, 2026|work=The Reading Observer}}</ref>
+
+;Statewide officials
+*[[Andrea Campbell]], [[Massachusetts Attorney General|attorney general of Massachusetts]] (2023–present)<ref>{{cite news|url=https://www.thereadingobserver.com/community-news/massachusetts-attorney-general-andrea-campbell-endorses-dan-koh|title=Massachusetts Attorney General Andrea Campbell endorses Dan Koh|date=October 7, 2026|access-date=October 8, 2026|work=The Reading Observer}}</ref>}}
+
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 7==
+{{see also|Massachusetts's 7th congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 7th congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = no
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 7
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 7
+| next_year = 2028
+| image_size = x150px
+| image1 = Rep. Ayanna Pressley, 117th Congress (cropped).jpg
+| nominee1 = '''[[Ayanna Pressley]]'''
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 
+| nominee2 = 
+| party2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Ayanna Pressley]]
+| before_party = Democratic Party (US)
+| after_election = [[Ayanna Pressley]]
+| after_party = Democratic Party (US)
+| map =
+}}
+The 7th district represents much of [[Boston]] and its suburbs. The incumbent is Democrat [[Ayanna Pressley]], who was re-elected uncontested in 2024.<ref name="HPVT"/>
+
+=== Democratic primary ===
+==== Nominee ====
+*[[Ayanna Pressley]], incumbent U.S. representative<ref>{{cite news |last1=Jopan |first1=Tai |last2=Brodey |first2=Sam |title=Pressley won't challenge Markey, will run for re-election |url=https://www.bostonglobe.com/2025/12/02/nation/pressley-running-house-not-senate/ |access-date=December 2, 2025 |work=[[The Boston Globe]] |date=December 2, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Ayanna Pressley
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+*Massachusetts [[AFL-CIO]]<ref name="AFLCIO" />
+*Massachusetts [[National Education Association|Teachers Association]]<ref name="MTA"/>
+
+;Organizations
+*[[Reproductive Freedom for All]]<ref name="NARAL"/>
+*[[Peace Action]]<ref name=Peace>{{cite web |title=Meet Our 2026 Candidates |url=https://www.peaceaction.org/endorsements/ |website=Peace Action |access-date=23 June 2026 |language=en-EN}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Progressive Democrats of America]]<ref name=PDA/>
+*[[Sierra Club]]<ref name="Sierra Club" />
+*[[Track AIPAC]]<ref name="TrackAIPAC"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Ayanna Pressley (D)
+|$914,493
+|$894,649
+|$138,065
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC7">{{cite web |title=2026 Election United States House - Massachusetts 7th |url=https://www.fec.gov/data/elections/house/MA/07/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 28, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Ayanna Pressley]] (incumbent)|votes=74,100|percentage=98.4}}
+{{Election box write-in with party link no change|votes=1,174|percentage=1.6}}
+{{Election box total no change|votes=75,274|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 8==
+{{see also|Massachusetts's 8th congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 8th congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 8
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 8
+| next_year = 2028
+| image_size = x150px
+| image1 = Stephen Lynch 2019 (cropped).jpg
+| nominee1 = [[Stephen Lynch (politician)|Stephen Lynch]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Robert Burke
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Stephen Lynch (politician)|Stephen Lynch]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party = 
+| map = 
+}}
+The 8th district consists of parts of [[Boston]] and eastern Massachusetts. The incumbent is Democrat [[Stephen F. Lynch|Stephen Lynch]], who was re-elected in 2024 after running unopposed.<ref name="HPVT"/> 
+
+===Democratic primary===
+==== Nominee ====
+*[[Stephen F. Lynch|Stephen Lynch]], incumbent U.S. representative<ref>{{cite web|url=https://www.axios.com/2025/07/31/house-democrats-2026-primary-challenges-age|title=Democrats' big age headache is becoming a migraine|last=Solender|first=Andrew|date=July 31, 2025|access-date=August 1, 2025|website=[[Axios (website)|Axios]]}}</ref>
+
+====Eliminated in primary====
+* Patrick Roath, attorney<ref>{{cite news |last1=Huynh |first1=Anjali |title=Patrick Roath, voting rights attorney, will challenge Stephen Lynch in Democratic primary for Congress |url=https://www.bostonglobe.com/2025/05/07/metro/patrick-roath-stephen-lynch-democrat-incumbent-challenge-trump/ |access-date=May 7, 2025 |work=[[The Boston Globe]] |date=May 7, 2025}}</ref><ref>{{Cite web |last=Micek |first=John |date=2026-02-23 |title=Who is Patrick Roath, the Boston lawyer challenging U.S. Rep. Stephen Lynch? {{!}} Bay State Briefing |url=https://www.masslive.com/politics/2026/02/who-is-patrick-roath-the-boston-lawyer-challenging-us-rep-stephen-lynch-bay-state-briefing.html |access-date=2026-04-02 |website=masslive |language=en}}</ref>
+
+==== Withdrawn ====
+*Andrew Zylberfink, manager<ref>{{Cite web |title=FEC Form 2 for Report FEC-1926986 |url=https://docquery.fec.gov/cgi-bin/forms/H6MA08331/1926986/ |access-date=2025-11-28 |website=docquery.fec.gov}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Stephen Lynch
+| list =
+;Labor unions
+* [[American Federation of Government Employees]]<ref name="AFGE" />
+* Massachusetts [[AFL-CIO]]<ref name="AFLCIO" />
+* [[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers|Iron Workers]] Local 7<ref>{{Cite web |url=https://www.facebook.com/ironworkerslocal7/posts/iron-workers-local-7-is-proud-to-endorse-congressman-stephen-lynch-for-re-electi/1639243464462970/ |title=ron Workers Local 7 is proud to endorse Congressman Stephen Lynch for re-election in Massachusetts' 8th Congressional District. |work=Iron Workers Local 7 |via=[[Facebook]] |date=April 15, 2026 |access-date=August 15, 2026}}</ref>
+* [[International Brotherhood of Electrical Workers]] Local 2222<ref name=IBEW222>{{Cite instagram |author=IBEW Local 2222 |user=ibew2222 |postid=DaBD_3Wjn4t |title=IBEW Local 2222 proudly endorses Stephen Lynch and Dan Koh for Congress. |date=June 25, 2026 |access-date=August 15, 2026}}</ref>
+* North Atlantic States Regional [[United Brotherhood of Carpenters and Joiners of America|Council of Carpenters]]<ref>{{Cite web |url=https://www.facebook.com/NorthAtlanticStatesRegionalCouncilofCarpenters/posts/the-north-atlantic-states-regional-council-of-carpenters-has-endorsed-congressma/1369904395176265/ |title=The North Atlantic States Regional Council of Carpenters has endorsed Congressman Representative Stephen F. Lynch for re-election to the U.S. House of Representatives in Massachusetts' 8th District. |work=North Atlantic States Regional Council of Carpenters |via=[[Facebook]] |date=March 25, 2026 |access-date=August 15, 2026}}</ref>
+* Professional Firefighters of Massachusetts <ref name="ComBeacon">{{cite web |last1=Smith |first1=Jennifer |title=Koh comes out on top in crowded primary race to replace Moulton |url=https://commonwealthbeacon.org/politics/dan-koh-comes-out-on-top-in-crowded-primary-race-to-replace-moulton/ |publisher=Commonwealth Beacon |access-date=3 September 2026}}</ref>
+* [[UNITE HERE]] Local 26<ref>{{Cite web |url=https://bluevoterguide.org/endorser-org/UNITE_HERE_Local_26_Massachusetts_/MA/7423 |title=UNITE HERE Local 26 Massachusetts Endorsements |website=Blue Voter Guide |access-date=August 15, 2026}}</ref>
+
+;Organizations
+* [[J Street]]<ref>{{cite web|title=Stephen Lynch |url=https://jstreetpac.org/candidate/stephen-lynch/ |publisher=J Street PAC |access-date=April 24, 2026}}</ref>
+* [[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+
+{{Endorsements box
+| title = Patrick Roath
+| list =
+;Statewide officials
+*[[Deval Patrick]], former [[governor of Massachusetts]] (2007–2015)<ref>{{cite news |last1=Huynh |first1=Anjali |title=Former Governor Deval Patrick endorses Patrick Roath in challenge against Stephen Lynch |url=https://www.bostonglobe.com/2026/01/20/metro/deval-patrick-massachusetts-congress-patrick-roath/ |access-date=January 20, 2026 |work=[[The Boston Globe]] |date=January 20, 2026}}</ref>
+
+;State legislators
+*[[Jay Livingstone]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Suffolk district|8th Suffolk district]] (2013–present)<ref name="6/29 scrum">{{cite news |last1=Garrity |first1=Kelly |title=A Sixth District Democrat's $1 million name drop |url=https://www.bostonglobe.com/2026/06/29/newsletters/beccia-tv-ad-sixth-district-primary-the-scrum/ |access-date=June 30, 2026 |url-access=subscription |work=[[The Boston Globe]] |date=June 29, 2026}}</ref>
+*[[Sam Montaño]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 15th Suffolk district|15th Suffolk district]] (2023–present)<ref name="6/29 scrum"/>
+*[[John F. Moran]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 9th Suffolk district|9th Suffolk district]] (2023–present)<ref name="6/29 scrum"/>
+
+;Party officials
+*[[David Hogg]], former vice chair of the [[Democratic National Committee]] (2025)<ref name="LWD">{{cite web |last1=Vakil |first1=Caroline |title=David Hogg's Leaders We Deserve endorses challenger to Rep. Stephen Lynch |url=https://thehill.com/homenews/house/5706046-david-hogg-backs-patrick-roath/ |access-date=January 26, 2026 |work=[[The Hill (newspaper)|The Hill]] |date=January 26, 2026}}</ref>
+
+;Labor unions
+*[[American Federation of Teachers]] Massachusetts<ref>{{cite news |last1=Garrity |first1=Kelly |title=Who is, and isn't, sweating the rise of AI |url=https://www.bostonglobe.com/2026/06/18/newsletters/suffolkglobe-poll-ai-work-the-scrum/ |access-date=June 19, 2026 |work=[[The Boston Globe]] |date=June 18, 2026 |url-access=subscription}}</ref>
+*[[American Federation of Teachers|Boston Teachers Union]]<ref name="ChallengersGBH">{{Cite news |url=https://www.wgbh.org/news/politics/2026-08-03/why-more-than-half-of-massachusetts-house-reps-are-facing-primary-challengers-this-year |title=Why more than half of Massachusetts' House reps are facing primary challengers this year |last=Reilly |first=Adam |work=[[WGBH Educational Foundation|GBH]] |date=August 3, 2026 |access-date=August 6, 2026}}</ref>
+* Massachusetts [[National Education Association|Teachers Association]]<ref name="MTA"/>
+
+;Organizations
+*[[College Democrats]] of Massachusetts<ref>{{cite web| title=College Dems endorses Patrick Roath|url=https://www.facebook.com/CollegeDemsofMA/posts/the-college-democrats-of-massachusetts-are-excited-to-endorse-patrick-roath-for-/1285390780352682/|access-date=May 28, 2026|via=Facebook|date=April 6, 2026}}</ref>
+*[[Indivisible (organization)|Indivisible]]<ref>{{cite web |title=Patrick Roath |url=https://indivisible.org/candidates/patrick-roath-ma-08/ |access-date=August 14, 2026 |website=Indivisible}}</ref>
+*[[Leaders We Deserve]]<ref name="LWD"/>
+*[[Our Revolution]]<ref>{{Cite web |url=https://ourrevolution.com/patrick-roath-for-congress-in-massachusetts-8th-district/ |title=Patrick Roath for Congress in Massachusetts 8th District |website=[[Our Revolution]] |access-date=August 30, 2026}}</ref>
+
+;Newspapers
+*''[[The Boston Globe]]''<ref>{{cite web |title=Globe endorses Patrick Roath for Congress |url=https://www.bostonglobe.com/2026/08/23/opinion/roath-congress-lynch/ |website=The Boston Globe |access-date=August 23, 2026 |date=August 23, 2026}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 12, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Stephen Lynch (D)
+|$910,160
+|$1,356,628
+|$642,256
+|-
+|{{party shading/Democratic}}|Patrick Roath (D)
+|$1,280,230
+|$1,060,408
+|$219,822
+|-
+|{{party shading/Democratic}}|''Andrew Zylberfink (D)''
+|$1,261
+|$1,397
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8">{{cite web |title=2026 Election United States House - Massachusetts 8th |url=https://www.fec.gov/data/elections/house/MA/08/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 30, 2026}}</ref></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:75px;"|Stephen<br />Lynch
+! style="width:75px;"|Patrick<br />Roath
+! Undecided
+|-
+|style="text-align:left;"|Z to A Research (D)<ref name="ZtoA">{{cite web|url=https://drive.google.com/file/d/1mcM7sMEfXK6A9KEJDlhZVq0S2tG0bwXd/view|title=NEW POLL: Patrick Roath Quickly Gaining on Stephen Lynch in MA-8 Primary|date=August 11, 2026|access-date=August 17, 2026}}</ref>{{efn-ua|name=LWD|Poll sponsored by [[David Hogg|Leaders We Deserve]], which supports Roath}}
+|August 5–6, 2026
+|469 (LV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''50%'''
+|43%
+|7%
+|-
+|style="text-align:left;"|Z to A Research (D)<ref name="ZtoA"/>{{efn-ua|name=LWD}}
+|July 12, 2026
+|–
+|–
+|{{party shading/Democratic}}|'''54%'''
+|32%
+|14%
+|-
+|style="text-align:left;"|Workbench Strategy (D)<ref>{{Cite web|url=https://hub.nationaljournal.com/in-search-of-new-mexicos-gop|title=In Search of New Mexico's GOP|website=[[National Journal]]|date=March 12, 2026|access-date=March 12, 2026}}</ref>{{efn-ua|name=Roath|Poll sponsored by Roath's campaign}}
+|February 17–19, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''62%'''
+|36%
+|2%
+|}
+
+==== Results ====
+[[File:2026 Massachusetts's 8th congressional district Democratic primary election results by town map.svg|thumb|210px|Primary results by town:
+{{collapsible list
+| title = {{legend|#7996E2|Lynch}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Roath}}
+|{{legend|#51C2C2|50–60%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Stephen F. Lynch|Stephen Lynch]] (incumbent)|votes=57,823|percentage=55.6}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Patrick Roath|votes=45,946|percentage=44.2}}
+{{Election box write-in with party link no change|votes=180|percentage=0.2}}
+{{Election box total no change|votes=103,949|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Robert Burke, videographer and nominee for this district in [[2022 United States House of Representatives elections in Massachusetts#District 8|2022]] and [[2024 United States House of Representatives elections in Massachusetts#District 8|2024]]<ref name=":3">{{Cite web |url=https://www.sec.state.ma.us/divisions/elections/research-and-statistics/rep-state-primary-candidates2026.htm | title = 2026 Republican State Primary Candidates | access-date=2026-06-22 |work = Secretary of the Commonwealth of Massachusetts }}</ref>
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Robert Burke|votes=20,362|percentage=99.0}}
+{{Election box write-in with party link no change|votes=212|percentage=1.0}}
+{{Election box total no change|votes=20,574|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*Rasheed Nicholas Walters<ref name="Independent"/>
+
+====Withdrawn====
+*Michael Hammond, business owner<ref>{{Cite web |title=FEC Form 2 for Report FEC-1928973 |url=https://www.fec.gov/data/candidate/H6MA08364 |access-date=2026-03-22 |website=fec.gov}}</ref>
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|''Michael Hammond (I)''
+|$1,800
+|$1,800
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC8"/></small>
+|}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==District 9==
+{{see also|Massachusetts's 9th congressional district}}
+{{Infobox election
+| election_name = 2026 Massachusetts's 9th congressional district election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Massachusetts#District 9
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Massachusetts#District 9
+| next_year = 2028
+| image_size = x150px
+| image1 = Bill Keating portrait (118th Congress).jpg
+| nominee1 = [[Bill Keating (politician)|Bill Keating]] 
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 =
+| image2 = 3x4.svg
+| nominee2 = Tyler MacAllister
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Bill Keating]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party = 
+| map =
+}}
+The 9th district encompasses [[Cape Cod]] and the [[South Shore (Massachusetts)|South Shore]], and extends westward into [[New Bedford, Massachusetts|New Bedford]] and surrounding suburbs. The incumbent is Democrat [[Bill Keating (politician)|Bill Keating]], who was re-elected with 56.2% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Bill Keating (politician)|Bill Keating]], incumbent U.S. representative<ref name="Campbell" />
+
+====Eliminated in primary====
+*Craig Swallow, co-leader of [[Indivisible movement|Indivisible]] South Coast New England<ref>{{cite news |last1=Cullen |first1=Margie |title=New Bedford activist to challenge Rep. Bill Keating: What to know |url=https://www.southcoasttoday.com/story/news/politics/2026/01/28/rep-bill-keating-to-face-a-primary-challenge-in-2026-what-to-know/88394952007/ |access-date=January 28, 2026 |work=[[SouthCoastToday.com]] |date=January 28, 2026}}</ref>
+
+====Declined====
+*[[Andrea Campbell]], [[Massachusetts Attorney General]] (2023–present)<ref name="Campbell">{{cite news |last1=Nesi |first1=Ted |title=Mass. AG Campbell is moving to Bristol County -- but says it's not to run for Congress |url=https://www.wpri.com/news/local-news/se-mass/mass-ag-campbell-is-moving-to-bristol-county-but-says-its-not-to-run-for-congress/ |access-date=December 12, 2024 |work=[[WPRI-TV]] |date=December 12, 2024}}</ref> ''([[2026 Massachusetts Attorney General election|running for re-election]])''<ref>{{cite news |last1=Fortin |first1=Matt |title=Mass. AG Andrea Joy Campbell announces reelection campaign |url=https://www.nbcboston.com/news/local/mass-ag-andrea-joy-campbell-announces-reelection-campaign/3830944/ |access-date=October 21, 2025 |work=[[NBC10 Boston]] |date=October 21, 2025}}</ref>
+
+====Organizations====
+{{Endorsements box
+|title=Bill Keating
+|list=
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+*Massachusetts [[AFL-CIO]]<ref name="AFLCIO" />
+*Massachusetts [[National Education Association|Teachers Association]]<ref name="MTA"/>
+
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[J Street]]<ref>{{cite web|title=Bill Keating |url=https://jstreetpac.org/candidate/bill-keating/ |publisher=J Street PAC |access-date=April 24, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+{{Endorsements box
+|title=Craig Swallow
+|list=
+;Organizations
+*Massachusetts [[Peace Action]]<ref name="ChallengersGBH"/>
+*[[Progressive Democrats of America]]<ref name="ChallengersGBH"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 12, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Bill Keating (D)
+|$422,462
+|$592,807
+|$495,522
+|-
+|{{party shading/Democratic}}|Craig Swallow (D)
+|$40,503
+|$33,246
+|$7,257
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9">{{cite web |title=2026 Election United States House - Massachusetts 9th |url=https://www.fec.gov/data/elections/house/MA/09/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 30, 2026}}</ref></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Bill Keating (politician)|Bill Keating]] (incumbent)|votes=81,847|percentage=77.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Craig Swallow|votes=23,671|percentage=22.4}}
+{{Election box write-in with party link no change|votes=96|percentage=0.1}}
+{{Election box total no change|votes=105,614|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Tyler MacAllister, former [[Mattapoisett, Massachusetts|Mattapoisett]] selectman<ref>{{cite news |last1=Natanawan |first1=Grace Ann |title=Mattapoisett Select Board member announces congressional campaign |url=https://sippican.theweektoday.com/article/mattapoisett-select-board-member-announces-congressional-campaign/76119 |work=Sippican Week |date=June 10, 2025}}</ref><ref>{{Cite web |last=Micek |first=John |date=2026-03-11 |title=From fishing boat to Congress? Meet Tyler Macallister, who's challenging U.S. Rep. Bill Keating |url=https://www.masslive.com/politics/2026/03/from-fishing-boat-to-congress-meet-tyler-macallister-whos-challenging-us-rep-bill-keating.html |access-date=2026-04-02 |website=masslive |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tyler MacAllister (R)
+|$143,181
+|$88,365
+|$54,816
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC9"/></small>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Tyler MacAllister|votes=40,104|percentage=99.3}}
+{{Election box write-in with party link no change|votes=278|percentage=0.7}}
+{{Election box total no change|votes=40,382|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ" />
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball" />
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://nadiaforcongress.com/ Nadia Milleron (I)]
+*[https://www.nealforcongress.com/ Richard Neal (D)]
+
+;Official campaign websites for 2nd district candidates
+*[https://www.jimmcgovern.com/ Jim McGovern (D)]
+
+;Official campaign websites for 3rd district candidates
+*[https://www.kevinades.com/ Kevin Ades (I)]
+*[https://www.votegarygrossi.com/ Gary Grossi (R)]
+*[https://loritrahan.com/ Lori Trahan (D)]
+
+;Official campaign websites for 4th district candidates
+*[https://www.jakeforma.com/ Jake Auchincloss (D)]
+*[https://chasse4us2026.org/ Steve Chasse (I)]
+*[https://tomstalcup.com/ Tom Stalcup (R)]
+
+;Official campaign websites for 5th district candidates
+*[https://katherineclark.org/ Katherine Clark (D)]
+*[https://www.derekforcongress.com/ Derek Fleming (I)]
+
+;Official campaign websites for 6th district candidates
+*[https://micahqjones.com/ Micah Jones (R)]
+*[https://www.kohforcongress.com/ Dan Koh (D)]
+
+;Official campaign websites for 7th district candidates
+*[https://ayannapressley.com/ Ayanna Pressley (D)]
+
+;Official campaign websites for 8th district candidates
+*[https://burke4congress.us/ Robert Burke (R)]
+*[https://www.stephenflynch.com/ Stephen Lynch (D)]
+*[https://www.voterasheed.com/ Rasheed Walters (I)]
+
+;Official campaign websites for 9th district candidates
+*[https://keatingforcongress.com/ Bill Keating (D)]
+*[https://www.macallister4congress.com/ Tyler Macallister (R)]
+
+{{2026 United States elections}}
+{{Federal elections in Massachusetts footer}}
+
+[[Category:United States House of Representatives elections in Massachusetts|2024]]
+[[Category:2026 United States House of Representatives elections|Massachusetts]]
+[[Category:2026 elections in Massachusetts|United States House of Representatives]]

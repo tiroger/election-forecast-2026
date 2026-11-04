@@ -1,0 +1,476 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Hawaii House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Hawaii
+| country = Hawaii
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Hawaii
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Hawaii
+| next_year = 2028
+| seats_for_election = Both Hawaii seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = 2
+| seats1 = 2
+| party2 = Republican Party (United States)
+| last_election2 = 0
+| seats2 = 0
+| map_image = 
+}}
+{{ElectionsHI}}
+The '''2026 United States House of Representatives elections in Hawaii''' will be held on November 3, 2026, to elect the two [[U.S. representative]]s from the [[U.S. state|State]] of [[Hawaii]], one from both of the state's [[Hawaii's congressional districts|congressional districts]]. The elections will coincide with the [[2026 United States House of Representatives elections|other elections]] to the House of Representatives, [[2026 United States Senate elections|elections]] to the [[United States Senate]], and various [[2026 United States elections|state and local elections]]. The primary elections took place on August 8, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Hawaii's 1st congressional district election
+| country = Hawaii
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Hawaii#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Hawaii#District 1
+| next_year = 2026
+| image_size = 150x150px
+| image1 = File:Ed Case, official portrait, 119th Congress (slight crop 2).jpg
+| nominee1 = [[Ed Case]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Adriel Lam
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Ed Case]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Hawaii's 1st congressional district}}
+The 1st district is located entirely on the island of [[Oahu]], centering on [[Honolulu]] and the towns of [[Aiea, Hawaii|Aiea]], [[Mililani, Hawaii|Mililani]], [[Pearl City, Hawaii|Pearl City]], [[Waipahu, Hawaii|Waipahu]], and [[Waimalu, Hawaii|Waimalu]]. The incumbent is Democrat [[Ed Case]], who was re-elected with 71.8% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 26, 2025|website=[[The Cook Political Report with Amy Walter|Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Candidates====
+=====Nominee=====
+*[[Ed Case]], incumbent U.S. representative<ref>{{cite news|url=https://www.kitv.com/news/politics/hawaii-2026-primary-election-results-are-in/article_55f7ce83-92a8-4e5b-a917-496999fc570e.html|title=Hawaii 2026 Primary Election Results Are In|work=Island News|date=8 August 2026|accessdate=8 August 2026}}</ref><ref>{{cite news|url=https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html|title=Moderate Democrat in Hawaii Defeats Progressive House Challenger|work=New York Times|date=9 August 2026|access-date=9 August 2026}}</ref><ref>{{cite news |last1=Nakaso |first1=Dan |date=July 14, 2025 |title=Keohokalole mulling challenging Case for Congress |url=https://www.staradvertiser.com/2025/07/14/hawaii-news/keohokalole-mulling-challenging-case-for-congress/ |access-date=July 14, 2025 |work=[[Honolulu Star-Advertiser]] |language=en}}</ref>
+
+=====Eliminated in primary=====
+*Jennifer Booker, engineer and nurse<ref name=":0">{{Cite web |title=State of Hawaii : Office of Elections Online Voter Registration |url=https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94 |access-date=2026-07-11 |website=olvr.hawaii.gov}}</ref>
+*Ben Fatula, veteran and chef<ref>{{Cite web |title=FEC Form 2 for Report FEC-1947638 |url=https://docquery.fec.gov/cgi-bin/forms/H6HI01352/1947638 |access-date=2026-02-19 |website=docquery.fec.gov}}</ref>
+*[[Jarrett Keohokalole]], [[Hawaii Senate|state senator]] from the 24th district (2018–present)<ref name="Jarrett1">{{cite web |last1=Ferreira |first1=Anthony |title=Case, Keohokalole announce plans to run for 1st Congressional District |url=https://www.hawaiinewsnow.com/2025/07/31/case-keohokalole-announce-plans-run-1st-congressional-district/ |work=[[Hawaii News Now]] |access-date=31 July 2025 |language=en |date=31 July 2025}}</ref>
+*Nicholas Kiswanto, civil servant<ref name=":0" />
+
+=====Withdrawn=====
+*[[Della Au Belatti]], [[Hawaii State Representative|state representative]] from the 26th district (2006–present) ''([[2026 Hawaii gubernatorial election#Lieutenant governor|running for Lieutenant Governor]])''<ref>{{cite web |last1=Grube |first1=Nick |title=Belatti Drops Bid For Congress To Run For Lieutenant Governor |url=https://www.civilbeat.org/2026/05/belatti-drops-bid-for-congress-to-run-for-lieutenant-governor/ |website=Honolulu Civil Beat |access-date=29 May 2026 |language=en |date=28 May 2026}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Ed Case
+| list =
+;Statewide officials
+*[[David Ige]], former [[governor of Hawaii]] (2014–2022)<ref>{{cite web |title=Spotlight Now: Former Gov. David Ige, affordability survey, domestic violence awareness |url=https://www.hawaiinewsnow.com/2025/10/28/spotlight-now-former-gov-david-ige-weighs-local-national-issues-impacting-hawaii/ |website=hawaiinewsnow.com |access-date=9 March 2026 |language=en |date=29 October 2025}}</ref>
+
+;Organizations
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=AFGE union endorses Tokuda and Case for re-election to Congress |url=https://mauinow.com/2026/08/02/afge-union-endorses-tokuda-and-case-for-re-election-to-congress/ |website=Maui Now |access-date=8 August 2026 |date=August 2, 2026}}</ref>
+*[[AIPAC]]<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=February 8, 2026}}</ref>
+* [[League of Conservation Voters]] Action Fund<ref>{{cite web|url=https://www.lcv.org/media-center/lcv-action-fund-announces-latest-endorsements-for-u-s-house-of-representatives/|title=LCV Action Fund Announces Latest Endorsements for U.S. House of Representatives|date=February 25, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=13 November 2025}}</ref>
+}}
+
+{{Endorsements box
+| title = Jarrett Keohokalole
+| list =
+;Statewide officials
+*[[Neil Abercrombie]], former [[governor of Hawaii]] (2010–2014) and former congressman [[HI-01]] (1986–1987, 1991–2010)<ref name="Jarrett1" />
+
+;State legislators
+*[[Blake Oshiro]], former [[Hawaii House of Representatives|state representative]] from the 33rd district (2001–2011)<ref name="Jarrett2">{{cite web |last1=Epler |first1=Patti |last2=Wiens |first2=Richard |last3=Blair |first3=Chad |title=The Sunshine Blog: Election Season Heats Up As The Battle For CD1 Begins |url=https://www.civilbeat.org/2025/08/the-sunshine-blog-election-season-heats-up-as-the-battle-for-cd1-begins/ |website=[[Honolulu Civil Beat]] |access-date=3 August 2025 |language=en |date=3 August 2025}}</ref>
+*[[Sean Quinlan]], majority leader of the [[Hawaii House of Representatives]] (2024–present) from the 47th district (2016–present)<ref name="Jarrett2" />
+
+;Individuals
+*[[Walter A. Dods Jr.|Walter Dods]], retired [[First Hawaiian Bank]] executive<ref name="Jarrett2"/>
+*[[Ms. Rachel]], [[YouTuber]] and children's educator<ref>{{Cite news |last=Corbett |first=Jessica |date=July 31, 2026 |title=Ms. Rachel Signals Support for El-Sayed, Jackson, McKinney, and Other Candidates Who 'Care About All Kids' |url=https://www.commondreams.org/news/progressives-running-for-congress-2026 |work=[[Common Dreams]] |access-date=August 1, 2026 |language=en}}</ref>
+
+;Labor unions
+*Hawaii Regional [[United Brotherhood of Carpenters and Joiners of America|Council of Carpenters]] Local 745<ref name="Spectrum1"/>
+*[[International Longshore and Warehouse Union]] Local 142<ref name="Spectrum1">{{cite web |last1=Honolulu |first1=Michael Tsai |title=Keohokalole reports $220,000 raised in first campaign filing |url=https://spectrumlocalnews.com/hi/hawaii/news/2025/10/08/keohokalole-reports--200-000-raised-in-first-campaign-filing |website=spectrumlocalnews.com |publisher=Spectrum News Hawaii |access-date=21 October 2025 |language=en |date=October 13, 2025}}</ref>
+*[[Laborers' International Union of North America]] Local 368<ref name="Spectrum1"/>
+*[[National Education Association]]<ref name=NEA>{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=28 November 2025}}</ref>
+*[[National Education Association|Hawaiʻi State Teachers Association]]<ref>{{cite web |last1=Meinecke |first1=Jill |title=HSTA backs Jarrett Keohokalole in first congressional race |url=https://www.hsta.org/news/recent-stories/hsta-backs-jarrett-keohokalole-in-first-congressional-race/ |website=Hawaiʻi State Teachers Association |access-date=21 October 2025 |date=18 October 2025}}</ref>
+*[[United Food and Commercial Workers]] Local 480<ref name="Spectrum1"/>
+
+;Organizations
+*[[Center for Biological Diversity]] Action Fund<ref name=environment>{{cite web |title=National Environmental Organizations Endorse Jarrett Keohokalole for Hawai'i's 1st Congressional Districty|url=https://foeaction.org/news/jarrett-keohokalole-for-hawaiis-1st/|website=Friends of the Earth Action |access-date=27 June 2026|date=25 June 2026}}</ref>
+* [[Climate Hawks Vote]]<ref>{{cite web |title=National Enviro Groups Endorse Jarrett Keohokalole for Congress in HI-1 |url=https://www.foodandwateraction.org/press/national-enviro-groups-endorse-jarrett-keohokalole-for-congress-in-hi-1/ |website=Food & Water Action |access-date=5 August 2026 |date=31 July 2026}}</ref>
+*[[College Democrats of America]]<ref name=IslandNews/>
+*[[Friends of the Earth]] Action<ref name=environment/>
+*[[Indivisible (organization)|Indivisible]]<ref>{{cite web |title=Jarrett Keohokalole|url=https://indivisible.org/candidates/jarrett-keohokalole-hi-01/|website=Indivisible |access-date=16 July 2026}}</ref>
+*[[Indivisible (organization)|Indivisible]] Hawaii<ref name=IslandNews>{{cite web |title=Jarrett Keohokalole files for Congress, launches campaign focused on affordability|url=https://www.kitv.com/news/jarrett-keohokalole-files-for-congress-launches-campaign-focused-on-affordability/article_94c5b588-313e-464c-af7b-01e6285aa88c.html|website=Island News |access-date=21 May 2026|date=20 May 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web |title=OUR CHAMPIONS |url=https://ourrevolution.com/our-champions/ |website=Our Revolution |access-date=5 August 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web |title=2026 PeaceVoter Endorsements - Peace Action |url=https://www.peaceaction.org/endorsements/ |website=Peace Action |access-date=28 December 2025 |language=en-EN}}</ref>
+*[[Progressive Democrats of America]]<ref>{{cite web |title=Progressive Democrats of America endorse Jarrett Keohokalole for the U.S. House of Representatives in Hawaii’s District 1|url=https://pdamerica.org/progressive-democrats-of-america-endorse-jarrett-keohokalole-for-the-u-s-house-of-representatives-in-hawaiis-district-1/|website=Progressive Democrats of America |access-date=7 August 2026|date=6 August 2026 |language=en-EN}}</ref>
+}}
+
+====Fundraising====
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 19, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Ed Case (D)
+|$1,093,795
+|$810,804
+|$599,649
+|-
+| {{party shading/Democratic}} |Jarrett Keohokalole (D)
+|$963,458
+|$882,071
+|$81,387
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States House - Hawaii 1st |url=https://www.fec.gov/data/elections/house/HI/01/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 23, 2026}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;" |Della<br/>Au Belatti
+! style="width:75px;" |Ed<br/>Case
+! style="width:75px;" |Jarett<br/>Keohokalole 
+! Undecided
+|-
+|style="text-align:left;"|Blueprint Polling (D)<ref name="Blueprint Polling">{{cite web |last1=Kassel |first1=Matthew |title=Generational challenge threatens Ed Case in Hawaii’s under-the-radar primary|url=https://jewishinsider.com/2026/08/ed-case-hawaii-primary-challenge-jarrett-keohokalole-2/ |website=Jewish Insider |access-date=August 6, 2026 |date=August 6, 2026}}</ref>{{Efn-ua|Poll sponsored by Keohokalole's campaign}}
+|July 24, 2026
+|278 (LV)
+|—
+|—
+|38%
+| {{party shading/Democratic}} |'''47%'''
+|15%
+|-
+|style="text-align:left;"|Blueprint Polling (D)<ref name="Blueprint Polling"/>{{Efn-ua|Poll sponsored by Keohokalole's campaign}}
+|July 7–8, 2026
+|481 (LV)
+|—
+|—
+| {{party shading/Democratic}} |'''33%'''
+|25%
+|42%
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 28, 2026
+| colspan="8" |Belatti withdraws from the race to run for [[Lieutenant Governor of Hawaii|Lieutenant Governor of Hawaii]]
+|-
+| rowspan="3" style="text-align:left" |[[Data for Progress]] (D)<ref name="DFPNov2025">{{Cite web|url=https://www.filesforprogress.org/datasets/2025/11/dfp_hi_01_dem_primary.pdf|title=DFP Hawaii – November 2025|work=[[Data for Progress]]|date=November 17, 2025|access-date=November 19, 2025}}</ref>{{Efn-ua|Poll sponsored by Our Hawai'i and [[Indivisible movement|Indivisible]]|name=Indivisible}}
+| rowspan="3" |October 6–14, 2025
+| rowspan="3" |366 (LV)
+| rowspan="3" |±&nbsp;5.0%
+|16%
+| {{party shading/Democratic}} |'''40%'''
+|12%
+|32%
+|-
+|—
+| {{party shading/Democratic}} |'''44%'''
+|25%
+|31%
+|-
+|26%
+| {{party shading/Democratic}} |'''44%'''
+|—
+|29%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Ed Case vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Ed<br />Case
+! style="width:75px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref name="DFPNov2025"/>{{efn-ua|name=Indivisible}}
+|October 6–14, 2025
+|366 (LV)
+|±&nbsp;5.0%
+|{{party shading/Democratic}}|'''43%'''
+|36%
+|21%
+|-
+|}
+{{hidden end}}
+
+====Results====
+[[File:2026HI-01DemPrimary.svg|thumb|250px|Results by precinct{{Collapsible list
+| title = {{legend|#0671B0|Case}}|{{legend|#A5B0FF|40–50%}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|{{legend|#584CDE|70–80%}}|{{legend|#0D0596|90–100%}}|}}
+{{Collapsible list
+| title = {{legend|#288B37|Keohokalole}}|{{legend|#87DE87|40–50%}}|{{legend|#5FD35F|50–60%}}|{{legend|#37C837|60–70%}}|
+}}
+{{legend|#808080|No votes}}
+]]
+{{Election box begin no change |title=Democratic primary results<ref>{{cite news |title=Hawaii First Congressional District Primary Election Results |website=The New York Times |issn=15538095 |date=August 8, 2026 |access-date=August 9, 2026 |url=https://www.nytimes.com/interactive/2026/08/08/us/elections/results-hawaii-us-house-1-primary.html}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Ed Case]] (incumbent)|votes=63,784|percentage=58.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jarrett Keohokalole]]|votes=40,848|percentage=37.4}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Jennifer Booker|votes=2,433|percentage=2.2}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Ben Fatula|votes=1,025|percentage=0.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Nicholas Kiswanto|votes=1,025|percentage=0.9}}
+{{Election box total no change|votes=109,115|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+* Adriel Lam, candidate for U.S. Senate in [[2024 United States Senate election in Hawaii|2024]]<ref>{{Cite web |title=State of Hawaii : Office of Elections Online Voter Registration |url=https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94 |access-date=2026-07-15 |website=olvr.hawaii.gov}}</ref>
+
+=====Not on ballot=====
+* Maxwell Frazier, electronic technician<ref>{{Cite web |title=FEC Form 2 for Report FEC-1929567 |url=https://docquery.fec.gov/cgi-bin/forms/H6HI01337/1929567/ |access-date=2026-02-13 |website=docquery.fec.gov}}</ref>
+*Gavin Solomon, businessman from New York<ref>{{cite web|title = Statement of Candidacy - Gavin Solomon (HI-01)|url = https://docquery.fec.gov/cgi-bin/forms/H6HI01329/1912886/|website = Federal Election Commission|date = 2024-08-22|access-date = 2025-10-29}}</ref>
+
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Adriel Lam|votes=18,530|percentage=100.0}}
+{{Election box total no change|votes=18,530|percentage=100.0}}
+{{Election box end}}
+
+=== Third party and independent candidates ===
+==== Independent candidates ====
+===== Declared =====
+* Nathan Berning<ref name=":0" />
+
+==== Green Party ====
+===== Nominee =====
+* Jordan Conley, fitness professional<ref name=":0" />
+
+{{Election box begin no change |title=Green primary results}}
+{{Election box winning candidate with party link no change|party=Green Party (United States)|candidate=Jordan Conley|votes=402|percentage=100.0}}
+{{Election box total no change|votes=402|percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial">{{cite web |title=2026 CPR House Race Ratings |url=https://www.cookpolitical.com/ratings/house-race-ratings |publisher=Cook Political Report |access-date=February 26, 2025}}</ref>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial">{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |website=Inside Elections |language=en}}</ref>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 20, 2026
+|}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Hawaii's 2nd congressional district election
+| country = Hawaii
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Hawaii#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Hawaii#District 2
+| next_year = 2026
+| image_size = 150x150px
+| image1 = Rep. Jill Tokuda official photo, 118th Congress (cropped).jpg
+| nominee1 = [[Jill Tokuda]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Senator Awa Visits Marine Corps Base Hawaii (8) (cropped).jpg
+| nominee2 = [[Brenton Awa]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 300px
+| map_caption = 
+| title = U.S. Representative
+| before_election = [[Jill Tokuda]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{see also|Hawaii's 2nd congressional district}}
+The 2nd district takes in rural and suburban [[Oahu]], including [[Waimanalo Beach, Hawaii|Waimanalo Beach]], [[Kailua, Hawaii|Kailua]], [[Kaneohe, Hawaii|Kaneohe]], [[Kahuku, Hawaii|Kahuku]], [[Makaha, Hawaii|Makaha]], [[Nanakuli, Hawaii|Nanakuli]], as well as encompassing all the other islands of Hawaii; taking in the counties of [[Hawaii County, Hawaii|Hawaii]], [[Kalawao County, Hawaii|Kalawao]], [[Kauaʻi County, Hawaii|Kauaʻi]], and [[Maui County, Hawaii|Maui]]. The incumbent is Democrat [[Jill Tokuda]], who was re-elected with 66.5% of the vote in 2024.<ref name="HPVT" />
+
+===Democratic primary===
+==== Candidates ====
+=====Nominee=====
+*[[Jill Tokuda]], incumbent U.S. representative<ref>{{cite web|title = Statement of Candidacy - Jill Naomi Tokuda (HI-02)|url = https://docquery.fec.gov/cgi-bin/forms/H2HI02581/1848981/|website = Federal Election Commission|date = 2024-11-17|access-date = 2025-06-18}}</ref>
+
+=====Eliminated in primary=====
+*Kirill Basin<ref name=":0" />
+*Greg Guithues, veteran and technology consultant<ref name=":0" />
+*Steven King, retired teacher<ref name=":0" />
+
+==== Endorsements ====
+{{Endorsements box|title=Jill Tokuda 
+|list=
+;Statewide officials
+*[[David Ige]], former [[governor of Hawaii]] (2014–2022)<ref>{{cite web |title=Spotlight Now: Former Gov. David Ige, affordability survey, domestic violence awareness |url=https://www.hawaiinewsnow.com/2025/10/28/spotlight-now-former-gov-david-ige-weighs-local-national-issues-impacting-hawaii/ |website=hawaiinewsnow.com |access-date=9 March 2026 |language=en |date=29 October 2025}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE" />
+*[[National Education Association]]<ref name=NEA/>
+
+;Organizations
+*[[College Democrats of America]]<ref name="CDA">{{cite web|url=https://www.instagram.com/p/DX1nrXHCHck/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==|title=Our endorsements for Hawaiʻi's Congressional districts!|date=May 2, 2026|access-date=May 6, 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |url=https://jstreetpac.org/candidate/jill-tokuda/ |title=Jill Tokuda |website=J Street PAC |access-date=13 November 2025}}</ref>
+*[[National Women's Political Caucus]]<ref>{{cite web |title=Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates |archive-url=https://web.archive.org/web/20260725080628/https://nwpc.org/endorsed-candidates |archive-date=25 July 2026 |access-date=24 October 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+*[[Vote Mama]]<ref name="votemama">{{Cite web |title=Vote Mama PAC {{!}} Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-06-13 |website=Vote Mama PAC |language=en}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 19, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jill Tokuda (D)
+|$820,678
+|$733,764
+|$570,355
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web |title=2026 Election United States House - Hawaii 2nd |url=https://www.fec.gov/data/elections/house/HI/02/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 23, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change |title=Democratic primary results<ref>{{cite news |title=Hawaii Second Congressional District Primary Election Results |website=The New York Times |issn=15538095 |date=August 8, 2026 |access-date=August 9, 2026 |url=https://www.nytimes.com/interactive/2026/08/08/us/elections/results-hawaii-us-house-2-primary.html}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Jill Tokuda]] (incumbent)|votes=92,075|percentage=91.5}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Steven King|votes=3,917|percentage=3.9}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Greg Guithues|votes=3,160|percentage=3.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Kirill Basin|votes=1,530|percentage=1.5}}
+{{Election box total no change|votes=100,682|percentage=100.0}}
+{{Election box end}}
+
+===Republican primary===
+====Candidates====
+=====Nominee=====
+*[[Brenton Awa]], minority leader of the [[Hawaii Senate]] (2024–present) from the 23rd district (2022–present)<ref>{{cite news |title=Republican state senator confirms decision to run for Congress |url=https://www.hawaiinewsnow.com/2025/10/27/republican-state-senator-confirms-decision-run-congress/ |access-date=October 27, 2025 |work=[[Hawaii News Now]] |date=October 27, 2025 |language=en}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 19, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Brenton Awa (R)
+|$122,615
+|$106,514
+|$16,101
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Brenton Awa]]|votes=26,290|percentage=100.0}}
+{{Election box total no change|votes=26,290|percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+==== Candidates ====
+===== Did not qualify =====
+*Edward Codelia, realtor and candidate for [[Maui County, Hawaii|Maui]] county council in 2024<ref>{{Cite web |title=Statement of Organization|url=https://docquery.fec.gov/cgi-bin/forms/C00915462/1910658/}} August 10, 2025</ref>
+*[[Randall Terry]], [[United States anti-abortion movement|anti-abortion]] activist, [[Constitution Party (United States)|Constitution Party]] nominee for president in [[2024 United States presidential election|2024]], and [[perennial candidate]]<ref name=":0" />
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+| align=left | [[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web |title=2026 House Ratings |url=https://votes.decisiondeskhq.com/forecast/2026/house |publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+| align=left | [[The Cook Political Report]]<ref name="Cook Initial"/>
+| {{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+| align=left | [[Inside Elections]]<ref name="IE Initial"/>
+| {{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left | [[Sabato's Crystal Ball]]<ref name="Sabato's Crystal Ball">{{Cite web |title=2026 House |url=https://centerforpolitics.org/crystalball/2026-house/ |website = Sabato's Crystal Ball|access-date= July 15, 2025|language=en-US}}</ref>
+| {{USRaceRating|Safe|D}}
+|July 15, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver"/>
+| {{US political race rating|Solid|D|}}
+|August 20, 2026
+|}
+
+== Notes ==
+{{notelist}}'''Partisan clients'''
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites for 1st district candidates'''
+* [https://berningforcongress.com/ Nathan Berning (I)]
+* [https://edcase.com/ Ed Case (D)]
+* [https://www.jordanforhawaii.com/ Jordan Conley (G)]
+* [https://lam4aloha.com/ Adriel Lam (R)]
+
+'''Official campaign websites for 2nd district candidates'''
+* [https://www.votebrentonawa.com/ Brenton Awa (R)]
+* [https://www.tokudaforhawaii.com/ Jill Tokuda (D)]
+* [https://www.codeliaforcongress.com/ Edward A. Codelia (NP)]
+{{2026 United States elections}}
+{{Elections in Hawaii footer}}
+
+[[Category:2026 United States House of Representatives elections|Hawaii]]
+[[Category:2026 elections in Hawaii|United States House]]
+[[Category:United States House of Representatives elections in Hawaii]]

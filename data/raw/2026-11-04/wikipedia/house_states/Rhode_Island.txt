@@ -1,0 +1,446 @@
+{{short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}{{Distinguish|2026 Rhode Island House of Representatives election}}
+{{Use mdy dates|date=February 2025}}
+{{use American English|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives elections in Rhode Island
+| country = Rhode Island
+| type = legislative
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Rhode Island
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Rhode Island
+| next_year = 2028
+| seats_for_election = Both Rhode Island seats to the [[United States House of Representatives]]
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| last_election1 = 2
+| seats1 = 2
+| party2 = Republican Party (United States)
+| last_election2 = 0
+| seats2 = 0
+}}
+{{ElectionsRI}}
+[[Elections]] will be held on November 3, 2026, to elect the two [[U.S. representative]]s from the state of [[Rhode Island]], one from both of the state's [[Rhode Island's congressional districts|congressional districts]]. [[Primary elections]] took place on September 9, 2026.<ref>{{Cite web|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|date=May 9, 2025|publisher=[[National Conference of State Legislatures]]|access-date=August 5, 2025}}</ref>
+{{Horizontal TOC|nonum=yes|limit=2}}
+
+==District 1==
+{{Infobox election
+| election_name = 2026 Rhode Island's 1st congressional district election
+| country = Rhode Island
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Rhode Island#District 1
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Rhode Island#District 1
+| next_year = 2028
+| image_size = x150px
+| image1 = Gabe Amo 118th Cong (cropped).jpg
+| nominee1 = [[Gabe Amo]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Kellie Keenan
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption =  
+| title = U.S. representative
+| before_election = [[Gabe Amo]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party =  
+}}
+{{see also|Rhode Island's 1st congressional district}}
+The 1st district encompasses the eastern portion of the state, including [[Pawtucket, Rhode Island|Pawtucket]], [[Woonsocket, Rhode Island|Woonsocket]], [[Newport, Rhode Island|Newport]], and much of [[Providence, Rhode Island|Providence]]. The incumbent is Democrat [[Gabe Amo]], who was re-elected with 63.0% of the vote in 2024.<ref name="HPVT">{{cite web|url=https://www.cookpolitical.com/vote-tracker/2024/house|title=2024 House Vote Tracker|access-date=February 26, 2025|website=[[The Cook Political Report]]}}</ref>
+
+===Democratic primary===
+====Nominee====
+*[[Gabe Amo]], incumbent U.S. representative (2023–present)<ref name="RISOS">{{cite web|title=Welcome to your Voter Information Center|url=https://vote.sos.ri.gov/Candidates/CandidateSearch|publisher=[[Rhode Island Secretary of State]]|access-date=June 28, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Gabe Amo|list=;Political parties
+*[[Rhode Island Democratic Party]]<ref name="RIDems">{{cite web|last=Lavin|first=Nancy|date=June 22, 2026|title=A party divided: RI Dems convention split leaves no endorsements for governor, LG and AG|url=https://rhodeislandcurrent.com/2026/06/22/a-party-divided-ri-dems-convention-split-leaves-no-endorsements-for-governor-lg-and-ag/|publisher=[[Rhode Island Current]]|access-date=August 19, 2026}}</ref>
+;Labor unions
+*[[National Education Association]] Rhode Island<ref name="NEARI">{{cite web|last=Mandeville|first=Stephanie|date=July 29, 2026|title=NEARI Endorses McKee|url=https://www.neari.org/about-neari/media-center/press-releases/neari-endorses-mckee|publisher=[[National Education Association]] Rhode Island|access-date=August 19, 2026}}</ref>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC">{{Cite web|title=AIPAC Political Portal|url=https://candidates.aipacpac.org/page/featured/|access-date=March 13, 2026|publisher=[[AIPAC]]}}</ref>
+*[[J Street]]<ref>{{cite web|url=https://jstreetpac.org/candidate/gabe-amo/|title=Gabe Amo|publisher=[[J Street]] PAC|access-date=November 13, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDem"/>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA">{{Cite web|title=Candidates {{!}} JAC|url=https://www.jacpac.org/jac-candidates|publisher=[[Joint Action Committee for Political Affairs]]|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web|title=2026 Planned Parenthood Action Fund Endorsed Candidates|url=https://www.plannedparenthoodaction.org/endorsements|publisher=[[Planned Parenthood Action Fund]]|access-date=April 8, 2026}}</ref>
+*[[Population Connection]]<ref>{{cite web|title=2026 Endorsements|url=https://www.populationconnectionaction.org/vote/2026-endorsements/|publisher=[[Population Connection]] Action Fund|access-date=November 13, 2025}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+!colspan=4|Campaign finance reports as of March 31, 2026
+|-style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Gabe Amo (D)
+|$1,158,839
+|$540,891
+|$1,552,594
+|-
+!colspan="4"|<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web|title=2026 Election United States House - Rhode Island 1st|url=https://www.fec.gov/data/elections/house/RI/01/2026/|publisher=[[Federal Election Commission]]|access-date=March 7, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Gabe Amo]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 56,255
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 56,255
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Kellie Keenan, entrepreneur<ref name="RISOS"/>
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Kellie Keenan
+ | votes= 7,155
+ | percentage= 100.0
+}}
+{{Election box total no change
+ | votes= 7,155
+ | percentage=100.0}}
+{{Election box end}}
+
+===Independents===
+====Declared====
+*Pedro DeSouza, small business owner<ref name="RISOS"/>
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref name="Cook Initial">{{cite web|title=2026 CPR House Race Ratings|url=https://www.cookpolitical.com/ratings/house-race-ratings|publisher=Cook Political Report|access-date=February 26, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="Decision Desk HQ">{{cite web|title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house|publisher=Decision Desk HQ|access-date=July 15, 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref name="IE Initial">{{cite web|title=2026 House Ratings|url=https://insideelections.com/ratings/house|website=Inside Elections}}</ref>
+|{{USRaceRating|Solid|D}}
+|March 7, 2025 
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball">{{Cite web|title=2026 House|url=https://centerforpolitics.org/crystalball/2026-house/|website=Sabato's Crystal Ball|access-date= August 14, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|style="text-align:left;"|''[[Silver Bulletin]]''<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 23, 2026
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:75px;"| Gabe<br />Amo (D)
+! style="width:75px;"| Kellie<br />Keenan (R)
+! style="width:75px;"| Pedro<br />DeSouza (I)
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref  name=ECWPRI>{{cite web |title=12 News/Emerson College Polls Results: October 2026 |url=https://www.wpri.com/12-news-emerson-college-poll-results-october-2026/#us-house-ri-01 |publisher=[[WPRI-TV]] |access-date=October 14, 2026}}</ref>
+|October 8–11, 2026
+|394 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''54%'''
+|26%
+|6%
+|14%
+|-
+|style="text-align:left;"|Embold Research<ref  name=SRU>{{cite web |title=October 2026 Survey Report |url=https://salve.edu/documents/pell-center-vov-october-2026-report |publisher=[[Salve Regina University]] |access-date=October 20, 2026}}</ref>{{efn-ua|name=PellCenter| Poll sponsored by [[Pell Center for International Relations and Public Policy]].}}
+|October 5–8, 2026
+|363 (LV)
+|—
+|{{party shading/Democratic}}|'''52%'''
+|33%
+|4%
+|10%
+|}
+
+==District 2==
+{{Infobox election
+| election_name = 2026 Rhode Island's 2nd congressional district election
+| country = Rhode Island
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives elections in Rhode Island#District 2
+| previous_year = 2024
+| next_election = 2028 United States House of Representatives elections in Rhode Island#District 2
+| next_year = 2028
+| image_size = x150px
+| image1 = Seth Magaziner (cropped).jpg
+| nominee1 = [[Seth Magaziner]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Victor Mellor
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption =  
+| title = U.S. representative
+| before_election = [[Seth Magaziner]]
+| before_party = Democratic Party (US)
+| after_election = 
+| after_party =  
+}}
+{{see also|Rhode Island's 2nd congressional district}}
+The 2nd district encompasses the western portion of the state, including [[Cranston, Rhode Island|Cranston]], [[Warwick, Rhode Island|Warwick]], and portions of [[Providence, Rhode Island|Providence]]. The incumbent is Democrat [[Seth Magaziner]], who was re-elected with 58.2% of the vote in 2024.<ref name="HPVT"/>
+
+===Democratic primary===
+====Nominee====
+*[[Seth Magaziner]], incumbent U.S. representative (2023–present)<ref name="SkolyExploring">{{cite news |last1=Baccari |first1=Raymond |title=Oral surgeon Dr. Stephen Skoly exploring run against Magaziner in 2026 |url=https://www.wpri.com/news/elections/oral-surgeon-dr-stephen-skoly-exploring-run-against-magaziner-in-2026/ |access-date=July 2, 2025 |work=[[WPRI-TV]] |date=July 2, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Seth Magaziner|list=;Political parties
+*[[Rhode Island Democratic Party]]<ref name="RIDems"/>
+;Labor unions
+*[[National Education Association]] Rhode Island<ref name="NEARI"/>
+;Organizations
+*[[AIPAC]]<ref name="AIPAC"/>
+*[[J Street]]<ref>{{cite web|title=Seth Magaziner|url=https://jstreetpac.org/candidate/seth-magaziner/|publisher=[[J Street]] PAC|access-date=November 13, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref name="JDem">{{cite web|title=Jewish Dems Endorsed Candidates|url=https://jewishdems.org/endorsements/|publisher=[[Jewish Democratic Council of America]]|access-date=November 13, 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref name="JACPA"/>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+!colspan=4|Campaign finance reports as of March 31, 2026
+|-style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Seth Magaziner (D)
+|$1,035,480
+|$419,690
+|$1,492,754
+|-
+!colspan="4"|<small>Source: [[Federal Election Commission]]<ref name="FEC2">{{cite web|title=2026 Election United States House - Rhode Island 2nd|url=https://www.fec.gov/data/elections/house/RI/02/2026/|publisher=[[Federal Election Commission]]|access-date=March 7, 2026}}</ref></small>
+|}
+
+====Results====
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Seth Magaziner]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 55,135
+| percentage = 100.0
+}}
+{{Election box total no change
+| votes = 55,135
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Republican primary===
+====Nominee====
+*Victor Mellor, businessman and [[Foreign Agents Registration Act|registered foreign agent]] for [[Cuba]]<ref>{{Cite web |date=2026-03-25 |title=Second Republican enters race for Rhode Island’s 2nd Congressional District |url=https://www.oceanstatemedia.org/politics/elections/second-republican-enters-race-for-rhode-islands-2nd-congressional-district |access-date=2026-03-28 |website=Ocean State Media |language=en-US}}</ref><ref>{{Cite web |last=Gregg |first=Katherine |date=July 2, 2026 |title=RI GOP candidate Vic Mellor registered as foreign agent for Cuba |url=https://www.providencejournal.com/story/news/politics/government/2026/07/02/vic-mellor-cuba-foreign-agent-raul-castro-rhode-island-congressional-candidate/90782984007/ |url-status=live |access-date=July 3, 2026 |website=[[The Providence Journal]] |language=en-US}}</ref><ref>{{Cite web |last=Perticone |first=Joe |date=July 1, 2026 |title=Meet the GOP House Candidate Moonlighting as a Communist Party Agent |url=https://www.thebulwark.com/p/meet-the-gop-house-candidate-moonlighting |url-status=live |archive-url=https://web.archive.org/web/20260701193747/https://www.thebulwark.com/p/meet-the-gop-house-candidate-moonlighting |archive-date=July 1, 2026 |access-date=September 9, 2026 |publisher=[[The Bulwark (website)|The Bulwark]] |language=en-US}}</ref>
+====Eliminated in primary====
+*Stephen Skoly, physician<ref>{{cite news |last1=Thomas |first1=Nancy |title=Dr. Stephen Skoly to pursue run for Rhode Island Congressional seat held by Rep. Seth Magaziner |url=https://rinewstoday.com/dr-stephen-skoly-to-pursue-run-for-rhode-island-congressional-seat-held-by-rep-seth-magaziner/ |access-date=January 21, 2026 |work=Rhode Island News Today |date=January 21, 2026}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Victor Mellor|list=;Executive branch officials
+*[[Michael Flynn]], former [[United States National Security Advisor|national security advisor]] (2017)<ref>{{cite news|last=Gregg|first=Katherine|date=February 18, 2026|title=RI native Mike Flynn to return to support this congressional candidate.|url=https://www.providencejournal.com/story/news/politics/2026/02/18/ri-native-mike-flynn-returns-to-ri-to-campaign-for-congressional-candidate/88738732007/|work=[[The Providence Journal]]|access-date=March 10, 2026}}</ref>}}
+{{Endorsements box|title=Stephen Skoly|list=;State legislators
+*[[Gordon Rogers]], [[Rhode Island Senate|Senate minority whip]] (2022–present) from SD–21 (2019–present)<ref name="Debate">{{Cite web|last=Castro|first=Alexander|date=August 12, 2026|title=Mellor declines 'stunt' RI GOP debate with Skoly in CD2 primary|url=https://rhodeislandcurrent.com/2026/08/11/mellor-declines-ri-gop-debate-with-skoly-in-cd2-primary/|work=[[Rhode Island Current]]|access-date=August 21, 2026}}</ref>
+;Political parties
+*[[Rhode Island Republican Party]]<ref name="Debate"/>
+;Labor unions
+*Rhode Island State [[Fraternal Order of Police]]<ref name="Debate"/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+!colspan=4|Campaign finance reports as of March 31, 2026
+|-style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Victor Mellor (R)
+|$606,486
+|$374,065
+|$232,420
+|-
+|{{party shading/Republican}}|Stephen Skoly (R)
+|$107,585
+|$5,236
+|$102,348
+|-
+!colspan="4"|<small>Source: [[Federal Election Commission]]<ref name="FEC2"/></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Victor<br />Mellor
+! style="width:75px;"| Stephen<br />Skoly
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Embold Research<ref name="SVUAug2026">{{Cite web|url=https://salve.edu/documents/pell-center-vov-august-2026-report|title=August 2026 Survey Report|first=Katie|last=Sonder|website=[[Salve Regina University]]|date=August 18, 2026|access-date=August 18, 2026}}</ref>{{Efn-ua|name=SVU|Poll sponsored by [[Pell Center for International Relations and Public Policy]]}}
+|August 3–11, 2026
+|— (LV)
+|—
+|22%
+|{{party shading/Republican}}|'''29%'''
+|1%{{Efn|"Write-in" with 1%}}
+|{{party shading/Undecided}}|'''48%'''
+|}
+
+====Results====
+[[File:2026 Rhode Island's 2nd congressional district Republican primary election results by municipality.svg|thumb|120px|Primary results by municipality:
+{{collapsible list
+| title = {{legend|#E27F7F|Mellor}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Skoly}}
+|{{legend|#FF9A50|50–60%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Victor Mellor
+ | votes= 8,837
+ | percentage= 58.1
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Stephen Skoly
+ | votes= 6,380
+ | percentage= 41.9
+}}
+{{Election box total no change
+ | votes= 15,217
+ | percentage=100.0}}
+{{Election box end}}
+
+===General election===
+====Predictions====
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref name="Cook Initial"/>
+|{{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="Decision Desk HQ"/>
+|{{USRaceRating|Safe|D}}
+|September 8, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref name="IE Initial"/>
+|{{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref name="Sabato's Crystal Ball"/>
+|{{USRaceRating|Safe|D}}
+|August 14, 2025
+|-
+|style="text-align: left;"|''[[Silver Bulletin]]''<ref name=":Silver"/>
+|{{USRaceRating|Solid|D|}}
+|August 23, 2026
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:75px;"| Seth<br />Magaziner (D)
+! style="width:75px;"| Vic<br />Mellor (R)
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=ECWPRI/>
+|October 8–11, 2026
+|406 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''55%'''
+|39%
+|6%
+|-
+|style="text-align:left;"|Embold Research<ref name=SRU/>{{efn-ua|name=PellCenter}}
+|October 5–8, 2026
+|417 (LV)
+|—
+|{{party shading/Democratic}}|'''52%'''
+|39%
+|7%
+|}
+
+== Notes ==
+{{notelist}}
+'''Partisan and media clients'''<br/>
+{{Notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites for 1st district candidates
+*[https://www.gabeamo.com/ Gabe Amo (D)]
+*[https://pedroforri.com/ Pedro DeSouza (I)]
+*[https://www.kelliekeenanforcongressri.com/ Kellie Keenan (R)]
+;Official campaign websites for 2nd district candidates
+*[https://sethmagaziner.com/ Seth Magaziner (D)]
+*[https://vicmellor.com/ Victor Mellor (R)]
+{{2026 United States elections}}
+[[Category:2026 United States House of Representatives elections|Rhode Island]]
+[[Category:2026 elections in Rhode Island|United States House]]
+[[Category:United States House of Representatives elections in Rhode Island]]

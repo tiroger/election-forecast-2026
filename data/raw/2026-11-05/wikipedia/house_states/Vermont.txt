@@ -1,0 +1,408 @@
+{{Short description|none}}
+{{for|related races|2026 United States House of Representatives elections}}
+{{Distinguish|2026 Vermont House of Representatives election}}
+{{Use American English|date=February 2026}}
+{{use mdy dates|date=February 2025}}
+{{Infobox election
+| election_name = 2026 United States House of Representatives election in Vermont's at-large district
+| country = Vermont
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 United States House of Representatives election in Vermont
+| previous_year = 2024
+| election_date = November 3, 2026
+| next_election = 2028 United States House of Representatives election in Vermont
+| next_year = ''2028''
+| turnout = 
+| 1blank = First<br>round
+
+| image1 = Rep. Becca Balint - 118th Congress (Cropped).jpg
+| candidate1 = [[Becca Balint]]
+| party1 = Democratic Party (United States)
+| 1data1 = 
+| 2data1 =
+
+| image2 = Gerald Malloy for US Senate Vermont (cropped1).jpg
+| candidate2 = Gerald Malloy
+| party2 = Republican Party (United States)
+| 1data2 = 
+| 2data2 =
+
+| map_image = 
+| map_size = 325px
+| map_caption =
+
+| title = U.S. representative
+| before_election = [[Becca Balint]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsVT}}
+The '''2026 United States House of Representatives election in Vermont''' will be held on November 3, 2026, to elect a member of the [[United States House of Representatives]] to represent [[Vermont]]'s [[Vermont's at-large congressional district|at-large district]]. [[Democratic Party (United States)|Democratic]] incumbent [[Becca Balint]] is seeking a third term. She is being challenged by [[Republican Party (United States)|Republican]] former military officer Gerald Malloy.
+
+[[Primary elections]] took place on August 11, 2026.<ref>{{Cite web|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website=[[National Conference of State Legislatures]]|date=May 9, 2025|access-date=August 5, 2025}}</ref> In the Democratic primary, Balint secured 98.4% of the vote against [[write-in]] opposition. Malloy defeated [[perennial candidate]] Mark Coester in the Republican primary with 76.3% of the vote.
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Becca Balint]], incumbent U.S. representative (2023–present)<ref>{{cite news|last=Robinson|first=Shaun|date=May 7, 2026|title=Vermont's U.S. Rep. Becca Balint announces reelection campaign|url=https://vtdigger.org/2026/05/07/vermonts-u-s-rep-becca-balint-announces-reelection-campaign/|publisher=[[VTDigger]]|access-date=May 11, 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Becca Balint
+|list=
+;Individuals
+*[[Ms. Rachel]], [[YouTuber]] and children's educator<ref>{{Cite news |last=Corbett |first=Jessica |date=July 31, 2026 |title=Ms. Rachel Signals Support for El-Sayed, Jackson, McKinney, and Other Candidates Who 'Care About All Kids' |url=https://www.commondreams.org/news/progressives-running-for-congress-2026 |work=[[Common Dreams]] |access-date=August 1, 2026 |language=en}}</ref>
+
+;Organizations
+*[[Christopher Street Project]]<ref>{{cite web |title=Champions |url=https://christopherstreetproject.org/champions/ |website=Christopher Street Project |access-date=27 November 2025}}</ref>
+*[[Congressional Freethought Caucus|Center for Freethought Equality]]<ref>{{cite web |title=2026 Endorsements {{!}} CFE Members |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality}}</ref>
+*[[End Citizens United]]<ref>{{cite web |url=https://www.endcitizensunited.org/end-citizens-united-endorses-20-no-corporate-pac-incumbents-for-2026-midterms |title=End Citizens United Endorses 19 No Corporate PAC Incumbents for 2026 Midterms |website=endcitizensunited.org |date=February 4, 2026 |access-date=February 10, 2026}}</ref>
+*[[Equality PAC]]<ref>{{cite web |title=2026 Endorsed LGBTQ Candidates |url=https://lgbtequalitypac.org/endorsements/ |website=Equality PAC |access-date=16 November 2025}}</ref>
+*[[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign Endorses a Slate of Pro-Equality Members and Candidates Up for Election in Key Competitive U.S. House Districts|url=https://www.hrc.org/press-releases/human-rights-campaign-endorses-a-slate-of-pro-equality-members-and-candidates-up-for-election-in-key-competitive-u-s-house-districts|date=June 24, 2026|website=Human Rights Campaign}}</ref>
+*[[J Street]]<ref>{{cite web |title=Candidates |url=https://jstreetpac.org/candidates/ |website=JStreetPAC |access-date=16 November 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund}}</ref>
+*[[Progressive Democrats of America]]<ref>{{cite web |title=ENDORSEMENTS |url=https://pdamerica.org/endorsements/ |website=Progressive Democrats of America |access-date=16 November 2025 |date=22 February 2021}}</ref>
+*[[Progressive Change Campaign Committee]]<ref>{{cite web |title=Join the Bold Progressive Movement! |url=https://www.boldprogressives.org/candidates/ |website=Progressive Change Campaign Committee (BoldProgressives.org) |access-date=26 November 2025}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsed Candidates |url=https://www.trackaipac.com/endorsements |website=Track AIPAC}}</ref>
+*[[Vote Mama]]<ref name="votemama">{{Cite web |title=Vote Mama PAC {{!}} Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-06-13 |website=Vote Mama PAC |language=en}}</ref>
+
+;Newspapers
+*''[[Addison County Independent]]'' ''(Democratic primary only)''<ref name="ACI">{{cite web |last1=Lynn |first1=Angelo |title=Editorial Endorsements for Aug. 11 Primary |url=https://www.addisonindependent.com/2026/07/30/editorial-endorsements-for-aug-11-primary/ |website=Addison County Independent |access-date=5 August 2026 |date=July 30, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Becca Balint (D)
+|$738,567
+|$367,647
+|$516,681
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+===Results===
+{{Election box begin no change
+|title = Democratic primary results<ref name="Primary">{{Cite web|date=August 11, 2026|title=Vermont Election Night Results|url=https://electionresults.vermont.gov/|access-date=August 18, 2026|publisher=[[Vermont Secretary of State]]}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Becca Balint]] (incumbent)
+| votes = 79,679
+| percentage = 98.4
+}}
+{{Election box write-in with party link no change
+| votes = 1,272
+| percentage = 1.6
+}}
+{{Election box total no change
+| votes = 80,951
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*Gerald Malloy, retired military officer, and nominee for U.S. Senate in [[2022 United States Senate election in Vermont|2022]] and [[2024 United States Senate election in Vermont|2024]]<ref>{{cite web |title=Malloy enters race for US House|url=https://www.wcax.com/2026/05/28/malloy-enters-race-us-house/ |access-date=May 29, 2026 |work=WCAX |date=May 28, 2026}}</ref>
+
+==== Eliminated in primary ====
+*Mark Coester, truck driver and perennial candidate<ref>{{cite web |title=Coester announces 2026 bid for Congress |url=https://vermontdailychronicle.com/coester-announces-2026-bid-for-congress/ |access-date=November 30, 2025 |work=Vermont Daily Chronicle |date=June 27, 2025}}</ref>
+
+==== Did not file ====
+*Gavin Solomon, businessman from New York<ref>{{Cite web |title=Statement of Candidacy |url=https://docquery.fec.gov/cgi-bin/forms/H6VT01069/1912918/}} August 22, 2025</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Gerald Malloy
+|list=
+;Newspapers
+*''[[Addison County Independent]]'' ''(Republican primary only)''<ref name="ACI" />
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Mark Coester (R)
+|$32,687
+|$14,066
+|$9,550
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC"/></small>
+|}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" |Mark<br/>Coester
+! style="width:60px;" |Gerald<br/>Malloy
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJuly>{{cite web |last1=McKinley |first1=Sean |last2=Azem |first2=Zachary |last3=Andrew |first3=Smith |last4=Keirns |first4=Tracy |title=Vermont Divided on Scott's Job Performance as VT Dems Undecided on Candidate to Face Him |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1981&context=survey_center_polls |publisher=[[University of New Hampshire]] |access-date=July 21, 2026 |date=July 21, 2026}}</ref>
+|July 15–20, 2026
+|220 (LV)
+|±&nbsp;6.6%
+|6%
+|{{party shading/Republican}}|'''58%'''
+|4%{{efn|"Write in someone else" at 4%}}
+|32%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune"/>
+|June 18–23, 2026
+|237 (LV)
+|±&nbsp;6.4%
+|19%
+|{{party shading/Republican}}|'''48%'''
+|1%{{efn|"Write in someone else" at 1%}}
+|32%
+|}
+
+===Results===
+{{Election box begin no change
+|title = Republican primary results<ref name="Primary"/>
+}}
+{{Election box winning candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Gerald Malloy
+| votes = 15,662
+| percentage = 76.3
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Mark Coester
+| votes = 4,523
+| percentage = 22.0
+}}
+{{Election box write-in with party link no change
+| votes = 344
+| percentage = 1.7
+}}
+{{Election box total no change
+| votes = 20,529
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Independent and third party candidates ==
+*Phoenix Altair (Independent)<ref name=VT2026>{{cite news |title=General Election Candidates |url=https://sos.vermont.gov/elections/election-info-resources/candidates/ |publisher=Vermont Secretary of State |date=May 13, 2026}}</ref>
+*Andrew Giusto (Unity Party; ''write-in'')<ref>{{Cite web |title=GIUSTO, ANDREWS FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1889537|url=https://docquery.fec.gov/cgi-bin/forms/H6VT01051/1889537/}}</ref>
+*Adam Ortiz (Independent), window installation contractor and candidate for U.S. House in [[2022 United States House of Representatives election in Vermont|2022]] and [[2024 United States House of Representatives election in Vermont|2024]]<ref name=VT2026/>
+*Suzanne "Suz" Seymour (Independent)<ref name=VT2026/>
+*Ryan Walton (Independent)<ref name=VT2026/>
+
+==General election==
+===Predictions===
+{| class="wikitable" style="text-align:center"
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR House Race Ratings|url=https://www.cookpolitical.com/ratings/house-race-ratings|website=[[Cook Political Report]]|access-date=February 6, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|February 6, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref>{{cite web|title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house|publisher=[[Decision Desk HQ]]|access-date=July 15, 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|July 14, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{cite web|title=2026 House Ratings|url=https://insideelections.com/ratings/house|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|March 7, 2025
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{Cite web|title=2026 House|url=https://centerforpolitics.org/crystalball/2026-house/|website=Sabato's Crystal Ball|access-date= August 14, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|August 14, 2025
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title = Becca Balint (D)
+| list =
+;Labor unions
+*[[National Education Association]]<ref name="NEA">{{cite web |title=Our Recommended Candidates |url=https://educationvotes.nea.org/2026-election/our-recommended-candidates/ |website=Education Votes |access-date=October 31, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 23, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Becca Balint (D)
+|$956,339
+|$475,768
+|$626,332
+|-
+|{{party shading/Republican}}| Gerald Malloy (R)
+|$58,280
+|$38,573
+|$19,707
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{#invoke:cite|web |title=2026 Election United States House - Vermont|url=https://www.fec.gov/data/elections/house/VT/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 11, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Becca<br/>Balint (D)
+! style="width:75px;" |Gerald<br/>Malloy (R)
+! Other
+! Undecided
+|-
+|rowspan=2 style="text-align:left;"|Braun Research/[[Vermont Public]]<ref>{{cite web |title=Vermont Public 2026 Poll: Full results |url=https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026|website=Vermont Public|date=September 28, 2026|access-date=September 28, 2026}}</ref>
+|rowspan=2|September 10–21, 2026
+|817 (RV)
+|rowspan=2|±&nbsp;3.4%
+|{{party shading/Democratic}}|'''43%'''
+|28%
+|7%{{efn|"None/Write-in/Other" with 2%; Adam Ortiz (I) with 2%; Suzanne Seymour (I) with 2%; Ryan Walton (I) with 1%; Phoenix Altair (I) with 0%}}
+|22%
+|-
+|732 (LV)
+|{{party shading/Democratic}}|'''47%'''
+|30%
+|5%{{efn|Suzanne Seymour (I) with 2%; "None/Write-in/Other" with 1%; Adam Ortiz (I) with 1%; Ryan Walton (I) with 1%; Phoenix Altair (I) with 0%}}
+|18%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{Cite web|url=https://scholars.unh.edu/survey_center_polls/1006/ |title=Partisan Headwinds Hamper Scott in Race With Janoo for Governor of Vermont 9/24/2026 |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 25, 2026}}</ref>
+|September 17–21, 2026
+|835 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}}|'''66%'''
+|30%
+|1%{{Efn|name=|Suzanne Seymour (I) with 1%}}
+|3%
+|-
+|-style="background:lightyellow;"
+|style="border-right-style:hidden;background:lightyellow;"|
+|style="border-right-style:hidden;"|August 11, 2026
+|colspan="7"|Primary elections
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJuly/>
+|July 15–20, 2026
+|954 (LV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''63%'''
+|25%
+|3%{{Efn|name=2%1%|Adam Ortiz (I) with 2%; "Another candidate" with 1%}}
+|9%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune">{{cite web |title=SCOTT SEES JOB APPROVAL FALL TO NEW LOW IN VERMONT BUT HOLDS EARLY LEAD OVER PROSPECTIVE DEM CHALLENGERS |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1969&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns|website=UNH Scholars Repository|date=June 30, 2026|access-date=June 30, 2026}}</ref>
+|June 18–23, 2026
+|887 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''57%'''
+|26%
+|1%{{Efn|name=Ortiz1|Adam Ortiz (I) with 1%}}
+|16%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+;Becca Balint vs. Mark Coester
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Becca<br/>Balint (D)
+! style="width:75px;" |Mark<br/>Coester (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJuly/>
+|July 15–20, 2026
+|954 (LV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''64%'''
+|25%
+|3%{{Efn|name=2%1%}}
+|8%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune"/>
+|June 18–23, 2026
+|887 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''57%'''
+|26%
+|1%{{Efn|name=Ortiz1}}
+|15%
+|}
+{{hidden end}}
+
+===Result===
+{{Election box begin|title=2026 Vermont's at-large congressional district election}}
+{{Election box candidate with party link
+| party = Democratic Party (United States)
+| candidate = [[Becca Balint]] (incumbent)
+| votes = 
+| percentage = 
+}}
+{{Election box candidate with party link
+| party =Republican Party (United States)
+| candidate = Gerald Malloy
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box write-in with party link no change
+|votes      = 
+|percentage = 
+}}
+{{Election box total
+| votes =
+| percentage = 
+}}
+{{Election box end}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://beccabalint.com/ Becca Balint (D)]
+*[https://www.deploymalloy.com/ Gerald Malloy (R)]
+*[https://ruokvt.com/ Suzanne Seymour (I)]
+*[https://www.waltonforvermont.com/ Ryan Walton (I)]
+
+{{2026 United States elections}}
+
+[[Category:2026 United States House of Representatives elections|Vermont]]
+[[Category:2026 elections in Vermont|United States House of Representatives]]
+[[Category:United States House of Representatives elections in Vermont]]
